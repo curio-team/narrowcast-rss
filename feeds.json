@@ -1,0 +1,27 @@
+[
+    {
+        "url": "https://techcrunch.com/feed",
+        "localUrl": "rss/techcrunch.xml",
+        "title": "TechCrunch",
+        "logo": "images/techcrunch.png",
+        "showTitle": true,
+        "noImages": true,
+        "replace": {
+            "[&#8230;]": "..."
+        },
+        "replaceToFooter": "© 2024 TechCrunch. All rights reserved. For personal use only."
+    },
+    {
+        "url": "https://tweakers.net/feeds/mixed.xml/direct",
+        "localUrl": "rss/tweakers.xml",
+        "title": "Tweakers",
+        "logo": "images/tweakers.svg",
+        "noImages": true
+    },
+    {
+        "url": "https://www.wired.com/feed/rss",
+        "localUrl": "rss/wired.xml",
+        "title": "Wired",
+        "logo": "images/wired.png"
+    }
+]

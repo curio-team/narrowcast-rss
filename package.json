@@ -1,0 +1,19 @@
+{
+  "name": "narrowcast-rss",
+  "version": "0.9.0",
+  "description": "Fetch RSS feeds to this repo, for showing on GitHub pages",
+  "main": "tools/fetch-feeds.js",
+  "scripts": {
+    "fetch": "node tools/fetch-feeds.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curio-team/narrowcast-rss.git"
+  },
+  "author": "curio-team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/curio-team/narrowcast-rss/issues"
+  },
+  "homepage": "https://github.com/curio-team/narrowcast-rss#readme"
+}

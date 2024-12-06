@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>TechCrunch</title>
+	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://techcrunch.com/</link>
+	<description>Startup and Technology News</description>
+	<lastBuildDate>Fri, 06 Dec 2024 09:30:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32</url>
+	<title>TechCrunch</title>
+	<link>https://techcrunch.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Uber and WeRide launch robotaxi service in Abu Dhabi</title>
+		<link>https://techcrunch.com/2024/12/06/uber-and-weride-launch-robotaxi-service-in-abu-dhabi/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 08:08:38 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[autonomous vehicles]]></category>
+		<category><![CDATA[robotaxis]]></category>
+		<category><![CDATA[Uber]]></category>
+		<category><![CDATA[weride]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2926713</guid>
+
+					<description><![CDATA[<p>Ride-hail giant Uber and Chinese autonomous vehicle technology company WeRide have launched a commercial robotaxi service in Abu Dhabi. The launch marks Uber’s first international autonomous vehicle offering.  Uber has been snatching up partnerships with autonomous vehicle companies across sectors, including ride-hail, delivery, and trucking. Other partners include Wayve, Serve Robotics, Aurora Innovation, Waabi, and [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fly Ventures sets its eyes on technical founders with a fresh €80M fund</title>
+		<link>https://techcrunch.com/2024/12/06/fly-ventures-sets-its-eyes-on-technical-founders-with-a-fresh-e80m-fund/</link>
+		
+		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 08:01:00 +0000</pubDate>
+				<category><![CDATA[Venture]]></category>
+		<category><![CDATA[VC]]></category>
+		<category><![CDATA[Fly Ventures]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2926577</guid>
+
+					<description><![CDATA[<p>Fly Ventures, the Berlin-based VC that invests in seed-stage European startups within enterprise and deep tech, has launched its third fund at €80 million. The firm raised its last €53 million fund in 2020. Aiming at technical founders, the firm claims Fund III was oversubscribed and raised in a single closing. Meanwhile, the small increase [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>MobiKwik&#8217;s IPO will value it at $250M, 73% less than its last private valuation</title>
+		<link>https://techcrunch.com/2024/12/05/mobikwik-slashes-valuation-by-73-in-india-ipo/</link>
+		
+		<dc:creator><![CDATA[Manish Singh]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 06:33:36 +0000</pubDate>
+				<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[IPOs]]></category>
+		<category><![CDATA[Mobikwik]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2926885</guid>
+
+					<description><![CDATA[<p>MobiKwik, an Indian financial services startup, has cut the size of its planned IPO for the third time, setting a price band of ₹265-₹279 ($3.1-$3.3) that values it at $250 million — down sharply from its last private valuation of $924 million in 2021. The Gurugram-based fintech, backed by Peak XV and ADIA, is seeking [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>GitLab names Bill Staples as its new CEO</title>
+		<link>https://techcrunch.com/2024/12/05/gitlab-names-bill-staples-as-its-new-ceo/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 02:45:33 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Bill Staples]]></category>
+		<category><![CDATA[ceo]]></category>
+		<category><![CDATA[gitlab]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2926849</guid>
+
+					<description><![CDATA[<p>GitLab, the popular developer and security platform, has named a new CEO, Bill Staples, effective immediately. Staples, who has also been appointed to the company&#8217;s board of directors, succeeds CEO Sid Sijbrandij, who&#8217;s battling a rare form of cancer. Sijbrandij will transition to executive chair of the board. &#8220;I believe [Bill&#8217;s] passion for software, commitment [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI&#8217;s o1 model sure tries to deceive humans a lot</title>
+		<link>https://techcrunch.com/2024/12/05/openais-o1-model-sure-tries-to-deceive-humans-a-lot/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 02:15:47 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[ai safety]]></category>
+		<category><![CDATA[ai safety research]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[openai chatgpt]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2926670</guid>
+
+					<description><![CDATA[<p>OpenAI finally released the full version of o1, which gives smarter answers than GPT-4o by using additional compute to &#8220;think&#8221; about questions. However, AI safety testers found that o1&#8217;s reasoning abilities also make it try to deceive humans at a higher rate than GPT-4o — or, for that matter, leading AI models from Meta, Anthropic, [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ex-PayPal COO David Sacks is Trump&#8217;s new crypto and AI &#8216;czar&#8217;</title>
+		<link>https://techcrunch.com/2024/12/05/ex-paypal-coo-david-sacks-is-trumps-new-crypto-and-ai-czar/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 01:43:35 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[david sacks]]></category>
+		<category><![CDATA[Donald Trump]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Politics]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2926838</guid>
+
+					<description><![CDATA[<p>Incoming President Donald Trump has a new crypto and AI &#8220;czar&#8221;: ex-PayPal COO David Sacks. Trump announced Sacks&#8217; appointment Thursday in a post on Truth Social, Trump&#8217;s social networking platform. &#8220;[Sacks] will work on a legal framework so the Crypto [sic] industry has the clarity it has been asking for, and can thrive in the [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Zopa, the UK neobank, snaps up $87M at a $1B+ valuation, eschewing the IPO route</title>
+		<link>https://techcrunch.com/2024/12/05/zopa-the-uk-neobank-snaps-up-85m-at-a-1b-valuation-eschewing-the-ipo-route/</link>
+		
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 00:05:27 +0000</pubDate>
+				<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[A.P. Moller Holding]]></category>
+		<category><![CDATA[maersk]]></category>
+		<category><![CDATA[neobank]]></category>
+		<category><![CDATA[Zopa]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2926823</guid>
+
+					<description><![CDATA[<p>Some believe Klarna’s planned IPO in 2025 could set the stage for other fintech startups to go public. But with the tech IPO market still sluggish, one of the candidates hotly tipped to follow suit has instead just announced a fundraise, and its CEO says going public is “not a priority.” Zopa, the U.K. neobank [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Planet A Foods nabs $30M to make tons more cocoa-free chocolate</title>
+		<link>https://techcrunch.com/2024/12/05/planet-a-foods-nabs-30m-to-make-tons-more-cocoa-free-chocolate/</link>
+		
+		<dc:creator><![CDATA[Natasha Lomas]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2024 23:00:00 +0000</pubDate>
+				<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Burda Principal Investments]]></category>
+		<category><![CDATA[cocoa-free chocolate]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Planet A Foods]]></category>
+		<category><![CDATA[sustainable chocolate]]></category>
+		<category><![CDATA[Zintinus]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2924274</guid>
+
+					<description><![CDATA[<p>Turning sunflower seeds into sustainable, cocoa-free chocolate has netted Munich-based B2B food tech startup Planet A Foods (formerly QOA) a $30 million Series B funding round. Now, the Y Combinator alum is gearing up for industrialization, with the funds set to be deployed to scale its production capacity by around 7.5x. The round fast follows [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Uber will need to fingerprint drivers in California to transport teens</title>
+		<link>https://techcrunch.com/2024/12/05/uber-will-need-to-fingerprint-drivers-in-california-to-transport-teens/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2024 22:06:15 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[hopskipdrive]]></category>
+		<category><![CDATA[ridehail]]></category>
+		<category><![CDATA[Uber]]></category>
+		<category><![CDATA[uber for teens]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2926684</guid>
+
+					<description><![CDATA[<p>Uber has 30 days to require certain drivers to get fingerprinted if the ride-hail giant intends to continue transporting unaccompanied teens in California.&#160; The California Public Utilities Commission (CPUC) issued a ruling Thursday that requires taxi and ride-hail drivers who are carrying unaccompanied minors in the state to pass a fingerprint background check. The ruling [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Lucid Motors completes its first Gravity SUV</title>
+		<link>https://techcrunch.com/2024/12/05/lucid-motors-completes-its-first-gravity-suv/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2024 21:25:09 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[Lucid Motors]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2926688</guid>
+
+					<description><![CDATA[<p>The first Lucid Motors Gravity SUV has rolled off the company&#8217;s production line in Casa Grande, Arizona, according to a post on X. The company will now set its aim on ramping up production of the new electric vehicle and making the first deliveries — though the company is staying quiet about when it will [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Amazon CTO Werner Vogels on fighting misinformation, tech addiction, and small nuclear reactors</title>
+		<link>https://techcrunch.com/2024/12/05/amazon-cto-werner-vogels-on-fighting-misinformation-tech-addiction-and-small-nuclear-reactors/</link>
+		
+		<dc:creator><![CDATA[Frederic Lardinois]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2024 21:04:27 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[CTO]]></category>
+		<category><![CDATA[predictions]]></category>
+		<category><![CDATA[Werner Vogels]]></category>
+		<category><![CDATA[aws reinvent 2024]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2926362</guid>
+
+					<description><![CDATA[<p>In what has become a bit of an annual tradition, I sat down with Amazon CTO Werner Vogels at AWS re:Invent this week. Another annual tradition now is that Vogels, who joined Amazon in 2004, publishes a series of predictions for the next year. It&#8217;d be easy to think that this year&#8217;s predictions are all [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Amp Robotics raises $91M to build more robot-filled waste-sorting facilities</title>
+		<link>https://techcrunch.com/2024/12/05/amp-robotics-raises-91m-to-build-more-robot-filled-waste-sorting-facilities/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2024 20:23:43 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[AMP Robotics]]></category>
+		<category><![CDATA[Artificial Intelligence (AI)]]></category>
+		<category><![CDATA[Congruent Ventures]]></category>
+		<category><![CDATA[recycling]]></category>
+		<category><![CDATA[robots]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2926592</guid>
+
+					<description><![CDATA[<p>Recently, Amp Robotics changed its business model to focus on running entire facilities that sort recyclables.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI wants to pair online courses with chatbots</title>
+		<link>https://techcrunch.com/2024/12/05/openai-wants-to-pair-online-courses-with-chatbots/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2024 20:14:17 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Education]]></category>
+		<category><![CDATA[Fireside]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[GPTs]]></category>
+		<category><![CDATA[interview]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2926233</guid>
+
+					<description><![CDATA[<p>If OpenAI has its way, the next online course you take might have a chatbot component. Speaking at a fireside on Monday hosted by Coeus Collective, Siya Raj Purohit, a member of OpenAI&#8217;s go-to-market team for education, said that OpenAI might explore ways to let e-learning instructors create custom &#8220;GPTs&#8221; that tie into online curriculums. [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Elon Musk&#8217;s xAI lands $6B in new cash to fuel AI ambitions</title>
+		<link>https://techcrunch.com/2024/12/05/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2024 20:05:41 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[Funding]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[startup]]></category>
+		<category><![CDATA[xAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2922142</guid>
+
+					<description><![CDATA[<p>xAI, Elon Musk&#8217;s AI company, has raised $6 billion, according to a filing with the U.S. Securities and Exchange Commission on Thursday. Investors gave a minimum of $77,593, per the filing (97 participated, but the document doesn&#8217;t reveal their identities). The Wall Street Journal previously reported that Valor Equity Partners, Sequoia Capital, and Andreessen Horowitz [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ChatGPT: Everything you need to know about the AI-powered chatbot</title>
+		<link>https://techcrunch.com/2024/12/05/chatgpt-everything-to-know-about-the-ai-chatbot/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers, Cody Corrall, Alyssa Stringer]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2024 20:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2607630</guid>
+
+					<description><![CDATA[<p>ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to hyper-charge productivity through writing essays and code with short text prompts has evolved into a behemoth used by more than 92% of Fortune 500 companies. That growth has propelled OpenAI itself into [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Holiday app Festivitas puts Xmas lights on your Mac</title>
+		<link>https://techcrunch.com/2024/12/05/holiday-app-festivitas-puts-xmas-lights-on-your-mac/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2024 19:54:23 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Christmas]]></category>
+		<category><![CDATA[Festivitas]]></category>
+		<category><![CDATA[mac]]></category>
+		<category><![CDATA[mac apps]]></category>
+		<category><![CDATA[Xmas]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2926575</guid>
+
+					<description><![CDATA[<p>Getting into the holiday spirit but still stuck at work? A cute new macOS called Festivitas can help you decorate your Mac computer screen with twinkling, holiday lights that are strung up from your menu bar and illuminate your dock. This whimsical holiday treat was dreamed up by software developer Simon B. Støvring, the maker [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Threads tests a feature that lets you see how well specific posts performed</title>
+		<link>https://techcrunch.com/2024/12/05/threads-tests-a-feature-that-lets-users-see-how-well-specific-posts-performed/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2024 19:00:48 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[Threads]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2926520</guid>
+
+					<description><![CDATA[<p>Threads is testing the ability for its users to see how well their individual posts performed on the social network. Up until now, Threads&#8217; &#8220;Insights&#8221; feature only showed you aggregated metrics for all of your posts. Now, the feature can show you metrics for each post. If you&#8217;re in the test, you can sort posts [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Delaware judge rules against Elon Musk’s $56B pay package again</title>
+		<link>https://techcrunch.com/2024/12/05/delaware-judge-rules-against-elon-musks-56b-pay-package-again/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2024 18:05:00 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<category><![CDATA[hyundai]]></category>
+		<category><![CDATA[TuSimple]]></category>
+		<category><![CDATA[Northvolt]]></category>
+		<category><![CDATA[techcrunch mobility]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2925845</guid>
+
+					<description><![CDATA[<p>Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation. Sign up here for free — just click TechCrunch Mobility! Your usual host Kirsten is out this week, so I’ll be taking you through the last couple weeks’ worth of mobility news.&#160; Top of mind this week [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI confirms new $200 monthly subscription, ChatGPT Pro, which includes its o1 reasoning model</title>
+		<link>https://techcrunch.com/2024/12/05/openai-confirms-its-new-200-plan-chatgpt-pro-which-includes-reasoning-models-and-more/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2024 18:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[chatgpt pro]]></category>
+		<category><![CDATA[o1]]></category>
+		<category><![CDATA[o1-mini]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[reasoning models]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2926427</guid>
+
+					<description><![CDATA[<p>OpenAI has launched a new subscription plan for ChatGPT, its AI-powered chatbot platform — and it&#8217;s very, very expensive. Confirming leaks this morning, OpenAI announced ChatGPT Pro,&#160;a new $200-per-month subscription tier that provides unlimited access to all of OpenAI’s models, including the full version of its&#160;o1&#160;“reasoning” model. &#8220;We think the audience for ChatGPT Pro will [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI 2024 event: How to watch new ChatGPT product reveals and demos</title>
+		<link>https://techcrunch.com/2024/12/05/openai-2024-event-how-to-watch-new-chatgpt-product-reveals-and-demos/</link>
+		
+		<dc:creator><![CDATA[Cody Corrall]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2024 17:55:29 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[sam altman]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2926463</guid>
+
+					<description><![CDATA[<p>OpenAI is in the holiday spirit, it seems. The ChatGPT creator announced “12 Days of OpenAI,” a series of reveals that will be livestreamed starting December 5, 2024, at 10 a.m. PT and continue for the next 12 weekdays. OpenAI CEO Sam Altman says the company event will feature announcements ranging from new demos to [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
