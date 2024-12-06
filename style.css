@@ -28,7 +28,7 @@ body {
     display: flex;
     flex-direction: row;
     gap: 1em;
-    height: 8em;
+    height: 5em;
     align-items: center;
 }
 
@@ -40,7 +40,7 @@ body {
 #logo img {
     box-sizing: border-box;
     height: 100%;
-    padding: 2em 0;
+    padding: 0.5em 0;
 }
 
 #rss-feed {
