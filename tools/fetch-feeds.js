@@ -11,8 +11,9 @@ feeds.forEach(async feed => {
 
     // Create the directory if it doesn't exist
     const directory = path.dirname(feed.localUrl);
+
     if (!fs.existsSync(directory)) {
-        fs.mkdirSync(directory);
+        fs.mkdirSync(directory, { recursive: true });
     }
 
     fs.writeFileSync(feed.localUrl, xml);

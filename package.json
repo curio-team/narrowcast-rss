@@ -2,7 +2,7 @@
   "name": "narrowcast-rss",
   "version": "0.9.0",
   "description": "Fetch RSS feeds to this repo, for showing on GitHub pages",
-  "main": "tools/fetch-feeds.js",
+  "type": "module",
   "scripts": {
     "fetch": "node tools/fetch-feeds.js"
   },
