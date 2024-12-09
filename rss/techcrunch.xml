@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 09 Dec 2024 08:35:48 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 09 Dec 2024 10:16:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,30 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Blue Yonder investigating data theft claims after ransomware gang takes credit for cyberattack</title>
+		<link>https://techcrunch.com/2024/12/09/blue-yonder-investigating-data-theft-claims-after-ransomware-gang-takes-credit-for-cyberattack/</link>
+		
+		<dc:creator><![CDATA[Carly Page]]></dc:creator>
+		<pubDate>Mon, 09 Dec 2024 10:16:11 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[babuk]]></category>
+		<category><![CDATA[blue yonder]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[termite]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2927531</guid>
+
+					<description><![CDATA[<p>Supply chain software giant Blue Yonder says it is investigating claims of data theft after a ransomware gang threatened to publish troves of data stolen from the company.&#160; Arizona-based Blue Yonder, which provides supply chain management software to thousands of organizations including DHL, Starbucks and Walgreens, was hit by a cyberattack on November 21. The [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>It’s a Raspberry Pi 5 in a keyboard, and it’s called the Raspberry Pi 500</title>
 		<link>https://techcrunch.com/2024/12/09/its-a-raspberry-pi-5-in-a-keyboard-and-its-called-the-raspberry-pi-500/</link>
 		
@@ -420,28 +444,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2927273</guid>
 
 					<description><![CDATA[<p>If you can be the first person to get an AI bot named Freysa to say ‘I love you,’ you’ll win anywhere from $3,000 to tens of thousands of dollars.  </p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Snyk hits $300M ARR but isn&#8217;t rushing to go public</title>
-		<link>https://techcrunch.com/2024/12/06/snyk-hits-300m-arr-but-isnt-rushing-to-go-public/</link>
-		
-		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
-		<pubDate>Fri, 06 Dec 2024 22:38:28 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[developers]]></category>
-		<category><![CDATA[IPO]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[coding]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[Snyk]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2927187</guid>
-
-					<description><![CDATA[<p>Several factors indicate that Snyk, most recently valued at $7.4 billion, could IPO soon. But the CEO told us why it might not.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
