@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 10 Dec 2024 11:30:37 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 10 Dec 2024 11:56:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Yelp adds AI-powered review insights to restaurants</title>
+		<link>https://techcrunch.com/2024/12/10/yelp-adds-ai-powered-review-insights-to-restaurants/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Tue, 10 Dec 2024 12:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Yelp]]></category>
+		<category><![CDATA[restaurant recommendations]]></category>
+		<category><![CDATA[AI summary]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2928336</guid>
+
+					<description><![CDATA[<p>Yelp is releasing several new features as part of its year-end release, including AI-powered review insights, a personalized home feed with new content types, and a redesigned inbox for business owners. When it comes to user-facing features, the company is now highlighting reviews in different categories, including food quality, service, and ambiance. Each of these [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Hackers are exploiting a flaw in popular file-transfer tools to launch mass hacks, again</title>
 		<link>https://techcrunch.com/2024/12/10/hackers-are-exploiting-a-flaw-in-popular-file-transfer-tools-to-launch-mass-hacks-again/</link>
 		
@@ -114,14 +134,14 @@
 		
 			</item>
 		<item>
-		<title>Software testing platform LambdaTest secures $38 million for AI push</title>
+		<title>Software testing platform LambdaTest secures $38M for AI push</title>
 		<link>https://techcrunch.com/2024/12/10/software-testing-platform-lambdatest-secures-38-million-in-ai-push/</link>
 		
 		<dc:creator><![CDATA[Manish Singh]]></dc:creator>
 		<pubDate>Tue, 10 Dec 2024 11:02:43 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
 		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Startups]]></category>
 		<category><![CDATA[India]]></category>
 		<category><![CDATA[LambdaTest]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2928389</guid>
@@ -415,23 +435,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2927857</guid>
 
 					<description><![CDATA[<p>The National Highway Traffic Safety Administration said Monday it has closed a preliminary investigation into Fisker over complaints that its all-electric Ocean SUV rolls away unexpectedly. The U.S. safety regulator opened an investigation in February after receiving four complaints — one of which resulted in an injury — over the failure of the vehicles to [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Why OpenAI is only letting some Sora users create videos of real people</title>
-		<link>https://techcrunch.com/2024/12/09/openai-is-only-letting-some-sora-users-create-videos-of-real-people/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Mon, 09 Dec 2024 19:37:58 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2927859</guid>
-
-					<description><![CDATA[<p>OpenAI launched its video-generating tool, Sora, on Monday. But the company&#8217;s opting not to release a key feature for most users pending further testing. The feature in question generates a video using an uploaded photo or footage of a real person as a reference. OpenAI says that it&#8217;ll give a &#8220;subset&#8221; of Sora users access [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
