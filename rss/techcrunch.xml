@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 11 Dec 2024 13:38:00 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 11 Dec 2024 14:32:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,133 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Researchers uncover Chinese spyware used to target Android devices</title>
+		<link>https://techcrunch.com/2024/12/11/researchers-uncover-chinese-spyware-used-to-target-android-devices/</link>
+		
+		<dc:creator><![CDATA[Carly Page]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 14:32:27 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[Spyware]]></category>
+		<category><![CDATA[surveillance]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2929269</guid>
+
+					<description><![CDATA[<p>The spyware, called EagleMsgSpy, has been used by Chinese law enforcement, according to cybersecurity firm Lookout.  </p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mozilla removes &#8216;Do Not Track&#8217; from Firefox because it was useless</title>
+		<link>https://techcrunch.com/2024/12/11/mozilla-removes-do-not-track-setting-from-firefox-because-it-was-useless/</link>
+		
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 14:23:09 +0000</pubDate>
+				<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[do not track]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Mozilla]]></category>
+		<category><![CDATA[mozilla firefox]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2929283</guid>
+
+					<description><![CDATA[<p>Most web browsers currently have a feature called “Do Not Track” hidden in settings. In the case of Mozilla&#8217;s Firefox browser, Windows Report has spotted a change in the upcoming version — the setting is gone. But this doesn&#8217;t mean what you think it means. As the name suggests, if you have “Do Not Track” [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mantel&#8217;s app lets collectors show off their sports cards and other treasures</title>
+		<link>https://techcrunch.com/2024/12/11/mantels-app-launches-for-collectors-to-show-off-their-sports-cards-and-other-treasuresmantels-app-launches-for-collectors-to-show-off-their-sports-cards-and-other-treasures/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 14:08:09 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[collectibles]]></category>
+		<category><![CDATA[SevenSevenSix]]></category>
+		<category><![CDATA[social networking app]]></category>
+		<category><![CDATA[trading cards]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2928866</guid>
+
+					<description><![CDATA[<p>Back in February, Reddit co-founder Alexis Ohanian teamed up with Brent Montgomery (“Pawn Stars” producer) and Evan Parker (former general manager at The Athletic) to launch Mantel, a social network allowing collectors to share their latest finds, such as sports cards, TCGs (trading card games), comic books, coins, stamps, sneakers, watches, and more.  Initially available [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>YC-backed EzDubs is chasing consumer market for translation</title>
+		<link>https://techcrunch.com/2024/12/11/yc-backed-ezdubs-is-chasing-consumer-market-for-trasnaltion/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 14:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2922258</guid>
+
+					<description><![CDATA[<p>The global translation service market is worth around $40 billion, according to various analysts. Within that market, enterprise services represent a significant share. For consumers, apps like Google Translate and Apple Translate are dominating, but they don&#8217;t work with calls or voice messages. Y Combinator-backed EzDubs wants to solve this problem of person-to-person translation through [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Flare raises $30M to thwart info-stealers like those used on Snowflake customers</title>
+		<link>https://techcrunch.com/2024/12/11/flare-raises-30m-to-thwart-info-stealers-like-those-used-on-snowflake-customers/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 14:00:00 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Passwords]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[cybersecurity startup]]></category>
+		<category><![CDATA[threat detection]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2928736</guid>
+
+					<description><![CDATA[<p>Threat exposure management startup Flare thinks it has an answer to info-stealers with a service that watches the dark web, resets passwords.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Numia&#8217;s software brings offline and online customer interaction data into one place</title>
+		<link>https://techcrunch.com/2024/12/11/numias-software-brings-offline-and-online-customer-interaction-data-into-one-place/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 14:00:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[CRM]]></category>
+		<category><![CDATA[bootstrapping]]></category>
+		<category><![CDATA[fundraising]]></category>
+		<category><![CDATA[enterprise startups]]></category>
+		<category><![CDATA[LATAM]]></category>
+		<category><![CDATA[Numia]]></category>
+		<category><![CDATA[LatAm startup]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2928925</guid>
+
+					<description><![CDATA[<p>In the U.S. it&#8217;s common for companies that have both physical branches and online services to use customer relationship management (CRM) software that tracks all of their interactions with customers in one place. In LatAm that isn&#8217;t the case, though, as many enterprises and banks keep the data from physical locations siloed from its digital [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Apple releases new Apple Intelligence features including ChatGPT integration with iOS 18.2</title>
 		<link>https://techcrunch.com/2024/12/11/apple-releases-new-apple-intelligence-features-including-chatgpt-integration-with-ios-18-2/</link>
 		
@@ -42,7 +169,7 @@
 		<category><![CDATA[iOS]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2929282</guid>
 
-					<description><![CDATA[<p>Apple released new Apple Intelligence features, including mage playground, genmoji, writing tool enhancements, and ChatGPT integration with iOS 18.2, iPadOS 18.2, and macOS Sequoia 15.2. The company also expanded language support for Apple Intelligence to localized English in Australia, Canada, Ireland, New Zealand, South Africa, and the U.K. Previously, the company supported only U.S. English [&#8230;]</p>
+					<description><![CDATA[<p>Apple released new Apple Intelligence features, including image playground, Genmoji, writing tool enhancements, and ChatGPT integration with iOS 18.2, iPadOS 18.2, and macOS Sequoia 15.2. The company also expanded language support for Apple Intelligence to localized English in Australia, Canada, Ireland, New Zealand, South Africa, and the U.K. Previously, the company supported only U.S. English [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -314,137 +441,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2928646</guid>
 
 					<description><![CDATA[<p>The future of audiobooks and AI&#8217;s impact on the publishing industry were points of discussion for HarperCollins, whose CEO, Brian Murray, spoke at the UBS Global Media and Communications Conference on Tuesday. During the event, the exec praised Spotify&#8217;s entry into the audiobooks market and detailed its future growth plans in the space. He also [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google says its new quantum chip indicates that multiple universes exist</title>
-		<link>https://techcrunch.com/2024/12/10/google-says-its-new-quantum-chip-indicates-that-multiple-universes-exist/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Tue, 10 Dec 2024 19:20:59 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[quantum chips]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2928556</guid>
-
-					<description><![CDATA[<p>Google announced its latest quantum chip, Willow. But what really caught the industry's attention was a wild claim tucked into the blog post.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>A new disclosure shows, again, how badly Tiger’s ‘spray and pray’ fund performed</title>
-		<link>https://techcrunch.com/2024/12/10/a-new-disclosure-shows-again-how-badly-tigers-pray-and-spray-fund-performed/</link>
-		
-		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Tue, 10 Dec 2024 18:28:27 +0000</pubDate>
-				<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[hedge funds]]></category>
-		<category><![CDATA[LPs]]></category>
-		<category><![CDATA[performance]]></category>
-		<category><![CDATA[returns]]></category>
-		<category><![CDATA[Tiger Global Management]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2928632</guid>
-
-					<description><![CDATA[<p>Tiger Global famously fueled the pandemic-era venture capital boom, investing heavily in a wide range of startups, setting up bidding wars for even the most unproven startup that led to sky-high valuations. In 2021 alone, the hedge fund backed 315 startups, according to PitchBook data. And much of the VC industry was not happy about [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US sanctions Chinese cybersecurity firm for firewall hacks targeting critical infrastructure</title>
-		<link>https://techcrunch.com/2024/12/10/us-sanctions-chinese-cybersecurity-firm-for-firewall-hacks-targeting-critical-infrastructure/</link>
-		
-		<dc:creator><![CDATA[Carly Page]]></dc:creator>
-		<pubDate>Tue, 10 Dec 2024 18:20:16 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[hacking]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<category><![CDATA[security]]></category>
-		<category><![CDATA[Sophos]]></category>
-		<category><![CDATA[us government]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2928630</guid>
-
-					<description><![CDATA[<p>The U.S. sanctioned a Chinese cybersecurity company and one of its employees for exploiting a zero-day vulnerability in Sophos firewalls to target U.S. organizations. On Tuesday, the U.S. Treasury Department said Guan Tianfeng, an employee of Sichuan Silence, used the vulnerability to compromise approximately 81,000 firewalls in April 2020. The hacking campaign, detailed by Sophos [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Phhhoto&#8217;s antitrust claim against Meta is heading back to the courts</title>
-		<link>https://techcrunch.com/2024/12/10/phhhotos-antitrust-claim-against-meta-is-heading-back-to-the-courts/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Tue, 10 Dec 2024 17:06:17 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Facebook]]></category>
-		<category><![CDATA[Instagram]]></category>
-		<category><![CDATA[lawsuit]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[phhhoto]]></category>
-		<category><![CDATA[social media]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2928547</guid>
-
-					<description><![CDATA[<p>A U.S. appeals court has overturned a decision in an antitrust lawsuit against Meta, which was filed in in late 2021 by the long-shuttered social app Phhhoto. In court, the startup alleged that Meta violated U.S. antitrust law by copying its core features and suppressing competition. U.S. District Judge Kiyo Matsumoto in 2023 granted Meta’s [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI 2024 event: How to watch new ChatGPT product reveals and demos</title>
-		<link>https://techcrunch.com/2024/12/10/openai-2024-event-how-to-watch-new-chatgpt-product-reveals-and-demos/</link>
-		
-		<dc:creator><![CDATA[Cody Corrall]]></dc:creator>
-		<pubDate>Tue, 10 Dec 2024 17:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[sam altman]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2926463</guid>
-
-					<description><![CDATA[<p>OpenAI is in the holiday spirit, it seems. The ChatGPT series of reveals, called “12 Days of OpenAI,” will be livestreamed at 10 a.m. PT each weekday through December 23. So far, we&#8217;ve seen the launch of ChatGPT Pro, OpenAI’s $200 per month subscription plan, the full version of its “reasoning” o1 model and the [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Senator announces new bill to secure telecom companies in wake of Chinese hacks</title>
-		<link>https://techcrunch.com/2024/12/10/us-senator-announces-new-bill-to-secure-telecom-companies-in-wake-of-chinese-hacks/</link>
-		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
-		<pubDate>Tue, 10 Dec 2024 16:27:17 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[backdoor]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[hackers]]></category>
-		<category><![CDATA[hacking]]></category>
-		<category><![CDATA[Ron Wyden]]></category>
-		<category><![CDATA[salt typhoon]]></category>
-		<category><![CDATA[telcos]]></category>
-		<category><![CDATA[wiretapping]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2928564</guid>
-
-					<description><![CDATA[<p>U.S. Democratic Senator Ron Wyden announced a new draft bill with the goal of securing American telephone networks and Americans’ communications in response to the massive hack of telecom providers allegedly done by Chinese government hackers.&#160; In a press release on Tuesday, Wyden announced the Secure American Communications Act. The bill would order the Federal [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
