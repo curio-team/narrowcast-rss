@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 11 Dec 2024 15:03:09 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 12 Dec 2024 08:34:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,218 +31,22 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Gemini 2.0, Google&#8217;s newest flagship AI, can generate text, images, and speech</title>
-		<link>https://techcrunch.com/2024/12/11/gemini-2-0-googles-newest-flagship-ai-can-generate-text-images-and-speech/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 15:30:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[api]]></category>
-		<category><![CDATA[Dev]]></category>
-		<category><![CDATA[gemini]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[multimodal]]></category>
-		<category><![CDATA[gemini 2.0 flash]]></category>
-		<category><![CDATA[2.0 flash]]></category>
-		<category><![CDATA[multimodal live api]]></category>
-		<category><![CDATA[gemini api]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2928615</guid>
-
-					<description><![CDATA[<p>Google&#8217;s next major AI model has arrived to combat a slew of new offerings from OpenAI. On Wednesday, Google announced Gemini 2.0 Flash, which the company says can natively generate images and audio in addition to text. 2.0 Flash can also use third-party apps and services, allowing it to tap into Google Search, execute code, [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google unveils Project Mariner: AI agents to use the web for you</title>
-		<link>https://techcrunch.com/2024/12/11/google-unveils-project-mariner-ai-agents-to-use-the-web-for-you/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 15:30:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[Google Search]]></category>
-		<category><![CDATA[Google Chrome]]></category>
-		<category><![CDATA[AI agents]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2928653</guid>
-
-					<description><![CDATA[<p>Google unveiled its first-ever AI agent that can take actions on the web on Wednesday, a research prototype from the company&#8217;s DeepMind division called Project Mariner. The Gemini-powered agent takes control of your Chrome browser, moves the cursor on your screen, clicks buttons, and fills out forms, allowing it to use and navigate websites much [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google&#8217;s AI Overviews will soon be able to answer math and coding questions</title>
-		<link>https://techcrunch.com/2024/12/11/googles-ai-overviews-will-soon-answer-math-and-coding-questions/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 15:30:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Google Search]]></category>
-		<category><![CDATA[gemini]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[ai overviews]]></category>
-		<category><![CDATA[gemini 2.0]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2928698</guid>
-
-					<description><![CDATA[<p>Google's AI Overviews feature on Search is getting an upgrade, thanks to the company's newly launched Gemini 2.0 model.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Gemini can now do more in-depth research</title>
-		<link>https://techcrunch.com/2024/12/11/gemini-can-now-research-deeper/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 15:30:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[gemini]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[gemini 2.0 flash]]></category>
-		<category><![CDATA[deep research]]></category>
-		<category><![CDATA[gemini advanced]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2928846</guid>
-
-					<description><![CDATA[<p>Google is bringing a new capability to Gemini, its chatbot platform, that enables the AI to perform 'deep research' on a subject.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>YC-backed Finny is using AI to match financial advisors with prospects</title>
-		<link>https://techcrunch.com/2024/12/11/yc-backed-finny-helps-financial-advisors-find-new-clients/</link>
-		
-		<dc:creator><![CDATA[Kate Park]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 15:00:00 +0000</pubDate>
-				<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Asset Management]]></category>
-		<category><![CDATA[lead generation]]></category>
-		<category><![CDATA[Finny]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2928350</guid>
-
-					<description><![CDATA[<p>Financial advisors have a big hurdle when it comes to finding new clients: Cold outreach rarely works. Often, the only way to find a good prospect is to tap your network for warm intros, or trawl platforms like LinkedIn, Pitchbook or ZoomInfo in hopes of landing a meeting, which may or may not convert. Eden [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Reveal Technology raises $11M to scale &#8216;decision dominance&#8217; tools for DOD</title>
-		<link>https://techcrunch.com/2024/12/11/reveal-technology-raises-11m-to-scale-decision-dominance-tools-for-dod/</link>
-		
-		<dc:creator><![CDATA[Aria Alamalhodaei]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 15:00:00 +0000</pubDate>
-				<category><![CDATA[Venture]]></category>
-		<category><![CDATA[defense tech]]></category>
-		<category><![CDATA[Military tech]]></category>
-		<category><![CDATA[Reveal Technology]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2928883</guid>
-
-					<description><![CDATA[<p>Military operators need to rapidly make decisions in high-stakes environments, but they’re often stuck with technology that’s unable to deliver accurate information about their surroundings. Military leaders have made clear that they’re prioritizing “decision dominance” for troops, but actually shipping new technologies and getting them in the hands of end users can be more challenging.&#160; [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Electrified Thermal Solutions has a plan to help industry replace natural gas with bricks</title>
-		<link>https://techcrunch.com/2024/12/11/electrified-thermal-solutions-has-a-plan-to-help-industry-replace-natural-gas-with-bricks/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 15:00:00 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Batteries]]></category>
-		<category><![CDATA[Heat]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[heavy industry]]></category>
-		<category><![CDATA[Electrified Thermal Solutions]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2928932</guid>
-
-					<description><![CDATA[<p>The startup has been working to imbue the humble brick with the ability to transform electricity into heat and store it for hours on end.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Learn how to use Apple Intelligence’s ‘Image Playground’</title>
-		<link>https://techcrunch.com/2024/12/11/how-to-use-apple-intelligence-image-playground-feature/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 14:55:54 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Apple Intelligence]]></category>
-		<category><![CDATA[Evergreen]]></category>
-		<category><![CDATA[iOS]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2921168</guid>
-
-					<description><![CDATA[<p>Apple announced Wednesday that iOS 18.2 is now available, which comes with exciting image generation features, such as “Image Playground,” Apple&#8217;s image creation feature that creates cartoon-like images from text descriptions. Here’s what you need to know about the Apple Intelligence feature, including what it is and how to use it.  What is Image Playground? [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Here’s how to create a custom emoji with the Apple Intelligence feature Genmoji</title>
-		<link>https://techcrunch.com/2024/12/11/how-to-create-a-custom-emoji-with-genmoji-apple-intelligence-feature/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 14:55:42 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Apple Intelligence]]></category>
-		<category><![CDATA[Evergreen]]></category>
-		<category><![CDATA[ios 18]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2912825</guid>
-
-					<description><![CDATA[<p>Apple’s latest iOS 18.1 software update introduced a series of Apple Intelligence features, including Writing Tools and notification summaries. However, some features were missing from the lineup, like Genmoji, which allows users to create emojis from written prompts.&#160; Now, with iOS 18.2, iPadOS 18.2, and macOS Sequoia 15.2 officially available, the highly anticipated AI-generated Bitmoji [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Researchers uncover Chinese spyware used to target Android devices</title>
-		<link>https://techcrunch.com/2024/12/11/researchers-uncover-chinese-spyware-used-to-target-android-devices/</link>
+		<title>Bitcoin ATM giant Byte Federal says 58,000 users&#8217; personal data compromised in breach</title>
+		<link>https://techcrunch.com/2024/12/12/bitcoin-atm-giant-byte-federal-says-58000-users-personal-data-compromised-in-breach/</link>
 		
 		<dc:creator><![CDATA[Carly Page]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 14:32:27 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[China]]></category>
+		<pubDate>Thu, 12 Dec 2024 08:33:56 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[cryptocurrencies]]></category>
 		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[malware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[gitlab]]></category>
 		<category><![CDATA[security]]></category>
-		<category><![CDATA[Spyware]]></category>
-		<category><![CDATA[surveillance]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2929269</guid>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2930195</guid>
 
-					<description><![CDATA[<p>The spyware, called EagleMsgSpy, has been used by Chinese law enforcement, according to cybersecurity firm Lookout.  </p>
+					<description><![CDATA[<p>Byte Federal, one of the largest Bitcoin ATM operators in the U.S., said the personal data of thousands of customers may have been compromised during a recent breach. In a filing with Maine&#8217;s attorney general, Florida-based Byte Federal said hackers tried to access the data of 58,000 customers, including names, addresses, phone numbers, government-issued IDs, [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -250,183 +54,41 @@
 		
 			</item>
 		<item>
-		<title>Mozilla removes &#8216;Do Not Track&#8217; from Firefox because it was useless</title>
-		<link>https://techcrunch.com/2024/12/11/mozilla-removes-do-not-track-setting-from-firefox-because-it-was-useless/</link>
+		<title>Anybotics raises $60M to bring more autonomous industrial robots to the U.S.</title>
+		<link>https://techcrunch.com/2024/12/12/anybotics-raises-60m-to-scale-autonomous-industrial-robots-in-the-u-s/</link>
+		
+		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
+		<pubDate>Thu, 12 Dec 2024 08:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Industrial Robotics]]></category>
+		<category><![CDATA[ANYbotics]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2927690</guid>
+
+					<description><![CDATA[<p>Anybotics has closed its Series B round at $110 million, some 18 months after announcing it had raised a $50 million Series B.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Upvest, a stock trading API used by N26, Revolut and others, raises $105 million</title>
+		<link>https://techcrunch.com/2024/12/11/upvest-a-stock-trading-api-used-by-n26-revolut-and-others-raises-105-million/</link>
 		
 		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 14:23:09 +0000</pubDate>
-				<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[do not track]]></category>
-		<category><![CDATA[Firefox]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Mozilla]]></category>
-		<category><![CDATA[mozilla firefox]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2929283</guid>
-
-					<description><![CDATA[<p>Most web browsers currently have a feature called “Do Not Track” hidden in settings. In the case of Mozilla&#8217;s Firefox browser, Windows Report has spotted a change in the upcoming version — the setting is gone. But this doesn&#8217;t mean what you think it means. As the name suggests, if you have “Do Not Track” [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mantel&#8217;s app lets collectors show off their sports cards and other treasures</title>
-		<link>https://techcrunch.com/2024/12/11/mantels-app-launches-for-collectors-to-show-off-their-sports-cards-and-other-treasuresmantels-app-launches-for-collectors-to-show-off-their-sports-cards-and-other-treasures/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 14:08:09 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[collectibles]]></category>
-		<category><![CDATA[SevenSevenSix]]></category>
-		<category><![CDATA[social networking app]]></category>
-		<category><![CDATA[trading cards]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2928866</guid>
-
-					<description><![CDATA[<p>Back in February, Reddit co-founder Alexis Ohanian teamed up with Brent Montgomery (“Pawn Stars” producer) and Evan Parker (former general manager at The Athletic) to launch Mantel, a social network allowing collectors to share their latest finds, such as sports cards, TCGs (trading card games), comic books, coins, stamps, sneakers, watches, and more.  Initially available [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>YC-backed EzDubs is chasing consumer market for translation</title>
-		<link>https://techcrunch.com/2024/12/11/yc-backed-ezdubs-is-chasing-consumer-market-for-trasnaltion/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 14:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2922258</guid>
-
-					<description><![CDATA[<p>The global translation service market is worth around $40 billion, according to various analysts. Within that market, enterprise services represent a significant share. For consumers, apps like Google Translate and Apple Translate are dominating, but they don&#8217;t work with calls or voice messages. Y Combinator-backed EzDubs wants to solve this problem of person-to-person translation through [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Flare raises $30M to thwart info-stealers like those used on Snowflake customers</title>
-		<link>https://techcrunch.com/2024/12/11/flare-raises-30m-to-thwart-info-stealers-like-those-used-on-snowflake-customers/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 14:00:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Passwords]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[cybersecurity startup]]></category>
-		<category><![CDATA[threat detection]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2928736</guid>
-
-					<description><![CDATA[<p>Threat exposure management startup Flare thinks it has an answer to info-stealers with a service that watches the dark web, resets passwords.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Numia&#8217;s software brings offline and online customer interaction data into one place</title>
-		<link>https://techcrunch.com/2024/12/11/numias-software-brings-offline-and-online-customer-interaction-data-into-one-place/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 14:00:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[CRM]]></category>
-		<category><![CDATA[bootstrapping]]></category>
-		<category><![CDATA[fundraising]]></category>
-		<category><![CDATA[enterprise startups]]></category>
-		<category><![CDATA[LATAM]]></category>
-		<category><![CDATA[Numia]]></category>
-		<category><![CDATA[LatAm startup]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2928925</guid>
-
-					<description><![CDATA[<p>In the U.S. it&#8217;s common for companies that have both physical branches and online services to use customer relationship management (CRM) software that tracks all of their interactions with customers in one place. In LatAm that isn&#8217;t the case, though, as many enterprises and banks keep the data from physical locations siloed from its digital [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple releases new Apple Intelligence features including ChatGPT integration with iOS 18.2</title>
-		<link>https://techcrunch.com/2024/12/11/apple-releases-new-apple-intelligence-features-including-chatgpt-integration-with-ios-18-2/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 13:33:58 +0000</pubDate>
-				<category><![CDATA[Gadgets]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Apple Intelligence]]></category>
-		<category><![CDATA[iOS]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2929282</guid>
-
-					<description><![CDATA[<p>Apple released new Apple Intelligence features, including image playground, Genmoji, writing tool enhancements, and ChatGPT integration with iOS 18.2, iPadOS 18.2, and macOS Sequoia 15.2. The company also expanded language support for Apple Intelligence to localized English in Australia, Canada, Ireland, New Zealand, South Africa, and the U.K. Previously, the company supported only U.S. English [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>After you check out your Spotify Wrapped, explore these copycats </title>
-		<link>https://techcrunch.com/2024/12/11/spotify-wrapped-2024-is-almost-here-its-time-to-explore-all-the-copycats/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal, Ivan Mehta]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 12:01:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[music streaming services]]></category>
-		<category><![CDATA[spotify wrapped]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2923135</guid>
-
-					<description><![CDATA[<p>Spotify’s annual Wrapped feature just dropped, giving listeners a fun, personalized summary of their listening habits, and it has gained immense popularity over the years. As a result, many companies have seized the opportunity to create similar year-in-review experiences, offering users a recap of their habits, preferences, or interactions from the past year. Here are [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Albert Invent hopes to revolutionize the chemicals sector with its AI platform</title>
-		<link>https://techcrunch.com/2024/12/11/albert-invent-hopes-to-revolutionize-the-chemicals-sector-with-its-ai-platform/</link>
-		
-		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 11:07:31 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[chemistry]]></category>
-		<category><![CDATA[materials science]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2928654</guid>
-
-					<description><![CDATA[<p>If startup funding rounds are any metric, generative AI is seeing ample adoption in the sciences. It makes sense: there&#8217;s a lot of trial and error involved in research and development, and any tool that can speed up the process for researchers is bound to be useful. The latest is Albert Invent, which offers an [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mynt raises a cool $23M at $210M valuation to build a smarter expense card for SMEs</title>
-		<link>https://techcrunch.com/2024/12/11/mynt-raises-a-cool-23m-on-a-210m-valuation-to-build-a-smarter-expense-card-for-smes/</link>
-		
-		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 10:48:43 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
+		<pubDate>Thu, 12 Dec 2024 07:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
 		<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[corporate cards]]></category>
-		<category><![CDATA[expense management]]></category>
-		<category><![CDATA[mynt]]></category>
-		<category><![CDATA[pleo]]></category>
-		<category><![CDATA[visa]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2929242</guid>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[trading]]></category>
+		<category><![CDATA[Upvest]]></category>
+		<category><![CDATA[embedded banking]]></category>
+		<category><![CDATA[trading API]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2929322</guid>
 
-					<description><![CDATA[<p>Existing investor Vor Capital is leading the round, which also saw other previous backers CNI and Incore participating. </p>
+					<description><![CDATA[<p>Upvest might not be a familiar name if you don’t pay close attention to the fintech industry, but chances are you’ve already interacted with the company&#8217;s products. Founded by Martin Kassing (pictured above), the Berlin-based startup builds a white-label investment platform that is used by some of the biggest fintech companies in Europe. Upvest clients [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -434,21 +96,361 @@
 		
 			</item>
 		<item>
-		<title>HongShan, Peak XV back stablecoin-powered neobank KAST</title>
-		<link>https://techcrunch.com/2024/12/11/kast-stablecoin-neobank-hongshan-peak-xv/</link>
+		<title>Laam lands $5.5M to provide South Asian fashions to migrants around the world</title>
+		<link>https://techcrunch.com/2024/12/11/laam-lands-5-5m-to-provide-south-asian-fashions-to-migrants-around-the-world/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Thu, 12 Dec 2024 06:00:00 +0000</pubDate>
+				<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[fashion marketplace]]></category>
+		<category><![CDATA[Laam]]></category>
+		<category><![CDATA[pakistan]]></category>
+		<category><![CDATA[South Asia]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2929657</guid>
+
+					<description><![CDATA[<p>Laam, a curated online fashion marketplace based in Pakistan, has raised $5.5 million in a seed round to take South Asian fashion to the world.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ChatGPT and Sora experienced a major outage</title>
+		<link>https://techcrunch.com/2024/12/11/chatgpt-and-sora-are-down/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Thu, 12 Dec 2024 01:31:30 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Outage]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2930017</guid>
+
+					<description><![CDATA[<p>OpenAI says ChatGPT, Sora, and its developer-facing API experienced a major outage starting at around 3pm PT on Wednesday, according to the company&#8217;s status page. The company says it&#8217;s largely back online as of 9pm PT. &#8220;ChatGPT, API, and Sora were down today but we&#8217;ve recovered,&#8221; said OpenAI in a tweet. It remains unclear what [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SolarSquare raises $40 million in India&#8217;s largest solar venture round</title>
+		<link>https://techcrunch.com/2024/12/11/solarsquare-raises-40-million-in-india-largest-solar-venture-round/</link>
 		
 		<dc:creator><![CDATA[Manish Singh]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 08:32:23 +0000</pubDate>
-				<category><![CDATA[Crypto]]></category>
-		<category><![CDATA[Fintech]]></category>
+		<pubDate>Thu, 12 Dec 2024 00:50:37 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
 		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[HongShan]]></category>
-		<category><![CDATA[KAST]]></category>
-		<category><![CDATA[Peak XV Partners]]></category>
-		<category><![CDATA[stablecoin]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2929188</guid>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[Lightspeed India Venture Partners]]></category>
+		<category><![CDATA[Rainmatter]]></category>
+		<category><![CDATA[SolarSquare]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2929958</guid>
 
-					<description><![CDATA[<p>Peak XV and HongShan, the Indian and Chinese investment firms that split from powerhouse Sequoia last year, have co-led a $10 million seed investment in KAST, a dollar-denominated neobank-like platform that lets customers hold and spend stablecoins through traditional payment avenues.&#160; Kast also issues credit cards that work with standard merchant networks, enabling users to [&#8230;]</p>
+					<description><![CDATA[<p>SolarSquare has raised $40 million in a round led by Lightspeed in what is the largest venture round in India&#8217;s solar sector. The Mumbai-based startup was bootstrapped and profitably selling to corporate customers for five years before it switched to residential solar in 2021. Now it has scaled to powering over 20,000 homes and 200 [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft will take an $800M hit over Cruise robotaxi shutdown</title>
+		<link>https://techcrunch.com/2024/12/11/microsoft-will-take-an-800m-hit-over-cruise-robotaxi-shutdown/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Thu, 12 Dec 2024 00:24:50 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[autonomous vehicles]]></category>
+		<category><![CDATA[Cruise]]></category>
+		<category><![CDATA[General Motors]]></category>
+		<category><![CDATA[GM]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2929957</guid>
+
+					<description><![CDATA[<p>GM&#8217;s decision to shut down its Cruise robotaxi program continues to ripple through the market, extending to the self-driving car company&#8217;s minority investors. Microsoft, which in 2021 made an investment into Cruise, will take $800 million impairment charge as a result of GM&#8217;s actions, according to a regulatory filing. Microsoft said the charge will be [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trump&#8217;s proposed university endowment tax could hurt funding, VC warns</title>
+		<link>https://techcrunch.com/2024/12/11/trumps-proposed-university-endowment-tax-could-hurt-funding-vc-warns/</link>
+		
+		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 23:34:14 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Funding]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[venture capital]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2929887</guid>
+
+					<description><![CDATA[<p>University endowments could be taxed much higher under Trump. That may harm VCs, an investor warns.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>It sure looks like OpenAI trained Sora on game content — and legal experts say that could be a problem</title>
+		<link>https://techcrunch.com/2024/12/11/it-sure-looks-like-openai-trained-sora-on-game-content-and-legal-experts-say-that-could-be-a-problem/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 22:01:37 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[copyright infringement]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[intellectual property]]></category>
+		<category><![CDATA[ip]]></category>
+		<category><![CDATA[legal]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[sora]]></category>
+		<category><![CDATA[video games]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2928628</guid>
+
+					<description><![CDATA[<p>OpenAI has never revealed exactly which data it used to train Sora, its video-generating AI. But from the looks of it, at least some of the data might&#8217;ve come from Twitch streams and walkthroughs of games. Sora launched on Monday, and I&#8217;ve been playing around with it for a bit (to the extent the capacity [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hyundai&#8217;s electric air taxi startup Supernal is moving its HQ from DC to California</title>
+		<link>https://techcrunch.com/2024/12/11/hyundais-electric-air-taxi-startup-supernal-is-moving-its-hq-from-dc-to-california/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 21:50:45 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[eVTOL]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[hyundai]]></category>
+		<category><![CDATA[supernal]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2929682</guid>
+
+					<description><![CDATA[<p>Hyundai&#8217;s electric vertical takeoff and landing startup Supernal is shifting its global headquarters from Washington, D.C. to Irvine, California and asking around three dozen of workers to relocate, TechCrunch has learned. The company told TechCrunch about 5% of its total workforce &#8212; roughly 35 to 40 people &#8212; are being asked to relocate to California. [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Honda cuts funding to robotaxi venture with Cruise and GM in Japan</title>
+		<link>https://techcrunch.com/2024/12/11/honda-cuts-funding-to-robotaxi-venture-with-cruise-and-gm-in-japan/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 21:37:32 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[autonomous vehicles]]></category>
+		<category><![CDATA[Cruise]]></category>
+		<category><![CDATA[General Motors]]></category>
+		<category><![CDATA[honda]]></category>
+		<category><![CDATA[robotaxi]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2929842</guid>
+
+					<description><![CDATA[<p>Honda Motor Co. will stop funding a joint venture with General Motors and Cruise to launch a robotaxi service in Japan, now that GM has pulled the plug on Cruise and its commercial robotaxi ambitions, reports The Nikkei. GM said Tuesday it would cease funding Cruise and instead absorb the company and combine it with [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Pentagon says mystery drones over New Jersey are &#8216;not US military,&#8217; not likely foreign</title>
+		<link>https://techcrunch.com/2024/12/11/pentagon-says-mystery-drones-over-new-jersey-are-not-us-military-not-likely-foreign/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 20:33:20 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Congress]]></category>
+		<category><![CDATA[drones]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2929652</guid>
+
+					<description><![CDATA[<p>In a press briefing on Wednesday, the Pentagon said it has no evidence that the mysterious drones that have been flying over New Jersey and other parts of the northeast U.S. in recent weeks were coming from a foreign entity, nor were they U.S. military drones. The comments come a day after a U.S. Congressional [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft’s M12 invests another $22.5M into NeuBird, months after its $22M seed round</title>
+		<link>https://techcrunch.com/2024/12/11/microsofts-m12-invests-another-22-5m-into-nuebird-months-after-its-22m-seed-round/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 19:35:15 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[devops]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[M12]]></category>
+		<category><![CDATA[mayfield]]></category>
+		<category><![CDATA[NeuBird]]></category>
+		<category><![CDATA[SRE]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2929632</guid>
+
+					<description><![CDATA[<p>Late last year, Gou Rao and Vinod Jayaraman founded NeuBird to automate IT site reliability operations tasks with generative AI. Having sold their previous cloud-native storage startup, Portworx, to PureStorage for $370 million, the pair was well-versed in the IT challenges faced by today&#8217;s enterprises. &#8220;It&#8217;s very hard to find good site reliability engineers. There&#8217;s [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cruise employees &#8216;blindsided&#8217; by GM’s plan to end robotaxi program</title>
+		<link>https://techcrunch.com/2024/12/11/cruise-employees-blindsided-by-gms-plan-to-end-robotaxi-program/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec, Rebecca Bellan]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 19:18:10 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[autonomous vehicles]]></category>
+		<category><![CDATA[Cruise]]></category>
+		<category><![CDATA[GM]]></category>
+		<category><![CDATA[robotaxis]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2928906</guid>
+
+					<description><![CDATA[<p>The news came by Slack message.&#160; Cruise CEO Marc Whitten, who took the top post in June, posted a message Tuesday afternoon in the company’s announcements channel along with a link to a press release entitled “GM to refocus autonomous driving development on personal vehicles.” GM, which acquired the self-driving car startup in 2016, would [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft begins testing the ability to share files between iPhones and Windows PCs</title>
+		<link>https://techcrunch.com/2024/12/11/microsoft-begins-testing-the-ability-to-share-files-between-iphones-and-windows-pcs/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 19:03:58 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[phone link]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2929564</guid>
+
+					<description><![CDATA[<p>Microsoft announced on Wednesday that it&#8217;s starting to roll out a way for users to share files between their iPhone and Windows 11 or Windows 10 PCs via the company&#8217;s Phone Link app and Link to Windows app. The capability is rolling out now to Windows Insiders. Windows Insiders can now download the latest Phone [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Watch Google DeepMind&#8217;s Genie 2 generate playable 3D worlds</title>
+		<link>https://techcrunch.com/video/watch-google-deepminds-genie-2-generate-playable-3d-worlds/</link>
+		
+		<dc:creator><![CDATA[Maggie Stamets]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 19:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[google deepmind]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&#038;p=2929465</guid>
+
+					<description><![CDATA[<p>Last week, Google DeepMind announced Genie 2, a new video model that generates plausible, consistent, playable 3D environments based on a prompt image. DeepMind claims that Genie 2 has a slew of new and exciting emerging capabilities that improve the lighting, reflections, and can even generate videos from real-world images. Within these generated worlds, the [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>GM is giving up on Cruise robotaxis, pivots to personal autonomous vehicles</title>
+		<link>https://techcrunch.com/2024/12/11/gm-is-giving-up-on-cruise-robotaxis-pivots-to-personal-autonomous-vehicles/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec, Sean O'Kane]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 18:58:08 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[autonomous vehicles]]></category>
+		<category><![CDATA[avs]]></category>
+		<category><![CDATA[Cruise]]></category>
+		<category><![CDATA[General Motors]]></category>
+		<category><![CDATA[robotaxis]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2928780</guid>
+
+					<description><![CDATA[<p>General Motors said Tuesday it will no longer fund the development of a commercial robotaxi business and will instead absorb its self-driving car subsidiary Cruise and combine it with the automaker&#8217;s own efforts to develop driver assistance features — and eventually fully autonomous personal vehicles. The pivot is a remarkable step for the automaker, which [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Green ammonia startup Amogy is trying to raise $90M to reduce truck pollution</title>
+		<link>https://techcrunch.com/2024/12/11/green-ammonia-startup-amogy-is-trying-to-raise-90m-to-reduce-truck-pollution/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 18:55:51 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Shipping]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[scoop]]></category>
+		<category><![CDATA[trucking]]></category>
+		<category><![CDATA[maritime industry]]></category>
+		<category><![CDATA[Amogy]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2929569</guid>
+
+					<description><![CDATA[<p>The company is focused on various transportation markets, including maritime shipping, long-haul trucking, and agriculture.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Meta apps experience global outage</title>
+		<link>https://techcrunch.com/2024/12/11/meta-apps-experience-global-outage/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 18:54:57 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[facebook outage]]></category>
+		<category><![CDATA[Instagram]]></category>
+		<category><![CDATA[instagram outage]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[meta outage]]></category>
+		<category><![CDATA[Outage]]></category>
+		<category><![CDATA[Threads]]></category>
+		<category><![CDATA[WhatsApp]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2929570</guid>
+
+					<description><![CDATA[<p>Facebook, Instagram, Messenger, WhatsApp, and Threads on Wednesday were all experiencing issues to varying degrees as a result of a global outage affecting Meta&#8217;s apps. The cause of the outage is not yet known, but Meta has acknowledged a &#8220;technical issue&#8221; in a post on X. The company at 1:48 p.m. ET wrote, &#8220;We’re aware [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple brings &#8216;Layered Recordings&#8217; to Voice Memos app in iOS 18.2 update</title>
+		<link>https://techcrunch.com/2024/12/11/apple-brings-layered-recordings-to-voice-memos-app-in-ios-18-2-update/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 18:33:57 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[iOS apps]]></category>
+		<category><![CDATA[Music]]></category>
+		<category><![CDATA[Musicians]]></category>
+		<category><![CDATA[voice memos]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2929534</guid>
+
+					<description><![CDATA[<p>Alongside the release of a host of new AI features, Apple is also updating the Voice Memos app in iOS 18.2. On Wednesday, the iPhone maker announced that iPhone 16 Pro and Pro Max users will be able to layer a vocal track on top of an existing instrumental recording in the Voice Memos app, [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
