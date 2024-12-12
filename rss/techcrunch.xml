@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 12 Dec 2024 11:05:21 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 12 Dec 2024 12:23:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,98 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Microsoft quietly axes Skype credit and phone number sales to push subscriptions</title>
+		<link>https://techcrunch.com/2024/12/12/microsoft-quietly-axes-skype-credit-and-phone-number-sales-to-push-subscriptions/</link>
+		
+		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
+		<pubDate>Thu, 12 Dec 2024 12:23:09 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Skype]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2929301</guid>
+
+					<description><![CDATA[<p>Bad news for anyone out there who still uses Skype: the Microsoft-owned phone and messaging platform has quietly stopped letting users top-up accounts with credit and buy Skype phone numbers. Instead, Skype is locking into SaaS mode: it&#8217;s pushing users to take monthly subscriptions for regional and global Skype-to-phone plans, for a set monthly fee, [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cartesia claims its AI is efficient enough to run pretty much anywhere</title>
+		<link>https://techcrunch.com/2024/12/12/cartesia-claims-its-ai-is-efficient-enough-to-run-pretty-much-anywhere/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 12 Dec 2024 12:00:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Funding]]></category>
+		<category><![CDATA[startup]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Cartesia]]></category>
+		<category><![CDATA[SSM]]></category>
+		<category><![CDATA[state space models]]></category>
+		<category><![CDATA[speech generation]]></category>
+		<category><![CDATA[voice generation]]></category>
+		<category><![CDATA[edge AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2923341</guid>
+
+					<description><![CDATA[<p>It&#8217;s becoming increasingly costly to develop and run AI. OpenAI&#8217;s AI operations costs could reach&#160;$7 billion&#160;this year, while Anthropic&#8217;s CEO recently suggested that models costing over $10 billion could arrive soon. So the hunt is on for ways to make AI cheaper. Some researchers are focusing on techniques to optimize existing model architectures — i.e. [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>After Meta signals end to publisher payouts, Australia plots Big Tech news tax</title>
+		<link>https://techcrunch.com/2024/12/12/after-meta-signals-end-to-publisher-payouts-australia-plots-big-tech-news-tax/</link>
+		
+		<dc:creator><![CDATA[Natasha Lomas]]></dc:creator>
+		<pubDate>Thu, 12 Dec 2024 11:58:31 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[australia news tax]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[news media bargaining code amendment]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2930280</guid>
+
+					<description><![CDATA[<p>A few years ago, Australia passed legislation requiring platform giants including Facebook-owner Meta and YouTube&#8217;s parent Google to negotiate with news publishers to pay for journalism reshares. The News Media Bargaining Code forced Big Tech to cut deals with local news outlets. However, Meta has since moved away from promoting news on its platforms globally [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Researchers find security flaws in Skoda cars that may let hackers remotely track them</title>
+		<link>https://techcrunch.com/2024/12/12/researchers-find-security-flaws-in-skoda-cars-that-may-let-hackers-remotely-track-them/</link>
+		
+		<dc:creator><![CDATA[Carly Page]]></dc:creator>
+		<pubDate>Thu, 12 Dec 2024 11:37:37 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[skoda]]></category>
+		<category><![CDATA[volkswagen]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2930232</guid>
+
+					<description><![CDATA[<p>Security researchers have discovered multiple vulnerabilities in the infotainment units used in some Skoda cars that could allow malicious actors to remotely trigger certain controls and track the cars&#8217; location in real time. PCAutomotive, a cybersecurity firm specializing in the automotive sector, unveiled 12 new security vulnerabilities impacting the latest model of the Skoda Superb [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>A new $25M fund aims to give UK mental health startups a shot in the arm</title>
 		<link>https://techcrunch.com/2024/12/12/a-new-25m-fund-aims-to-give-uk-mental-health-startups-a-shot-in-the-arm/</link>
 		
@@ -370,84 +462,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2929632</guid>
 
 					<description><![CDATA[<p>Late last year, Gou Rao and Vinod Jayaraman founded NeuBird to automate IT site reliability operations tasks with generative AI. Having sold their previous cloud-native storage startup, Portworx, to PureStorage for $370 million, the pair was well-versed in the IT challenges faced by today&#8217;s enterprises. &#8220;It&#8217;s very hard to find good site reliability engineers. There&#8217;s [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cruise employees &#8216;blindsided&#8217; by GM’s plan to end robotaxi program</title>
-		<link>https://techcrunch.com/2024/12/11/cruise-employees-blindsided-by-gms-plan-to-end-robotaxi-program/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec, Rebecca Bellan]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 19:18:10 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[autonomous vehicles]]></category>
-		<category><![CDATA[Cruise]]></category>
-		<category><![CDATA[GM]]></category>
-		<category><![CDATA[robotaxis]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2928906</guid>
-
-					<description><![CDATA[<p>The news came by Slack message.&#160; Cruise CEO Marc Whitten, who took the top post in June, posted a message Tuesday afternoon in the company’s announcements channel along with a link to a press release entitled “GM to refocus autonomous driving development on personal vehicles.” GM, which acquired the self-driving car startup in 2016, would [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft begins testing the ability to share files between iPhones and Windows PCs</title>
-		<link>https://techcrunch.com/2024/12/11/microsoft-begins-testing-the-ability-to-share-files-between-iphones-and-windows-pcs/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 19:03:58 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[phone link]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2929564</guid>
-
-					<description><![CDATA[<p>Microsoft announced on Wednesday that it&#8217;s starting to roll out a way for users to share files between their iPhone and Windows 11 or Windows 10 PCs via the company&#8217;s Phone Link app and Link to Windows app. The capability is rolling out now to Windows Insiders. Windows Insiders can now download the latest Phone [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Watch Google DeepMind&#8217;s Genie 2 generate playable 3D worlds</title>
-		<link>https://techcrunch.com/video/watch-google-deepminds-genie-2-generate-playable-3d-worlds/</link>
-		
-		<dc:creator><![CDATA[Maggie Stamets]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 19:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[google deepmind]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&#038;p=2929465</guid>
-
-					<description><![CDATA[<p>Last week, Google DeepMind announced Genie 2, a new video model that generates plausible, consistent, playable 3D environments based on a prompt image. DeepMind claims that Genie 2 has a slew of new and exciting emerging capabilities that improve the lighting, reflections, and can even generate videos from real-world images. Within these generated worlds, the [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>GM is giving up on Cruise robotaxis, pivots to personal autonomous vehicles</title>
-		<link>https://techcrunch.com/2024/12/11/gm-is-giving-up-on-cruise-robotaxis-pivots-to-personal-autonomous-vehicles/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec, Sean O'Kane]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 18:58:08 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[autonomous vehicles]]></category>
-		<category><![CDATA[avs]]></category>
-		<category><![CDATA[Cruise]]></category>
-		<category><![CDATA[General Motors]]></category>
-		<category><![CDATA[robotaxis]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2928780</guid>
-
-					<description><![CDATA[<p>General Motors said Tuesday it will no longer fund the development of a commercial robotaxi business and will instead absorb its self-driving car subsidiary Cruise and combine it with the automaker&#8217;s own efforts to develop driver assistance features — and eventually fully autonomous personal vehicles. The pivot is a remarkable step for the automaker, which [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
