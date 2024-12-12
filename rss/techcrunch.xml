@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 12 Dec 2024 12:23:14 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 12 Dec 2024 13:04:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,49 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Harvard and Google to release 1 million public-domain books as AI training dataset</title>
+		<link>https://techcrunch.com/2024/12/12/harvard-and-google-to-release-1-million-public-domain-books-as-ai-training-dataset/</link>
+		
+		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
+		<pubDate>Thu, 12 Dec 2024 13:04:06 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[AI training]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[harvard university]]></category>
+		<category><![CDATA[Institutional Data Initiative]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2930282</guid>
+
+					<description><![CDATA[<p>AI training data has a big price tag, one best-suited for deep-pocketed tech firms. This is why Harvard University plans to release a dataset that includes in the region of 1 million public-domain books, spanning genres, languages, and authors including Dickens, Dante, and Shakespeare, which are no longer copyright-protected due to their age. The new [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Gigs, an &#8216;MVNO in a box,&#8217; gets $73M to power mobile network services for any company</title>
+		<link>https://techcrunch.com/2024/12/12/gigs-mvno-73m-mobile-network-services/</link>
+		
+		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
+		<pubDate>Thu, 12 Dec 2024 12:55:00 +0000</pubDate>
+				<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[mvno]]></category>
+		<category><![CDATA[gigs]]></category>
+		<category><![CDATA[Ribbit Capital]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2927566</guid>
+
+					<description><![CDATA[<p>Gigs, a platform that makes it easier for any company to become a mobile virtual network operator (MVNO), has raised $73 million in a Series B round of funding. The announcement comes as countless companies have added mobile networking services to their product lineup this past year, including neobanks such as Nubank (a Gigs customer) [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Microsoft quietly axes Skype credit and phone number sales to push subscriptions</title>
 		<link>https://techcrunch.com/2024/12/12/microsoft-quietly-axes-skype-credit-and-phone-number-sales-to-push-subscriptions/</link>
 		
@@ -419,49 +462,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2929842</guid>
 
 					<description><![CDATA[<p>Honda Motor Co. will stop funding a joint venture with General Motors and Cruise to launch a robotaxi service in Japan, now that GM has pulled the plug on Cruise and its commercial robotaxi ambitions, reports The Nikkei. GM said Tuesday it would cease funding Cruise and instead absorb the company and combine it with [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Pentagon says mystery drones over New Jersey are &#8216;not US military,&#8217; not likely foreign</title>
-		<link>https://techcrunch.com/2024/12/11/pentagon-says-mystery-drones-over-new-jersey-are-not-us-military-not-likely-foreign/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 20:33:20 +0000</pubDate>
-				<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[Congress]]></category>
-		<category><![CDATA[drones]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2929652</guid>
-
-					<description><![CDATA[<p>In a press briefing on Wednesday, the Pentagon said it has no evidence that the mysterious drones that have been flying over New Jersey and other parts of the northeast U.S. in recent weeks were coming from a foreign entity, nor were they U.S. military drones. The comments come a day after a U.S. Congressional [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft’s M12 invests another $22.5M into NeuBird, months after its $22M seed round</title>
-		<link>https://techcrunch.com/2024/12/11/microsofts-m12-invests-another-22-5m-into-nuebird-months-after-its-22m-seed-round/</link>
-		
-		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 19:35:15 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[devops]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[M12]]></category>
-		<category><![CDATA[mayfield]]></category>
-		<category><![CDATA[NeuBird]]></category>
-		<category><![CDATA[SRE]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2929632</guid>
-
-					<description><![CDATA[<p>Late last year, Gou Rao and Vinod Jayaraman founded NeuBird to automate IT site reliability operations tasks with generative AI. Having sold their previous cloud-native storage startup, Portworx, to PureStorage for $370 million, the pair was well-versed in the IT challenges faced by today&#8217;s enterprises. &#8220;It&#8217;s very hard to find good site reliability engineers. There&#8217;s [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
