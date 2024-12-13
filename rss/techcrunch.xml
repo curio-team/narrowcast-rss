@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 13 Dec 2024 14:24:24 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Dec 2024 15:17:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,8 +31,71 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Bluesky is at a crossroads as users petition to ban newcomer over anti-trans views</title>
-		<link>https://techcrunch.com/2024/12/13/bluesky-is-at-a-crossroads-as-users-petition-to-ban-newcomer-over-anti-trans-views/</link>
+		<title>Google debuts NotebookLM for enterprises</title>
+		<link>https://techcrunch.com/2024/12/13/google-debuts-notebooklm-for-enterprise/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Fri, 13 Dec 2024 15:30:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[google cloud]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[notebooklm]]></category>
+		<category><![CDATA[agentspace]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2929161</guid>
+
+					<description><![CDATA[<p>Google's bringing its viral NotebookLM app to the enterprise via a new service for Google Cloud customers, Agentspace.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI blames its massive ChatGPT outage on a &#8216;new telemetry service&#8217;</title>
+		<link>https://techcrunch.com/2024/12/13/openai-blames-its-massive-chatgpt-outage-on-a-new-telemetry-service/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Fri, 13 Dec 2024 15:12:42 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Kubernetes]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Outage]]></category>
+		<category><![CDATA[postmortem]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2930688</guid>
+
+					<description><![CDATA[<p>OpenAI is blaming one of the longest outages in its history on a &#8220;new telemetry service&#8221; gone awry. On Wednesday, OpenAI&#8217;s AI-powered chatbot platform, ChatGPT; its video generator, Sora; and its developer-facing API experienced major disruptions starting at around 3 p.m. Pacific. OpenAI acknowledged the problem soon after — and began working on a fix. [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>How 21-year-old Koko Xs became the new rising star solo VC</title>
+		<link>https://techcrunch.com/2024/12/13/how-21-year-old-koko-xs-became-the-new-rising-star-solo-vc/</link>
+		
+		<dc:creator><![CDATA[Aria Alamalhodaei]]></dc:creator>
+		<pubDate>Fri, 13 Dec 2024 15:00:00 +0000</pubDate>
+				<category><![CDATA[Venture]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2930634</guid>
+
+					<description><![CDATA[<p>When Koko Xs considered pursuing a career as a VC after he graduated from college last year, he observed a handful of trends that suggested he should do something else. He noticed that it&#8217;s hard to land deals and it takes a long time to see returns, given that most VC funds typically take a [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Bluesky at a crossroads as users petition to ban Jesse Singal over anti-trans views, harassment</title>
+		<link>https://techcrunch.com/2024/12/13/bluesky-is-at-a-crossroads-as-users-petition-to-ban-jesse-singal-over-anti-trans-views-harassment/</link>
 		
 		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
 		<pubDate>Fri, 13 Dec 2024 14:24:20 +0000</pubDate>
@@ -377,66 +440,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2607662</guid>
 
 					<description><![CDATA[<p>A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Yahoo cybersecurity team sees layoffs, outsourcing of &#8216;red team,&#8217; under new CTO</title>
-		<link>https://techcrunch.com/2024/12/12/yahoo-cybersecurity-team-sees-layoffs-outsourcing-of-red-team-under-new-cto/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker, Lorenzo Franceschi-Bicchierai]]></dc:creator>
-		<pubDate>Thu, 12 Dec 2024 20:45:51 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[Layoffs]]></category>
-		<category><![CDATA[Paranoids]]></category>
-		<category><![CDATA[Yahoo]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2930653</guid>
-
-					<description><![CDATA[<p>Yahoo laid off around 25% of its cybersecurity team, known as The Paranoids, over the last year.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ServiceTitan&#8217;s IPO is a big winner that could inspire fintechs</title>
-		<link>https://techcrunch.com/2024/12/12/servicetitans-ipo-is-a-big-winner-that-could-inspire-fintechs/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Thu, 12 Dec 2024 20:41:17 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[IPOs]]></category>
-		<category><![CDATA[servicetitan]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2930587</guid>
-
-					<description><![CDATA[<p>ServiceTitan, which offers financial and customer management software for the trades, went public in a big way on Thursday, much to the delight of retail investors. The stock quickly popped from its opening IPO sales price of $71 to $105 a share in modest trading volume. It is currently maintaining an above-$100 price. ServiceTitan&#8217;s success [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Threads rolls out its own version of Bluesky&#8217;s &#8216;Starter Packs&#8217;</title>
-		<link>https://techcrunch.com/2024/12/12/threads-rolls-out-its-own-version-of-blueskys-starter-packs/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Thu, 12 Dec 2024 19:30:57 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Bluesky]]></category>
-		<category><![CDATA[starter pack]]></category>
-		<category><![CDATA[Threads]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2930575</guid>
-
-					<description><![CDATA[<p>Meta&#8217;s Threads is rolling out its own take on Bluesky’s &#8220;Starter Packs,&#8221; which are curated lists of suggested accounts that help new users find people to follow. Instagram head Adam Mosseri announced on Thursday that the social network is testing a way for users to find and easily follow collections of profiles that post about [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
