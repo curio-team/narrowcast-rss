@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 16 Dec 2024 11:10:15 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Dec 2024 13:08:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,49 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>EU signs $11B deal for sovereign satellite constellation to rival Musk&#8217;s Starlink</title>
+		<link>https://techcrunch.com/2024/12/16/eu-signs-11b-deal-for-sovereign-satellite-constellation-to-rival-musks-starlink/</link>
+		
+		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
+		<pubDate>Mon, 16 Dec 2024 13:08:38 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Space]]></category>
+		<category><![CDATA[Iris² satellite]]></category>
+		<category><![CDATA[Starlink]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2931842</guid>
+
+					<description><![CDATA[<p>The European Union is forging ahead with plans for a constellation of internet satellites to rival Elon Musk-owned Starlink, after signing a €10.6 billion ($11.1B) deal to launch nearly 300 satellites into low- and medium-Earth orbits by 2030. The bloc wants the space tech to boost its digital sovereignty by providing secure comms to governments. [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Prequel is building a community-driven approach to finding software bugs</title>
+		<link>https://techcrunch.com/2024/12/16/prequel-is-building-a-community-driven-approach-to-finding-software-bugs/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Mon, 16 Dec 2024 13:02:32 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[enterprise startup]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Prequel]]></category>
+		<category><![CDATA[startup]]></category>
+		<category><![CDATA[venture capital]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2931102</guid>
+
+					<description><![CDATA[<p>Cybersecurity practitioners take a community-driven approach to solving problems. Security researchers share the vulnerabilities they find with the broader cybersecurity community, which allows companies to patch up their security holes before something catastrophic happens. Prequel is looking to bring that same approach to software. The startup is building a database of software failure patterns or [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>UK&#8217;s internet watchdog finalizes first set of rules for Online Safety law</title>
 		<link>https://techcrunch.com/2024/12/16/uks-internet-watchdog-finalizes-first-set-of-rules-for-online-safety-law/</link>
 		
@@ -390,48 +433,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2930853</guid>
 
 					<description><![CDATA[<p>Klarna CEO Sebastian Siemiatkowski recently told Bloomberg TV that his company essentially stopped hiring a year ago and credited generative AI for enabling this massive workforce reduction. However, despite Siemiatkowski&#8217;s bullishness on AI, the company is not relying entirely on AI to replace human workers who leave, as open job listings — for more humans [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>&#8216;Reasoning&#8217; AI models have become a trend, for better or worse</title>
-		<link>https://techcrunch.com/2024/12/14/reasoning-ai-models-have-become-a-trend-for-better-or-worse/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Sat, 14 Dec 2024 14:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[research]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[reasoning]]></category>
-		<category><![CDATA[reasoning models]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2930342</guid>
-
-					<description><![CDATA[<p>Call it a reasoning renaissance. In the wake of the release of OpenAI&#8217;s o1, a so-called reasoning model, there&#8217;s been an explosion of reasoning models from rival AI labs. In early November, DeepSeek, an AI research company funded by quantitative traders, launched a preview of its first reasoning algorithm, DeepSeek-R1. That same month, Alibaba&#8217;s Qwen [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>X gains a faster Grok model and a new &#8216;Grok button&#8217;</title>
-		<link>https://techcrunch.com/2024/12/13/x-gains-a-faster-grok-model-and-a-new-grok-button/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Sat, 14 Dec 2024 03:12:12 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Grok]]></category>
-		<category><![CDATA[grok-2]]></category>
-		<category><![CDATA[X]]></category>
-		<category><![CDATA[xAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2931635</guid>
-
-					<description><![CDATA[<p>xAI, Elon Musk&#8217;s AI company, may be embroiled in an escalating lawsuit with OpenAI. But that&#8217;s not stopping it from shipping new products — on a Friday night, no less. This evening, xAI revealed that it has begun to roll out an upgraded version of its flagship Grok 2 chatbot model to all users on [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
