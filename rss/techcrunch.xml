@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 16 Dec 2024 10:30:41 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Dec 2024 11:10:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -212,19 +212,19 @@
 		
 			</item>
 		<item>
-		<title>Open source companies that go proprietary: A timeline</title>
+		<title>Open source software companies that go proprietary: A timeline</title>
 		<link>https://techcrunch.com/2024/12/15/open-source-companies-that-go-proprietary-a-timeline/</link>
 		
 		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
 		<pubDate>Sun, 15 Dec 2024 15:00:00 +0000</pubDate>
 				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[open source]]></category>
-		<category><![CDATA[MongoDB]]></category>
-		<category><![CDATA[open source license]]></category>
-		<category><![CDATA[redis]]></category>
 		<category><![CDATA[Confluent]]></category>
 		<category><![CDATA[Elastic]]></category>
 		<category><![CDATA[evergreens]]></category>
+		<category><![CDATA[MongoDB]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[open source license]]></category>
+		<category><![CDATA[redis]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2928341</guid>
 
 					<description><![CDATA[<p>Open source might be the building blocks of the modern software stack, but companies building businesses off the back of open source software face a perennial struggle between keeping their community happy and ensuring that third parties don&#8217;t abuse the permissions afforded by the license. Many companies have launched with lofty open source ambitions, only [&#8230;]</p>
