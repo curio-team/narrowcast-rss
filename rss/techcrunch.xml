@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 13 Dec 2024 15:17:23 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Dec 2024 02:22:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,23 +31,24 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Google debuts NotebookLM for enterprises</title>
-		<link>https://techcrunch.com/2024/12/13/google-debuts-notebooklm-for-enterprise/</link>
+		<title>Serbian police used Cellebrite to unlock, then plant spyware, on a journalist&#8217;s phone</title>
+		<link>https://techcrunch.com/2024/12/15/serbian-police-used-cellebrite-to-unlock-then-plant-spyware-on-a-journalists-phone/</link>
 		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Fri, 13 Dec 2024 15:30:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[google cloud]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[notebooklm]]></category>
-		<category><![CDATA[agentspace]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2929161</guid>
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Mon, 16 Dec 2024 06:05:00 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Spyware]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[Amnesty International]]></category>
+		<category><![CDATA[infosec]]></category>
+		<category><![CDATA[Cellebrite]]></category>
+		<category><![CDATA[Amnesty]]></category>
+		<category><![CDATA[Serbia]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2931272</guid>
 
-					<description><![CDATA[<p>Google's bringing its viral NotebookLM app to the enterprise via a new service for Google Cloud customers, Agentspace.</p>
+					<description><![CDATA[<p>Amnesty said it found NoviSpy, an Android spyware linked to Serbian intelligence, on the phones of several members of Serbian civil society following police stops.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -55,100 +56,17 @@
 		
 			</item>
 		<item>
-		<title>OpenAI blames its massive ChatGPT outage on a &#8216;new telemetry service&#8217;</title>
-		<link>https://techcrunch.com/2024/12/13/openai-blames-its-massive-chatgpt-outage-on-a-new-telemetry-service/</link>
+		<title>Revisiting 19th-century Paris with VR</title>
+		<link>https://techcrunch.com/2024/12/15/revisiting-19th-century-paris-with-vr/</link>
 		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Fri, 13 Dec 2024 15:12:42 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Kubernetes]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[Outage]]></category>
-		<category><![CDATA[postmortem]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2930688</guid>
-
-					<description><![CDATA[<p>OpenAI is blaming one of the longest outages in its history on a &#8220;new telemetry service&#8221; gone awry. On Wednesday, OpenAI&#8217;s AI-powered chatbot platform, ChatGPT; its video generator, Sora; and its developer-facing API experienced major disruptions starting at around 3 p.m. Pacific. OpenAI acknowledged the problem soon after — and began working on a fix. [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>How 21-year-old Koko Xs became the new rising star solo VC</title>
-		<link>https://techcrunch.com/2024/12/13/how-21-year-old-koko-xs-became-the-new-rising-star-solo-vc/</link>
-		
-		<dc:creator><![CDATA[Aria Alamalhodaei]]></dc:creator>
-		<pubDate>Fri, 13 Dec 2024 15:00:00 +0000</pubDate>
-				<category><![CDATA[Venture]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2930634</guid>
-
-					<description><![CDATA[<p>When Koko Xs considered pursuing a career as a VC after he graduated from college last year, he observed a handful of trends that suggested he should do something else. He noticed that it&#8217;s hard to land deals and it takes a long time to see returns, given that most VC funds typically take a [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Bluesky at a crossroads as users petition to ban Jesse Singal over anti-trans views, harassment</title>
-		<link>https://techcrunch.com/2024/12/13/bluesky-is-at-a-crossroads-as-users-petition-to-ban-jesse-singal-over-anti-trans-views-harassment/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Fri, 13 Dec 2024 14:24:20 +0000</pubDate>
-				<category><![CDATA[Social]]></category>
-		<category><![CDATA[Bluesky]]></category>
-		<category><![CDATA[moderation]]></category>
-		<category><![CDATA[social]]></category>
-		<category><![CDATA[social media]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2930623</guid>
-
-					<description><![CDATA[<p>Now with 25 million users, Bluesky is facing a test that will determine whether or not its platform will still be seen as a safe space and place of refuge from the toxicity of X. In recent days, a large number of users on Bluesky have been urging the company to ban one newcomer for [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Controversial EU ad campaign on X broke bloc&#8217;s own privacy rules</title>
-		<link>https://techcrunch.com/2024/12/13/controversial-eu-ad-campaign-on-x-broke-blocs-own-privacy-rules/</link>
-		
-		<dc:creator><![CDATA[Natasha Lomas]]></dc:creator>
-		<pubDate>Fri, 13 Dec 2024 13:36:21 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[eu csam microtargeting]]></category>
-		<category><![CDATA[eu csam microtargeting epds decision]]></category>
-		<category><![CDATA[noyb eu csam microtargeting complaint]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2930937</guid>
-
-					<description><![CDATA[<p>The European Union&#8217;s executive body is facing an embarrassing privacy scandal after it was confirmed on Friday that a Commission ad campaign on X (formerly Twitter) breached the EU&#8217;s own data protection rules. The finding by the EU&#8217;s oversight body, the European Data Protection Supervisor (EDPS), relates to a micro-targeted ad campaign that the Commission [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Activate and The Engine Accelerator team up to train scientists to become founders </title>
-		<link>https://techcrunch.com/2024/12/13/activate-and-the-engine-accelerator-team-up-to-train-scientists-to-become-founders/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Fri, 13 Dec 2024 13:30:58 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Mon, 16 Dec 2024 00:09:34 +0000</pubDate>
+				<category><![CDATA[Media & Entertainment]]></category>
 		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[accelerators]]></category>
-		<category><![CDATA[activate]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[The Engine]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2930713</guid>
+		<category><![CDATA[TC]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2931785</guid>
 
-					<description><![CDATA[<p>Two prominent programs, Activate and The Engine Accelerator, have decided they can give founders an advantage if they team up.</p>
+					<description><![CDATA[<p>While I have fond memories of past efforts to combine VR content with real-world locations, I’d assumed the pandemic had put those ambitions to an end. If I wanted VR in 2024, I thought I’d have to buy a headset, and it would be a largely solitary experience at home or in the office — [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -156,55 +74,16 @@
 		
 			</item>
 		<item>
-		<title>WhatsApp lets you select specific people within a group to start a group call without disturbing anyone</title>
-		<link>https://techcrunch.com/2024/12/13/whatsapp-lets-you-select-specific-people-within-a-group-to-start-a-group-call-without-disturbing-anyone/</link>
+		<title>NeurIPS keynote speaker apologizes for reference to Chinese student</title>
+		<link>https://techcrunch.com/2024/12/15/neurips-keynote-speaker-apologizes-for-reference-to-chinese-student/</link>
 		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Fri, 13 Dec 2024 10:11:41 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[video calls]]></category>
-		<category><![CDATA[WhatsApp]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2930921</guid>
-
-					<description><![CDATA[<p>WhatsApp announced that it had added new video calling features just before the holidays, including participant selection for group video calls, better resolution, and a revamped call tab on the desktop. This is another step from Meta in making WhatsApp a viable option for both personal and work calls instead of using Google Meet or [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New Syndicate One fund joins Belgium&#8217;s small-but-punchy tech ecosystem</title>
-		<link>https://techcrunch.com/2024/12/13/new-syndicate-one-fund-joins-belgiums-small-but-punchy-tech-ecosystem/</link>
-		
-		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
-		<pubDate>Fri, 13 Dec 2024 09:00:00 +0000</pubDate>
-				<category><![CDATA[Venture]]></category>
-		<category><![CDATA[VC]]></category>
-		<category><![CDATA[venture]]></category>
-		<category><![CDATA[belgium]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2930593</guid>
-
-					<description><![CDATA[<p>Syndicate One is a debut investment firm out of Belgium that has raised a €6.5 million fund to back Belgian founders and startups. While the amount is small, the significance is that it is the first Belgian fund to have the support of all four of the federal regions of the country. This, in a [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>As AI-fueled disinformation explodes, here comes the startup counterattack</title>
-		<link>https://techcrunch.com/2024/12/13/as-ai-fueled-disinformation-explodes-here-comes-the-startup-counterattack/</link>
-		
-		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
-		<pubDate>Fri, 13 Dec 2024 08:01:00 +0000</pubDate>
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sun, 15 Dec 2024 20:50:45 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[disinformation]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2930633</guid>
+		<category><![CDATA[neurips]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2931780</guid>
 
-					<description><![CDATA[<p>With disinformation on the rise, especially given the explosion of AI, companies are just as vulnerable to its effects as individuals. Refute is a London-based startup that detects and responds to disinformation on behalf of these commercial entities. It’s now raised a £2.3 million ($2.9 million) pre-seed round led by UK investors Playfair and Episode 1. [&#8230;]</p>
+					<description><![CDATA[<p>A speaker at the annual NeurIPS AI conference has drawn criticism — not for her opinions about AI, but the way she referred to a Chinese student. During her keynote presentation on “How to optimize what matters most,” MIT Media Lab Professor Rosalind Picard (pictured above) included a slide quoting an excuse given by a [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -212,149 +91,19 @@
 		
 			</item>
 		<item>
-		<title>Texas AG is investigating Character.AI, other platforms over child safety concerns</title>
-		<link>https://techcrunch.com/2024/12/12/texas-ag-is-investigating-character-ai-other-platforms-over-child-safety-concerns/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Fri, 13 Dec 2024 07:46:57 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[AI chatbots]]></category>
-		<category><![CDATA[character.ai]]></category>
-		<category><![CDATA[discord]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[privacy]]></category>
-		<category><![CDATA[Safety]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2930886</guid>
-
-					<description><![CDATA[<p>Texas Attorney General Ken Paxton on Thursday launched an investigation into Character.AI and 14 other technology platforms over child privacy and safety concerns. The investigation will assess whether Character.AI — and other platforms that are popular with young people, including Reddit, Instagram and Discord — conform to Texas&#8217; child privacy and safety laws. The investigation [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft launches Phi-4, a new generative AI model, in research preview</title>
-		<link>https://techcrunch.com/2024/12/12/microsoft-debuts-phi-4-a-new-generative-ai-model-in-research-preview/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers, Maxwell Zeff]]></dc:creator>
-		<pubDate>Fri, 13 Dec 2024 01:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[open source]]></category>
-		<category><![CDATA[phi-4]]></category>
-		<category><![CDATA[research]]></category>
-		<category><![CDATA[small language models]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2930807</guid>
-
-					<description><![CDATA[<p>Microsoft has revealed the newest addition to its Phi family of generative AI models. Called Phi-4, the model improves in several areas over its predecessors, Microsoft claims, particularly in solving math problems. That&#8217;s partly the result of better training data quality. Phi-4 is available in very limited access as of Thursday night only on Microsoft&#8217;s [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meta debuts a tool for watermarking AI-generated videos</title>
-		<link>https://techcrunch.com/2024/12/12/meta-releases-a-tool-for-watermarking-ai-generated-videos/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[deepfakes]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[meta video seal]]></category>
-		<category><![CDATA[open source]]></category>
-		<category><![CDATA[watermarking]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2930018</guid>
-
-					<description><![CDATA[<p>Meta is open sourcing a method to watermark AI-generated videos. Called Meta Video Seal, the company says it's robust against compression and edits.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Gemini: Everything you need to know about the generative AI models</title>
-		<link>https://techcrunch.com/2024/12/12/what-is-google-gemini-ai/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers, Maxwell Zeff]]></dc:creator>
-		<pubDate>Thu, 12 Dec 2024 22:59:55 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[gemini]]></category>
-		<category><![CDATA[Gemini Pro]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[google gemini]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2643858</guid>
-
-					<description><![CDATA[<p>Gemini is Google’s long-promised, next-gen generative AI model family.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>A Waymo robotaxi got stuck in a roundabout loop</title>
-		<link>https://techcrunch.com/2024/12/12/a-waymo-robotaxi-got-stuck-in-a-roundabout-loop/</link>
+		<title>The 2025 Lucid Air Pure is a luxe ride at $69,900 with room for tech tune-ups</title>
+		<link>https://techcrunch.com/2024/12/15/the-2025-lucid-air-pure-is-a-luxe-ride-at-69900-with-room-for-tech-tune-ups/</link>
 		
 		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Thu, 12 Dec 2024 22:34:08 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[robotaxi]]></category>
-		<category><![CDATA[Waymo]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2930699</guid>
-
-					<description><![CDATA[<p>Roundabouts. They trapped Clark Griswold in &#8220;National Lampoon&#8217;s European Vacation&#8221; and now they&#8217;ve tripped up a Waymo robotaxi. A video is circulating on social media showing a Waymo robotaxi going round and round on a roundabout — as if it is stuck in a loop. A Waymo spokesperson told TechCrunch there were no passengers onboard [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fleet Space raises $100M to scale satellite-enabled mineral prospecting tech</title>
-		<link>https://techcrunch.com/2024/12/12/fleet-space-raises-100m-to-scale-satellite-enabled-mineral-prospecting-tech/</link>
-		
-		<dc:creator><![CDATA[Aria Alamalhodaei]]></dc:creator>
-		<pubDate>Thu, 12 Dec 2024 22:19:26 +0000</pubDate>
-				<category><![CDATA[Space]]></category>
-		<category><![CDATA[Fleet Space Technologies]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2930708</guid>
-
-					<description><![CDATA[<p>Late-stage deals in space have been on the decline this year, but one notable exception is Fleet Space Technologies’ $100 million Series D.  The Adelaide, Australia-based startup raised the new funding to accelerate the development of ExoSphere, a platform to enable real-time mineral prospecting from space. The company currently has two satellites in low Earth [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Carta is making it too difficult to cancel subscriptions, some founders say</title>
-		<link>https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/</link>
-		
-		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
-		<pubDate>Thu, 12 Dec 2024 21:57:23 +0000</pubDate>
+		<pubDate>Sun, 15 Dec 2024 20:09:12 +0000</pubDate>
 				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[cap table management]]></category>
-		<category><![CDATA[Carta]]></category>
-		<category><![CDATA[funding round]]></category>
-		<category><![CDATA[venture funding]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2930667</guid>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[EV]]></category>
+		<category><![CDATA[lucid]]></category>
+		<category><![CDATA[Lucid air pure]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2931675</guid>
 
-					<description><![CDATA[<p>Cap table management firm Carta is under fire from some founders who say cancelling their subscriptions is too hard. </p>
+					<description><![CDATA[<p>The all-electric 2025 Lucid Air Pure is a dreamy, sexy car that’s no less luxurious for being the cheapest trim in Lucid’s Air lineup. I felt fancy and discerning driving around, but in an understated way – as if I were wearing designer sweatpants.&#160; But does fancy equal value? I spent about 10 days driving [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -362,63 +111,18 @@
 		
 			</item>
 		<item>
-		<title>Tesla&#8217;s loss is Zoox&#8217;s gain</title>
-		<link>https://techcrunch.com/2024/12/12/teslas-loss-is-zooxs-gain/</link>
+		<title>What exactly is an AI agent?</title>
+		<link>https://techcrunch.com/2024/12/15/what-exactly-is-an-ai-agent/</link>
 		
-		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
-		<pubDate>Thu, 12 Dec 2024 21:27:11 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[autonomous vehicles]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Tesla]]></category>
-		<category><![CDATA[zoox]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2930677</guid>
-
-					<description><![CDATA[<p>Zoox co-founder and CTO Jesse Levinson told the crowd at TechCrunch Disrupt 2024 that he didn&#8217;t think Tesla would launch a robotaxi ride-hailing service in California (or anywhere else) next year, despite&#160;what Elon Musk had claimed. The “fundamental issue is they don’t have technology that works,&#8221; he said at the time. But it seems that [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nearly half of US teens are online almost constantly, Pew study finds</title>
-		<link>https://techcrunch.com/2024/12/12/nearly-half-of-us-teens-are-online-almost-constantly-pew-study-finds/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Thu, 12 Dec 2024 21:26:31 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Instagram]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[social media]]></category>
-		<category><![CDATA[TikTok]]></category>
-		<category><![CDATA[YouTube]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2930636</guid>
-
-					<description><![CDATA[<p>Nearly half of teens in the U.S. are online almost constantly, and the platform they’re using the most is YouTube, a new study from the Pew Research Center has found. The Center reports that 46% of teens say they&#8217;re online &#8220;almost constantly,&#8221; and 90% of teens it surveyed said they use the Google-owned video platform, [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ChatGPT: Everything you need to know about the AI-powered chatbot</title>
-		<link>https://techcrunch.com/2024/12/12/chatgpt-everything-to-know-about-the-ai-chatbot/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers, Cody Corrall, Alyssa Stringer]]></dc:creator>
-		<pubDate>Thu, 12 Dec 2024 21:15:00 +0000</pubDate>
+		<dc:creator><![CDATA[Ron Miller]]></dc:creator>
+		<pubDate>Sun, 15 Dec 2024 19:46:52 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[AI agents]]></category>
 		<category><![CDATA[evergreens]]></category>
 		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2607630</guid>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2807754</guid>
 
-					<description><![CDATA[<p>ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to supercharge productivity through writing essays and code with short text prompts has evolved into a behemoth with 300 million weekly active users. 2024 has been a big year for OpenAI, from its [&#8230;]</p>
+					<description><![CDATA[<p>Regardless of how they're defined, the agents are for helping complete tasks in an automated way with as little human interaction as possible.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -426,20 +130,309 @@
 		
 			</item>
 		<item>
-		<title>A comprehensive list of 2024 tech layoffs</title>
-		<link>https://techcrunch.com/2024/12/12/tech-layoffs-2024-list/</link>
+		<title>Apple reportedly developing foldable iPhone and iPad</title>
+		<link>https://techcrunch.com/2024/12/15/apple-reportedly-developing-foldable-iphone-and-ipad/</link>
 		
-		<dc:creator><![CDATA[Cody Corrall, Alyssa Stringer]]></dc:creator>
-		<pubDate>Thu, 12 Dec 2024 21:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[Layoffs]]></category>
-		<category><![CDATA[tech layoffs]]></category>
-		<category><![CDATA[TechCrunch 2023 Recap]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2607662</guid>
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sun, 15 Dec 2024 17:51:58 +0000</pubDate>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[foldable]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2931722</guid>
 
-					<description><![CDATA[<p>A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.</p>
+					<description><![CDATA[<p>The next big upgrade to Apple’s mobile devices could be foldability, according to multiple reports published Sunday. According to The Wall Street Journal, Apple is aiming to launch two foldable devices in the next few years. There’s a larger model with a 19-inch screen that could compete with desktop monitors, as well as a smaller [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Open source companies that go proprietary: A timeline</title>
+		<link>https://techcrunch.com/2024/12/15/open-source-companies-that-go-proprietary-a-timeline/</link>
+		
+		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
+		<pubDate>Sun, 15 Dec 2024 15:00:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[MongoDB]]></category>
+		<category><![CDATA[open source license]]></category>
+		<category><![CDATA[redis]]></category>
+		<category><![CDATA[Confluent]]></category>
+		<category><![CDATA[Elastic]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2928341</guid>
+
+					<description><![CDATA[<p>Open source might be the building blocks of the modern software stack, but companies building businesses off the back of open source software face a perennial struggle between keeping their community happy and ensuring that third parties don&#8217;t abuse the permissions afforded by the license. Many companies have launched with lofty open source ambitions, only [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trump&#8217;s Silicon Valley advisers have AI &#8216;censorship&#8217; in their crosshairs</title>
+		<link>https://techcrunch.com/2024/12/15/trumps-silicon-valley-advisers-have-ai-censorship-in-their-crosshairs/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Sun, 15 Dec 2024 14:00:00 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[david sacks]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[Marc Andreessen]]></category>
+		<category><![CDATA[Donald Trump]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2929210</guid>
+
+					<description><![CDATA[<p>President-elect Donald Trump has surrounded himself with Silicon Valley entrepreneurs — including Elon Musk, Marc Andreessen, and David Sacks — who are now advising him on technology and other issues. When it comes to AI, this crew of technologists is fairly aligned on the need for rapid development and adoption of AI throughout the U.S. [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Rhode Island says personal data likely breached in social services cyberattack</title>
+		<link>https://techcrunch.com/2024/12/14/rhode-island-says-personal-data-likely-breached-in-social-services-cyberattack/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sat, 14 Dec 2024 23:17:48 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[deloitte]]></category>
+		<category><![CDATA[rhode island]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2931711</guid>
+
+					<description><![CDATA[<p>State officials said hundreds of thousands of Rhode Island residents could be affected by a cyberattack on the state’s online portal for social services, with a “high probability” that&#160; personally identifiable information was breached. According to an update from Governor Dan McKee’s office, the attack targeted RIBridges, which Rhode Island residents use to apply for [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>GM ‘blindsides’ Cruise by giving up on robotaxis</title>
+		<link>https://techcrunch.com/2024/12/14/gm-blindsides-cruise-by-giving-up-on-robotaxis/</link>
+		
+		<dc:creator><![CDATA[Cody Corrall]]></dc:creator>
+		<pubDate>Sat, 14 Dec 2024 21:17:00 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Week in Review]]></category>
+		<category><![CDATA[Cruise]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[TechCrunch Week in Review]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2931090</guid>
+
+					<description><![CDATA[<p>Welcome back to Week in Review. This week, we’re looking at GM’s decision to pull out of the robotaxi business, Google alluding to the existence of multiple universes, and how you can make some serious cash by getting an AI bot to fall in love with you. Let’s get into it. General Motors will no [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Meta asks California AG to block OpenAI’s conversion to for-profit</title>
+		<link>https://techcrunch.com/2024/12/14/meta-asks-california-ag-to-block-openais-conversion-to-for-profit/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sat, 14 Dec 2024 18:46:09 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2931690</guid>
+
+					<description><![CDATA[<p>Facebook’s parent company Meta is supporting Elon Musk’s effort to block OpenAI’s conversion from a non-profit company into a for-profit one. As reported by The Wall Street Journal, Meta sent a letter to California Attorney General Rob Bonta arguing that allowing the shift would have “seismic implications for Silicon Valley.&#8221; And while the company asked [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>What are AI &#8216;world models,&#8217; and why do they matter?</title>
+		<link>https://techcrunch.com/2024/12/14/what-are-ai-world-models-and-why-do-they-matter/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Sat, 14 Dec 2024 18:01:19 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence (AI)]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<category><![CDATA[world models]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2905901</guid>
+
+					<description><![CDATA[<p>World models, also known as world simulators, are being touted by some as the next big thing in AI. AI pioneer Fei-Fei Li&#8217;s World Labs has raised $230 million to build &#8220;large world models,&#8221; and DeepMind hired one of the creators of OpenAI&#8217;s video generator, Sora, to work on &#8220;world simulators.&#8221; (Sora was released on [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Arlan Hamilton announces changes at Backstage Capital, will step into advisory role</title>
+		<link>https://techcrunch.com/2024/12/14/arlan-hamilton-announces-changes-at-backstage-capital-will-step-into-advisory-role/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Sat, 14 Dec 2024 16:30:00 +0000</pubDate>
+				<category><![CDATA[Venture]]></category>
+		<category><![CDATA[arlan hamilton]]></category>
+		<category><![CDATA[backstage capital]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2931659</guid>
+
+					<description><![CDATA[<p>Arlan Hamilton, founder of Backstage Capital, announced Friday that her role at the firm she started in 2015 will evolve.&#160; “After 12 years of being deeply involved in the day-to-day operations, I’ve decided to transition into a chairperson and advisory position,” she wrote in a statement released online. She was previously a managing partner at [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Why Marc Andreessen was &#8216;very scared&#8217; after meeting with the Biden administration about AI</title>
+		<link>https://techcrunch.com/2024/12/14/why-marc-andreessen-was-very-scared-after-meeting-with-the-biden-administration-about-ai/</link>
+		
+		<dc:creator><![CDATA[Margaux MacColl]]></dc:creator>
+		<pubDate>Sat, 14 Dec 2024 16:00:00 +0000</pubDate>
+				<category><![CDATA[Venture]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[david sacks]]></category>
+		<category><![CDATA[Marc Andreessen]]></category>
+		<category><![CDATA[Artificial Intelligence (AI)]]></category>
+		<category><![CDATA[a16z]]></category>
+		<category><![CDATA[sam altman]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2931402</guid>
+
+					<description><![CDATA[<p>What scared him most was what some said about the government’s role in AI, and what he described as a young staff who were “out for blood. ”</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Klarna&#8217;s CEO says it stopped hiring thanks to AI but still advertises many open positions</title>
+		<link>https://techcrunch.com/2024/12/14/klarnas-ceo-says-it-stopped-hiring-thanks-to-ai-but-still-advertises-many-open-positions/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Sat, 14 Dec 2024 15:00:00 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[hiring]]></category>
+		<category><![CDATA[Klarna]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[AI chatbots]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2930853</guid>
+
+					<description><![CDATA[<p>Klarna CEO Sebastian Siemiatkowski recently told Bloomberg TV that his company essentially stopped hiring a year ago and credited generative AI for enabling this massive workforce reduction. However, despite Siemiatkowski&#8217;s bullishness on AI, the company is not relying entirely on AI to replace human workers who leave, as open job listings — for more humans [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>&#8216;Reasoning&#8217; AI models have become a trend, for better or worse</title>
+		<link>https://techcrunch.com/2024/12/14/reasoning-ai-models-have-become-a-trend-for-better-or-worse/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Sat, 14 Dec 2024 14:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[reasoning]]></category>
+		<category><![CDATA[reasoning models]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2930342</guid>
+
+					<description><![CDATA[<p>Call it a reasoning renaissance. In the wake of the release of OpenAI&#8217;s o1, a so-called reasoning model, there&#8217;s been an explosion of reasoning models from rival AI labs. In early November, DeepSeek, an AI research company funded by quantitative traders, launched a preview of its first reasoning algorithm, DeepSeek-R1. That same month, Alibaba&#8217;s Qwen [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>X gains a faster Grok model and a new &#8216;Grok button&#8217;</title>
+		<link>https://techcrunch.com/2024/12/13/x-gains-a-faster-grok-model-and-a-new-grok-button/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Sat, 14 Dec 2024 03:12:12 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Grok]]></category>
+		<category><![CDATA[grok-2]]></category>
+		<category><![CDATA[X]]></category>
+		<category><![CDATA[xAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2931635</guid>
+
+					<description><![CDATA[<p>xAI, Elon Musk&#8217;s AI company, may be embroiled in an escalating lawsuit with OpenAI. But that&#8217;s not stopping it from shipping new products — on a Friday night, no less. This evening, xAI revealed that it has begun to roll out an upgraded version of its flagship Grok 2 chatbot model to all users on [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI co-founder Ilya Sutskever believes superintelligent AI will be &#8216;unpredictable&#8217;</title>
+		<link>https://techcrunch.com/2024/12/13/openai-co-founder-ilya-sutskever-believes-superintelligent-ai-will-be-unpredictable/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Sat, 14 Dec 2024 01:09:58 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AGI]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Ilya Sutskever]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[safe superintelligence]]></category>
+		<category><![CDATA[ssi]]></category>
+		<category><![CDATA[superintelligence]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2931568</guid>
+
+					<description><![CDATA[<p>OpenAI co-founder Ilya Sutskever spoke on a range of topics at NeurIPS, the annual AI conference, Friday afternoon before accepting an award for his contributions to the field. Sutskever gave his predictions for &#8220;superintelligent AI&#8221; — AI more capable than humans at many tasks, which he believes will be achieved at some point. Superintelligent AI [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI whistleblower found dead at 26 in San Francisco apartment</title>
+		<link>https://techcrunch.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Sat, 14 Dec 2024 00:15:37 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2931544</guid>
+
+					<description><![CDATA[<p>A former OpenAI employee, Suchir Balaji, was recently found dead in his San Francisco apartment, according to the San Francisco Office of the Chief Medical Examiner. In October, the 26-year-old AI researcher raised concerns about OpenAI breaking copyright law when he was interviewed by The New York Times. &#8220;The Office of the Chief Medical Examiner [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI helps Telegram remove 15 million suspect groups and channels in 2024</title>
+		<link>https://techcrunch.com/2024/12/13/ai-helps-telegram-remove-15-million-suspect-groups-and-channels-in-2024/</link>
+		
+		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
+		<pubDate>Fri, 13 Dec 2024 23:51:06 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[content moderation]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Pavel Durov]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[Telegram]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2931451</guid>
+
+					<description><![CDATA[<p>Telegram launched a new page touting its moderation efforts, which have spiked since its founder's arrest.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
