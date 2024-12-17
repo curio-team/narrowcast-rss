@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 17 Dec 2024 11:19:02 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 17 Dec 2024 12:38:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,18 +31,21 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>While some account-to-account payments players falter, Volume raises fresh cash</title>
-		<link>https://techcrunch.com/2024/12/17/while-some-account-to-account-payments-players-falter-volume-raises-fresh-cash/</link>
+		<title>Pineapple on pizza is delicious — and if you disagree, you can&#8217;t log in to WordPress.org</title>
+		<link>https://techcrunch.com/2024/12/17/pineapple-on-pizza-is-delicious-and-if-you-disagree-you-cant-log-in-to-wordpress-org/</link>
 		
-		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
-		<pubDate>Tue, 17 Dec 2024 11:18:57 +0000</pubDate>
-				<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[payments]]></category>
-		<category><![CDATA[volume]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2932989</guid>
+		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
+		<pubDate>Tue, 17 Dec 2024 12:13:51 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Automattic]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[pineapple pizza]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2932980</guid>
 
-					<description><![CDATA[<p>Online merchants can usually pay up to 8% of every sale on an item to companies like PayPal, Apple Pay, and Stripe —&#160;and those costs are usually passed to consumers. So-called ‘account-to-account’ or ‘A2A’ payments can cut transaction fees to below 1%, saving merchants and consumers quite a bit of cash. The difficulty has been [&#8230;]</p>
+					<description><![CDATA[<p>There are few matters in life that divide a room more than the prudence of putting pineapple on pizza. But if you&#8217;re of the persuasion that tropical fruit has no place on a pie, you&#8217;ll have to swallow a bitter pill &#8212; if you want to access the WordPress.org developer portal and forum, at least. [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -50,7 +53,69 @@
 		
 			</item>
 		<item>
-		<title>Travel is back: Hostaway raises $365M at a $925M valuation</title>
+		<title>Remote enables USDC crypto payouts for contractors</title>
+		<link>https://techcrunch.com/2024/12/17/remote-enables-usdc-crypto-payouts-for-contractors/</link>
+		
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+		<pubDate>Tue, 17 Dec 2024 12:00:00 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Remote]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[ethereum]]></category>
+		<category><![CDATA[USDC]]></category>
+		<category><![CDATA[HRIS]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2930419</guid>
+
+					<description><![CDATA[<p>Getting paid in cryptocurrencies may sound like a bad idea, but this could be an actually useful feature for international contractors. Remote, the company that lets you hire people and manage contractors all around the world, is introducing crypto payouts on Tuesday. Companies based in the U.S. can start paying their contractors with stablecoins in [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>EU to investigate TikTok&#8217;s response to election security risks in Romania</title>
+		<link>https://techcrunch.com/2024/12/17/eu-to-investigate-tiktoks-response-to-election-security-risks-in-romania/</link>
+		
+		<dc:creator><![CDATA[Natasha Lomas]]></dc:creator>
+		<pubDate>Tue, 17 Dec 2024 11:49:59 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[dsa tiktok]]></category>
+		<category><![CDATA[dsa tiktok election security]]></category>
+		<category><![CDATA[dsk tiktok romanian election]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2932979</guid>
+
+					<description><![CDATA[<p>TikTok is now subject to not one, but two Digital Services Act (DSA) investigations. The European Union announced on Tuesday that it has opened a formal proceeding focused on election risks, specifically in the context of recent elections in Romania. The probe will focus on TikTok&#8217;s recommender systems, principally &#8220;risks linked to the coordinated inauthentic manipulation [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>As account-to-account payments startups falter, Volume raises fresh cash</title>
+		<link>https://techcrunch.com/2024/12/17/while-some-account-to-account-payments-players-falter-volume-raises-fresh-cash/</link>
+		
+		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
+		<pubDate>Tue, 17 Dec 2024 11:18:57 +0000</pubDate>
+				<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[payments]]></category>
+		<category><![CDATA[volume]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2932989</guid>
+
+					<description><![CDATA[<p>Online merchants usually pay up to 8% of every sale to companies like PayPal, Apple Pay, and Stripe, and pass those costs on to consumers. So-called ‘account-to-account’ or ‘A2A’ payments can cut transaction fees to below 1%, saving merchants and consumers quite a bit of cash. The difficulty has been in making it seamless for both [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Travel is back: Hostaway raises $365M at $925M valuation</title>
 		<link>https://techcrunch.com/2024/12/17/travel-is-back-hostaway-raises-365m-at-a-925m-valuation/</link>
 		
 		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
@@ -66,7 +131,7 @@
 		<category><![CDATA[Vacation Rentals]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2932984</guid>
 
-					<description><![CDATA[<p>The tourism and travel industries — after several tough years that included not just a global health pandemic but economic and geopolitical upheaval — are finally back on track, expected to make a “full recovery” to pre-pandemic levels of activity, the UN said earlier this month. As an indicator of that, Hostaway, one of the [&#8230;]</p>
+					<description><![CDATA[<p>The tourism and travel industries are finally back on track, expected to make a “full recovery” to pre-pandemic levels of activity, the UN said earlier this month. As an indicator of that, Hostaway, one of the bigger software startups in the space, is announcing a giant round of funding to double down on growth.  The [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -390,68 +455,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2932558</guid>
 
 					<description><![CDATA[<p>The hackers stole names, phone numbers, dates of birth and information related to health conditions, treatments and prescriptions.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI brings its AI-powered web search tool to more ChatGPT users</title>
-		<link>https://techcrunch.com/2024/12/16/openai-brings-its-ai-powered-web-search-tool-to-more-chatgpt-users/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Mon, 16 Dec 2024 19:38:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[chatgpt search]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[Search]]></category>
-		<category><![CDATA[web search]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2932153</guid>
-
-					<description><![CDATA[<p>ChatGPT Search, OpenAI&#8217;s AI-powered web search experience, is now live for all ChatGPT users — with several new features in tow. By default, ChatGPT will automatically determine which questions to route through ChatGPT Search, or users can tap a new &#8220;Search the web&#8221; icon in the ChatGPT interface. ChatGPT Search shows summarized answers from different [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Instagram now lets you schedule DMs</title>
-		<link>https://techcrunch.com/2024/12/16/instagram-now-lets-you-schedule-dms/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Mon, 16 Dec 2024 19:19:39 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[direct messages]]></category>
-		<category><![CDATA[Instagram]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2932179</guid>
-
-					<description><![CDATA[<p>Instagram has quietly rolled out the ability for users to schedule direct messages. The Meta-owned social network confirmed to TechCrunch on Monday that the new feature is rolling out to all users globally. The option to schedule DMs will be especially useful for creators and brands that want to schedule outreach messages at optimal times. [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google experiments with a new image generator that remixes three images into one creation</title>
-		<link>https://techcrunch.com/2024/12/16/google-experiments-with-a-new-image-generator-that-remixes-three-images-into-one-creation/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Mon, 16 Dec 2024 18:32:57 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[google labs]]></category>
-		<category><![CDATA[imagen 3]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2932107</guid>
-
-					<description><![CDATA[<p>Google Labs, Google&#8217;s experimental arm, is testing a new image generator called Whisk. This tool allows people to prompt with images instead of text, allowing them to remix a photo by altering the subject, scene, and style. Whisk uses Google&#8217;s image-generation model, Imagen 3, to combine three images: one for the subject, another for the [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
