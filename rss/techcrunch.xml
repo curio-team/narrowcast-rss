@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 18 Dec 2024 12:08:46 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Dec 2024 14:32:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,47 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Felix Capital’s Julien Codorniou to join 20VC as general partner</title>
+		<link>https://techcrunch.com/2024/12/18/felix-capitals-julien-codorniou-joins-20vc-as-general-partner/</link>
+		
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+		<pubDate>Wed, 18 Dec 2024 14:31:36 +0000</pubDate>
+				<category><![CDATA[Venture]]></category>
+		<category><![CDATA[20VC]]></category>
+		<category><![CDATA[felix capital]]></category>
+		<category><![CDATA[Julien Codorniou]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2933996</guid>
+
+					<description><![CDATA[<p>Just a few weeks after 20VC announced its third investment vehicle, TechCrunch has learned from multiple sources that the relatively new VC firm based in London is gaining a new general partner. Julien Codorniou is leaving Felix Capital, where he has been a founding advisor since 2015 and a partner since 2021, to join 20VC [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Aave protocol developer secures $31 million for Lens, a high-performance blockchain for social apps</title>
+		<link>https://techcrunch.com/2024/12/18/aave-protocol-developer-secures-31-million-for-lens-its-high-performance-blockchain-for-social-apps/</link>
+		
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+		<pubDate>Wed, 18 Dec 2024 14:00:52 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Aave]]></category>
+		<category><![CDATA[Arava]]></category>
+		<category><![CDATA[lens]]></category>
+		<category><![CDATA[Lens Network]]></category>
+		<category><![CDATA[Stani Kulechov]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2933982</guid>
+
+					<description><![CDATA[<p>Avara, the company behind Aave, Lens and Family, is announcing a $31 million funding round led by Lightspeed Faction. With Lens, Avara is building a decentralized protocol that could serve as the infrastructure for social and consumer apps. This funding announcement comes a few weeks after Lens unveiled a completely overhauled version of its protocol, [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>WeTransfer’s free plan now has a monthly limit of 10 transfers</title>
 		<link>https://techcrunch.com/2024/12/18/wetransfers-free-plan-now-has-a-monthly-limit-of-10-transfers/</link>
 		
@@ -398,49 +439,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2933270</guid>
 
 					<description><![CDATA[<p>Grammarly is acquiring productivity startup Coda, the company announced on Tuesday. As part of the deal, Coda’s CEO and co-founder Shishir Mehrotra will become the new CEO of Grammarly. The financial terms of the deal were not disclosed. The acquisition will help turn Grammarly&#8217;s AI assistant into an &#8220;AI productivity platform&#8221; thanks to the addition [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI brings its o1 reasoning model to its API — for certain developers</title>
-		<link>https://techcrunch.com/2024/12/17/openai-brings-its-o1-reasoning-model-to-its-api-for-certain-developers/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 17 Dec 2024 18:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[api]]></category>
-		<category><![CDATA[developers]]></category>
-		<category><![CDATA[Devs]]></category>
-		<category><![CDATA[generativ ai]]></category>
-		<category><![CDATA[gpt-4o]]></category>
-		<category><![CDATA[o1]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[realtime api]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2933223</guid>
-
-					<description><![CDATA[<p>OpenAI is bringing o1, its &#8220;reasoning&#8221; AI model, to its API — but only for certain developers, to start. Starting Tuesday, o1 will begin rolling out to devs in OpenAI&#8217;s &#8220;tier 5&#8221; usage category, the company said. To qualify for tier 5, developers have to spend at least $1,000 with OpenAI and have an account [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI 2024 event: How to watch new ChatGPT product reveals and demos</title>
-		<link>https://techcrunch.com/2024/12/17/openai-2024-event-how-to-watch-new-chatgpt-product-reveals-and-demos/</link>
-		
-		<dc:creator><![CDATA[Cody Corrall]]></dc:creator>
-		<pubDate>Tue, 17 Dec 2024 17:30:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[sam altman]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2926463</guid>
-
-					<description><![CDATA[<p>OpenAI is in the holiday spirit, it seems. The ChatGPT series of reveals, called “12 Days of OpenAI,” will be streamed live at 10 a.m. PT each weekday through December 23. So far, we&#8217;ve seen the launch of ChatGPT Pro, OpenAI’s $200 per month subscription plan; the full version of its “reasoning” o1 model; the [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
