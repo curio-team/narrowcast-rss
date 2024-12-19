@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 19 Dec 2024 09:18:36 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 19 Dec 2024 10:33:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,49 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Apple and Meta go to war over interoperability vs. privacy</title>
+		<link>https://techcrunch.com/2024/12/19/apple-and-meta-go-to-war-over-interoperability-vs-privacy/</link>
+		
+		<dc:creator><![CDATA[Natasha Lomas]]></dc:creator>
+		<pubDate>Thu, 19 Dec 2024 10:26:46 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[dma apple vs meta]]></category>
+		<category><![CDATA[dma interoperability]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2934720</guid>
+
+					<description><![CDATA[<p>Apple and Meta are warring in Europe over the balance between interoperability and privacy, Reuters reports. The fight focuses on the European Union&#8217;s Digital Markets Act (DMA), a competition regulation that requires designated gatekeepers (including Apple and Meta) not to restrict rivals&#8217; access to so-called core platform services. In Apple&#8217;s case, this means: iOS, iPadOS, [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>After raising $26M, Hyme Energy signs global deal to scale thermal storage</title>
+		<link>https://techcrunch.com/2024/12/19/after-raising-26m-hyme-energy-signs-global-deal-to-scale-thermal-storage/</link>
+		
+		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
+		<pubDate>Thu, 19 Dec 2024 10:13:18 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[climate]]></category>
+		<category><![CDATA[energy]]></category>
+		<category><![CDATA[hyme]]></category>
+		<category><![CDATA[hyme energy]]></category>
+		<category><![CDATA[Thermal]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2934731</guid>
+
+					<description><![CDATA[<p>With lithium battery storage too weak for many industries, companies are desperately looking elsewhere for energy storage. Molten-salt batteries offer high energy and power density, and can work for long periods. Now, Denmark’s Hyme Energy — which has raised $26 million to date — has signed a deal which could see its technology scale to [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>BlueQubit raises $10M to take Quantum software into real-world applications</title>
 		<link>https://techcrunch.com/2024/12/19/bluequbit-raises-10m-to-take-quantum-software-into-real-world-applications/</link>
 		
@@ -401,50 +444,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2934241</guid>
 
 					<description><![CDATA[<p>ChatGPT is coming to phones. No, not smartphones — landlines. Call 1-800-242-8478 (1-800-CHATGPT), and OpenAI&#8217;s AI-powered assistant will respond as of Wednesday afternoon. &#8220;[Our mission at] OpenAI is to make artificial general intelligence beneficial to all of humanity, and part of that is making it as accessible as possible to as many people as we [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Who wants &#8216;Her&#8217;-like AI that gets stuff wrong?</title>
-		<link>https://techcrunch.com/2024/12/18/who-wants-her-like-ai-that-gets-stuff-wrong/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 18 Dec 2024 18:05:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[newsletter]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[this week in AI]]></category>
-		<category><![CDATA[this week in ai newsletter]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2931876</guid>
-
-					<description><![CDATA[<p>Hiya, folks, welcome to TechCrunch’s regular AI newsletter. If you want this in your inbox every Wednesday, smash the link and sign up here. Last week, OpenAI launched Advanced Voice Mode with Vision, which feeds real-time video to ChatGPT, allowing the chatbot to &#8220;see&#8221; beyond the confines of its app layer. The premise is that [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>GitHub launches a free version of its Copilot</title>
-		<link>https://techcrunch.com/2024/12/18/github-launches-a-free-version-of-its-copilot/</link>
-		
-		<dc:creator><![CDATA[Frederic Lardinois]]></dc:creator>
-		<pubDate>Wed, 18 Dec 2024 18:00:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Copilot]]></category>
-		<category><![CDATA[free]]></category>
-		<category><![CDATA[GitHub]]></category>
-		<category><![CDATA[GitHub Copilot]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2931849</guid>
-
-					<description><![CDATA[<p>Microsoft-owned GitHub announced on Wednesday a free version of its popular Copilot code completion/AI pair programming tool, which will also now ship by default with Microsoft&#8217;s popular VS Code editor. Until now, most developers had to pay a monthly fee, starting at $10 per month, with only verified students, teachers, and open source maintainers getting [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
