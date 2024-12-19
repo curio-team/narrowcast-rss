@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 19 Dec 2024 10:56:36 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 19 Dec 2024 12:29:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,45 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>EU asks for views on plan to force Apple to open up iOS</title>
+		<link>https://techcrunch.com/2024/12/19/eu-asks-for-views-on-plan-to-force-apple-to-open-up-ios/</link>
+		
+		<dc:creator><![CDATA[Natasha Lomas]]></dc:creator>
+		<pubDate>Thu, 19 Dec 2024 12:29:14 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[apple dma]]></category>
+		<category><![CDATA[apple dma interoperability specification proceedings]]></category>
+		<category><![CDATA[ios dma interoperability]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2934772</guid>
+
+					<description><![CDATA[<p>The European Commission has published draft proposals for how Apple must meet interoperability requirements flowing from the bloc&#8217;s Digital Markets Act (DMA) &#8212; inviting feedback on proposed measures targeted at areas like iOS notifications, data transfer, and device set-up by January 9, 2025. European Union regulators then have until around mid March to adopt final [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Bugs in a major McDonald&#8217;s India delivery system exposed sensitive customer data</title>
+		<link>https://techcrunch.com/2024/12/19/bugs-in-a-major-mcdonalds-india-delivery-system-exposed-sensitive-customer-data/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Thu, 19 Dec 2024 12:00:00 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[mcdonalds]]></category>
+		<category><![CDATA[McDonalds India]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2934370</guid>
+
+					<description><![CDATA[<p>McDonald's India exposed the personal information of customers and drivers due to security flaws impacting its APIs.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Apple and Meta go to war over interoperability vs. privacy</title>
 		<link>https://techcrunch.com/2024/12/19/apple-and-meta-go-to-war-over-interoperability-vs-privacy/</link>
 		
@@ -396,54 +435,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2934271</guid>
 
 					<description><![CDATA[<p>Alphabet’s Wing announced on Wednesday that it&#8217;s expanding its partnership with DoorDash to bring drone delivery to customers in the Dallas-Fort Worth Metroplex. Customers in the area will now be able to order food from 50 merchants located in Stonebriar Centre in Frisco and Hulen Mall in Fort Worth. Wing says its drones can &#8220;deliver [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft bought nearly 500K Nvidia Hopper chips this year</title>
-		<link>https://techcrunch.com/2024/12/18/microsoft-bought-nearly-500000-nvidia-hopper-chips-this-year/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Wed, 18 Dec 2024 18:07:02 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[artificial intelligence]]></category>
-		<category><![CDATA[chips]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2934178</guid>
-
-					<description><![CDATA[<p>Microsoft bought more than twice as many Nvidia Hopper chips this year than any of its biggest rivals. The tech giant bought 485,000 Nvidia Hopper chips across 2024 according to reporting from the Financial Times, which cited data from tech consultancy Omdia. To compare, Meta bought 224,000 of the same flagship Nvidia chip this year. [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI brings ChatGPT to your landline</title>
-		<link>https://techcrunch.com/2024/12/18/openai-brings-chatgpt-to-your-landline/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 18 Dec 2024 18:05:42 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[landline]]></category>
-		<category><![CDATA[Landlines]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[Phone]]></category>
-		<category><![CDATA[text]]></category>
-		<category><![CDATA[voice]]></category>
-		<category><![CDATA[WhatsApp]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2934241</guid>
-
-					<description><![CDATA[<p>ChatGPT is coming to phones. No, not smartphones — landlines. Call 1-800-242-8478 (1-800-CHATGPT), and OpenAI&#8217;s AI-powered assistant will respond as of Wednesday afternoon. &#8220;[Our mission at] OpenAI is to make artificial general intelligence beneficial to all of humanity, and part of that is making it as accessible as possible to as many people as we [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
