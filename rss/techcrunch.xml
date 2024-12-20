@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 20 Dec 2024 14:21:56 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Dec 2024 15:27:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,46 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Ransomware attack on health giant Ascension hits 5.6 million patients</title>
+		<link>https://techcrunch.com/2024/12/20/ransomware-attack-on-health-giant-ascension-hits-5-6-million-patients/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Fri, 20 Dec 2024 15:23:45 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2935448</guid>
+
+					<description><![CDATA[<p>The cyberattack on Ascension ranks as the third-largest healthcare-related breach of 2024.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Rivian executives accused of harassment in previously unreported lawsuits</title>
+		<link>https://techcrunch.com/2024/12/20/rivian-executives-accused-of-harassment-in-previously-unreported-lawsuits/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Fri, 20 Dec 2024 15:00:00 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[lawsuit]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Rivian]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2935268</guid>
+
+					<description><![CDATA[<p>Four employees have sued Rivian in separate lawsuits this year over allegations they were harassed, in some cases by top executives, and that the company’s leadership did little to address their concerns, according to a TechCrunch review of court records. Rivian has also reached settlements in three other harassment and discrimination cases, TechCrunch has learned.&#160; [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Why Apple sends spyware victims to this nonprofit security lab</title>
 		<link>https://techcrunch.com/2024/12/20/why-apple-sends-spyware-victims-to-this-nonprofit-security-lab/</link>
 		
@@ -425,49 +465,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2935113</guid>
 
 					<description><![CDATA[<p>Anysphere, the developer of AI-powered coding assistant Cursor, raised $100 million Series B at a post-money valuation of $2.6 billion, according to sources with knowledge of the deal. The round is being led by returning investor Thrive Capital, the person said.&#160; This new funding comes just four months after Anysphere raised its $60 million Series [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Backed by a16z and NEA, Backflip raises $30M Series A to turn text into AI-generated designs</title>
-		<link>https://techcrunch.com/2024/12/19/backed-by-a16z-and-nea-backflip-raises-30m-series-a-to-turn-text-into-ai-generated-designs/</link>
-		
-		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
-		<pubDate>Thu, 19 Dec 2024 19:06:55 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[3d printing]]></category>
-		<category><![CDATA[a16z]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[markforged]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2935085</guid>
-
-					<description><![CDATA[<p>Led by Markforged veterans and backed by a16z, Backlip has raised $30M to democratize product design thanks to AI.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tapestry, a new app for tracking social media, news, blogs, and more, will launch in &#8216;early 2025&#8217;</title>
-		<link>https://techcrunch.com/2024/12/19/tapestry-a-new-app-for-tracking-social-media-news-blogs-and-more-will-launch-in-early-2025/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Thu, 19 Dec 2024 18:33:10 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[iconfactory]]></category>
-		<category><![CDATA[mobile apps]]></category>
-		<category><![CDATA[Open Web]]></category>
-		<category><![CDATA[social media]]></category>
-		<category><![CDATA[tapestry]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2934939</guid>
-
-					<description><![CDATA[<p>A new app called Tapestry promising to unify social media, news, and RSS in one place, is nearing completion. Designed by Iconfactory, the same team that created the third-party Twitter client Twitterific back in the day, Tapestry was unveiled at the beginning of the year as a tool that could better organize today&#8217;s fragmented online [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
