@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 23 Dec 2024 07:29:55 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 23 Dec 2024 12:37:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,49 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Pavel Durov says Telegram is now profitable</title>
+		<link>https://techcrunch.com/2024/12/23/pavel-durov-says-telegram-is-now-profitable/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Mon, 23 Dec 2024 12:04:51 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[chat app]]></category>
+		<category><![CDATA[Pavel Durov]]></category>
+		<category><![CDATA[profitability]]></category>
+		<category><![CDATA[Telegram]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2936013</guid>
+
+					<description><![CDATA[<p>Telegram founder Pavel Durov said Monday that the company is now profitable. Durov said the chat app&#8217;s total revenue surpassed $1 billion in 2024. The company, which launched its premium subscription service in 2022, now has 12 million paid users. Durov also said that the app is finishing the year with more than $500 million [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>WhatsApp scores historic victory against NSO Group in long-running spyware hacking case</title>
+		<link>https://techcrunch.com/2024/12/23/whatsapp-scores-historic-victory-against-nso-group-in-long-running-spyware-hacking-case/</link>
+		
+		<dc:creator><![CDATA[Carly Page]]></dc:creator>
+		<pubDate>Mon, 23 Dec 2024 11:52:25 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[NSO Group]]></category>
+		<category><![CDATA[Pegasus]]></category>
+		<category><![CDATA[privacy]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[Spyware]]></category>
+		<category><![CDATA[WhatsApp]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2936007</guid>
+
+					<description><![CDATA[<p>A US judge ruled that the Israeli spyware maker breached hacking laws by using WhatsApp to infect devices with Pegasus</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>xAI is testing a standalone iOS app for its Grok chatbot</title>
 		<link>https://techcrunch.com/2024/12/22/xai-is-testing-a-standalone-ios-app-for-its-grok-chatbot/</link>
 		
@@ -394,45 +437,6 @@ Everyone from Olivia Wilde to Emma Watson is investing in startups.</p>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2935741</guid>
 
 					<description><![CDATA[<p>On the first day of Y Combinator the founders of PearAI got “cancelled." They used the hate to launch a new product, raise $1 million.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Third member of LockBit ransomware gang has been arrested</title>
-		<link>https://techcrunch.com/2024/12/20/third-member-of-lockbit-ransomware-gang-has-been-arrested/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Fri, 20 Dec 2024 20:20:17 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[indictment]]></category>
-		<category><![CDATA[department of justice]]></category>
-		<category><![CDATA[lockbit]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2935693</guid>
-
-					<description><![CDATA[<p>LockBit is believed tobe responsible for at least $500 million in ransom payments alone. </p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Feds clear the way for robotaxis without steering wheels and pedals</title>
-		<link>https://techcrunch.com/2024/12/20/feds-clear-the-way-for-robotaxis-without-steering-wheel-and-pedals/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Fri, 20 Dec 2024 20:18:05 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[avs]]></category>
-		<category><![CDATA[nhtsa]]></category>
-		<category><![CDATA[robotaxi]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2935728</guid>
-
-					<description><![CDATA[<p>The National Highway Traffic Safety Administration (NHTSA) on Friday proposed a new national framework that could make it easier for companies to deploy at scale autonomous vehicles without traditional manual driving controls &#8212; like steering wheels, pedals, and sideview mirrors.  The guidelines also require AV companies to share a whole lot more safety data with [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
