@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 27 Dec 2024 15:33:43 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 30 Dec 2024 02:42:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,79 +31,19 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>OpenAI lays out its for-profit transition plans</title>
-		<link>https://techcrunch.com/2024/12/27/openai-lays-out-its-for-profit-transition-plans/</link>
+		<title>Nvidia&#8217;s next move: powering humanoid robots</title>
+		<link>https://techcrunch.com/2024/12/29/nvidias-next-move-powering-humanoid-robots/</link>
 		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Fri, 27 Dec 2024 14:33:45 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[for-profit]]></category>
-		<category><![CDATA[nonprofit]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2936750</guid>
-
-					<description><![CDATA[<p>OpenAI says its corporate structure must evolve to advance its mission of ensuring artificial general intelligence (AGI) — AI that can complete most tasks humans can — benefits all humanity. OpenAI currently has a for-profit org controlled by a nonprofit, with a &#8220;capped profit&#8221; share for investors and employees. But in a blog post published [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Record-breaking ransoms and breaches: A timeline of ransomware in 2024</title>
-		<link>https://techcrunch.com/2024/12/27/record-breaking-ransoms-and-breaches-a-timeline-of-ransomware-in-2024/</link>
-		
-		<dc:creator><![CDATA[Carly Page]]></dc:creator>
-		<pubDate>Fri, 27 Dec 2024 14:00:22 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[blue yonder]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[evolve bank]]></category>
-		<category><![CDATA[extortion]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2936770</guid>
-
-					<description><![CDATA[<p>From LoanDepot to Evolve Bank and Blue Yonder, these ransomware attacks affect tens of millions of people.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI sales rep startups are booming. So why are VCs wary?</title>
-		<link>https://techcrunch.com/2024/12/26/ai-sdr-startups-are-booming-so-why-are-vcs-wary/</link>
-		
-		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Thu, 26 Dec 2024 23:47:51 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[HubSpot]]></category>
-		<category><![CDATA[Index Ventures]]></category>
-		<category><![CDATA[Jasper]]></category>
-		<category><![CDATA[Salesforce]]></category>
-		<category><![CDATA[signalfire]]></category>
-		<category><![CDATA[Zoominfo]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2841348</guid>
-
-					<description><![CDATA[<p>When you really probe venture capitalists about investing in AI startups, they&#8217;ll tell you that businesses are experimenting wildly but are very slow to add AI solutions into their ongoing business processes.&#160; But there are some exceptions. And one of them appears to be an area known as AI sales development representatives, or AI SDRs. [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Watch this robotic ‘Superman Suit’ rotate around a gymnastics bar</title>
-		<link>https://techcrunch.com/video/watch-this-robotic-superman-suit-rotate-around-a-gymnastics-bar/</link>
-		
-		<dc:creator><![CDATA[TC Video]]></dc:creator>
-		<pubDate>Thu, 26 Dec 2024 21:54:13 +0000</pubDate>
+		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
+		<pubDate>Mon, 30 Dec 2024 00:15:47 +0000</pubDate>
 				<category><![CDATA[Robotics]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&#038;p=2936624</guid>
+		<category><![CDATA[nvidia]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<category><![CDATA[humanoid]]></category>
+		<category><![CDATA[Jetson Thor]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2937263</guid>
 
-					<description><![CDATA[<p>Scientists at the Suzumori Endo Robotics lab in Tokyo have developed the Superman Suit: a suit powered by hydraulic artificial muscles that allow it to perform superhuman tasks. In this video, the suit demonstrates the ability to complete 15 rotations around a bar, making anyone into a great gymnast.</p>
+					<description><![CDATA[<p>The chipmaking giant Nvidia is leaning more heavily into robotics in 2025. More specifically, in the first half of the new year, confirms the Financial Times, Nvidia is launching a new generation of compact computers for humanoid robots called Jetson Thor. The move, which was expected, is part of an evolving, years-long strategy. Nvidia doesn’t [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -111,20 +51,232 @@
 		
 			</item>
 		<item>
-		<title>ChatGPT Search can be tricked into misleading users, new research reveals</title>
-		<link>https://techcrunch.com/2024/12/26/chatgpt-search-can-be-tricked-into-misleading-users-new-research-reveals/</link>
+		<title>AI data centers could be ‘distorting’ the US power grid</title>
+		<link>https://techcrunch.com/2024/12/29/ai-data-centers-could-be-distorting-the-us-power-grid/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sun, 29 Dec 2024 22:34:57 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[electrical grid]]></category>
+		<category><![CDATA[whisker labs]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2937260</guid>
+
+					<description><![CDATA[<p>The proliferation of data centers aiming to meet the computational needs of AI could be bad news for the US power grid, according to a new report in Bloomberg. Using the 1 million residential sensors tracked by Whisker Labs, along with market intelligence data from DC Byte, Bloomberg found that more than half of the [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>India&#8217;s mobile payments dilemma</title>
+		<link>https://techcrunch.com/2024/12/29/indias-mobile-payments-dilemma/</link>
+		
+		<dc:creator><![CDATA[Manish Singh]]></dc:creator>
+		<pubDate>Sun, 29 Dec 2024 21:20:56 +0000</pubDate>
+				<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[NPCI]]></category>
+		<category><![CDATA[Paytm]]></category>
+		<category><![CDATA[PhonePe]]></category>
+		<category><![CDATA[Walmart]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2937250</guid>
+
+					<description><![CDATA[<p>India&#8217;s payments regulator is set to decide as early as Monday whether to curb the dominance of Walmart&#8217;s PhonePe and Google in the nation&#8217;s fast-growing mobile payments market, a move that could reshape how its billion-plus population moves money. The decision centers on UPI, or Unified Payments Interface, a network backed by more than 50 [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Crypto industry groups sue IRS over broker reporting rule</title>
+		<link>https://techcrunch.com/2024/12/29/crypto-industry-groups-sue-irs-over-broker-reporting-rule/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sun, 29 Dec 2024 20:40:54 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[blockchain Association]]></category>
+		<category><![CDATA[defi education fund]]></category>
+		<category><![CDATA[irs]]></category>
+		<category><![CDATA[Texas Blockchain Council]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2937256</guid>
+
+					<description><![CDATA[<p>Three crypto industry groups — the DeFi Education Fund, the Blockchain Association, and the Texas Blockchain Council — are suing the Internal Revenue Service to block new regulations that require decentralized finance (DeFi) entities to report customer information. The IRS has been finalizing crypto tax regulations as part of the Biden Administration’s Infrastructure Investment and [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Africa’s newest fintech unicorns are winning by keeping their feet on the ground</title>
+		<link>https://techcrunch.com/2024/12/29/africas-fintech-unicorns-blend-digital-banking-and-physical-touchpoints/</link>
+		
+		<dc:creator><![CDATA[Tage Kene-Okafor]]></dc:creator>
+		<pubDate>Sun, 29 Dec 2024 15:00:00 +0000</pubDate>
+				<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Wave]]></category>
+		<category><![CDATA[Africa]]></category>
+		<category><![CDATA[Opay]]></category>
+		<category><![CDATA[TymeBank]]></category>
+		<category><![CDATA[MNT-Halan]]></category>
+		<category><![CDATA[moniepoint]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2935418</guid>
+
+					<description><![CDATA[<p>Africa’s tech ecosystem just got a boost of attention, with South Africa’s TymeBank and Nigeria’s Moniepoint both raising funds in recent weeks at valuations of over $1 billion and joining the coveted unicorn pantheon. But those valuations don’t just reflect investor confidence. They signal the success they’ve had in taking disruptive fintech models originally developed [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Permira&#8217;s Brian Ruder talks AI, Squarespace acquisition, and the value of co-leadership</title>
+		<link>https://techcrunch.com/2024/12/29/permiras-brian-ruder-talks-ai-squarespace-acquisition-and-the-value-of-co-leadership/</link>
+		
+		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
+		<pubDate>Sun, 29 Dec 2024 14:00:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Squarespace]]></category>
+		<category><![CDATA[Permira]]></category>
+		<category><![CDATA[Private Equity]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2930331</guid>
+
+					<description><![CDATA[<p>It has been a busy year in the private equity realm, with countless big-money acquisitions unfolding. The take-private space specifically has seen some sizable transactions, with private equity firms spearheading more than a dozen billion-dollar deals for public tech companies. London-headquartered Permira was a key protagonist, joining Blackstone to acquire European online classifieds group Adevinta [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google CEO says AI model Gemini will be the company’s ‘biggest focus’ in 2025</title>
+		<link>https://techcrunch.com/2024/12/28/google-ceo-says-ai-model-gemini-will-the-companys-biggest-focus-in-2025/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sat, 28 Dec 2024 22:00:41 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Sundar Pichai]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2937242</guid>
+
+					<description><![CDATA[<p>CEO Sundar Pichai reportedly told Google employees that 2025 will be a “critical” year for the company. CNBC reports that it obtained audio from a December 18 strategy meeting where Pichai and other executives put on ugly holiday sweaters and laid out their priorities for the coming year. “I think 2025 will be critical,” Pichai [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trump asks Supreme Court to pause imminent TikTok ban</title>
+		<link>https://techcrunch.com/2024/12/28/trump-asks-supreme-court-to-pause-imminent-tiktok-ban/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sat, 28 Dec 2024 17:00:41 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[bytedance]]></category>
+		<category><![CDATA[Donald Trump]]></category>
+		<category><![CDATA[TikTok]]></category>
+		<category><![CDATA[TikTok Ban]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2937239</guid>
+
+					<description><![CDATA[<p>Attorneys representing President-elect Donald Trump have asked the Supreme Court to pause a law that would force TikTok-owner ByteDance to sell the short-form video app or see it banned from the United States. If the app isn’t sold, the ban is set to take effect in just a few weeks, on January 19. ByteDance is [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>How to watch CES 2025’s press conferences</title>
+		<link>https://techcrunch.com/2024/12/28/how-to-watch-ces-2025s-press-conferences/</link>
+		
+		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
+		<pubDate>Sat, 28 Dec 2024 16:00:00 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[amd]]></category>
+		<category><![CDATA[CES]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<category><![CDATA[Samsung]]></category>
+		<category><![CDATA[Sony]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2936626</guid>
+
+					<description><![CDATA[<p>CES kicks off January 7. The annual Las Vegas event sets the tone of the year’s consumer electronics and automotive industries. As always, TechCrunch will be there, sniffing stories from the most exciting startups and tech giants. If you really want a piece of the action without paying for the hotel and flight, many of [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Best iPad apps for unleashing and exploring your creativity</title>
+		<link>https://techcrunch.com/2024/12/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Sat, 28 Dec 2024 16:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[ipad apps]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2936857</guid>
+
+					<description><![CDATA[<p>There are a number of iPad apps that can help you explore and express your creativity. Although the iPad started off as a simple device that could be used to stream content or browse the web on the go, Apple has essentially turned its iPads into powerful machines that can be used to do things [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Revisiting the biggest moments in the space industry in 2024</title>
+		<link>https://techcrunch.com/2024/12/28/revisiting-the-biggest-moments-in-the-space-industry-in-2024/</link>
+		
+		<dc:creator><![CDATA[Aria Alamalhodaei]]></dc:creator>
+		<pubDate>Sat, 28 Dec 2024 15:00:00 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Space]]></category>
+		<category><![CDATA[Boeing]]></category>
+		<category><![CDATA[NASA]]></category>
+		<category><![CDATA[SpaceX]]></category>
+		<category><![CDATA[astrobotic]]></category>
+		<category><![CDATA[Rocket Lab]]></category>
+		<category><![CDATA[spacex starship]]></category>
+		<category><![CDATA[starliner]]></category>
+		<category><![CDATA[Intuitive Machines]]></category>
+		<category><![CDATA[Polaris Dawn]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2933654</guid>
+
+					<description><![CDATA[<p>We are at the dawn of a new space age. If you doubt, simply look back at the last year: From SpaceX’s historic catch of the Super Heavy booster to the record-breaking number of lunar landing attempts, this year was full of historic and ambitious missions and demonstrations.  We’re taking a look back at the [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Bench shuts down, leaving thousands of businesses without access to accounting and tax docs</title>
+		<link>https://techcrunch.com/2024/12/27/bench-shuts-down-leaving-thousands-of-businesses-without-access-to-accounting-and-tax-docs/</link>
 		
 		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
-		<pubDate>Thu, 26 Dec 2024 21:31:36 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[Search]]></category>
-		<category><![CDATA[search engine optimization]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2936621</guid>
+		<pubDate>Fri, 27 Dec 2024 21:52:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[accounting]]></category>
+		<category><![CDATA[bain capital ventures]]></category>
+		<category><![CDATA[bench]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[SaaS]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2937076</guid>
 
-					<description><![CDATA[<p>ChatGPT's new search feature can be told to generate entirely positive product summaries thanks to hidden code, new research finds.</p>
+					<description><![CDATA[<p>Bench, a Canada-based accounting startup that offered software-as-a-service for small and medium-sized businesses, has abruptly shut down, according to a notice posted on its website.&#160;&#160; “We regret to inform you that as of December 27, 2024, the Bench platform will no longer be accessible,” the notice reads. “We know this news is abrupt and may [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -132,84 +284,116 @@
 		
 			</item>
 		<item>
-		<title>ChatGPT and Sora went down for the second time this month</title>
-		<link>https://techcrunch.com/2024/12/26/chatgpt-and-sora-went-down-for-the-second-time-this-month/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Thu, 26 Dec 2024 20:41:51 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[major outage]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[Outage]]></category>
-		<category><![CDATA[service disruption]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2936651</guid>
-
-					<description><![CDATA[<p>ChatGPT, Sora, and OpenAI&#8217;s developer-facing API were down on Thursday for more than four hours. OpenAI says it started experiencing a major outage at 11 a.m. PT, but now says its services are slowly coming back online as of 3:16 p.m. PT. Frequent users of ChatGPT may recall that the service went down earlier this [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>DeepSeek&#8217;s new AI model appears to be one of the best &#8216;open&#8217; challengers yet</title>
-		<link>https://techcrunch.com/2024/12/26/deepseeks-new-ai-model-appears-to-be-one-of-the-best-open-challengers-yet/</link>
+		<title>Nonprofit group joins Elon Musk&#8217;s effort to block OpenAI&#8217;s for-profit transition</title>
+		<link>https://techcrunch.com/2024/12/27/nonprofit-group-joins-elon-musks-effort-to-block-openais-for-profit-transition/</link>
 		
 		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Thu, 26 Dec 2024 19:44:50 +0000</pubDate>
+		<pubDate>Fri, 27 Dec 2024 21:39:46 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[encode]]></category>
+		<category><![CDATA[for-profit]]></category>
+		<category><![CDATA[injunction]]></category>
+		<category><![CDATA[nonprofit]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2937075</guid>
+
+					<description><![CDATA[<p>Encode, the nonprofit organization that co-sponsored California&#8217;s ill-fated SB 1047 AI safety legislation, has requested permission to file an amicus brief in support of Elon Musk&#8217;s injunction to halt OpenAI&#8217;s transition to a for-profit company. In a proposed brief submitted to the U.S. District Court for the Northern District of California Friday afternoon, counsel for [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Terraform Labs co-founder Do Kwon will face fraud charges in the US</title>
+		<link>https://techcrunch.com/2024/12/27/terraform-labs-co-founder-do-kwon-will-face-fraud-charges-in-the-u-s/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Fri, 27 Dec 2024 19:55:55 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[blockchain]]></category>
+		<category><![CDATA[crime]]></category>
+		<category><![CDATA[criminal]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[Do Kwon]]></category>
+		<category><![CDATA[extradition]]></category>
+		<category><![CDATA[fraud]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Terraform]]></category>
+		<category><![CDATA[Terraform Labs]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2937018</guid>
+
+					<description><![CDATA[<p>Do Kwon, the co-founder of collapsed cryptocurrency startup Terraform Labs, will be extradited from Montenegro to the U.S. to face federal fraud charges, as first reported by Bloomberg. Kwon faces charges in both the U.S. and South Korea; Terraform Labs&#8217; TerraUSD and Luna cryptocurrencies crashed in 2022, causing investors to lose over $40 billion. Terraform [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The trends that shaped EVs, robotaxis, and electric flight in 2024</title>
+		<link>https://techcrunch.com/2024/12/27/the-trends-that-shaped-evs-robotaxis-and-electric-flight-in-2024/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec, Rebecca Bellan]]></dc:creator>
+		<pubDate>Fri, 27 Dec 2024 19:15:09 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[autonomous vehicles]]></category>
+		<category><![CDATA[Cruise]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[robotaxi]]></category>
+		<category><![CDATA[robotaxis]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<category><![CDATA[Waymo]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2936959</guid>
+
+					<description><![CDATA[<p>If there was one phrase that captured the vibe and theme of 2024 — at least in the transportation sector — it was &#8220;business whiplash.&#8221; Legacy automakers changed direction on their all-EVs-or-bust strategy, startups pivoted, and some Silicon Valley VCs and executives adjusted their views on a changing political landscape in which they now are [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cyber firm&#8217;s Chrome extension hijacked to steal user passwords</title>
+		<link>https://techcrunch.com/2024/12/27/cyberhaven-says-it-was-hacked-to-publish-a-malicious-update-to-its-chrome-extension/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker, Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Fri, 27 Dec 2024 18:50:34 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[chrome extension]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cyberhaven]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2936977</guid>
+
+					<description><![CDATA[<p>The data-loss startup says it was targeted as part of a "wider campaign to target Chrome extension developers."</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Why DeepSeek&#8217;s new AI model thinks it&#8217;s ChatGPT</title>
+		<link>https://techcrunch.com/2024/12/27/why-deepseeks-new-ai-model-thinks-its-chatgpt/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Fri, 27 Dec 2024 18:49:49 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ChatGPT]]></category>
 		<category><![CDATA[deepseek]]></category>
 		<category><![CDATA[DeepSeek v3]]></category>
 		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Open AI]]></category>
-		<category><![CDATA[open source]]></category>
-		<category><![CDATA[open source ai]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2936591</guid>
-
-					<description><![CDATA[<p>DeepSeek V3 can handle a range of text-based workloads and tasks, like coding, translating, and writing essays and emails from a descriptive prompt.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The fall of EV startup Fisker: A comprehensive timeline</title>
-		<link>https://techcrunch.com/2024/12/26/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/</link>
-		
-		<dc:creator><![CDATA[Henry Pickavet, Sean O'Kane]]></dc:creator>
-		<pubDate>Thu, 26 Dec 2024 17:42:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[Fisker]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2796538</guid>
-
-					<description><![CDATA[<p>Here is a timeline of the events that led fledgling automaker Fisker to file for bankruptcy.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft and OpenAI have a financial definition of AGI: Report</title>
-		<link>https://techcrunch.com/2024/12/26/microsoft-and-openai-have-a-financial-definition-of-agi-report/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Thu, 26 Dec 2024 17:16:02 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[AGI]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[gpt-4]]></category>
+		<category><![CDATA[hallucinations]]></category>
 		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2936556</guid>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2936858</guid>
 
-					<description><![CDATA[<p>Microsoft and OpenAI have a very specific, internal definition of artificial general intelligence (AGI) based on the startup&#8217;s profits, according to a new report from The Information. And by this definition, OpenAI is many years away from reaching it. The two companies reportedly signed an agreement last year stating OpenAI has only achieved AGI when [&#8230;]</p>
+					<description><![CDATA[<p>Earlier this week, DeepSeek, a well-funded Chinese AI lab, released an &#8220;open&#8221; AI model that beats many rivals on popular benchmarks. The model, DeepSeek V3, is large but efficient, handling text-based tasks like coding and writing essays with ease. It also seems to think it&#8217;s ChatGPT. Posts on X — and TechCrunch&#8217;s own tests — [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -217,40 +401,19 @@
 		
 			</item>
 		<item>
-		<title>Executive assistants, high salaries, and other ways early-stage founders will trigger a seed VC</title>
-		<link>https://techcrunch.com/2024/12/26/executive-assistants-high-salaries-and-other-ways-early-stage-founders-will-trigger-a-seed-vc/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Thu, 26 Dec 2024 17:13:49 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[cash management]]></category>
-		<category><![CDATA[early stage funding]]></category>
-		<category><![CDATA[pre-seed funding]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2920010</guid>
-
-					<description><![CDATA[<p>While most seed investors believe founders should spend their raised cash however they want to, those VCs will still be judging founders’ cash management.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Elon Musk’s jets made 355 trips in 2024, including 31 to or from the Mar-a-Lago area </title>
-		<link>https://techcrunch.com/2024/12/26/elon-musks-jets-made-355-trips-in-2024-including-31-to-or-from-the-mar-a-lago-area/</link>
+		<title>Lyft says San Francisco overcharged it $100M in taxes </title>
+		<link>https://techcrunch.com/2024/12/27/lyft-says-san-francisco-overcharged-it-100-million-in-taxes/</link>
 		
 		<dc:creator><![CDATA[Margaux MacColl]]></dc:creator>
-		<pubDate>Thu, 26 Dec 2024 17:09:30 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Donald Trump]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[mar-a-lago]]></category>
-		<category><![CDATA[SpaceX]]></category>
-		<category><![CDATA[Tesla]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2936547</guid>
+		<pubDate>Fri, 27 Dec 2024 18:31:38 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Lyft]]></category>
+		<category><![CDATA[prop 22]]></category>
+		<category><![CDATA[rideshare]]></category>
+		<category><![CDATA[San Francisco]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2936947</guid>
 
-					<description><![CDATA[<p>Elon Musk’s jets took over 355 flights this year, with 31 of those flights heading to or from near Mar-a-Lago. </p>
+					<description><![CDATA[<p>Lyft is suing the city of San Francisco, claiming the city unfairly charged the rideshare company over $100 million in taxes.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -258,148 +421,18 @@
 		
 			</item>
 		<item>
-		<title>These were the badly handled data breaches of 2024</title>
-		<link>https://techcrunch.com/2024/12/26/badly-handled-data-breaches-2024/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker, Carly Page]]></dc:creator>
-		<pubDate>Thu, 26 Dec 2024 14:00:38 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[23andMe]]></category>
-		<category><![CDATA[Change Healthcare]]></category>
-		<category><![CDATA[cyberattacks]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Snowflake Computing]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2936535</guid>
-
-					<description><![CDATA[<p>Blaming victims, months of silence, and suing security researchers all featured in cybersecurity in 2024.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>PharmEasy investor cuts value of its stake drastically, implying new valuation of $456M</title>
-		<link>https://techcrunch.com/2024/12/25/pharmeasy-valued-at-456-million-vs-peak-5-6-billion-investor-data-shows/</link>
-		
-		<dc:creator><![CDATA[Manish Singh]]></dc:creator>
-		<pubDate>Thu, 26 Dec 2024 06:49:20 +0000</pubDate>
-				<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Janus Henderson]]></category>
-		<category><![CDATA[PharmEasy]]></category>
-		<category><![CDATA[Prosus Ventures]]></category>
-		<category><![CDATA[Valuation Markdown]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2936517</guid>
-
-					<description><![CDATA[<p>Indian online pharmacy PharmEasy is now being valued at about $456 million after its investor Janus Henderson said in a filing that it valued its stake of 12.9 million shares in the startup at $766,043. The asset manager&#8217;s Global Research Fund had originally spent $9.4 million to acquire these shares. This valuation is 92% less [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Bluesky is testing a trending topics feature</title>
-		<link>https://techcrunch.com/2024/12/25/bluesky-starts-testing-a-trending-topics-feature/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Thu, 26 Dec 2024 06:21:59 +0000</pubDate>
-				<category><![CDATA[Social]]></category>
-		<category><![CDATA[social media]]></category>
-		<category><![CDATA[trending topics]]></category>
-		<category><![CDATA[Threads Styling]]></category>
-		<category><![CDATA[Bluesky]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2936513</guid>
-
-					<description><![CDATA[<p>Social network Bluesky said on Christmas that it is testing a trending topics view. The trending topics are visible both on the desktop and mobile apps of the social network for users across the world. On the desktop, you can see trending topics on the right sidebar, and on the mobile app, you can tap [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Elon Musk&#8217;s xAI lands $6B in new cash to fuel AI ambitions</title>
-		<link>https://techcrunch.com/2024/12/25/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 25 Dec 2024 20:17:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[Funding]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[startup]]></category>
-		<category><![CDATA[xAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2922142</guid>
-
-					<description><![CDATA[<p>Updated December 25, 12:21 p.m. Pacific: Added details of xAI&#8217;s valuation and Kingdom Holdings&#8217; contribution. xAI, Elon Musk&#8217;s AI company, has raised $6 billion in a Series C financing round. The company announced this week that Andreessen Horowitz , Blackrock, Fidelity, Lightspeed, MGX, Morgan Stanley, OIA, QIA, Sequoia Capital, Valor Equity Partners, Vy Capital, Nvidia, [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>$132K &#8211; $149K, here&#8217;s what seed-stage founders pay early employees, based on data</title>
-		<link>https://techcrunch.com/2024/12/25/132k-149k-heres-what-seed-stage-founders-pay-early-employees-based-on-data/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Wed, 25 Dec 2024 17:27:39 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[pay]]></category>
-		<category><![CDATA[pre-seed]]></category>
-		<category><![CDATA[salaries]]></category>
-		<category><![CDATA[Seed]]></category>
-		<category><![CDATA[tech startups]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2923504</guid>
-
-					<description><![CDATA[<p>Once a startup has raised its seed round, the perennial question becomes how much should the founders pay themselves and their first few employees? Kruze Consulting, a CPA firm that specializes in venture-backed startups, recently analyzed average salary ranges for over 450 seed-stage startups and shared that data with TechCrunch. The following averages are based [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>GV, the VC team backed by Google, has a broad remit, but it can&#8217;t do one thing</title>
-		<link>https://techcrunch.com/2024/12/25/gv-the-vc-team-backed-by-google-has-a-broad-remit-but-it-cant-do-one-thing/</link>
-		
-		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
-		<pubDate>Wed, 25 Dec 2024 17:22:27 +0000</pubDate>
-				<category><![CDATA[Venture]]></category>
-		<category><![CDATA[CapitalG]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[google ventures]]></category>
-		<category><![CDATA[GV]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2936453</guid>
-
-					<description><![CDATA[<p>David Krane is in an enviable position. As the CEO of GV, the venture firm that is funded entirely by Google to the tune of $1 billion a year, his team of roughly 100 gets to make a lot of bets — with just a couple of notable restrictions. During a TechCrunch StrictlyVC event in [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AMD’s CES 2025 press conference: How to watch</title>
-		<link>https://techcrunch.com/2024/12/25/amds-ces-2025-press-conference-how-to-watch/</link>
+		<title>LG mounts planters on a lamp for apartment growing</title>
+		<link>https://techcrunch.com/2024/12/27/lg-mounts-planters-on-a-lamp-for-apartment-growing/</link>
 		
 		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
-		<pubDate>Wed, 25 Dec 2024 16:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[amd]]></category>
+		<pubDate>Fri, 27 Dec 2024 18:26:26 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
 		<category><![CDATA[CES]]></category>
-		<category><![CDATA[ces 2025]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2936246</guid>
+		<category><![CDATA[LG]]></category>
+		<category><![CDATA[plants]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2936891</guid>
 
-					<description><![CDATA[<p>AMD has its work cut out for it at CES 2025. Competitor Nvidia has been sucking the oxygen out of every room it graces, as the chipmaker remains at the forefront of the AI boom. So, how will AMD compete with Nvidia’s reported RTX 5000 announcement? The company should show off its own next-gen GPU. [&#8230;]</p>
+					<description><![CDATA[<p>LG may have the earliest big press conference of CES, but the Korean electronics giant still can’t help announcing a bunch of products ahead of the show. As ever, the pile of news is a mixed bag with a few interesting additions. These plant lamps undoubtedly qualify as the latter. Details on the products — [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -407,39 +440,16 @@
 		
 			</item>
 		<item>
-		<title>Home for the holidays? Share this top cybersecurity advice with friends and family</title>
-		<link>https://techcrunch.com/2024/12/25/home-for-the-holidays-share-this-top-cybersecurity-advice-with-friends-and-family/</link>
+		<title>Watch this four-legged robot adapt to tricky situations like an animal</title>
+		<link>https://techcrunch.com/video/watch-this-four-legged-robot-adapt-to-tricky-situations-like-an-animal/</link>
 		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Wed, 25 Dec 2024 13:00:30 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[multi-factor authentication]]></category>
-		<category><![CDATA[password manager]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2936462</guid>
+		<dc:creator><![CDATA[TC Video]]></dc:creator>
+		<pubDate>Fri, 27 Dec 2024 18:04:45 +0000</pubDate>
+				<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Video]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&#038;p=2936604</guid>
 
-					<description><![CDATA[<p>Sharing security advice can go a long way in protecting your loved ones from the most common and damaging online threats. </p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>A comprehensive list of 2024 tech layoffs</title>
-		<link>https://techcrunch.com/2024/12/24/tech-layoffs-2024-list/</link>
-		
-		<dc:creator><![CDATA[Cody Corrall, Alyssa Stringer]]></dc:creator>
-		<pubDate>Tue, 24 Dec 2024 20:30:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[Layoffs]]></category>
-		<category><![CDATA[tech layoffs]]></category>
-		<category><![CDATA[TechCrunch 2023 Recap]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2607662</guid>
-
-					<description><![CDATA[<p>A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.</p>
+					<description><![CDATA[<p>Researchers at the University of Leeds recently demonstrated a framework for a quadruped robot with a design inspired by the biomechanics of four-legged animals. The versatile robot is able to navigate complex environments, maintain stability on uneven ground, and recover after a fall — all without the use of extra-perceptive sensors.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
