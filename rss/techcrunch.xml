@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 31 Dec 2024 07:50:22 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 31 Dec 2024 10:27:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>India lifts WhatsApp payment curbs</title>
+		<link>https://techcrunch.com/2024/12/31/india-lifts-whatsapp-payment-curbs/</link>
+		
+		<dc:creator><![CDATA[Manish Singh]]></dc:creator>
+		<pubDate>Tue, 31 Dec 2024 10:27:11 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[WhatsApp]]></category>
+		<category><![CDATA[WhatsApp Pay]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2937859</guid>
+
+					<description><![CDATA[<p>India has removed restrictions on WhatsApp&#8217;s mobile payments service in a significant victory for Meta in its largest market by users as it seeks to compete with entrenched fintech rivals. The National Payments Corporation of India, the payments body overseeing the popular UPI payments network, said Tuesday that WhatsApp can now roll out WhatsApp Pay [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Gupshup investor cuts value of its stake again, implying new valuation of $486M</title>
 		<link>https://techcrunch.com/2024/12/30/gupshup-investor-cuts-value-of-its-stake-by-65-implying-new-valuation-of-486m/</link>
 		
@@ -435,28 +455,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2937260</guid>
 
 					<description><![CDATA[<p>The proliferation of data centers aiming to meet the computational needs of AI could be bad news for the U.S. power grid, according to a new report in Bloomberg. Using the 1 million residential sensors tracked by Whisker Labs, along with market intelligence data from DC Byte, Bloomberg found that more than half of the [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>India&#8217;s mobile payments dilemma</title>
-		<link>https://techcrunch.com/2024/12/29/indias-mobile-payments-dilemma/</link>
-		
-		<dc:creator><![CDATA[Manish Singh]]></dc:creator>
-		<pubDate>Sun, 29 Dec 2024 21:20:56 +0000</pubDate>
-				<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[NPCI]]></category>
-		<category><![CDATA[Paytm]]></category>
-		<category><![CDATA[PhonePe]]></category>
-		<category><![CDATA[Walmart]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2937250</guid>
-
-					<description><![CDATA[<p>India&#8217;s payments regulator is set to decide as early as Monday whether to curb the dominance of Walmart&#8217;s PhonePe and Google in the nation&#8217;s fast-growing mobile payments market, a move that could reshape how its billion-plus population moves money. The decision centers on UPI, or Unified Payments Interface, a network backed by more than 50 [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
