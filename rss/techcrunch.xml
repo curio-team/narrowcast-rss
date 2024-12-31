@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 31 Dec 2024 10:27:14 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 31 Dec 2024 11:11:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,29 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>India again delays rules to break PhonePe-Google Pay duopoly</title>
+		<link>https://techcrunch.com/2024/12/31/india-again-delays-rules-to-break-phonepe-google-pay-duopoly/</link>
+		
+		<dc:creator><![CDATA[Manish Singh]]></dc:creator>
+		<pubDate>Tue, 31 Dec 2024 10:36:55 +0000</pubDate>
+				<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google Pay]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[NPCI]]></category>
+		<category><![CDATA[Paytm]]></category>
+		<category><![CDATA[PhonePe]]></category>
+		<category><![CDATA[Walmart]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2936747</guid>
+
+					<description><![CDATA[<p>India has once again pushed back a contentious plan to limit big technology companies&#8217; control of the nation&#8217;s digital payments system, extending a regulatory uncertainty that has weighed on the sector for years. The National Payments Corporation of India said on Tuesday it would extend the deadline for implementing a 30% cap on any individual [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>India lifts WhatsApp payment curbs</title>
 		<link>https://techcrunch.com/2024/12/31/india-lifts-whatsapp-payment-curbs/</link>
 		
@@ -43,7 +66,7 @@
 		<category><![CDATA[WhatsApp Pay]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2937859</guid>
 
-					<description><![CDATA[<p>India has removed restrictions on WhatsApp&#8217;s mobile payments service in a significant victory for Meta in its largest market by users as it seeks to compete with entrenched fintech rivals. The National Payments Corporation of India, the payments body overseeing the popular UPI payments network, said Tuesday that WhatsApp can now roll out WhatsApp Pay [&#8230;]</p>
+					<description><![CDATA[<p>India has removed restrictions on WhatsApp&#8217;s payments service in a significant victory for Meta in its largest market by users as it seeks to compete with entrenched fintech rivals. The National Payments Corporation of India, the payments body overseeing the popular UPI payments rail, said Tuesday that WhatsApp can now roll out WhatsApp Pay to [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -436,25 +459,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2937263</guid>
 
 					<description><![CDATA[<p>The chipmaking giant Nvidia is leaning more heavily into robotics in 2025. More specifically, in the first half of the new year, confirms the Financial Times, Nvidia is launching a new generation of compact computers for humanoid robots called Jetson Thor. The move, which was expected, is part of an evolving, years-long strategy. Nvidia doesn’t [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI data centers could be ‘distorting’ the US power grid</title>
-		<link>https://techcrunch.com/2024/12/29/ai-data-centers-could-be-distorting-the-us-power-grid/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sun, 29 Dec 2024 22:34:57 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[electrical grid]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[whisker labs]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2937260</guid>
-
-					<description><![CDATA[<p>The proliferation of data centers aiming to meet the computational needs of AI could be bad news for the U.S. power grid, according to a new report in Bloomberg. Using the 1 million residential sensors tracked by Whisker Labs, along with market intelligence data from DC Byte, Bloomberg found that more than half of the [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
