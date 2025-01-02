@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 02 Jan 2025 09:17:23 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 Jan 2025 09:35:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Telegram rolls out third-party account verification, filters</title>
+		<link>https://techcrunch.com/2025/01/02/telegram-rolls-out-third-party-account-verification-filters/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 02 Jan 2025 09:35:11 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[chat app]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[Telegram]]></category>
+		<category><![CDATA[verification]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2938448</guid>
+
+					<description><![CDATA[<p>Telegram has rolled out its first update of the year, adding a new account verification method powered by third-parties, new message search filters, and the ability to turn gifts into NFTs. The chat app already had a program to verify public figures and organizations on the platform, and it has now launched a new project [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Chinese government hackers reportedly targeted US Treasury&#8217;s sanctions office during December cyberattack</title>
 		<link>https://techcrunch.com/2025/01/02/chinese-government-hackers-reportedly-targeted-us-treasurys-sanctions-office-during-december-cyberattack/</link>
 		
@@ -442,28 +463,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2937447</guid>
 
 					<description><![CDATA[<p>Ah, 2024: the year we debated how to pronounce “hawk tuah,” pondered the health benefits of eating rocks, and held space for a Broadway showstopper. It was a year when the discourse could feel shockingly pure and joyful — at least for a few minutes, before we all came tumbling back down to reality. Online [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US telco Lumen says its network is now clear of China&#8217;s Salt Typhoon hackers</title>
-		<link>https://techcrunch.com/2024/12/31/another-us-telco-says-its-network-is-now-clear-of-china-backed-salt-typhoon-hackers/</link>
-		
-		<dc:creator><![CDATA[Carly Page]]></dc:creator>
-		<pubDate>Tue, 31 Dec 2024 14:03:20 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[brief]]></category>
-		<category><![CDATA[cyberespionage]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[lumen]]></category>
-		<category><![CDATA[salt typhoon]]></category>
-		<category><![CDATA[security]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2937891</guid>
-
-					<description><![CDATA[<p>Lumen says there is 'no evidence' that customer data was accessed during the intrusion</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
