@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 03 Jan 2025 11:20:51 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 Jan 2025 14:16:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Rivian wraps 2024 with more than 50,000 EVs delivered</title>
+		<link>https://techcrunch.com/2025/01/03/rivian-wraps-2024-with-more-than-50000-evs-delivered/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Fri, 03 Jan 2025 14:16:16 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[Rivian]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2938922</guid>
+
+					<description><![CDATA[<p>Rivian finished last year having delivered 51,579 electric SUVs, trucks, and vans, more than triple the number it shipped to customers in 2023. The company announced Friday that it also built 49,476 EVs in 2024. That&#8217;s about 8,000 fewer than it expected to manufacture as recently as July. Rivian was forced to lower its expectations, [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Hindustan Unilever in talks to acquire Peak XV-backed Minimalist for up to $350M</title>
 		<link>https://techcrunch.com/2025/01/03/hindustan-unilever-minimalist-acquisition/</link>
 		
@@ -436,26 +455,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2938376</guid>
 
 					<description><![CDATA[<p>Five years ago, Toyota Chairman Akio Toyoda went to CES to share with the world his &#8220;personal field of dreams&#8221; — a plan to build a prototype city on a 175-acre site at the foot of Mount Fuji in Japan, where people would live and work amongst all of Toyota’s projects, including autonomous vehicle technology, [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>People are playing a new DOOM-themed CAPTCHA</title>
-		<link>https://techcrunch.com/2025/01/01/people-are-playing-a-new-doom-themed-captcha/</link>
-		
-		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
-		<pubDate>Wed, 01 Jan 2025 18:06:20 +0000</pubDate>
-				<category><![CDATA[Gaming]]></category>
-		<category><![CDATA[captcha]]></category>
-		<category><![CDATA[developers]]></category>
-		<category><![CDATA[Doom]]></category>
-		<category><![CDATA[Vercel]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2938377</guid>
-
-					<description><![CDATA[<p>CAPTCHA programs that are used to determine whether a site visitor is a person or a bot come in pretty standard formats. Think text distortion (where users type the characters they see in a box amid other squiggles); image recognition (you’re selecting, say, all the squares in a grid with a bicycle image); and checkbox [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
