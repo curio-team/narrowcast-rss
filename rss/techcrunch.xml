@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 09 Jan 2025 10:34:38 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 Jan 2025 10:56:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>VLC tops 6 billion downloads, previews AI-generated subtitles</title>
+		<link>https://techcrunch.com/2025/01/09/vlc-tops-6-billion-downloads-previews-ai-generated-subtitles/</link>
+		
+		<dc:creator><![CDATA[Manish Singh]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2025 10:56:18 +0000</pubDate>
+				<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[ces 2025]]></category>
+		<category><![CDATA[Videolan]]></category>
+		<category><![CDATA[VLC]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2942931</guid>
+
+					<description><![CDATA[<p>VLC media player, the popular open-source software developed by nonprofit VideoLAN, has topped 6 billion downloads worldwide and teased an AI-powered subtitle system. The new feature automatically generates real-time subtitles &#8212; which can then also be translated in many languages &#8212; for any video using open-source AI models that run locally on users&#8217; devices, eliminating [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Apple might be working on a new ‘Invites’ app</title>
 		<link>https://techcrunch.com/2025/01/09/apple-might-be-working-on-a-new-invites-app/</link>
 		
@@ -50,7 +69,7 @@
 		
 			</item>
 		<item>
-		<title>Grand Games, the Turkish gaming startup behind pouring game Magic Sort, drinks up $30M</title>
+		<title>Grand Games, the Turkish startup behind Magic Sort, drinks up $30M</title>
 		<link>https://techcrunch.com/2025/01/09/grand-games-the-turkish-gaming-startup-behind-pouring-game-magic-sort-drinks-up-30m/</link>
 		
 		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
@@ -64,7 +83,7 @@
 		<category><![CDATA[puzzle games]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2942924</guid>
 
-					<description><![CDATA[<p>Gaming startups — specifically those building casual mobile games — are very hot in Turkey right now, and today another one is announcing a sizeable round just nine months into its existence. Grand Games, the publisher behind Magic Sort and Car Match, has picked up $30 million in funding — money that it will use [&#8230;]</p>
+					<description><![CDATA[<p>Gaming startups, specifically those building casual mobile games, are very hot in Turkey right now, and today another one is announcing a sizable round.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -421,25 +440,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2942416</guid>
 
 					<description><![CDATA[<p>Watch Duty, an app to track wildfires with live maps and alerts, has become the No. 1 free app in Apple&#8217;s App Store as of Wednesday morning. The fire-tracking app surpassed the ChatGPT app for the No. 1 spot as devastating fires continue to rage across Southern California. Watch Duty has been around since 2021 [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mastodon CEO calls Meta&#8217;s moderation changes &#8216;deeply troubling,&#8217; warns users cross-posting from Threads</title>
-		<link>https://techcrunch.com/2025/01/08/mastodon-ceo-calls-metas-moderation-changes-deeply-troubling-warns-users-cross-posting-from-threads/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 19:39:45 +0000</pubDate>
-				<category><![CDATA[Social]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[Threads]]></category>
-		<category><![CDATA[Mastodon]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2942365</guid>
-
-					<description><![CDATA[<p>Mastodon CEO Eugen Rochko has spoken out about the significant moderation changes announced by Meta on Tuesday, which will see the social networking giant removing fact-checking across its apps in favor of a crowdsourced community notes feature, similar to X&#8217;s. The Mastodon founder, whose app competes with X and Meta&#8217;s X rival, Instagram Threads, called [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
