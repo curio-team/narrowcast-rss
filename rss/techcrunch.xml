@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 08 Jan 2025 15:31:42 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 Jan 2025 07:32:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,25 +31,20 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Microsoft rolls back its Bing Image Creator model after users complain of degraded quality</title>
-		<link>https://techcrunch.com/2025/01/08/microsoft-rolls-back-its-bing-image-creator-model-after-users-complain-of-degraded-quality/</link>
+		<title>xAI is testing a standalone iOS app for its Grok chatbot</title>
+		<link>https://techcrunch.com/2025/01/08/xai-is-testing-a-standalone-ios-app-for-its-grok-chatbot/</link>
 		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 15:31:36 +0000</pubDate>
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2025 07:25:00 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[AI model]]></category>
-		<category><![CDATA[Bing]]></category>
-		<category><![CDATA[bing image creator]]></category>
-		<category><![CDATA[DALL-E 3]]></category>
-		<category><![CDATA[image generator]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[model]]></category>
-		<category><![CDATA[pr16]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2942011</guid>
+		<category><![CDATA[AI chatbot]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[Grok]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[xAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2935994</guid>
 
-					<description><![CDATA[<p>Ahead of the holidays, Microsoft said it was upgrading the AI model behind Bing Image Creator, the AI-powered image editing tool built into the company&#8217;s Bing search engine. Microsoft promised that the new model — the latest version of OpenAI&#8217;s DALL-E 3 model, code-named &#8220;PR16&#8221; — would allow users to create images &#8220;twice as fast [&#8230;]</p>
+					<description><![CDATA[<p>Elon Musk's AI company, xAI, is testing out a standalone iOS app for its chatbot, Grok, which was available only to X users until now.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -57,247 +52,39 @@
 		
 			</item>
 		<item>
-		<title>Former CEO of MoviePass’ parent company pleads guilty to fraud over &#8216;unlimited&#8217; plan</title>
-		<link>https://techcrunch.com/2025/01/08/former-ceo-of-moviepass-parent-company-pleads-guilty-to-fraud-over-unlimited-plan/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 15:20:24 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[lawsuit]]></category>
-		<category><![CDATA[moviepass]]></category>
-		<category><![CDATA[movies]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[subscription service]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2942040</guid>
-
-					<description><![CDATA[<p>The former chief executive of the parent company of MoviePass, Theodore Farnsworth, pleaded guilty to charges of securities fraud and conspiracy after being accused of misleading investors over the service&#8217;s &#8220;unlimited plan.&#8221; Farnsworth also pleaded guilty to conspiracy to commit securities fraud as the chief executive of Vinco Ventures, a publicly traded company. Helios &#38; [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Facebook Marketplace to display eBay listings to appease EU regulators</title>
-		<link>https://techcrunch.com/2025/01/08/facebook-marketplace-to-display-ebay-listings-to-appease-eu-regulators/</link>
-		
-		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 14:59:02 +0000</pubDate>
-				<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[eBay]]></category>
-		<category><![CDATA[Facebook]]></category>
-		<category><![CDATA[Meta]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2942012</guid>
-
-					<description><![CDATA[<p>Meta is set to start displaying eBay listings in its own Facebook Marketplace classifieds platform, in an effort to appease European regulators. Back in November, Meta was hit with a €798 million fine by the European Commission (EC) in Europe for breaching antitrust rules. The EC contended that Meta created &#8220;unfair trading conditions&#8221; by connecting [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Healthcare analytics platform H1 has acquired Ribbon, backed by a16Z and General Catalyst</title>
-		<link>https://techcrunch.com/2025/01/08/healthcare-analytics-platform-h1-has-acquired-ribbon-backed-by-a16z-and-general-catalyst/</link>
-		
-		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 14:32:38 +0000</pubDate>
-				<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[a16z]]></category>
-		<category><![CDATA[General Catalyst]]></category>
-		<category><![CDATA[h1]]></category>
-		<category><![CDATA[M&A]]></category>
-		<category><![CDATA[venture-backed M&A]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2941999</guid>
-
-					<description><![CDATA[<p>H1, a healthcare data analytics platform serving the pharmaceutical industry with data on over 10 million healthcare professionals, has acquired Ribbon, a startup that helps patients find doctors that are supported by their insurance. Financial terms of the deal have not been disclosed. The last time that Ribbon &#8212; founded in 2016 and a Y [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Edtech giant PowerSchool says hackers accessed personal data of students and teachers</title>
-		<link>https://techcrunch.com/2025/01/08/edtech-giant-powerschool-says-hackers-accessed-personal-data-of-students-and-teachers/</link>
-		
-		<dc:creator><![CDATA[Carly Page]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 14:15:45 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[Bain Capital]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[powerschool]]></category>
-		<category><![CDATA[security]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2942001</guid>
-
-					<description><![CDATA[<p>The Bain Capital-owned edtech giant says hackers accessed its customer support portal using a "compromised credential."</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Vay expands driverless car-sharing fleet in Las Vegas</title>
-		<link>https://techcrunch.com/2025/01/08/vay-expands-driverless-car-sharing-fleet-in-las-vegas/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2941871</guid>
-
-					<description><![CDATA[<p>Vay is hitting the accelerator on its driverless car-sharing service in Las Vegas. The Berlin-based startup, which uses teleoperations technology that lets humans pilot empty vehicles to customers, has been operating a small commercial fleet of retrofitted Kia e-Niro vehicles in certain parts of Las Vegas since January 2024. When customers open the Vay app [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>EU court fines European Commission for breaching its own data privacy laws</title>
-		<link>https://techcrunch.com/2025/01/08/eu-court-fines-european-commission-for-breaching-its-own-data-privacy-laws/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 13:55:17 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[data privacy]]></category>
-		<category><![CDATA[european commission]]></category>
-		<category><![CDATA[GDPR]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2941993</guid>
-
-					<description><![CDATA[<p>The EU court said the bloc's executive authority violated a citizen's rights by transferring some of his personal data to the U.S. without proper safeguards.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Livestream shopping app Whatnot raises $265M, pinning valuation at nearly $5B</title>
-		<link>https://techcrunch.com/2025/01/08/livestream-shopping-app-whatnot-raises-265m-pinning-valuation-at-nearly-5b/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[e-commerce]]></category>
-		<category><![CDATA[series E funding]]></category>
-		<category><![CDATA[funding rounds]]></category>
-		<category><![CDATA[Whatnot]]></category>
-		<category><![CDATA[livestream shopping]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2941418</guid>
-
-					<description><![CDATA[<p>Whatnot, the platform that allows users to sell items such as trading cards, comics, and sneakers through live videos, announced on Wednesday that it has secured $265 million in a Series E funding round, a significant investment for a livestream shopping platform. This round puts Whatnot’s valuation at $4.97 billion. The investment marks an important [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SteamOS expands to other gaming handhelds with the Lenovo Legion Go S</title>
-		<link>https://techcrunch.com/2025/01/08/steamos-expands-to-other-gaming-handhelds-with-the-lenovo-legion-go-s/</link>
-		
-		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 11:18:48 +0000</pubDate>
-				<category><![CDATA[Gadgets]]></category>
-		<category><![CDATA[Gaming]]></category>
-		<category><![CDATA[CES]]></category>
-		<category><![CDATA[ces 2025]]></category>
-		<category><![CDATA[gaming handheld]]></category>
-		<category><![CDATA[lenovo]]></category>
-		<category><![CDATA[Lenovo Legion Go]]></category>
-		<category><![CDATA[Lenovo Legion Go S]]></category>
-		<category><![CDATA[SteamOS]]></category>
-		<category><![CDATA[Valve]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2941964</guid>
-
-					<description><![CDATA[<p>SteamOS is slowly becoming an alternative to Windows for handheld gaming devices. After launching the Steam Deck with SteamOS, its own operating system, Valve is now partnering with third-party manufacturers so that they can release gaming handhelds with SteamOS support. On Tuesday, Lenovo unveiled the Legion Go S at CES 2025. Unlike its predecessor, the [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Casio says hackers stole personal data of 8,500 people during October ransomware attack</title>
-		<link>https://techcrunch.com/2025/01/08/casio-says-hackers-stole-personal-data-of-8500-people-during-october-ransomware-attack/</link>
-		
-		<dc:creator><![CDATA[Carly Page]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 11:11:07 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[Casio]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<category><![CDATA[security]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2941949</guid>
-
-					<description><![CDATA[<p>The Japanese electronics giant says it did not negotiate with the hackers responsible for the attack.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Siren secures strategic funding for its socks that detect diabetic foot ulcers</title>
-		<link>https://techcrunch.com/2025/01/08/sirens-smart-sock-for-diabetics-secures-strategic-funding-round/</link>
-		
-		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[diabetes]]></category>
-		<category><![CDATA[siren socks]]></category>
-		<category><![CDATA[wearables]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2941130</guid>
-
-					<description><![CDATA[<p>After studying burn victims and war veterans, entrepreneur Ran Ma hand-made a sock that contained sensors to detect foot ulcers. Now, her company, Siren, has secured $9.5 million, with an $8 million check from lead investor Mölnlycke Health Care to further the development and adoption of its diabetic foot ulcer (DFU) prevention product. It&#8217;s now [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>UN aviation agency confirms hacker breached recruitment database to access thousands of records</title>
-		<link>https://techcrunch.com/2025/01/08/un-aviation-agency-confirms-hacker-breached-recruitment-database-to-access-thousands-of-records/</link>
-		
-		<dc:creator><![CDATA[Carly Page]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 09:11:03 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[hacking]]></category>
-		<category><![CDATA[icao]]></category>
-		<category><![CDATA[security]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2941945</guid>
-
-					<description><![CDATA[<p>ICAO says compromised data includes job applicants' names, email addresses and employment history</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft backs its $3B AI push in India with public and private sector deals</title>
-		<link>https://techcrunch.com/2025/01/08/microsoft-backs-its-3b-ai-push-in-india-with-public-and-private-sector-deals/</link>
+		<title>Flipkart hires Dunzo&#8217;s co-founder to lead quick commerce push</title>
+		<link>https://techcrunch.com/2025/01/08/flipkart-taps-dunzo-founder-to-lead-quick-commerce-push/</link>
 		
 		<dc:creator><![CDATA[Manish Singh]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 08:17:12 +0000</pubDate>
+		<pubDate>Thu, 09 Jan 2025 06:17:05 +0000</pubDate>
+				<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[Dunzo]]></category>
+		<category><![CDATA[Flipkart]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[Quick commerce]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2942878</guid>
+
+					<description><![CDATA[<p>Flipkart has hired Kabeer Biswas, the co-founder of Indian delivery startup Dunzo, as the Walmart-owned e-commerce group expands its quick-commerce business in the country. Biswas will lead Flipkart&#8217;s quick commerce effort, called Flipkart Minutes, a source familiar with the matter told TechCrunch. The move comes nearly a year after Flipkart was considering a potential acquisition [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Elon Musk agrees that we&#8217;ve exhausted AI training data</title>
+		<link>https://techcrunch.com/2025/01/08/elon-musk-agrees-that-weve-exhausted-ai-training-data/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2025 04:01:48 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[India]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2941929</guid>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[synthetic data]]></category>
+		<category><![CDATA[training data]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2942841</guid>
 
-					<description><![CDATA[<p>Microsoft announced a sweeping series of artificial intelligence partnerships across India&#8217;s core sectors on Wednesday, a day after pledging to invest $3 billion in the country over the next two years as it intensifies competition with rivals Google and Amazon. The tech giant&#8217;s chief executive Satya Nadella (pictured above) unveiled agreements with five major organizations [&#8230;]</p>
+					<description><![CDATA[<p>Elon Musk concurs with other AI experts that there&#8217;s little real-world data left to train AI models on. &#8220;We&#8217;ve now exhausted basically the cumulative sum of human knowledge &#8230;. in AI training,&#8221; Musk said during a livestreamed conversation with Stagwell chairman Mark Penn streamed on X late Wednesday. &#8220;That happened basically last year.&#8221; Musk, who [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -305,135 +92,356 @@
 		
 			</item>
 		<item>
-		<title>Nomupay raises $37M at a $200M valuation to build payment rails in underserved markets across Asia</title>
-		<link>https://techcrunch.com/2025/01/07/nomupay-raises-37m-on-a-200m-valuation-to-build-payment-rails-in-underserved-markets-across-asia/</link>
-		
-		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 06:36:32 +0000</pubDate>
-				<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[cross-border payments]]></category>
-		<category><![CDATA[nomupay]]></category>
-		<category><![CDATA[payments]]></category>
-		<category><![CDATA[wirecard]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2941918</guid>
-
-					<description><![CDATA[<p>Wirecard, a German fintech that raised hundreds of millions of dollars only to collapse in 2020 in a sea of scandal and insolvency, still makes headlines today as lawsuits continue against different entities and people once connected to the business. But not all that came out of it was rotten. A Dublin-based startup called Nomupay [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>VC investment in emerging markets plummeted by over 40% last year</title>
-		<link>https://techcrunch.com/2025/01/07/report-vc-in-emerging-markets-plummeted-by-over-40-last-year/</link>
-		
-		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 05:30:00 +0000</pubDate>
-				<category><![CDATA[Venture]]></category>
-		<category><![CDATA[MENA]]></category>
-		<category><![CDATA[Asia]]></category>
-		<category><![CDATA[emerging market]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2941100</guid>
-
-					<description><![CDATA[<p>VC investments in emerging markets such as the Middle East and North Africa (MENA) plummeted by over 40% compared to 2023, according to a new report. The data mirrors the wider global trend of reduced VC funding in the last two years, especially for non-AI companies. The total raised across the markets surveyed was $9.1 [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Indian government websites are still redirecting users to scam sites</title>
-		<link>https://techcrunch.com/2025/01/07/indian-government-websites-are-still-redirecting-users-to-scam-sites/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 04:15:19 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[India]]></category>
-		<category><![CDATA[Indian government]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2940967</guid>
-
-					<description><![CDATA[<p>Some Indian government websites are still redirecting to links planted by scammers.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Delta SkyMiles members can now earn miles riding with Uber, as deal with Lyft nears end</title>
-		<link>https://techcrunch.com/2025/01/07/delta-skymiles-members-can-now-earn-miles-riding-with-uber-ending-its-deal-with-lyft/</link>
+		<title>We talked to the guy who was stuck in a Waymo robotaxi on a dizzying loop</title>
+		<link>https://techcrunch.com/2025/01/08/we-talked-to-the-guy-who-was-stuck-in-a-waymo-robotaxi-on-an-dizzying-loop/</link>
 		
 		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 01:48:31 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Delta]]></category>
-		<category><![CDATA[Uber]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2941754</guid>
-
-					<description><![CDATA[<p>Uber announced during CES 2025 a multi-year exclusive partnership with Delta Air Lines that allows SkyMiles members to earn miles when they ride with Uber or order delivery through Uber Eats in the United States. The deal means an end of Delta&#8217;s partnership with Lyft. The Uber partnership will launch in the spring, giving Uber [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Sam Altman&#8217;s family responds to lawsuit alleging he sexually assaulted his sister</title>
-		<link>https://techcrunch.com/2025/01/07/sam-altmans-family-responds-to-lawsuit-alleging-he-sexually-assaulted-his-sister/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 01:12:48 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[sam altman]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2941804</guid>
-
-					<description><![CDATA[<p>OpenAI CEO Sam Altman responded to sexual assault accusations from his estranged younger sister on Tuesday, calling the claims &#8220;entirely untrue.&#8221; According to the Saint Louis Post Dispatch, in a new lawsuit filed Monday, Annie Altman alleges her older brother sexually assaulted her over a nine-year period in the 1990s and 2000s. The suit echoes [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Delta Air Lines announces an AI-powered assistant in its mobile app and free onboard YouTube Premium and Music at CES 2025</title>
-		<link>https://techcrunch.com/2025/01/07/delta-air-lines-announces-an-ai-powered-assistant-in-its-mobile-app-and-free-onboard-youtube-premium-and-music-at-ces-2025/</link>
-		
-		<dc:creator><![CDATA[Frederic Lardinois]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 01:10:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[CES]]></category>
-		<category><![CDATA[Delta]]></category>
-		<category><![CDATA[Delta Air Lines]]></category>
-		<category><![CDATA[planes]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2940874</guid>
-
-					<description><![CDATA[<p>Over the last few years, Delta Air Lines&#8217; presence has become a staple of CES, with the airline regularly hosting splashy keynotes. This year, the company has rented out the Sphere to announce its latest slate of updates. These include (can you guess it?) an AI-powered assistant in its app, as well as an updated [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Zeekr RT, the robotaxi built for Waymo, has the tiniest wipers</title>
-		<link>https://techcrunch.com/2025/01/07/zeekr-rt-the-robotaxi-built-for-waymo-has-the-tiniest-wipers/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 00:11:37 +0000</pubDate>
+		<pubDate>Thu, 09 Jan 2025 00:59:26 +0000</pubDate>
 				<category><![CDATA[Transportation]]></category>
 		<category><![CDATA[autonomous vehicles]]></category>
-		<category><![CDATA[CES]]></category>
+		<category><![CDATA[robotaxi]]></category>
 		<category><![CDATA[Waymo]]></category>
-		<category><![CDATA[zeekr]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2941581</guid>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2942694</guid>
 
-					<description><![CDATA[<p>For the autonomous vehicle-obsessed, the Waymo-Zeekr robotaxi is nothing new. In 2021, Waymo and Zeekr announced a partnership. Waymo first showed a concept of the purpose-built robotaxi in late 2022 and began testing prototype versions on public roads in San Francisco last year, even as it began rolling out its commercial fleet of Jaguar I-Pace [&#8230;]</p>
+					<description><![CDATA[<p>A month ago, a video circulated around social media of a Waymo robotaxi stuck in a roundabout loop – an isolated incident with no passengers in the vehicle, according to Waymo. Apparently, it wasn&#8217;t a one-time thing. Around the same time, in another Waymo robotaxi headed for the Phoenix airport, Mike Johns, founder and CEO [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The US has a new cybersecurity safety label for smart devices</title>
+		<link>https://techcrunch.com/2025/01/08/the-u-s-has-a-new-cybersecurity-safety-label-for-smart-devices/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2025 00:58:45 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[connected devices]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[IoT]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[smart devices]]></category>
+		<category><![CDATA[U.S. government]]></category>
+		<category><![CDATA[White House]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2942796</guid>
+
+					<description><![CDATA[<p>The White House this week announced a new label for internet-connected devices, the U.S. Cyber Trust Mark, intended to help consumers make more-informed decisions about the cybersecurity of products they bring into their homes. To earn the U.S. Cyber Trust Mark, which is being administered by the Federal Communications Commission, companies have to test their [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The LiberLive C1 stringless instrument isn’t a guitar, and that’s fine</title>
+		<link>https://techcrunch.com/2025/01/08/the-liberlive-c1-stringless-instrument-isnt-a-guitar-and-thats-fine/</link>
+		
+		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2025 00:54:27 +0000</pubDate>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[CES]]></category>
+		<category><![CDATA[Guitar Hero]]></category>
+		<category><![CDATA[liberlive]]></category>
+		<category><![CDATA[liberlive c1]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2942777</guid>
+
+					<description><![CDATA[<p>I’m old enough to remember musicians getting angry over Guitar Hero. But they always seemed to be missing the point. Nobody was seriously suggesting that a video game controller would replace an instrument that’s been going strong since the 15th century. Guitar Hero was a fun game, and if it persuaded a new generation to [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CES 2025 was full of IRL AI slop</title>
+		<link>https://techcrunch.com/2025/01/08/ces-2025-was-full-of-irl-ai-slop/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2025 00:04:16 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ai slop]]></category>
+		<category><![CDATA[CES]]></category>
+		<category><![CDATA[irl slop]]></category>
+		<category><![CDATA[Roundup]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2942115</guid>
+
+					<description><![CDATA[<p>It&#8217;s 2025, and companies still don&#8217;t know what AI is good for. That&#8217;s the impression I got from this year&#8217;s CES, which featured AI-powered kitchen appliances, baby cribs, and other products that really weren&#8217;t calling for AI. See: Spicerr, an &#8220;intelligent&#8221; touchscreen-equipped spice dispenser that learns your taste as you cook to recommend unique recipes. [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CES 2025: The weirdest tech products and claims from this year’s event</title>
+		<link>https://techcrunch.com/2025/01/08/ces-2025-the-weirdest-tech-products-and-claims-from-this-years-event/</link>
+		
+		<dc:creator><![CDATA[Cody Corrall]]></dc:creator>
+		<pubDate>Wed, 08 Jan 2025 23:36:25 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[CES]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2942661</guid>
+
+					<description><![CDATA[<p>CES 2025 is in full swing. While the conference features reveals from tech powerhouses like Nvidia, Samsung, and Toyota, there are also some very strange product concepts and announcements circulating on the show floor. We’ve compiled the weirdest, silliest, and most eyebrow-raising products from CES 2025. A robotic cat that cools down your coffee for [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Pickpad addresses the chaos of restaurant takeout</title>
+		<link>https://techcrunch.com/2025/01/08/pickpad-addresses-the-chaos-of-restaurant-takeout/</link>
+		
+		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
+		<pubDate>Wed, 08 Jan 2025 22:25:44 +0000</pubDate>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[CES]]></category>
+		<category><![CDATA[pickpad]]></category>
+		<category><![CDATA[point of service]]></category>
+		<category><![CDATA[restaurant]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2942596</guid>
+
+					<description><![CDATA[<p>There was a time when baristas just had to write a customer’s name on a cup and call it out. They wouldn’t always get the name right, but more often than not, it went to the right person. The prospect of picking up takeout has, however, become considerably more dicey in this post-pandemic era dominated [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Astrohaus launches a mechanical keyboard for writers</title>
+		<link>https://techcrunch.com/2025/01/08/astrohaus-launches-a-mechanical-keyboard-for-writers/</link>
+		
+		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
+		<pubDate>Wed, 08 Jan 2025 22:00:00 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[astrohaus]]></category>
+		<category><![CDATA[CES]]></category>
+		<category><![CDATA[FreeWrite]]></category>
+		<category><![CDATA[Keyboard]]></category>
+		<category><![CDATA[mechanical keyboard]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2940249</guid>
+
+					<description><![CDATA[<p>Astrohaus has cornered a very specific niche. The Michigan-based startup builds hardware for writers looking to eliminate distractions. It’s really tough finishing up that novel when Instagram exists, after all. While the company has made its name bucking most tech trends, however, its latest offering has found a bandwagon to jump onto. Announced at CES [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Grok may soon get an &#8216;Unhinged Mode&#8217;</title>
+		<link>https://techcrunch.com/2025/01/08/grok-may-soon-get-an-unhinged-mode/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 08 Jan 2025 21:33:26 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[chatbot]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[Grok]]></category>
+		<category><![CDATA[musk]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[unhinged model]]></category>
+		<category><![CDATA[X]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2942521</guid>
+
+					<description><![CDATA[<p>Last April, Elon Musk, the billionaire owner of X, teased a mysterious &#8220;Unhinged Mode&#8221; for X&#8217;s AI-powered chatbot, Grok. Nearly a year later, xAI, the Musk-owned company behind Grok, has updated an FAQ page on its website that sheds light on the new mode. Grok in Unhinged Mode will provide responses &#8220;intended to be objectionable, [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Halliday&#8217;s $489 smart glasses beam a tiny screen to your eye</title>
+		<link>https://techcrunch.com/2025/01/08/hallidays-489-smart-glasses-beam-a-tiny-screen-to-your-eye/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Wed, 08 Jan 2025 21:09:02 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[AI wearables]]></category>
+		<category><![CDATA[CES]]></category>
+		<category><![CDATA[SMART Glasses]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2941072</guid>
+
+					<description><![CDATA[<p>Walk up to someone wearing a pair of Halliday&#8217;s smart glasses, and you might not notice they&#8217;re looking at smartphone notifications, live language translations, or advice from an AI assistant. The only giveaway is the tiny green dot of light on their eyeball. Wearables startup Halliday launched a pair of smart glasses at CES 2025 [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>This $1,500 iPad bundle will Rickroll your family after you die</title>
+		<link>https://techcrunch.com/2025/01/08/this-1500-ipad-bundle-will-rickroll-your-family-after-you-die/</link>
+		
+		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
+		<pubDate>Wed, 08 Jan 2025 20:41:38 +0000</pubDate>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[CES]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[zugu]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2942470</guid>
+
+					<description><![CDATA[<p>It’s only the second day of CES 2025, and we’ve already reached the point where it’s difficult to distinguish real products from elaborate pranks. In Case of Death currently leads that race by a country mile. Produced by Zugu, the product is designed as a kind of dead man’s switch for your digital life. It [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Flock Safety quietly hired a sitting California mayor. Now he’s suing Flock.</title>
+		<link>https://techcrunch.com/2025/01/08/flock-safety-quietly-hired-a-sitting-california-mayor-now-hes-suing-flock/</link>
+		
+		<dc:creator><![CDATA[Charles Rollet, Margaux MacColl]]></dc:creator>
+		<pubDate>Wed, 08 Jan 2025 20:39:22 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[a16z]]></category>
+		<category><![CDATA[flock safety]]></category>
+		<category><![CDATA[policy]]></category>
+		<category><![CDATA[sales]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2942467</guid>
+
+					<description><![CDATA[<p>Last year, police surveillance startup Flock Safety hired the mayor of a California city with over 200,000 residents to promote its products. But the mayor, Ulises Cabrera of Moreno Valley, now claims Flock wrongfully terminated him, partly because he refused to use his position as mayor to benefit Flock, according to a lawsuit Cabrera filed [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI researcher François Chollet is co-founding a nonprofit to build benchmarks for AGI</title>
+		<link>https://techcrunch.com/2025/01/08/ai-researcher-francois-chollet-is-co-founding-a-nonprofit-to-build-benchmarks-for-agi/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 08 Jan 2025 20:16:27 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[benchmarks]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[AGI]]></category>
+		<category><![CDATA[Francois Chollet]]></category>
+		<category><![CDATA[arc-agi]]></category>
+		<category><![CDATA[arc prize foundation]]></category>
+		<category><![CDATA[arc prize]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2942381</guid>
+
+					<description><![CDATA[<p>Former Google engineer and influential AI researcher François Chollet is co-founding a nonprofit to help develop benchmarks that&#8217;ll probe AI for &#8220;human-level&#8221; intelligence. The nonprofit, the ARC Prize Foundation, will be led by Greg Kamradt, an ex-Salesforce engineering director and founder of the AI product studio Leverage. Kamradt will serve as president and a member [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Watch Duty surpasses ChatGPT as top free app on App Store as California fires spread</title>
+		<link>https://techcrunch.com/2025/01/08/watch-duty-surpasses-chatgpt-as-top-free-app-on-app-store-as-california-fires-spread/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Wed, 08 Jan 2025 20:15:06 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Climate]]></category>
+		<category><![CDATA[consumer apps]]></category>
+		<category><![CDATA[top apps]]></category>
+		<category><![CDATA[wildfires]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2942416</guid>
+
+					<description><![CDATA[<p>Watch Duty, an app to track wildfires with live maps and alerts, has become the No. 1 free app in Apple&#8217;s App Store as of Wednesday morning. The fire-tracking app surpassed the ChatGPT app for the No. 1 spot as devastating fires continue to rage across Southern California. Watch Duty has been around since 2021 [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mastodon CEO calls Meta&#8217;s moderation changes &#8216;deeply troubling,&#8217; warns users cross-posting from Threads</title>
+		<link>https://techcrunch.com/2025/01/08/mastodon-ceo-calls-metas-moderation-changes-deeply-troubling-warns-users-cross-posting-from-threads/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 08 Jan 2025 19:39:45 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[Threads]]></category>
+		<category><![CDATA[Mastodon]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2942365</guid>
+
+					<description><![CDATA[<p>Mastodon CEO Eugen Rochko has spoken out about the significant moderation changes announced by Meta on Tuesday, which will see the social networking giant removing fact-checking across its apps in favor of a crowdsourced community notes feature, similar to X&#8217;s. The Mastodon founder, whose app competes with X and Meta&#8217;s X rival, Instagram Threads, called [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Gamers can’t fathom how 6x CEO Elon Musk found time to best Diablo IV</title>
+		<link>https://techcrunch.com/2025/01/08/gamers-cant-fathom-how-6x-ceo-elon-musk-found-time-to-best-diablo-iv/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Wed, 08 Jan 2025 19:14:16 +0000</pubDate>
+				<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Diablo 4]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2942354</guid>
+
+					<description><![CDATA[<p>On October 16 and November 20, Elon Musk tweeted videos of himself clearing the highest level of the Diablo IV video game in about 2 minutes.  While Diablo IV has been out since mid-2023, the latest “season,” called The Pit, launched on October 7. Many asked: How did he find the time to do it [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>This basketball robot uses AI to rebound the ball after you shoot</title>
+		<link>https://techcrunch.com/2025/01/08/this-basketball-robot-uses-ai-to-rebound-the-ball-after-you-shoot/</link>
+		
+		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
+		<pubDate>Wed, 08 Jan 2025 19:09:21 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[CES]]></category>
+		<category><![CDATA[basketball]]></category>
+		<category><![CDATA[davy robot]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2942164</guid>
+
+					<description><![CDATA[<p>Like anything in life, the secret to becoming Steph Curry or Sabrina Ionescu is practice, practice, and more practice. You practice when it’s too hot, too cold, you’re tired, or you’re sick. Finding a willing one-on-one partner through all of that is, however, another question entirely. The good news is that later this year, you [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Gridware’s boxes literally listen to power lines to find outages</title>
+		<link>https://techcrunch.com/2025/01/08/gridwares-boxes-literally-listen-to-power-lines-to-find-outages/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Wed, 08 Jan 2025 19:00:00 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Artificial Intelligence (AI)]]></category>
+		<category><![CDATA[Power Lines]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[electrical grid]]></category>
+		<category><![CDATA[Sequoia Partners]]></category>
+		<category><![CDATA[Gridware]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2942279</guid>
+
+					<description><![CDATA[<p>Gridware's sensors listen for sounds that the company’s software has been trained to identify as different hazards to the grid.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
