@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 10 Jan 2025 09:56:22 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 10 Jan 2025 14:09:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Cannabis company Stiiizy says hackers accessed customers’ ID documents</title>
+		<link>https://techcrunch.com/2025/01/10/cannabis-company-stiiizy-says-hackers-accessed-customers-id-documents/</link>
+		
+		<dc:creator><![CDATA[Carly Page]]></dc:creator>
+		<pubDate>Fri, 10 Jan 2025 13:37:30 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cannabis]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[security]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2944542</guid>
+
+					<description><![CDATA[<p>A ransomware gang took credit for the breach, claiming to have stolen over 400,000 government-issued identity documents from customers.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Gumloop, founded in a bedroom in Vancouver, lets users automate tasks with drag-and-drop modules</title>
 		<link>https://techcrunch.com/2025/01/10/gumloop-founded-in-a-bedroom-in-vancouver-lets-users-automate-tasks-with-drag-and-drop-modules/</link>
 		
@@ -429,25 +450,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2943230</guid>
 
 					<description><![CDATA[<p>Scale AI just got hit by another lawsuit alleging widespread wage violations and misclassification of its workers.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Y Combinator scored a surprise win when Larry Page came to speak</title>
-		<link>https://techcrunch.com/2025/01/09/y-combinator-scored-a-surprise-win-when-larry-page-came-to-speak/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2025 18:53:19 +0000</pubDate>
-				<category><![CDATA[Venture]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Larry Page]]></category>
-		<category><![CDATA[Y Combinator]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2943145</guid>
-
-					<description><![CDATA[<p>Y Combinator is maybe only two-degrees of separation from anyone in tech. Even Larry Page.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
