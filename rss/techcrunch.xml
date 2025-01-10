@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 10 Jan 2025 14:09:11 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 10 Jan 2025 14:50:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>China hacked US Treasury&#8217;s CFIUS, which reviews foreign investments for national security risks</title>
+		<link>https://techcrunch.com/2025/01/10/china-hacked-us-treasurys-cfius-which-reviews-foreign-investments-for-national-security-risks/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Fri, 10 Jan 2025 14:49:56 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[CFIUS]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[treasury]]></category>
+		<category><![CDATA[us government]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2944548</guid>
+
+					<description><![CDATA[<p>The hackers targeting the Treasury are dubbed Silk Typhoon, and previously mass-hacked thousands of corporate email servers.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Cannabis company Stiiizy says hackers accessed customers’ ID documents</title>
 		<link>https://techcrunch.com/2025/01/10/cannabis-company-stiiizy-says-hackers-accessed-customers-id-documents/</link>
 		
@@ -430,26 +451,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2943201</guid>
 
 					<description><![CDATA[<p>As it looks to accelerate the pace of its AI development, Google is further streamlining the teams building its AI services, platforms, and tools. On Thursday, Logan Kilpatrick, who leads product for Google&#8217;s AI Studio developer platform, said in a post on X that Google&#8217;s AI Studio team and the team developing the API for [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Scale AI hit by its second employee wage lawsuit in less than a month</title>
-		<link>https://techcrunch.com/2025/01/09/scale-ai-hit-by-its-second-employee-wage-lawsuit-in-less-than-a-month/</link>
-		
-		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2025 19:46:05 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[lawsuits]]></category>
-		<category><![CDATA[Scale AI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2943230</guid>
-
-					<description><![CDATA[<p>Scale AI just got hit by another lawsuit alleging widespread wage violations and misclassification of its workers.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
