@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 09 Jan 2025 15:18:36 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 10 Jan 2025 08:02:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,20 +31,16 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>PrettyDamnQuick snaps up $25M to speed up online checkout</title>
-		<link>https://techcrunch.com/2025/01/09/prettydamnquick-snaps-up-25m-to-speed-up-online-checkout/</link>
+		<title>Beams secures $9M Series A to digitize UK home renovation market</title>
+		<link>https://techcrunch.com/2025/01/09/beams-secures-9m-series-a-to-digitize-uk-home-renovation-market/</link>
 		
-		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2025 15:18:31 +0000</pubDate>
-				<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[e-commerce]]></category>
-		<category><![CDATA[online shopping]]></category>
-		<category><![CDATA[pdq]]></category>
-		<category><![CDATA[prettydamnquick]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2942981</guid>
+		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
+		<pubDate>Fri, 10 Jan 2025 07:00:00 +0000</pubDate>
+				<category><![CDATA[Real estate]]></category>
+		<category><![CDATA[renovation]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2943091</guid>
 
-					<description><![CDATA[<p>A startup hoping to provide a credible alternative to Amazon has picked up funding to double down on the gap in the market. PrettyDamnQuick (PDQ) provides tech to retailers to let them customize and test different shipping and checkout flows, and now it has picked up a deal of its own: a $25 million Series [&#8230;]</p>
+					<description><![CDATA[<p>Home renovation projects can be unpredictable for both customers and builders. Meanwhile, small contractors barely use modern software and home renovation giants, like IKEA, tend to trundle on with dated legacy software. UK startup Beams thinks it can solve this conundrum and has now raised a $9 million Series A funding round to crack the [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -52,310 +48,125 @@
 		
 			</item>
 		<item>
-		<title>Innovaccer aims to become healthcare&#8217;s AI powerhouse with $275M Series F</title>
-		<link>https://techcrunch.com/2025/01/09/innovaccer-aims-to-become-healthcares-ai-powerhouse-with-275m-series-f/</link>
+		<title>India&#8217;s payment push is cutting out Visa and Mastercard</title>
+		<link>https://techcrunch.com/2025/01/09/india-rupay-upi-payment-push-is-cutting-out-visa-and-mastercard/</link>
+		
+		<dc:creator><![CDATA[Manish Singh]]></dc:creator>
+		<pubDate>Fri, 10 Jan 2025 06:24:58 +0000</pubDate>
+				<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[mastercard]]></category>
+		<category><![CDATA[Rupay]]></category>
+		<category><![CDATA[visa]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2942874</guid>
+
+					<description><![CDATA[<p>As global regulators increase their scrutiny on Visa and Mastercard over merchant fees, India has chosen a different path: creating rival payment networks and they are increasingly sidelining international card networks. The strategy builds on India&#8217;s Unified Payments Interface, known as UPI, a nine-year-old system that now processes more than 13 billion real-time transactions monthly, [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>X is rolling out labels for parody accounts</title>
+		<link>https://techcrunch.com/2025/01/09/x-says-it-is-rolling-out-labels-for-parody-accounts/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Fri, 10 Jan 2025 05:42:48 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[social networks]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2943690</guid>
+
+					<description><![CDATA[<p>X said today that it will now label parody or satire profiles to differentiate them from other accounts. In the past, users, including news presenters, have mistaken posts from parody accounts as authentic statements made by the actual people or entities. X said that the label would be visible on both accounts and posts. &#8220;We’re [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Every smartphone in LA accidentally received a wildfire evacuation alert</title>
+		<link>https://techcrunch.com/2025/01/09/every-smartphone-in-la-accidentally-received-a-wildfire-evacuation-alert/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Fri, 10 Jan 2025 02:25:17 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[emergency alert]]></category>
+		<category><![CDATA[LA wildfire]]></category>
+		<category><![CDATA[push notifications]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2943641</guid>
+
+					<description><![CDATA[<p>As wildfires rage for the third consecutive day through parts of Los Angeles, now including the Hollywood Hills, several neighborhoods have been forced to evacuate for safety purposes. But on Thursday afternoon, a wildfire evacuation alert was mistakenly sent to the smartphone of every resident in Los Angeles County, a region with more than 9 [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>This security system shoots paintballs at intruders</title>
+		<link>https://techcrunch.com/2025/01/09/this-security-system-shoots-paintballs-at-intruders/</link>
+		
+		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
+		<pubDate>Fri, 10 Jan 2025 02:23:57 +0000</pubDate>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[CES]]></category>
+		<category><![CDATA[paintcam]]></category>
+		<category><![CDATA[paintcam eve]]></category>
+		<category><![CDATA[security system]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2943632</guid>
+
+					<description><![CDATA[<p>Doorbell cameras are standard fare these days. More and more people have invested in connected security systems, as the technology has become both cheaper and more user friendly. There’s one important thing these system won’t do, however: shoot people and animals with paintballs. That is, however, pretty much the Eve PaintCam’s whole M.O. Carrying the [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tesla launches new-look Model Y in China</title>
+		<link>https://techcrunch.com/2025/01/09/tesla-launches-new-look-model-y-in-china/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Fri, 10 Jan 2025 02:11:56 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2943643</guid>
+
+					<description><![CDATA[<p>Tesla has revealed a new-look Model Y meant for the Chinese and other Asian-Pacific markets, marking the first major update to the SUV since its launch in 2020. The redesign comes as Tesla finished 2024 having delivered fewer vehicles than it did in 2023. It was the first year-over-year drop since the company started selling [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hippocratic AI raises $141M for creating patient-facing AI agents</title>
+		<link>https://techcrunch.com/2025/01/09/hippocratic-ai-raises-141m-for-creating-patient-facing-ai-agents/</link>
 		
 		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[b capital group]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[Innovaccer]]></category>
-		<category><![CDATA[Kaiser Permanente]]></category>
-		<category><![CDATA[M12]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2942974</guid>
-
-					<description><![CDATA[<p>Innovaccer has raised a $275M Series F from investors including B Capital Group, Banner Health, Danaher Ventures, Generation IM, Kaiser Permanente, and M12.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tesla directors to pay up to $919 million to settle claims they overpaid themselves</title>
-		<link>https://techcrunch.com/2025/01/09/tesla-directors-to-pay-up-to-919-million-to-settle-claims-they-overpaid-themselves/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2025 14:05:02 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Tesla]]></category>
-		<category><![CDATA[tesla directors]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2942969</guid>
-
-					<description><![CDATA[<p>A Delaware judge has approved a settlement that will see Tesla directors – including Chair Robyn Denholm, Oracle founder Larry Ellison, Kimbal Musk, and James Murdoch – return up to $919 million to the automaker, officially resolving allegations that they overpaid themselves, per Reuters.  The settlement concludes a 2020 lawsuit by the Police and Fire [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rounded is an AI orchestration platform that lets anyone build an AI voice agent</title>
-		<link>https://techcrunch.com/2025/01/09/rounded-is-an-ai-orchestration-platform-that-lets-anyone-build-an-ai-voice-agent/</link>
-		
-		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2025 13:27:44 +0000</pubDate>
+		<pubDate>Fri, 10 Jan 2025 00:49:39 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI voice agent]]></category>
-		<category><![CDATA[donna]]></category>
-		<category><![CDATA[Rounded]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2942952</guid>
-
-					<description><![CDATA[<p>French startup Rounded believes AI voice agents are going to become the default way customers interact with companies, so instead of building AI voice agents that are ready to use, the company is building an orchestration platform that lets companies build their own voice agent. Rounded started off working on a web3 product before shifting [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Biosphere zaps germs with UV light to make biomanufacturing cheaper</title>
-		<link>https://techcrunch.com/2025/01/09/biosphere-zaps-germs-with-uv-light-to-make-biomanufacturing-cheaper/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
 		<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[biosphere]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[biotechnology]]></category>
-		<category><![CDATA[electrification]]></category>
-		<category><![CDATA[Lowercarbon Capital]]></category>
-		<category><![CDATA[biomanufacturing]]></category>
-		<category><![CDATA[VXI Capital]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2942595</guid>
-
-					<description><![CDATA[<p>Using LEDs has the potential to bring down the cost of biomanufacturing, allowing such processes to make materials that previously would have been too expensive. </p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers are exploiting a new Ivanti VPN security bug to hack into company networks</title>
-		<link>https://techcrunch.com/2025/01/09/hackers-are-exploiting-a-new-ivanti-vpn-security-bug-to-hack-into-company-networks/</link>
-		
-		<dc:creator><![CDATA[Carly Page]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2025 12:53:36 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[hack]]></category>
-		<category><![CDATA[ivanti]]></category>
-		<category><![CDATA[security]]></category>
-		<category><![CDATA[vpn]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2942957</guid>
-
-					<description><![CDATA[<p>Mandiant says a Chinese cyberespionage group has been exploiting the critical-rated vulnerability since at least mid-December.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Xocean raises $119M to capture ocean data with uncrewed surface vessels</title>
-		<link>https://techcrunch.com/2025/01/09/xocean-raises-119m-to-capture-ocean-data-with-uncrewed-surface-vessels/</link>
-		
-		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2025 11:44:29 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Robotics]]></category>
 		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Xocean]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2942914</guid>
-
-					<description><![CDATA[<p>Xocean, an Irish marine robotics startup that provides ocean data to the energy and hydrography industries using uncrewed surface vessels (USVs), has raised €115 million ($119 million) as it looks to expand coverage to additional sectors. Founded in 2017, Xocean has built a fleet of remotely-controlled USVs that can remain offshore for long periods of [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>VLC tops 6 billion downloads, previews AI-generated subtitles</title>
-		<link>https://techcrunch.com/2025/01/09/vlc-tops-6-billion-downloads-previews-ai-generated-subtitles/</link>
-		
-		<dc:creator><![CDATA[Manish Singh]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2025 10:56:18 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[ces 2025]]></category>
-		<category><![CDATA[Videolan]]></category>
-		<category><![CDATA[VLC]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2942931</guid>
-
-					<description><![CDATA[<p>VLC media player, the popular open-source software developed by nonprofit VideoLAN, has topped 6 billion downloads worldwide and teased an AI-powered subtitle system. The new feature automatically generates real-time subtitles &#8212; which can then also be translated in many languages &#8212; for any video using open-source AI models that run locally on users&#8217; devices, eliminating [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple might be working on a new ‘Invites’ app</title>
-		<link>https://techcrunch.com/2025/01/09/apple-might-be-working-on-a-new-invites-app/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2025 10:34:32 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[iOS]]></category>
-		<category><![CDATA[ios 18]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2942916</guid>
-
-					<description><![CDATA[<p>The year has just begun, and Apple might already be in &#8220;Sherlocking&#8221; mode to create a new app for iOS called Invites. Details are still thin on what this app might look like, but it could potentially be a competitor to Evite or Partiful. According to findings in iOS 18.3 beta 2 code by 9to5Mac, Apple [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Grand Games, the Turkish startup behind Magic Sort, drinks up $30M</title>
-		<link>https://techcrunch.com/2025/01/09/grand-games-the-turkish-gaming-startup-behind-pouring-game-magic-sort-drinks-up-30m/</link>
-		
-		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2025 10:19:48 +0000</pubDate>
-				<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Gaming]]></category>
-		<category><![CDATA[casual gaming]]></category>
-		<category><![CDATA[grand games]]></category>
-		<category><![CDATA[Istanbul]]></category>
-		<category><![CDATA[mobile games]]></category>
-		<category><![CDATA[puzzle games]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2942924</guid>
-
-					<description><![CDATA[<p>Gaming startups, specifically those building casual mobile games, are very hot in Turkey right now, and today another one is announcing a sizable round.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Defiant is a new European VC firm that uses data and products to make better investments</title>
-		<link>https://techcrunch.com/2025/01/09/defiant-is-a-new-european-vc-firm-that-uses-data-and-products-to-make-better-investments/</link>
-		
-		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2025 10:00:00 +0000</pubDate>
-				<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Defiant]]></category>
-		<category><![CDATA[early stage]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2942197</guid>
-
-					<description><![CDATA[<p>Defiant is a new early stage VC firm focused on B2B SaaS and fintech coming out of stealth Thursday. Joseph Pizzolato (pictured right) and Cam Rail (pictured left), the duo at the helm of the firm who met when they were 6 years old, have already secured $30 million and plan to raise as much [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>xAI is testing a standalone iOS app for its Grok chatbot</title>
-		<link>https://techcrunch.com/2025/01/08/xai-is-testing-a-standalone-ios-app-for-its-grok-chatbot/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2025 07:25:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI chatbot]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[Grok]]></category>
-		<category><![CDATA[Twitter]]></category>
-		<category><![CDATA[xAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2935994</guid>
-
-					<description><![CDATA[<p>Elon Musk's AI company, xAI, is testing out a standalone iOS app for its chatbot, Grok, which was available only to X users until now.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Flipkart hires Dunzo&#8217;s co-founder to lead quick commerce push</title>
-		<link>https://techcrunch.com/2025/01/08/flipkart-taps-dunzo-founder-to-lead-quick-commerce-push/</link>
-		
-		<dc:creator><![CDATA[Manish Singh]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2025 06:17:05 +0000</pubDate>
-				<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[Dunzo]]></category>
-		<category><![CDATA[Flipkart]]></category>
-		<category><![CDATA[India]]></category>
-		<category><![CDATA[Quick commerce]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2942878</guid>
-
-					<description><![CDATA[<p>Flipkart has hired Kabeer Biswas, the co-founder of Indian delivery startup Dunzo, as the Walmart-owned e-commerce group expands its quick-commerce business in the country. Biswas will lead Flipkart&#8217;s quick commerce effort, called Flipkart Minutes, a source familiar with the matter told TechCrunch. The move comes nearly a year after Flipkart was considering a potential acquisition [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Elon Musk agrees that we&#8217;ve exhausted AI training data</title>
-		<link>https://techcrunch.com/2025/01/08/elon-musk-agrees-that-weve-exhausted-ai-training-data/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2025 04:01:48 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[synthetic data]]></category>
-		<category><![CDATA[training data]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2942841</guid>
-
-					<description><![CDATA[<p>Elon Musk concurs with other AI experts that there&#8217;s little real-world data left to train AI models on. &#8220;We&#8217;ve now exhausted basically the cumulative sum of human knowledge &#8230;. in AI training,&#8221; Musk said during a livestreamed conversation with Stagwell chairman Mark Penn streamed on X late Wednesday. &#8220;That happened basically last year.&#8221; Musk, who [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>We talked to the guy who was stuck in a Waymo robotaxi on a dizzying loop</title>
-		<link>https://techcrunch.com/2025/01/08/we-talked-to-the-guy-who-was-stuck-in-a-waymo-robotaxi-on-an-dizzying-loop/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2025 00:59:26 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[autonomous vehicles]]></category>
-		<category><![CDATA[robotaxi]]></category>
-		<category><![CDATA[Waymo]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2942694</guid>
-
-					<description><![CDATA[<p>A month ago, a video circulated around social media of a Waymo robotaxi stuck in a roundabout loop – an isolated incident with no passengers in the vehicle, according to Waymo. Apparently, it wasn&#8217;t a one-time thing. Around the same time, in another Waymo robotaxi headed for the Phoenix airport, Mike Johns, founder and CEO [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The US has a new cybersecurity safety label for smart devices</title>
-		<link>https://techcrunch.com/2025/01/08/the-u-s-has-a-new-cybersecurity-safety-label-for-smart-devices/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2025 00:58:45 +0000</pubDate>
-				<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[connected devices]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[government]]></category>
+		<category><![CDATA[a16z]]></category>
+		<category><![CDATA[General Catalyst]]></category>
+		<category><![CDATA[Hippocratic AI]]></category>
 		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[IoT]]></category>
-		<category><![CDATA[security]]></category>
-		<category><![CDATA[smart devices]]></category>
-		<category><![CDATA[U.S. government]]></category>
-		<category><![CDATA[White House]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2942796</guid>
+		<category><![CDATA[Kleiner Perkins]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<category><![CDATA[patients]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2943567</guid>
 
-					<description><![CDATA[<p>The White House this week announced a new label for internet-connected devices, the U.S. Cyber Trust Mark, intended to help consumers make more-informed decisions about the cybersecurity of products they bring into their homes. To earn the U.S. Cyber Trust Mark, which is being administered by the Federal Communications Commission, companies have to test their [&#8230;]</p>
+					<description><![CDATA[<p>Hippocratic AI, a startup building AI solutions that can handle non-diagnostic patient-facing tasks, secured a massive $141 million Series B at a valuation of $1.64 billion led by Kleiner Perkins, the company announced Thursday. The funding comes nine months after Hippocratic AI raised a $53 million round from General Catalyst and Andreessen Horowitz and five [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -363,20 +174,86 @@
 		
 			</item>
 		<item>
-		<title>The LiberLive C1 stringless instrument isn’t a guitar, and that’s fine</title>
-		<link>https://techcrunch.com/2025/01/08/the-liberlive-c1-stringless-instrument-isnt-a-guitar-and-thats-fine/</link>
+		<title>Nvidia’s AI avatar sat on my computer screen and weirded me out</title>
+		<link>https://techcrunch.com/2025/01/09/nvidias-ai-avatar-sat-on-my-computer-screen-and-weirded-me-out/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Fri, 10 Jan 2025 00:31:08 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI avatar]]></category>
+		<category><![CDATA[CES]]></category>
+		<category><![CDATA[ces 2025]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2943432</guid>
+
+					<description><![CDATA[<p>Nvidia unveiled a prototype AI avatar at CES 2025 that lives on your PC&#8217;s desktop. The AI assistant, R2X, looks like a video game character, and it can help you navigate apps on your computer. The R2X avatar is rendered and animated using Nvidia&#8217;s AI models, and users can run the avatar on popular LLMs [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ICON, a builder of 3D-printed homes last valued around $2 billion, cuts about 25% of staff</title>
+		<link>https://techcrunch.com/2025/01/09/icon-a-builder-of-3d-printed-homes-last-valued-around-2-billion-cuts-about-25-of-staff/</link>
+		
+		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
+		<pubDate>Fri, 10 Jan 2025 00:07:02 +0000</pubDate>
+				<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[3d printing]]></category>
+		<category><![CDATA[austin]]></category>
+		<category><![CDATA[icon]]></category>
+		<category><![CDATA[Layoffs]]></category>
+		<category><![CDATA[Tiger]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2943551</guid>
+
+					<description><![CDATA[<p>ICON Technologies Inc., which builds homes using 3D printing, is laying off 114 people, according to a WARN letter filed with the Texas Workforce Commission. A spokesperson for the company confirmed the news to TechCrunch, providing a statement that ICON had “recently made a difficult decision to re-align” its team and team size “to focus [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Defense startup Epirus in talks to raise over $150M, potentially cutting valuation </title>
+		<link>https://techcrunch.com/2025/01/09/defense-startup-epirus-in-talks-to-raise-over-150m-potentially-cutting-valuation/</link>
+		
+		<dc:creator><![CDATA[Margaux MacColl]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2025 23:41:35 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[8VC]]></category>
+		<category><![CDATA[anduril]]></category>
+		<category><![CDATA[defense tech]]></category>
+		<category><![CDATA[Epirus]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Joe Lonsdale]]></category>
+		<category><![CDATA[shield ai]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2943493</guid>
+
+					<description><![CDATA[<p>The round could give the company a valuation of about $1 billion, a decrease from the company’s previous $1.35 billion valuation. </p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apptronik’s Apollo humanoid robot gets to work at CES 2025</title>
+		<link>https://techcrunch.com/2025/01/09/apptroniks-apollo-humanoid-robot-gets-to-work-at-ces-2025/</link>
 		
 		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2025 00:54:27 +0000</pubDate>
-				<category><![CDATA[Gadgets]]></category>
-		<category><![CDATA[Hardware]]></category>
+		<pubDate>Thu, 09 Jan 2025 23:39:11 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[apollo]]></category>
+		<category><![CDATA[apptronik]]></category>
 		<category><![CDATA[CES]]></category>
-		<category><![CDATA[Guitar Hero]]></category>
-		<category><![CDATA[liberlive]]></category>
-		<category><![CDATA[liberlive c1]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2942777</guid>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2943531</guid>
 
-					<description><![CDATA[<p>I’m old enough to remember musicians getting angry over Guitar Hero. But they always seemed to be missing the point. Nobody was seriously suggesting that a video game controller would replace an instrument that’s been going strong since the 15th century. Guitar Hero was a fun game, and if it persuaded a new generation to [&#8230;]</p>
+					<description><![CDATA[<p>CES 2025 has been a mixed bag for humanoid robots. The form factor had a watershed moment, as images of the top players flanked Nvidia CEO Jensen Huang during his Monday keynote. Of these, Agility’s Digit also showed up alongside a miniature conveyer belt at a closed-access Nvidia booth. It was a nice return for [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -384,19 +261,44 @@
 		
 			</item>
 		<item>
-		<title>CES 2025 was full of IRL AI slop</title>
-		<link>https://techcrunch.com/2025/01/08/ces-2025-was-full-of-irl-ai-slop/</link>
+		<title>TikTok tells LA staff impacted by wildfires to use personal/sick hours if they can&#8217;t work from home</title>
+		<link>https://techcrunch.com/2025/01/09/tiktok-tells-la-staff-impacted-by-wildfires-to-use-personal-sick-hours-if-they-cant-work-from-home/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2025 22:37:58 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[la]]></category>
+		<category><![CDATA[la fires]]></category>
+		<category><![CDATA[la wildfires]]></category>
+		<category><![CDATA[rto]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[TikTok]]></category>
+		<category><![CDATA[wfm]]></category>
+		<category><![CDATA[wildfires]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2943291</guid>
+
+					<description><![CDATA[<p>Wildfires are currently devastating the greater Los Angeles area, burning over 45 square miles, torching over 1,300 structures, and putting nearly 180,000 people under evacuation orders as of Thursday. And yet, TikTok&#8217;s LA-based employees are being told to either continue their work from home or use their personal/sick days if that&#8217;s not possible, while the [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ChatGPT&#8217;s newest feature lets users assign it traits like &#8216;chatty&#8217; and &#8216;Gen Z&#8217;</title>
+		<link>https://techcrunch.com/2025/01/09/chatgpts-newest-feature-lets-user-assign-it-traits-like-chatty-and-gen-z/</link>
 		
 		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2025 00:04:16 +0000</pubDate>
+		<pubDate>Thu, 09 Jan 2025 21:52:52 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[ai slop]]></category>
-		<category><![CDATA[CES]]></category>
-		<category><![CDATA[irl slop]]></category>
-		<category><![CDATA[Roundup]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2942115</guid>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Open AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2943427</guid>
 
-					<description><![CDATA[<p>It&#8217;s 2025, and companies still don&#8217;t know what AI is good for. That&#8217;s the impression I got from this year&#8217;s CES, which featured AI-powered kitchen appliances, baby cribs, and other products that really weren&#8217;t calling for AI. See: Spicerr, an &#8220;intelligent&#8221; touchscreen-equipped spice dispenser that learns your taste as you cook to recommend unique recipes. [&#8230;]</p>
+					<description><![CDATA[<p>Update: Some users report that the new options have disappeared. It&#8217;s possible they went live prematurely. OpenAI is introducing a new way for users to customize their interactions with ChatGPT, the company&#8217;s AI-powered chatbot. Some users on X on Thursday reported that ChatGPT&#8217;s existing custom instructions menu on the web has been revamped with new [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -404,17 +306,17 @@
 		
 			</item>
 		<item>
-		<title>CES 2025: The weirdest tech products and claims from this year’s event</title>
-		<link>https://techcrunch.com/2025/01/08/ces-2025-the-weirdest-tech-products-and-claims-from-this-years-event/</link>
+		<title>Autonomous vehicles are having a moment and other vibes from CES 2025</title>
+		<link>https://techcrunch.com/2025/01/09/autonomous-vehicles-are-having-a-moment-and-other-vibes-from-ces-2025/</link>
 		
-		<dc:creator><![CDATA[Cody Corrall]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 23:36:25 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Hardware]]></category>
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2025 21:15:00 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
 		<category><![CDATA[CES]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2942661</guid>
+		<category><![CDATA[techcrunch mobility]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2943366</guid>
 
-					<description><![CDATA[<p>CES 2025 is in full swing. While the conference features reveals from tech powerhouses like Nvidia, Samsung, and Toyota, there are also some very strange product concepts and announcements circulating on the show floor. We’ve compiled the weirdest, silliest, and most eyebrow-raising products from CES 2025. A robotic cat that cools down your coffee for [&#8230;]</p>
+					<description><![CDATA[<p>Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation. Sign up here for free — just click TechCrunch Mobility! Hey hey, it’s a new year! I’ve missed you these past two weeks. But I’m back, and in Las Vegas for CES 2025. As always, announcements from [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -422,20 +324,125 @@
 		
 			</item>
 		<item>
-		<title>Pickpad addresses the chaos of restaurant takeout</title>
-		<link>https://techcrunch.com/2025/01/08/pickpad-addresses-the-chaos-of-restaurant-takeout/</link>
+		<title>CES 2025: Where have all the US automakers gone? </title>
+		<link>https://techcrunch.com/2025/01/09/ces-2025-where-have-all-the-us-automakers-gone/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2025 20:29:56 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[automakers]]></category>
+		<category><![CDATA[CES]]></category>
+		<category><![CDATA[Ford]]></category>
+		<category><![CDATA[General Motors]]></category>
+		<category><![CDATA[Scout Motors]]></category>
+		<category><![CDATA[volkswagen]]></category>
+		<category><![CDATA[Waymo]]></category>
+		<category><![CDATA[zoox]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2943372</guid>
+
+					<description><![CDATA[<p>The old chestnut passed around by industry watchers for the past decade was that CES — one of the world’s largest consumer tech trade events — had turned into an auto show. Maybe even the most important auto show of the year. And there was ample evidence of that. GM Chairman and CEO Mary Barra [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google folds more AI teams into DeepMind to &#8216;accelerate the research to developer pipeline&#8217;</title>
+		<link>https://techcrunch.com/2025/01/09/google-folds-more-ai-teams-into-deepmind-to-accelerate-the-research-to-developer-pipeline/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2025 20:16:03 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Dev]]></category>
+		<category><![CDATA[developers]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[google deepmind]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2943201</guid>
+
+					<description><![CDATA[<p>As it looks to accelerate the pace of its AI development, Google is further streamlining the teams building its AI services, platforms, and tools. On Thursday, Logan Kilpatrick, who leads product for Google&#8217;s AI Studio developer platform, said in a post on X that Google&#8217;s AI Studio team and the team developing the API for [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Scale AI hit by its second employee wage lawsuit in less than a month</title>
+		<link>https://techcrunch.com/2025/01/09/scale-ai-hit-by-its-second-employee-wage-lawsuit-in-less-than-a-month/</link>
+		
+		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2025 19:46:05 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[lawsuits]]></category>
+		<category><![CDATA[Scale AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2943230</guid>
+
+					<description><![CDATA[<p>Scale AI just got hit by another lawsuit alleging widespread wage violations and misclassification of its workers.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Y Combinator scored a surprise win when Larry Page came to speak</title>
+		<link>https://techcrunch.com/2025/01/09/y-combinator-scored-a-surprise-win-when-larry-page-came-to-speak/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2025 18:53:19 +0000</pubDate>
+				<category><![CDATA[Venture]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Larry Page]]></category>
+		<category><![CDATA[Y Combinator]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2943145</guid>
+
+					<description><![CDATA[<p>Y Combinator is maybe only two-degrees of separation from anyone in tech. Even Larry Page.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>These are CES 2025’s least repairable and sustainable gadgets, according to iFixit</title>
+		<link>https://techcrunch.com/2025/01/09/these-are-ces-2025s-least-repairable-and-sustainable-gadgets-according-to-ifixit/</link>
 		
 		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 22:25:44 +0000</pubDate>
+		<pubDate>Thu, 09 Jan 2025 18:47:43 +0000</pubDate>
 				<category><![CDATA[Gadgets]]></category>
 		<category><![CDATA[Hardware]]></category>
 		<category><![CDATA[CES]]></category>
-		<category><![CDATA[pickpad]]></category>
-		<category><![CDATA[point of service]]></category>
-		<category><![CDATA[restaurant]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2942596</guid>
+		<category><![CDATA[ifixit]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[worst in show]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2943271</guid>
 
-					<description><![CDATA[<p>There was a time when baristas just had to write a customer’s name on a cup and call it out. They wouldn’t always get the name right, but more often than not, it went to the right person. The prospect of picking up takeout has, however, become considerably more dicey in this post-pandemic era dominated [&#8230;]</p>
+					<description><![CDATA[<p>The Razzies, the Darwins — not all awards are good. Sure, CES is a time to celebrate the year’s weirdest and most wonderful consumer electronics, but thankfully we’ve got iFixit around to throw a little cold water on the fair. As we enter the penultimate day of the event, the repair stalwart presents its “Worst [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>DoorBox debuts its new and improved smart delivery box at CES 2025</title>
+		<link>https://techcrunch.com/2025/01/09/doorbox-debuts-its-new-and-improved-smart-delivery-box-at-ces-2025/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2025 18:26:22 +0000</pubDate>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[CES]]></category>
+		<category><![CDATA[hardware]]></category>
+		<category><![CDATA[security]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2943212</guid>
+
+					<description><![CDATA[<p>Millions of packages are stolen each year. DoorBox aims to change how packages are delivered with its smart package box that features a theft-proof design with live camera feeds and an alarm that activates automatically if the box is tampered with.  After selling 2,000 units of its initial version, which offered manual functionality, the startup [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
