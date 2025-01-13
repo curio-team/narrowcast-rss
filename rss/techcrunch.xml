@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 13 Jan 2025 14:22:59 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 13 Jan 2025 15:31:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,50 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Moody&#8217;s agrees to acquire Cape Analytics, which develops geospatial AI for insurance providers</title>
+		<link>https://techcrunch.com/2025/01/13/moodys-agrees-to-acquire-cape-analytics-which-develops-geospatial-ai-for-insurance-providers/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2025 15:25:20 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[acquisition]]></category>
+		<category><![CDATA[cape analytics]]></category>
+		<category><![CDATA[geospatial]]></category>
+		<category><![CDATA[insurance]]></category>
+		<category><![CDATA[Moody’s]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2945547</guid>
+
+					<description><![CDATA[<p>Financial services firm Moody&#8217;s announced on Monday that it has agreed to acquire Cape Analytics, a geospatial AI startup, for an undisclosed sum. The deal, which is expected to close in Q1, subject to customary closing conditions, will give Moody&#8217;s access to Cape&#8217;s geospatial AI analytics technology for insurance underwriting. With the tech, Moody&#8217;s plans [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>eBay acquires Caramel to reduce risk and complexity of online car sales</title>
+		<link>https://techcrunch.com/2025/01/13/ebay-acquires-caramel-to-reduce-risk-and-complexity-of-online-car-sales/</link>
+		
+		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2025 15:23:25 +0000</pubDate>
+				<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Caramel]]></category>
+		<category><![CDATA[eBay]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2945549</guid>
+
+					<description><![CDATA[<p>E-commerce giant eBay has announced plans to acquire Caramel, a startup that helps car sellers and buyers complete the final steps of the transaction &#8212; including verification, financing, paperwork, ownership transfer, insurance, and more. Founded out of Los Angeles in 2021, Caramel formally launched last year with some $19 million in funding behind it, from [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Sonos CEO Patrick Spence is leaving following bungled app update</title>
 		<link>https://techcrunch.com/2025/01/13/sonos-ceo-patrick-spence-is-leaving-following-app-update-disaster/</link>
 		
@@ -74,7 +118,7 @@
 		
 			</item>
 		<item>
-		<title>A breach of a data broker&#8217;s trove of location data threatens the privacy of millions</title>
+		<title>A breach of Gravy Analytics&#8217; huge trove of location data threatens the privacy of millions</title>
 		<link>https://techcrunch.com/2025/01/13/gravy-analytics-data-broker-breach-trove-of-location-data-threatens-privacy-millions/</link>
 		
 		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
@@ -395,44 +439,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2945373</guid>
 
 					<description><![CDATA[<p>Apple’s board of directors has come out in opposition to a proposal seeking to end the company’s Diversity, Equity, and Inclusion (DEI) programs.&#160; In a proxy filing, the company said the National Center for Public Policy Research (a conservative think tank) is submitting a proposal for Apple to “consider abolishing its Inclusion &#38; Diversity program, [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Researchers open source Sky-T1, a &#8216;reasoning&#8217; AI model that can be trained for less than $450</title>
-		<link>https://techcrunch.com/2025/01/11/researchers-open-source-sky-t1-a-reasoning-ai-model-that-can-be-trained-for-less-than-450/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Sat, 11 Jan 2025 21:30:51 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[open source]]></category>
-		<category><![CDATA[reasoning]]></category>
-		<category><![CDATA[research]]></category>
-		<category><![CDATA[sky-t1]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2945335</guid>
-
-					<description><![CDATA[<p>So-called reasoning AI models are becoming easier — and cheaper — to develop. On Friday, NovaSky, a team of researchers based out of UC Berkeley&#8217;s Sky Computing Lab, released Sky-T1-32B-Preview, a reasoning model that&#8217;s competitive with an earlier version of OpenAI&#8217;s o1 on a number of key benchmarks. Sky-T1 appears to be the first truly [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>What&#8217;s behind ballooning video game budgets?</title>
-		<link>https://techcrunch.com/2025/01/11/whats-behind-ballooning-video-game-budgets/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sat, 11 Jan 2025 19:04:06 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Gaming]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2945316</guid>
-
-					<description><![CDATA[<p>Why does it cost some companies hundreds of millions of dollars to develop a popular video game? A couple weeks ago, The New York Times blamed the never-ending quest to deliver more photo-realistic graphics— and it suggested the industry is beginning to see diminishing returns, leading to layoffs and studio closures. However, Bloomberg’s Jason Schreier [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
