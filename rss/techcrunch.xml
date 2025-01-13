@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 13 Jan 2025 11:26:34 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 13 Jan 2025 12:35:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,74 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>A breach of a data broker&#8217;s trove of location data threatens the privacy of millions</title>
+		<link>https://techcrunch.com/2025/01/13/gravy-analytics-data-broker-breach-trove-of-location-data-threatens-privacy-millions/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2025 12:35:20 +0000</pubDate>
+				<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data broker]]></category>
+		<category><![CDATA[data privacy]]></category>
+		<category><![CDATA[mobile location data]]></category>
+		<category><![CDATA[us government]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2945509</guid>
+
+					<description><![CDATA[<p>The company confirmed the breach after a hacker posted millions of location data records online.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>UK domain giant Nominet confirms cybersecurity incident linked to Ivanti VPN hacks</title>
+		<link>https://techcrunch.com/2025/01/13/uk-domain-giant-nominet-confirms-cybersecurity-incident-linked-to-ivanti-vpn-hacks/</link>
+		
+		<dc:creator><![CDATA[Carly Page]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2025 12:18:53 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[ivanti]]></category>
+		<category><![CDATA[nominet]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[zero day]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2945507</guid>
+
+					<description><![CDATA[<p>Nominet, the U.K. domain registry that maintains .co.uk domains, has experienced a cybersecurity incident that it confirmed is linked to the recent exploitation of a new Ivanti VPN vulnerability. In an email to customers, seen by TechCrunch, Nominet warned of an “ongoing security incident&#8221; under investigation. Nominet said hackers accessed its systems via “third-party VPN [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>More money comes to AI healthcare: Qventus nabs $105M at $400M+ valuation</title>
+		<link>https://techcrunch.com/2025/01/13/more-money-comes-to-ai-healthcare-qventus-nabs-105m-at-a-400m-valuation/</link>
+		
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2025 12:06:32 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[ai scribe]]></category>
+		<category><![CDATA[clinical research]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[qventus]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2945505</guid>
+
+					<description><![CDATA[<p>Healthcare is proving to be one of the more lucrative industries for building AI solutions to speed up clinical, research and administrative operations. Now, we have one of the latest examples of how that is playing out in terms of venture funding. Qventus, a startup that builds AI-based tools to automate work across a range [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>CoreWeave, a $19B AI compute provider, opens its first international data centers in the UK</title>
 		<link>https://techcrunch.com/2025/01/13/coreweaves-first-international-data-centers-are-now-live-in-the-uk/</link>
 		
@@ -38,9 +106,10 @@
 		<pubDate>Mon, 13 Jan 2025 11:02:45 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[corweave]]></category>
+		<category><![CDATA[data centers]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2945459</guid>
 
-					<description><![CDATA[<p>Coreweave, the $19 billion cloud computing company that provides companies with AI compute resources, has formally opened its first two data centers in the U.K. &#8212; its first outside its domestic U.S. market. CoreWeave opened its European headquarters in London last May, shortly after hitting a $19 billion valuation off the back of a $1.1. [&#8230;]</p>
+					<description><![CDATA[<p>Coreweave, the cloud computing company that provides companies with AI compute resources, has formally opened its first two data centers in the U.K. — its first outside its domestic U.S. market. CoreWeave opened its European headquarters in London last May, shortly after earning a $19 billion valuation off the back of a $1.1. billion fundraise. [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -316,8 +385,8 @@
 		
 		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
 		<pubDate>Sat, 11 Jan 2025 19:04:06 +0000</pubDate>
-				<category><![CDATA[Gaming]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
+				<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Gaming]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2945316</guid>
 
 					<description><![CDATA[<p>Why does it cost some companies hundreds of millions of dollars to develop a popular video game? A couple weeks ago, The New York Times blamed the never-ending quest to deliver more photo-realistic graphics— and it suggested the industry is beginning to see diminishing returns, leading to layoffs and studio closures. However, Bloomberg’s Jason Schreier [&#8230;]</p>
@@ -362,65 +431,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2945299</guid>
 
 					<description><![CDATA[<p>I did not go to CES 2025 with the goal of getting drenched by Lake Mead’s chilly January waters. But when I discovered Los Angeles-based boat startup Arc had brought its new sport boat to Las Vegas, I figured it was worth the risk. It was. The Arc Sport was a joy to drive, even [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Matt Mullenweg deactivates WordPress contributor accounts over alleged fork plans</title>
-		<link>https://techcrunch.com/2025/01/11/matt-mullenweg-deactivates-wordpress-accounts-of-contributors-planning-a-fork/</link>
-		
-		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
-		<pubDate>Sat, 11 Jan 2025 17:21:07 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Automattic]]></category>
-		<category><![CDATA[matt mullenweg]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2945286</guid>
-
-					<description><![CDATA[<p>Automattic CEO and WordPress co-creator&#160;Matt Mullenweg has deactivated the accounts of several WordPress.org community members, two of whom he says planned to spearhead a new fork of the open source WordPress project. While community criticism of WordPress&#8217;s governance isn&#8217;t new, the latest brouhaha kicked off back in September when Mullenweg publicly chastised WP Engine, a [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nvidia&#8217;s AI empire: A look at its top startup investments</title>
-		<link>https://techcrunch.com/2025/01/11/nvidias-ai-empire-a-look-at-its-top-startup-investments/</link>
-		
-		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Sat, 11 Jan 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[corporate venture arms]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2942343</guid>
-
-					<description><![CDATA[<p>Over the last two years, Nvidia has used its ballooning fortunes to invest in over 80 AI startups. Here are the giant semiconductor's largest investments.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Snappy acquires swag-gifting startup Covver as it seeks to roll-up players</title>
-		<link>https://techcrunch.com/2025/01/10/snappy-aquires-swag-gifting-startup-covver-as-it-seks-to-roll-up-players/</link>
-		
-		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
-		<pubDate>Sat, 11 Jan 2025 07:30:00 +0000</pubDate>
-				<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[gifting]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2943805</guid>
-
-					<description><![CDATA[<p>It’s now broadly accepted that customers and employees who receive corporate gifts end up appreciating the brand much more, and for not a lot of outlay. The market for this has thus exploded. One market player, the New York-based Snappy, which has raised over $125 million to date, is now acquiring Covver, a corporate merchandise [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
