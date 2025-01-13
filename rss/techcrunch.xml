@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 13 Jan 2025 09:48:24 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 13 Jan 2025 11:26:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,63 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>CoreWeave, a $19B AI compute provider, opens its first international data centers in the UK</title>
+		<link>https://techcrunch.com/2025/01/13/coreweaves-first-international-data-centers-are-now-live-in-the-uk/</link>
+		
+		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2025 11:02:45 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[corweave]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2945459</guid>
+
+					<description><![CDATA[<p>Coreweave, the $19 billion cloud computing company that provides companies with AI compute resources, has formally opened its first two data centers in the U.K. &#8212; its first outside its domestic U.S. market. CoreWeave opened its European headquarters in London last May, shortly after hitting a $19 billion valuation off the back of a $1.1. [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mastodon announces transition to non-profit structure</title>
+		<link>https://techcrunch.com/2025/01/13/mastodon-announces-transition-to-non-profit-structure/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2025 11:00:15 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[Eugen Rochko]]></category>
+		<category><![CDATA[Mastodon]]></category>
+		<category><![CDATA[social networks]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2945469</guid>
+
+					<description><![CDATA[<p>Decentralized social network organization Mastodon said Monday that it is planning to create a new non-profit organization in Europe and hand over ownership of entities responsible for key Mastodon ecosystem and platform components. This means one person won&#8217;t have control over the entire project. The organization is trying to differentiate itself from social networks controlled [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>UK throws its hat into the AI fire</title>
+		<link>https://techcrunch.com/2025/01/13/uk-throws-its-hat-into-the-ai-fire/</link>
+		
+		<dc:creator><![CDATA[Ingrid Lunden, Mike Butcher]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2025 10:45:01 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[AI policy]]></category>
+		<category><![CDATA[ai safety]]></category>
+		<category><![CDATA[matt clifford]]></category>
+		<category><![CDATA[starmer]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2945466</guid>
+
+					<description><![CDATA[<p>In 2023, the U.K. made a big song and dance about the need to consider the harms of AI, giving itself a leading role in the wider conversation around AI safety. Now, it’s whistling a very different tune: today, the government announced a sweeping plan and a big bet on AI investments to develop what [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Groww, India&#8217;s biggest trading app, prepares for IPO</title>
 		<link>https://techcrunch.com/2025/01/12/groww-indias-biggest-trading-app-prepares-for-ipo/</link>
 		
@@ -364,75 +421,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2943805</guid>
 
 					<description><![CDATA[<p>It’s now broadly accepted that customers and employees who receive corporate gifts end up appreciating the brand much more, and for not a lot of outlay. The market for this has thus exploded. One market player, the New York-based Snappy, which has raised over $125 million to date, is now acquiring Covver, a corporate merchandise [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft accuses group of developing tool to abuse its AI service in new lawsuit</title>
-		<link>https://techcrunch.com/2025/01/10/microsoft-accuses-group-of-developing-tool-to-abuse-its-ai-service-in-new-lawsuit/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Fri, 10 Jan 2025 23:38:41 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[Azure OpenAI Service]]></category>
-		<category><![CDATA[dall-e]]></category>
-		<category><![CDATA[lawsuit]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[security]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2944842</guid>
-
-					<description><![CDATA[<p>Microsoft has taken legal action against a group the company claims intentionally developed and used tools to bypass the safety guardrails of its cloud AI products. According to a complaint filed by the company in December in the U.S. District Court for the Eastern District of Virginia, a group of 10 unnamed defendants allegedly used [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mark Zuckerberg defends Meta&#8217;s latest pivot in three-hour Joe Rogan interview</title>
-		<link>https://techcrunch.com/2025/01/10/mark-zuckerberg-defends-metas-latest-pivot-in-three-hour-joe-rogan-interview/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Fri, 10 Jan 2025 23:22:27 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[content moderation]]></category>
-		<category><![CDATA[Instagram]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[Threads]]></category>
-		<category><![CDATA[Zuckerberg]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2945035</guid>
-
-					<description><![CDATA[<p>Meta CEO Mark Zuckerberg defended his decision to scale back Meta&#8217;s content moderation policies in a Friday appearance on Joe Rogan&#8217;s podcast. Zuckerberg faced widespread criticism for the decision, including from employees inside his own company. &#8220;Probably depends on who you ask,&#8221; said Zuckerberg when asked how Meta&#8217;s updates have been received. The key updates [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>These startups are making smarter canes for people with visual impairments</title>
-		<link>https://techcrunch.com/2025/01/10/these-startups-are-making-smarter-canes-for-people-with-visual-impairments/</link>
-		
-		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
-		<pubDate>Fri, 10 Jan 2025 22:58:55 +0000</pubDate>
-				<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[accessibility]]></category>
-		<category><![CDATA[blind]]></category>
-		<category><![CDATA[CES]]></category>
-		<category><![CDATA[glidance]]></category>
-		<category><![CDATA[Glide]]></category>
-		<category><![CDATA[visually impaired]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2945210</guid>
-
-					<description><![CDATA[<p>The white cane for the 21st century. While many tech companies have increasingly worked to make technology more accessible for the blind and visually impaired, canes haven’t benefited much from these advances. London-born WeWalk takes a more traditional approach to the white cane. Beyond the bulkier handle, not much sets the company’s product apart visually [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
