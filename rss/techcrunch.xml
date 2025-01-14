@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 14 Jan 2025 09:12:59 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Jan 2025 10:33:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Bioptimus raises $41M to develop a &#8216;GPT for biology&#8217;</title>
+		<link>https://techcrunch.com/2025/01/14/bioptimus-raises-41m-to-develop-a-gpt-for-biology/</link>
+		
+		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2025 10:26:43 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[Bioptimus]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2946387</guid>
+
+					<description><![CDATA[<p>A fledgling French AI startup has raised $41 million to develop a foundational AI model for biology. Just as OpenAI&#8217;s ChatGPT has taken the world by storm for a super-smart generative AI tool capable of natural language conversation in text form, Bioptimus is taking that concept but training its model specifically for downstream biological applications [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>LemFi moves remittances further into Asia and Europe with $53M in new funding</title>
 		<link>https://techcrunch.com/2025/01/13/lemfi-moves-remittances-further-into-asia-and-europe-with-53m-in-new-funding/</link>
 		
@@ -434,30 +452,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2945574</guid>
 
 					<description><![CDATA[<p>Jeff Bezos&#8217; space company Blue Origin postponed the inaugural launch of its first orbital rocket, New Glenn, early Monday morning after experiencing an unspecified issue with one of the vehicle&#8217;s subsystems. While delays like this happen all the time in spaceflight, this one once again puts the timing of the much-anticipated launch in question. According [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Moody&#8217;s agrees to acquire Cape Analytics, which develops geospatial AI for insurance providers</title>
-		<link>https://techcrunch.com/2025/01/13/moodys-agrees-to-acquire-cape-analytics-which-develops-geospatial-ai-for-insurance-providers/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Mon, 13 Jan 2025 15:25:20 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[acquisition]]></category>
-		<category><![CDATA[insurance]]></category>
-		<category><![CDATA[geospatial]]></category>
-		<category><![CDATA[Moody’s]]></category>
-		<category><![CDATA[cape analytics]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2945547</guid>
-
-					<description><![CDATA[<p>Financial services firm Moody&#8217;s announced on Monday that it has agreed to acquire Cape Analytics, a geospatial AI startup, for an undisclosed sum. The deal, which is expected to close in Q1, subject to customary closing conditions, will give Moody&#8217;s access to Cape&#8217;s geospatial AI analytics technology for insurance underwriting. With the tech, Moody&#8217;s plans [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
