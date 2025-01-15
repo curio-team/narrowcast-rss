@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 15 Jan 2025 13:31:10 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Jan 2025 14:33:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,76 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Rockfish is helping enterprises leverage synthetic data</title>
+		<link>https://techcrunch.com/2025/01/15/rockfish-is-helping-enterprises-leverage-synthetic-data/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Wed, 15 Jan 2025 14:33:32 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Rockfish]]></category>
+		<category><![CDATA[synthetic data]]></category>
+		<category><![CDATA[VC]]></category>
+		<category><![CDATA[venture capital]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2947362</guid>
+
+					<description><![CDATA[<p>For years, Vyas Sekar would call up Muckai Girish, an old friend from undergrad, to talk through potential startup ideas and get Girish&#8217;s opinion. The two usually talked through an idea and ended the conversation at that. When Sekar called Girish with an idea involving synthetic data in early 2022, the conversation didn&#8217;t just end [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft&#8217;s newest Copilot plan for business is pay-as-you-go</title>
+		<link>https://techcrunch.com/2025/01/15/microsofts-newest-copilot-plan-for-business-is-pay-as-you-go/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 15 Jan 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Microsoft 365]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Copilot]]></category>
+		<category><![CDATA[Copilot Chat]]></category>
+		<category><![CDATA[agents]]></category>
+		<category><![CDATA[microsoft 365 copilot]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2947179</guid>
+
+					<description><![CDATA[<p>Microsoft is launching a pay-as-you-go plan for corporate customers that bundles together several, but not all, of the company&#8217;s existing AI-powered productivity features for Microsoft 365. The new plan, Copilot Chat &#8212; not to be confused with Microsoft&#8217;s Copilot Business Chat or GitHub Copilot Chat &#8212; is underpinned by OpenAI&#8217;s GPT-4o AI model and lets [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>LinkedIn adds free AI tools for job hunters and recruiters</title>
+		<link>https://techcrunch.com/2025/01/15/linkedin-ads-free-ai-tools-for-job-hunters-and-recruiters/</link>
+		
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+		<pubDate>Wed, 15 Jan 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[employment]]></category>
+		<category><![CDATA[Jobs]]></category>
+		<category><![CDATA[LinkedIn]]></category>
+		<category><![CDATA[recruitment]]></category>
+		<category><![CDATA[job hunting]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2947315</guid>
+
+					<description><![CDATA[<p>If you’ve ever applied or thought of applying for a job via LinkedIn, you’ll know that the experience can be immediately disheartening: Openings that look interesting typically can see hundreds or thousands of applications in a matter of hours — data that LinkedIn, a social network for the world of work, proudly exposes in its [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>UnitedHealth hid its Change Healthcare data breach notice for months</title>
 		<link>https://techcrunch.com/2025/01/15/unitedhealth-hid-its-change-healthcare-data-breach-notice-for-months/</link>
 		
@@ -45,7 +115,7 @@
 		<category><![CDATA[UnitedHealthcare]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2947341</guid>
 
-					<description><![CDATA[<p>Following its ransomware attack, Change Healthcare used website code to hide the data breach notice from search engines.</p>
+					<description><![CDATA[<p>The ransomware attack on Change Healthcare affected over 100 million Americans, the health giant told regulators.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -373,69 +443,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2946165</guid>
 
 					<description><![CDATA[<p>NotebookLM's viral AI podcast hosts sounded annoyed at human callers and required "friendliness tuning," Google says.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Flights delayed by SpaceX’s falling rocket debris </title>
-		<link>https://techcrunch.com/2025/01/14/flights-delayed-by-spacexs-falling-rocket-debris/</link>
-		
-		<dc:creator><![CDATA[Margaux MacColl]]></dc:creator>
-		<pubDate>Tue, 14 Jan 2025 20:32:10 +0000</pubDate>
-				<category><![CDATA[Space]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Qantas]]></category>
-		<category><![CDATA[spacetech]]></category>
-		<category><![CDATA[SpaceX]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2946849</guid>
-
-					<description><![CDATA[<p>Qantas has been forced to delay several flights to South Africa due to last minute warnings about SpaceX rocket debris falling from the sky. </p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google-backed Pixxel launches India&#8217;s first private satellite constellation</title>
-		<link>https://techcrunch.com/2025/01/14/google-backed-pixxel-launches-indias-first-private-satellite-constellation/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Tue, 14 Jan 2025 20:30:00 +0000</pubDate>
-				<category><![CDATA[Space]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[hyperspectral imagery]]></category>
-		<category><![CDATA[India]]></category>
-		<category><![CDATA[Pixxel]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2946660</guid>
-
-					<description><![CDATA[<p>Pixxel, an Indian space tech startup backed by Google, has successfully launched the first three hyperspectral satellites of its commercial constellation Firefly.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>DJI Flip is a $439, fully foldable camera drone</title>
-		<link>https://techcrunch.com/2025/01/14/dji-flip-is-a-439-fully-foldable-camera-drone/</link>
-		
-		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
-		<pubDate>Tue, 14 Jan 2025 20:19:14 +0000</pubDate>
-				<category><![CDATA[Gadgets]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[DJI]]></category>
-		<category><![CDATA[dji flip]]></category>
-		<category><![CDATA[drones]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2946725</guid>
-
-					<description><![CDATA[<p>Four short months after introducing the truly palm-size Neo, DJI is back with another pint-sized consumer drone. The Flip continues the drone giant’s interest in foldable form factors, with a quartet of propeller guards that essentially stack up, for maximum portability. The new Flip continues to blur the lines in DJI’s existing consumer portfolio, combining [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
