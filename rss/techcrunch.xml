@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 15 Jan 2025 11:06:25 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Jan 2025 13:31:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,47 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>UnitedHealth hid its Change Healthcare data breach notice for months</title>
+		<link>https://techcrunch.com/2025/01/15/unitedhealth-hid-its-change-healthcare-data-breach-notice-for-months/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Wed, 15 Jan 2025 13:30:44 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[HIPAA]]></category>
+		<category><![CDATA[UnitedHealth Group]]></category>
+		<category><![CDATA[UnitedHealthcare]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2947341</guid>
+
+					<description><![CDATA[<p>Following its ransomware attack, Change Healthcare used website code to hide the data breach notice from search engines.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hinge’s new AI feature determines if your prompt response is too basic </title>
+		<link>https://techcrunch.com/2025/01/15/hinge-new-ai-feature-determines-if-your-prompt-response-is-too-basic/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Wed, 15 Jan 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[dating apps]]></category>
+		<category><![CDATA[Hinge]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2946555</guid>
+
+					<description><![CDATA[<p>Hinge today launched a new AI-powered feature called “Prompt Feedback,” which aims to improve your dating profile by analyzing how you answer prompts and assessing if it needs to be more specific or authentic.  Powered by OpenAI’s GPT-4o mini, Prompt Feedback evaluates each response and offers personalized advice tailored to help you share interesting details [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>SoftBank veteran hunts for profits in payments infrastructure plumbing</title>
 		<link>https://techcrunch.com/2025/01/15/akshay-naheta-distributed-technologies-research/</link>
 		
@@ -395,44 +436,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2946725</guid>
 
 					<description><![CDATA[<p>Four short months after introducing the truly palm-size Neo, DJI is back with another pint-sized consumer drone. The Flip continues the drone giant’s interest in foldable form factors, with a quartet of propeller guards that essentially stack up, for maximum portability. The new Flip continues to blur the lines in DJI’s existing consumer portfolio, combining [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI appoints BlackRock exec to its board</title>
-		<link>https://techcrunch.com/2025/01/14/openai-appoints-blackrock-exec-to-its-board/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 14 Jan 2025 19:58:07 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[BlackRock]]></category>
-		<category><![CDATA[board]]></category>
-		<category><![CDATA[board of directors]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2946712</guid>
-
-					<description><![CDATA[<p>OpenAI has appointed to its board of directors an executive at investment firm BlackRock. Adebayo &#8220;Bayo&#8221; Ogunlesi, a senior managing director at BlackRock and CEO of Global Infrastructure Partners, an infrastructure investing platform, has joined OpenAI&#8217;s board, OpenAI announced on Tuesday. In a statement, OpenAI board chairman Bret Taylor said that Ogunlesi has &#8220;an exceptional [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Substack rolls out livestreaming for all publishers</title>
-		<link>https://techcrunch.com/2025/01/14/substack-rolls-out-livestreaming-for-all-publishers/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Tue, 14 Jan 2025 19:49:28 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Livestreaming]]></category>
-		<category><![CDATA[Substack]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2946769</guid>
-
-					<description><![CDATA[<p>After testing live video features in the fall, newsletter platform Substack announced on Tuesday that it is now making livestreaming available to all publishers. This new feature allows creators to engage with their viewers and collaborate with other publishers.  The introduction of livestreaming indicates that Substack is following in the footsteps of other platforms like [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
