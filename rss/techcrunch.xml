@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 17 Jan 2025 09:33:18 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 17 Jan 2025 10:37:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -36,13 +36,13 @@
 		
 		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
 		<pubDate>Fri, 17 Jan 2025 09:58:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[AI]]></category>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
 		<category><![CDATA[Fundraising]]></category>
 		<category><![CDATA[Index Ventures]]></category>
-		<category><![CDATA[NordVPN]]></category>
-		<category><![CDATA[Nord Security]]></category>
 		<category><![CDATA[Nexos.ai]]></category>
+		<category><![CDATA[Nord Security]]></category>
+		<category><![CDATA[NordVPN]]></category>
 		<category><![CDATA[Tomas Okmanas]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2948159</guid>
 
