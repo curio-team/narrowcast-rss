@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 21 Jan 2025 15:06:27 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 Jan 2025 08:15:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,21 +31,17 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>IMDb founder steps down as CEO after 35 years</title>
-		<link>https://techcrunch.com/2025/01/21/imdb-founder-steps-down-as-ceo-after-35-years/</link>
+		<title>Indian fintech Jar turns cash flow positive</title>
+		<link>https://techcrunch.com/2025/01/22/indian-fintech-jar-turns-cash-flow-positive/</link>
 		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Tue, 21 Jan 2025 15:06:22 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Amazon]]></category>
-		<category><![CDATA[ceo]]></category>
-		<category><![CDATA[imdb]]></category>
-		<category><![CDATA[movies]]></category>
-		<category><![CDATA[succession]]></category>
-		<category><![CDATA[tv]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2949835</guid>
+		<dc:creator><![CDATA[Manish Singh]]></dc:creator>
+		<pubDate>Wed, 22 Jan 2025 08:00:22 +0000</pubDate>
+				<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[jar]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2950804</guid>
 
-					<description><![CDATA[<p>IMDb, the Amazon-owned online database that provides information on movies, TV shows, and celebrities, announced on Tuesday that its founder, Col Needham, is stepping down as CEO. Nikki Santoro, who has served as the Chief Operating Officer since 2021, has been appointed as his successor. Santoro&#8217;s appointment is significant, as she is the first woman [&#8230;]</p>
+					<description><![CDATA[<p>Indian fintech Jar has turned cash flow positive, an executive at the Tiger Global-backed startup confirmed on Wednesday, as it gears up to deepen its offerings. The three-year-old startup, which offers its users the ability to start their savings and investment journey, achieved the milestone while still growing by more than 10 times last year, [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -53,43 +49,22 @@
 		
 			</item>
 		<item>
-		<title>Anthropic plans to release a &#8216;two-way&#8217; voice mode for Claude</title>
-		<link>https://techcrunch.com/2025/01/21/anthropic-plans-to-release-a-two-way-voice-mode-for-claude/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 21 Jan 2025 14:48:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Claude]]></category>
-		<category><![CDATA[dario amodei]]></category>
-		<category><![CDATA[davos]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[World Economic Forum]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2949802</guid>
-
-					<description><![CDATA[<p>Anthropic CEO Dario Amodei says that the company plans to release a &#8220;two-way&#8221; voice mode for its chatbot, Claude, as well as a memory feature that lets Claude remember more about users and past conversations. Speaking to The Wall Street Journal at the World Economic Forum at Davos, Amodei also revealed that Anthropic expects to [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>UK plans &#8216;digital wallet&#8217; for driver&#8217;s licenses and other ID, plus a chatbot powered by OpenAI</title>
-		<link>https://techcrunch.com/2025/01/21/uk-plans-digital-wallet-for-drivers-licenses-and-other-id-plus-a-chatbot-powered-by-openai/</link>
+		<title>Vertice raises $50M for its AI-powered SaaS spend platform</title>
+		<link>https://techcrunch.com/2025/01/21/vertice-raises-50m-for-its-ai-powered-saas-spend-platform/</link>
 		
 		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
-		<pubDate>Tue, 21 Jan 2025 14:35:38 +0000</pubDate>
+		<pubDate>Wed, 22 Jan 2025 07:47:15 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[chatbot]]></category>
-		<category><![CDATA[government services]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2949816</guid>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[expense management]]></category>
+		<category><![CDATA[procurement]]></category>
+		<category><![CDATA[software spend]]></category>
+		<category><![CDATA[spend optimization]]></category>
+		<category><![CDATA[Vertice]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2950802</guid>
 
-					<description><![CDATA[<p>Alongside its big public push for AI investments, the U.K. government is also playing a virtual card to catapult itself into the 21st century. Today it announced plans to launch a secure digital wallet to manage government-issued credentials, alongside a chatbot — built in collaboration with OpenAI — to interact with the main GOV.UK portal. [&#8230;]</p>
+					<description><![CDATA[<p>Vertice has made a name for itself over the years in the crowded world of expenditure management by focusing on applying AI to optimize an area where businesses are sinking hundreds of billions of dollars annually: software and cloud spend. The London-based startup&#8217;s business has grown 13x in the three years since its inception (similar [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -97,24 +72,216 @@
 		
 			</item>
 		<item>
-		<title>Mistral AI plans IPO</title>
-		<link>https://techcrunch.com/2025/01/21/mistral-ai-plans-ipo/</link>
+		<title>Truecaller brings real-time caller ID to iPhone users</title>
+		<link>https://techcrunch.com/2025/01/21/truecaller-brings-real-time-caller-id-to-iphone-users/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh, Ivan Mehta]]></dc:creator>
+		<pubDate>Wed, 22 Jan 2025 05:01:45 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Truecaller]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2949536</guid>
+
+					<description><![CDATA[<p>Truecaller for iOS has been updated with live caller ID support for its premium iPhone users.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trump pardons Silk Road creator Ross Ulbricht</title>
+		<link>https://techcrunch.com/2025/01/21/trump-pardons-silk-road-creator-ross-ulbricht/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Wed, 22 Jan 2025 01:03:18 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[ross ulbricht]]></category>
+		<category><![CDATA[silk road]]></category>
+		<category><![CDATA[Trump]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2950518</guid>
+
+					<description><![CDATA[<p>President Trump on Tuesday pardoned Ross Ulbricht, the creator of the infamous dark web exchange Silk Road, which was best known as a once-thriving online marketplace for illegal drugs. Trump announced the news in a Truth Social post, saying the pardon was in honor of Ulbricht&#8217;s mother and the Libertarian movement. In 2015, a federal [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>MrBeast is reportedly now among those trying to buy TikTok</title>
+		<link>https://techcrunch.com/2025/01/21/mr-beast-is-reportedly-now-among-those-trying-to-buy-tiktok/</link>
+		
+		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
+		<pubDate>Wed, 22 Jan 2025 00:42:10 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[Acquisitions]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Mr Beast]]></category>
+		<category><![CDATA[TikTok]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2950462</guid>
+
+					<description><![CDATA[<p>An unlikely group, including Mr Beast and Bench acquirer Employer.com, has submitted a bid to buy TikTok. </p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Former Meta COO Sheryl Sandberg sanctioned by judge for allegedly deleting emails</title>
+		<link>https://techcrunch.com/2025/01/21/meta-coo-sheryl-sandberg-sanctioned-by-judge-for-allegedly-deleting-emails/</link>
 		
 		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 21 Jan 2025 14:33:55 +0000</pubDate>
+		<pubDate>Wed, 22 Jan 2025 00:09:19 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[Cambridge Analytica]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[Sanctions]]></category>
+		<category><![CDATA[Sheryl Sandberg]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2950216</guid>
+
+					<description><![CDATA[<p>A Delaware judge has sanctioned Sheryl Sandberg, Meta&#8217;s former COO and board member, for allegedly deleting emails related to the Cambridge Analytica privacy scandal. The decision arises from a case Meta shareholders brought against Sandberg and another former Meta board member, Jeff Zients, late last year. The plaintiffs alleged that Sandberg and Zients used personal [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft is no longer OpenAI&#8217;s exclusive cloud provider</title>
+		<link>https://techcrunch.com/2025/01/21/microsoft-is-no-longer-openais-exclusive-cloud-provider/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Tue, 21 Jan 2025 23:18:07 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[davos]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[data center]]></category>
+		<category><![CDATA[infrastructure]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2950376</guid>
+
+					<description><![CDATA[<p>Microsoft was once the exclusive provider of data center infrastructure for OpenAI to train and run its AI models. No longer. Coinciding with the announcement of Stargate, OpenAI&#8217;s massive new AI infrastructure deal with SoftBank, Oracle, and others, Microsoft says it has signed a new agreement with OpenAI that gives it &#8220;right of first refusal&#8221; [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI teams up with SoftBank and Oracle on $500B data center project</title>
+		<link>https://techcrunch.com/2025/01/21/openai-teams-up-with-softbank-and-oracle-on-50b-data-center-project/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Tue, 21 Jan 2025 23:08:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[data center]]></category>
+		<category><![CDATA[data centers]]></category>
 		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[oracle]]></category>
+		<category><![CDATA[Softbank]]></category>
+		<category><![CDATA[stargate]]></category>
+		<category><![CDATA[texas]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2949976</guid>
+
+					<description><![CDATA[<p>OpenAI says that it will team up with Japanese conglomerate SoftBank and with Oracle, among others, to build multiple data centers for AI in the U.S. The joint venture, called the Stargate Project, will begin with a large data center project in Texas and eventually expand to other states.&#160;The companies expect to commit $100 billion [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Scale AI&#8217;s Alexandr Wang has published an open letter lobbying Trump to invest in AI</title>
+		<link>https://techcrunch.com/2025/01/21/scale-ais-alexandr-wang-has-published-an-open-letter-lobbying-trump-to-invest-in-ai/</link>
+		
+		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
+		<pubDate>Tue, 21 Jan 2025 22:12:51 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[White House]]></category>
+		<category><![CDATA[Scale AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2950223</guid>
+
+					<description><![CDATA[<p>Scale AI's CEO Alexandr Wang has five recommendations for President Trump to keep the US ahead of China on AI.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Amperesand targets data centers as the next big customer for its solid-state transformers</title>
+		<link>https://techcrunch.com/2025/01/21/amperesand-targets-data-centers-as-the-next-big-customer-for-its-solid-state-transformers/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Tue, 21 Jan 2025 22:00:00 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Amperesand]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[electrical grid]]></category>
+		<category><![CDATA[electricity]]></category>
+		<category><![CDATA[EV charging]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Solid State]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2949019</guid>
+
+					<description><![CDATA[<p>Amperesand’s technology replaces the iron cores that define old transformers with silicon carbide.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Startup founders flooded inauguration parties hopeful for dealmaking</title>
+		<link>https://techcrunch.com/2025/01/21/startup-founders-flooded-inauguration-parties-hopeful-for-dealmaking/</link>
+		
+		<dc:creator><![CDATA[Margaux MacColl]]></dc:creator>
+		<pubDate>Tue, 21 Jan 2025 21:53:39 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[doge]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Mark Zuckerberg]]></category>
+		<category><![CDATA[Trump]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2950202</guid>
+
+					<description><![CDATA[<p>All throughout America’s capital, founders enjoyed the fruits of their industry’s political jockeying. </p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Meta is building Oakley smart glasses for athletes: Report</title>
+		<link>https://techcrunch.com/2025/01/21/meta-is-building-oakley-smart-glasses-for-athletes-report/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Tue, 21 Jan 2025 21:21:53 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Oakley]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[SMART Glasses]]></category>
+		<category><![CDATA[ray-ban meta]]></category>
 		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[IPO]]></category>
-		<category><![CDATA[mistral]]></category>
-		<category><![CDATA[startup]]></category>
-		<category><![CDATA[World Economic Forum]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2949789</guid>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2950152</guid>
 
-					<description><![CDATA[<p>French AI lab, Mistral, is working toward an initial public offering, co-founder and CEO Arthur Mensch said Tuesday in an interview with Bloomberg at the World Economic Forum in Davos. Mistral is &#8220;not for sale,&#8221; Mensch said, adding that the company plans to open an office in Singapore to focus on the Asia-Pacific region and [&#8230;]</p>
+					<description><![CDATA[<p>Meta&#8217;s Reality Labs is expanding its lineup of AI smart glasses with a new pair of Oakley-branded spectacles targeted at athletes, according to Bloomberg&#8217;s Mark Gurman. Bloomberg reports the new smart glasses, with which Meta seeks to capitalize on the Ray-Ban Meta&#8217;s success, will be based on Oakley&#8217;s Sphaera glasses and will shift the camera [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -122,19 +289,56 @@
 		
 			</item>
 		<item>
-		<title>Toronto school district says 40 years of student data stolen in PowerSchool breach</title>
-		<link>https://techcrunch.com/2025/01/21/toronto-school-district-says-40-years-of-student-data-stolen-in-powerschool-breach/</link>
+		<title>Perplexity launches Sonar, an API for AI search</title>
+		<link>https://techcrunch.com/2025/01/21/perplexity-launches-sonar-an-api-for-ai-search/</link>
 		
-		<dc:creator><![CDATA[Carly Page]]></dc:creator>
-		<pubDate>Tue, 21 Jan 2025 14:33:39 +0000</pubDate>
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Tue, 21 Jan 2025 20:39:09 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI search]]></category>
+		<category><![CDATA[Perplexity]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2950055</guid>
+
+					<description><![CDATA[<p>Perplexity on Tuesday launched an API service called Sonar, allowing enterprises and developers to build the startup&#8217;s generative AI search tools into their own applications. &#8220;While most generative AI features today have answers informed only by training data, this limits their capabilities,&#8221; Perplexity wrote in a blog post. &#8220;To optimize for factuality and authority, APIs [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trump targets EV charging funding programs Tesla benefits from</title>
+		<link>https://techcrunch.com/2025/01/21/trump-targets-ev-charging-funding-programs-tesla-benefits-from/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Tue, 21 Jan 2025 20:15:59 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<category><![CDATA[Trump Administration]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2949991</guid>
+
+					<description><![CDATA[<p>President Donald Trump is trying to halt the flow of funding for EV charging infrastructure from two programs that have benefited Tesla — the latest example of how Elon Musk&#8217;s political interests seem to be at odds with his car company&#8217;s goal of advancing sustainable energy. It&#8217;s not a given that Trump&#8217;s gambit will succeed. [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Govtech giant Conduent won&#8217;t rule out cyberattack as outage drags on</title>
+		<link>https://techcrunch.com/2025/01/21/govtech-giant-conduent-wont-rule-out-cyberattack-as-outage-drags-on/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Tue, 21 Jan 2025 20:06:40 +0000</pubDate>
 				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Conduent]]></category>
 		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[powerschool]]></category>
-		<category><![CDATA[security]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2949814</guid>
+		<category><![CDATA[government contracts]]></category>
+		<category><![CDATA[United States government]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2950056</guid>
 
-					<description><![CDATA[<p>Canada’s largest school board says hackers may have accessed some 40 years&#8217; worth of student data during the recent PowerSchool breach.&#160; In a letter sent to parents this week, the Toronto District School Board (TDSB) said that the data breach affected all students enrolled in the district between September 1985 and December 2024.&#160; The school [&#8230;]</p>
+					<description><![CDATA[<p>At least four states reported being affected by the outage, which Conduent says is ongoing.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -142,16 +346,22 @@
 		
 			</item>
 		<item>
-		<title>Qomodo raises $13.9M to expand BNPL for Italy&#8217;s main-street retailers</title>
-		<link>https://techcrunch.com/2025/01/21/qomodo-raises-13-9m-to-expand-bnpl-for-italys-main-street-retailers/</link>
+		<title>Spotify&#8217;s educational audio courses could be coming to US</title>
+		<link>https://techcrunch.com/2025/01/21/spotify-educational-audio-courses-could-be-coming-to-us/</link>
 		
-		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
-		<pubDate>Tue, 21 Jan 2025 13:25:29 +0000</pubDate>
-				<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[Fintech]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2949787</guid>
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Tue, 21 Jan 2025 18:39:11 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[courses]]></category>
+		<category><![CDATA[digital learning]]></category>
+		<category><![CDATA[educational]]></category>
+		<category><![CDATA[learning]]></category>
+		<category><![CDATA[Spotify]]></category>
+		<category><![CDATA[streaming service]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2949989</guid>
 
-					<description><![CDATA[<p>Payments and financial solutions are two-a-penny at this point, but mostly for online e-commerce. What about physical stores? In 2023 Qomodo, a Milan-based &#8220;all-in-one&#8221; payment methods aggregator for physical merchants, came out with a €34.5 million ($36.9 million) pre-seed round (mostly debt), which we covered, to expand the BNPL model into other categories. It’s now [&#8230;]</p>
+					<description><![CDATA[<p>Spotify is expanding its streaming service to now include educational courses in addition to music, podcasts, and audiobooks. The company on Tuesday referenced one of its newer features called courses, which allow users to learn about topics in areas like business, tech, lifestyle, music, and more. The feature is initially being piloted in the U.K., [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -159,21 +369,19 @@
 		
 			</item>
 		<item>
-		<title>HPE investigating security breach after hacker claims theft of sensitive data</title>
-		<link>https://techcrunch.com/2025/01/21/hpe-investigating-security-breach-after-hacker-claims-theft-of-sensitive-data/</link>
+		<title>Trump moves to sink offshore wind</title>
+		<link>https://techcrunch.com/2025/01/21/trump-moves-to-sink-offshore-wind/</link>
 		
-		<dc:creator><![CDATA[Carly Page]]></dc:creator>
-		<pubDate>Tue, 21 Jan 2025 11:21:22 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[hacking]]></category>
-		<category><![CDATA[HPE]]></category>
-		<category><![CDATA[security]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2949774</guid>
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Tue, 21 Jan 2025 18:37:46 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[Trump Administration]]></category>
+		<category><![CDATA[Wind power]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2949955</guid>
 
-					<description><![CDATA[<p>A well-known hacker claims to have stolen source code and user data from the enterprise IT giant</p>
+					<description><![CDATA[<p>President Trump signed an executive order that halted federal leases for offshore wind development on the outer continental shelf.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -181,20 +389,20 @@
 		
 			</item>
 		<item>
-		<title>MoneyHash, which provides single access to payment services in MENA, banks $5.2M</title>
-		<link>https://techcrunch.com/2025/01/21/moneyhash-provides-single-access-to-payment-services-in-mena/</link>
+		<title>Meta lures TikTok creators with $5K bonuses, content deals, free verification</title>
+		<link>https://techcrunch.com/2025/01/21/meta-lures-tiktok-creators-with-5k-bonuses-content-deals-free-verification/</link>
 		
-		<dc:creator><![CDATA[Tage Kene-Okafor]]></dc:creator>
-		<pubDate>Tue, 21 Jan 2025 11:00:46 +0000</pubDate>
-				<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Africa]]></category>
-		<category><![CDATA[Egypt]]></category>
-		<category><![CDATA[MENA]]></category>
-		<category><![CDATA[MoneyHash]]></category>
-		<category><![CDATA[payment orchestration]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2949686</guid>
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Tue, 21 Jan 2025 18:36:50 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Instagram]]></category>
+		<category><![CDATA[reels]]></category>
+		<category><![CDATA[tiktbon ban]]></category>
+		<category><![CDATA[TikTok]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2949984</guid>
 
-					<description><![CDATA[<p>When merchants or companies launch online, they typically start by partnering with one or two payment processors. But as they grow and expand into new regions, they often need to onboard additional payment partners to meet different customer (and sometimes regulatory) needs, a process that comes with some hurdles.&#160; That&#8217;s given rise to companies to [&#8230;]</p>
+					<description><![CDATA[<p>Meta is luring TikTok creators over to its platforms with the promise of cash bonuses, content deals, and support to grow their communities. The company announced on Tuesday that eligible TikTok creators will be able to earn &#8220;up to&#8221; $5,000 in bonuses over three months for posting Reels on Facebook and Instagram. These creators will [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -202,20 +410,18 @@
 		
 			</item>
 		<item>
-		<title>Karmen secures $9.4 million for its revenue-based financing products</title>
-		<link>https://techcrunch.com/2025/01/20/karmen-secures-94-million-for-its-revenue-based-financing-products/</link>
+		<title>Funding to fintechs continues to decline, but at a slower pace</title>
+		<link>https://techcrunch.com/2025/01/21/funding-to-fintechs-continues-to-decline-but-at-a-slower-pace/</link>
 		
-		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
-		<pubDate>Tue, 21 Jan 2025 05:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
+		<pubDate>Tue, 21 Jan 2025 18:06:00 +0000</pubDate>
 				<category><![CDATA[Fintech]]></category>
 		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Karmen]]></category>
-		<category><![CDATA[rbf]]></category>
-		<category><![CDATA[revenue-based financing]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2949462</guid>
+		<category><![CDATA[bench]]></category>
+		<category><![CDATA[TechCrunch Fintech]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2949007</guid>
 
-					<description><![CDATA[<p>French startup Karmen has secured a small funding round so that it can improve its instant financing products. The company offers short-term loans to small companies facing a working capital crunch. It’s a €9 million equity-and-debt round ($9.4 million at today’s exchange rates) with Seventure Partners buying a stake in the small startup. Financière Arbevel [&#8230;]</p>
+					<description><![CDATA[<p>Welcome to TechCrunch Fintech!&#160; This week, we’re looking at just how much fintech startups raised in 2024, a slew of fundraising deals, Plaid’s reported revenue growth last year, and more! To get a roundup of TechCrunch’s biggest and most important fintech stories delivered to your inbox every Tuesday at 8:00 a.m. PT, subscribe here. The [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -223,255 +429,20 @@
 		
 			</item>
 		<item>
-		<title>President Trump signs exec order to make Musk&#8217;s DOGE commission more official</title>
-		<link>https://techcrunch.com/2025/01/20/president-trump-signs-exec-order-to-make-musks-doge-commission-more-official/</link>
+		<title>Stripe is laying off 300 people, but says it still plans to hire in 2025</title>
+		<link>https://techcrunch.com/2025/01/21/stripe-is-laying-off-300-people-but-says-it-still-plans-to-hire-in-2025/</link>
 		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 21 Jan 2025 02:11:26 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Department of Government Efficiency]]></category>
-		<category><![CDATA[doge]]></category>
-		<category><![CDATA[Donald Trump]]></category>
-		<category><![CDATA[executive order]]></category>
-		<category><![CDATA[government]]></category>
-		<category><![CDATA[policy]]></category>
-		<category><![CDATA[president donald trump]]></category>
-		<category><![CDATA[president trump]]></category>
-		<category><![CDATA[USDS]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2949708</guid>
-
-					<description><![CDATA[<p>The Department of Government Efficiency (DOGE), an advisory commission spearheaded by billionaire Elon Musk recommending deep cuts to federal agencies, could soon become more official, should an executive order signed by President Donald Trump pass legal muster. On Monday evening, Trump signed an order that renames the U.S. Digital Service (USDS), which was created in [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Trump signs exec order delaying TikTok enforcement action for 75 days</title>
-		<link>https://techcrunch.com/2025/01/20/trump-signs-exec-order-delaying-tiktok-enforcement-action-for-75-days/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 21 Jan 2025 01:32:22 +0000</pubDate>
-				<category><![CDATA[Social]]></category>
-		<category><![CDATA[App]]></category>
-		<category><![CDATA[consumer]]></category>
-		<category><![CDATA[Donald Trump]]></category>
-		<category><![CDATA[executive order]]></category>
+		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
+		<pubDate>Tue, 21 Jan 2025 17:25:06 +0000</pubDate>
+				<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[commerce]]></category>
+		<category><![CDATA[Fintech]]></category>
 		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[president donald trump]]></category>
-		<category><![CDATA[social media]]></category>
-		<category><![CDATA[TikTok]]></category>
-		<category><![CDATA[Trump]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2949688</guid>
+		<category><![CDATA[Layoffs]]></category>
+		<category><![CDATA[stripe]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2949930</guid>
 
-					<description><![CDATA[<p>President Donald Trump has signed an executive order aimed at restoring TikTok service in the U.S. The order instructs relevant government agencies to &#8220;pursue a resolution&#8221; that &#8220;protects national security&#8221; while &#8220;saving [TikTok.]&#8221; Via the order, Trump is instructing the U.S. Attorney General not to take any action for 75 days to enforce the Protecting Americans [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>President Trump repeals Biden&#8217;s AI executive order</title>
-		<link>https://techcrunch.com/2025/01/20/president-trump-repeals-bidens-ai-executive-order/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 21 Jan 2025 00:53:17 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[ai executive order]]></category>
-		<category><![CDATA[AI policy]]></category>
-		<category><![CDATA[biden]]></category>
-		<category><![CDATA[Donald Trump]]></category>
-		<category><![CDATA[former president joe biden]]></category>
-		<category><![CDATA[government]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[policy]]></category>
-		<category><![CDATA[president trump]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2949675</guid>
-
-					<description><![CDATA[<p>During his first day in office, President Donald Trump revoked a 2023 executive order signed by former President Joe Biden that sought to reduce the potential risks AI poses to consumers, workers, and national security. Biden&#8217;s executive order directed the Commerce Department’s National Institute of Standards and Technology (NIST) to author guidance that helps companies [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>UK to unveil &#8216;Humphrey&#8217; assistant for civil servants with other AI plans to cut bureaucracy</title>
-		<link>https://techcrunch.com/2025/01/20/uk-to-unveil-humphrey-assistant-for-civil-servants-with-other-ai-plans-to-cut-bureaucracy/</link>
-		
-		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
-		<pubDate>Tue, 21 Jan 2025 00:06:46 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[DSIT]]></category>
-		<category><![CDATA[Peter Kyle]]></category>
-		<category><![CDATA[public health]]></category>
-		<category><![CDATA[social services]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2949671</guid>
-
-					<description><![CDATA[<p>A week after the U.K. government announced a sweeping plan to make big investments into AI, it’s laying out more details around how this will take shape in the public sector. On the agenda: AI assistants to speed up public services; data-sharing deals across siloed departments; and a new set of AI tools — dubbed [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI&#8217;s agent tool may be nearing release</title>
-		<link>https://techcrunch.com/2025/01/20/openais-agent-tool-may-be-nearing-release/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Mon, 20 Jan 2025 22:29:22 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[agents]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Leak]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[operator]]></category>
-		<category><![CDATA[rumor]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2949555</guid>
-
-					<description><![CDATA[<p>OpenAI may be close to releasing an AI tool that can take control of your PC and perform actions on your behalf. Tibor Blaho, a software engineer with a reputation for accurately leaking upcoming AI products, claims to have uncovered evidence of OpenAI&#8217;s long-rumored Operator tool. Publications including Bloomberg have previously reported on Operator, which [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Friend delays shipments of its AI companion pendant</title>
-		<link>https://techcrunch.com/2025/01/20/friend-delays-shipments-of-its-ai-companion-pendant/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Mon, 20 Jan 2025 22:28:43 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[ai companion]]></category>
-		<category><![CDATA[chatbot]]></category>
-		<category><![CDATA[delay]]></category>
-		<category><![CDATA[friend]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[shipment]]></category>
-		<category><![CDATA[startup]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2949622</guid>
-
-					<description><![CDATA[<p>Friend, a startup creating a $99, AI-powered necklace designed to be treated as a digital companion, has delayed its first batch of shipments until Q3. Friend had planned to ship devices to pre-order customers in Q1. But according to co-founder and CEO Avi Schiffman, that&#8217;s no longer feasible. &#8220;As much as I would liked to [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US safety regulators expand Ford hands-free driving tech investigation</title>
-		<link>https://techcrunch.com/2025/01/20/us-safety-regulators-expand-ford-hands-free-driving-tech-investigation/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
-		<pubDate>Mon, 20 Jan 2025 22:02:43 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[ADAS]]></category>
-		<category><![CDATA[BlueCruise]]></category>
-		<category><![CDATA[Ford]]></category>
-		<category><![CDATA[nhtsa]]></category>
-		<category><![CDATA[Tesla]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2949586</guid>
-
-					<description><![CDATA[<p>A U.S. federal safety regulator has “upgraded” its investigation into Ford&#8217;s hands-free advanced driver assistance system known as BlueCruise — a required step before a recall can be issued. The National Highway Traffic Safety Administration&#8217;s Office of Defects Investigation launched a probe into Ford BlueCruise last April after the agency confirmed the system was active [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>At the Microsoft Excel World Championship, selfies and a &#8216;hype&#8217; tunnel</title>
-		<link>https://techcrunch.com/2025/01/20/at-the-microsoft-excel-world-championship-selfies-and-a-hype-tunnel/</link>
-		
-		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
-		<pubDate>Mon, 20 Jan 2025 21:49:31 +0000</pubDate>
-				<category><![CDATA[Gaming]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[TC]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2949609</guid>
-
-					<description><![CDATA[<p>An arena. A hype tunnel, the kind through which NBA players typically streak. A competitor dressed in a jersey patterned with a six-pack abs. In a new piece, The New York Times takes readers to an event that organizers call the Microsoft Excel World Championship, a 40-minute, Las Vegas-based competition featuring 12 contestants &#8212; all [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Flipboard&#8217;s new app Surf adds its own video feed, too</title>
-		<link>https://techcrunch.com/2025/01/20/flipboards-new-app-surf-adds-its-own-video-feed-too/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Mon, 20 Jan 2025 19:01:43 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Bluesky]]></category>
-		<category><![CDATA[flipboard]]></category>
-		<category><![CDATA[open social web]]></category>
-		<category><![CDATA[social media]]></category>
-		<category><![CDATA[social networking]]></category>
-		<category><![CDATA[surf]]></category>
-		<category><![CDATA[Video]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2949514</guid>
-
-					<description><![CDATA[<p>After the TikTok ban went into effect on Sunday, social network Bluesky launched a custom feed for videos on its platform. Now, Flipboard&#8217;s newest app, Surf, which is dedicated to browsing the open social web and decentralized services like Mastodon and Bluesky, is taking advantage of that move to introduce a video feed of its [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>DeepSeek claims its &#8216;reasoning&#8217; model beats OpenAI&#8217;s o1 on certain benchmarks</title>
-		<link>https://techcrunch.com/2025/01/20/deepseek-claims-its-reasoning-model-beats-openais-o1-on-certain-benchmarks/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Mon, 20 Jan 2025 17:44:13 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[r1]]></category>
-		<category><![CDATA[Open AI]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[deepseek]]></category>
-		<category><![CDATA[reasoning model]]></category>
-		<category><![CDATA[deepseek-r1]]></category>
-		<category><![CDATA[chinese ai]]></category>
-		<category><![CDATA[chinese labs]]></category>
-		<category><![CDATA[high flyer]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2949475</guid>
-
-					<description><![CDATA[<p>Chinese AI lab DeepSeek has released an open version of DeepSeek-R1, its so-called reasoning model, that it claims performs as well as OpenAI&#8217;s o1 on certain AI benchmarks. R1 is available from the AI dev platform Hugging Face under an MIT license, meaning it can be used commercially without restrictions. According to DeepSeek, R1 beats [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>RedNote, Flip, Clapper and Likee claim the top of the App Store as TikTok comes back online</title>
-		<link>https://techcrunch.com/2025/01/20/rednote-flip-clapper-and-likee-claim-the-top-of-the-app-store-as-tiktok-comes-back-online/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Mon, 20 Jan 2025 17:38:10 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[android apps]]></category>
-		<category><![CDATA[clapper]]></category>
-		<category><![CDATA[Flip]]></category>
-		<category><![CDATA[iOS apps]]></category>
-		<category><![CDATA[Likee]]></category>
-		<category><![CDATA[TikTok]]></category>
-		<category><![CDATA[TikTok Ban]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2949469</guid>
-
-					<description><![CDATA[<p>TikTok may be back, but that hasn&#8217;t prevented other Chinese competitors from gaining users. In the lead up to a ban on TikTok — which kicked off Sunday and lasted a day — a number of other video apps rose through the ranks and now dominate the App Store&#8217;s Top Charts. The Chinese app RedNote [&#8230;]</p>
+					<description><![CDATA[<p>Fintech giant Stripe is laying off 300 people, according to a leaked memo reported on Tuesday by Business Insider. The affected employees are “largely in product, engineering, and operations roles,” the memo said. Despite the layoffs, Chief People Officer Rob McIntosh said that Stripe intends to still grow its headcount by 17% “to land at [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
