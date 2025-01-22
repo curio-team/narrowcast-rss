@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 22 Jan 2025 14:20:48 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 Jan 2025 15:34:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,91 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Conduent confirms outage was due to a cybersecurity incident</title>
+		<link>https://techcrunch.com/2025/01/22/conduent-confirms-outage-was-due-to-a-cybersecurity-incident/</link>
+		
+		<dc:creator><![CDATA[Carly Page]]></dc:creator>
+		<pubDate>Wed, 22 Jan 2025 15:33:55 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Conduent]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[Outage]]></category>
+		<category><![CDATA[security]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2950875</guid>
+
+					<description><![CDATA[<p>U.S. government contractor Conduent, which provides technology to support services such as child support and food assistance, has confirmed that a recent outage was caused by a cybersecurity incident.  Conduent confirmed the disruption, which left some U.S. residents without access to support payments, to TechCrunch on Tuesday but declined to say whether the outage was [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI apps saw over $1 billion in consumer spending in 2024</title>
+		<link>https://techcrunch.com/2025/01/22/ai-apps-saw-over-1-billion-in-consumer-spending-in-2024/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 22 Jan 2025 15:31:33 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[ai apps]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[sensor tower]]></category>
+		<category><![CDATA[state of mobile]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2950892</guid>
+
+					<description><![CDATA[<p>Demand for generative AI help drive consumer spending on apps to $150 billion globally in 2024, up 13% from the prior year. According to an annual &#8220;State of Mobile&#8221; report from app intelligence provider Sensor Tower (which acquired Data.ai, the original report&#8217;s author, last March), AI apps saw a surge of interest over the past [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trump open to Elon Musk or Larry Ellison buying TikTok</title>
+		<link>https://techcrunch.com/2025/01/22/trump-open-to-elon-musk-or-larry-ellison-buying-tiktok/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Wed, 22 Jan 2025 15:01:37 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Donald Trump]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[Larry Ellison]]></category>
+		<category><![CDATA[TikTok]]></category>
+		<category><![CDATA[TikTok Ban]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2950897</guid>
+
+					<description><![CDATA[<p>President Donald Trump has said he would be open to Tesla CEO Elon Musk or Oracle chairman Larry Ellison buying TikTok as part of join venture with the U.S. government. Trump was asked at a press conference on Tuesday if he was open to &#8220;Elon buying TikTok.&#8221; He responded that he would be, and added: [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Databricks closes $15.3B financing at $62B valuation, Meta joins as &#8216;strategic investor&#8217;</title>
+		<link>https://techcrunch.com/2025/01/22/databricks-closes-15-3b-financing-at-62b-valuation-meta-joins-as-strategic-investor/</link>
+		
+		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
+		<pubDate>Wed, 22 Jan 2025 14:39:51 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Databricks]]></category>
+		<category><![CDATA[Meta]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2950882</guid>
+
+					<description><![CDATA[<p>Data analytics platform Databricks has confirmed that it has closed a previously announced $10 billion in Series J equity financing at a $62 billion valuation. The San Francisco-based company also added a further $5.25 billion in debt financing, funded by JPMorgan Chase, Barclays, Citi, Goldman Sachs, Morgan Stanley, among other &#8220;leading financial institutions and alternative [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>What PowerSchool isn’t saying about its ‘massive’ student data breach</title>
 		<link>https://techcrunch.com/2025/01/22/what-powerschool-isnt-saying-about-its-massive-student-data-breach/</link>
 		
@@ -354,97 +439,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2950376</guid>
 
 					<description><![CDATA[<p>Microsoft was once the exclusive provider of data center infrastructure for OpenAI to train and run its AI models. No longer. Coinciding with the announcement of Stargate, OpenAI&#8217;s massive new AI infrastructure deal with SoftBank, Oracle, and others, Microsoft says it has signed a new agreement with OpenAI that gives it &#8220;right of first refusal&#8221; [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI teams up with SoftBank and Oracle on $500B data center project</title>
-		<link>https://techcrunch.com/2025/01/21/openai-teams-up-with-softbank-and-oracle-on-50b-data-center-project/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 21 Jan 2025 23:08:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[data center]]></category>
-		<category><![CDATA[data centers]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[government]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[oracle]]></category>
-		<category><![CDATA[Softbank]]></category>
-		<category><![CDATA[stargate]]></category>
-		<category><![CDATA[texas]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2949976</guid>
-
-					<description><![CDATA[<p>OpenAI says that it will team up with Japanese conglomerate SoftBank and with Oracle, among others, to build multiple data centers for AI in the U.S. The joint venture, called the Stargate Project, will begin with a large data center project in Texas and eventually expand to other states.&#160;The companies expect to commit $100 billion [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Scale AI&#8217;s Alexandr Wang has published an open letter lobbying Trump to invest in AI</title>
-		<link>https://techcrunch.com/2025/01/21/scale-ais-alexandr-wang-has-published-an-open-letter-lobbying-trump-to-invest-in-ai/</link>
-		
-		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
-		<pubDate>Tue, 21 Jan 2025 22:12:51 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[government]]></category>
-		<category><![CDATA[White House]]></category>
-		<category><![CDATA[Scale AI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2950223</guid>
-
-					<description><![CDATA[<p>Scale AI's CEO Alexandr Wang has five recommendations for President Trump to keep the US ahead of China on AI.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Amperesand targets data centers as the next big customer for its solid-state transformers</title>
-		<link>https://techcrunch.com/2025/01/21/amperesand-targets-data-centers-as-the-next-big-customer-for-its-solid-state-transformers/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Tue, 21 Jan 2025 22:00:00 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Amperesand]]></category>
-		<category><![CDATA[data centers]]></category>
-		<category><![CDATA[electrical grid]]></category>
-		<category><![CDATA[electricity]]></category>
-		<category><![CDATA[EV charging]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[Solid State]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2949019</guid>
-
-					<description><![CDATA[<p>Amperesand’s technology replaces the iron cores that define old transformers with silicon carbide.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Startup founders flooded inauguration parties hopeful for dealmaking</title>
-		<link>https://techcrunch.com/2025/01/21/startup-founders-flooded-inauguration-parties-hopeful-for-dealmaking/</link>
-		
-		<dc:creator><![CDATA[Margaux MacColl]]></dc:creator>
-		<pubDate>Tue, 21 Jan 2025 21:53:39 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[doge]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[Mark Zuckerberg]]></category>
-		<category><![CDATA[Trump]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2950202</guid>
-
-					<description><![CDATA[<p>All throughout America’s capital, founders enjoyed the fruits of their industry’s political jockeying. </p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
