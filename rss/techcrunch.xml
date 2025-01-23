@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 23 Jan 2025 14:33:48 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 23 Jan 2025 15:28:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,139 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Meta&#8217;s Yann LeCun predicts a &#8216;new AI architectures paradigm&#8217; within 5 years and &#8216;decade of robotics&#8217;</title>
+		<link>https://techcrunch.com/2025/01/23/metas-yann-lecun-predicts-a-new-ai-architectures-paradigm-within-5-years-and-decade-of-robotics/</link>
+		
+		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 15:28:49 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[davos]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[Yann LeCun]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2951869</guid>
+
+					<description><![CDATA[<p>Meta&#8217;s chief AI scientist, Yann LeCun, says that a &#8220;new paradigm of AI architectures&#8221; will emerge in the next three to five years, going far beyond the capabilities of existing AI systems. LeCun also predicted that the coming years could be the &#8220;decade of robotics,&#8221; where advances in AI and robotics combine to unlock a [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ChatGPT suffered a major outage this morning, but OpenAI says it&#8217;s back up</title>
+		<link>https://techcrunch.com/2025/01/23/chatgpt-suffered-a-major-outage-this-morning-but-openai-says-its-back-up/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 15:25:07 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[chatgpt outage]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2951951</guid>
+
+					<description><![CDATA[<p>OpenAI&#8217;s AI chatbot platform, ChatGPT, suffered a major outage Thursday. Early this morning, ChatGPT users started reporting issues accessing ChatGPT on the web and other platforms. According to the ChatGPT status page on OpenAI&#8217;s website, OpenAI acknowledged the problem at 5:12 a.m. Pacific, and identified the root cause a little under an hour later. &#8220;[We] [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Coval evaluates AI voice and chat agents like self-driving cars</title>
+		<link>https://techcrunch.com/2025/01/23/coval-evaluates-ai-voice-and-chat-agents-like-self-driving-cars/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 15:01:49 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[AI agents]]></category>
+		<category><![CDATA[enterprise tech]]></category>
+		<category><![CDATA[VC]]></category>
+		<category><![CDATA[venture capital]]></category>
+		<category><![CDATA[Waymo]]></category>
+		<category><![CDATA[Y Combinator]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2951185</guid>
+
+					<description><![CDATA[<p>What do AI voice agents and self-driving cars have in common? Their performance can be evaluated in the same way, argues Brooke Hopkins, a former tech lead at Waymo. Coval, Hopkins&#8217; new startup, looks to do just that. &#8220;When I left Waymo, I realized a lot of these problems that we had at Waymo were [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Method is helping fintech companies like SoFi build repayment functionality into their apps</title>
+		<link>https://techcrunch.com/2025/01/23/method-is-helping-fintech-companies-like-sofi-build-repayment-functionality-into-their-apps/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 15:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[Funding]]></category>
+		<category><![CDATA[startup]]></category>
+		<category><![CDATA[Dev]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[method]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2938477</guid>
+
+					<description><![CDATA[<p>It can be challenging for developers of fintech apps to integrate repayment, balance transfer, and bill pay functionality. Devs often have to deal with a patchwork of brittle screen-scraping APIs to extract data from users&#8217; financial institutions — or worse, tools to process mounds of physical checks and paperwork. Three friends and entrepreneurs — Jose [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hugging Face claims its new AI models are the smallest of their kind</title>
+		<link>https://techcrunch.com/2025/01/23/hugging-face-claims-its-new-ai-models-are-the-smallest-of-their-kind/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 14:57:40 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Hugging Face]]></category>
+		<category><![CDATA[models]]></category>
+		<category><![CDATA[multimodal models]]></category>
+		<category><![CDATA[open models]]></category>
+		<category><![CDATA[open source ai]]></category>
+		<category><![CDATA[SmolVLM]]></category>
+		<category><![CDATA[vlms]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2951888</guid>
+
+					<description><![CDATA[<p>A team at AI dev platform Hugging Face has released what they&#8217;re claiming are the smallest AI models that can analyze images, short videos, and text. The models, SmolVLM-256M and SmolVLM-500M, are designed to work well on &#8220;constrained devices&#8221; like laptops with under around 1GB of RAM. The team says that they&#8217;re also ideal for [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Snap launches a new way to reward AR creators, rolls out student pricing for Spectacles</title>
+		<link>https://techcrunch.com/2025/01/23/snap-launches-a-new-way-to-reward-ar-creators-rolls-out-student-pricing-for-spectacles/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 14:53:51 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Snap]]></category>
+		<category><![CDATA[Snapchat]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2951904</guid>
+
+					<description><![CDATA[<p>Snap announced on Thursday that it&#8217;s introducing a new &#8220;Challenge Tags&#8221; rewards program for AR developers to win cash prizes for submitting Lenses. The company also announced that it&#8217;s launching educational pricing and a student discount for Spectacles, its developer-focused AR glasses. The theme of the first Challenge Tag is humor and is open through [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Fundraise Up claims its AI can boost nonprofit donations</title>
 		<link>https://techcrunch.com/2025/01/23/fundraise-up-claims-its-ai-can-boost-nonprofit-donations/</link>
 		
@@ -317,134 +450,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2951733</guid>
 
 					<description><![CDATA[<p>Caffeinated Capital, a San Francisco venture firm started by a solo capitalist Raymond Tonsing, is raising a fifth fund of $400 million, according to a regulatory filing. The firm, an early investor in software company Airtable and defense startup Saronic, has already raised $160 million toward the fund. If Caffeinated hits its target, it will [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ati Motors raises $20M as India&#8217;s robotics industry grows</title>
-		<link>https://techcrunch.com/2025/01/22/ati-motors-raises-20m-as-indias-robotics-industry-grows/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 00:30:00 +0000</pubDate>
-				<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[India]]></category>
-		<category><![CDATA[NGP capital]]></category>
-		<category><![CDATA[Walden Catalyst]]></category>
-		<category><![CDATA[Ati Motors]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2950956</guid>
-
-					<description><![CDATA[<p>Ati Motors, an Indian startup building AI-powered autonomous mobile robots, has raised $20 million in a Series B round.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft&#8217;s head of venture has resigned</title>
-		<link>https://techcrunch.com/2025/01/22/microsofts-head-of-venture-has-resigned/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 00:16:33 +0000</pubDate>
-				<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[chris young]]></category>
-		<category><![CDATA[M12]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2951613</guid>
-
-					<description><![CDATA[<p>Chris Young, Microsoft's head of of business development and its venture unit, M12, resigned from his role on Wednesday, the company said.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nearly 10 years later, Tumblr TV launches to all as a TikTok alternative</title>
-		<link>https://techcrunch.com/2025/01/22/nearly-10-years-later-tumblr-tv-launches-to-all-as-a-tiktok-alternative/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Wed, 22 Jan 2025 22:18:56 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Video]]></category>
-		<category><![CDATA[TikTok]]></category>
-		<category><![CDATA[tumblr]]></category>
-		<category><![CDATA[TikTok Ban]]></category>
-		<category><![CDATA[tumblr tv]]></category>
-		<category><![CDATA[video feed]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2951449</guid>
-
-					<description><![CDATA[<p>In 2015, the blogging site Tumblr launched a GIF discovery feature called Tumblr TV as an experimental product. Now, with the U.S. TikTok ban leaving the fate of the short-form video app uncertain, Tumblr has decided it&#8217;s finally time to launch Tumblr TV, which has since evolved to support video, to all its users as [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Scale AI is facing a third worker lawsuit in about a month </title>
-		<link>https://techcrunch.com/2025/01/22/scale-ai-is-facing-a-third-worker-lawsuit-in-about-a-month/</link>
-		
-		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
-		<pubDate>Wed, 22 Jan 2025 22:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[labor practices]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[Scale AI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2951253</guid>
-
-					<description><![CDATA[<p>In this suit, workers are claiming they suffered PTSD from disturbing content.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>How to delete Facebook, Instagram, and Threads</title>
-		<link>https://techcrunch.com/2025/01/22/how-to-delete-facebook-instagram-and-threads/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Wed, 22 Jan 2025 21:50:16 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[Facebook]]></category>
-		<category><![CDATA[Instagram]]></category>
-		<category><![CDATA[Mark Zuckerberg]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[Threads]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2944909</guid>
-
-					<description><![CDATA[<p>In the wake of Meta’s decision to remove its third-party fact-checking system and loosen content moderation policies, Google searches on how to delete Facebook, Instagram, and Threads have been on the rise. People who are angry with the decision accuse Meta CEO Mark Zuckerberg of cozying up to the Trump administration at the expense of [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rent-to-own startup Divvy Homes selling to Brookfield for about $1 billion</title>
-		<link>https://techcrunch.com/2025/01/22/rent-to-own-startup-divvy-homes-selling-to-brookfield-for-about-1-billion/</link>
-		
-		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
-		<pubDate>Wed, 22 Jan 2025 21:42:59 +0000</pubDate>
-				<category><![CDATA[Real estate]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Divvy Homes]]></category>
-		<category><![CDATA[Mergers and Acquisitions]]></category>
-		<category><![CDATA[PropTech]]></category>
-		<category><![CDATA[Real Estate Tech]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2951499</guid>
-
-					<description><![CDATA[<p>After a turbulent few years for proptech, Divvy Homes announced Wednesday that it is selling to a division of Brookfield Properties for about $1 billion.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
