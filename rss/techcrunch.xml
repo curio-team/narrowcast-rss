@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 23 Jan 2025 06:43:08 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 23 Jan 2025 10:34:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,7 +31,46 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>WhatsApp wins reprieve in India over user data sharing</title>
+		<title>OpenAI may preview its agent tool for users on the $200 per month Pro plan</title>
+		<link>https://techcrunch.com/2025/01/23/openais-agent-tool-will-be-available-to-users-paying-200-per-month-for-pro/</link>
+		
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 10:34:44 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[ChatGPT Operator]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[operator]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2951840</guid>
+
+					<description><![CDATA[<p>We may see OpenAI’s agent tool, Operator, released sooner rather than later. Changes to ChatGPT’s code base suggest that Operator will be available as an early research preview to users on the $200 Pro subscription plan. The changes aren’t yet publicly visible, but a user on X who goes by Choi spotted these updates in [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>UK probes Apple and Google over &#8216;mobile ecosystem&#8217; market power</title>
+		<link>https://techcrunch.com/2025/01/23/uk-probes-apple-and-google-over-mobile-ecosystem-market-power/</link>
+		
+		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 10:27:10 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[SMS]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2951841</guid>
+
+					<description><![CDATA[<p>The U.K.&#8217;s Competition and Markets Authority (CMA) is launching so-called &#8220;strategic market status&#8221; (SMS) investigations into the mobile ecosystems of Apple and Google. The investigations constitute part of the new Digital Markets, Competition and Consumers Act (DMCCA) which passed last year and came into effect in January. The Act includes provisions for digital markets regulation [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>WhatsApp wins reprieve in India over sharing user data with Meta</title>
 		<link>https://techcrunch.com/2025/01/22/whatsapp-wins-reprieve-in-india-over-user-data-sharing/</link>
 		
 		<dc:creator><![CDATA[Manish Singh]]></dc:creator>
@@ -60,10 +99,10 @@
 		<category><![CDATA[Biotech & Health]]></category>
 		<category><![CDATA[Fundraising]]></category>
 		<category><![CDATA[TC]]></category>
-		<category><![CDATA[body scan]]></category>
 		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[Neko Health]]></category>
+		<category><![CDATA[body scan]]></category>
 		<category><![CDATA[preventative healthcare]]></category>
+		<category><![CDATA[Neko Health]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2951704</guid>
 
 					<description><![CDATA[<p>Stockholm startup Neko Health has made a big bet on consumers wanting to learn about their state of health and how to prevent things going wrong. Now, investors are making a big bet on Neko.&#160; The startup has raised a fresh $260 million in funding, a Series B that values Neko at $1.8 billion post-money, [&#8230;]</p>
@@ -406,52 +445,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2950487</guid>
 
 					<description><![CDATA[<p>Hiya, folks, welcome to TechCrunch’s regular AI newsletter. If you want this in your inbox every Wednesday, sign up&#160;here. OpenAI is making gains at the expense of its chief rivals. On Tuesday, the company announced the Stargate Project, a new joint venture involving Japanese conglomerate SoftBank, Oracle, and others to build AI infrastructure for OpenAI in [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Streaming service Plex gets more social with public profiles and reviews</title>
-		<link>https://techcrunch.com/2025/01/22/streaming-service-plex-gets-more-social-with-public-profiles-and-reviews/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Wed, 22 Jan 2025 18:15:02 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[movies]]></category>
-		<category><![CDATA[plex]]></category>
-		<category><![CDATA[social networking]]></category>
-		<category><![CDATA[streaming]]></category>
-		<category><![CDATA[streaming service]]></category>
-		<category><![CDATA[tv]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2951028</guid>
-
-					<description><![CDATA[<p>Streaming service Plex has long since grown beyond its original focus of being a home for personal media to offer a more comprehensive solution for discovering, streaming, and sharing content across services, including Plex&#8217;s own ad-supported free TV and movies. More recently, the company added social networking features, which it&#8217;s today expanding with its rollout [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Zombie nuclear reactors could be revived thanks to AI data center demand</title>
-		<link>https://techcrunch.com/2025/01/22/zombie-nuclear-reactors-could-be-revived-thanks-to-ai-data-center-demand/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Wed, 22 Jan 2025 18:13:41 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[data centers]]></category>
-		<category><![CDATA[fission]]></category>
-		<category><![CDATA[nuclear power]]></category>
-		<category><![CDATA[South Carolina]]></category>
-		<category><![CDATA[Westinghouse]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2951097</guid>
-
-					<description><![CDATA[<p>Hoping to capitalize on the data center power boom, state-owned utility Santee Cooper is looking for partners to finish construction on two incomplete reactors.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
