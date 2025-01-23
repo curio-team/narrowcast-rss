@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 23 Jan 2025 12:43:29 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 23 Jan 2025 13:19:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Quantum VC QDNL hits €25M first-close on new fund</title>
+		<link>https://techcrunch.com/2025/01/23/quantum-vc-qdnl-hits-e25m-first-close-on-new-fund/</link>
+		
+		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 13:19:27 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Quantum]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2951884</guid>
+
+					<description><![CDATA[<p>VC investment into Quantum computing declined by 50% last year according to the ‘State of Quantum 2024’ report, dropping from $2.2bn in 2022 to $1.2bn, with funds switching in favour of Generative AI. However, government spending on quantum was predicted to hit $40 billion over the next decade. Now a new VC European fund hopes [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Everstone acquires bootstrapped Indian startup Wingify for $200M</title>
 		<link>https://techcrunch.com/2025/01/23/everstone-acquires-bootstrapped-indian-startup-wingify-for-200m/</link>
 		
@@ -422,27 +440,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2951440</guid>
 
 					<description><![CDATA[<p>Samsung Unpacked’s “one more thing” was a bit of a weird one. After the presentation ended, the company rolled a brief pre-packaged video of the Galaxy Edge — not to be confused with the &#8220;Star Wars&#8221; theme park of the same name. Though limited, the reveal was confirmation of earlier rumors that the hardware giant [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Researchers develop a way to power wearables through human skin</title>
-		<link>https://techcrunch.com/2025/01/22/researchers-develop-a-way-to-power-wearables-through-human-skin/</link>
-		
-		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
-		<pubDate>Wed, 22 Jan 2025 20:40:24 +0000</pubDate>
-				<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[carnegie mellon university]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[smartglasses]]></category>
-		<category><![CDATA[wearables]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2951393</guid>
-
-					<description><![CDATA[<p>The dream of battery-free devices has taken an unlikely turn, as Carnegie Mellon researchers debuted Power-Over-Skin. The technology allows for electrical currents to travel through human skin in a bid to power things like blood sugar monitors, pacemakers, and even consumer wearables like smart glasses and fitness trackers. Researchers note the tech is still in [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
