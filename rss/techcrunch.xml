@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 23 Jan 2025 15:28:55 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 24 Jan 2025 08:18:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,320 +31,18 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Meta&#8217;s Yann LeCun predicts a &#8216;new AI architectures paradigm&#8217; within 5 years and &#8216;decade of robotics&#8217;</title>
-		<link>https://techcrunch.com/2025/01/23/metas-yann-lecun-predicts-a-new-ai-architectures-paradigm-within-5-years-and-decade-of-robotics/</link>
-		
-		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 15:28:49 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[davos]]></category>
-		<category><![CDATA[Facebook]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[Yann LeCun]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2951869</guid>
-
-					<description><![CDATA[<p>Meta&#8217;s chief AI scientist, Yann LeCun, says that a &#8220;new paradigm of AI architectures&#8221; will emerge in the next three to five years, going far beyond the capabilities of existing AI systems. LeCun also predicted that the coming years could be the &#8220;decade of robotics,&#8221; where advances in AI and robotics combine to unlock a [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ChatGPT suffered a major outage this morning, but OpenAI says it&#8217;s back up</title>
-		<link>https://techcrunch.com/2025/01/23/chatgpt-suffered-a-major-outage-this-morning-but-openai-says-its-back-up/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 15:25:07 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[artificial intelligence]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[chatgpt outage]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2951951</guid>
-
-					<description><![CDATA[<p>OpenAI&#8217;s AI chatbot platform, ChatGPT, suffered a major outage Thursday. Early this morning, ChatGPT users started reporting issues accessing ChatGPT on the web and other platforms. According to the ChatGPT status page on OpenAI&#8217;s website, OpenAI acknowledged the problem at 5:12 a.m. Pacific, and identified the root cause a little under an hour later. &#8220;[We] [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Coval evaluates AI voice and chat agents like self-driving cars</title>
-		<link>https://techcrunch.com/2025/01/23/coval-evaluates-ai-voice-and-chat-agents-like-self-driving-cars/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 15:01:49 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[AI agents]]></category>
-		<category><![CDATA[enterprise tech]]></category>
-		<category><![CDATA[VC]]></category>
-		<category><![CDATA[venture capital]]></category>
-		<category><![CDATA[Waymo]]></category>
-		<category><![CDATA[Y Combinator]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2951185</guid>
-
-					<description><![CDATA[<p>What do AI voice agents and self-driving cars have in common? Their performance can be evaluated in the same way, argues Brooke Hopkins, a former tech lead at Waymo. Coval, Hopkins&#8217; new startup, looks to do just that. &#8220;When I left Waymo, I realized a lot of these problems that we had at Waymo were [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Method is helping fintech companies like SoFi build repayment functionality into their apps</title>
-		<link>https://techcrunch.com/2025/01/23/method-is-helping-fintech-companies-like-sofi-build-repayment-functionality-into-their-apps/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[api]]></category>
-		<category><![CDATA[App]]></category>
-		<category><![CDATA[Funding]]></category>
-		<category><![CDATA[startup]]></category>
-		<category><![CDATA[Dev]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[method]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2938477</guid>
-
-					<description><![CDATA[<p>It can be challenging for developers of fintech apps to integrate repayment, balance transfer, and bill pay functionality. Devs often have to deal with a patchwork of brittle screen-scraping APIs to extract data from users&#8217; financial institutions — or worse, tools to process mounds of physical checks and paperwork. Three friends and entrepreneurs — Jose [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hugging Face claims its new AI models are the smallest of their kind</title>
-		<link>https://techcrunch.com/2025/01/23/hugging-face-claims-its-new-ai-models-are-the-smallest-of-their-kind/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 14:57:40 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Hugging Face]]></category>
-		<category><![CDATA[models]]></category>
-		<category><![CDATA[multimodal models]]></category>
-		<category><![CDATA[open models]]></category>
-		<category><![CDATA[open source ai]]></category>
-		<category><![CDATA[SmolVLM]]></category>
-		<category><![CDATA[vlms]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2951888</guid>
-
-					<description><![CDATA[<p>A team at AI dev platform Hugging Face has released what they&#8217;re claiming are the smallest AI models that can analyze images, short videos, and text. The models, SmolVLM-256M and SmolVLM-500M, are designed to work well on &#8220;constrained devices&#8221; like laptops with under around 1GB of RAM. The team says that they&#8217;re also ideal for [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Snap launches a new way to reward AR creators, rolls out student pricing for Spectacles</title>
-		<link>https://techcrunch.com/2025/01/23/snap-launches-a-new-way-to-reward-ar-creators-rolls-out-student-pricing-for-spectacles/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 14:53:51 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Snap]]></category>
-		<category><![CDATA[Snapchat]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2951904</guid>
-
-					<description><![CDATA[<p>Snap announced on Thursday that it&#8217;s introducing a new &#8220;Challenge Tags&#8221; rewards program for AR developers to win cash prizes for submitting Lenses. The company also announced that it&#8217;s launching educational pricing and a student discount for Spectacles, its developer-focused AR glasses. The theme of the first Challenge Tag is humor and is open through [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fundraise Up claims its AI can boost nonprofit donations</title>
-		<link>https://techcrunch.com/2025/01/23/fundraise-up-claims-its-ai-can-boost-nonprofit-donations/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Funding]]></category>
-		<category><![CDATA[startup]]></category>
-		<category><![CDATA[donations]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[nonprofit]]></category>
-		<category><![CDATA[fundraise up]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2949842</guid>
-
-					<description><![CDATA[<p>Many nonprofits are stuck with outdated, expensive, and limited tech that hinders their ability to fund their mission or cause. While most consider adopting tech to be a priority, they&#8217;re faced with a number of blockers, including siloed data and issues with integration. Peter Byrnes, the co-founder of Fundraise Up, a Brooklyn-based fundraising platform for [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tive&#8217;s tools help companies track the status of their shipments in real time</title>
-		<link>https://techcrunch.com/2025/01/23/tives-tools-help-companies-track-the-status-of-their-shipments-in-real-time/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[freight]]></category>
-		<category><![CDATA[Funding]]></category>
-		<category><![CDATA[startup]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[shipments]]></category>
-		<category><![CDATA[tracking]]></category>
-		<category><![CDATA[logistics]]></category>
-		<category><![CDATA[supply chain]]></category>
-		<category><![CDATA[Tive]]></category>
-		<category><![CDATA[freight tracking]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2949956</guid>
-
-					<description><![CDATA[<p>The global supply chain is under strain, and one of the reasons is a lack of visibility into how shipments are being transported around the world. According to one recent survey, nearly half of the organizations polled reported having little-to-no visibility into their upstream supply chains. In search of a remedy, Krenar Komoni, who&#8217;d for [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Y Combinator grad Spaceium raises oversubscribed $6.3M for space re-fueling</title>
-		<link>https://techcrunch.com/2025/01/23/space-re-fueling-startup-spacium-raises-6-3-million/</link>
-		
-		<dc:creator><![CDATA[Margaux MacColl]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[Space]]></category>
-		<category><![CDATA[spacetech]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2951557</guid>
-
-					<description><![CDATA[<p>The company raised a $6.3 million seed round led by Initialized Capital</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Quantum VC QDNL hits €25M first-close on new fund</title>
-		<link>https://techcrunch.com/2025/01/23/quantum-vc-qdnl-hits-e25m-first-close-on-new-fund/</link>
-		
-		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 13:19:27 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Quantum]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2951884</guid>
-
-					<description><![CDATA[<p>VC investment into Quantum computing declined by 50% last year according to the ‘State of Quantum 2024’ report, dropping from $2.2bn in 2022 to $1.2bn, with funds switching in favour of Generative AI. However, government spending on quantum was predicted to hit $40 billion over the next decade. Now a new VC European fund hopes [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Everstone acquires bootstrapped Indian startup Wingify for $200M</title>
-		<link>https://techcrunch.com/2025/01/23/everstone-acquires-bootstrapped-indian-startup-wingify-for-200m/</link>
+		<title>Tata acquires 60% stake in Apple partner Pegatron&#8217;s India unit</title>
+		<link>https://techcrunch.com/2025/01/24/tata-acquires-60-stake-in-apple-partner-pegatron-india-unit/</link>
 		
 		<dc:creator><![CDATA[Manish Singh]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 12:43:21 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Everstone]]></category>
-		<category><![CDATA[India]]></category>
-		<category><![CDATA[Wingify]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2951875</guid>
-
-					<description><![CDATA[<p>Private equity firm Everstone has reached a deal to acquire a majority stake in Wingify, one of India&#8217;s earliest bootstrapped software-as-a-service success stories, for about $200 million, three sources familiar with the matter told TechCrunch. The deal, finalized this week, marks a significant exit for Wingify&#8217;s founder Paras Chopra, who built the SaaS startup without [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>African fintech Moniepoint gets Visa backing, plans to work on contactless payments</title>
-		<link>https://techcrunch.com/2025/01/23/african-fintech-moniepoint-gets-visa-backing/</link>
-		
-		<dc:creator><![CDATA[Tage Kene-Okafor]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 12:01:26 +0000</pubDate>
-				<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Africa]]></category>
-		<category><![CDATA[contactless payments]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[investment]]></category>
-		<category><![CDATA[moniepoint]]></category>
-		<category><![CDATA[visa]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2951063</guid>
-
-					<description><![CDATA[<p>Visa has joined African fintech Moniepoint as a new investor. The business banking and payments platform confirmed to TechCrunch that it received a “strategic investment” from the global payments giant as both companies look to drive financial inclusion and support the growth of small and medium-sized enterprises (SMEs) across Africa. Sources close to the deal [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI may preview its agent tool for users on the $200 per month Pro plan</title>
-		<link>https://techcrunch.com/2025/01/23/openais-agent-tool-will-be-available-to-users-paying-200-per-month-for-pro/</link>
-		
-		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 10:34:44 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[ChatGPT Operator]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[operator]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2951840</guid>
-
-					<description><![CDATA[<p>We may see OpenAI’s agent tool, Operator, released sooner rather than later. Changes to ChatGPT’s code base suggest that Operator will be available as an early research preview to users on the $200 Pro subscription plan. The changes aren’t yet publicly visible, but a user on X who goes by Choi spotted these updates in [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>UK probes Apple and Google over &#8216;mobile ecosystem&#8217; market power</title>
-		<link>https://techcrunch.com/2025/01/23/uk-probes-apple-and-google-over-mobile-ecosystem-market-power/</link>
-		
-		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 10:27:10 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
+		<pubDate>Fri, 24 Jan 2025 08:05:40 +0000</pubDate>
+				<category><![CDATA[Venture]]></category>
 		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[SMS]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2951841</guid>
-
-					<description><![CDATA[<p>The U.K.&#8217;s Competition and Markets Authority (CMA) is launching &#8220;strategic market status&#8221; (SMS) investigations into the mobile ecosystems of Apple and Google. The investigations constitute part of the new Digital Markets, Competition and Consumers (DMCC) Act that passed last year and came into effect in January. The Act includes new powers for the CMA to [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>WhatsApp wins reprieve in India over sharing user data with Meta</title>
-		<link>https://techcrunch.com/2025/01/22/whatsapp-wins-reprieve-in-india-over-user-data-sharing/</link>
-		
-		<dc:creator><![CDATA[Manish Singh]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 06:22:01 +0000</pubDate>
-				<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[Social]]></category>
 		<category><![CDATA[India]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[WhatsApp]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2951823</guid>
+		<category><![CDATA[pegatron]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2952763</guid>
 
-					<description><![CDATA[<p>An Indian tribunal on Thursday suspended restrictions that would have barred WhatsApp from sharing user data with its parent company Meta, delivering a significant victory for Mark Zuckerberg&#8217;s social media empire in its largest market by users. The ruling by the National Company Law Appellate Tribunal temporarily lifts a five-year ban imposed by India&#8217;s antitrust [&#8230;]</p>
+					<description><![CDATA[<p>Tata Electronics has acquired a 60% controlling stake in the Indian arm of Apple assembly partner, Pegatron, as the conglomerate expands its iPhone manufacturing capacity in the country. Taiwan-based Pegatron operates an iPhone production plant near Chennai in India&#8217;s sourthern state of Tamil Nadu. The deal comes less than a year after Tata Electronics acquired [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -352,104 +50,406 @@
 		
 			</item>
 		<item>
-		<title>Neko, the body-scanning startup co-founded by Spotify&#8217;s Daniel Ek, snaps up $260M at a $1.8B valuation</title>
-		<link>https://techcrunch.com/2025/01/22/neko-the-body-scanning-startup-co-founded-by-spotifys-daniel-ek-snaps-up-260m-at-a-1-8b-valuation/</link>
-		
-		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 06:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[body scan]]></category>
-		<category><![CDATA[preventative healthcare]]></category>
-		<category><![CDATA[Neko Health]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2951704</guid>
-
-					<description><![CDATA[<p>Stockholm startup Neko Health has made a big bet on consumers wanting to learn about their state of health and how to prevent things going wrong. Now, investors are making a big bet on Neko.&#160; The startup has raised a fresh $260 million in funding, a Series B that values Neko at $1.8 billion post-money, [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Someone bought the domain &#8216;OGOpenAI&#8217; and redirected it to a Chinese AI lab</title>
-		<link>https://techcrunch.com/2025/01/22/someone-bought-the-domain-ogopenai-and-redirected-it-to-a-chinese-ai-lab/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 04:56:36 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[deepseek]]></category>
-		<category><![CDATA[domain]]></category>
-		<category><![CDATA[domain name]]></category>
-		<category><![CDATA[ogopenai.com]]></category>
-		<category><![CDATA[open source ai]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2951727</guid>
-
-					<description><![CDATA[<p>A software engineer has bought the website &#8220;OGOpenAI.com&#8221; and redirected it to DeepSeek, a Chinese AI lab that&#8217;s been making waves in the open source AI world lately. Software engineer Ananay Arora tells TechCrunch that he bought the domain name for &#8220;less than a Chipotle meal,&#8221; and that he plans to sell it for more. [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google buys part of HTC&#8217;s XR business for $250 million</title>
-		<link>https://techcrunch.com/2025/01/22/google-buys-part-of-htc-virtual-reality-unit-for-250-million/</link>
-		
-		<dc:creator><![CDATA[Manish Singh]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 04:00:38 +0000</pubDate>
-				<category><![CDATA[Gadgets]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[HTC]]></category>
-		<category><![CDATA[HTC Vive]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2951809</guid>
-
-					<description><![CDATA[<p>Google has agreed to acquire a part of HTC&#8217;s extended reality (XR) business for $250 million, expanding its push into virtual and augmented reality hardware following the recent launch of its Android XR platform. The deal involves transferring some of the HTC VIVE engineering staff to Google and granting non-exclusive intellectual property rights, according to [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Some shareholders of a16z-backed Divvy Homes may not see a dime from $1B sale</title>
-		<link>https://techcrunch.com/2025/01/22/some-shareholders-of-a16z-backed-divvy-homes-may-not-see-a-dime-from-1b-sale/</link>
-		
-		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 02:16:08 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[a16z]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[PropTech]]></category>
-		<category><![CDATA[real estate]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2951744</guid>
-
-					<description><![CDATA[<p>The $1 billion acquisition of rent-to-own startup Divvy Homes, which was announced Wednesday, is expected to leave some shareholders without a payout, according to sources familiar with the deal.&#160; The terms — and Divvy’s journey from buzzy startup to acquisition target — reflects the rollercoaster ride the proptech industry has endured over the past decade. [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Raymond Tonsing’s Caffeinated Capital seeks $400M for fifth fund</title>
-		<link>https://techcrunch.com/2025/01/22/raymond-tonsings-caffeinated-capital-seeks-400m-for-fifth-fund/</link>
+		<title>Madrona just announced its biggest fund ever, closing on $770M as other venture funds grow smaller</title>
+		<link>https://techcrunch.com/2025/01/23/madrona-just-announced-its-biggest-fund-ever-closing-on-770m-as-other-venture-funds-grow-smaller/</link>
 		
 		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 01:48:52 +0000</pubDate>
+		<pubDate>Fri, 24 Jan 2025 06:13:19 +0000</pubDate>
 				<category><![CDATA[Fundraising]]></category>
 		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[affirm]]></category>
-		<category><![CDATA[Airtable]]></category>
-		<category><![CDATA[caffeinated capital]]></category>
-		<category><![CDATA[saronic]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2951733</guid>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Madrona Ventures]]></category>
+		<category><![CDATA[Snowflake]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2952671</guid>
 
-					<description><![CDATA[<p>Caffeinated Capital, a San Francisco venture firm started by a solo capitalist Raymond Tonsing, is raising a fifth fund of $400 million, according to a regulatory filing. The firm, an early investor in software company Airtable and defense startup Saronic, has already raised $160 million toward the fund. If Caffeinated hits its target, it will [&#8230;]</p>
+					<description><![CDATA[<p>Seattle-based Madrona Capital is celebrating its 30 years in business by raising $770 million in fresh capital. This is the firm&#8217;s largest fundraise to date, exceeding $690 million across two funds Madrona closed in 2022.&#160; While an 11% capital pool upsize may not seem significant, any increase at a time when many venture outfits are [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Reliance plans world&#8217;s biggest AI data centre in India, report says</title>
+		<link>https://techcrunch.com/2025/01/23/reliance-plans-world-biggest-ai-data-centre-in-india-report-says/</link>
+		
+		<dc:creator><![CDATA[Manish Singh]]></dc:creator>
+		<pubDate>Fri, 24 Jan 2025 02:23:03 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[Mukesh Ambani]]></category>
+		<category><![CDATA[reliance industries]]></category>
+		<category><![CDATA[Reliance Retail]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2952722</guid>
+
+					<description><![CDATA[<p>Mukesh Ambani&#8217;s Reliance is planning to build what could become the world&#8217;s largest data center in Jamnagar, India, with a capacity of three gigawatts to capitalize on surging AI demand. The facility would dwarf the current largest data center, Microsoft&#8217;s 600-megawatt site in Virginia, Bloomberg reported Friday. The project could cost between $20 billion to [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tesla&#8217;s redesigned Model Y is coming to North America in March for $60,000</title>
+		<link>https://techcrunch.com/2025/01/23/teslas-redesigned-model-y-is-coming-to-north-america-in-march-for-60000/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Fri, 24 Jan 2025 01:16:18 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[model y]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2952672</guid>
+
+					<description><![CDATA[<p>Tesla has announced that its redesigned Model Y SUV is coming to the U.S., Canada, and Mexico in March, with a starting price just shy of $60,000. The news comes just two weeks after Tesla revealed the new-look Model Y and said the SUV was coming to China and other Asian markets, also in March. [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Even some of the best AI can&#8217;t beat this new benchmark</title>
+		<link>https://techcrunch.com/2025/01/23/even-some-of-the-best-ai-cant-beat-this-new-benchmark/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 23:29:25 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Benchmark]]></category>
+		<category><![CDATA[benchmarking]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2952545</guid>
+
+					<description><![CDATA[<p>The nonprofit Center for AI Safety (CAIS) and Scale AI, a company that provides a number of data labeling and AI development services, have released a challenging new benchmark for frontier AI systems. The benchmark, called Humanity&#8217;s Last Exam, includes thousands of crowdsourced questions touching on subjects like mathematics, humanities, and the natural sciences.&#160;To make [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>JetBrains launches Junie, a new AI coding agent for its IDEs</title>
+		<link>https://techcrunch.com/2025/01/23/jetbrains-launches-junie-a-new-ai-coding-agent-for-its-ides/</link>
+		
+		<dc:creator><![CDATA[Frederic Lardinois]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 22:10:03 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[agentic]]></category>
+		<category><![CDATA[coding agent]]></category>
+		<category><![CDATA[JetBrains]]></category>
+		<category><![CDATA[junie]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2952511</guid>
+
+					<description><![CDATA[<p>JetBrains, the company behind coding tools like the IntelliJ IDE for Java and Kotlin (and, indeed, the Kotlin language itself), on Thursday launched Junie, a new AI coding agent. This agent, the company says, will be able to handle routine development tasks for when you want to create new applications — and understand the context [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trump orders formation of working group to evaluate crypto stockpile</title>
+		<link>https://techcrunch.com/2025/01/23/trump-orders-formation-of-working-group-to-evaluate-crypto-stockpile/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 22:01:35 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[Trump]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2952451</guid>
+
+					<description><![CDATA[<p>President Donald Trump on Thursday ordered the formation of a working group to propose federal regulations for &#8220;digital assets&#8221; &#8212; including cryptocurrencies, digital tokens, and stablecoins &#8212; and evaluate a national crypto stockpile. Ex-PayPal COO and founder of VC firm Craft Ventures David Sacks, Trump&#8217;s pick for crypto an AI &#8220;czar,&#8221; will lead the working [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI says it may store deleted Operator data for up to 90 days</title>
+		<link>https://techcrunch.com/2025/01/23/openai-says-it-may-store-deleted-operator-data-for-up-to-90-days/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 22:00:29 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[data retention]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[operator]]></category>
+		<category><![CDATA[privacy]]></category>
+		<category><![CDATA[security]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2952436</guid>
+
+					<description><![CDATA[<p>OpenAI says that it might store chats and associated screenshots from customers who use Operator, the company&#8217;s AI &#8220;agent&#8221; tool, for up to 90 days — even after a user manually deletes them. OpenAI has a similar deleted data retention policy for ChatGPT, its AI-powered chatbot platform. However, the retention period for ChatGPT is only [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Everyone wants MrBeast on their TikTok bid, but he hasn&#8217;t committed yet</title>
+		<link>https://techcrunch.com/2025/01/23/everyone-wants-mrbeast-on-their-tiktok-bid-but-he-hasnt-committed-yet/</link>
+		
+		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 21:51:49 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Employer.com]]></category>
+		<category><![CDATA[Jimmy Donaldson]]></category>
+		<category><![CDATA[MrBeast]]></category>
+		<category><![CDATA[TikTok]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2952492</guid>
+
+					<description><![CDATA[<p>MrBeast is in talks to join a number of bids to buy TikTok, but he hasn't chosen any of them exclusively yet.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anthropic&#8217;s new Citations feature aims to reduce AI errors</title>
+		<link>https://techcrunch.com/2025/01/23/anthropics-new-citations-feature-aims-to-reduce-ai-errors/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 20:53:35 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[citations]]></category>
+		<category><![CDATA[developers]]></category>
+		<category><![CDATA[Devs]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[hallucinations]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2952355</guid>
+
+					<description><![CDATA[<p>In an announcement perhaps timed to divert attention away from OpenAI&#8217;s Operator, Anthropic Thursday unveiled a new feature for its developer API called Citations, which lets devs &#8220;ground&#8221; answers from its Claude family of AI in source documents such as emails. Anthropic says Citations allows its AI models to provide detailed references to &#8220;the exact [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fitbit fined $12M over Ionic smartwatch burns</title>
+		<link>https://techcrunch.com/2025/01/23/fitbit-fined-12m-over-ionic-smartwatch-burns/</link>
+		
+		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 20:38:52 +0000</pubDate>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[cpsc]]></category>
+		<category><![CDATA[fitbit]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[ionic]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2952415</guid>
+
+					<description><![CDATA[<p>Fitbit has settled with the U.S. Consumer Product Safety Commission (CPSC) over a long-standing defect that caused some wearers to sustain burns. The deal finds the Google-owned fitness company paying a $12.25 million penalty for the issues surrounding its Ionic smartwatch. The issue dates back to 2018, continuing on into 2020. Fitbit agreed to recall [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Threads rolls out a post scheduler, &#8216;markup&#8217; feature, and more</title>
+		<link>https://techcrunch.com/2025/01/23/threads-rolls-out-a-post-scheduler-markup-feature-and-more/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 20:23:18 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Creators]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[Threads]]></category>
+		<category><![CDATA[tools]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2952368</guid>
+
+					<description><![CDATA[<p>While Meta lures TikTok creators to Instagram and Facebook with cash bonuses, its X competitor Instagram Threads is now making things easier for creators, brands, and others who need more professional tools to manage their presence on the app. On Thursday, Instagram head Adam Mosseri announced a small handful of new features coming to Threads, [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tom Brady&#8217;s Autograph merges with digital fitness company Future</title>
+		<link>https://techcrunch.com/2025/01/23/tom-bradys-autograph-merges-with-digital-fitness-company-future/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 20:06:50 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[autograph]]></category>
+		<category><![CDATA[celebrity]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[fitness]]></category>
+		<category><![CDATA[tom brady]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2952304</guid>
+
+					<description><![CDATA[<p>Autograph, the NFT company co-founded by Tom Brady, is merging with the digital fitness company Future. As part of the merger, Brady will join the board of directors of Future and serve as co-chair of the company.  Brady co-founded Autograph in 2021 to find ways to connect athletes and artists with fans, ultimately launching an [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hidden Waymo feature let researcher customize robotaxi&#8217;s display</title>
+		<link>https://techcrunch.com/2025/01/23/hidden-waymo-feature-let-researcher-customize-robotaxis-display/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 19:59:32 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[infosec]]></category>
+		<category><![CDATA[Waymo]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2952359</guid>
+
+					<description><![CDATA[<p>Security researcher Jane Wong found a hidden feature that let her change the top display of a Waymo robotaxi. </p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trump&#8217;s not happy with how EU regulators have treated US tech giants</title>
+		<link>https://techcrunch.com/2025/01/23/trumps-not-happy-with-how-eu-regulators-have-treated-us-tech-giants/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 19:57:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Donald Trump]]></category>
+		<category><![CDATA[eu]]></category>
+		<category><![CDATA[european union]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Meta]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2952354</guid>
+
+					<description><![CDATA[<p>President Donald Trump isn&#8217;t happy with how European Union regulators have treated U.S.-based tech companies, including Google, Meta, and Apple. Onstage at the World Economic Forum in Davos, Trump put EU regulators on blast. He said that the EU&#8217;s cases against these U.S. tech companies are &#8220;a form of taxation,&#8221; according to Bloomberg reporting. Trump [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Bedrock Energy wants geothermal to make data centers cooler and offices more comfortable</title>
+		<link>https://techcrunch.com/2025/01/23/bedrock-energy-wants-geothermal-to-make-data-centers-cooler-and-offices-more-comfortable/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 19:41:43 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Bedrock Energy]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[energy impact partners]]></category>
+		<category><![CDATA[geothermal]]></category>
+		<category><![CDATA[hvac]]></category>
+		<category><![CDATA[Sustainable Future Ventures]]></category>
+		<category><![CDATA[Titanium Ventures]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2952346</guid>
+
+					<description><![CDATA[<p>To cut costs and minimize geothermal’s footprint, Bedrock drills deeper.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Epic brings third-party titles to its mobile game store</title>
+		<link>https://techcrunch.com/2025/01/23/epic-brings-third-party-titles-to-its-mobile-game-store/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 19:30:31 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Epic Games]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[iOS]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2952296</guid>
+
+					<description><![CDATA[<p>Epic Games is adding third-party games to its mobile app store and helping developers cover associated iOS fees. The company is launching a free games program and will cover the cost for all titles from developers that participate in the program on iOS or iPadOS devices. With this program, Epic will roll out new free games [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI and SoftBank are reportedly putting $19B each into Stargate</title>
+		<link>https://techcrunch.com/2025/01/23/openai-and-softbank-are-reportedly-putting-19b-each-into-stargate/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 19:15:22 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[datacenters]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[infrastructure]]></category>
+		<category><![CDATA[mgx]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[report]]></category>
+		<category><![CDATA[Softbank]]></category>
+		<category><![CDATA[stargate]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2952013</guid>
+
+					<description><![CDATA[<p>We may now know roughly how much money SoftBank and OpenAI are contributing toward Stargate, the massive infrastructure project to build data centers for OpenAI across the U.S. SoftBank and OpenAI each plan to commit $19 billion of capital to Stargate, according to The Information. The two companies would then both own 40% of the [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Android 16’s first beta version brings iOS-style live notifications</title>
+		<link>https://techcrunch.com/2025/01/23/android-16s-first-beta-version-brings-ios-style-live-notifications/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 19:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Android 16]]></category>
+		<category><![CDATA[Google]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2951838</guid>
+
+					<description><![CDATA[<p>After releasing two developer beta versions last year, Google introduced the first public beta for Android 16 on Thursday. New features include live updates on the lock screen (like Live Activities on iOS), Advanced Professional Video (APV) codec for high-quality video recording, and a framework for developers to make their apps adaptable for different screen [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Substack introduces a $20M funding guarantee to entice creators to migrate to its platform</title>
+		<link>https://techcrunch.com/2025/01/23/substack-introduces-a-20m-funding-guarantee-to-entice-creators-to-migrate-to-its-platform/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 18:59:00 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[creator economy]]></category>
+		<category><![CDATA[Creator Fund]]></category>
+		<category><![CDATA[Substack]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2952244</guid>
+
+					<description><![CDATA[<p>Substack on Thursday announced the launch of its Creator Accelerator Fund, which provides a $20 million funding guarantee aimed at helping creators grow their audience and move their paid subscribers from another subscription-based platform (Patreon, Supercast, and others) to Substack. The company says the fund is designed to ensure that creators will retain all of [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
