@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 24 Jan 2025 09:43:48 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 24 Jan 2025 11:57:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,43 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>LG Electronics takes majority stake in Bear Robotics, reportedly valuing startup at $600M</title>
+		<link>https://techcrunch.com/2025/01/24/lg-electronics-takes-majority-stake-in-bear-robotics-reportedly-valuing-startup-at-600m/</link>
+		
+		<dc:creator><![CDATA[Kate Park]]></dc:creator>
+		<pubDate>Fri, 24 Jan 2025 11:56:52 +0000</pubDate>
+				<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Bear Robotics]]></category>
+		<category><![CDATA[LG Electronics]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2952782</guid>
+
+					<description><![CDATA[<p>LG Electronics is betting on robotics as its next big growth driver. The South Korean electronics company said on Friday that it has agreed to acquire an additional 30% stake in Bear Robotics, a California-based startup it previously backed that is building AI-powered server robots for restaurants. The deal gives LG a majority ownership of [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple introduces a new API to support more in-app purchase formats</title>
+		<link>https://techcrunch.com/2025/01/24/apple-introduces-a-new-api-to-support-more-in-app-purchase-formats/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Fri, 24 Jan 2025 11:53:13 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[app store]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[in-app purchase]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2952753</guid>
+
+					<description><![CDATA[<p>Apple announced on Thursday a new API called the Advanced Commerce API to support more in-app purchase formats, such as subscriptions and content add-ons. The company added that it is not changing the commission structure to support these use cases. &#8220;The App&#160;Store facilitates billions of transactions annually to help developers grow their businesses and provide a world-class [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>US indicts five individuals in crackdown on North Korea&#8217;s illicit IT workforce</title>
 		<link>https://techcrunch.com/2025/01/24/us-indicts-five-individuals-in-crackdown-on-north-koreas-illicit-it-workforce/</link>
 		
@@ -405,52 +442,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2952296</guid>
 
 					<description><![CDATA[<p>Epic Games is adding third-party games to its mobile app store and helping developers cover associated iOS fees. The company is launching a free games program and will cover the cost for all titles from developers that participate in the program on iOS or iPadOS devices. With this program, Epic will roll out new free games [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI and SoftBank are reportedly putting $19B each into Stargate</title>
-		<link>https://techcrunch.com/2025/01/23/openai-and-softbank-are-reportedly-putting-19b-each-into-stargate/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 19:15:22 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[data centers]]></category>
-		<category><![CDATA[datacenters]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[infrastructure]]></category>
-		<category><![CDATA[mgx]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[report]]></category>
-		<category><![CDATA[Softbank]]></category>
-		<category><![CDATA[stargate]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2952013</guid>
-
-					<description><![CDATA[<p>We may now know roughly how much money SoftBank and OpenAI are contributing toward Stargate, the massive infrastructure project to build data centers for OpenAI across the U.S. SoftBank and OpenAI each plan to commit $19 billion of capital to Stargate, according to The Information. The two companies would then both own 40% of the [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Android 16’s first beta version brings iOS-style live notifications</title>
-		<link>https://techcrunch.com/2025/01/23/android-16s-first-beta-version-brings-ios-style-live-notifications/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 19:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Gadgets]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[Android 16]]></category>
-		<category><![CDATA[Google]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2951838</guid>
-
-					<description><![CDATA[<p>After releasing two developer beta versions last year, Google introduced the first public beta for Android 16 on Thursday. New features include live updates on the lock screen (like Live Activities on iOS), Advanced Professional Video (APV) codec for high-quality video recording, and a framework for developers to make their apps adaptable for different screen [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
