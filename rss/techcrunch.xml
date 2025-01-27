@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Sun, 26 Jan 2025 22:22:16 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 27 Jan 2025 09:39:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>TalkTalk investigating data breach after hacker claims theft of customer data</title>
+		<link>https://techcrunch.com/2025/01/27/talktalk-investigating-data-breach-after-hacker-claims-theft-of-customer-data/</link>
+		
+		<dc:creator><![CDATA[Carly Page]]></dc:creator>
+		<pubDate>Mon, 27 Jan 2025 09:38:53 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[TalkTalk]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2953571</guid>
+
+					<description><![CDATA[<p>A hacker claims to be selling the data of 18.8 million TalkTalk customers, but the telecoms giant says this figure is ‘significantly overstated’</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Perplexity submits a new bid for TikTok</title>
 		<link>https://techcrunch.com/2025/01/26/perplexity-submits-a-new-bid-for-tiktok/</link>
 		
@@ -430,30 +451,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2953051</guid>
 
 					<description><![CDATA[<p>The developer behind Pixelfed, Loops, and Sup, open source alternatives to Instagram, TikTok, and WhatsApp, respectively, is now raising funds on Kickstarter to fuel the apps&#8217; further development. The trio is part of the growing open social web, also known as the fediverse, powered by the same ActivityPub protocol used by X alternative Mastodon. The [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Stargate will use solar and batteries to power $100B AI venture</title>
-		<link>https://techcrunch.com/2025/01/24/stargate-will-use-solar-and-batteries-to-power-100b-ai-venture/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Fri, 24 Jan 2025 19:14:57 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Climate]]></category>
-		<category><![CDATA[battery storage]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[oracle]]></category>
-		<category><![CDATA[renewable energy]]></category>
-		<category><![CDATA[SoftBank Group]]></category>
-		<category><![CDATA[Solar Power]]></category>
-		<category><![CDATA[stargate]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2953147</guid>
-
-					<description><![CDATA[<p>Solar farms can be completed far faster than nuclear reactors and natural gas power plants.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
