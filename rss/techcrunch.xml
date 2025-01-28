@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 28 Jan 2025 12:16:16 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Jan 2025 13:11:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ENGlobal says hackers accessed &#8216;sensitive personal&#8217; data during cyberattack</title>
+		<link>https://techcrunch.com/2025/01/28/englobal-says-hackers-accessed-sensitive-personal-data-during-cyberattack/</link>
+		
+		<dc:creator><![CDATA[Carly Page]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2025 13:10:00 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[energy]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2954391</guid>
+
+					<description><![CDATA[<p>The engineering and automation contractor for the U.S. government said the hackers encrypted some of the company's files.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Atomicwork gets backing from Khosla for its AI alternative to old-school IT software like ServiceNow</title>
 		<link>https://techcrunch.com/2025/01/28/atomicwork-gets-backing-from-khosla-for-its-ai-alternative-to-old-school-it-software-like-servicenow/</link>
 		
@@ -443,30 +464,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2953803</guid>
 
 					<description><![CDATA[<p>The startups and power producers that are betting big on new nuclear are vulnerable to an energy efficient AI model.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI-backed 1X acquires Kind Humanoid</title>
-		<link>https://techcrunch.com/2025/01/27/openai-backed-1x-acquires-kind-humanoid/</link>
-		
-		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
-		<pubDate>Mon, 27 Jan 2025 19:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[1x]]></category>
-		<category><![CDATA[1x robotics]]></category>
-		<category><![CDATA[humanoids]]></category>
-		<category><![CDATA[kind]]></category>
-		<category><![CDATA[kind humanoid]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2953306</guid>
-
-					<description><![CDATA[<p>1X has acquired Kind Humanoid, the Norwegian robotics startup told TechCrunch on Monday. The deal marks a small but key consolidation for a humanoid robotics industry on the brink of a major moment in 2025. TechCrunch spoke with Kind Humanoid in October, when the then-three-person startup announced that it had enlisted famed designer Yves Béhar [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
