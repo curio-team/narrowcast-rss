@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 28 Jan 2025 05:07:49 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Jan 2025 10:17:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Zepto shifts HQ to India as local listings gain appeal</title>
+		<link>https://techcrunch.com/2025/01/28/zepto-shifts-domicile-to-india-as-local-listings-gain-appeal/</link>
+		
+		<dc:creator><![CDATA[Manish Singh]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2025 09:57:31 +0000</pubDate>
+				<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[Quick commerce]]></category>
+		<category><![CDATA[Singapore]]></category>
+		<category><![CDATA[Zepto]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2954360</guid>
+
+					<description><![CDATA[<p>Quick-commerce startup Zepto has moved its domicile to India from Singapore, joining a growing number of Indian startups that have moved their headquarters home ahead of an IPO in the country. The transition marks the fastest shift of registered headquarters to India by a startup in the country, according to Zepto&#8217;s chief financial officer Ramesh [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>TravelPerk raises $200M as valuation nearly doubles to $2.7B</title>
 		<link>https://techcrunch.com/2025/01/27/travelperk-raises-200m-as-valuation-nearly-doubles-to-2-7b/</link>
 		
@@ -444,27 +465,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2953725</guid>
 
 					<description><![CDATA[<p>DeepSeek, the viral AI company, has released a new set of multimodal AI models that it claims can outperform OpenAI&#8217;s DALL-E 3. The models, which are available for download from the AI dev platform Hugging Face, are part of a new model family that DeepSeek is calling Janus-Pro. They range in size from 1 billion [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Grok 3 seemingly went live for some users</title>
-		<link>https://techcrunch.com/2025/01/27/grok-3-seemingly-went-live-for-some-users/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Mon, 27 Jan 2025 16:48:25 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[chatbot]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[grok 3]]></category>
-		<category><![CDATA[X]]></category>
-		<category><![CDATA[xAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2953612</guid>
-
-					<description><![CDATA[<p>The next flagship AI model from Elon Musk&#8217;s AI company, xAI, might be nearing release. Over the weekend, several users on X, including reverse engineer Alexey Shabanov, reported gaining access to Grok 3, the successor to xAI&#8217;s current model, Grok 2, via X&#8217;s Grok chatbot app. Before their access was revoked, the users say that [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
