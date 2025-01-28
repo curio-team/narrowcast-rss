@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 28 Jan 2025 14:34:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Jan 2025 15:30:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,112 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Hugging Face makes it easier for devs to run AI models on third-party clouds</title>
+		<link>https://techcrunch.com/2025/01/28/hugging-face-makes-it-easier-for-devs-to-run-ai-models-on-third-party-clouds/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2025 15:30:14 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[compute]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Hugging Face]]></category>
+		<category><![CDATA[inference]]></category>
+		<category><![CDATA[inference providers]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2954432</guid>
+
+					<description><![CDATA[<p>AI dev platform Hugging Face has partnered with third-party cloud vendors including SambaNova to launch Inference Providers, a feature designed to make it easier for devs on Hugging Face to run AI models using the infrastructure of their choice. Hugging Face says partners including Fal, Replicate, Together AI, and the aforementioned SambaNova have worked with [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trump says Microsoft is in talks to acquire TikTok</title>
+		<link>https://techcrunch.com/2025/01/28/trump-says-microsoft-is-in-talks-to-acquire-tiktok/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2025 15:15:59 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[TikTok]]></category>
+		<category><![CDATA[TikTok Ban]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2954436</guid>
+
+					<description><![CDATA[<p>President Donald Trump told reporters that Microsoft is in talks to acquire TikTok&#8217;s U.S. operations, Bloomberg reports. Although Trump didn&#8217;t elaborate, he stated that &#8220;there&#8217;s great interest in TikTok&#8221; and that there will be &#8220;a lot of people bidding on it.&#8221; Microsoft and Oracle were in the running to acquire the ByteDance-owned app back in [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>X announces a partnership with Visa to power X Money’s wallet</title>
+		<link>https://techcrunch.com/2025/01/28/x-announces-a-partnership-with-visa-for-to-power-x-moneys-wallet/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2025 15:00:04 +0000</pubDate>
+				<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[payments]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[visa]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2954430</guid>
+
+					<description><![CDATA[<p>Elon Musk-owned social network X announced a partnership with Visa to handle person-to-person payments for its upcoming X Money product. The company will use Visa Direct, which is Visa&#8217;s solution for real-time money transfers, to load money into X Money’s wallet, connect to a debit card for paying other users, and transfer money back to [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>PowerSchool begins notifying students and teachers after massive data breach</title>
+		<link>https://techcrunch.com/2025/01/28/powerschool-begins-notifying-students-and-teachers-after-massive-data-breach/</link>
+		
+		<dc:creator><![CDATA[Carly Page]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2025 14:59:59 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[powerschool]]></category>
+		<category><![CDATA[security]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2954442</guid>
+
+					<description><![CDATA[<p>The edtech giant is notifying state attorneys general about the breach but won’t say how many individuals have been affected</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI launches ChatGPT plan for U.S. government agencies</title>
+		<link>https://techcrunch.com/2025/01/28/openai-launches-chatgpt-plan-for-u-s-government-agencies/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2025 14:46:08 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[chatgpt gov]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[security]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2954412</guid>
+
+					<description><![CDATA[<p>In a week dominated by headlines about China&#8217;s growing AI competitiveness, OpenAI has launched ChatGPT Gov. The new version of the AI-powered chatbot platform is designed to provide U.S. government agencies an additional way to access the tech. ChatGPT Gov includes many of the capabilities found in OpenAI&#8217;s corporate-focused tier, ChatGPT Enterprise. Using the platform, agencies [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Alice&#038;Bob raises $104M, says quantum computers based on cat qubits will be ready by 2030</title>
 		<link>https://techcrunch.com/2025/01/28/alicebob-raises-104m-says-quantum-computers-based-on-cat-qubits-will-be-ready-by-2030/</link>
 		
@@ -76,10 +182,10 @@
 		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
 		<pubDate>Tue, 28 Jan 2025 14:00:00 +0000</pubDate>
 				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Spotify]]></category>
+		<category><![CDATA[Artist payout]]></category>
 		<category><![CDATA[artists]]></category>
 		<category><![CDATA[music streaming]]></category>
-		<category><![CDATA[Artist payout]]></category>
+		<category><![CDATA[Spotify]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2954351</guid>
 
 					<description><![CDATA[<p>Audio streaming company Spotify said Tuesday that it paid $10 billion to the music industry last year. The company added that it has given nearly $60 billion in industry payouts since its inception. This is another effort from Spotify to dispel reports that the company doesn&#8217;t reward artists properly for their work. The key point [&#8230;]</p>
@@ -339,126 +445,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2954088</guid>
 
 					<description><![CDATA[<p>Quartz, the international business news outlet, has been quietly aggregating reporting from other outlets, including TechCrunch, in order to publish AI-generated articles under the byline “Quartz Intelligence Newsroom.”&#160;&#160; Quartz started publishing simple AI-generated earnings reports months ago, but beginning last week, the outlet moved on to short articles. One of the 18 AI-generated articles published [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>How to switch off Apple Intelligence on your iPhone, iPad, and Mac</title>
-		<link>https://techcrunch.com/2025/01/27/how-to-switch-off-apple-intelligence-on-your-iphone-ipad-and-mac/</link>
-		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
-		<pubDate>Mon, 27 Jan 2025 22:34:04 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[Apple Intelligence]]></category>
-		<category><![CDATA[artificial intelligence]]></category>
-		<category><![CDATA[Artificial Intelligence (AI)]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[genAI]]></category>
-		<category><![CDATA[iOS]]></category>
-		<category><![CDATA[iPhone]]></category>
-		<category><![CDATA[mac]]></category>
-		<category><![CDATA[macbook]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2954125</guid>
-
-					<description><![CDATA[<p>Here's a step-by-step guide on how to turn off and disable Apple Intelligence from your devices.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>DeepSeek claims its &#8216;reasoning&#8217; model beats OpenAI&#8217;s o1 on certain benchmarks</title>
-		<link>https://techcrunch.com/2025/01/27/deepseek-claims-its-reasoning-model-beats-openais-o1-on-certain-benchmarks/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Mon, 27 Jan 2025 22:27:55 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[chinese ai]]></category>
-		<category><![CDATA[chinese labs]]></category>
-		<category><![CDATA[deepseek]]></category>
-		<category><![CDATA[deepseek-r1]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[high flyer]]></category>
-		<category><![CDATA[Open AI]]></category>
-		<category><![CDATA[r1]]></category>
-		<category><![CDATA[reasoning model]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2949475</guid>
-
-					<description><![CDATA[<p>Chinese AI lab DeepSeek has released an open version of DeepSeek-R1, its so-called reasoning model, that it claims performs as well as OpenAI&#8217;s o1 on certain AI benchmarks. R1 is available from the AI dev platform Hugging Face under an MIT license, meaning it can be used commercially without restrictions. According to DeepSeek, R1 beats [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nvidia drops $600B off its market cap amid the rise of DeepSeek</title>
-		<link>https://techcrunch.com/2025/01/27/nvidia-drops-600bn-off-its-market-cap-amid-the-rise-of-deepseek/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Mon, 27 Jan 2025 22:23:16 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[AI hardware]]></category>
-		<category><![CDATA[artificial intelligence]]></category>
-		<category><![CDATA[chips]]></category>
-		<category><![CDATA[deepseek]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2954110</guid>
-
-					<description><![CDATA[<p>DeepSeek, a Chinese AI startup, became the talk of the proverbial AI town when it released its R1 model on Friday. R1&#8217;s functionality and accuracy compared to its U.S. counterparts, despite using fewer resources and less compute power, seems like a win for the overall AI industry. But it isn&#8217;t necessarily good news for everyone. [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Alibaba&#8217;s Qwen team releases AI models that can control PCs and phones</title>
-		<link>https://techcrunch.com/2025/01/27/alibabas-qwen-team-releases-ai-models-that-can-control-pcs-and-phones/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Mon, 27 Jan 2025 21:33:12 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[agents]]></category>
-		<category><![CDATA[alibaba]]></category>
-		<category><![CDATA[chatbot]]></category>
-		<category><![CDATA[computer use]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[open]]></category>
-		<category><![CDATA[Open AI]]></category>
-		<category><![CDATA[open models]]></category>
-		<category><![CDATA[qwen]]></category>
-		<category><![CDATA[Qwen2.5-VL]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2953970</guid>
-
-					<description><![CDATA[<p>Chinese AI lab DeepSeek might be getting the bulk of the tech industry&#8217;s attention this week. But one of its top domestic rivals, Alibaba, isn&#8217;t sitting idly by. Alibaba&#8217;s Qwen team on Monday released a new family of AI models, Qwen2.5-VL, that can perform a number of text and image analysis tasks. The models can [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cornell’s robot jellyfish and worm are powered by a hydraulic fluid battery</title>
-		<link>https://techcrunch.com/2025/01/27/cornells-robot-jellyfish-and-worm-are-powered-by-a-hydraulic-fluid-battery/</link>
-		
-		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
-		<pubDate>Mon, 27 Jan 2025 21:04:52 +0000</pubDate>
-				<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[cornell university]]></category>
-		<category><![CDATA[Jellyfish]]></category>
-		<category><![CDATA[robots]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2954022</guid>
-
-					<description><![CDATA[<p>Researchers at Cornell University on Monday showcased a pair of bio-inspired robotics running on a hydraulic fluid-powered battery. The redox flow battery (RFB) also mimics biological functions, as it releases electrolytic fluids, which dissolve to create energy through chemical reaction. The first two robots on display are a modular worm and a jellyfish, designed by [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
