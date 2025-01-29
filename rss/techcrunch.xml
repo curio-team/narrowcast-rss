@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 28 Jan 2025 15:30:26 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 Jan 2025 07:36:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,185 +31,18 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Hugging Face makes it easier for devs to run AI models on third-party clouds</title>
-		<link>https://techcrunch.com/2025/01/28/hugging-face-makes-it-easier-for-devs-to-run-ai-models-on-third-party-clouds/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 15:30:14 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[cloud]]></category>
-		<category><![CDATA[compute]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Hugging Face]]></category>
-		<category><![CDATA[inference]]></category>
-		<category><![CDATA[inference providers]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2954432</guid>
-
-					<description><![CDATA[<p>AI dev platform Hugging Face has partnered with third-party cloud vendors including SambaNova to launch Inference Providers, a feature designed to make it easier for devs on Hugging Face to run AI models using the infrastructure of their choice. Hugging Face says partners including Fal, Replicate, Together AI, and the aforementioned SambaNova have worked with [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Trump says Microsoft is in talks to acquire TikTok</title>
-		<link>https://techcrunch.com/2025/01/28/trump-says-microsoft-is-in-talks-to-acquire-tiktok/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 15:15:59 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[TikTok]]></category>
-		<category><![CDATA[TikTok Ban]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2954436</guid>
-
-					<description><![CDATA[<p>President Donald Trump told reporters that Microsoft is in talks to acquire TikTok&#8217;s U.S. operations, Bloomberg reports. Although Trump didn&#8217;t elaborate, he stated that &#8220;there&#8217;s great interest in TikTok&#8221; and that there will be &#8220;a lot of people bidding on it.&#8221; Microsoft and Oracle were in the running to acquire the ByteDance-owned app back in [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>X announces a partnership with Visa to power X Money’s wallet</title>
-		<link>https://techcrunch.com/2025/01/28/x-announces-a-partnership-with-visa-for-to-power-x-moneys-wallet/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 15:00:04 +0000</pubDate>
-				<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[payments]]></category>
-		<category><![CDATA[Twitter]]></category>
-		<category><![CDATA[visa]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2954430</guid>
-
-					<description><![CDATA[<p>Elon Musk-owned social network X announced a partnership with Visa to handle person-to-person payments for its upcoming X Money product. The company will use Visa Direct, which is Visa&#8217;s solution for real-time money transfers, to load money into X Money’s wallet, connect to a debit card for paying other users, and transfer money back to [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>PowerSchool begins notifying students and teachers after massive data breach</title>
-		<link>https://techcrunch.com/2025/01/28/powerschool-begins-notifying-students-and-teachers-after-massive-data-breach/</link>
-		
-		<dc:creator><![CDATA[Carly Page]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 14:59:59 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[powerschool]]></category>
-		<category><![CDATA[security]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2954442</guid>
-
-					<description><![CDATA[<p>The edtech giant is notifying state attorneys general about the breach but won’t say how many individuals have been affected</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI launches ChatGPT plan for U.S. government agencies</title>
-		<link>https://techcrunch.com/2025/01/28/openai-launches-chatgpt-plan-for-u-s-government-agencies/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 14:46:08 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[chatgpt gov]]></category>
-		<category><![CDATA[government]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[security]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2954412</guid>
-
-					<description><![CDATA[<p>In a week dominated by headlines about China&#8217;s growing AI competitiveness, OpenAI has launched ChatGPT Gov. The new version of the AI-powered chatbot platform is designed to provide U.S. government agencies an additional way to access the tech. ChatGPT Gov includes many of the capabilities found in OpenAI&#8217;s corporate-focused tier, ChatGPT Enterprise. Using the platform, agencies [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Alice&#038;Bob raises $104M, says quantum computers based on cat qubits will be ready by 2030</title>
-		<link>https://techcrunch.com/2025/01/28/alicebob-raises-104m-says-quantum-computers-based-on-cat-qubits-will-be-ready-by-2030/</link>
-		
-		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 14:03:17 +0000</pubDate>
-				<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[alice&bob]]></category>
-		<category><![CDATA[Quantum]]></category>
-		<category><![CDATA[quantum computing]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2954409</guid>
-
-					<description><![CDATA[<p>Quantum computing remains something of a holy grail in the world of technology: it promises a huge leap in computing power, but only if someone can figure out how to square away the fault rates that prevent any scaling of the tech. Now, one of the more promising quantum startups in Europe is announcing a [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>‘Blade’ writer David S. Goyer debuts his latest sci-fi franchise on Incention, a new platform built on Story blockchain</title>
-		<link>https://techcrunch.com/2025/01/28/blade-writer-david-s-goyer-debuts-his-latest-sci-fi-franchise-on-incention-a-new-platform-built-on-story-blockchain/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[a16z crypto]]></category>
-		<category><![CDATA[blockchain technology]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[tokenization]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2953977</guid>
-
-					<description><![CDATA[<p>While the adoption of IP (intellectual property) blockchain and tokenization of assets is still in its early stages, more creatives in the entertainment industry are embracing what is called “tokenized storytelling.&#8221; This approach enables fans to participate in story development, contributing elements – such as characters and plot – that can be tokenized and owned [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Spotify says it paid $10 billion to music industry last year</title>
-		<link>https://techcrunch.com/2025/01/28/spotify-says-it-paid-10-billion-to-music-industry-last-year/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Artist payout]]></category>
-		<category><![CDATA[artists]]></category>
-		<category><![CDATA[music streaming]]></category>
-		<category><![CDATA[Spotify]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2954351</guid>
-
-					<description><![CDATA[<p>Audio streaming company Spotify said Tuesday that it paid $10 billion to the music industry last year. The company added that it has given nearly $60 billion in industry payouts since its inception. This is another effort from Spotify to dispel reports that the company doesn&#8217;t reward artists properly for their work. The key point [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Lucid Gravity SUV owners will gain access to Tesla Superchargers on Jan 31</title>
-		<link>https://techcrunch.com/2025/01/28/lucid-gravity-suv-owners-will-gain-access-to-tesla-superchargers-on-jan-31/</link>
+		<title>Shared scooter startup Voi reports its first profitable year as it explores an IPO</title>
+		<link>https://techcrunch.com/2025/01/28/shared-scooter-startup-voi-reports-its-first-profitable-year-as-it-explores-an-ipo/</link>
 		
 		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 14:00:00 +0000</pubDate>
+		<pubDate>Wed, 29 Jan 2025 07:45:00 +0000</pubDate>
 				<category><![CDATA[Startups]]></category>
 		<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[EV]]></category>
-		<category><![CDATA[lucid]]></category>
-		<category><![CDATA[lucid gravity]]></category>
-		<category><![CDATA[Tesla Supercharger]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2954402</guid>
+		<category><![CDATA[Voi]]></category>
+		<category><![CDATA[micromobility]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2955062</guid>
 
-					<description><![CDATA[<p>Owners of the electric Lucid Gravity SUV will gain access to Tesla’s Supercharging network starting January 31.  The Gravity is Lucid’s second vehicle model in its lineup after its flagship Air sedan series, and the first to be built with charge ports compatible with Tesla’s NACS (North American Charging Standard) charge plugs. Lucid Air owners will [&#8230;]</p>
+					<description><![CDATA[<p>Swedish shared micromobility giant Voi had its first profitable year in 2024, according to preliminary unaudited results the company shared exclusively with TechCrunch.&#160; Voi, which offers shared e-scooters and e-bikes across more than 100 markets in Europe, recorded €132.8 million ($138 million) in net revenue in 2024. On an adjusted basis, Voi earned €17.2 million [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -217,20 +50,20 @@
 		
 			</item>
 		<item>
-		<title>ENGlobal says hackers accessed &#8216;sensitive personal&#8217; data during cyberattack</title>
-		<link>https://techcrunch.com/2025/01/28/englobal-says-hackers-accessed-sensitive-personal-data-during-cyberattack/</link>
+		<title>DeepSeek reaches No. 1 on US Play Store</title>
+		<link>https://techcrunch.com/2025/01/28/deepseek-reaches-no-1-on-us-play-store/</link>
 		
-		<dc:creator><![CDATA[Carly Page]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 13:10:00 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[energy]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2954391</guid>
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Wed, 29 Jan 2025 07:36:43 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[deepseek]]></category>
+		<category><![CDATA[Google Play Store]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2955189</guid>
 
-					<description><![CDATA[<p>The engineering and automation contractor for the U.S. government said the hackers encrypted some of the company's files.</p>
+					<description><![CDATA[<p>Chinese AI lab DeepSeek's Android app has taken the No. 1 spot on the Google Play Store, days after the chatbot app clinched the top spot on the App Store.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -238,107 +71,19 @@
 		
 			</item>
 		<item>
-		<title>Atomicwork gets backing from Khosla for its AI alternative to old-school IT software like ServiceNow</title>
-		<link>https://techcrunch.com/2025/01/28/atomicwork-gets-backing-from-khosla-for-its-ai-alternative-to-old-school-it-software-like-servicenow/</link>
+		<title>Naboo secures $21M for its concierge-style corporate event booking platform</title>
+		<link>https://techcrunch.com/2025/01/28/naboo-secures-21-million-for-its-concierge-style-corporate-event-booking-platform/</link>
 		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 12:30:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[India]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[Peak XV Partners]]></category>
-		<category><![CDATA[Atomicwork]]></category>
-		<category><![CDATA[Z47]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2954011</guid>
-
-					<description><![CDATA[<p>Atomicwork has raised $25 million in a Series A round co-led by Khosla Ventures and Z47 to expand its AI agentic platform for enterprises.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Helion raises $425M to help build a fusion reactor for Microsoft</title>
-		<link>https://techcrunch.com/2025/01/28/helion-raises-425m-to-help-build-a-fusion-reactor-for-microsoft/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[lightspeed venture partners]]></category>
-		<category><![CDATA[sam altman]]></category>
-		<category><![CDATA[nuclear fusion]]></category>
-		<category><![CDATA[fusion power]]></category>
-		<category><![CDATA[Helion]]></category>
-		<category><![CDATA[SoftBank Vision Fund 2]]></category>
-		<category><![CDATA[softbank vision]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2954289</guid>
-
-					<description><![CDATA[<p>Helion's unorthodox approach to fusion power and relative secrecy has earned it plenty of fans — and critics. But don’t count its investors among the naysayers.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft tests &#8216;scareware blocker&#8217; for Edge that uses computer vision to detect scams</title>
-		<link>https://techcrunch.com/2025/01/28/microsoft-tests-scareware-blocker-for-edge-that-uses-computer-vision-to-detect-scams/</link>
-		
-		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 11:54:23 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[EDGE]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[scareware]]></category>
-		<category><![CDATA[Windows]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2954356</guid>
-
-					<description><![CDATA[<p>Microsoft is rolling out a new tool dubbed &#8220;scareware blocker,&#8221; which uses machine learning and computer vision to identify a very pervasive type of online scam. &#8220;Scareware&#8221; has blighted the web almost since its inception, often in the form of fake antivirus software that claims to have detected a non-existent threat on a user&#8217;s machine. [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Zepto shifts HQ to India as local listings gain appeal</title>
-		<link>https://techcrunch.com/2025/01/28/zepto-shifts-domicile-to-india-as-local-listings-gain-appeal/</link>
-		
-		<dc:creator><![CDATA[Manish Singh]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 09:57:31 +0000</pubDate>
-				<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[India]]></category>
-		<category><![CDATA[Quick commerce]]></category>
-		<category><![CDATA[Singapore]]></category>
-		<category><![CDATA[Zepto]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2954360</guid>
-
-					<description><![CDATA[<p>Quick-commerce startup Zepto has moved its domicile to India from Singapore, joining a growing number of Indian startups that have moved their headquarters home ahead of an IPO in the country. The transition marks the fastest shift of registered headquarters to India by a startup in the country, according to Zepto&#8217;s chief financial officer Ramesh [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TravelPerk raises $200M as valuation nearly doubles to $2.7B</title>
-		<link>https://techcrunch.com/2025/01/27/travelperk-raises-200m-as-valuation-nearly-doubles-to-2-7b/</link>
-		
-		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 06:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+		<pubDate>Wed, 29 Jan 2025 05:00:00 +0000</pubDate>
 				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Atomico]]></category>
-		<category><![CDATA[TravelPerk]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2953605</guid>
+		<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[marketplace]]></category>
+		<category><![CDATA[corporate travel]]></category>
+		<category><![CDATA[Naboo]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2953729</guid>
 
-					<description><![CDATA[<p>Barcelona-based business travel management platform TravelPerk has raised $200 million at a hefty $2.7 billion valuation — almost double the $1.4 billion valuation at its previous fundraise last year. Alongside the raise, TravelPerk also announced it has acquired Swiss startup Yokoy to bring native expenses management into the fray. With the travel and tourism industry [&#8230;]</p>
+					<description><![CDATA[<p>If you&#8217;ve ever tried to book a venue for a company event, you&#8217;ll know how onerous a task it can be. You have to contact multiple vendors, wait for quotes, evaluate them, see if you can get a good deal, and then get all that approved. So it makes sense that depending on the size [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -346,42 +91,18 @@
 		
 			</item>
 		<item>
-		<title>Google Maps will soon rename Gulf of Mexico to &#8216;Gulf of America&#8217;</title>
-		<link>https://techcrunch.com/2025/01/27/google-maps-will-soon-rename-gulf-of-mexico-to-gulf-of-america/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 02:04:04 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Google Maps]]></category>
-		<category><![CDATA[Gulf of Mexico]]></category>
-		<category><![CDATA[Trump]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2954290</guid>
-
-					<description><![CDATA[<p>Google will rename the Gulf of Mexico and Alaska&#8217;s Denali mountain in Google Maps once a federal mapping database reflects changes ordered by the Trump Administration, the company announced Monday. Google is complying with an executive order issued last week by President Donald Trump that changed the names of several American landmarks. The executive order [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Reid Hoffman’s Manas AI raises $24.6M, a fraction of other AI drug discovery startups</title>
-		<link>https://techcrunch.com/2025/01/27/reid-hoffmans-manas-ai-raises-24-6m-a-fraction-of-other-ai-drug-discovery-startups/</link>
+		<title>SoftBank to invest $500M in robotics startup SkildAI</title>
+		<link>https://techcrunch.com/2025/01/28/softbank-to-invest-500m-in-robotics-startup-skildai/</link>
 		
 		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 01:19:57 +0000</pubDate>
+		<pubDate>Wed, 29 Jan 2025 02:10:10 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Biotech & Health]]></category>
 		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[cancer]]></category>
-		<category><![CDATA[drug discovery biotech]]></category>
-		<category><![CDATA[Reid Hoffman]]></category>
-		<category><![CDATA[Xaira]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2954288</guid>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Softbank]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2955169</guid>
 
-					<description><![CDATA[<p>LinkedIn founder Reid Hoffman and Siddhartha Mukherjee, cancer researcher and author of the book “The Emperor of All Maladies,” have co-founded an AI-powered drug discovery startup, Manas AI. The company, which will initially focus on breast cancer, prostate cancer, and lymphoma, has raised $24.6 million in seed funding from Hoffman, General Catalyst, and Greylock. Manas [&#8230;]</p>
+					<description><![CDATA[<p>SoftBank is negotiating a $500 million investment in Skild AI, a software company building a foundational model for robotics at a $4 billion valuation, Bloomberg and Financial Times reported. The two-year-old company raised its previous funding round of $300 million at a $1.5 billion valuation last July from investors including Jeff Bezos, Lightspeed Venture Partners, [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -389,20 +110,209 @@
 		
 			</item>
 		<item>
-		<title>Former Intel CEO Pat Gelsinger is already using DeepSeek instead of OpenAI at his startup, Gloo</title>
-		<link>https://techcrunch.com/2025/01/27/former-intel-ceo-pat-gelsinger-is-already-using-deepseek-instead-of-openai-at-his-startup-gloo/</link>
+		<title>Italy sends first data watchdog request to DeepSeek: &#8216;The data of millions of Italians is at risk&#8217;</title>
+		<link>https://techcrunch.com/2025/01/28/italy-sends-first-data-watchdog-request-to-deepseek-the-data-of-millions-of-italians-is-at-risk/</link>
 		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 00:06:17 +0000</pubDate>
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+		<pubDate>Wed, 29 Jan 2025 01:17:08 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[data protection]]></category>
+		<category><![CDATA[deepseek]]></category>
+		<category><![CDATA[GDPR]]></category>
+		<category><![CDATA[privacy]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2955120</guid>
+
+					<description><![CDATA[<p>The jury is still out on whether the Chinese AI upstart DeepSeek is a game changer or possibly part of an elaborate plan by its hedge fund parent company to short Nvidia and other tech stocks. Whichever it might be (maybe both?), DeepSeek and its large language model has made some major waves. Now, it’s [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>DeepSeek: Everything you need to know about the AI chatbot app</title>
+		<link>https://techcrunch.com/2025/01/28/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2025 23:03:20 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[deepseek]]></category>
+		<category><![CDATA[DeepSeek v3]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<category><![CDATA[Explainer]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[r1]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2953864</guid>
+
+					<description><![CDATA[<p>DeepSeek has gone viral. Chinese AI lab DeepSeek broke into the mainstream consciousness this week after&#160;its chatbot app rose to the top of the Apple App Store charts. DeepSeek’s AI models, which were trained using compute-efficient techniques,&#160;have led Wall Street analysts&#160;—&#160;and technologists&#160;— to question whether the U.S. can maintain its lead in the AI race [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>David Sacks claims there&#8217;s &#8216;substantial evidence&#8217; that DeepSeek used OpenAI&#8217;s models to train its own</title>
+		<link>https://techcrunch.com/2025/01/28/david-sacks-claims-theres-substantial-evidence-that-deepseek-used-openais-models-to-train-its-own/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2025 22:49:22 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[ai czar]]></category>
+		<category><![CDATA[david sacks]]></category>
+		<category><![CDATA[deepseek]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[IP theft]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2954972</guid>
+
+					<description><![CDATA[<p>David Sacks, Trump&#8217;s AI and crypto &#8220;czar,&#8221; said in an interview on Fox on Tuesday that there&#8217;s &#8220;substantial evidence&#8221; that Chinese AI company DeepSeek &#8220;distilled&#8221; knowledge from OpenAI&#8217;s AI models, a process that Sacks compared to theft. Sacks, who didn&#8217;t cite the source of this &#8220;evidence,&#8221; suggested that DeepSeek used responses from OpenAI models to [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>DeepSeek triggered a wild, baseless rally for some Chinese stocks</title>
+		<link>https://techcrunch.com/2025/01/28/deepseek-triggered-a-wild-baseless-rally-for-some-chinese-stocks/</link>
+		
+		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2025 22:01:18 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[China stock market]]></category>
+		<category><![CDATA[deepseek]]></category>
+		<category><![CDATA[Funding]]></category>
+		<category><![CDATA[stock market]]></category>
+		<category><![CDATA[VC]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2954968</guid>
+
+					<description><![CDATA[<p>Hype around DeepSeek sent the stock price of several Chinese companies soaring, but proof of their ties to DeepSeek is non-existent.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Figure AI details plan to improve humanoid robot safety in the workplace</title>
+		<link>https://techcrunch.com/2025/01/28/figure-ai-details-plan-to-improve-humanoid-robot-safety-in-the-workplace/</link>
+		
+		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2025 20:17:44 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[agility robotics]]></category>
+		<category><![CDATA[figure]]></category>
+		<category><![CDATA[humanoid]]></category>
+		<category><![CDATA[humanoid robot]]></category>
+		<category><![CDATA[OSHA]]></category>
+		<category><![CDATA[Safety]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2954803</guid>
+
+					<description><![CDATA[<p>Safety is often overlooked in the rush to bring humanoid robots to the workplace. As high-profile corporations ranging from retailers like Amazon to carmakers such as Mercedes and BMW have announced humanoid pilots for factories and warehouses, conversations around worker safety are regularly buried beneath industry hype. One Bay Area robotics firm is hoping to [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tesla Superchargers: GM, Ford, Rivian, and other EV brands with access</title>
+		<link>https://techcrunch.com/2025/01/28/tesla-superchargers-gm-ford-rivian-and-other-ev-brands-with-access/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2025 20:11:28 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[Evergreen]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[Ford]]></category>
+		<category><![CDATA[GM]]></category>
+		<category><![CDATA[North American Charging Standard]]></category>
+		<category><![CDATA[Supercharger]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2882652</guid>
+
+					<description><![CDATA[<p>EV owners of GM vehicles like the Chevrolet Silverado EV and Cadillac Lyriq will now officially have access to Tesla’s Superchargers.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Bookshop.org challenges Amazon with new e-book platform</title>
+		<link>https://techcrunch.com/2025/01/28/bookshop-org-challenges-amazon-with-new-e-book-platform/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2025 19:53:30 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[bookshop]]></category>
+		<category><![CDATA[bookshop.org]]></category>
+		<category><![CDATA[ebooks]]></category>
+		<category><![CDATA[ereaders]]></category>
+		<category><![CDATA[Kobo]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2954816</guid>
+
+					<description><![CDATA[<p>Indie bookstore backer Bookshop.org launched an e-book platform on Tuesday, making it easier for readers to buy e-books without padding Jeff Bezos&#8217; pockets. For years, Amazon&#8217;s chokehold and sway in the publishing industry have been so strong that authors and booksellers have accused the company of operating a monopoly. Amazon is dominant in the sale [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hugging Face researchers are trying to build a more open version of DeepSeek&#8217;s AI &#8216;reasoning&#8217; model</title>
+		<link>https://techcrunch.com/2025/01/28/hugging-face-researchers-are-trying-to-build-a-more-open-version-of-deepseeks-ai-reasoning-model/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2025 19:29:58 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[deepseek]]></category>
 		<category><![CDATA[deepseek-r1]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Hugging Face]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[open-r1]]></category>
+		<category><![CDATA[r1]]></category>
+		<category><![CDATA[reasoning model]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2954517</guid>
+
+					<description><![CDATA[<p>Barely a week after DeepSeek released its R1 &#8220;reasoning&#8221; AI model — which sent markets into a tizzy — researchers at Hugging Face are trying to replicate the model from scratch in what they&#8217;re calling a pursuit of &#8220;open knowledge.&#8221; Hugging Face head of research Leandro von Werra and several company engineers&#160;have launched Open-R1, a [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Automattic and others back Openvibe, an app that&#8217;s unifying the open social web</title>
+		<link>https://techcrunch.com/2025/01/28/automattic-and-others-back-openvibe-an-app-thats-unifying-the-open-social-web/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2025 19:22:15 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Bluesky]]></category>
 		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[foundational model]]></category>
-		<category><![CDATA[Pat Gelsinger]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2954239</guid>
+		<category><![CDATA[fediverse]]></category>
+		<category><![CDATA[Funding]]></category>
+		<category><![CDATA[Mastodon]]></category>
+		<category><![CDATA[nostr]]></category>
+		<category><![CDATA[open social]]></category>
+		<category><![CDATA[openvibe]]></category>
+		<category><![CDATA[Threads]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2954789</guid>
 
-					<description><![CDATA[<p>The tech industry's reaction to AI model DeepSeek R1 has been wild. Pat Gelsinger, for instance, is elated and thinks it will make AI better for everyone.</p>
+					<description><![CDATA[<p>Openvibe&#8217;s clever app that integrates multiple open social networks, including Bluesky, Mastodon, Nostr, and Threads, just got a boost toward its future development. The company on Tuesday announced that it has received outside investment of $800,000 in a round led by Czech Founders VC, which includes backing from WordPress.com and Tumblr parent company, Automattic, as [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -410,19 +320,19 @@
 		
 			</item>
 		<item>
-		<title>SonicWall says hackers are exploiting a new zero-day bug to breach customer networks</title>
-		<link>https://techcrunch.com/2025/01/27/sonicwall-says-hackers-are-exploiting-a-new-zero-day-bug-to-breach-customer-networks/</link>
+		<title>Eric Schmidt says DeepSeek marks a &#8216;turning point&#8217; for the global AI race</title>
+		<link>https://techcrunch.com/2025/01/28/eric-schmidt-says-deepseek-marks-a-turning-point-for-the-global-ai-race/</link>
 		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Mon, 27 Jan 2025 23:25:04 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[enterprise security]]></category>
-		<category><![CDATA[sonicwall]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2954242</guid>
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2025 19:18:50 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Eric Schmidt]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[open source ai]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2954744</guid>
 
-					<description><![CDATA[<p>SonicWall said the bug is "confirmed as being actively exploited in the wild" by malicious hackers.</p>
+					<description><![CDATA[<p>Former Google CEO Eric Schmidt called for the United States to ramp up open source AI efforts to address the rise of DeepSeek in a Washington Post op-ed published Tuesday. Just last year, Schmidt said America was two or three years ahead of China. But DeepSeek&#8217;s rise marks &#8220;a turning point&#8221; for the global AI [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -430,21 +340,120 @@
 		
 			</item>
 		<item>
-		<title>Quartz has been quietly publishing AI-generated news articles</title>
-		<link>https://techcrunch.com/2025/01/27/quartz-has-been-quietly-publishing-ai-generated-news-articles/</link>
+		<title>Who is Liang Wenfeng? DeepSeek founder comes from AI investing</title>
+		<link>https://techcrunch.com/2025/01/28/who-is-liang-wenfeng-deepseek-founder-comes-from-ai-investing/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2025 19:16:59 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[deepseek]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[liang wenfeng]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2954760</guid>
+
+					<description><![CDATA[<p>DeepSeek, a Chinese AI lab, has Silicon Valley reeling with its R1 reasoning model, which it claims uses far less computing power than those of American AI leaders &#8212; and, it&#8217;s open source. The DeepSeek app has shot to the top of the App Store charts this week, dethroning ChatGPT. But who is Liang Wenfeng, [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Waymo is reportedly building a charity &#8216;tipping&#8217; feature into its robotaxi app</title>
+		<link>https://techcrunch.com/2025/01/28/waymo-is-reportedly-building-a-charity-tipping-feature-into-its-robotaxi-app/</link>
 		
 		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Mon, 27 Jan 2025 22:56:56 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[ai generated content]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[media]]></category>
-		<category><![CDATA[publishers]]></category>
-		<category><![CDATA[quartz]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2954088</guid>
+		<pubDate>Tue, 28 Jan 2025 19:16:12 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[robotaxi]]></category>
+		<category><![CDATA[Waymo]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2954804</guid>
 
-					<description><![CDATA[<p>Quartz, the international business news outlet, has been quietly aggregating reporting from other outlets, including TechCrunch, in order to publish AI-generated articles under the byline “Quartz Intelligence Newsroom.”&#160;&#160; Quartz started publishing simple AI-generated earnings reports months ago, but beginning last week, the outlet moved on to short articles. One of the 18 AI-generated articles published [&#8230;]</p>
+					<description><![CDATA[<p>Alphabet-owned autonomous vehicle company Waymo might be planning to test a feature that will allow robotaxi riders to add a &#8220;tip&#8221; that will go to the charity of their choice after a ride. Jane Manchun Wong, a security researcher who recently hacked the display dome on top of a Waymo vehicle, found the new tip [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ambi Robotics built a clever solution to automate pallet packing</title>
+		<link>https://techcrunch.com/2025/01/28/ambi-robotics-built-a-clever-solution-to-automate-pallet-packing/</link>
+		
+		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2025 19:10:23 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[ambi]]></category>
+		<category><![CDATA[ambi robotics]]></category>
+		<category><![CDATA[ambistack]]></category>
+		<category><![CDATA[fulfillment]]></category>
+		<category><![CDATA[warehouse]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2954636</guid>
+
+					<description><![CDATA[<p>UC Berkeley spinout Ambi Robotics announced Tuesday the arrival of AmbiStack, a novel system that automates pallet packing. The system features an industrial robotic arm mounted above a conveyer belt that moves along the X and Y axes and lifts boxes up via suction cups mounted to a gripper. Once lifted from the conveyer belt, [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Geek Ventures, a fund that specializes in backing immigrant founders, is raising a second fund</title>
+		<link>https://techcrunch.com/2025/01/28/geek-ventures-a-fund-that-specializes-in-backing-immigrant-founders-is-raising-a-second-fund/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2025 19:00:00 +0000</pubDate>
+				<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Geek Ventures]]></category>
+		<category><![CDATA[venture]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2954783</guid>
+
+					<description><![CDATA[<p>Geek Ventures is raising a Fund II, according to a recent SEC filing.  The firm, founded in 2021 by Ihar Mahaniok, focuses on investing in early-stage immigrant founders. Mahaniok immigrated to the U.S. from Belarus and spoke to TechCrunch a few years ago about how hard the venture ecosystem can be for immigrants.&#160; “Talent is [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Documents show UK wooed a16z for five years</title>
+		<link>https://techcrunch.com/2025/01/28/documents-show-uk-wooed-a16z-for-five-years/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2025 19:00:00 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[a16z]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2954790</guid>
+
+					<description><![CDATA[<p>U.K. documents show that the U.K.’s Department of Business and Trade spent five years convincing Andreessen Horowitz to create a presence in London, only for the U.S. firm to leave 18 months after launching an office, according to government documents obtained by Sifted.  In 2023, a16z launched a crypto office in London, deeming the crypto [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Amazon&#8217;s Prime Air drone service is headed to this UK town</title>
+		<link>https://techcrunch.com/2025/01/28/amazons-prime-air-drone-service-is-headed-to-this-uk-town/</link>
+		
+		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2025 18:40:19 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Amazon Prime Air]]></category>
+		<category><![CDATA[drone]]></category>
+		<category><![CDATA[drone delivery]]></category>
+		<category><![CDATA[Prime Air]]></category>
+		<category><![CDATA[U.K.]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2954480</guid>
+
+					<description><![CDATA[<p>Amazon announced Monday it has picked the North England town of Darlington as the first site for its planned U.K. drone-delivery expansion. Amazon was expected to expand Prime Air to the U.K. and Italy in 2024. After missing that initial target, the company opted to not share a timeline for this latest launch. Instead, the [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
