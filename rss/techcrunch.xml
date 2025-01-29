@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 29 Jan 2025 11:51:39 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 Jan 2025 13:31:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,66 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Engineering giant Smiths Group says hackers accessed its systems during cyberattack</title>
+		<link>https://techcrunch.com/2025/01/29/engineering-giant-smiths-group-says-hackers-accessed-its-systems-during-cyberattack/</link>
+		
+		<dc:creator><![CDATA[Carly Page]]></dc:creator>
+		<pubDate>Wed, 29 Jan 2025 13:23:57 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[security]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2955249</guid>
+
+					<description><![CDATA[<p>U.K.-based engineering giant Smiths Group has confirmed a cybersecurity incident involving “unauthorized access” to its systems. The London-listed company, which operates across multiple sectors including energy, security, aerospace and defense, said Tuesday that it is currently “managing” the incident. The company said it isolated affected systems and activated its business continuity plans, implying a disruptive [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Uber-backed mobility fintech Moove acquires Brazil’s Kovi, takes ARR to $275M</title>
+		<link>https://techcrunch.com/2025/01/29/uber-backed-mobility-fintech-moove-acquires-brazils-kovi-takes-arr-to-275m/</link>
+		
+		<dc:creator><![CDATA[Tage Kene-Okafor]]></dc:creator>
+		<pubDate>Wed, 29 Jan 2025 13:05:14 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Africa]]></category>
+		<category><![CDATA[Kovi]]></category>
+		<category><![CDATA[latin america]]></category>
+		<category><![CDATA[mobility fintech]]></category>
+		<category><![CDATA[Moove]]></category>
+		<category><![CDATA[ride-hailing]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2955231</guid>
+
+					<description><![CDATA[<p>Uber-backed Moove, an Africa-born mobility fintech that offers vehicle financing to ride-hailing and delivery app drivers across six continents, has acquired Kovi, a Brazilian urban mobility provider. The value of the deal is not being disclosed, but Moove confirmed it was an all-share transaction, and Kovi is now wholly owned by Moove. Moove co-founder and [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ChatGPT&#8217;s mobile users are 85% male, report says</title>
+		<link>https://techcrunch.com/2025/01/29/chatgpts-mobile-users-are-85-male-report-says/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Wed, 29 Jan 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[appfigures]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2954512</guid>
+
+					<description><![CDATA[<p>The AI bubble hasn&#8217;t burst yet, at least when it comes to consumer spending on AI apps. Led by OpenAI&#8217;s ChatGPT, overall spending on AI apps jumped to $1.42 billion in 2024, according to app analytics firm Appfigures. This marks a 274% increase from 2023 (the app launched in May of that year). Among tens [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Meteomatics eyes U.S. expansion for its enterprise-focused weather forecasting tools</title>
 		<link>https://techcrunch.com/2025/01/29/meteomatics-eyes-u-s-expansion-for-its-enterprise-focused-weather-forecasting-tools/</link>
 		
@@ -391,72 +451,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2954517</guid>
 
 					<description><![CDATA[<p>Barely a week after DeepSeek released its R1 &#8220;reasoning&#8221; AI model — which sent markets into a tizzy — researchers at Hugging Face are trying to replicate the model from scratch in what they&#8217;re calling a pursuit of &#8220;open knowledge.&#8221; Hugging Face head of research Leandro von Werra and several company engineers&#160;have launched Open-R1, a [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Automattic and others back Openvibe, an app that&#8217;s unifying the open social web</title>
-		<link>https://techcrunch.com/2025/01/28/automattic-and-others-back-openvibe-an-app-thats-unifying-the-open-social-web/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 19:22:15 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Bluesky]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[fediverse]]></category>
-		<category><![CDATA[Funding]]></category>
-		<category><![CDATA[Mastodon]]></category>
-		<category><![CDATA[nostr]]></category>
-		<category><![CDATA[open social]]></category>
-		<category><![CDATA[openvibe]]></category>
-		<category><![CDATA[Threads]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2954789</guid>
-
-					<description><![CDATA[<p>Openvibe&#8217;s clever app that integrates multiple open social networks, including Bluesky, Mastodon, Nostr, and Threads, just got a boost toward its future development. The company on Tuesday announced that it has received outside investment of $800,000 in a round led by Czech Founders VC, which includes backing from WordPress.com and Tumblr parent company, Automattic, as [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Eric Schmidt says DeepSeek marks a &#8216;turning point&#8217; for the global AI race</title>
-		<link>https://techcrunch.com/2025/01/28/eric-schmidt-says-deepseek-marks-a-turning-point-for-the-global-ai-race/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 19:18:50 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Eric Schmidt]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[open source ai]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2954744</guid>
-
-					<description><![CDATA[<p>Former Google CEO Eric Schmidt called for the United States to ramp up open source AI efforts to address the rise of DeepSeek in a Washington Post op-ed published Tuesday. Just last year, Schmidt said America was two or three years ahead of China. But DeepSeek&#8217;s rise marks &#8220;a turning point&#8221; for the global AI [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Who is Liang Wenfeng? DeepSeek founder comes from AI investing</title>
-		<link>https://techcrunch.com/2025/01/28/who-is-liang-wenfeng-deepseek-founder-comes-from-ai-investing/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 19:16:59 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[deepseek]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[liang wenfeng]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2954760</guid>
-
-					<description><![CDATA[<p>DeepSeek, a Chinese AI lab, has Silicon Valley reeling with its R1 reasoning model, which it claims uses far less computing power than those of American AI leaders &#8212; and, it&#8217;s open source. The DeepSeek app has shot to the top of the App Store charts this week, dethroning ChatGPT. But who is Liang Wenfeng, [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
