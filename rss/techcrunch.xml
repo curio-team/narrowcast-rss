@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 29 Jan 2025 10:01:06 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 Jan 2025 11:33:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,46 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Microsoft probing whether DeepSeek improperly used OpenAI APIs</title>
+		<link>https://techcrunch.com/2025/01/29/microsoft-probing-whether-deepseek-improperly-used-openais-api/</link>
+		
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+		<pubDate>Wed, 29 Jan 2025 11:31:52 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[deepseek]]></category>
+		<category><![CDATA[distillation]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2955219</guid>
+
+					<description><![CDATA[<p>Just a few hours after David Sacks claimed DeepSeek used OpenAI’s models to train its own models, Bloomberg Law reports that Microsoft is investigating DeepSeek’s use of OpenAI’s application programming interface (API). According to security researchers working for Microsoft, the Chinese company behind the R1 reasoning model may have exfiltrated a large amount of data [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Formance raises $21M to build the AWS for fintech infrastructure</title>
+		<link>https://techcrunch.com/2025/01/29/formance-raises-21-million-to-build-the-aws-of-fintech-infrastructure/</link>
+		
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+		<pubDate>Wed, 29 Jan 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[fintech infrastructure]]></category>
+		<category><![CDATA[Formance]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2953577</guid>
+
+					<description><![CDATA[<p>If you talk to a fintech entrepreneur about their business, chances are they’ll end up talking about ledger issues at some point. A ledger is a record of money movements that serves as the source of truth for financial assets, but when a company starts having multiple bank accounts, payment processors and funds spread across [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>This fintech has a fix for the biggest cross-border payments issues in Francophone Africa</title>
 		<link>https://techcrunch.com/2025/01/29/cauridor-has-a-fix-for-cross-border-payments-issues-in-francophone-africa/</link>
 		
@@ -415,42 +455,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2954636</guid>
 
 					<description><![CDATA[<p>UC Berkeley spinout Ambi Robotics announced Tuesday the arrival of AmbiStack, a novel system that automates pallet packing. The system features an industrial robotic arm mounted above a conveyer belt that moves along the X and Y axes and lifts boxes up via suction cups mounted to a gripper. Once lifted from the conveyer belt, [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Geek Ventures, a fund that specializes in backing immigrant founders, is raising a second fund</title>
-		<link>https://techcrunch.com/2025/01/28/geek-ventures-a-fund-that-specializes-in-backing-immigrant-founders-is-raising-a-second-fund/</link>
-		
-		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 19:00:00 +0000</pubDate>
-				<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Geek Ventures]]></category>
-		<category><![CDATA[venture]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2954783</guid>
-
-					<description><![CDATA[<p>Geek Ventures is raising a Fund II, according to a recent SEC filing.  The firm, founded in 2021 by Ihar Mahaniok, focuses on investing in early-stage immigrant founders. Mahaniok immigrated to the U.S. from Belarus and spoke to TechCrunch a few years ago about how hard the venture ecosystem can be for immigrants.&#160; “Talent is [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Documents show UK wooed a16z for five years</title>
-		<link>https://techcrunch.com/2025/01/28/documents-show-uk-wooed-a16z-for-five-years/</link>
-		
-		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 19:00:00 +0000</pubDate>
-				<category><![CDATA[Crypto]]></category>
-		<category><![CDATA[a16z]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2954790</guid>
-
-					<description><![CDATA[<p>U.K. documents show that the U.K.’s Department of Business and Trade spent five years convincing Andreessen Horowitz to create a presence in London, only for the U.S. firm to leave 18 months after launching an office, according to government documents obtained by Sifted.  In 2023, a16z launched a crypto office in London, deeming the crypto [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
