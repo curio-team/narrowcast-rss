@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 29 Jan 2025 11:33:32 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 Jan 2025 11:51:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,50 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Meteomatics eyes U.S. expansion for its enterprise-focused weather forecasting tools</title>
+		<link>https://techcrunch.com/2025/01/29/meteomatics-eyes-u-s-expansion-for-its-enterprise-focused-weather-forecasting-tools/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Wed, 29 Jan 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Climate]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[fundraising]]></category>
+		<category><![CDATA[venture capital]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[enterprise tech]]></category>
+		<category><![CDATA[startup fundraising]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2954980</guid>
+
+					<description><![CDATA[<p>Martin Fengler knows a lot about the weather. Fengler got his Ph.D. in mathematics, focused on numerical weather prediction, before working for Meteomedia AG, a network of weather stations in Switzerland and Germany. But while he knew a lot about weather forecasting from the prediction side, he realized the gaps that remained on the consumption [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>DeepSeek&#8217;s AI avoids answering 85% of prompts on &#8216;sensitive topics&#8217; related to China</title>
+		<link>https://techcrunch.com/2025/01/29/deepseeks-ai-avoids-answering-85-of-prompts-on-sensitive-topics-related-to-china/</link>
+		
+		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
+		<pubDate>Wed, 29 Jan 2025 11:51:34 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[deepseek]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2955213</guid>
+
+					<description><![CDATA[<p>AI chatbot DeepSeek has taken the world by storm, topping app store charts and sending Silicon Valley and Wall Street into meltdown. An offshoot of Chinese hedge fund High-Flyer, DeepSeek&#8217;s cost-to-performance ratio makes for impressive reading compared to incumbents such as OpenAI. However, reports have increasingly documented some of the things the AI chatbot is [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Microsoft probing whether DeepSeek improperly used OpenAI APIs</title>
 		<link>https://techcrunch.com/2025/01/29/microsoft-probing-whether-deepseek-improperly-used-openais-api/</link>
 		
@@ -413,48 +457,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2954760</guid>
 
 					<description><![CDATA[<p>DeepSeek, a Chinese AI lab, has Silicon Valley reeling with its R1 reasoning model, which it claims uses far less computing power than those of American AI leaders &#8212; and, it&#8217;s open source. The DeepSeek app has shot to the top of the App Store charts this week, dethroning ChatGPT. But who is Liang Wenfeng, [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Waymo is reportedly building a charity &#8216;tipping&#8217; feature into its robotaxi app</title>
-		<link>https://techcrunch.com/2025/01/28/waymo-is-reportedly-building-a-charity-tipping-feature-into-its-robotaxi-app/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 19:16:12 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[robotaxi]]></category>
-		<category><![CDATA[Waymo]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2954804</guid>
-
-					<description><![CDATA[<p>Alphabet-owned autonomous vehicle company Waymo might be planning to test a feature that will allow robotaxi riders to add a &#8220;tip&#8221; that will go to the charity of their choice after a ride. Jane Manchun Wong, a security researcher who recently hacked the display dome on top of a Waymo vehicle, found the new tip [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ambi Robotics built a clever solution to automate pallet packing</title>
-		<link>https://techcrunch.com/2025/01/28/ambi-robotics-built-a-clever-solution-to-automate-pallet-packing/</link>
-		
-		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 19:10:23 +0000</pubDate>
-				<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[ambi]]></category>
-		<category><![CDATA[ambi robotics]]></category>
-		<category><![CDATA[ambistack]]></category>
-		<category><![CDATA[fulfillment]]></category>
-		<category><![CDATA[warehouse]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2954636</guid>
-
-					<description><![CDATA[<p>UC Berkeley spinout Ambi Robotics announced Tuesday the arrival of AmbiStack, a novel system that automates pallet packing. The system features an industrial robotic arm mounted above a conveyer belt that moves along the X and Y axes and lifts boxes up via suction cups mounted to a gripper. Once lifted from the conveyer belt, [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
