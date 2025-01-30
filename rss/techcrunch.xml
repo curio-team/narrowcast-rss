@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 30 Jan 2025 12:43:21 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 30 Jan 2025 13:05:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,69 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>DeepSeek exposed internal database containing chat histories and sensitive data</title>
+		<link>https://techcrunch.com/2025/01/30/deepseek-exposed-internal-database-containing-chat-histories-and-sensitive-data/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Thu, 30 Jan 2025 13:05:37 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[deepseek]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2956249</guid>
+
+					<description><![CDATA[<p>The internal DeepSeek database was exposed to the internet without a password.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Data analytics startup Athenic AI wants to be an enterprise&#8217;s central nervous system</title>
+		<link>https://techcrunch.com/2025/01/30/data-analytics-startup-athenic-ai-wants-to-be-an-enterprises-central-nervous-system/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Thu, 30 Jan 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[VC]]></category>
+		<category><![CDATA[venture capital]]></category>
+		<category><![CDATA[business intelligence]]></category>
+		<category><![CDATA[enterprise startups]]></category>
+		<category><![CDATA[data analytics]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2955623</guid>
+
+					<description><![CDATA[<p>Jared Zhao originally got interested in data analytics during his time at UC Berkeley because he was drawn to how it could turn raw data into a story. Zhao founded his first data analytics startup Polyture in 2021. But advancements in generative AI just a year later made Zhao realize what Polyture was building was [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US blood donation giant warns of disruption after ransomware attack</title>
+		<link>https://techcrunch.com/2025/01/30/us-blood-donation-giant-warns-of-disruption-after-ransomware-attack/</link>
+		
+		<dc:creator><![CDATA[Carly Page]]></dc:creator>
+		<pubDate>Thu, 30 Jan 2025 12:58:18 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[security]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2956247</guid>
+
+					<description><![CDATA[<p>New York Blood Center said it does not have a "specific timetable for system restoration" following the attack, which has led to canceled appointments and delays </p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>SuperOps bags $25M to use AI and better help managed service providers</title>
 		<link>https://techcrunch.com/2025/01/30/superops-bags-25m-to-use-ai-and-better-help-managed-service-providers/</link>
 		
@@ -394,72 +457,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2955471</guid>
 
 					<description><![CDATA[<p>Waymo plans to start testing autonomous vehicles in 10 new cities this year, starting with Las Vegas and San Diego, according to The Verge. However, this doesn&#8217;t mean the company will launch commercial operations in any of these cities — or even test them in autonomous mode. Waymo told The Verge it will send less [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Instagram gives creators more insight into their reels&#8217; performance</title>
-		<link>https://techcrunch.com/2025/01/29/instagram-gives-creators-more-insight-into-their-reels-performance/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Wed, 29 Jan 2025 18:09:20 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Instagram]]></category>
-		<category><![CDATA[Meta]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2955409</guid>
-
-					<description><![CDATA[<p>Meta continues to target creators in the days following the U.S. TikTok ban. In addition to paying TikTok creators big bonuses to publish reels, Instagram announced on Wednesday that it&#8217;s introducing new ways for creators to better understand how their short videos are performing. The platform is introducing additional metrics that allow creators to see [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic&#8217;s CEO says DeepSeek shows US export rules are working</title>
-		<link>https://techcrunch.com/2025/01/29/anthropics-ceo-says-deepseek-shows-that-u-s-export-rules-are-working-as-intended/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 29 Jan 2025 18:05:02 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[government]]></category>
-		<category><![CDATA[op-ed]]></category>
-		<category><![CDATA[policy]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[dario amodei]]></category>
-		<category><![CDATA[essay]]></category>
-		<category><![CDATA[export controls]]></category>
-		<category><![CDATA[export rules]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2955349</guid>
-
-					<description><![CDATA[<p>In an essay on Wednesday, Dario Amodei, the CEO of Anthropic, weighed in on the debate over whether Chinese AI company DeepSeek&#8217;s success implies that U.S. export controls on AI chips aren&#8217;t working. Amodei, who recently made the case for stronger export controls in an op-ed co-written with former U.S. deputy national security adviser Matt [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Report: Majority of US teens have lost trust in Big Tech</title>
-		<link>https://techcrunch.com/2025/01/29/report-majority-of-u-s-teens-have-lost-trust-in-big-tech/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Wed, 29 Jan 2025 17:32:44 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[artificial intelligence]]></category>
-		<category><![CDATA[big tech]]></category>
-		<category><![CDATA[genAI]]></category>
-		<category><![CDATA[study]]></category>
-		<category><![CDATA[Teens]]></category>
-		<category><![CDATA[us teens]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2955339</guid>
-
-					<description><![CDATA[<p>American teens have lost their faith in Big Tech, according to a new report from Common Sense Media, a nonprofit offering reviews and ratings for media and technology, which more recently includes AI products. In the study released Wednesday, the organization surveyed over 1,000 teens on whether major technology companies like Google, Apple, Meta, TikTok, [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
