@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 31 Jan 2025 09:50:03 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 31 Jan 2025 11:04:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>US nonprofit healthcare provider says hackers stole medical and personal data of 1M+ patients</title>
+		<link>https://techcrunch.com/2025/01/31/us-nonprofit-healthcare-provider-says-hackers-stole-medical-and-personal-data-of-1m-patients/</link>
+		
+		<dc:creator><![CDATA[Carly Page]]></dc:creator>
+		<pubDate>Fri, 31 Jan 2025 11:03:39 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[security]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2957356</guid>
+
+					<description><![CDATA[<p>Community Health Center (CHC), a Connecticut-based nonprofit healthcare provider, has confirmed that hackers accessed the sensitive data of more than a million patients. In a filing with Maine’s attorney general on Thursday, CHC said it detected suspicious activity on its network on 2 January and determined that a “skilled criminal hacker” had accessed its network [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Apple Intelligence will support more languages from April</title>
 		<link>https://techcrunch.com/2025/01/31/apple-intelligence-will-support-more-languages-from-april/</link>
 		
@@ -425,24 +444,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2956573</guid>
 
 					<description><![CDATA[<p>Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation. Sign up here for free — just click TechCrunch Mobility! In case you missed it, Tesla CEO Elon Musk said the company would launch a paid ride-hailing service with a fleet of driverless vehicles in Austin in [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Amazon cuts jobs in Sustainability department</title>
-		<link>https://techcrunch.com/2025/01/30/amazon-cuts-jobs-in-sustainability-department/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Thu, 30 Jan 2025 19:29:21 +0000</pubDate>
-				<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[Amazon]]></category>
-		<category><![CDATA[Layoffs]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2956588</guid>
-
-					<description><![CDATA[<p>Amazon is eliminating roles in its Communications and Sustainability departments, per an internal memo seen by TechCrunch.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
