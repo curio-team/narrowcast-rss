@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 04 Feb 2025 13:16:22 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Feb 2025 14:20:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,65 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Team behind Twitterrific launches a multi-feed app called Tapestry</title>
+		<link>https://techcrunch.com/2025/02/04/team-behind-twitterrific-launches-a-multi-feed-app-called-tapestry/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Tue, 04 Feb 2025 14:18:23 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[iconfactory]]></category>
+		<category><![CDATA[Mastodon]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[twitterrific]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2959222</guid>
+
+					<description><![CDATA[<p>After Elon Musk took over Twitter, the company blocked third-party clients in 2023, including ones like Twitterrific, Tweetbot, and Fenix. Iconfactory, the company behind Twitterrifc, finally launched its multi-feed app called Tapestry on Tuesday, which allows you to add sources like RSS, YouTube, Bluesky, Podcasts, Mastodon, Reddit, Tumblr, Micro.blog, GO Comics, and more to unified [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>LinkedIn amps up vertical video tools as uploads jump 36%</title>
+		<link>https://techcrunch.com/2025/02/04/linkedin-amps-up-vertical-video-tools-as-uploads-jump-36/</link>
+		
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+		<pubDate>Tue, 04 Feb 2025 14:12:15 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[LinkedIn]]></category>
+		<category><![CDATA[TikTok]]></category>
+		<category><![CDATA[Vertical Video]]></category>
+		<category><![CDATA[Video]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2959345</guid>
+
+					<description><![CDATA[<p>Video reigns supreme on social media like TikTok, Instagram, and YouTube. And now, video is becoming a bigger business for LinkedIn.&#160; The Microsoft-owned social network for the working world has yet to go full TikTok. But with a big boost of usage — today it said that video uploads jumped by 36% compared to last [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Walkstar is a new iOS app that pauses songs when you stop moving</title>
+		<link>https://techcrunch.com/2025/02/04/walkstar-is-a-new-ios-app-that-pauses-songs-when-you-stop-moving/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Tue, 04 Feb 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[music streaming]]></category>
+		<category><![CDATA[iOS apps]]></category>
+		<category><![CDATA[fitness app]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2958957</guid>
+
+					<description><![CDATA[<p>There are plenty of pedometer and step counter apps in the world, but this new app has a fun twist. Walkstar, which launched Tuesday in the App Store, enhances your workout by syncing your tunes with your movement. The moment you pause, the music fades away, making it a perfect motivator for those looking to [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Canada&#8217;s StackAdapt snaps up $235M for its AI-based programmatic platform</title>
 		<link>https://techcrunch.com/2025/02/04/canadas-stackadapt-snaps-up-235m-for-its-ai-based-programmatic-platform/</link>
 		
@@ -372,79 +431,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2958928</guid>
 
 					<description><![CDATA[<p>DeepSeek's model is censored at both the application and training layers, a Wired investigation shows.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meta says it may stop development of AI systems it deems too risky</title>
-		<link>https://techcrunch.com/2025/02/03/meta-says-it-may-stop-development-of-ai-systems-it-deems-too-risky/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Mon, 03 Feb 2025 21:52:29 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[document]]></category>
-		<category><![CDATA[frontier ai framework]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Llama]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[Open AI]]></category>
-		<category><![CDATA[policy]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2958810</guid>
-
-					<description><![CDATA[<p>Meta CEO Mark Zuckerberg has pledged to make artificial general intelligence (AGI) &#8212; which is roughly defined as AI that can accomplish any task a human can &#8212; openly available one day. But in a new policy document, Meta suggests that there are certain scenarios in which it may not release a highly capable AI [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>DeepSeek: The countries and agencies that have banned the AI company&#8217;s tech</title>
-		<link>https://techcrunch.com/2025/02/03/deepseek-the-countries-and-agencies-that-have-banned-the-ai-companys-tech/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Mon, 03 Feb 2025 20:00:40 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[bans]]></category>
-		<category><![CDATA[deepseek]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[government]]></category>
-		<category><![CDATA[policy]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2958542</guid>
-
-					<description><![CDATA[<p>DeepSeek, the Chinese AI company, is raising the ire of regulators around the world. DeepSeek&#8217;s viral AI models and chatbot apps have been banned by a growing number of countries and government bodies, which have expressed concerns over DeepSeek&#8217;s ethics, privacy, and security practices. Corporations have banned DeepSeek, too — by the hundreds. The biggest [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Journalist targeted on WhatsApp by Paragon spyware: &#8216;I feel violated&#8217;</title>
-		<link>https://techcrunch.com/2025/02/03/journalist-targeted-on-whatsapp-by-paragon-spyware-i-feel-violated/</link>
-		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
-		<pubDate>Mon, 03 Feb 2025 19:22:05 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[AE Industrial]]></category>
-		<category><![CDATA[hackers]]></category>
-		<category><![CDATA[hacking]]></category>
-		<category><![CDATA[Israel]]></category>
-		<category><![CDATA[journalism]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[paragon]]></category>
-		<category><![CDATA[Paragon Solutions]]></category>
-		<category><![CDATA[Spyware]]></category>
-		<category><![CDATA[WhatsApp]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2958651</guid>
-
-					<description><![CDATA[<p>An Italian investigative journalist said he was the target of a spyware attack disclosed by WhatsApp.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
