@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 05 Feb 2025 07:51:41 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Feb 2025 10:08:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,28 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Router maker Zyxel tells customers to replace vulnerable hardware exploited by hackers</title>
+		<link>https://techcrunch.com/2025/02/05/router-maker-zyxel-tells-customers-to-replace-vulnerable-hardware-exploited-by-hackers/</link>
+		
+		<dc:creator><![CDATA[Carly Page]]></dc:creator>
+		<pubDate>Wed, 05 Feb 2025 10:08:19 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[zero-day]]></category>
+		<category><![CDATA[zyxel]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2960304</guid>
+
+					<description><![CDATA[<p>The Taiwanese hardware maker says it has no plans patch the flaws impacting legacy router models</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>European AI startups raised $8 billion in 2024</title>
 		<link>https://techcrunch.com/2025/02/04/european-ai-startups-raised-8-billion-in-2024/</link>
 		
@@ -443,24 +465,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2959111</guid>
 
 					<description><![CDATA[<p>Circularity’s process uses 40% less energy than competing CO2-to-fuel pathways.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TED Talks has put out an all-call for a new leader</title>
-		<link>https://techcrunch.com/2025/02/04/ted-talks-has-put-out-an-all-call-for-a-new-leader/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Tue, 04 Feb 2025 18:42:32 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[ted]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2959647</guid>
-
-					<description><![CDATA[<p>Chris Anderson, who has run TED for 25 years, is looking to bestow the operation on anyone who has a good plan for its future, he announced in a blog post. TED is best known for its TED Talks, where ideas from tech to humor have been explored. It has featured famed tech moguls (Bill [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
