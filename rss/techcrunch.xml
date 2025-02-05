@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 05 Feb 2025 10:08:24 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Feb 2025 10:31:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Former Whoop exec’s new app Alma uses AI for all things nutrition</title>
+		<link>https://techcrunch.com/2025/02/05/former-whoop-execs-new-app-alma-uses-ai-for-all-things-nutrition/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Wed, 05 Feb 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[menlo ventures]]></category>
+		<category><![CDATA[nutrition]]></category>
+		<category><![CDATA[whoop]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2959255</guid>
+
+					<description><![CDATA[<p>Generative AI models have demonstrated to app developers that combining a robust knowledge base with the right model can enable them to offer users services — once reliant on costly professionals like therapists or executive assistants — at a fraction of the price. Former VP of product at fitness company Whoop, Rami Alhamad, has a [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Waymo just popped up on the Uber app in Austin ahead of robotaxi launch</title>
 		<link>https://techcrunch.com/2025/02/05/waymo-just-popped-up-on-the-uber-app-in-austin-ahead-of-robotaxi-launch/</link>
 		
@@ -436,32 +456,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2959701</guid>
 
 					<description><![CDATA[<p>Amazon’s power bill has been soaring lately as it adds data centers to deal with rising demand for AI and cloud services.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>A review of Tapestry, an app powered by the growing open web</title>
-		<link>https://techcrunch.com/2025/02/04/a-review-of-tapestry-an-app-powered-by-the-growing-open-web/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Tue, 04 Feb 2025 19:12:23 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Bluesky]]></category>
-		<category><![CDATA[fediverse]]></category>
-		<category><![CDATA[feeds]]></category>
-		<category><![CDATA[iOS apps]]></category>
-		<category><![CDATA[Mastodon]]></category>
-		<category><![CDATA[open social]]></category>
-		<category><![CDATA[Open Web]]></category>
-		<category><![CDATA[RSS]]></category>
-		<category><![CDATA[social web]]></category>
-		<category><![CDATA[tapestry]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2959408</guid>
-
-					<description><![CDATA[<p>A new app called Tapestry, which launched Tuesday, aggregates and organizes information from across the web and social networks in a single place. It is, in some ways, like this generation&#8217;s FriendFeed, for those old enough to remember the earlier attempt from the Web 2.0 era to aggregate feeds and social media updates in a [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
