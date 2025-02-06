@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 06 Feb 2025 14:34:11 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 06 Feb 2025 15:26:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,63 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Spotify, Warner Music Group sign new deal to help deliver &#8216;further paid subscription tiers&#8217;</title>
+		<link>https://techcrunch.com/2025/02/06/spotify-warner-music-group-sign-new-deal-to-help-deliver-further-paid-subscription-tiers/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Thu, 06 Feb 2025 15:24:31 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[music streaming]]></category>
+		<category><![CDATA[Spotify]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2961359</guid>
+
+					<description><![CDATA[<p>Spotify and Warner Music Group (WMG) have unveiled a new multi-year agreement that covers both recorded music and music publishing, the companies announced on Thursday. WMG owns labels behind popular artists like Dua Lipa, Coldplay, and Ed Sheeran. The companies said in a press release that &#8220;the new deal will help deliver new fan experiences, [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mistral releases its AI assistant on iOS and Android</title>
+		<link>https://techcrunch.com/2025/02/06/mistral-releases-its-ai-assistant-on-ios-and-android/</link>
+		
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+		<pubDate>Thu, 06 Feb 2025 15:05:54 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Le Chat]]></category>
+		<category><![CDATA[mistral]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2961378</guid>
+
+					<description><![CDATA[<p>Mistral, the company sometimes considered Europe’s great hope for AI, is releasing several updates to its AI assistant, Le Chat. In addition to a major web interface upgrade, the company is releasing a mobile app on iOS and Android. As a reminder, Mistral develops its own large language models. The company’s flagship models, such as [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>a16z stands by decision to hire Daniel Penny</title>
+		<link>https://techcrunch.com/2025/02/06/a16z-stands-by-decision-to-hire-daniel-penny/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Thu, 06 Feb 2025 14:45:17 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[a16z]]></category>
+		<category><![CDATA[Daniel Penny]]></category>
+		<category><![CDATA[venture]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2961326</guid>
+
+					<description><![CDATA[<p>Andreessen Horowitz is defending its decision to hire Daniel Penny, according to an investor memo seen by The New York Times.  The venture capital firm caused a stir earlier this week after it announced it would hire Penny, who was acquitted last year of choking a homeless man to death in the New York City [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>OpenAI launches data residency in Europe</title>
 		<link>https://techcrunch.com/2025/02/06/openai-launches-data-residency-in-europe/</link>
 		
@@ -383,71 +440,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2960912</guid>
 
 					<description><![CDATA[<p>Every Sunday, NPR host Will Shortz, The New York Times&#8217; crossword puzzle guru, gets to quiz thousands of listeners in a long-running segment called the Sunday Puzzle. While written to be solvable without too much foreknowledge, the brainteasers are usually challenging even for skilled contestants. That&#8217;s why some experts think they&#8217;re a promising way to [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Boston Dynamics joins forces with its former CEO to speed the learning of its Atlas humanoid robot</title>
-		<link>https://techcrunch.com/2025/02/05/boston-dynamics-joins-forces-with-its-former-ceo-to-speed-the-learning-of-its-atlas-humanoid-robot/</link>
-		
-		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
-		<pubDate>Thu, 06 Feb 2025 00:24:48 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[boston dynamics]]></category>
-		<category><![CDATA[humanoid robots]]></category>
-		<category><![CDATA[humanoids]]></category>
-		<category><![CDATA[hyundai]]></category>
-		<category><![CDATA[rai institute]]></category>
-		<category><![CDATA[reinforcement learning]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2960789</guid>
-
-					<description><![CDATA[<p>Boston Dynamics Wednesday announced a partnership designed to bring improved reinforcement learning to its electric Atlas humanoid robot. The tie-up is with the Robotics &#38; AI Institute (RAI Institute), earlier known as The Boston Dynamics AI Institute. Both organizations were founded by Marc Raibert, a former MIT professor who served as Boston Dynamics&#8217; CEO for [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SoftBank could soon buy Renee James&#8217; Ampere chip company for about $6.5B</title>
-		<link>https://techcrunch.com/2025/02/05/softbank-could-soon-buy-renee-james-ampere-chip-company-for-about-6-5b/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Thu, 06 Feb 2025 00:14:43 +0000</pubDate>
-				<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[Ampere]]></category>
-		<category><![CDATA[ARM]]></category>
-		<category><![CDATA[semiconductor chips]]></category>
-		<category><![CDATA[Softbank]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2960715</guid>
-
-					<description><![CDATA[<p>And it's the latest in an ongoing saga over the company's future ownership.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Sonos lays off 200 ahead of rumored set-top box release</title>
-		<link>https://techcrunch.com/2025/02/05/sonos-lays-off-200-ahead-of-rumored-set-top-box-release/</link>
-		
-		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
-		<pubDate>Wed, 05 Feb 2025 23:51:21 +0000</pubDate>
-				<category><![CDATA[Gadgets]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Layoffs]]></category>
-		<category><![CDATA[Sonos]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2960838</guid>
-
-					<description><![CDATA[<p>Sonos announced that it has laid off 200 people in a letter posted to its site Wednesday. The news follows a 100-person layoff in August. Both rounds arrive in the wake of a disastrously botched update to the Sonos app that alienated broad swaths of the premium audio hardware firm’s extremely loyal fanbase. The new [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
