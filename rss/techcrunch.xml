@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 07 Feb 2025 08:50:10 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 Feb 2025 10:32:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,49 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>PowerSchool data breach affected 16,000 students in the UK</title>
+		<link>https://techcrunch.com/2025/02/07/powerschool-data-breach-affected-16000-students-in-the-uk/</link>
+		
+		<dc:creator><![CDATA[Carly Page]]></dc:creator>
+		<pubDate>Fri, 07 Feb 2025 10:32:24 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[powerschool]]></category>
+		<category><![CDATA[scoop]]></category>
+		<category><![CDATA[security]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2962064</guid>
+
+					<description><![CDATA[<p>The edtech giant has begun notifying individuals outside of the US and Canada affected by the breach</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>UAE to invest billions to build AI data center in France</title>
+		<link>https://techcrunch.com/2025/02/07/uae-to-invest-billions-to-build-ai-data-center-in-france/</link>
+		
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+		<pubDate>Fri, 07 Feb 2025 10:14:53 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[AI data center]]></category>
+		<category><![CDATA[data center]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[France AI Action Summit]]></category>
+		<category><![CDATA[mgx]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2962066</guid>
+
+					<description><![CDATA[<p>A few days ahead of the Artificial Intelligence Action Summit in Paris, the French presidency has announced the first of several expected financial initiatives related to AI. France&#8217;s Emmanuel Macron and the United Arab Emirates&#8217; Mohamed bin Zayed Al Nahyan have signed an agreement for a significant investment to build a massive data center dedicated [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Meta launches new program to improve speech and translation AI</title>
 		<link>https://techcrunch.com/2025/02/07/meta-launches-new-program-to-improve-speech-and-translation-ai/</link>
 		
@@ -398,51 +441,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2819319</guid>
 
 					<description><![CDATA[<p>Dojo is Tesla’s custom-built supercomputer that’s designed to train its “Full Self-Driving” neural networks.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google is adding digital watermarks to images edited with Magic Editor AI</title>
-		<link>https://techcrunch.com/2025/02/06/google-is-adding-digital-watermarks-to-images-edited-with-magic-editor-ai/</link>
-		
-		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
-		<pubDate>Thu, 06 Feb 2025 19:09:39 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Gadgets]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[digital watermarking]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[Google Photos]]></category>
-		<category><![CDATA[Magic editor]]></category>
-		<category><![CDATA[synthid]]></category>
-		<category><![CDATA[watermarking]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2961603</guid>
-
-					<description><![CDATA[<p>Google on Thursday announced that effective this week, it will begin adding a digital watermark to images in Photos that are edited with generative AI. The watermark applies specifically to images that are altered using the Reimagine feature found in Magic Editor on Pixel 9 devices. Announced in 2024, Reimagine utilizes generative AI to alter [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Snapchat+ subscribers can now create custom AI-generated stickers</title>
-		<link>https://techcrunch.com/2025/02/06/snapchat-subscribers-can-now-create-custom-ai-generated-stickers/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Thu, 06 Feb 2025 19:08:48 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Snap]]></category>
-		<category><![CDATA[Snapchat]]></category>
-		<category><![CDATA[snapchat+]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2961526</guid>
-
-					<description><![CDATA[<p>In a bid to boost its subscription service and attract more paying users, Snapchat is rolling out additional features for Snapchat+ subscribers, including allowing Snapchat+ subscribers to create AI-generated stickers in chats. The social media company is also adding the option to send self-destructing Snaps. Snapchat+ subscribers in the U.S. can now create and send [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
