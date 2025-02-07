@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 07 Feb 2025 14:35:11 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 Feb 2025 15:20:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,48 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>HPE begins notifying data breach victims after Russian government hack</title>
+		<link>https://techcrunch.com/2025/02/07/hpe-begins-notifying-data-breach-victims-after-russian-government-hack/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Fri, 07 Feb 2025 15:20:47 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Hewlett-Packard Enterprise]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[russia]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2962157</guid>
+
+					<description><![CDATA[<p>Hackers with Russian foreign intelligence were blamed for the breach, which also targeted Microsoft.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>PromptLayer is building tools to put non-techies in the driver’s seat of AI app development</title>
+		<link>https://techcrunch.com/2025/02/07/promptlayer-is-building-tools-to-put-non-techies-in-the-drivers-seat-of-ai-app-development/</link>
+		
+		<dc:creator><![CDATA[Natasha Lomas]]></dc:creator>
+		<pubDate>Fri, 07 Feb 2025 15:16:31 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[ai apps]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[prompt engineering]]></category>
+		<category><![CDATA[promptlayer]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2961460</guid>
+
+					<description><![CDATA[<p>The GenAI boom of the last few years has unleashed a wave of startups promising to support the process of prompt engineering &#8212; i.e., coming up with instructions to precisely steer an AI chatbot to serve useful output. So think tools like OpenAI&#8217;s ChatGPT and Google&#8217;s Gemini, which present the user with a blank field [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Pinterest lists DEI attacks as possible business risk in latest filing</title>
 		<link>https://techcrunch.com/2025/02/07/pinterest-lists-dei-attacks-as-possible-business-risk-latest-filing/</link>
 		
@@ -394,50 +436,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2961797</guid>
 
 					<description><![CDATA[<p>One of Meta’s earliest employees is suing the company for sexual harassment, sex discrimination, and retaliation, according to a lawsuit filed this week in the state of Washington. Kelly Stonelake, who spent 15 years at the company and rose to the rank of director, alleges in the lawsuit she faced a cycle of gender-based discrimination [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI now reveals more of its o3-mini model&#8217;s thought process</title>
-		<link>https://techcrunch.com/2025/02/06/openai-now-reveals-more-of-its-o3-mini-models-thought-process/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Thu, 06 Feb 2025 22:01:51 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[AI reasoning models]]></category>
-		<category><![CDATA[chain of thought]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[o3-mini]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[reasoning models]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2961801</guid>
-
-					<description><![CDATA[<p>In response to pressure from rivals including Chinese AI company DeepSeek, OpenAI is changing the way its newest AI model, o3-mini, communicates its step-by-step &#8220;thought&#8221; process. On Thursday, OpenAI announced that free and paid users of ChatGPT, the company&#8217;s AI-powered chatbot platform, will see an updated &#8220;chain of thought&#8221; that shows more of the model&#8217;s [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>DOGE staffer steps down after racist posts emerge</title>
-		<link>https://techcrunch.com/2025/02/06/doge-staffer-steps-down-after-racist-posts-emerge/</link>
-		
-		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
-		<pubDate>Thu, 06 Feb 2025 21:48:46 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[doge]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[government]]></category>
-		<category><![CDATA[X]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2961780</guid>
-
-					<description><![CDATA[<p>A 25-year-old Doge staffer resigned over racist posts on X.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
