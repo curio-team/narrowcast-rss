@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 10 Feb 2025 11:11:12 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 Feb 2025 12:25:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,47 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>AI pioneer Fei-Fei Li warns policymakers not to let sci-fi sensationalism shape AI rules</title>
+		<link>https://techcrunch.com/2025/02/10/ai-pioneer-fei-fei-li-says-governments-should-embrace-a-pragmatic-attitude-instead-of-an-ideological-one-on-ai/</link>
+		
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+		<pubDate>Mon, 10 Feb 2025 12:25:17 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[AI governance]]></category>
+		<category><![CDATA[Fei-Fei Li]]></category>
+		<category><![CDATA[France AI Action Summit]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2962855</guid>
+
+					<description><![CDATA[<p>Fei-Fei Li, the Stanford researcher who also founded World Labs, was invited to the Grand Palais in Paris on Monday to give the opening speech at the Artificial Intelligence Action Summit which is taking place this week. While she shared some of her talking points over the weekend, her stance on AI regulation and the [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Media giant Lee Enterprises confirms cyberattack as news outlets report ongoing disruption</title>
+		<link>https://techcrunch.com/2025/02/10/media-giant-lee-enterprises-confirms-cyberattack-as-news-outlets-report-ongoing-disruption/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Mon, 10 Feb 2025 12:20:55 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Lee Enterprises]]></category>
+		<category><![CDATA[local newspapers]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2962857</guid>
+
+					<description><![CDATA[<p>The newspaper owner said it was determining what data, if any, was stolen.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Macron unveils $112B AI investment package, France’s answer to US&#8217; Stargate</title>
 		<link>https://techcrunch.com/2025/02/10/macron-unveils-a-112b-ai-investment-package-as-frances-answer-to-stargate/</link>
 		
@@ -398,47 +439,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2962444</guid>
 
 					<description><![CDATA[<p>Fine art auction house, Christie&#8217;s, has sold AI-generated art before. But soon, it plans to hold its first show dedicated solely to works created with AI, an announcement that has been met with mixed reviews. The auction, which Christie&#8217;s is calling &#8216;Augmented Intelligence,&#8217; will feature artwork from artists including Mat Dryhurst, the founder of AI [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic CEO says DeepSeek was &#8216;the worst&#8217; on a critical bioweapons data safety test</title>
-		<link>https://techcrunch.com/2025/02/07/anthropic-ceo-says-deepseek-was-the-worst-on-a-critical-bioweapons-data-safety-test/</link>
-		
-		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
-		<pubDate>Fri, 07 Feb 2025 22:57:28 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[ai models]]></category>
-		<category><![CDATA[ai safety]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[deepseek]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2962605</guid>
-
-					<description><![CDATA[<p>Anthropic's CEO Dario Amodei claims DeepSeek generated sensitive bioweapons data in a safety test it ran.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI plans to open an office in Germany</title>
-		<link>https://techcrunch.com/2025/02/07/openai-plans-to-open-an-office-in-germany/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Fri, 07 Feb 2025 22:49:32 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Germany]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[munich]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2962617</guid>
-
-					<description><![CDATA[<p>OpenAI is expanding its footprint to Germany. According to a press release issued Friday, the ChatGPT maker plans to open an office in Munich in the coming months. &#8220;Germany is renowned for its technical expertise, academic excellence, and industrial innovation,&#8221; OpenAI CEO Sam Altman said in a statement. &#8220;Opening our first office in Germany means [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
