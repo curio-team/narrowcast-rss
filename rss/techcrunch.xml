@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 11 Feb 2025 12:43:19 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Feb 2025 13:35:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,84 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Archer Aviation doubles down on defense aircraft with fresh $300M</title>
+		<link>https://techcrunch.com/2025/02/11/archer-aviation-doubles-down-on-defense-aircraft-with-fresh-300m/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2025 13:30:05 +0000</pubDate>
+				<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Archer Aviation]]></category>
+		<category><![CDATA[defense]]></category>
+		<category><![CDATA[eVTOL]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2963634</guid>
+
+					<description><![CDATA[<p>Escalating geopolitical tensions and a new administration with a hawkish defense agenda has led many startups to embrace dual-use strategies to secure revenue through military applications. And it’s a trend that is already heating up in aerospace.&#160;&#160; Just look at Archer Aviation, a California-based startup building eVTOLs (electric vertical takeoff and landing vehicles). Until very [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Moderne raises $30M to solve technical debt across complex codebases</title>
+		<link>https://techcrunch.com/2025/02/11/moderne-raises-30m-to-solve-technical-debt-across-complex-codebases/</link>
+		
+		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2025 13:30:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Moderne]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2959636</guid>
+
+					<description><![CDATA[<p>When companies take shortcuts to build their software stack, prioritizing speed and quick-fixes over quality and long-term scalability, they can end up with what&#8217;s known as &#8220;technical debt.&#8221; Essentially, if a codebase is not constructed properly, as it grows, it will become more complex, cost more to maintain, and it&#8217;ll become ever harder to add [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>As US and UK refuse to sign the Paris AI Action Summit statement, other countries commit to developing &#8216;open, inclusive, ethical&#8217; AI</title>
+		<link>https://techcrunch.com/2025/02/11/as-us-and-uk-refuse-to-sign-ai-action-summit-statement-countries-fail-to-agree-on-the-basics/</link>
+		
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2025 13:25:10 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[AI governance]]></category>
+		<category><![CDATA[France AI Action Summit]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2963622</guid>
+
+					<description><![CDATA[<p>The Artificial Intelligence Action Summit in Paris was supposed to culminate with a joint declaration on artificial intelligence signed by dozens of world leaders. While the statement isn’t as ambitious as the Bletchley and Seoul declarations, both the U.S. and the U.K. have refused to sign it. It proves once again that it is difficult [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Australian health tech startup Harrison.ai scores $112M Series C</title>
+		<link>https://techcrunch.com/2025/02/11/australian-healthtech-startup-harrison-ai-scores-112m-series-c/</link>
+		
+		<dc:creator><![CDATA[Kate Park]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[medical imaging]]></category>
+		<category><![CDATA[medtech]]></category>
+		<category><![CDATA[Harrison.ai]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2963564</guid>
+
+					<description><![CDATA[<p>Medical imaging is crucial for the timely identification of serious diseases like cancer. However, manual interpretation of scans is a time-intensive process. Healthcare professionals increasingly use AI-powered tools for diagnostic purposes, as such technologies can be very effective in detecting and categorizing diseases. A Sydney, Australia-headquartered startup, Harrison.ai, has built AI-enabled medical diagnostic software and [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Paris, JD Vance skewers EU AI rules, lauds US tech supremacy</title>
 		<link>https://techcrunch.com/2025/02/11/in-paris-jd-vance-skewers-eu-ai-rules-lauds-us-tech-supremacy/</link>
 		
@@ -350,89 +428,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2963225</guid>
 
 					<description><![CDATA[<p>If you want to relive Kendrick Lamar&#8217;s headline-making Super Bowl halftime show, Apple Music just dropped a replay of the performance in its surround sound-like Spatial Audio. Because Apple currently sponsors the Super Bowl halftime show, the company has permission to republish these musical spectacles &#8212; but this is better than just a YouTube video [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Elon Musk-led team submits $97.4B bid for OpenAI</title>
-		<link>https://techcrunch.com/2025/02/10/elon-musk-led-team-submits-97-4b-bid-for-openai/</link>
-		
-		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
-		<pubDate>Mon, 10 Feb 2025 21:29:57 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[sam altman]]></category>
-		<category><![CDATA[xAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2963258</guid>
-
-					<description><![CDATA[<p>A team of investors led by Elon Musk submitted a $97.6 billion bid to purchase OpenAI on Monday. The news comes by way of Musk’s lawyer, Marc Toberoff, who confirmed the reporting with The Wall Street Journal. The unsolicited bid is the latest escalation by Musk in his war with co-founder Sam Altman, with whom [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>A comprehensive list of 2024 and 2025 tech layoffs</title>
-		<link>https://techcrunch.com/2025/02/10/tech-layoffs-2024-list/</link>
-		
-		<dc:creator><![CDATA[Cody Corrall, Alyssa Stringer]]></dc:creator>
-		<pubDate>Mon, 10 Feb 2025 21:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[Layoffs]]></category>
-		<category><![CDATA[tech layoffs]]></category>
-		<category><![CDATA[TechCrunch 2023 Recap]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2607662</guid>
-
-					<description><![CDATA[<p>A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google expands NotebookLM Plus to individual users</title>
-		<link>https://techcrunch.com/2025/02/10/google-expands-notebooklm-plus-to-individual-users/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Mon, 10 Feb 2025 21:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[gemini]]></category>
-		<category><![CDATA[Google NotebookLM]]></category>
-		<category><![CDATA[NotebookLM Plus]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2963132</guid>
-
-					<description><![CDATA[<p>Google has expanded NotebookLM Plus to users subscribed to the Google One AI Premium plan.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Bird cuts 120 jobs as part of &#8216;strategic realignment&#8217;</title>
-		<link>https://techcrunch.com/2025/02/10/bird-cuts-120-jobs-as-part-of-strategic-realignment/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Mon, 10 Feb 2025 20:37:30 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[bird]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[Layoffs]]></category>
-		<category><![CDATA[messagebird]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2962929</guid>
-
-					<description><![CDATA[<p>Bird, formerly MessageBird, has cut 120 jobs — roughly one-third of its workforce — as the startup plans to realign its global operations.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
