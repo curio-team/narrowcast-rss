@@ -15,13 +15,13 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 11 Feb 2025 15:29:32 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Feb 2025 07:19:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
 
 <image>
 	<url>https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32</url>
@@ -31,356 +31,18 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>BYD to offer Tesla-like driver assist, even on its cheapest models </title>
-		<link>https://techcrunch.com/2025/02/11/byd-to-offer-tesla-like-driver-assist-even-on-its-cheapest-models/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 15:29:05 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[ADAS]]></category>
-		<category><![CDATA[avs]]></category>
-		<category><![CDATA[BYD]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2963722</guid>
-
-					<description><![CDATA[<p>Chinese electric vehicle maker BYD unveiled “God’s Eye,” an advanced driver assistance system that will be install on its entire model lineup, including its $9,600 Seagull hatchback.  BYD founder Wang Chuanfu said at a live streamed event Monday that &#8220;we’re entering an era where autonomous driving is for everyone,” according to The Financial Times.  God’s [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Pinkfish helps enterprises build AI agents through natural language processing</title>
-		<link>https://techcrunch.com/2025/02/11/pinkfish-helps-enterprises-build-ai-agents-through-natural-language-processing/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 15:03:16 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[AI agents]]></category>
-		<category><![CDATA[artificial intelligence]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[norwest venture partners]]></category>
-		<category><![CDATA[storm ventures]]></category>
-		<category><![CDATA[Talkdesk]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2963128</guid>
-
-					<description><![CDATA[<p>As the chief product officer for AI customer service startup TalkDesk, Charayna &#8220;CK&#8221; Kannan said that enterprises often say they want to automate different workflows but that it&#8217;s really hard to implement AI. Enterprises are dealing with clunky, legacy software, that often doesn&#8217;t have APIs, creating a daunting task their IT departments weren&#8217;t prioritizing. &#8220;Every [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>YouTube AI updates include auto dubbing expansion, age ID tech, and more</title>
-		<link>https://techcrunch.com/2025/02/11/youtube-ai-updates-to-include-expansion-of-auto-dubbing-age-identifying-tech-and-more/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 14:57:22 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Artificial Intelligence (AI)]]></category>
-		<category><![CDATA[Creators]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[YouTube]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2963676</guid>
-
-					<description><![CDATA[<p>In his annual letter, YouTube CEO Neal Mohan dubbed AI one of the company&#8217;s four &#8220;big bets&#8221; for 2025. The executive pointed to the company&#8217;s investments in AI tools for creators, including ones for video ideas, thumbnails, and language translation. The latter feature will roll out to all creators in YouTube&#8217;s Partner Program this month, [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google leads $230M convertible note for Boston quantum computing startup QuEra</title>
-		<link>https://techcrunch.com/2025/02/11/google-leads-230m-convertible-note-for-boston-quantum-computing-startup-quera/</link>
-		
-		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 14:45:09 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[Quantum]]></category>
-		<category><![CDATA[quantum computing]]></category>
-		<category><![CDATA[QuEra]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2963647</guid>
-
-					<description><![CDATA[<p>Quantum computing, long relegated to the realm of theoretical, feels like it is back on the agenda as a potentially viable alternative to the expensive race for more powerful compute.&#160; On the heels of some notable advancements in quantum chips and error correction (two of the key areas that have kept quantum computers from becoming [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA election security officials placed on leave: report</title>
-		<link>https://techcrunch.com/2025/02/11/cisa-election-security-officials-placed-on-leave-report/</link>
-		
-		<dc:creator><![CDATA[Carly Page]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 14:35:23 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[security]]></category>
-		<category><![CDATA[us government]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2963674</guid>
-
-					<description><![CDATA[<p>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has reportedly placed several members of its election security team on administrative leave. The Associated Press, citing a person familiar with the situation, reports that 17 CISA employees have been placed on leave pending review.&#160; The employees had worked with election officials to counter a range of [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic CEO Dario Amodei calls the AI Action Summit a &#8216;missed opportunity&#8217;</title>
-		<link>https://techcrunch.com/2025/02/11/anthropic-ceo-dario-amodei-calls-the-ai-action-summit-a-missed-opportunity/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 14:10:41 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[ai action summit]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[dario amodei]]></category>
-		<category><![CDATA[France AI Action Summit]]></category>
-		<category><![CDATA[paris]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2963621</guid>
-
-					<description><![CDATA[<p>In a statement on Tuesday, Dario Amodei, the CEO of AI startup Anthropic, called the AI Action Summit in Paris this week a &#8220;missed opportunity,&#8221; and urged the AI industry — and government — to &#8220;move faster and with greater clarity.&#8221; &#8220;We were pleased to attend the AI Action Summit in Paris, and we appreciate [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Voyantis aims to help companies figure out their customers&#8217; worth</title>
-		<link>https://techcrunch.com/2025/02/11/voyantis-aims-to-help-companies-figure-out-their-customers-worth/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Funding]]></category>
-		<category><![CDATA[startup]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[voyantis]]></category>
-		<category><![CDATA[customer]]></category>
-		<category><![CDATA[customer value]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2956363</guid>
-
-					<description><![CDATA[<p>How much is a customer worth to a company? That&#8217;s the eternal question. To arrive at an answer, customer and sales teams are often forced to use spreadsheets and other manual data analysis methods. The problem is, these methods tend to be slow and error-prone, leading to gaps in reporting processes. The challenge spurred two [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Workday launches a platform for enterprises to manage all of their AI agents in one place</title>
-		<link>https://techcrunch.com/2025/02/11/workday-launches-a-platform-for-enterprises-to-manage-all-of-their-ai-agents-in-one-place/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[AI agents]]></category>
-		<category><![CDATA[artificial intelligence]]></category>
-		<category><![CDATA[Workday]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2963174</guid>
-
-					<description><![CDATA[<p>HR giant Workday is launching a new way for enterprises to keep track of all of their AI agents in one place. It&#8217;s also launching a few more AI agents of its own, for good measure. Silicon Valley-based Workday announced on Tuesday the release of Workday Agent System of Record, which is meant to help [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>3D mood board and marketplace Mattoboard picks up $2M to launch AI visual search</title>
-		<link>https://techcrunch.com/2025/02/11/mattoboard-picks-up-2m-to-bring-ai-visual-search-to-its-3d-mood-board-for-designers/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[funding round]]></category>
-		<category><![CDATA[Mattoboard]]></category>
-		<category><![CDATA[seed funding]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2963223</guid>
-
-					<description><![CDATA[<p>Mattoboard, the makers of web-based software designed to simplify the creative process for interior designers and architects, is getting into AI. On Tuesday, the startup announced its $2 million seed funding round, which will support the launch of a new feature called Design Stream, an AI-driven visual search and discovery tool.&#160; The company&#8217;s software, a [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Comulate raises $20M to help insurers work more smoothly</title>
-		<link>https://techcrunch.com/2025/02/11/insurance-cos-stand-to-lose-billions-from-disasters-like-the-la-fires-comulate-raises-20m-to-build-tech-to-help-them-work-more-smoothly/</link>
-		
-		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 13:41:45 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[Bond]]></category>
-		<category><![CDATA[comulate]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[insurance]]></category>
-		<category><![CDATA[Insuretech]]></category>
-		<category><![CDATA[Workday]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2963640</guid>
-
-					<description><![CDATA[<p>Unimaginable disasters like the fires in Los Angeles cause hundreds of billions of dollars in destruction, and put a huge focus on the role the insurance industry plays in the process of rebuilding. Those events also lead to major financial losses at the insurance companies themselves, and longer term, all of this will put a [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Authorities arrest four suspected 8base ransomware operators in global takedown </title>
-		<link>https://techcrunch.com/2025/02/11/authorities-arrest-four-suspected-8base-ransomware-operators-in-global-takedown/</link>
-		
-		<dc:creator><![CDATA[Carly Page]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 13:37:49 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[8base]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[phobos]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<category><![CDATA[security]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2963641</guid>
-
-					<description><![CDATA[<p>The Russian nationals are accused of launching more than 1,000 ransomware attacks worldwide to steal $16 million</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Archer Aviation doubles down on defense aircraft with $300M raise</title>
-		<link>https://techcrunch.com/2025/02/11/archer-aviation-doubles-down-on-defense-aircraft-with-fresh-300m/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 13:30:05 +0000</pubDate>
-				<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Archer Aviation]]></category>
-		<category><![CDATA[defense]]></category>
-		<category><![CDATA[eVTOL]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2963634</guid>
-
-					<description><![CDATA[<p>Escalating geopolitical tensions and a new administration with a hawkish defense agenda has led many startups to embrace dual-use strategies to secure revenue through military applications. It’s a trend that is already heating up in aerospace.   Take Archer Aviation, a California-based startup building eVTOLs (electric vertical takeoff and landing vehicles). Until very recently, Archer’s go-to-market [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Moderne raises $30M to solve technical debt across complex codebases</title>
-		<link>https://techcrunch.com/2025/02/11/moderne-raises-30m-to-solve-technical-debt-across-complex-codebases/</link>
-		
-		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 13:30:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[Moderne]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2959636</guid>
-
-					<description><![CDATA[<p>When companies take shortcuts to build their software stack, prioritizing speed and quick-fixes over quality and long-term scalability, they can end up with what&#8217;s known as &#8220;technical debt.&#8221; Essentially, if a codebase is not constructed properly, as it grows, it will become more complex, cost more to maintain, and it&#8217;ll become ever harder to add [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>As US and UK refuse to sign the Paris AI Action Summit statement, other countries commit to developing &#8216;open, inclusive, ethical&#8217; AI</title>
-		<link>https://techcrunch.com/2025/02/11/as-us-and-uk-refuse-to-sign-ai-action-summit-statement-countries-fail-to-agree-on-the-basics/</link>
-		
-		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 13:25:10 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[AI governance]]></category>
-		<category><![CDATA[France AI Action Summit]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2963622</guid>
-
-					<description><![CDATA[<p>The Artificial Intelligence Action Summit in Paris was supposed to culminate with a joint declaration on artificial intelligence signed by dozens of world leaders. While the statement isn’t as ambitious as the Bletchley and Seoul declarations, both the U.S. and the U.K. have refused to sign it. It proves once again that it is difficult [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Australian health tech startup Harrison.ai scores $112M Series C</title>
-		<link>https://techcrunch.com/2025/02/11/australian-healthtech-startup-harrison-ai-scores-112m-series-c/</link>
-		
-		<dc:creator><![CDATA[Kate Park]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[medical imaging]]></category>
-		<category><![CDATA[medtech]]></category>
-		<category><![CDATA[Harrison.ai]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2963564</guid>
-
-					<description><![CDATA[<p>Medical imaging is crucial for the timely identification of serious diseases like cancer. However, manual interpretation of scans is a time-intensive process. Healthcare professionals increasingly use AI-powered tools for diagnostic purposes, as such technologies can be very effective in detecting and categorizing diseases. A Sydney, Australia-headquartered startup, Harrison.ai, has built AI-enabled medical diagnostic software and [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Paris, JD Vance skewers EU AI rules, lauds US tech supremacy</title>
-		<link>https://techcrunch.com/2025/02/11/in-paris-jd-vance-skewers-eu-ai-rules-lauds-us-tech-supremacy/</link>
-		
-		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 12:37:25 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[France AI Action Summit]]></category>
-		<category><![CDATA[j.d. vance]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2963551</guid>
-
-					<description><![CDATA[<p>At the AI Action Summit in Paris this week, the U.S. declined to sign the statement summarizing the resolutions. But it did make an appearance: Vice President J.D. Vance gave a speech to the audience of dignitaries, tech leaders and regulators. Amid a conference heavy on equitable AI development — specifically, beyond the outsized influence [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google backs Toonsutra to grow its webtoons platform in India</title>
-		<link>https://techcrunch.com/2025/02/11/google-back-toonsutra-to-grow-its-webtoons-platform-in-india/</link>
+		<title>Google Whisk, an image remixing tool, is now available in 100+ countries</title>
+		<link>https://techcrunch.com/2025/02/11/google-whisk-an-image-remixing-tool-is-now-available-in-100-countries/</link>
 		
 		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 12:15:46 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[crunchyroll]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[India]]></category>
-		<category><![CDATA[toonsutra]]></category>
-		<category><![CDATA[webtoons]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2957336</guid>
+		<pubDate>Wed, 12 Feb 2025 07:19:53 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[google whisk]]></category>
+		<category><![CDATA[image generation]]></category>
+		<category><![CDATA[imagen 3]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2964562</guid>
 
-					<description><![CDATA[<p>It&#8217;s no news that India is a huge market for entertainment businesses, but what often doesn&#8217;t get mentioned is that its people love to see content in their own languages. According to a recent survey by non-profit Internet and Mobile Association of India, more than 870 million Indians sought out videos, music and other content [&#8230;]</p>
+					<description><![CDATA[<p>Notably, the image tools are not available in countries and regions like India, Indonesia, the EU, and the U.K.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -388,46 +50,19 @@
 		
 			</item>
 		<item>
-		<title>AI investments surged 62% to $110B in 2024 while startup funding overall declined 12%</title>
-		<link>https://techcrunch.com/2025/02/11/ai-investments-surged-62-to-110-billion-in-2024-while-startup-funding-overall-declined-12-says-dealroom/</link>
-		
-		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 10:04:15 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[artificial intelligence]]></category>
-		<category><![CDATA[Dealroom]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[foundational models]]></category>
-		<category><![CDATA[France AI Action Summit]]></category>
-		<category><![CDATA[genAI]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2963519</guid>
-
-					<description><![CDATA[<p>Venture capitalists are gobbling up term sheets for startups peddling artificial intelligence, but they&#8217;re remaining picky when it comes to funding the wider spectrum of technology.  According to new figures from analytics firm Dealroom, AI startups raised $110 billion last year, 62% more than the year before. At the same time, privately-backed companies (startups and [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ghanaian fintech Affinity bags $8M to scale digital banking in a mobile money-driven market</title>
-		<link>https://techcrunch.com/2025/02/11/affinity-bags-8m-to-scale-digital-banking-in-ghana/</link>
+		<title>Tabby doubles valuation to $3.3B in $160M funding as it looks beyond BNPL and plans IPO</title>
+		<link>https://techcrunch.com/2025/02/11/tabby-lands-160m-at-a-3-3b-valuation-as-it-expands-beyond-bnpl/</link>
 		
 		<dc:creator><![CDATA[Tage Kene-Okafor]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 10:02:29 +0000</pubDate>
+		<pubDate>Wed, 12 Feb 2025 06:00:00 +0000</pubDate>
 				<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Affinity]]></category>
-		<category><![CDATA[affinity africa]]></category>
-		<category><![CDATA[Africa]]></category>
-		<category><![CDATA[digital banking]]></category>
-		<category><![CDATA[hybrid]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2963375</guid>
+		<category><![CDATA[bnpl]]></category>
+		<category><![CDATA[buy now pay later]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[Tabby]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2964217</guid>
 
-					<description><![CDATA[<p>Africa’s top digital banking platforms typically come from high-growth, populous markets like Nigeria, South Africa, and Egypt. But Affinity Africa, an upstart from Ghana, wants to join the conversation. The startup has raised $8 million in seed funding to expand its financial products further across the country, where mobile money is the dominant financial tool. [&#8230;]</p>
+					<description><![CDATA[<p>Consumer demand for credit options varies across regions, and for fintechs, understanding these differences is key to survival. In developed markets, where credit cards are common, consumers often view buy now, pay later (BNPL) offerings positively because of their flexible installment options. But in emerging markets like the Middle East, where credit card penetration is [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -435,18 +70,376 @@
 		
 			</item>
 		<item>
-		<title>Instagram is introducing teen accounts with new safety features in India</title>
-		<link>https://techcrunch.com/2025/02/11/instagram-is-introducing-teen-accounts-with-new-safety-features-in-india/</link>
+		<title>Shopify took down Kanye&#8217;s swastika T-shirt shop, but another antisemitic storefront still operates</title>
+		<link>https://techcrunch.com/2025/02/11/shopify-took-down-kanyes-swastika-t-shirt-shop-but-another-antisemitic-storefront-still-operates/</link>
 		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 09:44:50 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[India]]></category>
-		<category><![CDATA[Instagram]]></category>
-		<category><![CDATA[teen safety]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2963515</guid>
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Wed, 12 Feb 2025 01:17:52 +0000</pubDate>
+				<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[antisemitism]]></category>
+		<category><![CDATA[hate speech]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[kanye west]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2963795</guid>
 
-					<description><![CDATA[<p>Instagram said Tuesday that the platform is introducing its teen accounts feature, which has extra protective measures for safety for users in India, one of its biggest markets with over 350 million users. The company introduced Teen Accounts last year in The U.S., U.K, Canada, and Australia. Meta migrated accounts of Instagram users who are [&#8230;]</p>
+					<description><![CDATA[<p>Shopify took down Kanye West&#8217;s online store after the musician sold T-shirts with the swastika symbol. West, who also goes by Ye, advertised his online store in a Super Bowl commercial on Sunday, directing viewers to his website, where the only item listed was the swastika T-shirt. Though Shopify removed a policy banning sellers from [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Federal workers sue Elon Musk and DOGE to cut off data access</title>
+		<link>https://techcrunch.com/2025/02/11/federal-workers-sue-elon-musk-and-doge-to-cut-off-data-access/</link>
+		
+		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
+		<pubDate>Wed, 12 Feb 2025 00:08:02 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[lawsuits]]></category>
+		<category><![CDATA[privacy]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2964295</guid>
+
+					<description><![CDATA[<p>Federal workers are suing DOGE and its creator, Elon Musk to cut off the new agency's access to their personal data.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Founders Fund is about to close another $3B fund</title>
+		<link>https://techcrunch.com/2025/02/11/founders-fund-is-about-to-close-another-3b-fund/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2025 23:31:43 +0000</pubDate>
+				<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Founders Fund]]></category>
+		<category><![CDATA[growth funding]]></category>
+		<category><![CDATA[Peter Thiel]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2964283</guid>
+
+					<description><![CDATA[<p>Founders Fund is on track to conclude fundraising of its third growth fund at the end of March, according to people close to the firm. The Peter Thiel-founded outfit is raising $3 billion, a source told TechCrunch and&#160;Axios also reported. The fund, which is intended primarily for additional investments in its successful late-stage portfolio companies, [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple Maps plans to show &#8216;Gulf of America,&#8217; following Google</title>
+		<link>https://techcrunch.com/2025/02/11/apple-maps-plans-to-show-gulf-of-america-following-google/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2025 22:09:34 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Apple Maps]]></category>
+		<category><![CDATA[gulf of america]]></category>
+		<category><![CDATA[Gulf of Mexico]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Trump]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2964128</guid>
+
+					<description><![CDATA[<p>Apple Maps will soon rename the Gulf of Mexico to the Gulf of America, following similar changes made by Google this week, in order to comply with U.S. President Donald Trump&#8217;s executive order that officially changed the name. U.S.-based Apple users may see the &#8220;Gulf of America&#8221; as soon as Tuesday, according to Bloomberg, and [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ChatGPT may not be as power-hungry as once assumed</title>
+		<link>https://techcrunch.com/2025/02/11/chatgpt-may-not-be-as-power-hungry-as-once-assumed/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2025 22:00:26 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Climate]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[energy usage]]></category>
+		<category><![CDATA[environmental impact]]></category>
+		<category><![CDATA[epoch ai]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2962956</guid>
+
+					<description><![CDATA[<p>ChatGPT, OpenAI&#8217;s chatbot platform, may not be as power-hungry as once assumed. But its appetite largely depends on how ChatGPT is being used and the AI models that are answering the queries, according to a new study. A recent analysis by Epoch AI, a nonprofit AI research institute, attempted to calculate how much energy a [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Amazon tests sending customers directly to brands&#8217; websites when it doesn&#8217;t stock their products</title>
+		<link>https://techcrunch.com/2025/02/11/amazon-tests-sending-customers-directly-to-brands-websites-when-it-doesnt-stock-their-products/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2025 21:52:45 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[e-commerce]]></category>
+		<category><![CDATA[online shopping]]></category>
+		<category><![CDATA[shopping]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2964156</guid>
+
+					<description><![CDATA[<p>Remember that Christmas movie &#8220;Miracle on 34th Street,&#8221; where Macy&#8217;s in-store Santa, Kris Kringle, sends a frazzled shopper to a competitor&#8217;s store to find the Christmas present her son wanted because Macy&#8217;s was out of stock? Now Amazon is doing the same thing online. The retailer announced on Tuesday the test of a new Amazon [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>How to delete Facebook, Instagram, and Threads</title>
+		<link>https://techcrunch.com/2025/02/11/how-to-delete-facebook-instagram-and-threads/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2025 21:36:13 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Instagram]]></category>
+		<category><![CDATA[Mark Zuckerberg]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[Threads]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2944909</guid>
+
+					<description><![CDATA[<p>In the wake of Meta’s decision to remove its third-party fact-checking system and loosen content moderation policies, Google searches on how to delete Facebook, Instagram, and Threads have been on the rise. People who are angry with the decision accuse Meta CEO Mark Zuckerberg of cozying up to the Trump administration at the expense of [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google&#8217;s I/O developer conference set for May 20-21</title>
+		<link>https://techcrunch.com/2025/02/11/googles-i-o-developer-conference-set-for-may-20-21/</link>
+		
+		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2025 21:24:39 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[developer]]></category>
+		<category><![CDATA[gemini]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google I/O]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2964114</guid>
+
+					<description><![CDATA[<p>Google Tuesday confirmed that its annual developer conference is set for May 20-21, 2025. The event will be held at the usual spot, Mountain View’s Shoreline Amphitheater, a few minutes &#8212; depending on traffic &#8212; from Google HQ. The two-day event is a mix of both public- and developer-facing content. CEO Sundar Pichai will kick [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft powers AI ambitions with 400 MW solar purchase</title>
+		<link>https://techcrunch.com/2025/02/11/microsoft-powers-ai-ambitions-with-400-mw-solar-purchase/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2025 21:11:54 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Climate]]></category>
+		<category><![CDATA[data center]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[solar]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2964116</guid>
+
+					<description><![CDATA[<p>Microsoft has added another 389 megawatts of renewable power to its portfolio as the tech giant scrambles to meet the power demands required to match its AI ambitions.&#160; The additional renewable power spans three solar projects developed by EDP Renewables North America — two in southern Illinois and one outside Austin, Texas. Microsoft is buying [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google says it removed cultural events from its calendar last year</title>
+		<link>https://techcrunch.com/2025/02/11/google-says-it-removed-cultural-events-from-its-calender-in-mid-2024/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2025 20:05:00 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[DEI]]></category>
+		<category><![CDATA[Google]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2964036</guid>
+
+					<description><![CDATA[<p>Google has removed events such as Black History Month and Pride Month from being listed on the calendar by default.&#160; Other events that were removed from the default calendar include Jewish Heritage, Indigenous People Month, Holocaust Remembrance Day, and Hispanic Heritage Month.  Google spokesperson Madison Cushman Veld confirmed the changes to TechCrunch, saying that in [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anduril takes control of Microsoft&#8217;s $22B VR military headset program</title>
+		<link>https://techcrunch.com/2025/02/11/anduril-takes-control-of-microsofts-22b-vr-military-headset-program/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2025 20:03:27 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[augmented reality]]></category>
+		<category><![CDATA[military]]></category>
+		<category><![CDATA[VR]]></category>
+		<category><![CDATA[anduril]]></category>
+		<category><![CDATA[defense technology]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2963872</guid>
+
+					<description><![CDATA[<p>The Army plans to grant upstart weapons maker Anduril control of one of its highest-profile and long-troubled projects known as the Integrated Visual Augmentation System (IVAS) pending final Department of Defense (DoD) approval, founder Palmer Luckey announced in a blog post Tuesday. IVAS was initially awarded to Microsoft in 2018 to develop augmented reality headsets [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tumblr to join the fediverse after WordPress migration completes</title>
+		<link>https://techcrunch.com/2025/02/11/tumblr-to-join-the-fediverse-after-wordpress-migration-completes/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2025 19:45:00 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[Automattic]]></category>
+		<category><![CDATA[social networking]]></category>
+		<category><![CDATA[tumblr]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[activitypub]]></category>
+		<category><![CDATA[fediverse]]></category>
+		<category><![CDATA[open social web]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2963953</guid>
+
+					<description><![CDATA[<p>Since 2022, blogging site Tumblr has been teasing its plans to integrate with the fediverse &#8212; the open social web powered by the protocol ActivityPub also used by Mastodon, Threads, Flipboard, and others. Now, the Automattic-owned blogging platform is sharing more information about when and how that integration could actually happen. As it turns out, [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>How Musk&#8217;s $97.4B bid could gum up OpenAI&#8217;s for-profit conversion</title>
+		<link>https://techcrunch.com/2025/02/11/how-musks-97-4b-bid-could-gum-up-openais-for-profit-conversion/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff, Kyle Wiggers]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2025 19:30:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[nonprofit]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[sam altman]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2963456</guid>
+
+					<description><![CDATA[<p>On Monday, Elon Musk, the world’s richest man, offered to buy the nonprofit that effectively governs OpenAI for $97.4 billion. The unsolicited buyout would be financed by Musk’s AI company, xAI, and a consortium of outside investors, per a letter sent to California and Delaware’s attorneys general. OpenAI CEO Sam Altman quickly dismissed Musk’s bid, [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Klarna and Deel eye IPOs, and Stripe embraces crypto</title>
+		<link>https://techcrunch.com/2025/02/11/more-fintech-startups-are-planning-ipos-embracing-crypto/</link>
+		
+		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2025 18:07:00 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2963244</guid>
+
+					<description><![CDATA[<p>Welcome to TechCrunch Fintech!&#160; This week we’re looking at how fintech heavyweights such as Klarna and Stripe are incorporating crypto into their strategies, which companies are planning for IPOs, one fintech’s Super Bowl ad, Stripe’s new lead of startups and venture capital, and more! To get a roundup of TechCrunch’s biggest and most important fintech [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple brings heart rate monitoring to Powerbeats Pro 2</title>
+		<link>https://techcrunch.com/2025/02/11/apple-brings-heart-rate-monitoring-to-powerbeats-pro-2/</link>
+		
+		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2025 18:00:00 +0000</pubDate>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Beats]]></category>
+		<category><![CDATA[earbuds]]></category>
+		<category><![CDATA[heart rate]]></category>
+		<category><![CDATA[powerbeats]]></category>
+		<category><![CDATA[powerbeats pro 2]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2963357</guid>
+
+					<description><![CDATA[<p>Apple Tuesday announced the long-awaited debut of Powerbeats Pro 2 earbuds. The new headphones arrive nearly six years after the original Powerbeats hit the market. The new model maintains the familiar ear hook for workouts, while delivering upgraded sound, better battery life, and a wireless charging case. The earbuds also mark a major next step [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI CEO Sam Altman calls Musk&#8217;s bid an attempt to &#8216;slow us down&#8217;</title>
+		<link>https://techcrunch.com/2025/02/11/openai-ceo-sam-altman-calls-musks-bid-an-attempt-to-slow-us-down/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2025 17:37:07 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[sam altman]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2963760</guid>
+
+					<description><![CDATA[<p>In an interview at the AI Action Summit in Paris on Tuesday, OpenAI CEO Sam Altman dismissed Elon Musk&#8217;s unsolicited $97.4 billion bid for OpenAI&#8217;s nonprofit as &#8220;an attempt to slow [OpenAI] down.&#8221; &#8220;[Musk] obviously is a competitor,&#8221; Altman said. &#8220;He&#8217;s raised a lot of money for [his AI company] xAI, and they&#8217;re trying to [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Stripe mulls employee shareholder sale at $85B-plus valuation</title>
+		<link>https://techcrunch.com/2025/02/11/stripe-mulls-employee-shareholder-sale-at-85b-plus-valuation/</link>
+		
+		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2025 17:32:55 +0000</pubDate>
+				<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[stripe]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2963832</guid>
+
+					<description><![CDATA[<p>Stripe is in talks for another shareholder sale that could value the company at &#8220;at least&#8221; $85 billion, according to multiple reports and a source familiar with the matter. The Information first reported the news that the payments infrastructure giant is working to sell employee-owned stocks. The move would help workers gain some liquidity as [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Built on Bluesky, Pinksky brings its Instagram-like app to Android</title>
+		<link>https://techcrunch.com/2025/02/11/built-on-bluesky-pinksky-brings-its-instagram-like-app-to-android/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2025 17:30:00 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[social networking]]></category>
+		<category><![CDATA[Bluesky]]></category>
+		<category><![CDATA[Pinksky]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2963802</guid>
+
+					<description><![CDATA[<p>Bluesky users on Android now have access to a new app that works more like Instagram than X. On Tuesday, an app called Pinksky launched an Android version of its photo-centric social networking experience built on top of Bluesky. The app is now one of many attempting to court former Instagram users by offering a [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
