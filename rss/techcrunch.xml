@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 12 Feb 2025 14:53:40 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Feb 2025 06:34:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,53 +31,19 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>SGNL snags $30M for a new take on ID security based on zero-standing privileges</title>
-		<link>https://techcrunch.com/2025/02/12/sgnl-snags-30m-for-a-new-take-on-id-security-based-on-zero-standing-privileges/</link>
-		
-		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 14:53:34 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[brightmind]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[id management]]></category>
-		<category><![CDATA[identity]]></category>
-		<category><![CDATA[identity access management]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[sgnl]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2964691</guid>
-
-					<description><![CDATA[<p>Security experts often describe identity as the “new perimeter” in the world of security: in the world of cloud services where network assets and apps can range far and wide, the biggest vulnerabilities are often leaked and spoofed log-in credentials.&#160; A startup called SGNL has built a new approach that it believes is better at [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SpotDraft taps AI to help streamline contract management</title>
-		<link>https://techcrunch.com/2025/02/12/spotdraft-taps-ai-to-help-streamline-contract-management/</link>
+		<title>Elon Musk will withdraw bid for OpenAI&#8217;s nonprofit if its board agrees to terms</title>
+		<link>https://techcrunch.com/2025/02/12/elon-musk-will-withdraw-bid-for-openais-nonprofit-if-its-board-agrees-to-terms/</link>
 		
 		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 14:46:00 +0000</pubDate>
+		<pubDate>Thu, 13 Feb 2025 06:32:01 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[contract lifecycle management]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[Funding]]></category>
-		<category><![CDATA[legal tech]]></category>
-		<category><![CDATA[legaltech]]></category>
-		<category><![CDATA[SpotDraft]]></category>
-		<category><![CDATA[startup]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2961566</guid>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[filing]]></category>
+		<category><![CDATA[nonprofit]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2965442</guid>
 
-					<description><![CDATA[<p>More and more legal professionals are embracing AI, surveys show. Per a recent poll from legaltech company Clio, 79% of firms used some form of AI for casework last year, up from just 19% in 2023. Despite some skepticism of the tech, in-house counsel has shown an interest, as well, with one survey suggesting that [&#8230;]</p>
+					<description><![CDATA[<p>In a court filing on Wednesday, a lawyer for Elon Musk said the billionaire will withdraw his $97.4 billion bid for OpenAI&#8217;s nonprofit if the ChatGPT maker&#8217;s board of directors &#8220;preserve the charity’s mission&#8221; and halt its conversion to a for-profit corporation. The filing, submitted to the U.S. District Court for the Northern District of [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -85,126 +51,18 @@
 		
 			</item>
 		<item>
-		<title>AI-driven manufacturing database Keychain raises $5M for European push</title>
-		<link>https://techcrunch.com/2025/02/12/ai-driven-manufacturing-database-keychain-raises-5m-for-european-push/</link>
+		<title>Coinbase eyes re-entry to India</title>
+		<link>https://techcrunch.com/2025/02/12/coinbase-eyes-re-entry-to-india/</link>
 		
-		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Keychain]]></category>
-		<category><![CDATA[manufacturing]]></category>
-		<category><![CDATA[consumer goods]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2963684</guid>
-
-					<description><![CDATA[<p>Brands are constantly trying to streamline how they source packaging materials and ingredient suppliers for their products in order to quickly meet consumer demand. However, even today this process can involve some laborious wandering around trade shows. Keychain is an AI-powered platform that aims to quickly connect the consumer packaged goods (CPG) industry with manufacturing [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Adobe launches subscriptions for Firefly AI</title>
-		<link>https://techcrunch.com/2025/02/12/adobe-launches-firefly-ai-subscriptions/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Adobe]]></category>
-		<category><![CDATA[firefly]]></category>
-		<category><![CDATA[AI video models]]></category>
-		<category><![CDATA[premiere pro]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2964184</guid>
-
-					<description><![CDATA[<p>Firefly's Standard plan costs $9.99 per month, the Pro plan will run users $29.99 a month, and there's a more extensive Premium tier in the works.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Lanch bags $27M for a social media-skewed take on fast food</title>
-		<link>https://techcrunch.com/2025/02/12/lanch-bags-27m-for-a-social-media-skewed-take-on-fast-food/</link>
-		
-		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 13:02:12 +0000</pubDate>
-				<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[fast food]]></category>
-		<category><![CDATA[food]]></category>
-		<category><![CDATA[food delivery]]></category>
-		<category><![CDATA[lanch]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2964662</guid>
-
-					<description><![CDATA[<p>E-commerce startups built around food continue to gobble up funding as investors look for sticky consumer concepts that can scale without breaking the bank. On Wednesday, Germany’s Lanch — which taps social media and influencers to develop popular food brands alongside retail networks for distributing them — closed funding of €26 million ($27 million) to [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chestnut Carbon gets $160M to turn old farms into forests</title>
-		<link>https://techcrunch.com/2025/02/12/chestnut-carbon-gets-160m-to-turn-old-farms-into-forests/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 12:30:00 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[DBL Partners]]></category>
-		<category><![CDATA[Forestry]]></category>
-		<category><![CDATA[Canada Pension Plan Investment Board]]></category>
-		<category><![CDATA[carbon credits]]></category>
-		<category><![CDATA[carbon removal]]></category>
-		<category><![CDATA[reforestation]]></category>
-		<category><![CDATA[Chestnut Carbon]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2964483</guid>
-
-					<description><![CDATA[<p>The company buys marginal and degraded farmland, plants them with native trees, and harvests the resulting carbon credits.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>EU abandons ePrivacy, AI liability reforms as bloc shifts focus to AI competitiveness</title>
-		<link>https://techcrunch.com/2025/02/12/eu-abandons-eprivacy-reform-as-bloc-shifts-focus-to-competitiveness-and-fostering-data-access-for-ai/</link>
-		
-		<dc:creator><![CDATA[Natasha Lomas]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 12:27:50 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[ePrivacy]]></category>
-		<category><![CDATA[ePrivacy Regulation]]></category>
-		<category><![CDATA[eu 2025 work program]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2964623</guid>
-
-					<description><![CDATA[<p>A long stalled bid to beef up European Union rules around online tracking technologies and put penalties on a similar footing to the bloc&#8217;s data protection framework, GDPR, has been withdrawn by the Commission after co-legislators failed to reach agreement over the plan. The original proposal to update the ePrivacy Directive and turn it into [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Lucidity snags $21M to help enterprises optimize their cloud storage</title>
-		<link>https://techcrunch.com/2025/02/12/lucidity-snags-21m-to-help-enterprises-optimize-their-cloud-storage/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[cloud]]></category>
+		<dc:creator><![CDATA[Manish Singh]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 04:29:09 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Binance]]></category>
+		<category><![CDATA[coinbase]]></category>
 		<category><![CDATA[India]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[cloud storage]]></category>
-		<category><![CDATA[Lucidity]]></category>
-		<category><![CDATA[WestBridge Capital]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2963756</guid>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2965396</guid>
 
-					<description><![CDATA[<p>Lucidity, an Indian startup allowing enterprises to automate expansion and shrinking of their cloud storage, has raised $21 million in a Series A round.</p>
+					<description><![CDATA[<p>Coinbase is working on its re-entry to India more than a year after it officially ceased operations in the world&#8217;s most populous nation. The American crypto exchange is engaging with various Indian authorities, including the Financial Intelligence Unit (FIU), an Indian government agency that scrutinizes financial transactions, according to two sources familiar with the matter [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -212,38 +70,19 @@
 		
 			</item>
 		<item>
-		<title>No-code app builder Softr expands beyond Airtable databases</title>
-		<link>https://techcrunch.com/2025/02/12/no-code-app-builder-softr-expands-beyond-airtable-databases/</link>
+		<title>Getaround abruptly shuts down US car-sharing operations</title>
+		<link>https://techcrunch.com/2025/02/12/getaround-abruptly-shuts-down-us-car-sharing-operations/</link>
 		
-		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[dev tools]]></category>
-		<category><![CDATA[no-code]]></category>
-		<category><![CDATA[Softr]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2964644</guid>
-
-					<description><![CDATA[<p>If you’re working for a small company and want to build a client portal or an internal tool, it can be difficult to find the budget and resources to allocate a developer to that small project. That’s why more than 600,000 people, including project managers, HR employees and marketing people, have been trying Softr’s no-code [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>A woman in China sued Tesla after complaining of faulty brakes — now she&#8217;s paying Tesla $23K</title>
-		<link>https://techcrunch.com/2025/02/12/a-woman-in-china-sued-tesla-after-complaining-of-faulty-brakes-now-shes-paying-tesla-23k/</link>
-		
-		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 11:32:07 +0000</pubDate>
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 03:09:52 +0000</pubDate>
 				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[Tesla]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2964608</guid>
+		<category><![CDATA[car-sharing]]></category>
+		<category><![CDATA[getaround]]></category>
+		<category><![CDATA[Layoffs]]></category>
+		<category><![CDATA[SPAC]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2965391</guid>
 
-					<description><![CDATA[<p>As per an investigation by the Associated Press (AP), Tesla has won a defamation lawsuit against one individual called Zhang Yazhou, who in February 2021 was a passenger in a Tesla Model 3 car that allegedly crashed due to faulty brakes, resulting in a four-day hospital stay for both her parents. Following the accident, Zhang [&#8230;]</p>
+					<description><![CDATA[<p>Getaround, a company that helps vehicle owners rent out their cars, trucks and SUVs to other peers, is shutting down its U.S. operations one year after cutting 30% of its North American workforce as part of a restructuring. Its HyreCar business, which it acquired in 2023 for $9.45 million, is also closing. The company said [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -251,18 +90,21 @@
 		
 			</item>
 		<item>
-		<title>Google Whisk, an image remixing tool, is now available in 100+ countries</title>
-		<link>https://techcrunch.com/2025/02/11/google-whisk-an-image-remixing-tool-is-now-available-in-100-countries/</link>
+		<title>US pharma giant Merck backs healthcare marketplace HD in Southeast Asia</title>
+		<link>https://techcrunch.com/2025/02/12/merck-backs-healthcare-marketplace-hd-in-southeast-asia/</link>
 		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 07:19:53 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[google whisk]]></category>
-		<category><![CDATA[image generation]]></category>
-		<category><![CDATA[imagen 3]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2964562</guid>
+		<dc:creator><![CDATA[Kate Park]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 02:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[hd]]></category>
+		<category><![CDATA[Merck]]></category>
+		<category><![CDATA[Merck Sharp & Dohme]]></category>
+		<category><![CDATA[Southeast Asia]]></category>
+		<category><![CDATA[Thailand]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2962821</guid>
 
-					<description><![CDATA[<p>Notably, the image tools are not available in countries and regions like India, Indonesia, the EU, and the U.K.</p>
+					<description><![CDATA[<p>Big Tech and pharmaceutical companies are accelerating the implementation of artificial intelligence in the healthcare industry. Just last month, AWS and General Catalyst announced their partnership to speed up the development and deployment of healthcare AI tools. GE Healthcare teamed up with AWS to build generative AI for medical use in 2024. &#160; Now, a [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -270,79 +112,20 @@
 		
 			</item>
 		<item>
-		<title>Tabby doubles valuation to $3.3B in $160M funding as it looks beyond BNPL and plans IPO</title>
-		<link>https://techcrunch.com/2025/02/11/tabby-lands-160m-at-a-3-3b-valuation-as-it-expands-beyond-bnpl/</link>
-		
-		<dc:creator><![CDATA[Tage Kene-Okafor]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 06:00:00 +0000</pubDate>
-				<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[bnpl]]></category>
-		<category><![CDATA[buy now pay later]]></category>
-		<category><![CDATA[Middle East]]></category>
-		<category><![CDATA[Tabby]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2964217</guid>
-
-					<description><![CDATA[<p>Consumer demand for credit options varies across regions, and for fintechs, understanding these differences is key to survival. In developed markets, where credit cards are common, consumers often view buy now, pay later (BNPL) offerings positively because of their flexible installment options. But in emerging markets like the Middle East, where credit card penetration is [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Shopify took down Kanye&#8217;s swastika T-shirt shop, but another antisemitic storefront still operates</title>
-		<link>https://techcrunch.com/2025/02/11/shopify-took-down-kanyes-swastika-t-shirt-shop-but-another-antisemitic-storefront-still-operates/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 01:17:52 +0000</pubDate>
-				<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[antisemitism]]></category>
-		<category><![CDATA[hate speech]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[kanye west]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2963795</guid>
-
-					<description><![CDATA[<p>Shopify took down Kanye West&#8217;s online store after the musician sold T-shirts with the swastika symbol. West, who also goes by Ye, advertised his online store in a Super Bowl commercial on Sunday, directing viewers to his website, where the only item listed was the swastika T-shirt. Though Shopify removed a policy banning sellers from [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Federal workers sue Elon Musk and DOGE to cut off data access</title>
-		<link>https://techcrunch.com/2025/02/11/federal-workers-sue-elon-musk-and-doge-to-cut-off-data-access/</link>
-		
-		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 00:08:02 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[government]]></category>
-		<category><![CDATA[lawsuits]]></category>
-		<category><![CDATA[privacy]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2964295</guid>
-
-					<description><![CDATA[<p>Federal workers are suing DOGE and its creator, Elon Musk to cut off the new agency's access to their personal data.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Founders Fund is about to close another $3B fund</title>
-		<link>https://techcrunch.com/2025/02/11/founders-fund-is-about-to-close-another-3b-fund/</link>
+		<title>Ulu Ventures sticks to its diversity strategy, raises $208M</title>
+		<link>https://techcrunch.com/2025/02/12/ulu-ventures-sticks-to-its-diversity-strategy-raises-208m/</link>
 		
 		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 23:31:43 +0000</pubDate>
+		<pubDate>Thu, 13 Feb 2025 00:54:31 +0000</pubDate>
 				<category><![CDATA[Fundraising]]></category>
 		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Founders Fund]]></category>
-		<category><![CDATA[growth funding]]></category>
-		<category><![CDATA[Peter Thiel]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2964283</guid>
+		<category><![CDATA[DEI]]></category>
+		<category><![CDATA[diversity]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Ulu Ventures]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2965300</guid>
 
-					<description><![CDATA[<p>Founders Fund is on track to conclude fundraising of its third growth fund at the end of March, according to people close to the firm. The Peter Thiel-founded outfit is raising $3 billion, a source told TechCrunch and&#160;Axios also reported. The fund, which is intended primarily for additional investments in its successful late-stage portfolio companies, [&#8230;]</p>
+					<description><![CDATA[<p>While large corporations like Google and Meta are curbing their DEI programs, Ulu Ventures, which just raised a fourth fund at $208 million, doesn’t plan to change its strategy of investing in diverse founders, the firm told The Wall Street Journal. Co-founded by Miriam Rivera, a Latina and former vice president and deputy general counsel [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -350,22 +133,19 @@
 		
 			</item>
 		<item>
-		<title>Apple Maps plans to show &#8216;Gulf of America,&#8217; following Google</title>
-		<link>https://techcrunch.com/2025/02/11/apple-maps-plans-to-show-gulf-of-america-following-google/</link>
+		<title>Elon Musk&#8217;s X will pay Trump $10M to settle lawsuit over 2021 ban</title>
+		<link>https://techcrunch.com/2025/02/12/elon-musks-x-will-pay-trump-10m-to-settle-lawsuit-over-2021-ban/</link>
 		
 		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 22:09:34 +0000</pubDate>
+		<pubDate>Thu, 13 Feb 2025 00:42:33 +0000</pubDate>
 				<category><![CDATA[Apps]]></category>
 		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Apple Maps]]></category>
-		<category><![CDATA[gulf of america]]></category>
-		<category><![CDATA[Gulf of Mexico]]></category>
-		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Elon Musk Buys Twitter]]></category>
 		<category><![CDATA[Trump]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2964128</guid>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2965291</guid>
 
-					<description><![CDATA[<p>Apple Maps will soon rename the Gulf of Mexico to the Gulf of America, following similar changes made by Google this week, in order to comply with U.S. President Donald Trump&#8217;s executive order that officially changed the name. U.S.-based Apple users may see the &#8220;Gulf of America&#8221; as soon as Tuesday, according to Bloomberg, and [&#8230;]</p>
+					<description><![CDATA[<p>Elon Musk&#8217;s X has agreed to pay President Donald Trump $10 million to settle a lawsuit from the days when the company was still called Twitter and owned by Jack Dorsey, the Wall Street Journal reported, citing unnamed sources. The lawsuit took issue with Twitter&#8217;s decision to ban Trump after January 6, when Trump&#8217;s supporters [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -373,86 +153,287 @@
 		
 			</item>
 		<item>
-		<title>ChatGPT may not be as power-hungry as once assumed</title>
-		<link>https://techcrunch.com/2025/02/11/chatgpt-may-not-be-as-power-hungry-as-once-assumed/</link>
+		<title>Founded by DeepMind alumnus, Latent Labs launches with $50M to make biology programmable</title>
+		<link>https://techcrunch.com/2025/02/12/founded-by-deepmind-alumnus-latent-labs-launches-with-50m-to-make-biology-programmable/</link>
+		
+		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[DeepMind]]></category>
+		<category><![CDATA[Latent Labs]]></category>
+		<category><![CDATA[Simon Kohl]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2962879</guid>
+
+					<description><![CDATA[<p>A new startup founded by a former Google DeepMind scientist is exiting stealth with $50 million in funding. Latent Labs is building AI foundation models to &#8220;make biology programmable,&#8221; and it plans to partner with biotech and pharmaceutical companies to generate and optimize proteins. It&#8217;s impossible to understand what DeepMind and its ilk are doing [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Reddit hints at expanded AI-powered search</title>
+		<link>https://techcrunch.com/2025/02/12/reddit-hints-at-expanded-ai-powered-search/</link>
 		
 		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 22:00:26 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Climate]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[energy usage]]></category>
-		<category><![CDATA[environmental impact]]></category>
-		<category><![CDATA[epoch ai]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2962956</guid>
-
-					<description><![CDATA[<p>ChatGPT, OpenAI&#8217;s chatbot platform, may not be as power-hungry as once assumed. But its appetite largely depends on how ChatGPT is being used and the AI models that are answering the queries, according to a new study. A recent analysis by Epoch AI, a nonprofit AI research institute, attempted to calculate how much energy a [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Amazon tests sending customers directly to brands&#8217; websites when it doesn&#8217;t stock their products</title>
-		<link>https://techcrunch.com/2025/02/11/amazon-tests-sending-customers-directly-to-brands-websites-when-it-doesnt-stock-their-products/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 21:52:45 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[Amazon]]></category>
-		<category><![CDATA[e-commerce]]></category>
-		<category><![CDATA[online shopping]]></category>
-		<category><![CDATA[shopping]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2964156</guid>
-
-					<description><![CDATA[<p>Remember that Christmas movie &#8220;Miracle on 34th Street,&#8221; where Macy&#8217;s in-store Santa, Kris Kringle, sends a frazzled shopper to a competitor&#8217;s store to find the Christmas present her son wanted because Macy&#8217;s was out of stock? Now Amazon is doing the same thing online. The retailer announced on Tuesday the test of a new Amazon [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>How to delete Facebook, Instagram, and Threads</title>
-		<link>https://techcrunch.com/2025/02/11/how-to-delete-facebook-instagram-and-threads/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 21:36:13 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Facebook]]></category>
-		<category><![CDATA[Instagram]]></category>
-		<category><![CDATA[Mark Zuckerberg]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[Threads]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2944909</guid>
-
-					<description><![CDATA[<p>In the wake of Meta’s decision to remove its third-party fact-checking system and loosen content moderation policies, Google searches on how to delete Facebook, Instagram, and Threads have been on the rise. People who are angry with the decision accuse Meta CEO Mark Zuckerberg of cozying up to the Trump administration at the expense of [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google&#8217;s I/O developer conference set for May 20-21</title>
-		<link>https://techcrunch.com/2025/02/11/googles-i-o-developer-conference-set-for-may-20-21/</link>
-		
-		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 21:24:39 +0000</pubDate>
+		<pubDate>Wed, 12 Feb 2025 22:57:19 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[developer]]></category>
-		<category><![CDATA[gemini]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[Google I/O]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2964114</guid>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[earnings]]></category>
+		<category><![CDATA[q4 2024]]></category>
+		<category><![CDATA[Reddit]]></category>
+		<category><![CDATA[Search]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2965240</guid>
 
-					<description><![CDATA[<p>Google Tuesday confirmed that its annual developer conference is set for May 20-21, 2025. The event will be held at the usual spot, Mountain View’s Shoreline Amphitheater, a few minutes &#8212; depending on traffic &#8212; from Google HQ. The two-day event is a mix of both public- and developer-facing content. CEO Sundar Pichai will kick [&#8230;]</p>
+					<description><![CDATA[<p>Reddit CEO Steve Huffman said the online forum site plans to launch an upgraded search experience in 2025 designed to help users navigate the social network and be able to answer &#8220;subjective hard, [and] interesting questions.&#8221; The company plans to achieve this by integrating Reddit Answers — a feature that allows visitors to ask questions [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>VC industry reacts to Trump nominating a16z&#8217;s Brian Quintenz for regulatory role</title>
+		<link>https://techcrunch.com/2025/02/12/vc-industry-reacts-to-trump-nominating-a16zs-brian-quintez-for-regulatory-role/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Wed, 12 Feb 2025 22:05:00 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[a16z]]></category>
+		<category><![CDATA[government]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2965088</guid>
+
+					<description><![CDATA[<p>Brian Quintenz, who leads policy for Andreessen Horowitz’s crypto team, announced on Wednesday that he’s being tapped to head the Commodity Futures Trading Commission (CFTC), according to his X post. And many in the VC industry appear to be thrilled about it. The CFTC regulates the trading of commodity futures, options, and swaps, otherwise known [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI pledges that its models won&#8217;t censor viewpoints</title>
+		<link>https://techcrunch.com/2025/02/12/openai-pledges-that-its-models-wont-censor-viewpoints/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 12 Feb 2025 21:47:12 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[model spec]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[sensitive topics]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2965171</guid>
+
+					<description><![CDATA[<p>OpenAI is&#160;making clear&#160;that its AI models won’t shy away from sensitive topics, and will refrain from making assertions that might &#8220;shut out some viewpoints.&#8221; In an updated version of its Model Spec, a collection of high-level rules that indirectly govern OpenAI&#8217;s models, OpenAI says that its models &#8220;must never attempt to steer the user in [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Elizabeth Holmes says from prison she&#8217;s &#8216;committed&#8217; to &#8216;making healthcare solutions available to everyone&#8217;</title>
+		<link>https://techcrunch.com/2025/02/12/elizabeth-holmes-says-from-prison-shes-committed-to-making-healthcare-solutions-available-to-everyone/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Wed, 12 Feb 2025 20:58:53 +0000</pubDate>
+				<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[elizabeth holmes]]></category>
+		<category><![CDATA[Theranos]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2965061</guid>
+
+					<description><![CDATA[<p>People magazine has landed the first interview with Elizabeth Holmes since she reported to prison in 2023, and the convicted Theranos founder says she is still working on &#8220;research and inventions&#8221; in the healthcare space. &#8220;I remain completely committed to my dream of making affordable healthcare solutions available to everyone,&#8221; she told the magazine. Holmes, [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple&#8217;s TV app, TV+ streaming service, and MLS Season Pass launches on Android</title>
+		<link>https://techcrunch.com/2025/02/12/apples-tv-app-tv-streaming-service-and-mls-season-pass-launches-on-android/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 12 Feb 2025 20:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[apple tv]]></category>
+		<category><![CDATA[Apple tv+]]></category>
+		<category><![CDATA[streaming service]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2964785</guid>
+
+					<description><![CDATA[<p>Apple on Wednesday announced that its Apple TV app, including its Apple TV+ streaming service and MLS Season Pass, is arriving on Android devices. While the company previously offered a version of its app for Google TV, the newly released app will support a broader range of Android-based devices, including phones, tablets, and even foldables. [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ChatGPT: Everything you need to know about the AI-powered chatbot</title>
+		<link>https://techcrunch.com/2025/02/12/chatgpt-everything-to-know-about-the-ai-chatbot/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers, Cody Corrall, Alyssa Stringer]]></dc:creator>
+		<pubDate>Wed, 12 Feb 2025 19:45:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2607630</guid>
+
+					<description><![CDATA[<p>ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to supercharge productivity through writing essays and code with short text prompts has evolved into a behemoth with 300 million weekly active users. 2024 was a big year for OpenAI, from its partnership [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI postpones its o3 AI model in favor of a &#8216;unified&#8217; next-gen release</title>
+		<link>https://techcrunch.com/2025/02/12/openai-cancels-its-o3-ai-model-in-favor-of-a-unified-next-gen-release/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 12 Feb 2025 19:30:52 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[gpt-4.5]]></category>
+		<category><![CDATA[gpt-5]]></category>
+		<category><![CDATA[o3]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Orion]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2964924</guid>
+
+					<description><![CDATA[<p>OpenAI has effectively canceled the release of o3, which was slated to be the company&#8217;s next major AI model, in favor of what CEO Sam Altman is calling a &#8220;simplified&#8221; product offering. In a post on X on Wednesday, Altman said that in the coming months, OpenAI will release a model called GPT-5 that &#8220;integrates [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple is reportedly exploring humanoid robots</title>
+		<link>https://techcrunch.com/2025/02/12/apple-is-reportedly-exploring-humanoid-robots/</link>
+		
+		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
+		<pubDate>Wed, 12 Feb 2025 19:04:47 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[home robot]]></category>
+		<category><![CDATA[robot]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2964830</guid>
+
+					<description><![CDATA[<p>Apple is exploring both humanoid and non-humanoid robotic form factors, according to a new scoop from longtime Apple analyst Ming-Chi Kuo. The intel comes on the heels of a research paper from the iPhone maker that explores human interactions with “non-anthropomorphic” robots — specifically a Pixar-style lamp. While Apple’s research paper highlights elements that could [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google expands Family Link parental controls with screen time tools, approved contacts, and more</title>
+		<link>https://techcrunch.com/2025/02/12/google-expands-family-link-parental-controls-with-screen-time-tools-approved-contacts-and-more/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 12 Feb 2025 19:00:55 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[family link]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[kids]]></category>
+		<category><![CDATA[parental control apps]]></category>
+		<category><![CDATA[parents]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2964927</guid>
+
+					<description><![CDATA[<p>Google on Wednesday announced a series of updates for its parental control software Google Family Link and a plan to test new machine-learning techniques to estimate users&#8217; ages so it could apply more age-appropriate experiences to kids&#8217; devices. The company earlier said that it would soon use machine learning to determine the age of YouTube [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>May Mobility launches its first driverless commercial ride-hail service</title>
+		<link>https://techcrunch.com/2025/02/12/may-mobility-launches-its-first-driverless-commercial-ride-hail-service/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Wed, 12 Feb 2025 19:00:50 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[autonomous vehicles]]></category>
+		<category><![CDATA[May Mobility]]></category>
+		<category><![CDATA[ride-hail]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2964894</guid>
+
+					<description><![CDATA[<p>May Mobility is deploying autonomous vehicles differently than its peers. Rather than operate robotaxis for individual ride-hail, May has followed a &#8220;gentle on-ramp&#8221; approach to commercialization by offering on-demand shuttles and pooled rides within campuses and along uncomplicated routes. The startup announced Wednesday the launch of its first fully driverless commercial service in Peachtree Corners, [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Meta in talks to acquire AI chip firm FuriosaAI, according to report</title>
+		<link>https://techcrunch.com/2025/02/12/meta-in-talks-to-acquire-ai-chip-firm-furiosaai-according-to-report/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 12 Feb 2025 18:58:06 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[AI chip]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[FuriosaAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2964933</guid>
+
+					<description><![CDATA[<p>Meta is reportedly in talks to acquire a South Korean chip firm as the social media giant looks to bolster its AI hardware infrastructure. Meta may announce its intent to purchase FuriosaAI, a chip startup founded by former Samsung and AMD employees, as soon as this month, per Forbes. FuriosaAI develops chips that speed up [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Defense and resilience tech reached an all-time high 10% of all VC funding in Europe</title>
+		<link>https://techcrunch.com/2025/02/12/defense-and-resilience-tech-reached-an-all-time-high-10-of-all-vc-funding-in-europe/</link>
+		
+		<dc:creator><![CDATA[Anna Heim]]></dc:creator>
+		<pubDate>Wed, 12 Feb 2025 18:37:33 +0000</pubDate>
+				<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Dealroom]]></category>
+		<category><![CDATA[defense technology]]></category>
+		<category><![CDATA[nato innovation fund]]></category>
+		<category><![CDATA[resilience tech]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2964601</guid>
+
+					<description><![CDATA[<p>The war in Ukraine served as a wakeup call for Europe, and defense tech went from a sector that most European VCs didn&#8217;t touch to one of the top investment areas within deep tech. This shift is captured in Dealroom&#8217;s latest report on Defence, Resilience, and Security (DSR) in Europe, released together with the NATO [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>This Week in AI: Musk bids for OpenAI</title>
+		<link>https://techcrunch.com/2025/02/12/this-week-in-ai-musk-bids-for-openai/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 12 Feb 2025 18:35:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[sam altman]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[ai newsletter]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2964294</guid>
+
+					<description><![CDATA[<p>Hiya, folks, welcome to TechCrunch’s regular AI newsletter. If you want this in your inbox every Wednesday, sign up&#160;here. The billionaires are fighting again. On Monday, Elon Musk, the world’s richest man,&#160;offered&#160;to buy the nonprofit that effectively governs OpenAI for $97.4 billion. In response to Musk’s offer, OpenAI CEO Sam Altman earlier Monday authored a [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
