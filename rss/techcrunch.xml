@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 13 Feb 2025 06:34:23 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Feb 2025 09:40:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>China&#8217;s Salt Typhoon hackers continue to breach telecom firms despite US sanctions</title>
+		<link>https://techcrunch.com/2025/02/13/chinas-salt-typhoon-hackers-continue-to-breach-telecom-firms-despite-us-sanctions/</link>
+		
+		<dc:creator><![CDATA[Carly Page]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 09:40:45 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[salt typhoon]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2965502</guid>
+
+					<description><![CDATA[<p>Threat intelligence firm Recorded Future said it had observed Salt Typhoon breaching 5 telcos between December 2024 and January 2025.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Elon Musk will withdraw bid for OpenAI&#8217;s nonprofit if its board agrees to terms</title>
 		<link>https://techcrunch.com/2025/02/12/elon-musk-will-withdraw-bid-for-openais-nonprofit-if-its-board-agrees-to-terms/</link>
 		
@@ -413,27 +432,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2964601</guid>
 
 					<description><![CDATA[<p>The war in Ukraine served as a wakeup call for Europe, and defense tech went from a sector that most European VCs didn&#8217;t touch to one of the top investment areas within deep tech. This shift is captured in Dealroom&#8217;s latest report on Defence, Resilience, and Security (DSR) in Europe, released together with the NATO [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>This Week in AI: Musk bids for OpenAI</title>
-		<link>https://techcrunch.com/2025/02/12/this-week-in-ai-musk-bids-for-openai/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 18:35:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[sam altman]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[ai newsletter]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2964294</guid>
-
-					<description><![CDATA[<p>Hiya, folks, welcome to TechCrunch’s regular AI newsletter. If you want this in your inbox every Wednesday, sign up&#160;here. The billionaires are fighting again. On Monday, Elon Musk, the world’s richest man,&#160;offered&#160;to buy the nonprofit that effectively governs OpenAI for $97.4 billion. In response to Musk’s offer, OpenAI CEO Sam Altman earlier Monday authored a [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
