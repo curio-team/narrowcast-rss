@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 13 Feb 2025 12:45:10 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Feb 2025 13:26:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,68 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>CyberArk snaps up Zilla Security for up to $175M</title>
+		<link>https://techcrunch.com/2025/02/13/cyberark-snaps-up-zilla-security-for-up-to-175m/</link>
+		
+		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 13:26:45 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[CyberArk]]></category>
+		<category><![CDATA[Zilla Security]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2965594</guid>
+
+					<description><![CDATA[<p>Information security company CyberArk has acquired identity access and governance platform Zilla Security in a deal worth up to $175 million. Founded in 1999, Boston-based CyberArk specializes in access management, including privileged access security which helps organizations protect sensitive data and critical infrastructure from external (and internal) threats. CyberArk went public on the Nasdaq in [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Avride launches sidewalk delivery bots on Uber Eats in Jersey City</title>
+		<link>https://techcrunch.com/2025/02/13/avride-launches-sidewalk-delivery-bots-on-uber-eats-in-jersey-city/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[robotics]]></category>
+		<category><![CDATA[Yandex]]></category>
+		<category><![CDATA[Uber Eats]]></category>
+		<category><![CDATA[sidewalk delivery robots]]></category>
+		<category><![CDATA[avride]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2965197</guid>
+
+					<description><![CDATA[<p>Uber Eats customers in Jersey City can now have their orders delivered by one of Avride’s autonomous sidewalk delivery robots. The launch, which kicked off this week in New Jersey, is Uber’s latest foray into autonomous vehicles and represents an expanding relationship with Avride. The ride-hail and delivery giant deploys AVs on its app in [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Sophos lays off 6% of workforce following Secureworks acquisition</title>
+		<link>https://techcrunch.com/2025/02/13/sophos-lays-off-6-of-workforce-following-secureworks-acquisition/</link>
+		
+		<dc:creator><![CDATA[Carly Page]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 12:50:00 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[Layoffs]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[Sophos]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2965583</guid>
+
+					<description><![CDATA[<p>The layoffs come soon after Sophos completed its $859 million acquisition of Secureworks.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Apple&#8217;s app tracking privacy framework could fall foul of German antitrust rules</title>
 		<link>https://techcrunch.com/2025/02/13/apples-app-tracking-privacy-framework-could-fall-foul-of-german-antitrust-rules/</link>
 		
@@ -117,7 +179,7 @@
 		
 			</item>
 		<item>
-		<title>Barcelona-based spyware startup Variston reportedly shuts down</title>
+		<title>Barcelona-based spyware startup Variston shuts down, per filing</title>
 		<link>https://techcrunch.com/2025/02/13/barcelona-based-spyware-startup-variston-reportedly-shuts-down/</link>
 		
 		<dc:creator><![CDATA[Carly Page]]></dc:creator>
@@ -128,7 +190,7 @@
 		<category><![CDATA[variston]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2965527</guid>
 
-					<description><![CDATA[<p>Variston, a Barcelona-based spyware vendor, is reportedly being liquidated. Intelligence Online, a trade publication that covers the surveillance and intelligence industry, reported that a legal notice published in Barcelona’s registry on February 10 confirmed that Variston has gone into liquidation. This comes almost exactly a year after TechCrunch reported that Variston was in the process [&#8230;]</p>
+					<description><![CDATA[<p>Variston, a Barcelona-based spyware vendor, has reportedly shut down. Intelligence Online, a trade publication that covers the surveillance and intelligence industry, reports that a legal notice published in Barcelona’s registry on February 10 confirmed that Variston has been liquidated. TechCrunch has also seen the legal notice saying Variston has shuttered. This comes almost exactly a [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -372,65 +434,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2965171</guid>
 
 					<description><![CDATA[<p>OpenAI is&#160;making clear&#160;that its AI models won’t shy away from sensitive topics, and will refrain from making assertions that might &#8220;shut out some viewpoints.&#8221; In an updated version of its Model Spec, a collection of high-level rules that indirectly govern OpenAI&#8217;s models, OpenAI says that its models &#8220;must never attempt to steer the user in [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Elizabeth Holmes says from prison she&#8217;s &#8216;committed&#8217; to &#8216;making healthcare solutions available to everyone&#8217;</title>
-		<link>https://techcrunch.com/2025/02/12/elizabeth-holmes-says-from-prison-shes-committed-to-making-healthcare-solutions-available-to-everyone/</link>
-		
-		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 20:58:53 +0000</pubDate>
-				<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[elizabeth holmes]]></category>
-		<category><![CDATA[Theranos]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2965061</guid>
-
-					<description><![CDATA[<p>People magazine has landed the first interview with Elizabeth Holmes since she reported to prison in 2023, and the convicted Theranos founder says she is still working on &#8220;research and inventions&#8221; in the healthcare space. &#8220;I remain completely committed to my dream of making affordable healthcare solutions available to everyone,&#8221; she told the magazine. Holmes, [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple&#8217;s TV app, TV+ streaming service, and MLS Season Pass launches on Android</title>
-		<link>https://techcrunch.com/2025/02/12/apples-tv-app-tv-streaming-service-and-mls-season-pass-launches-on-android/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 20:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[apple tv]]></category>
-		<category><![CDATA[Apple tv+]]></category>
-		<category><![CDATA[streaming service]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2964785</guid>
-
-					<description><![CDATA[<p>Apple on Wednesday announced that its Apple TV app, including its Apple TV+ streaming service and MLS Season Pass, is arriving on Android devices. While the company previously offered a version of its app for Google TV, the newly released app will support a broader range of Android-based devices, including phones, tablets, and even foldables. [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ChatGPT: Everything you need to know about the AI-powered chatbot</title>
-		<link>https://techcrunch.com/2025/02/12/chatgpt-everything-to-know-about-the-ai-chatbot/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers, Cody Corrall, Alyssa Stringer]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 19:45:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2607630</guid>
-
-					<description><![CDATA[<p>ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to supercharge productivity through writing essays and code with short text prompts has evolved into a behemoth with 300 million weekly active users. 2024 was a big year for OpenAI, from its partnership [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
