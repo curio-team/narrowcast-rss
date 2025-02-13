@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 13 Feb 2025 13:26:50 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Feb 2025 14:26:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,28 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Data center tweaks could unlock 76 GW of new power capacity in the U.S.</title>
+		<link>https://techcrunch.com/2025/02/13/data-center-tweaks-could-unlock-76-gw-of-new-power-capacity-in-the-u-s/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Climate]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[electricity]]></category>
+		<category><![CDATA[Artificial Intelligence (AI)]]></category>
+		<category><![CDATA[power grid]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2965367</guid>
+
+					<description><![CDATA[<p>A new study argues that data centers could be ideal demand-response participants because they have the potential to be flexible.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>CyberArk snaps up Zilla Security for up to $175M</title>
 		<link>https://techcrunch.com/2025/02/13/cyberark-snaps-up-zilla-security-for-up-to-175m/</link>
 		
@@ -42,7 +64,7 @@
 		<category><![CDATA[Zilla Security]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2965594</guid>
 
-					<description><![CDATA[<p>Information security company CyberArk has acquired identity access and governance platform Zilla Security in a deal worth up to $175 million. Founded in 1999, Boston-based CyberArk specializes in access management, including privileged access security which helps organizations protect sensitive data and critical infrastructure from external (and internal) threats. CyberArk went public on the Nasdaq in [&#8230;]</p>
+					<description><![CDATA[<p>Identity security company CyberArk has acquired identity governance and administration (IGA) platform Zilla Security in a deal worth up to $175 million. The transaction consists of a $165 million cash portion and an additional $10 million &#8220;earn-out&#8221; which is payable upon meeting certain milestones &#8212; it can be seen as an incentive for the founders [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -248,7 +270,7 @@
 		<category><![CDATA[OpenAI]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2965442</guid>
 
-					<description><![CDATA[<p>In a court filing on Wednesday, a lawyer for Elon Musk said the billionaire will withdraw his $97.4 billion bid for OpenAI&#8217;s nonprofit if the ChatGPT maker&#8217;s board of directors &#8220;preserve the charity’s mission&#8221; and halt the company&#8217;s conversion to a for-profit. The filing, submitted to the U.S. District Court for the Northern District of [&#8230;]</p>
+					<description><![CDATA[<p>In a court filing on Wednesday, lawyers for Elon Musk said the billionaire will withdraw his $97.4 billion bid for OpenAI&#8217;s nonprofit if the ChatGPT maker&#8217;s board of directors &#8220;preserve the charity’s mission&#8221; and halt the company&#8217;s conversion to a for-profit. The filing, submitted to the U.S. District Court for the Northern District of California, [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -411,29 +433,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2965088</guid>
 
 					<description><![CDATA[<p>Brian Quintenz, who leads policy for Andreessen Horowitz’s crypto team, announced on Wednesday that he’s being tapped to head the Commodity Futures Trading Commission (CFTC), according to his X post. And many in the VC industry appear to be thrilled about it. The CFTC regulates the trading of commodity futures, options, and swaps, otherwise known [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI pledges that its models won&#8217;t censor viewpoints</title>
-		<link>https://techcrunch.com/2025/02/12/openai-pledges-that-its-models-wont-censor-viewpoints/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 21:47:12 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[model spec]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[Politics]]></category>
-		<category><![CDATA[sensitive topics]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2965171</guid>
-
-					<description><![CDATA[<p>OpenAI is&#160;making clear&#160;that its AI models won’t shy away from sensitive topics, and will refrain from making assertions that might &#8220;shut out some viewpoints.&#8221; In an updated version of its Model Spec, a collection of high-level rules that indirectly govern OpenAI&#8217;s models, OpenAI says that its models &#8220;must never attempt to steer the user in [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
