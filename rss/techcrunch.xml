@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 13 Feb 2025 15:31:44 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 14 Feb 2025 08:32:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,18 +31,19 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Germany&#8217;s Helsing doubles down on drones for Ukraine, scales up manufacturing</title>
-		<link>https://techcrunch.com/2025/02/13/germanys-helsing-doubles-down-on-drones-for-ukraine-scales-up-manufacturing/</link>
+		<title>TikTok is back on US app stores</title>
+		<link>https://techcrunch.com/2025/02/13/tiktok-is-back-on-the-app-store-and-the-play-store-in-the-u-s/</link>
 		
-		<dc:creator><![CDATA[Anna Heim]]></dc:creator>
-		<pubDate>Thu, 13 Feb 2025 15:30:51 +0000</pubDate>
-				<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[defense tech]]></category>
-		<category><![CDATA[helsing]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2965624</guid>
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Fri, 14 Feb 2025 03:23:05 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[TikTok]]></category>
+		<category><![CDATA[TikTok Ban]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2966303</guid>
 
-					<description><![CDATA[<p>Helsing, the German defense tech startup backed by Spotify’s Daniel Ek and others, is producing 6,000 HX-2 strike drones in addition to the 4,000 HF-1 strike drones financed by Germany that are currently being delivered to Ukraine. “We are scaling up production of HX-2 in response to additional orders from Ukraine,” Helsing co-founder Gundbert Scherf [&#8230;]</p>
+					<description><![CDATA[<p>Apple and Google on Thursday evening restored TikTok to their respective app stores in the U.S., nearly a month after they removed the short video app following a national security law that banned it in the country. The companies have also restored other apps owned by TikTok&#8217;s parent company, ByteDance &#8212; the video editor CapCut [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -50,16 +51,22 @@
 		
 			</item>
 		<item>
-		<title>Blue Origin cuts 10% of staff one month after first successful New Glenn launch</title>
-		<link>https://techcrunch.com/2025/02/13/blue-origin-cuts-10-of-staff-one-month-after-first-successful-new-glenn-launch/</link>
+		<title>Hotstar and JioCinema merge into JioHotstar as Reliance tightens grip on streaming in India</title>
+		<link>https://techcrunch.com/2025/02/13/hotstar-and-jiocinema-merge-into-jiohotstar-as-reliance-tightens-grip-on-streaming-in-india/</link>
 		
-		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
-		<pubDate>Thu, 13 Feb 2025 15:24:59 +0000</pubDate>
-				<category><![CDATA[Space]]></category>
-		<category><![CDATA[Blue Origin]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2965685</guid>
+		<dc:creator><![CDATA[Manish Singh]]></dc:creator>
+		<pubDate>Fri, 14 Feb 2025 01:20:13 +0000</pubDate>
+				<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Disney India]]></category>
+		<category><![CDATA[Disney+ Hotstar]]></category>
+		<category><![CDATA[Hotstar]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[JioCinema]]></category>
+		<category><![CDATA[reliance industries]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2965576</guid>
 
-					<description><![CDATA[<p>Blue Origin is laying off 10% of its workforce, according to Reuters, just one month after the successful first launch of its New Glenn mega-rocket. The company reportedly has more than 10,000 employees, meaning the cut could affect around 1,000 people. CEO Dave Limp told employees in an all-hands meeting Thursday morning the company is [&#8230;]</p>
+					<description><![CDATA[<p>Hotstar and JioCinema, two widely used video streaming apps in India, have merged into JioHotstar. JioStar, a joint venture between Reliance-owned Viacom18 and Star India, said Friday it had integrated JioCinema&#8217;s vast library of content into a revamped version of Disney&#8217;s Hotstar platform. The merged app, live as of early Friday local India time, will [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -67,27 +74,18 @@
 		
 			</item>
 		<item>
-		<title>Spyware maker caught distributing malicious Android apps for years</title>
-		<link>https://techcrunch.com/2025/02/13/spyware-maker-caught-distributing-malicious-android-apps-for-years/</link>
+		<title>Turo scraps plans for an IPO</title>
+		<link>https://techcrunch.com/2025/02/13/turo-scraps-plans-for-an-ipo/</link>
 		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
-		<pubDate>Thu, 13 Feb 2025 15:10:14 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[hackers]]></category>
-		<category><![CDATA[hacking]]></category>
-		<category><![CDATA[Italy]]></category>
-		<category><![CDATA[Lookout]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[SIO]]></category>
-		<category><![CDATA[Spyware]]></category>
-		<category><![CDATA[WhatsApp]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2964803</guid>
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Fri, 14 Feb 2025 01:17:57 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[IPO]]></category>
+		<category><![CDATA[SEC]]></category>
+		<category><![CDATA[turo]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2966195</guid>
 
-					<description><![CDATA[<p>Italian company SIO, which sells to government customers, is behind an Android spyware campaign called Spyrtacus that spoofed popular apps like WhatsApp, per security researchers.</p>
+					<description><![CDATA[<p>Turo on Thursday withdrew its plans for an IPO, ending a three-year wait to bring the online car-sharing network to the public marketplace, according to a regulatory filing. Turo, which was founded in 2010, allows private car owners to rent out their vehicles through the startup’s website or app. The company — sometimes described as [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -95,193 +93,234 @@
 		
 			</item>
 		<item>
-		<title>YouTube Shorts adds Veo 2 so creators can make gen AI videos</title>
-		<link>https://techcrunch.com/2025/02/13/youtube-shorts-adds-veo-2-so-creators-can-make-gen-ai-videos/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Thu, 13 Feb 2025 15:02:01 +0000</pubDate>
-				<category><![CDATA[Social]]></category>
-		<category><![CDATA[veo 2]]></category>
-		<category><![CDATA[YouTube]]></category>
-		<category><![CDATA[YouTube Shorts]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2965632</guid>
-
-					<description><![CDATA[<p>YouTube Shorts is integrating with Google DeepMind&#8217;s latest video model, Veo 2, allowing creators to generate AI video clips for their posts. Veo 2 is Google&#8217;s response to Sora, OpenAI&#8217;s text-to-video generator. YouTube, owned by Google, already allowed creators to generate AI backgrounds for their Shorts with a text prompt through a feature called Dream [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>EnCharge raises $100M+ to accelerate AI using analog chips</title>
-		<link>https://techcrunch.com/2025/02/13/encharge-raises-100m-to-accelerate-ai-using-analog-chips/</link>
+		<title>UK drops &#8216;safety&#8217; from its AI body, now called AI Security Institute, inks MOU with Anthropic</title>
+		<link>https://techcrunch.com/2025/02/13/uk-drops-safety-from-its-ai-body-now-called-ai-security-institute-inks-mou-with-anthropic/</link>
 		
 		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
-		<pubDate>Thu, 13 Feb 2025 15:00:00 +0000</pubDate>
+		<pubDate>Fri, 14 Feb 2025 00:02:19 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[AI regulation]]></category>
+		<category><![CDATA[ai safety]]></category>
+		<category><![CDATA[ai security]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2966203</guid>
+
+					<description><![CDATA[<p>The U.K. government wants to make a hard pivot into boosting its economy and industry with AI, and as part of that, it’s pivoting an institution that it founded a little over a year ago for a very different purpose. Today the Department of Science, Industry and Technology announced that it would be renaming the [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Meta CTO says staff should quit if they don’t like Meta’s new policies</title>
+		<link>https://techcrunch.com/2025/02/13/meta-cto-says-staff-should-quit-if-they-dont-like-metas-new-policies/</link>
+		
+		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 22:16:58 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[Andrew Bosworth]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Meta]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2966047</guid>
+
+					<description><![CDATA[<p>Meta's CTO said staff unhappy with the tech giant's latest policies should work somewhere else, an internal chat reveals.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Gemini now brings receipts to your AI chats</title>
+		<link>https://techcrunch.com/2025/02/13/google-gemini-now-brings-receipts-to-your-ai-chats/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 21:46:42 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[AI chatbot]]></category>
+		<category><![CDATA[gemini]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[google gemini]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2966036</guid>
+
+					<description><![CDATA[<p>Google&#8217;s Gemini AI chatbot can now tailor answers based on the contents of previous conversations, the company announced in a blog post on Thursday. Gemini can summarize a previous conversation you&#8217;ve had with it, or recall info you shared in another conversation thread. This means you won&#8217;t have to repeat information you&#8217;ve already shared with [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Arm is launching its own chip this year with Meta as a customer</title>
+		<link>https://techcrunch.com/2025/02/13/arm-is-launching-its-own-chip-this-year-with-meta-as-a-customer/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 21:33:01 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[ARM]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[chips]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[semiconductors]]></category>
+		<category><![CDATA[Softbank]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2966073</guid>
+
+					<description><![CDATA[<p>Public semiconductor company Arm will start making its own chips this year after landing a high-profile enterprise customer. Arm, which is majorly owned by SoftBank, will start making its own chips now that Meta has signed on as a customer, according to the Financial Times. The chip is expected to be a CPU for servers [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI removes certain content warnings from ChatGPT</title>
+		<link>https://techcrunch.com/2025/02/13/openai-removes-certain-content-warnings-from-chatgpt/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 21:25:14 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[censorship]]></category>
+		<category><![CDATA[chatbot]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[content warnings]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2966025</guid>
+
+					<description><![CDATA[<p>OpenAI says it has removed the &#8220;warning&#8221; messages in its AI-powered chatbot platform, ChatGPT, that indicated when content might violate its terms of service. Laurentia Romaniuk, a member of OpenAI&#8217;s AI model behavior team, said in a post on X that the change was intended to cut down on &#8220;gratuitous/unexplainable denials.&#8221; Nick Turley, head of [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Elon Musk&#8217;s full offer letter to buy OpenAI reveals five key details</title>
+		<link>https://techcrunch.com/2025/02/13/eon-musks-full-offer-letter-to-buy-openai-reveals-five-key-details/</link>
+		
+		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 20:00:10 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[sam altman]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[x.ai]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2965981</guid>
+
+					<description><![CDATA[<p>A group led by Elon Musk's x.AI wants to buy OpenAI. Read five key takeaways from its offer letter.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tim Cook teases Apple product news for February 19 &#8212; likely the iPhone SE</title>
+		<link>https://techcrunch.com/2025/02/13/tim-cook-teases-apple-product-news-for-february-19-likely-the-iphone-se/</link>
+		
+		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 19:23:24 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Tim Cook]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2965911</guid>
+
+					<description><![CDATA[<p>Apple CEO Tim Cook took to X Thursday to tease &#8220;the newest member of the family,&#8221; set to arrive February 19. The safe money is on a fourth-generation iPhone SE. The budget-minded handset had previously been tipped for a potential release a week prior, but we got new Beats headphones instead. It’s been three years [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anthropic&#8217;s next major AI model could arrive within weeks</title>
+		<link>https://techcrunch.com/2025/02/13/anthropics-next-major-ai-model-could-arrive-within-weeks/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 19:07:07 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[reasoning model]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2965874</guid>
+
+					<description><![CDATA[<p>AI startup Anthropic is gearing up to release its next major AI model, according to a report Thursday from The Information. The report describes Anthropic&#8217;s upcoming model as a &#8220;hybrid&#8221; that can switch between &#8220;deep reasoning&#8221; and fast responses. The company will reportedly introduce a &#8220;sliding scale&#8221; alongside the model to allow developers to control [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Phase raises $13M to speed up the UX design process with its no-code platform</title>
+		<link>https://techcrunch.com/2025/02/13/phase-raises-13m-launches-its-no-code-platform-out-of-beta-to-challenge-figma/</link>
+		
+		<dc:creator><![CDATA[Kate Park]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 18:30:00 +0000</pubDate>
+				<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Figma]]></category>
+		<category><![CDATA[phase]]></category>
+		<category><![CDATA[ux design]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2965440</guid>
+
+					<description><![CDATA[<p>UX and UI designers work closely with engineers throughout product development to build and implement design concepts and wireframes for functional user interfaces. Regular communication, feedback, and testing are required for the collaboration to work smoothly and deliver a user experience that aligns with the intended design goals. Nick Budden, a serial entrepreneur who used [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Another robotaxi operation heads to Texas and Archer scores $300M for its defense mission</title>
+		<link>https://techcrunch.com/2025/02/13/another-robotaxi-operation-heads-to-texas-and-archer-scores-300m-for-its-defense-mission/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 18:09:00 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Uber]]></category>
+		<category><![CDATA[Lyft]]></category>
+		<category><![CDATA[techcrunch mobility]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2965220</guid>
+
+					<description><![CDATA[<p>Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation. Sign up here for free — just click TechCrunch Mobility! Raise your hand if you’re exhausted by the firehose of information coming from every direction. Yeah, me too.&#160; At TechCrunch, we’re focused on helping readers (that’s you!) [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tofu is building an omni-channel marketing platform for enterprises</title>
+		<link>https://techcrunch.com/2025/02/13/tofu-is-building-a-omni-channel-marketing-platform-for-enterprises/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 18:00:00 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Enterprise]]></category>
 		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[AI chips]]></category>
-		<category><![CDATA[Analog]]></category>
-		<category><![CDATA[analog chips]]></category>
-		<category><![CDATA[EnCharge]]></category>
-		<category><![CDATA[EnCharge AI]]></category>
-		<category><![CDATA[Processors]]></category>
-		<category><![CDATA[semiconductors]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2965529</guid>
-
-					<description><![CDATA[<p>EnCharge AI, a semiconductor startup developing analog memory chips for AI applications, has raised more than $100 million in a Series B round led by Tiger Global to spur its next stage of growth.&#160; The funding is significant partly because interest in AI is at an all-time high, but the high price of building and [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Data center tweaks could unlock 76 GW of new power capacity in the U.S.</title>
-		<link>https://techcrunch.com/2025/02/13/data-center-tweaks-could-unlock-76-gw-of-new-power-capacity-in-the-u-s/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Thu, 13 Feb 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Climate]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[data centers]]></category>
-		<category><![CDATA[electricity]]></category>
-		<category><![CDATA[Artificial Intelligence (AI)]]></category>
-		<category><![CDATA[power grid]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2965367</guid>
-
-					<description><![CDATA[<p>A new study argues that data centers could be ideal demand-response participants because they have the potential to be flexible.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CyberArk snaps up Zilla Security for up to $175M</title>
-		<link>https://techcrunch.com/2025/02/13/cyberark-snaps-up-zilla-security-for-up-to-175m/</link>
-		
-		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
-		<pubDate>Thu, 13 Feb 2025 13:26:45 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[CyberArk]]></category>
-		<category><![CDATA[Zilla Security]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2965594</guid>
-
-					<description><![CDATA[<p>Identity security company CyberArk has acquired identity governance and administration (IGA) platform Zilla Security in a deal worth up to $175 million. The transaction consists of a $165 million cash portion and an additional $10 million &#8220;earn-out&#8221; which is payable upon meeting certain milestones &#8212; it can be seen as an incentive for the founders [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Avride launches sidewalk delivery bots on Uber Eats in Jersey City</title>
-		<link>https://techcrunch.com/2025/02/13/avride-launches-sidewalk-delivery-bots-on-uber-eats-in-jersey-city/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Thu, 13 Feb 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[robotics]]></category>
-		<category><![CDATA[Yandex]]></category>
-		<category><![CDATA[Uber Eats]]></category>
-		<category><![CDATA[sidewalk delivery robots]]></category>
-		<category><![CDATA[avride]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2965197</guid>
-
-					<description><![CDATA[<p>Uber Eats customers in Jersey City can now have their orders delivered by one of Avride’s autonomous sidewalk delivery robots. The launch, which kicked off this week in New Jersey, is Uber’s latest foray into autonomous vehicles and represents an expanding relationship with Avride. The ride-hail and delivery giant deploys AVs on its app in [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Sophos lays off 6% of workforce following Secureworks acquisition</title>
-		<link>https://techcrunch.com/2025/02/13/sophos-lays-off-6-of-workforce-following-secureworks-acquisition/</link>
-		
-		<dc:creator><![CDATA[Carly Page]]></dc:creator>
-		<pubDate>Thu, 13 Feb 2025 12:50:00 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[Layoffs]]></category>
-		<category><![CDATA[security]]></category>
-		<category><![CDATA[Sophos]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2965583</guid>
-
-					<description><![CDATA[<p>The layoffs come soon after Sophos completed its $859 million acquisition of Secureworks.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple&#8217;s app tracking privacy framework could fall foul of German antitrust rules</title>
-		<link>https://techcrunch.com/2025/02/13/apples-app-tracking-privacy-framework-could-fall-foul-of-german-antitrust-rules/</link>
-		
-		<dc:creator><![CDATA[Natasha Lomas]]></dc:creator>
-		<pubDate>Thu, 13 Feb 2025 12:36:07 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Apple app tracking transparency]]></category>
-		<category><![CDATA[Bundeskartellamt]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2965526</guid>
-
-					<description><![CDATA[<p>Germany&#8217;s antitrust watchdog has been investigating Apple&#8217;s app privacy framework since 2022. On Thursday, releasing preliminary findings from this probe, the Bundeskartellamt (FCO) said it suspects the iPhone maker may not be treating third-party app developers as equally as the law requires. The antitrust watchdog said it believes Apple&#8217;s behavior could amount to self-preferencing. Apple [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apptronik, which makes humanoid robots, raises $350M as category heats up</title>
-		<link>https://techcrunch.com/2025/02/13/apptronik-raises-350m-to-build-humanoid-robots-with-help-from-google/</link>
-		
-		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
-		<pubDate>Thu, 13 Feb 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Robotics]]></category>
 		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[humanoid]]></category>
-		<category><![CDATA[humanoid robot]]></category>
-		<category><![CDATA[DeepMind]]></category>
-		<category><![CDATA[google deepmind]]></category>
-		<category><![CDATA[apptronik]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2965084</guid>
-
-					<description><![CDATA[<p>Apptronik, a University of Texas spin-out that was quietly building humanoid robots before it became quite so fashionable, on Thursday announced a $350 million Series A round of financing. B Capital and Capital Factory co-led the round, which also featured participation from Google, whose DeepMind division is partnering with Apptronik to deliver embodied AI for [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mercedes-AMG Petronas F1 team steers toward nature-based carbon credits</title>
-		<link>https://techcrunch.com/2025/02/13/mercedes-amg-petronas-f1-team-steers-toward-nature-based-carbon-credits/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Thu, 13 Feb 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Climate]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
 		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[formula 1]]></category>
-		<category><![CDATA[Formula 1 racing]]></category>
-		<category><![CDATA[Forestry]]></category>
-		<category><![CDATA[carbon credits]]></category>
-		<category><![CDATA[Mercedes-AMG]]></category>
-		<category><![CDATA[Chestnut Carbon]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2965395</guid>
+		<category><![CDATA[fundraising]]></category>
+		<category><![CDATA[martech]]></category>
+		<category><![CDATA[Salesforce]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2965686</guid>
 
-					<description><![CDATA[<p>The Mercedes-AMG Petronas team is buying 5,500 metric tons worth of carbon credits from Chestnut Carbon.</p>
+					<description><![CDATA[<p>When EJ Cho started his first company in 2018, he was exposed to what it takes to market a product. He was surprised to find a market filled with different single-use tools. &#8220;It was a very frustrating experience,&#8221; Cho told TechCrunch. &#8220;I had to learn and juggle all these different tools. It felt like a [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -289,19 +328,19 @@
 		
 			</item>
 		<item>
-		<title>Telegram releases improved sticker search and video consumption features</title>
-		<link>https://techcrunch.com/2025/02/13/telegram-releases-improved-sticker-search-and-video-consumption-features/</link>
+		<title>OpenAI scrubs diversity commitment web page from its site</title>
+		<link>https://techcrunch.com/2025/02/13/openai-scrubs-diversity-commitment-web-page-from-its-site/</link>
 		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Thu, 13 Feb 2025 11:41:51 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[AI search]]></category>
-		<category><![CDATA[stickers]]></category>
-		<category><![CDATA[Telegram]]></category>
-		<category><![CDATA[Video]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2965485</guid>
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 17:54:34 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[DEI]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2965788</guid>
 
-					<description><![CDATA[<p>Chat app Telegram, which became profitable last year, released new updates to its apps, including improved sticker search, choosing video covers, and the ability to copy videos at the current time. The company first released its AI-powered sticker search in December, which allowed you to look for stickers using natural language. However, it was limited [&#8230;]</p>
+					<description><![CDATA[<p>OpenAI has eliminated a page on its website that used to express its commitment to diversity, equity, and inclusion. The URL “https://openai.com/commitment-to-dei/” now redirects to “https://openai.com/building-dynamic-teams/,” a page that talks about people with “different backgrounds” with no use of the word &#8220;diversity.&#8221; The previous page stated that the company’s “investment in diversity, equity and inclusion” [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -309,76 +348,22 @@
 		
 			</item>
 		<item>
-		<title>Barcelona-based spyware startup Variston shuts down, per filing</title>
-		<link>https://techcrunch.com/2025/02/13/barcelona-based-spyware-startup-variston-reportedly-shuts-down/</link>
-		
-		<dc:creator><![CDATA[Carly Page]]></dc:creator>
-		<pubDate>Thu, 13 Feb 2025 11:39:28 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[Spyware]]></category>
-		<category><![CDATA[variston]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2965527</guid>
-
-					<description><![CDATA[<p>Variston, a Barcelona-based spyware vendor, has reportedly shut down. Intelligence Online, a trade publication that covers the surveillance and intelligence industry, reports that a legal notice published in Barcelona’s registry on February 10 confirmed that Variston has been liquidated. TechCrunch has also seen the legal notice saying Variston has shuttered. This comes almost exactly a [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Docker&#8217;s new CEO is former Oracle Cloud exec Don Johnson</title>
-		<link>https://techcrunch.com/2025/02/13/former-oracle-cloud-exec-don-johnson-takes-over-as-dockers-new-ceo/</link>
-		
-		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
-		<pubDate>Thu, 13 Feb 2025 11:36:01 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Docker]]></category>
-		<category><![CDATA[Don Johnson]]></category>
-		<category><![CDATA[oracle cloud]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2964862</guid>
-
-					<description><![CDATA[<p>Developer tooling and containerization company Docker has a new CEO: Former Oracle Cloud Infrastructure (OCI) executive vice president Don Johnson (pictured above) landed in the hotseat starting Wednesday. Incumbent Scott Johnston will leave the company with immediate effect. During his eight-year spell at Oracle, Johnson was instrumental in transitioning the company from its legacy on-premise [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>China&#8217;s Salt Typhoon hackers continue to breach telecom firms despite US sanctions</title>
-		<link>https://techcrunch.com/2025/02/13/chinas-salt-typhoon-hackers-continue-to-breach-telecom-firms-despite-us-sanctions/</link>
-		
-		<dc:creator><![CDATA[Carly Page]]></dc:creator>
-		<pubDate>Thu, 13 Feb 2025 09:40:45 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[hacking]]></category>
-		<category><![CDATA[salt typhoon]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2965502</guid>
-
-					<description><![CDATA[<p>Threat intelligence firm Recorded Future said it had observed Salt Typhoon breaching 5 telcos between December 2024 and January 2025.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Elon Musk will withdraw bid for OpenAI&#8217;s nonprofit if its board agrees to terms</title>
-		<link>https://techcrunch.com/2025/02/12/elon-musk-will-withdraw-bid-for-openais-nonprofit-if-its-board-agrees-to-terms/</link>
+		<title>Seagate acquires Intevac, which makes equipment for hard disk drives, for $119M</title>
+		<link>https://techcrunch.com/2025/02/13/seagate-acquires-intevac-which-makes-equipment-for-hard-disk-drives-for-119m/</link>
 		
 		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Thu, 13 Feb 2025 06:32:01 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[filing]]></category>
-		<category><![CDATA[nonprofit]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2965442</guid>
+		<pubDate>Thu, 13 Feb 2025 17:47:08 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[hamr]]></category>
+		<category><![CDATA[hard drive disk]]></category>
+		<category><![CDATA[HDD]]></category>
+		<category><![CDATA[Intevac]]></category>
+		<category><![CDATA[Mergers and Acquisitions]]></category>
+		<category><![CDATA[Seagate]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2965720</guid>
 
-					<description><![CDATA[<p>In a court filing on Wednesday, lawyers for Elon Musk said the billionaire will withdraw his $97.4 billion bid for OpenAI&#8217;s nonprofit if the ChatGPT maker&#8217;s board of directors &#8220;preserve the charity’s mission&#8221; and halt the company&#8217;s conversion to a for-profit. The filing, submitted to the U.S. District Court for the Northern District of California, [&#8230;]</p>
+					<description><![CDATA[<p>Seagate, the data storage company, has announced its intent to acquire Intevac, a hard drive equipment producer, in an all-cash deal worth $119 million. Seagate said on Thursday that it&#8217;ll pay $4 per share in a tender offer for Intevac, which is publicly traded. Seagate will initially purchase a minimum of &#8220;at least one share [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -386,38 +371,20 @@
 		
 			</item>
 		<item>
-		<title>Coinbase eyes re-entry to India</title>
-		<link>https://techcrunch.com/2025/02/12/coinbase-eyes-re-entry-to-india/</link>
+		<title>A comprehensive list of 2024 and 2025 tech layoffs</title>
+		<link>https://techcrunch.com/2025/02/13/tech-layoffs-2024-list/</link>
 		
-		<dc:creator><![CDATA[Manish Singh]]></dc:creator>
-		<pubDate>Thu, 13 Feb 2025 04:29:09 +0000</pubDate>
-				<category><![CDATA[Crypto]]></category>
-		<category><![CDATA[Binance]]></category>
-		<category><![CDATA[coinbase]]></category>
-		<category><![CDATA[India]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2965396</guid>
-
-					<description><![CDATA[<p>Coinbase is working on its re-entry to India more than a year after it officially ceased operations in the world&#8217;s most populous nation. The American crypto exchange is engaging with various Indian authorities, including the Financial Intelligence Unit (FIU), an Indian government agency that scrutinizes financial transactions, according to two sources familiar with the matter [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Getaround abruptly shuts down US car-sharing operations</title>
-		<link>https://techcrunch.com/2025/02/12/getaround-abruptly-shuts-down-us-car-sharing-operations/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
-		<pubDate>Thu, 13 Feb 2025 03:09:52 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[car-sharing]]></category>
-		<category><![CDATA[getaround]]></category>
+		<dc:creator><![CDATA[Cody Corrall, Alyssa Stringer]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 17:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
 		<category><![CDATA[Layoffs]]></category>
-		<category><![CDATA[SPAC]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2965391</guid>
+		<category><![CDATA[tech layoffs]]></category>
+		<category><![CDATA[TechCrunch 2023 Recap]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2607662</guid>
 
-					<description><![CDATA[<p>Getaround, a company that helps vehicle owners rent out their cars, trucks and SUVs to other peers, is shutting down its U.S. operations one year after cutting 30% of its North American workforce as part of a restructuring. Its HyreCar business, which it acquired in 2023 for $9.45 million, is also closing. The company said [&#8230;]</p>
+					<description><![CDATA[<p>A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -425,21 +392,63 @@
 		
 			</item>
 		<item>
-		<title>US pharma giant Merck backs healthcare marketplace HD in Southeast Asia</title>
-		<link>https://techcrunch.com/2025/02/12/merck-backs-healthcare-marketplace-hd-in-southeast-asia/</link>
+		<title>Valve removes Steam game that contained malware</title>
+		<link>https://techcrunch.com/2025/02/13/valve-removes-steam-game-that-contained-malware/</link>
 		
-		<dc:creator><![CDATA[Kate Park]]></dc:creator>
-		<pubDate>Thu, 13 Feb 2025 02:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[hd]]></category>
-		<category><![CDATA[Merck]]></category>
-		<category><![CDATA[Merck Sharp & Dohme]]></category>
-		<category><![CDATA[Southeast Asia]]></category>
-		<category><![CDATA[Thailand]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2962821</guid>
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 16:59:47 +0000</pubDate>
+				<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Valve]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2965752</guid>
 
-					<description><![CDATA[<p>Big Tech and pharmaceutical companies are accelerating the implementation of artificial intelligence in the healthcare industry. Just last month, AWS and General Catalyst announced their partnership to speed up the development and deployment of healthcare AI tools. GE Healthcare teamed up with AWS to build generative AI for medical use in 2024. &#160; Now, a [&#8230;]</p>
+					<description><![CDATA[<p>The gaming giant told affected users: "Consider fully reformatting your operating system"</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Alibaba confirms Apple deal bringing AI features to iPhones in China</title>
+		<link>https://techcrunch.com/2025/02/13/alibaba-confirms-apple-deal-bringing-ai-features-to-iphones-in-china/</link>
+		
+		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 16:24:29 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[alibaba]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Apple Intelligence]]></category>
+		<category><![CDATA[China]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2965725</guid>
+
+					<description><![CDATA[<p>Alibaba on Thursday confirmed recent reports of a partnership with Apple that’s set to bring AI features to iPhones sold in China. The deal is an important one for Apple, as iPhone sales have dropped precipitously in the world’s largest smartphone market. The handset experienced an 11% year-over-year drop in China, according to Apple’s most [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Startup Battlefield 200: The competition starts on the waitlist</title>
+		<link>https://techcrunch.com/2025/02/13/startup-battlefield-200-the-competition-starts-on-the-waitlist/</link>
+		
+		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 16:00:00 +0000</pubDate>
+				<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Startup Battlefield]]></category>
+		<category><![CDATA[Startup Battlefield 200]]></category>
+		<category><![CDATA[TechCrunch Disrupt 2025]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2965438</guid>
+
+					<description><![CDATA[<p>Is your pre-Series A startup solving big problems with game-changing potential? Do you have the drive to compete against the world’s top early-stage startups? Or know a founder whose vision deserves to be seen? TechCrunch’s Startup Battlefield 200 is where the most innovative early-stage startups battle it out in front of world-renowned VC judges in [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
