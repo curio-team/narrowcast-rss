@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 17 Feb 2025 10:00:11 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 Feb 2025 13:04:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Mistral releases regional model focused on Arabic language and culture</title>
+		<link>https://techcrunch.com/2025/02/17/mistral-releases-regional-model-focused-on-arabic-language-and-culture/</link>
+		
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+		<pubDate>Mon, 17 Feb 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2967075</guid>
+
+					<description><![CDATA[<p>The next frontier for large language models (LLMs), one of the key technologies underpinning the boom in generative AI tools, might be geographical. On Monday, Paris-based AI startup Mistral &#8212; which is vying to rival the likes of U.S.-based Anthropic and OpenAI &#8212; is releasing a model that&#8217;s a bit different from its usual LLM. [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Olyn secures Beatles biopic for its ‘Shopify for filmmakers’</title>
 		<link>https://techcrunch.com/2025/02/17/olyn-secures-beatles-biopic-for-its-shopify-for-filmmakers/</link>
 		
@@ -388,29 +405,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2966899</guid>
 
 					<description><![CDATA[<p>Ride-share giant Uber filed a lawsuit Friday against DoorDash, accusing the delivery outfit of stifling competition by intimidating restaurant owners into exclusive deals. Uber alleges in the lawsuit, filed in Superior Court of California, that its chief rival bullied restaurants into only working with DoorDash. Uber claims that DoorDash, which holds the largest share of [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Court filings show Meta paused efforts to license books for AI training</title>
-		<link>https://techcrunch.com/2025/02/14/court-filings-show-meta-paused-efforts-to-license-books-for-ai-training/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Fri, 14 Feb 2025 23:35:33 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[books]]></category>
-		<category><![CDATA[copyright]]></category>
-		<category><![CDATA[Court]]></category>
-		<category><![CDATA[lawsuit]]></category>
-		<category><![CDATA[licensing]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[training data]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2966734</guid>
-
-					<description><![CDATA[<p>New court filings in an AI copyright case against Meta add credence to earlier reports that the company &#8220;paused&#8221; discussions with book publishers on licensing deals to supply some of its generative AI models with training data. The filings are related to the case&#160;Kadrey v. Meta Platforms — one of many such cases winding through [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
