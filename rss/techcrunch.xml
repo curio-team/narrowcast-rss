@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 17 Feb 2025 07:34:24 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 Feb 2025 10:00:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Olyn secures Beatles biopic for its ‘Shopify for filmmakers’</title>
+		<link>https://techcrunch.com/2025/02/17/olyn-secures-beatles-biopic-for-its-shopify-for-filmmakers/</link>
+		
+		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
+		<pubDate>Mon, 17 Feb 2025 10:00:05 +0000</pubDate>
+				<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Netflix]]></category>
+		<category><![CDATA[olyn]]></category>
+		<category><![CDATA[streaming platforms]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2962125</guid>
+
+					<description><![CDATA[<p>The recent Brian Epstein biopic “Midas Man,” a film about the manager of The Beatles, debuted not on a platform like Netflix or Amazon, but on a startup that bills itself as &#8220;Shopify for filmmakers.&#8221; So what, you might ask? The answer is that the new platform, Olyn, claims to offer a new model for [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>South Korea blocks downloads of DeepSeek from local app stores</title>
 		<link>https://techcrunch.com/2025/02/16/south-korea-blocks-downloads-of-deepseek-from-local-app-stores/</link>
 		
@@ -392,27 +411,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2966734</guid>
 
 					<description><![CDATA[<p>New court filings in an AI copyright case against Meta add credence to earlier reports that the company &#8220;paused&#8221; discussions with book publishers on licensing deals to supply some of its generative AI models with training data. The filings are related to the case&#160;Kadrey v. Meta Platforms — one of many such cases winding through [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI Alexa and AI Siri face bugs and delays</title>
-		<link>https://techcrunch.com/2025/02/14/ai-alexa-and-ai-siri-face-bugs-and-delays/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Fri, 14 Feb 2025 23:24:47 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Alexa]]></category>
-		<category><![CDATA[Amazon]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[siri]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2966851</guid>
-
-					<description><![CDATA[<p>Amazon and Apple are struggling to put generative AI technology in their digital assistants — Alexa and Siri, respectively — according to a pair of reports that came out on Friday. Amazon hoped to release its new Alexa during an event in New York on February 26. Now Amazon plans to delay the release of [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
