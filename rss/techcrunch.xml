@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 18 Feb 2025 11:22:40 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Feb 2025 12:42:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,21 +31,37 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Legal AI-startup Luminance, backed by the late Mike Lynch, raises $75M</title>
+		<title>As US newspaper outages drag on, Lee Enterprises blames cyberattack for encrypting critical systems </title>
+		<link>https://techcrunch.com/2025/02/18/as-us-newspaper-outages-drag-on-lee-enterprises-blames-cyberattack-for-encrypting-critical-systems/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Tue, 18 Feb 2025 12:40:00 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[local newspapers]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2967363</guid>
+
+					<description><![CDATA[<p>Lee said it was analyzing whether sensitive or personal data was stolen in the cyberattack.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Legal tech startup Luminance, backed by the late Mike Lynch, raises $75M</title>
 		<link>https://techcrunch.com/2025/02/18/legal-ai-startup-luminance-backed-by-the-late-mike-lynch-raises-75m/</link>
 		
 		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
 		<pubDate>Tue, 18 Feb 2025 11:09:49 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[law]]></category>
-		<category><![CDATA[lawtech]]></category>
-		<category><![CDATA[legal]]></category>
 		<category><![CDATA[legaltech]]></category>
+		<category><![CDATA[luminance]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2967352</guid>
 
-					<description><![CDATA[<p>Given Generative AI is very good at interpreting dense texts, it’s been a boon for startups attacking one of the most complex sets of texts there is: the law. We’ve thus seen an explosion of legal tech, supercharged by AI, in the last year or so.&#160; Lawtech startup Eudia bagged $105 million only last week.&#160; [&#8230;]</p>
+					<description><![CDATA[<p>Generative AI is getting better at interpreting dense texts, and this progress has proven to be a boon for startups attacking one of the most complex sets of texts there is: the law. It makes sense then that we’ve been seeing a new burst of activity in the legal tech space off the back of [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -408,22 +424,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2960912</guid>
 
 					<description><![CDATA[<p>Every Sunday, NPR host Will Shortz, The New York Times&#8217; crossword puzzle guru, gets to quiz thousands of listeners in a long-running segment called the Sunday Puzzle. While written to be solvable without too much foreknowledge, the brainteasers are usually challenging even for skilled contestants. That&#8217;s why some experts think they&#8217;re a promising way to [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Researchers are training AI to interpret animal emotions</title>
-		<link>https://techcrunch.com/2025/02/16/researchers-are-training-ai-to-interpret-animal-emotions/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sun, 16 Feb 2025 20:01:55 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2967018</guid>
-
-					<description><![CDATA[<p>Artificial intelligence could eventually help us understand when animals are in pain or showing other emotions — at least according to researchers recently profiled in Science. For example, there’s the Intellipig system being developed by scientists at the University of the West of England Bristol and Scotland’s Rural College, which examines photos of pigs’ faces [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
