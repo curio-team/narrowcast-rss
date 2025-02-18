@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 18 Feb 2025 12:42:37 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Feb 2025 13:34:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Lingo.dev is an app localization engine for developers</title>
+		<link>https://techcrunch.com/2025/02/18/lingo-dev-is-an-app-localization-engine-for-developers/</link>
+		
+		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
+		<pubDate>Tue, 18 Feb 2025 13:32:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Y Combinator]]></category>
+		<category><![CDATA[yc]]></category>
+		<category><![CDATA[Lingo.dev]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2962841</guid>
+
+					<description><![CDATA[<p>Monolinguists wanting to communicate with the global masses have never had it so easy. Trusty old Google Translate can convert the content of images, audio, and entire websites across hundreds of languages, while newer tools such as ChatGPT also serve as handy pocket translators. On the back end, DeepL and ElevenLabs have have reached lofty [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>As US newspaper outages drag on, Lee Enterprises blames cyberattack for encrypting critical systems </title>
 		<link>https://techcrunch.com/2025/02/18/as-us-newspaper-outages-drag-on-lee-enterprises-blames-cyberattack-for-encrypting-critical-systems/</link>
 		
@@ -403,27 +424,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2967028</guid>
 
 					<description><![CDATA[<p>Motorsports have long been a pay-to-play arena, with young drivers spending thousands of dollars just to get started in karting. Four-time Formula One champion Max Verstappen knows this all too well, but he also sees a way to change it through sim racing, a virtual form of car racing that closely replicates real-world racing. It’s [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>These researchers used NPR Sunday Puzzle questions to benchmark AI &#8216;reasoning&#8217; models</title>
-		<link>https://techcrunch.com/2025/02/16/these-researchers-used-npr-sunday-puzzle-questions-to-benchmark-ai-reasoning-models/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Sun, 16 Feb 2025 22:25:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Benchmark]]></category>
-		<category><![CDATA[NPR]]></category>
-		<category><![CDATA[research]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[reasoning model]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2960912</guid>
-
-					<description><![CDATA[<p>Every Sunday, NPR host Will Shortz, The New York Times&#8217; crossword puzzle guru, gets to quiz thousands of listeners in a long-running segment called the Sunday Puzzle. While written to be solvable without too much foreknowledge, the brainteasers are usually challenging even for skilled contestants. That&#8217;s why some experts think they&#8217;re a promising way to [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
