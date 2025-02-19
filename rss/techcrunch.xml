@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 19 Feb 2025 11:21:38 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Feb 2025 12:35:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,68 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Palo Alto Networks warns of another firewall vulnerability under attack by hackers</title>
+		<link>https://techcrunch.com/2025/02/19/palo-alto-networks-warns-of-another-firewall-vulnerability-under-attack-by-hackers/</link>
+		
+		<dc:creator><![CDATA[Carly Page]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2025 12:35:46 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[firewall]]></category>
+		<category><![CDATA[palo alto]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2968036</guid>
+
+					<description><![CDATA[<p>The US cybersecurity giant says hackers are exploiting the high-severity flaw to break into unpatched customer networks.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Guidde taps AI to help create software training videos</title>
+		<link>https://techcrunch.com/2025/02/19/guidde-taps-ai-to-help-create-software-training-videos/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2025 12:00:42 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Funding]]></category>
+		<category><![CDATA[Software]]></category>
+		<category><![CDATA[startup]]></category>
+		<category><![CDATA[Guidde]]></category>
+		<category><![CDATA[training videos]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2965076</guid>
+
+					<description><![CDATA[<p>Creating corporate training videos for software is a time-consuming ordeal, especially if you&#8217;re an organization with a lot of software licenses. Training videos can help get employees up to speed, but they&#8217;re a big lift. They often take entire teams to produce. Tel Aviv-based entrepreneur Yoav Einav thought there might be an alternative, cheaper way [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>A former Etsy product manager built an AI-powered app for new parents</title>
+		<link>https://techcrunch.com/2025/02/19/a-former-etsy-product-manager-built-a-app-to-create-better-family-management-for-parents/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2967073</guid>
+
+					<description><![CDATA[<p>Career product manager Amanda DeLuca has launched a parenting management app, Riley, born out of her own experience with parental anxiety and feedback from other families. DeLuca, who previously at Google, Nerdwallet, and Eventbrite, in addition to Etsy, became pregnant three years ago. At the time, she and her husband, who is also a product [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>X doubles its Premium+ plan prices after xAI releases Grok 3</title>
 		<link>https://techcrunch.com/2025/02/19/x-doubles-its-premium-plan-prices-after-xai-releases-grok-3/</link>
 		
@@ -370,65 +432,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2967560</guid>
 
 					<description><![CDATA[<p>Facebook announced on Tuesday that live videos will now only be stored on the social network for 30 days, after which they will be deleted. Previously, these videos were stored indefinitely. The change goes into effect on Wednesday. All live videos that are currently older than 30 days will be removed from the platform as [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Amazon kills &#8216;Inspire,&#8217; its TikTok-style feed for discovering products</title>
-		<link>https://techcrunch.com/2025/02/18/amazon-kills-inspire-its-tiktok-style-feed-for-discovering-products/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Tue, 18 Feb 2025 17:34:16 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[Amazon]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2967579</guid>
-
-					<description><![CDATA[<p>Amazon is shutting down “Inspire,” its TikTok-like, short-form video and photo feed that was previously available in its mobile app. The feed allowed users to discover products and shop from content created by influencers, brands, and other customers. A company spokesperson confirmed the move to TechCrunch, saying, “We regularly evaluate various features to better align [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI may give board special voting rights to ward off takeover attempts</title>
-		<link>https://techcrunch.com/2025/02/18/openai-may-give-board-special-voting-rights-to-ward-off-takeover-attempts/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 18 Feb 2025 17:27:51 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2967525</guid>
-
-					<description><![CDATA[<p>To fend off future hostile takeover attempts, OpenAI is considering giving its nonprofit board special voting rights, according to a new report in the Financial Times. The rights would allow the board to overrule major investors in the company, preserving some of its powers after OpenAI completes its transition to a for-profit. OpenAI was founded [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers planted a Steam game with malware to steal gamers&#8217; passwords</title>
-		<link>https://techcrunch.com/2025/02/18/hackers-planted-a-steam-game-with-malware-to-steal-gamers-passwords/</link>
-		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
-		<pubDate>Tue, 18 Feb 2025 17:22:54 +0000</pubDate>
-				<category><![CDATA[Gaming]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[hacking]]></category>
-		<category><![CDATA[infostealer]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[Steam]]></category>
-		<category><![CDATA[Valve]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2967503</guid>
-
-					<description><![CDATA[<p>Researchers found that PirateFI was never designed to be a real game, but a vehicle to infect gamers with malware and steal their passwords with an infostealer called Vidar.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
