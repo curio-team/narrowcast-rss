@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 19 Feb 2025 13:32:31 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Feb 2025 14:22:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,7 +31,90 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Augury raises $73M on a $1B+ valuation for AI to detect malfunctions in factory machines</title>
+		<title>Australian IVF giant Genea confirms hackers &#8216;accessed data&#8217; during cyberattack</title>
+		<link>https://techcrunch.com/2025/02/19/australian-ivf-giant-genea-confirms-hackers-accessed-data-during-cyberattack/</link>
+		
+		<dc:creator><![CDATA[Carly Page]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2025 14:22:00 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[security]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2968112</guid>
+
+					<description><![CDATA[<p>The company said an "unauthorized third party" accessed Genea data, but won’t say if sensitive health information was stolen</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Troubled electric truck maker Nikola files for bankruptcy</title>
+		<link>https://techcrunch.com/2025/02/19/troubled-electric-truck-maker-nikola-files-for-bankruptcy/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2025 14:12:45 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[bankruptcy]]></category>
+		<category><![CDATA[electric trucks]]></category>
+		<category><![CDATA[EV]]></category>
+		<category><![CDATA[Nikola]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2968097</guid>
+
+					<description><![CDATA[<p>Hydrogen electric trucking startup Nikola Corp. filed for Chapter 11 bankruptcy protection Wednesday after it failed to find a buyer or secure additional funds to maintain operations.  Nikola was once a Silicon Valley darling, valued at $30 billion in June 2020 after it went public through a special purpose acquisition merger. But a series of [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hyperlume wants to make chip-to-chip communication faster and more efficient</title>
+		<link>https://techcrunch.com/2025/02/19/hyperlume-wants-to-make-chip-to-chip-communication-faster-and-more-efficient/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[chips]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[semiconductor]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2967916</guid>
+
+					<description><![CDATA[<p>Data centers consumed 4.4% of U.S. electricity in 2023 and are estimated to use up to 12% by 2028. The majority of the energy data centers suck up is used to help transfer data from chip to chip. A company called Hyperlume is looking to make that process more energy-efficient while also speeding it up. [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Superhuman introduces AI-powered categorization to reduce spammy emails in your inbox</title>
+		<link>https://techcrunch.com/2025/02/19/superhuman-introduces-ai-powered-categorization-to-reduce-spammy-emails-in-your-inbox/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[email]]></category>
+		<category><![CDATA[superhuman]]></category>
+		<category><![CDATA[Google Inbox]]></category>
+		<category><![CDATA[email spam]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2968024</guid>
+
+					<description><![CDATA[<p>It has been more than two years since ChatGPT burst on the scene. Shortly after that, it seemed like almost every email app integrated AI-powered email writing and summaries. Some also introduced AI-powered search for you to sift through your inbox quickly. Superhuman is now using AI to try and tackle one of the primary [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Augury raises $75M at $1B+ valuation for its AI that detects malfunctions in factory machines</title>
 		<link>https://techcrunch.com/2025/02/19/augury-raises-73m-on-a-1b-valuation-for-ai-to-detect-malfunctions-in-factory-machines/</link>
 		
 		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
@@ -44,10 +127,9 @@
 		<category><![CDATA[industrial sector]]></category>
 		<category><![CDATA[Lightrock]]></category>
 		<category><![CDATA[sensors]]></category>
-		<category><![CDATA[vibrations]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2968085</guid>
 
-					<description><![CDATA[<p>As companies like Nvidia and SoftBank make industrial robotics into a key focus for future R&#38;D, a startup has raised funding today for another facet of how AI is being used on the factory room floor. Augury, which develops AI-based hardware that measures vibrations, sound, temperature and other factors to understand how machines are working [&#8230;]</p>
+					<description><![CDATA[<p>As companies like Nvidia and SoftBank focus on industrial robotics as key areas for future R&#38;D, a startup has raised funding today for another facet of how AI is being used on the factory room floor. Augury, which develops AI-based hardware to identify when machines need repairs and what is wrong with them, has raised [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -355,88 +437,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2967719</guid>
 
 					<description><![CDATA[<p>A change requiring app developers to disclose their address, phone number, and email information to consumers has gone live on the App Store within the European Union. Apple on Tuesday announced it has removed any EU apps that haven&#8217;t yet complied with the Digital Services Act (DSA), a regulation that had added a requirement in [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Safe Superintelligence, Ilya Sutskever&#8217;s AI startup, is reportedly close to raising roughly $1B</title>
-		<link>https://techcrunch.com/2025/02/18/safe-superintelligence-ilya-sutskevers-ai-startup-is-reportedly-close-to-raising-roughly-1b/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 18 Feb 2025 19:49:59 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Greenoaks Capital Partners]]></category>
-		<category><![CDATA[Ilya Sutskever]]></category>
-		<category><![CDATA[safe superintelligence]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2967736</guid>
-
-					<description><![CDATA[<p>Safe Superintelligence, an AI startup founded by former OpenAI chief scientist Ilya Sutskever, could be close to raising more than $1 billion at a $30 billion valuation — a higher valuation than reported just weeks ago. Bloomberg reports that VC firm Greenoaks Capital Partners is leading the deal and pledging to invest half a billion [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Amazon, Microsoft, and Exxon want to make scandal-plagued carbon markets more trustworthy</title>
-		<link>https://techcrunch.com/2025/02/18/amazon-microsoft-and-exxon-want-to-make-scandal-plagued-carbon-markets-more-trustworthy/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Tue, 18 Feb 2025 19:32:01 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Amazon]]></category>
-		<category><![CDATA[carbon credits]]></category>
-		<category><![CDATA[carbon offsets]]></category>
-		<category><![CDATA[exxon]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2967733</guid>
-
-					<description><![CDATA[<p>A task force, organized by the Bipartisan Policy Center think tank, is hoping to improve credibility of voluntary carbon markets.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Thinking Machines Lab is ex-OpenAI CTO Mira Murati&#8217;s new startup</title>
-		<link>https://techcrunch.com/2025/02/18/thinking-machines-lab-is-ex-openai-cto-mira-muratis-new-startup/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 18 Feb 2025 18:30:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Mira Murati]]></category>
-		<category><![CDATA[Thinking Machines Lab]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2967597</guid>
-
-					<description><![CDATA[<p>Former OpenAI CTO Mira Murati has announced her new startup. Unsurprisingly, it&#8217;s focused on AI. Called Thinking Machines Lab, the startup, which came out of stealth today, intends to build tooling to &#8220;make AI work for [people&#8217;s] unique needs and goals,&#8221; and to create AI systems that are &#8220;more widely understood, customizable, and generally capable&#8221; [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>VC giant Insight Partners confirms January cyberattack </title>
-		<link>https://techcrunch.com/2025/02/18/vc-giant-insight-partners-confirms-january-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Carly Page]]></dc:creator>
-		<pubDate>Tue, 18 Feb 2025 18:28:19 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[Insight Partners]]></category>
-		<category><![CDATA[security]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2967646</guid>
-
-					<description><![CDATA[<p>The VC firm has $90 billion in assets under management and invested in several unicorn cybersecurity startups</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
