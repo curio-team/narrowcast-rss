@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 20 Feb 2025 13:14:48 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Feb 2025 14:15:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,67 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>UK healthcare giant HCRG confirms hack after ransomware gang claims theft of sensitive data</title>
+		<link>https://techcrunch.com/2025/02/20/uk-healthcare-giant-hcrg-confirms-hack-after-ransomware-gang-claims-theft-of-sensitive-data/</link>
+		
+		<dc:creator><![CDATA[Carly Page]]></dc:creator>
+		<pubDate>Thu, 20 Feb 2025 14:02:57 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[security]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2968634</guid>
+
+					<description><![CDATA[<p>The prolific Medusa ransomware group claims to have stolen troves of data from HCRG, including patients’ sensitive health data</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mercor, an AI recruiting startup founded by 21-year-olds, raises $100M at $2B valuation</title>
+		<link>https://techcrunch.com/2025/02/20/mercor-an-ai-recruiting-startup-founded-by-21-year-olds-raises-100m-at-2b-valuation/</link>
+		
+		<dc:creator><![CDATA[Tage Kene-Okafor]]></dc:creator>
+		<pubDate>Thu, 20 Feb 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Jobs]]></category>
+		<category><![CDATA[Mercor]]></category>
+		<category><![CDATA[recruiting software]]></category>
+		<category><![CDATA[Thiel Fellowship]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2968303</guid>
+
+					<description><![CDATA[<p>Mercor, the AI recruiting startup founded by three 21-year-old Thiel Fellows, has raised $100 million in a Series B round, the company confirmed to TechCrunch. Menlo Park-based Felicis led the round, valuing Mercor at $2 billion—eight times its previous valuation, the Wall Street Journal previously reported. Existing investors Benchmark, General Catalyst, and DST Global also [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SmartSuite raises $38M to be the final word on enterprise collaboration</title>
+		<link>https://techcrunch.com/2025/02/20/smartsuite-raises-38m-to-be-the-final-word-on-enterprise-collaboration/</link>
+		
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+		<pubDate>Thu, 20 Feb 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Canapi Ventures]]></category>
+		<category><![CDATA[integration platform as a service]]></category>
+		<category><![CDATA[SaaS]]></category>
+		<category><![CDATA[smartsuite]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2968623</guid>
+
+					<description><![CDATA[<p>Three founders who built out one of the bigger startups in risk management are scaling a new company to take on another pain point in the world of work. SmartSuite&#8216;s platform lets teams collaborate on projects, build automations around that work, and search and access work across larger libraries of data spanning a disparate number [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Amazon is shutting down its app store on Android</title>
 		<link>https://techcrunch.com/2025/02/20/amazon-is-shutting-down-its-app-store-on-android/</link>
 		
@@ -352,71 +413,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2968244</guid>
 
 					<description><![CDATA[<p>Google is launching a new experiment that uses AI to help people explore more career possibilities. The company announced in a blog post on Wednesday that a new &#8220;Career Dreamer&#8221; tool can find patterns between your experiences, educational background, skills, and interests to connect you with careers that might be a good fit. With Career [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google pulls Gemini from main search app on iOS</title>
-		<link>https://techcrunch.com/2025/02/19/google-pulls-gemini-from-main-search-app-on-ios/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 18:30:18 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[gemini]]></category>
-		<category><![CDATA[Google]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2968259</guid>
-
-					<description><![CDATA[<p>Google is pulling its AI assistant Gemini from the main Google app for iOS devices. The move is meant to encourage users to download the standalone Gemini app instead, which would allow Google to more directly compete with other consumer-facing AI chatbots like ChatGPT, Claude, or Perplexity. However, the change could also risk reducing Gemini&#8217;s [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ElectronX is building a stock market for electricity trading</title>
-		<link>https://techcrunch.com/2025/02/19/electronx-is-building-a-stock-market-for-electricity-trading/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 17:05:51 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[derivatives]]></category>
-		<category><![CDATA[electrical grid]]></category>
-		<category><![CDATA[electricity]]></category>
-		<category><![CDATA[ElectronX]]></category>
-		<category><![CDATA[Exchanges]]></category>
-		<category><![CDATA[renewable power]]></category>
-		<category><![CDATA[Systemiq Capital]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2968225</guid>
-
-					<description><![CDATA[<p>ElectronX has raised $10 million to build an exchange for electricity derivatives trading.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Sanas taps AI to change call center workers&#8217; accents in real time</title>
-		<link>https://techcrunch.com/2025/02/19/sanas-taps-ai-to-change-call-center-workers-accents-in-real-time/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 17:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[call centers]]></category>
-		<category><![CDATA[contact centers]]></category>
-		<category><![CDATA[Funding]]></category>
-		<category><![CDATA[sanas]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2959934</guid>
-
-					<description><![CDATA[<p>The demand for voice and speech recognition technologies is massive — and growing. An analysis by market research firm Markets and Markets found that the sector could be worth over $28.1 billion by 2027. There&#8217;s no shortage of vendors providing voice and speech recognition solutions, but some newer upstarts have managed to carve out niches. [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
