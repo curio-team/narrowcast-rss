@@ -5,9 +5,6 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -15,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 19 Feb 2025 15:32:30 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Feb 2025 08:27:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,291 +28,19 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Bumble sunsets acquired apps, Fruitz and Official, to cut costs</title>
-		<link>https://techcrunch.com/2025/02/19/bumble-sunsets-fruitz-and-official-as-it-looks-to-cut-costs/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 15:31:11 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[bumble]]></category>
-		<category><![CDATA[dating apps]]></category>
-		<category><![CDATA[DEADPOOL]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2968137</guid>
-
-					<description><![CDATA[<p>Bumble is discontinuing its two acquired apps, the dating and relationship apps Fruitz and Official. The move was shared during the company’s fourth-quarter earnings call on Wednesday. As explained by CEO Lidiane Jones during the call, the choice to discontinue Fruitz, a French dating app, and Official, an app designed to help couples strengthen their [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Australian IVF giant Genea confirms hackers &#8216;accessed data&#8217; during cyberattack</title>
-		<link>https://techcrunch.com/2025/02/19/australian-ivf-giant-genea-confirms-hackers-accessed-data-during-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Carly Page]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 14:22:00 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[security]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2968112</guid>
-
-					<description><![CDATA[<p>The company said an "unauthorized third party" accessed Genea data, but won’t say if sensitive health information was stolen</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Troubled electric truck maker Nikola files for bankruptcy</title>
-		<link>https://techcrunch.com/2025/02/19/troubled-electric-truck-maker-nikola-files-for-bankruptcy/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 14:12:45 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[bankruptcy]]></category>
-		<category><![CDATA[electric trucks]]></category>
-		<category><![CDATA[EV]]></category>
-		<category><![CDATA[Nikola]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2968097</guid>
-
-					<description><![CDATA[<p>Hydrogen electric trucking startup Nikola Corp. filed for Chapter 11 bankruptcy protection Wednesday after it failed to find a buyer or secure additional funds to maintain operations.  Nikola was once a Silicon Valley darling, valued at $30 billion in June 2020 after it went public through a special purpose acquisition merger. But a series of [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hyperlume wants to make chip-to-chip communication faster and more efficient</title>
-		<link>https://techcrunch.com/2025/02/19/hyperlume-wants-to-make-chip-to-chip-communication-faster-and-more-efficient/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[chips]]></category>
-		<category><![CDATA[data centers]]></category>
-		<category><![CDATA[semiconductor]]></category>
-		<category><![CDATA[artificial intelligence]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2967916</guid>
-
-					<description><![CDATA[<p>Data centers consumed 4.4% of U.S. electricity in 2023 and are estimated to use up to 12% by 2028. The majority of the energy data centers suck up is used to help transfer data from chip to chip. A company called Hyperlume is looking to make that process more energy-efficient while also speeding it up. [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Superhuman introduces AI-powered categorization to reduce spammy emails in your inbox</title>
-		<link>https://techcrunch.com/2025/02/19/superhuman-introduces-ai-powered-categorization-to-reduce-spammy-emails-in-your-inbox/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[email]]></category>
-		<category><![CDATA[superhuman]]></category>
-		<category><![CDATA[Google Inbox]]></category>
-		<category><![CDATA[email spam]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2968024</guid>
-
-					<description><![CDATA[<p>It has been more than two years since ChatGPT burst on the scene. Shortly after that, it seemed like almost every email app integrated AI-powered email writing and summaries. Some also introduced AI-powered search for you to sift through your inbox quickly. Superhuman is now using AI to try and tackle one of the primary [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Augury raises $75M at $1B+ valuation for its AI that detects malfunctions in factory machines</title>
-		<link>https://techcrunch.com/2025/02/19/augury-raises-73m-on-a-1b-valuation-for-ai-to-detect-malfunctions-in-factory-machines/</link>
-		
-		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 13:32:25 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Augury]]></category>
-		<category><![CDATA[factories]]></category>
-		<category><![CDATA[industrial sector]]></category>
-		<category><![CDATA[Lightrock]]></category>
-		<category><![CDATA[sensors]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2968085</guid>
-
-					<description><![CDATA[<p>As companies like Nvidia and SoftBank focus on industrial robotics as key areas for future R&#38;D, a startup has raised funding today for another facet of how AI is being used on the factory room floor. Augury, which develops AI-based hardware to identify when machines need repairs and what is wrong with them, has raised [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>NIH funding uncertainty spurs new biotech venture fund</title>
-		<link>https://techcrunch.com/2025/02/19/nih-funding-uncertainty-spurs-new-biotech-venture-fund/</link>
-		
-		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[NIH]]></category>
-		<category><![CDATA[doge]]></category>
-		<category><![CDATA[biotech startups]]></category>
-		<category><![CDATA[Recursion]]></category>
-		<category><![CDATA[Trump Administration]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2968058</guid>
-
-					<description><![CDATA[<p>Earlier this month, the Trump administration directed the National Institutes of Health (NIH) to impose limits on specific types of funding it provides to research institutions. Although a federal judge has temporarily blocked the policy change, government grants to early-stage biotech startups could still face delays or be eliminated entirely, said Chris Gibson, co-founder and [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Murena now sells a &#8216;deGoogled&#8217; Pixel Tablet</title>
-		<link>https://techcrunch.com/2025/02/19/murena-now-sells-a-degoogled-pixel-tablet/</link>
-		
-		<dc:creator><![CDATA[Natasha Lomas]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 12:53:30 +0000</pubDate>
-				<category><![CDATA[Gadgets]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[degoogled tablet]]></category>
-		<category><![CDATA[Murena]]></category>
-		<category><![CDATA[murena pixel tablet]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2968057</guid>
-
-					<description><![CDATA[<p>Murena, the French privacy firm that&#8217;s forked Android to deliver so-called deGoogled smartphones, has repeated the trick with a tablet. So if you&#8217;re keen to get your hands on a shiny Pixel Tablet &#8212; but without the usual bundle of Google apps and services &#8212; Murena has you covered. The Murena Pixel Tablet runs the [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Palo Alto Networks warns of another firewall vulnerability under attack by hackers</title>
-		<link>https://techcrunch.com/2025/02/19/palo-alto-networks-warns-of-another-firewall-vulnerability-under-attack-by-hackers/</link>
-		
-		<dc:creator><![CDATA[Carly Page]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 12:35:46 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[firewall]]></category>
-		<category><![CDATA[palo alto]]></category>
-		<category><![CDATA[security]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2968036</guid>
-
-					<description><![CDATA[<p>The US cybersecurity giant says hackers are exploiting the high-severity flaw to break into unpatched customer networks.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Guidde taps AI to help create software training videos</title>
-		<link>https://techcrunch.com/2025/02/19/guidde-taps-ai-to-help-create-software-training-videos/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 12:00:42 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Funding]]></category>
-		<category><![CDATA[Software]]></category>
-		<category><![CDATA[startup]]></category>
-		<category><![CDATA[Guidde]]></category>
-		<category><![CDATA[training videos]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2965076</guid>
-
-					<description><![CDATA[<p>Creating corporate training videos for software is a time-consuming ordeal, especially if you&#8217;re an organization with a lot of software licenses. Training videos can help get employees up to speed, but they&#8217;re a big lift. They often take entire teams to produce. Tel Aviv-based entrepreneur Yoav Einav thought there might be an alternative, cheaper way [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>A former Etsy product manager built an AI-powered app for new parents</title>
-		<link>https://techcrunch.com/2025/02/19/a-former-etsy-product-manager-built-a-app-to-create-better-family-management-for-parents/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2967073</guid>
-
-					<description><![CDATA[<p>Career product manager Amanda DeLuca has launched a parenting management app, Riley, born out of her own experience with parental anxiety and feedback from other families. DeLuca, who previously at Google, Nerdwallet, and Eventbrite, in addition to Etsy, became pregnant three years ago. At the time, she and her husband, who is also a product [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>X doubles its Premium+ plan prices after xAI releases Grok 3</title>
-		<link>https://techcrunch.com/2025/02/19/x-doubles-its-premium-plan-prices-after-xai-releases-grok-3/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Social]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[grok 3]]></category>
-		<category><![CDATA[X Premium+]]></category>
-		<category><![CDATA[xAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2967327</guid>
-
-					<description><![CDATA[<p>Hours after Elon Musk&#8217;s AI company xAI released the latest version of its AI model, Grok 3, X has significantly hiked the price for its top Premium+ subscription plan, which gives users access to the latest model, to almost $50 per month. On the support page that lists X&#8217;s premium plans, the monthly subscription price [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hyundai’s new Tesla charging port comes up short</title>
-		<link>https://techcrunch.com/2025/02/19/hyundais-new-tesla-charging-port-comes-up-short/</link>
-		
-		<dc:creator><![CDATA[Emme Hall]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[EVs]]></category>
-		<category><![CDATA[Tesla]]></category>
-		<category><![CDATA[hyundai]]></category>
-		<category><![CDATA[hyundai ioniq 5]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2967996</guid>
-
-					<description><![CDATA[<p>The 2025 Hyundai Ioniq 5 is as good as ever, but doesn’t play well with Tesla Superchargers at the moment.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Kuda and CEO face allegations of sex discrimination and unfair dismissal from former executive, per filing</title>
-		<link>https://techcrunch.com/2025/02/19/kuda-and-ceo-face-allegations-of-sex-discrimination-and-unfair-dismissal-from-former-executive-per-filing/</link>
+		<title>Tether backs stablecoin liquidity provider Mansa in $10M seed round</title>
+		<link>https://techcrunch.com/2025/02/19/tether-backs-stablecoin-liquidity-provider-mansa-in-10m-seed-round/</link>
 		
 		<dc:creator><![CDATA[Tage Kene-Okafor]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 10:21:34 +0000</pubDate>
+		<pubDate>Thu, 20 Feb 2025 07:00:00 +0000</pubDate>
 				<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Africa]]></category>
-		<category><![CDATA[filing]]></category>
-		<category><![CDATA[Kuda]]></category>
-		<category><![CDATA[sex discrimination]]></category>
-		<category><![CDATA[uk filing]]></category>
-		<category><![CDATA[unfair dismissal]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2967039</guid>
+		<category><![CDATA[liquidity]]></category>
+		<category><![CDATA[mansa]]></category>
+		<category><![CDATA[stablecoin]]></category>
+		<category><![CDATA[tether]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2968059</guid>
 
-					<description><![CDATA[<p>An employment tribunal case has placed Kuda Technologies, one of Africa’s fastest-growing digital banks, under scrutiny over allegations of workplace discrimination, harassment, and wrongful dismissal. Rosemary Hewat, Kuda’s former Group Chief People Officer (CPO), filed a complaint accusing the company and its CEO, Babatunde Ogundeyi, of sex discrimination, victimization, and unfair dismissal. According to the [&#8230;]</p>
+					<description><![CDATA[<p>As payment companies increasingly explore stablecoins for cross-border payments and real-time settlement, some startups are tapping into the zeitgeist by providing liquidity via a revolving line of credit in stablecoins. One of them is Dubai-based Mansa, whose offering allows payments companies, mainly in Africa to date, to settle transactions and fund customer accounts instantly. The [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -323,17 +48,17 @@
 		
 			</item>
 		<item>
-		<title>Pokémon Go maker Niantic is reportedly selling its games division</title>
-		<link>https://techcrunch.com/2025/02/18/pokemon-go-maker-niantic-is-reportedly-selling-its-games-division/</link>
+		<title>Spore.Bio raises $23M to apply machine learning to microbiology testing</title>
+		<link>https://techcrunch.com/2025/02/19/sporebio-raises-23m-to-apply-machine-learning-to-microbiology-testing/</link>
 		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 06:30:40 +0000</pubDate>
-				<category><![CDATA[Gaming]]></category>
-		<category><![CDATA[niantic]]></category>
-		<category><![CDATA[pokemon go]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2968004</guid>
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+		<pubDate>Thu, 20 Feb 2025 05:00:00 +0000</pubDate>
+				<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[microbiology]]></category>
+		<category><![CDATA[Spore.Bio]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2968288</guid>
 
-					<description><![CDATA[<p>Niantic, the company behind the popular augmented reality game Pokémon Go, is looking to sell its game development business, Bloomberg reported.</p>
+					<description><![CDATA[<p>Recalls in the food and beverage industry due to contamination incidents can be catastrophic for a company. Not only do companies have to pay fines and damages, but the impacts on the brand’s reputation can be long-lasting. That’s why Spore.Bio, a Paris-based deeptech startup, is trying to reinvent microbiology testing to get ahead of the [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -341,19 +66,21 @@
 		
 			</item>
 		<item>
-		<title>Humane&#8217;s AI Pin is dead, as HP buys startup&#8217;s assets for $116M</title>
-		<link>https://techcrunch.com/2025/02/18/humanes-ai-pin-is-dead-as-hp-buys-startups-assets-for-116m/</link>
+		<title>AI-coding startup Codeium in talks to raise at an almost $3B valuation, sources say</title>
+		<link>https://techcrunch.com/2025/02/19/ai-coding-startup-codeium-in-talks-to-raise-at-an-almost-3b-valuation-sources-say/</link>
 		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Tue, 18 Feb 2025 22:30:52 +0000</pubDate>
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Thu, 20 Feb 2025 00:41:15 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Gadgets]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Humane]]></category>
-		<category><![CDATA[Ai Pin]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2967847</guid>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[ai coding assistant]]></category>
+		<category><![CDATA[Codeium]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Kleiner Perkins]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2968533</guid>
 
-					<description><![CDATA[<p>Humane announced on Tuesday that most of its assets have been acquired by HP for $116 million. The hardware startup is immediately discontinuing sales of its $499 AI Pins. Humane alerted customers who have already purchased the Pin that their devices will stop functioning before the end of the month &#8212; at 12 p.m. PST [&#8230;]</p>
+					<description><![CDATA[<p>Codeium, an AI-powered coding startup, is raising a new round of funding at a $2.85 billion valuation, including fresh capital, according to two sources with knowledge of the deal.&#160; The round is being led by returning investor Kleiner Perkins, the people said. The new round comes just six months after Silicon Valley-based Codeium announced that [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -361,60 +88,16 @@
 		
 			</item>
 		<item>
-		<title>Trump admin reverses hydropower layoffs that sparked grid stability fears</title>
-		<link>https://techcrunch.com/2025/02/18/trump-admin-reverses-hydropower-layoffs-that-sparked-grid-stability-fears/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Tue, 18 Feb 2025 21:13:22 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[data centers]]></category>
-		<category><![CDATA[electrical grid]]></category>
-		<category><![CDATA[hydropower]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Trump Administration]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2967805</guid>
-
-					<description><![CDATA[<p>The layoffs slashed between 13% to 20% of the four Power Marketing Administrations’ workforces.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Play Books purchases on iOS now skirt the App Store&#8217;s commission</title>
-		<link>https://techcrunch.com/2025/02/18/google-play-books-purchases-on-ios-now-skirt-the-app-stores-commission/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Tue, 18 Feb 2025 21:10:00 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Google Play]]></category>
-		<category><![CDATA[Google Play Books]]></category>
-		<category><![CDATA[app store]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2967762</guid>
-
-					<description><![CDATA[<p>Google has gained permission to sell its e-books and audiobooks directly to customers through its iOS app, Google Play Books. While iOS apps today can offer access to content previously purchased elsewhere, like e-books bought via a website, developers have to request a specific exception to link their iOS app&#8217;s users to the company&#8217;s own [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Duolingo &#8216;killed&#8217; its mascot with a Cybertruck, and it&#8217;s going weirdly well</title>
-		<link>https://techcrunch.com/2025/02/18/duolingo-killed-its-mascot-with-a-cybertruck-and-its-going-weirdly-well/</link>
+		<title>&#8216;For You&#8217; feeds are not for creators, Patreon says</title>
+		<link>https://techcrunch.com/2025/02/19/for-you-feeds-are-not-for-creators-patreon-says/</link>
 		
 		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Tue, 18 Feb 2025 20:50:43 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[duolingo]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2967755</guid>
+		<pubDate>Thu, 20 Feb 2025 00:13:04 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[Patreon]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2968407</guid>
 
-					<description><![CDATA[<p>Duolingo&#8217;s mascot, Duo the owl, is dead. Okay, Duo isn&#8217;t really dead (we think), but the language learning app committed so hard to this bit that its CEO, Luis von Ahn, read a eulogy for this beloved green bird on TikTok. As any fiction author could probably tell you, killing everyone&#8217;s favorite character is not [&#8230;]</p>
+					<description><![CDATA[<p>Patreon has continued on its crusade against algorithmic feeds with its latest State of Create report, a look at trends in the creator economy based on internal data, and it&#8217;s an effort creators can get behind. In its survey of 1,000 creators and 2,000 fans, the membership platform reported that 53% of creators think it [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -422,19 +105,320 @@
 		
 			</item>
 		<item>
-		<title>Elon Musk staffer created a DOGE AI assistant for making government &#8216;less dumb&#8217;</title>
-		<link>https://techcrunch.com/2025/02/18/elon-musk-staffer-created-a-doge-ai-assistant-for-making-government-less-dumb/</link>
+		<title>Saronic raises $600M to mass-produce autonomous warships</title>
+		<link>https://techcrunch.com/2025/02/19/saronic-raises-600m-to-mass-produce-autonomous-warships/</link>
 		
-		<dc:creator><![CDATA[Charles Rollet, Zack Whittaker]]></dc:creator>
-		<pubDate>Tue, 18 Feb 2025 20:49:16 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[SpaceX]]></category>
-		<category><![CDATA[xAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2967781</guid>
+		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2025 23:11:17 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[defense tech]]></category>
+		<category><![CDATA[Elad Gil]]></category>
+		<category><![CDATA[saronic]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2968426</guid>
 
-					<description><![CDATA[<p>A senior Elon Musk staffer created a custom AI chatbot that's supposed to help DOGE "eliminate" government waste.</p>
+					<description><![CDATA[<p>Austin-based defense startup Saronic has raised a $600 million Series C to build an autonomous ship factory called “Port Alpha,” it announced.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Study of TikTok, X &#8216;For You&#8217; feeds in Germany finds far-right political bias ahead of federal elections</title>
+		<link>https://techcrunch.com/2025/02/19/study-of-tiktok-x-for-you-feeds-in-germany-finds-far-right-political-bias-ahead-of-federal-elections/</link>
+		
+		<dc:creator><![CDATA[Natasha Lomas]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2025 23:01:00 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[TikTok]]></category>
+		<category><![CDATA[twitter/x]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2968082</guid>
+
+					<description><![CDATA[<p>Recommendation algorithms operated by social media giants TikTok and X have shown evidence of substantial far-right political bias in Germany ahead of a federal election that takes place Sunday, according to new research carried out by Global Witness. The non-government organization (NGO) undertook an analysis of social media content displayed to new users via algorithmically [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>After raising $1 billion, fintech Varo closes another $29 million, replaces founder CEO</title>
+		<link>https://techcrunch.com/2025/02/19/after-raising-1-billion-fintech-varo-closes-another-29-million-replaces-founder-ceo/</link>
+		
+		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2025 22:59:53 +0000</pubDate>
+				<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Varo Bank]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2968483</guid>
+
+					<description><![CDATA[<p>Fintech Varo has been hoping to raise a $55 million Series G round but has, so far, closed on $29 million to date, according to a recent SEC filing. Varo declined to comment on this new round but the fintech has raised just over $1 billion in funding since its 2015 inception, according to PitchBook.&#160;Fintech [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Uber ditches commissions in favor of daily fees for rickshaw drivers in India</title>
+		<link>https://techcrunch.com/2025/02/19/uber-ditches-commissions-in-favor-of-fees-for-auto-rickshaw-drivers-in-india/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2025 21:24:37 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[Uber]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2968337</guid>
+
+					<description><![CDATA[<p>Uber has introduced daily fees for auto rickshaw drivers in India to move away from its typical commission-based model. </p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Brand-new women&#8217;s focused Swizzle Ventures skyrockets past its fundraising target</title>
+		<link>https://techcrunch.com/2025/02/19/brand-new-womens-focused-swizzle-ventures-skyrockets-past-its-fundraising-target/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2025 21:15:00 +0000</pubDate>
+				<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[fund]]></category>
+		<category><![CDATA[Fund I]]></category>
+		<category><![CDATA[venture]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2968377</guid>
+
+					<description><![CDATA[<p>Swizzle Ventures has closed its Fund I at $6.6 million, bypassing its initial $3 million target, Jessica Kamada, the firm’s founder, told TechCrunch.&#160; Back in December, TechCrunch reported that the firm, which quietly launched in 2023, was raising and has already bypassed $5 million, per its SEC filing. The thesis of Fund I will focus [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mark Zuckerberg’s charity U-turns, ends DEI efforts </title>
+		<link>https://techcrunch.com/2025/02/19/mark-zuckerbergs-charity-u-turns-ends-dei-efforts/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2025 21:15:00 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[DEI]]></category>
+		<category><![CDATA[Mark Zuckerberg]]></category>
+		<category><![CDATA[Meta]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2968395</guid>
+
+					<description><![CDATA[<p>Mark Zuckerberg&#8217;s charity has eliminated its DEI programs and efforts just weeks after assuring staff it would continue supporting DEI efforts, The Guardian reports.  The Chan Zuckerberg Initiative (CZI), co-founded by Zuckerberg and his wife Priscilla Chan, will end internal DEI programs and no longer provide “social advocacy funding,” which provided grants for racial equity [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Spanish spyware startup Mollitiam Industries shuts down</title>
+		<link>https://techcrunch.com/2025/02/19/spanish-spyware-startup-mollitiam-industries-shuts-down/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2025 20:00:27 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Colombia]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[Mollitiam Industries]]></category>
+		<category><![CDATA[spain]]></category>
+		<category><![CDATA[Spyware]]></category>
+		<category><![CDATA[surveillance]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2968343</guid>
+
+					<description><![CDATA[<p>The little-known surveillance vendor filed for bankruptcy in January, after years of peddling spyware to countries like Colombia.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>IVF insurance startup Future Family promises a baby or your money back</title>
+		<link>https://techcrunch.com/2025/02/19/ivf-insurance-startup-future-family-promises-a-baby-or-your-money-back/</link>
+		
+		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2025 19:48:58 +0000</pubDate>
+				<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Future Family]]></category>
+		<category><![CDATA[IVF]]></category>
+		<category><![CDATA[MunichRE]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2968341</guid>
+
+					<description><![CDATA[<p>For decades, couples going through in vitro fertilization have had to spend tens of thousands of dollars on the procedures with no guarantee of success. It’s not only an emotionally draining process, but a financially exhausting one as well. San Francisco-based startup Future Family wants to help ease some of that burden for couples with [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Karman+ digs up $20M to build an asteroid-mining autonomous spacecraft</title>
+		<link>https://techcrunch.com/2025/02/19/karman-digs-up-20m-to-build-an-asteroid-mining-autonomous-spacecraft/</link>
+		
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2025 18:35:36 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Space]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[asteroids]]></category>
+		<category><![CDATA[Hummingbird Ventures]]></category>
+		<category><![CDATA[Karman+]]></category>
+		<category><![CDATA[plural]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2968242</guid>
+
+					<description><![CDATA[<p>Investors on the lookout for startups working at the frontiers of technology are casting their nets ever further into unchartered territory, sometimes literally as well as figuratively. In one of the latest examples, a startup called Karman+ with ambitions to build autonomous spacecraft that can travel to asteroids and then mine them for materials has [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>This Week in AI: Maybe we should ignore AI benchmarks for now</title>
+		<link>https://techcrunch.com/2025/02/19/this-week-in-ai-maybe-we-should-ignore-ai-benchmarks-for-now/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2025 18:35:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[xAI]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[this week in AI]]></category>
+		<category><![CDATA[this week in ai newsletter]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2967763</guid>
+
+					<description><![CDATA[<p>Welcome to TechCrunch’s regular AI newsletter! We’re going on hiatus for a bit, but you can find all our AI coverage, including my columns, our daily analysis, and breaking news stories, at TechCrunch. If you want those stories and much more in your inbox every day, sign up for our daily newsletters here. This week, billionaire [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google&#8217;s &#8216;Career Dreamer&#8217; uses AI to help you explore job possibilities</title>
+		<link>https://techcrunch.com/2025/02/19/googles-career-dreamer-uses-ai-to-help-you-explore-job-possibilities/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2025 18:31:30 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[Google]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2968244</guid>
+
+					<description><![CDATA[<p>Google is launching a new experiment that uses AI to help people explore more career possibilities. The company announced in a blog post on Wednesday that a new &#8220;Career Dreamer&#8221; tool can find patterns between your experiences, educational background, skills, and interests to connect you with careers that might be a good fit. With Career [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google pulls Gemini from main search app on iOS</title>
+		<link>https://techcrunch.com/2025/02/19/google-pulls-gemini-from-main-search-app-on-ios/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2025 18:30:18 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[gemini]]></category>
+		<category><![CDATA[Google]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2968259</guid>
+
+					<description><![CDATA[<p>Google is pulling its AI assistant Gemini from the main Google app for iOS devices. The move is meant to encourage users to download the standalone Gemini app instead, which would allow Google to more directly compete with other consumer-facing AI chatbots like ChatGPT, Claude, or Perplexity. However, the change could also risk reducing Gemini&#8217;s [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ElectronX is building a stock market for electricity trading</title>
+		<link>https://techcrunch.com/2025/02/19/electronx-is-building-a-stock-market-for-electricity-trading/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2025 17:05:51 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[electrical grid]]></category>
+		<category><![CDATA[electricity]]></category>
+		<category><![CDATA[ElectronX]]></category>
+		<category><![CDATA[Exchanges]]></category>
+		<category><![CDATA[renewable power]]></category>
+		<category><![CDATA[Systemiq Capital]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2968225</guid>
+
+					<description><![CDATA[<p>ElectronX has raised $10 million to build an exchange for electricity derivatives trading.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Sanas taps AI to change call center workers&#8217; accents in real time</title>
+		<link>https://techcrunch.com/2025/02/19/sanas-taps-ai-to-change-call-center-workers-accents-in-real-time/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2025 17:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[call centers]]></category>
+		<category><![CDATA[contact centers]]></category>
+		<category><![CDATA[Funding]]></category>
+		<category><![CDATA[sanas]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2959934</guid>
+
+					<description><![CDATA[<p>The demand for voice and speech recognition technologies is massive — and growing. An analysis by market research firm Markets and Markets found that the sector could be worth over $28.1 billion by 2027. There&#8217;s no shortage of vendors providing voice and speech recognition solutions, but some newer upstarts have managed to carve out niches. [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google brings a &#8216;Circle to Search&#8217;-like feature to iPhone users</title>
+		<link>https://techcrunch.com/2025/02/19/google-brings-a-circle-to-search-like-feature-to-iphone-users/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2025 17:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[circle to search]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[google lens]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2967644</guid>
+
+					<description><![CDATA[<p>Google on Wednesday is rolling out a new update that lets users search what&#8217;s on their screen via a simple gesture when browsing within the Google Chrome or Google Search app on iOS. The feature is similar to Android&#8217;s built-in &#8220;Circle to Search&#8221; feature, which also lets users search what’s on their screen using a [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mistral’s Le Chat tops 1M downloads in just 14 days</title>
+		<link>https://techcrunch.com/2025/02/19/mistrals-le-chat-tops-1m-downloads-in-just-14-days/</link>
+		
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2025 16:36:51 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI assistant]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[mistral]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2968182</guid>
+
+					<description><![CDATA[<p>A couple of weeks after the initial release of Mistral’s AI assistant, Le Chat, the company told Le Parisien that it has reached one million downloads. In particular, Le Chat quickly reached the top spot for free downloads on the iOS App Store in the company’s home country, France. “Go and download Le Chat, which [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
