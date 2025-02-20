@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 20 Feb 2025 08:27:48 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Feb 2025 11:40:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Valar Atomics comes out of stealth with $19M and a pilot reactor site</title>
+		<link>https://techcrunch.com/2025/02/20/valar-atomics-comes-out-of-stealth-with-19m-and-a-pilot-reactor-site/</link>
+		
+		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
+		<pubDate>Thu, 20 Feb 2025 11:40:53 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[nuclear energy]]></category>
+		<category><![CDATA[valar atomics]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2968612</guid>
+
+					<description><![CDATA[<p>Companies developing small modular nuclear reactors (SMRs) have raised more than $1.5 billion in the past year, as tech companies hunger for power to train AI models and governments decide to commit to the industry. For example, X-energy raised $700 million this month, and Paris-based Newcleo raised $151 million last year, and one would be [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Tether backs stablecoin liquidity provider Mansa in $10M seed round</title>
 		<link>https://techcrunch.com/2025/02/19/tether-backs-stablecoin-liquidity-provider-mansa-in-10m-seed-round/</link>
 		
@@ -399,26 +417,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2967644</guid>
 
 					<description><![CDATA[<p>Google on Wednesday is rolling out a new update that lets users search what&#8217;s on their screen via a simple gesture when browsing within the Google Chrome or Google Search app on iOS. The feature is similar to Android&#8217;s built-in &#8220;Circle to Search&#8221; feature, which also lets users search what’s on their screen using a [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mistral’s Le Chat tops 1M downloads in just 14 days</title>
-		<link>https://techcrunch.com/2025/02/19/mistrals-le-chat-tops-1m-downloads-in-just-14-days/</link>
-		
-		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 16:36:51 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI assistant]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[mistral]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2968182</guid>
-
-					<description><![CDATA[<p>A couple of weeks after the initial release of Mistral’s AI assistant, Le Chat, the company told Le Parisien that it has reached one million downloads. In particular, Le Chat quickly reached the top spot for free downloads on the iOS App Store in the company’s home country, France. “Go and download Le Chat, which [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
