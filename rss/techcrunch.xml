@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 25 Feb 2025 12:05:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 Feb 2025 14:26:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,83 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Redalpine, Founders Fund back Magdrive&#8217;s electric thruster business</title>
+		<link>https://techcrunch.com/2025/02/25/redalpine-founders-fund-back-magdrives-electric-thruster-business/</link>
+		
+		<dc:creator><![CDATA[Aria Alamalhodaei]]></dc:creator>
+		<pubDate>Tue, 25 Feb 2025 14:10:31 +0000</pubDate>
+				<category><![CDATA[Space]]></category>
+		<category><![CDATA[Magdrive]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2911204</guid>
+
+					<description><![CDATA[<p>Orbital mobility took center-stage in the space industry last year, with venture capitalists funneling massive sums into startups developing tech for nimble satellite operations. So it’s no surprise that one of the most recent deals is to Magdrive, a UK-based startup that says its electric propulsion system for satellites will deliver a higher thrust in [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Quantum Machines raises $170M, says it&#8217;s working with more than half of all quantum computing companies</title>
+		<link>https://techcrunch.com/2025/02/25/quantum-machines-raises-170m-says-its-working-with-more-than-half-of-all-quantum-computing-companies/</link>
+		
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+		<pubDate>Tue, 25 Feb 2025 14:05:23 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[quantum computing]]></category>
+		<category><![CDATA[Quantum Machines]]></category>
+		<category><![CDATA[quantum error correction]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2970791</guid>
+
+					<description><![CDATA[<p>Quantum computing remains a holy grail in the world of technology, but with some important breakthroughs in the last several months, investors are betting on the more promising startups in the space to make the concept of super-efficient particle- and electron-based computing a reality. In the latest development, Quantum Machines, an Israeli startup that provides [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Adobe launches a Photoshop iPhone app</title>
+		<link>https://techcrunch.com/2025/02/25/adobe-launches-a-photoshop-iphone-app/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Tue, 25 Feb 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[photoshop]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2970291</guid>
+
+					<description><![CDATA[<p>Adobe announced on Tuesday it&#8217;s bringing its popular design and editing software Photoshop to mobile, starting with iOS. The company plans to launch a Photoshop for Android app later this year. With the new Photoshop for iPhone app, users can access both free and paid features through a mobile-friendly design that&#8217;s accessible on the go. [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Serverless cloud platform Koyeb now lets developers spin up Tenstorrent&#8217;s AI accelerators</title>
+		<link>https://techcrunch.com/2025/02/25/serverless-cloud-platform-koyeb-lets-developers-spin-up-tenstorrent-ai-accelerators/</link>
+		
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+		<pubDate>Tue, 25 Feb 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[GPU]]></category>
+		<category><![CDATA[cloud infrastructure]]></category>
+		<category><![CDATA[Koyeb]]></category>
+		<category><![CDATA[Tenstorrent]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2970769</guid>
+
+					<description><![CDATA[<p>Just a few weeks after chipmaker Tenstorrent raised nearly $700 million in funding, developers can now try out Tenstorrent’s AI accelerators on Koyeb. Tenstorrent sells AI processors built around the RISC-V instruction set architecture, and has developed its own open-source neural network library, TT-NN, and open-source low-level programming model, TT-Metalium. Tenstorrent is part of a [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Apple Watch shipments surge in India</title>
 		<link>https://techcrunch.com/2025/02/25/apple-watch-shipments-surge-in-india/</link>
 		
@@ -338,85 +415,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2970286</guid>
 
 					<description><![CDATA[<p>Apple Fellow Phil Schiller, the executive in charge of leading the App Store, testified in court on Monday that he had originally raised concerns about the 27% commission the iPhone maker planned to charge app developers on any purchases made outside the App Store. In addition to being a potential compliance risk, he suggested that [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>DOGE&#8217;s HR email is getting the &#8216;Bee Movie&#8217; spam treatment</title>
-		<link>https://techcrunch.com/2025/02/24/doges-hr-email-is-getting-the-bee-movie-spam-treatment/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Mon, 24 Feb 2025 20:33:20 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[doge]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2970158</guid>
-
-					<description><![CDATA[<p>Over the weekend, Elon Musk surveyed his followers on X — the platform he spent $44 billion to buy — asking whether federal employees should be required to send his team an email with a list of five things they accomplished this week. With the yes votes totaling over 70%, Musk followed through. Federal employees [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>A comprehensive list of 2024 and 2025 tech layoffs</title>
-		<link>https://techcrunch.com/2025/02/24/tech-layoffs-2024-list/</link>
-		
-		<dc:creator><![CDATA[Cody Corrall, Alyssa Stringer]]></dc:creator>
-		<pubDate>Mon, 24 Feb 2025 20:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[Layoffs]]></category>
-		<category><![CDATA[tech layoffs]]></category>
-		<category><![CDATA[TechCrunch 2023 Recap]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2607662</guid>
-
-					<description><![CDATA[<p>A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic used Pokémon to benchmark its newest AI model</title>
-		<link>https://techcrunch.com/2025/02/24/anthropic-used-pokemon-to-benchmark-its-newest-ai-model/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Mon, 24 Feb 2025 19:10:54 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Gaming]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Benchmark]]></category>
-		<category><![CDATA[claude 3.7 sonnet]]></category>
-		<category><![CDATA[pokemon]]></category>
-		<category><![CDATA[pokemon red]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2970051</guid>
-
-					<description><![CDATA[<p>Anthropic used Pokémon to benchmark its newest AI model. Yes, really. In a blog post published Monday, Anthropic said that it tested its latest model, Claude 3.7 Sonnet, on the Game Boy classic Pokémon Red. The company equipped the model with basic memory, screen pixel input, and function calls to press buttons and navigate around the [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SpaceX says Starship self-destructed after propellant leaks caused fires and comms blackout</title>
-		<link>https://techcrunch.com/2025/02/24/spacex-says-starship-self-destructed-after-propellant-leaks-caused-fires-and-comms-blackout/</link>
-		
-		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
-		<pubDate>Mon, 24 Feb 2025 19:05:39 +0000</pubDate>
-				<category><![CDATA[Space]]></category>
-		<category><![CDATA[SpaceX]]></category>
-		<category><![CDATA[Starship]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2970191</guid>
-
-					<description><![CDATA[<p>SpaceX said Monday that last month&#8217;s Starship explosion was brought on by a cascading series of events caused by propellant leaks — a problem the company says has been addressed ahead of an eighth test flight that could happen as early as Friday. The spaceflight company is still waiting for the Federal Aviation Administration (FAA) [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
