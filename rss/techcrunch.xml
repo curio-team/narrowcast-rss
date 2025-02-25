@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 25 Feb 2025 08:10:14 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 Feb 2025 10:12:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,44 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>US employee screening giant DISA says hackers accessed data of more than 3M people</title>
+		<link>https://techcrunch.com/2025/02/25/us-employee-screening-giant-disa-says-hackers-accessed-data-of-more-than-3m-people/</link>
+		
+		<dc:creator><![CDATA[Carly Page]]></dc:creator>
+		<pubDate>Tue, 25 Feb 2025 10:02:29 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2970724</guid>
+
+					<description><![CDATA[<p>The Texas-based company said hackers accessed applicants’ SSNs and financial information</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Thoma Bravo raises €1.8B for its first European fund</title>
+		<link>https://techcrunch.com/2025/02/25/thoma-bravo-raises-e1-8b-for-its-first-european-fund/</link>
+		
+		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
+		<pubDate>Tue, 25 Feb 2025 09:49:11 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Private Equity]]></category>
+		<category><![CDATA[thoma bravo]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2970709</guid>
+
+					<description><![CDATA[<p>Private equity firm Thoma Bravo has closed its inaugural European fund at €1.8 billion ($1.9 billion), through which it plans to take equity stakes in mid-sized software companies across the continent. Europe has no shortage of homegrown venture capital (VC) funds — the likes of Atomico and Cherry Ventures have closed early and growth-stage funds [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Fyre Festival 2 is coming, and it already sounds bananas (and not in a good way)</title>
 		<link>https://techcrunch.com/2025/02/24/fyre-festival-2-is-coming-and-it-already-sounds-bananas-and-not-in-a-good-way/</link>
 		
@@ -375,48 +413,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2969820</guid>
 
 					<description><![CDATA[<p>Anthropic is releasing a new frontier AI model called Claude 3.7 Sonnet, which the company designed to &#8220;think&#8221; about questions for as long as users want it to. Anthropic calls Claude 3.7 Sonnet the industry&#8217;s first &#8220;hybrid AI reasoning model,&#8221; because it&#8217;s a single model that can give both real-time answers and more considered, &#8220;thought-out&#8221; [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Grok 3 appears to be driving Grok usage to new heights</title>
-		<link>https://techcrunch.com/2025/02/24/grok-3-appears-to-be-driving-grok-usage-to-new-heights/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Mon, 24 Feb 2025 18:07:06 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Grok]]></category>
-		<category><![CDATA[grok 3]]></category>
-		<category><![CDATA[xAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2969954</guid>
-
-					<description><![CDATA[<p>Elon Musk&#8217;s AI company, xAI, released Grok 3, its long-awaited flagship AI model, last week. Grok 3 powers the Grok chatbot apps for mobile and the web, as well as the Grok experience on the Musk-owned social network X. Given that there&#8217;s so much competition in the AI chatbot space these days, it wasn&#8217;t a [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>DeepSeek: Everything you need to know about the AI chatbot app</title>
-		<link>https://techcrunch.com/2025/02/24/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Mon, 24 Feb 2025 17:56:56 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[deepseek]]></category>
-		<category><![CDATA[DeepSeek v3]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[Explainer]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[r1]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2953864</guid>
-
-					<description><![CDATA[<p>DeepSeek has gone viral. Chinese AI lab DeepSeek broke into the mainstream consciousness this week after&#160;its chatbot app rose to the top of the Apple App Store charts (and Google Play, as well). DeepSeek’s AI models, which were trained using compute-efficient techniques,&#160;have led Wall Street analysts&#160;—&#160;and technologists&#160;— to question whether the U.S. can maintain its [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
