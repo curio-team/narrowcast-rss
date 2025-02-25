@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 25 Feb 2025 10:12:29 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 Feb 2025 10:53:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,44 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Google launches a free AI coding assistant with very high usage caps</title>
+		<link>https://techcrunch.com/2025/02/25/google-launches-a-free-ai-coding-assistant-with-very-high-usage-caps/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Tue, 25 Feb 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[developer]]></category>
+		<category><![CDATA[ai coding assistant]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2970534</guid>
+
+					<description><![CDATA[<p>On Tuesday, Google introduced a new, free consumer version of its AI code completion and assistance tool, Gemini Code Assist, and which the company calls Gemini Code Assist for Individuals. The company also rolled out Gemini Code Assist for GitHub, a code review &#8220;agent&#8221; designed to automatically look for bugs in code and offer suggestions [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>EU’s top court ruling on Android Auto antitrust referral could put interoperability requests in the fast lane</title>
+		<link>https://techcrunch.com/2025/02/25/eus-top-court-ruling-on-android-auto-antitrust-referral-could-put-interoperability-requests-in-the-fast-lane/</link>
+		
+		<dc:creator><![CDATA[Natasha Lomas]]></dc:creator>
+		<pubDate>Tue, 25 Feb 2025 10:53:29 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[android auto antitrust ruling]]></category>
+		<category><![CDATA[cjeu android auto]]></category>
+		<category><![CDATA[italy android auto antitrust]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2970713</guid>
+
+					<description><![CDATA[<p>Europe&#8217;s top court has weighed in to clarify the rules around interoperability requirements on Big Tech in a referral on a case related to Google&#8217;s Android Auto platform. Back in 2021, the tech giant was hit with an €100 million antitrust fine by Italy&#8217;s competition authority for refusing to let a third-party electric car charging [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>US employee screening giant DISA says hackers accessed data of more than 3M people</title>
 		<link>https://techcrunch.com/2025/02/25/us-employee-screening-giant-disa-says-hackers-accessed-data-of-more-than-3m-people/</link>
 		
@@ -377,42 +415,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2970193</guid>
 
 					<description><![CDATA[<p>Khosla Ventures, a firm known for early investments in OpenAI, is raising $3.5 billion across three funds, The Wall Street Journal reported. That target is 17% larger than the firm’s previous 2023 fund haul of $3 billion.   About half of the new capital will be allocated to its ninth core venture fund. The remaining money will [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Drive users can now access and search transcripts for videos</title>
-		<link>https://techcrunch.com/2025/02/24/google-drive-users-can-now-access-and-search-transcripts-for-videos/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Mon, 24 Feb 2025 18:30:49 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[google drive]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2970179</guid>
-
-					<description><![CDATA[<p>After launching automatically generated captions for videos last year, Google Drive is now launching searchable video transcripts. Google announced that starting Monday, Drive users can now view and search transcripts for their videos. The new feature gets rid of the need to upload a video&#8217;s audio to a transcription service like Otter. Transcripts will appear [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic launches a new AI model that &#8216;thinks&#8217; as long as you want</title>
-		<link>https://techcrunch.com/2025/02/24/anthropic-launches-a-new-ai-model-that-thinks-as-long-as-you-want/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Mon, 24 Feb 2025 18:30:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Claude]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2969820</guid>
-
-					<description><![CDATA[<p>Anthropic is releasing a new frontier AI model called Claude 3.7 Sonnet, which the company designed to &#8220;think&#8221; about questions for as long as users want it to. Anthropic calls Claude 3.7 Sonnet the industry&#8217;s first &#8220;hybrid AI reasoning model,&#8221; because it&#8217;s a single model that can give both real-time answers and more considered, &#8220;thought-out&#8221; [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
