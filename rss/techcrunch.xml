@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 26 Feb 2025 03:45:51 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Feb 2025 10:36:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,70 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Gozem nets $30M to expand vehicle financing, digital banking in Francophone Africa</title>
+		<link>https://techcrunch.com/2025/02/26/gozem-nets-30m-to-expand-vehicle-financing-digital-banking-in-francophone-africa/</link>
+		
+		<dc:creator><![CDATA[Tage Kene-Okafor]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 10:36:38 +0000</pubDate>
+				<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[gozem]]></category>
+		<category><![CDATA[ride-hailing apps]]></category>
+		<category><![CDATA[super app]]></category>
+		<category><![CDATA[vehicle financing]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2970913</guid>
+
+					<description><![CDATA[<p>Since its launch in 2018 as a ride-hailing service in Togo, Gozem has steadily expanded across French-speaking West Africa, integrating a wide range of services as it sought to become a super-app. The company now offers ride-hailing, commerce, vehicle financing, and digital banking across Togo, Benin, Gabon, and Cameroon. Now, in a bid to scale [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hackers publish sensitive patient data allegedly stolen from Australian IVF provider Genea</title>
+		<link>https://techcrunch.com/2025/02/26/hackers-publish-sensitive-patient-data-allegedly-stolen-from-australian-ivf-provider-genea/</link>
+		
+		<dc:creator><![CDATA[Carly Page]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 10:34:01 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[security]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2971615</guid>
+
+					<description><![CDATA[<p>Genea gets a court injunction after ransomware gang Termite claims to have leaked patient information</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Thousands of exposed GitHub repos, now private, can still be accessed through Copilot</title>
+		<link>https://techcrunch.com/2025/02/26/thousands-of-exposed-github-repos-now-private-can-still-be-accessed-through-copilot/</link>
+		
+		<dc:creator><![CDATA[Carly Page]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 10:02:14 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[Microsoft Copilot]]></category>
+		<category><![CDATA[security]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2971010</guid>
+
+					<description><![CDATA[<p>Data exposed even briefly can live on in generative AI chatbots long after the data is made private.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>ElevenLabs now lets authors create and publish audiobooks on its own platform</title>
 		<link>https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/</link>
 		
@@ -59,7 +123,7 @@
 		<category><![CDATA[Fusion]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2971573</guid>
 
-					<description><![CDATA[<p>Proxima&#160;Fusion, a two-year-old, German nuclear fusion startup, has published plans for a working fusion power plant in a peer-reviewed journal, in what is being touted as a step-change in the race to generate limitless energy. Today’s nuclear fission reactors create radioactive waste, whereas nuclear fusion releases vast amounts of energy, with zero carbon emissions and [&#8230;]</p>
+					<description><![CDATA[<p>Proxima Fusion, a two-year-old, German nuclear fusion startup, has published plans for a working fusion power plant in a peer-reviewed journal, in what is being touted as a step-change in the race to generate limitless energy. Today’s nuclear fission reactors create radioactive waste, whereas nuclear fusion releases vast amounts of energy, with zero carbon emissions and [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -179,14 +243,14 @@
 		<pubDate>Tue, 25 Feb 2025 22:25:00 +0000</pubDate>
 				<category><![CDATA[Government & Policy]]></category>
 		<category><![CDATA[Security]]></category>
-		<category><![CDATA[Department of Government Efficiency]]></category>
-		<category><![CDATA[doge]]></category>
 		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[evergreens]]></category>
 		<category><![CDATA[SpaceX]]></category>
 		<category><![CDATA[Tesla]]></category>
-		<category><![CDATA[Trump Administration]]></category>
 		<category><![CDATA[us government]]></category>
+		<category><![CDATA[doge]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<category><![CDATA[Department of Government Efficiency]]></category>
+		<category><![CDATA[Trump Administration]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2966374</guid>
 
 					<description><![CDATA[<p>Meet the DOGE staffers and senior advisors in Elon Musk's inner circle, and how they got there.</p>
@@ -366,60 +430,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2971107</guid>
 
 					<description><![CDATA[<p>Automattic-owned blogging site and social platform Tumblr has financially backed Tapestry, the newly launched app designed to organize feeds from across the open web, including RSS, Mastodon, Bluesky, and others. Launched as a Kickstarter project in January 2024, Tapestry went on to raise over $177,000 via crowdfunding for its app, which opened up to the [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Quora&#8217;s Poe now lets users create and share custom AI-powered apps</title>
-		<link>https://techcrunch.com/2025/02/25/quoras-poe-now-lets-users-create-and-share-custom-ai-powered-apps/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 25 Feb 2025 18:34:46 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Poe]]></category>
-		<category><![CDATA[poe apps]]></category>
-		<category><![CDATA[quora]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2971049</guid>
-
-					<description><![CDATA[<p>Poe, Quora&#8217;s platform that brings together a number of AI models under one roof, has launched a new capability that lets users build visual interfaces — apps, essentially — on top of any combination of models. Called Poe Apps, the feature allows Poe users to describe the app they want to create in the new [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Brex eyes $500M in revenue as it adds the likes of Anthropic and Robinhood as customers</title>
-		<link>https://techcrunch.com/2025/02/25/brex-eyes-500m-in-revenue-as-it-adds-the-likes-of-anthropic-and-robinhood-as-customers/</link>
-		
-		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
-		<pubDate>Tue, 25 Feb 2025 18:08:15 +0000</pubDate>
-				<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Brex]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2971089</guid>
-
-					<description><![CDATA[<p>Fintech Brex expects its annual net revenue to reach $500 million in 2025, according to a person familiar with the company’s operations as cited by Bloomberg and The Information. While the startup did not comment on the specific revenue projection, it did share that Brex has seen “3x overall revenue growth” year-over-year. It also told [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Is this 32-year-old a brilliant founder, or a deceptive fraudster?</title>
-		<link>https://techcrunch.com/2025/02/25/is-this-32-year-old-a-brilliant-founder-or-a-deceptive-fraudster/</link>
-		
-		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
-		<pubDate>Tue, 25 Feb 2025 18:05:00 +0000</pubDate>
-				<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[TechCrunch Fintech]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2970474</guid>
-
-					<description><![CDATA[<p>Hi there, welcome to TechCrunch’s regular fintech newsletter. We’re going on hiatus for a bit, but you can still find our must-see fintech coverage, including my columns and our daily analysis and breaking news stories, at TechCrunch.com. If you want those stories and much more in your inbox every day, sign up for our daily [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
