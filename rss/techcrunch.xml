@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 26 Feb 2025 12:58:14 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Feb 2025 14:27:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,44 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Indonesia, Apple reach agreement to end iPhone 16 sales ban</title>
+		<link>https://techcrunch.com/2025/02/26/indonesia-apple-reach-agreement-to-end-iphone-16-sales-ban/</link>
+		
+		<dc:creator><![CDATA[Kate Park]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 14:18:02 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Indonesia]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2971663</guid>
+
+					<description><![CDATA[<p>Apple will be able to resume its iPhone 16 smartphone sales in Indonesia after the two sides came to an agreement, the Industry Ministry said during a press conference Wednesday, per a Reuters report. The ban was lifted five months after Indonesia blocked the U.S. iPhone maker from selling its iPhone 16 phones in Indonesia [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Lock screen platform Glance launches AI-powered shopping experience, gets fresh backing from Google</title>
+		<link>https://techcrunch.com/2025/02/26/lockscreen-platform-glance-launches-gen-ai-led-shopping-experience-gets-fresh-backing-from-google/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Glance]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Lockscreen]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2971605</guid>
+
+					<description><![CDATA[<p>Lock screen platform Glance announced today that it is launching a new generative AI-based shopping experience. It will suggest different outfits on a user&#8217;s personalized avatar. The company is partnering with Google to use the company&#8217;s Gemini models and Vertex AI to deploy the experience. Separately, the company also got fresh backing from Google — [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Regie.ai injects sales enablement with AI, but keeps humans in the loop</title>
 		<link>https://techcrunch.com/2025/02/26/regie-ai-injects-sales-enablement-with-ai-but-keeps-humans-in-the-loop/</link>
 		
@@ -56,15 +94,15 @@
 		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
 		<pubDate>Wed, 26 Feb 2025 13:00:00 +0000</pubDate>
 				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Security]]></category>
 		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[venture capital]]></category>
-		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[bloomberg beta]]></category>
 		<category><![CDATA[cybersecurity]]></category>
 		<category><![CDATA[enterprise startups]]></category>
-		<category><![CDATA[bloomberg beta]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[venture capital]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2971375</guid>
 
 					<description><![CDATA[<p>Despite employers requiring their employees to complete yearly cybersecurity training courses, human-driven cybersecurity breaches still happen. The problem could even get substantially worse as generative AI increases the scale and personalization of social engineering campaigns. Anagram, formerly known as Cipher, is taking a new approach to employee cybersecurity training that the company hopes can keep [&#8230;]</p>
@@ -125,16 +163,14 @@
 		<pubDate>Wed, 26 Feb 2025 11:09:29 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Fundraising]]></category>
 		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[Venture]]></category>
 		<category><![CDATA[European Bank for Reconstruction and Development]]></category>
 		<category><![CDATA[Industrial Robotics]]></category>
 		<category><![CDATA[nomagic]]></category>
 		<category><![CDATA[robotic arm]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2971626</guid>
 
-					<description><![CDATA[<p>Regions like the U.S. and Europe have been doubling down on rebuilding their industrial muscle, after decades of closing down factories and outsourcing the work to countries like China. To that end, a fast-growing Polish startup called Nomagic, which builds robots — specifically robotic arms — for logistics operations, is announcing $44 million in funding, [&#8230;]</p>
+					<description><![CDATA[<p>Regions like the U.S. and Europe have been doubling down on rebuilding their industrial muscle after decades of closing down factories and outsourcing the work to countries like China. To that end, a fast-growing Polish startup called Nomagic, which builds robotic arms for picking, packing and moving in logistics operations, has raised $44 million in [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -410,47 +446,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2971187</guid>
 
 					<description><![CDATA[<p>On Tuesday afternoon, Anthropic launched Claude Plays Pokémon on Twitch, a livestream of Anthropic&#8217;s newest AI model, Claude 3.7 Sonnet, playing a game of Pokémon Red. It&#8217;s become a fascinating experiment of sorts, showcasing the capabilities of today&#8217;s AI tech and people&#8217;s reactions to them. AI researchers have used all sorts of video games, from [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Lucid Motors CEO Peter Rawlinson steps down</title>
-		<link>https://techcrunch.com/2025/02/25/lucid-motors-ceo-peter-rawlinson-steps-down/</link>
-		
-		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
-		<pubDate>Tue, 25 Feb 2025 21:13:48 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[electric vehicles]]></category>
-		<category><![CDATA[Lucid Motors]]></category>
-		<category><![CDATA[Peter Rawlinson]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2971301</guid>
-
-					<description><![CDATA[<p>Lucid Motors is changing CEOs for the first time in nearly six years. The company announced Tuesday that Peter Rawlinson is stepping down from the CEO and CTO roles that he&#8217;s held since before the company went public. Rawlinson has also left Lucid&#8217;s board, according to a regulatory filing. Lucid appointed its chief operating officer [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apptronik’s humanoid robots take the first steps toward building themselves</title>
-		<link>https://techcrunch.com/2025/02/25/apptroniks-humanoid-robots-take-the-first-steps-toward-building-themselves/</link>
-		
-		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
-		<pubDate>Tue, 25 Feb 2025 21:12:20 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[apptronik]]></category>
-		<category><![CDATA[humanoid]]></category>
-		<category><![CDATA[humanoid robot]]></category>
-		<category><![CDATA[jabil]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2971261</guid>
-
-					<description><![CDATA[<p>Apptronik, an Austin-based maker of humanoid robots, on Tuesday announced a new pilot partnership with American supply chain/manufacturing stalwart, Jabil. The deal arrives two weeks after Apptronik announced a $350 million Series A financing round aimed at scaling up production of its Apollo robot. The Jabil deal is the second major pilot announced by Apptronik. [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
