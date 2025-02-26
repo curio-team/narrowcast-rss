@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 26 Feb 2025 10:36:46 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Feb 2025 11:33:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,51 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Framework’s first desktop PC is optimized for gaming and local AI inference</title>
+		<link>https://techcrunch.com/2025/02/26/frameworks-first-desktop-pc-is-ready-for-gaming-and-local-ai-inference/</link>
+		
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 11:33:12 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[amd]]></category>
+		<category><![CDATA[framework]]></category>
+		<category><![CDATA[Framework Desktop]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2971618</guid>
+
+					<description><![CDATA[<p>Framework, the company that is better known for its modular, repairable laptops, just released its first desktop computer. It’s a small desktop PC that punches above its weight. The most interesting part is what’s inside the device. Framework is one of the first companies to use AMD’s recently announced Strix Halo architecture, also known as [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nomagic picks up $44M for its AI-powered robotic arms</title>
+		<link>https://techcrunch.com/2025/02/26/nomagic-picks-up-44m-for-its-ai-powered-robotic-arms/</link>
+		
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 11:09:29 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[European Bank for Reconstruction and Development]]></category>
+		<category><![CDATA[Industrial Robotics]]></category>
+		<category><![CDATA[nomagic]]></category>
+		<category><![CDATA[robotic arm]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2971626</guid>
+
+					<description><![CDATA[<p>Regions like the U.S. and Europe have been doubling down on rebuilding their industrial muscle, after decades of closing down factories and outsourcing the work to countries like China. To that end, a fast-growing Polish startup called Nomagic, which builds robots — specifically robotic arms — for logistics operations, is announcing $44 million in funding, [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Gozem nets $30M to expand vehicle financing, digital banking in Francophone Africa</title>
 		<link>https://techcrunch.com/2025/02/26/gozem-nets-30m-to-expand-vehicle-financing-digital-banking-in-francophone-africa/</link>
 		
@@ -36,6 +81,7 @@
 				<category><![CDATA[Commerce]]></category>
 		<category><![CDATA[Fintech]]></category>
 		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Africa]]></category>
 		<category><![CDATA[gozem]]></category>
 		<category><![CDATA[ride-hailing apps]]></category>
 		<category><![CDATA[super app]]></category>
@@ -391,45 +437,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2971237</guid>
 
 					<description><![CDATA[<p>Apple shareholders rejected an anti-DEI proposal at its investor meeting Tuesday. The proposal was brought by a conservative group called the National Center for Public Policy Research. It asked Apple to end its DEI activities. Boards typically ask shareholders to reject shareholder proposals, and this was one of four such shareholder proposals. This proposal gained [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Why OpenAI isn&#8217;t bringing deep research to its API just yet</title>
-		<link>https://techcrunch.com/2025/02/25/why-openai-isnt-bringing-deep-research-to-its-api-just-yet/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 25 Feb 2025 20:07:30 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[deep research]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[persuasion risk]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2971157</guid>
-
-					<description><![CDATA[<p>Updated 4:11 p.m. Eastern: OpenAI said that its whitepaper was incorrectly worded to suggest that its work on persuasion research was related to its decision on whether to make the deep research model available in its API. The company has updated the whitepaper to reflect that its persuasion work is separate from its deep research [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tumblr backs Tapestry, a timeline app for the open social web</title>
-		<link>https://techcrunch.com/2025/02/25/tumblr-backs-tapestry-a-timeline-app-for-the-open-social-web/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Tue, 25 Feb 2025 19:37:21 +0000</pubDate>
-				<category><![CDATA[Social]]></category>
-		<category><![CDATA[Automattic]]></category>
-		<category><![CDATA[fediverse]]></category>
-		<category><![CDATA[tapestry]]></category>
-		<category><![CDATA[tumblr]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2971107</guid>
-
-					<description><![CDATA[<p>Automattic-owned blogging site and social platform Tumblr has financially backed Tapestry, the newly launched app designed to organize feeds from across the open web, including RSS, Mastodon, Bluesky, and others. Launched as a Kickstarter project in January 2024, Tapestry went on to raise over $177,000 via crowdfunding for its app, which opened up to the [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
