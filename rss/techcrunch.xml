@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 27 Feb 2025 12:56:32 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Feb 2025 14:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,45 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Stripe finalizes tender sale at a $91.5B valuation, says payment volumes grew to $1.4T in 2024</title>
+		<link>https://techcrunch.com/2025/02/27/stripe-finalizes-tender-sale-at-a-91-5b-valuation-says-payment-volumes-grew-to-1-4t-in-2024/</link>
+		
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+		<pubDate>Thu, 27 Feb 2025 14:32:21 +0000</pubDate>
+				<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[payments]]></category>
+		<category><![CDATA[secondary]]></category>
+		<category><![CDATA[stripe]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2972559</guid>
+
+					<description><![CDATA[<p>Digital payments platform has yet to lay out plans to go public, but in the meantime the company has thrown past and present employees a line for some liquidity. The company on Thursday confirmed a tender offer where investors will buy up shares from those employees at a valuation of $91.5 billion. Stripe said it [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>IBM closes $6.4B HashiCorp acquisition</title>
+		<link>https://techcrunch.com/2025/02/27/ibm-closes-6-4b-hashicorp-acquisition/</link>
+		
+		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
+		<pubDate>Thu, 27 Feb 2025 14:20:49 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[HashiCorp]]></category>
+		<category><![CDATA[IBM]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2972557</guid>
+
+					<description><![CDATA[<p>IBM has finalized its multi-billion dollar HashiCorp acquisition, two days after the U.K.&#8217;s antitrust regulator gave the deal its blessing. Today&#8217;s announcement comes 10 months after IBM announced plans to pay $6.4 billion for HashiCorp, an enterprise software company best known for Terraform, an &#8220;infrastructure as code&#8221; tool for provisioning and managing infrastructure across clouds. [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Amazon debuts Ocelot, its first quantum computing chip</title>
 		<link>https://techcrunch.com/2025/02/27/amazon-debuts-ocelot-its-first-quantum-computing-chip/</link>
 		
@@ -389,47 +428,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2919909</guid>
 
 					<description><![CDATA[<p>Not every app or service wants to monetize your personal data. Here are some of our favorite alternatives to popular apps.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Here are all the tech companies rolling back DEI or still committed to it — so far</title>
-		<link>https://techcrunch.com/2025/02/26/here-are-all-the-tech-companies-rolling-back-dei-or-still-committed-to-it-so-far/</link>
-		
-		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
-		<pubDate>Wed, 26 Feb 2025 20:00:00 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[big tech]]></category>
-		<category><![CDATA[DEI]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2971646</guid>
-
-					<description><![CDATA[<p>Companies around America have started cutting DEI programs and eliminating DEI commitments from public documents in response to legal and political threats from the Trump administration. Just a few weeks ago, Attorney General Pam Bondi instructed the Department of Justice to “investigate, eliminate, and penalize,” DEI programs deemed illegal in private sector companies that receive [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Inception emerges from stealth with a new type of AI model</title>
-		<link>https://techcrunch.com/2025/02/26/inception-emerges-from-stealth-with-a-new-type-of-ai-model/</link>
-		
-		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Wed, 26 Feb 2025 19:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[diffusion]]></category>
-		<category><![CDATA[dlms]]></category>
-		<category><![CDATA[Funding]]></category>
-		<category><![CDATA[inception]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2972081</guid>
-
-					<description><![CDATA[<p>Inception, a new Palo Alto-based company started by Stanford computer science professor Stefano Ermon, claims to have developed a novel AI model based on &#8220;diffusion&#8221; technology. Inception calls it a diffusion-based large language model, or a &#8220;DLM&#8221; for short. The generative AI models receiving the most attention now can be broadly divided into two types: [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
