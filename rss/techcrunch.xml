@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 27 Feb 2025 09:03:09 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Feb 2025 10:34:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,47 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Unique, a Swiss AI platform for finance, raises $30M</title>
+		<link>https://techcrunch.com/2025/02/27/unique-a-swiss-ai-platform-for-finance-raises-30m/</link>
+		
+		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
+		<pubDate>Thu, 27 Feb 2025 10:34:52 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[AI agents]]></category>
+		<category><![CDATA[financial services]]></category>
+		<category><![CDATA[unique]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2972531</guid>
+
+					<description><![CDATA[<p>A four-year-old Swiss startup has raised a sizable chunk of change to capitalize on the burgeoning &#8220;agentic AI&#8221; movement. Unique said on Thursday that it has raised $30 million in a Series A funding round that was led by London-based VC firm DN Capital and CommerzVentures, the investment offshoot of Germany&#8217;s Commerzbank. &#8220;Agentic AI&#8221; is [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Taktile helps fintechs build automated decision-making workflows</title>
+		<link>https://techcrunch.com/2025/02/27/taktile-helps-fintechs-build-automated-decision-making-workflows/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 27 Feb 2025 10:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[finance]]></category>
+		<category><![CDATA[Taktile]]></category>
+		<category><![CDATA[automated decisioning]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2969962</guid>
+
+					<description><![CDATA[<p>The automated logic behind many financial decisions — for example, decisions that determine whether a client is approved for a credit line — is hard-coded. Often, it&#8217;s not easily changed. If a head of credit at a bank wanted to adjust the bank&#8217;s lending criteria, for example, they&#8217;d likely have to raise a ticket with [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Instagram may spin off Reels into a separate app</title>
 		<link>https://techcrunch.com/2025/02/27/instagram-may-spin-off-reels-into-a-separate-app/</link>
 		
@@ -394,46 +435,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2972014</guid>
 
 					<description><![CDATA[<p>Bybit has already paid more than $4 million to bounty hunters who helped trace and freeze some of the stolen funds. </p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ElevenLabs is launching its own speech-to-text model</title>
-		<link>https://techcrunch.com/2025/02/26/elevenlabs-is-launching-its-own-speech-to-text-model/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Wed, 26 Feb 2025 18:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[DeepGram]]></category>
-		<category><![CDATA[ElevenLabs]]></category>
-		<category><![CDATA[Gladia]]></category>
-		<category><![CDATA[speech to text]]></category>
-		<category><![CDATA[speechmatics]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2964596</guid>
-
-					<description><![CDATA[<p>ElevenLabs, an AI startup that just raised a $180 million mega-funding round, has been primarily known for its audio-generation prowess. The company took a step in another technological direction by launching its first stand-alone speech-to-text model called Scribe. The startup, valued at $3.3 billion, has aided many other companies in providing text-to-speech services through its [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Pixel Watch 3 is getting &#8216;Loss of Pulse Detection&#8217; in the US in March</title>
-		<link>https://techcrunch.com/2025/02/26/pixel-watch-3-is-getting-loss-of-pulse-detection-in-the-us-in-march/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Wed, 26 Feb 2025 17:13:23 +0000</pubDate>
-				<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[pixel watch]]></category>
-		<category><![CDATA[pixel watch 3]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2971880</guid>
-
-					<description><![CDATA[<p>Google announced on Wednesday that it has received FDA clearance for the Pixel Watch 3&#8217;s &#8220;Loss of Pulse Detection&#8221; feature and will be launching it in the U.S. at the end of March. The feature can detect when a user&#8217;s heart stops beating due to an event like primary cardiac arrest, respiratory or circulatory failure, [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
