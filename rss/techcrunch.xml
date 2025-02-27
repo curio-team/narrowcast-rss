@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 26 Feb 2025 15:35:41 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Feb 2025 08:01:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,163 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Amazon unveils a new and improved Alexa, Alexa+</title>
-		<link>https://techcrunch.com/2025/02/26/amazon-unveils-a-new-and-improved-alexa-alexa/</link>
+		<title>Google Gemini: Everything you need to know about the generative AI models</title>
+		<link>https://techcrunch.com/2025/02/26/what-is-google-gemini-ai/</link>
 		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 26 Feb 2025 15:25:38 +0000</pubDate>
+		<dc:creator><![CDATA[Kyle Wiggers, Maxwell Zeff]]></dc:creator>
+		<pubDate>Thu, 27 Feb 2025 02:09:45 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Alexa]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2971694</guid>
-
-					<description><![CDATA[<p>At an event in NYC on Wednesday, Amazon announced an upgraded Alexa experience powered by generative AI. Onstage, Amazon’s devices and services chief Panos Panay called it a &#8220;complete rearchitecture&#8221; of the AI assistant. &#8220;[W]hile the vision of Alexa has been ambitious and remains incredibly compelling, until right this moment — right this moment — [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>YouTube surpasses 1B monthly podcast viewers</title>
-		<link>https://techcrunch.com/2025/02/26/youtube-surpasses-1-billion-monthly-podcast-viewers/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Wed, 26 Feb 2025 15:13:55 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[podcasts]]></category>
-		<category><![CDATA[YouTube]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2971699</guid>
-
-					<description><![CDATA[<p>YouTube continues to assert its dominance in the podcasting space, presenting significant competition to both Spotify and Apple Podcasts. In an announcement on Wednesday, the company revealed YouTube has surpassed 1 billion monthly active podcast viewers.  This milestone highlights YouTube&#8217;s popularity in the podcast industry and emphasizes consumer preference for video-first formats. Last year, YouTube [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft finalizes its EU sovereign cloud project</title>
-		<link>https://techcrunch.com/2025/02/26/microsoft-finalizes-its-eu-sovereign-cloud-project/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 26 Feb 2025 15:02:32 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[cloud]]></category>
-		<category><![CDATA[eu]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2971676</guid>
-
-					<description><![CDATA[<p>Microsoft says that it has completed a multi-year project to allow Europe-based customers using its cloud services to store and process data in the EU. The project, the EU Data Boundary for the Microsoft Cloud, began in January 2023, went on for two more years, and finally wrapped up this February, Microsoft said. With its [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google makes it easier to delete personal info from Search results</title>
-		<link>https://techcrunch.com/2025/02/26/google-makes-it-easier-to-delete-personal-info-from-search-results/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Wed, 26 Feb 2025 15:01:18 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[privacy]]></category>
-		<category><![CDATA[Search]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2971681</guid>
-
-					<description><![CDATA[<p>Google announced on Wednesday that it&#8217;s updating its &#8220;Results about you&#8221; tool to make it easier for users to protect and remove their personal information from Search results. The company says it&#8217;s improved the sign-up process and simplified requesting removals directly from Google Search. The tool can be used to proactively monitor and delete things [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TechCrunch Disrupt 2025: 3 days left to save up to $1,130 on passes</title>
-		<link>https://techcrunch.com/2025/02/26/techcrunch-disrupt-2025-3-days-left-to-save-up-to-1130-on-passes/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Wed, 26 Feb 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[Space]]></category>
-		<category><![CDATA[Crypto]]></category>
-		<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[AI]]></category>
 		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[TechCrunch Disrupt 2025]]></category>
-		<category><![CDATA[Disrupt 2025]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2971306</guid>
-
-					<description><![CDATA[<p>Tick-tock! The last three days to save up to $1,130 to TechCrunch Disrupt 2025 are winding down! Get your tickets today for massive savings on Disrupt 2025 individual passes and up to 30% on group tickets. These offers end February 28 at 11:59 p.m. PT, so don’t miss out on major savings of the year. [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>5 days left — save over $300 to TechCrunch Sessions: AI</title>
-		<link>https://techcrunch.com/2025/02/26/5-days-left-save-over-300-to-techcrunch-sessions-ai/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Wed, 26 Feb 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[TechCrunch Sessions: AI]]></category>
-		<category><![CDATA[TC Sessions: AI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2971514</guid>
-
-					<description><![CDATA[<p>The hub of AI awaits — don’t miss out! You have 5 more days to secure your spot at TechCrunch Sessions: AI with savings of up to $325. This offer ends on March 3 at 11:59 p.m. PT. As AI continues to be the biggest topic of conversation in the tech world, TechCrunch has you [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Indonesia, Apple reach agreement to end iPhone 16 sales ban</title>
-		<link>https://techcrunch.com/2025/02/26/indonesia-apple-reach-agreement-to-end-iphone-16-sales-ban/</link>
-		
-		<dc:creator><![CDATA[Kate Park]]></dc:creator>
-		<pubDate>Wed, 26 Feb 2025 14:18:02 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Indonesia]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2971663</guid>
-
-					<description><![CDATA[<p>Apple will be able to resume its iPhone 16 smartphone sales in Indonesia after the two sides came to an agreement, the Industry Ministry said during a press conference Wednesday, per a Reuters report. The ban was lifted five months after Indonesia blocked the U.S. iPhone maker from selling its iPhone 16 phones in Indonesia [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Lock screen platform Glance launches AI-powered shopping experience, gets fresh backing from Google</title>
-		<link>https://techcrunch.com/2025/02/26/lockscreen-platform-glance-launches-gen-ai-led-shopping-experience-gets-fresh-backing-from-google/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Wed, 26 Feb 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Glance]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<category><![CDATA[gemini]]></category>
+		<category><![CDATA[Gemini Pro]]></category>
+		<category><![CDATA[Generative AI]]></category>
 		<category><![CDATA[Google]]></category>
-		<category><![CDATA[Lockscreen]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2971605</guid>
+		<category><![CDATA[google gemini]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2643858</guid>
 
-					<description><![CDATA[<p>Lock screen platform Glance announced today that it is launching a new generative AI-based shopping experience. It will suggest different outfits on a user&#8217;s personalized avatar. The company is partnering with Google to use the company&#8217;s Gemini models and Vertex AI to deploy the experience. Separately, the company also got fresh backing from Google — [&#8230;]</p>
+					<description><![CDATA[<p>Gemini is Google’s long-promised, next-gen generative AI model family.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -192,89 +52,21 @@
 		
 			</item>
 		<item>
-		<title>Regie.ai injects sales enablement with AI, but keeps humans in the loop</title>
-		<link>https://techcrunch.com/2025/02/26/regie-ai-injects-sales-enablement-with-ai-but-keeps-humans-in-the-loop/</link>
+		<title>Apple iPhone 16e review: An A18 chip and Apple Intelligence for $599</title>
+		<link>https://techcrunch.com/2025/02/26/apple-iphone-16e-review-an-a18-chip-and-apple-intelligence-for-599/</link>
 		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 26 Feb 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Automation]]></category>
-		<category><![CDATA[sales enablement]]></category>
-		<category><![CDATA[Regie.ai]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2969213</guid>
-
-					<description><![CDATA[<p>There&#8217;s no sure-fire approach to sales enablement, the process of providing a sales team with the resources it needs to close deals. Some teams are deficient on the prospecting side — that is, identifying and contacting potential customers. Others require help getting deals over the finish line. To meet these diverse wants, founders Matt Millen [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anagram takes a gamified approach to employee cybersecurity training</title>
-		<link>https://techcrunch.com/2025/02/26/anagram-takes-a-gamified-approach-to-employee-cybersecurity-training/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Wed, 26 Feb 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[bloomberg beta]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[enterprise startups]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[venture capital]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2971375</guid>
-
-					<description><![CDATA[<p>Despite employers requiring their employees to complete yearly cybersecurity training courses, human-driven cybersecurity breaches still happen. The problem could even get substantially worse as generative AI increases the scale and personalization of social engineering campaigns. Anagram, formerly known as Cipher, is taking a new approach to employee cybersecurity training that the company hopes can keep [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Bridgetown Research raises $19M to speed up due diligence with AI</title>
-		<link>https://techcrunch.com/2025/02/26/bridgetown-research-raises-19m-to-speed-up-due-diligence-with-ai/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Wed, 26 Feb 2025 12:13:19 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Accel]]></category>
-		<category><![CDATA[Bridgetown Research]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[India]]></category>
-		<category><![CDATA[lightspeed]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2970912</guid>
-
-					<description><![CDATA[<p>Birdgetown Research has raised $19 million in a round co-led by Accel and Lightspeed to deploy AI agents for business decisions and M&#038;A deals.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Framework’s first desktop PC is optimized for gaming and local AI inference</title>
-		<link>https://techcrunch.com/2025/02/26/frameworks-first-desktop-pc-is-ready-for-gaming-and-local-ai-inference/</link>
-		
-		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
-		<pubDate>Wed, 26 Feb 2025 11:33:12 +0000</pubDate>
+		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
+		<pubDate>Thu, 27 Feb 2025 02:00:00 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Gadgets]]></category>
-		<category><![CDATA[Gaming]]></category>
-		<category><![CDATA[amd]]></category>
-		<category><![CDATA[framework]]></category>
-		<category><![CDATA[Framework Desktop]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2971618</guid>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[iPhone 16e]]></category>
+		<category><![CDATA[review]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2970375</guid>
 
-					<description><![CDATA[<p>Framework, the company that is better known for its modular, repairable laptops, just released its first desktop computer. It’s a small desktop PC that punches above its weight. The most interesting part is what’s inside the device. Framework is one of the first companies to use AMD’s recently announced Strix Halo architecture, also known as [&#8230;]</p>
+					<description><![CDATA[<p>Apple delivered its latest budget handset, the $599 iPhone 16e, without pomp. There was no big event in person, nor was there one online. No journalists scrambled through hoards of colleagues to snap photos of the phone. Instead, CEO Tim Cook tweeted out that new hardware was on the way, days before Apple announced the [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -282,125 +74,39 @@
 		
 			</item>
 		<item>
-		<title>Nomagic picks up $44M for its AI-powered robotic arms</title>
-		<link>https://techcrunch.com/2025/02/26/nomagic-picks-up-44m-for-its-ai-powered-robotic-arms/</link>
-		
-		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
-		<pubDate>Wed, 26 Feb 2025 11:09:29 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[European Bank for Reconstruction and Development]]></category>
-		<category><![CDATA[Industrial Robotics]]></category>
-		<category><![CDATA[nomagic]]></category>
-		<category><![CDATA[robotic arm]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2971626</guid>
-
-					<description><![CDATA[<p>Regions like the U.S. and Europe have been doubling down on rebuilding their industrial muscle after decades of closing down factories and outsourcing the work to countries like China. To that end, a fast-growing Polish startup called Nomagic, which builds robotic arms for picking, packing and moving in logistics operations, has raised $44 million in [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Gozem nets $30M to expand vehicle financing, digital banking in Francophone Africa</title>
-		<link>https://techcrunch.com/2025/02/26/gozem-nets-30m-to-expand-vehicle-financing-digital-banking-in-francophone-africa/</link>
-		
-		<dc:creator><![CDATA[Tage Kene-Okafor]]></dc:creator>
-		<pubDate>Wed, 26 Feb 2025 10:36:38 +0000</pubDate>
-				<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Africa]]></category>
-		<category><![CDATA[gozem]]></category>
-		<category><![CDATA[ride-hailing apps]]></category>
-		<category><![CDATA[super app]]></category>
-		<category><![CDATA[vehicle financing]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2970913</guid>
-
-					<description><![CDATA[<p>Since its launch in 2018 as a ride-hailing service in Togo, Gozem has steadily expanded across French-speaking West Africa, integrating a wide range of services as it sought to become a super-app. The company now offers ride-hailing, commerce, vehicle financing, and digital banking across Togo, Benin, Gabon, and Cameroon. Now, in a bid to scale [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers publish sensitive patient data allegedly stolen from Australian IVF provider Genea</title>
-		<link>https://techcrunch.com/2025/02/26/hackers-publish-sensitive-patient-data-allegedly-stolen-from-australian-ivf-provider-genea/</link>
-		
-		<dc:creator><![CDATA[Carly Page]]></dc:creator>
-		<pubDate>Wed, 26 Feb 2025 10:34:01 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<category><![CDATA[security]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2971615</guid>
-
-					<description><![CDATA[<p>Genea gets a court injunction after ransomware gang Termite claims to have leaked patient information</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Thousands of exposed GitHub repos, now private, can still be accessed through Copilot</title>
-		<link>https://techcrunch.com/2025/02/26/thousands-of-exposed-github-repos-now-private-can-still-be-accessed-through-copilot/</link>
-		
-		<dc:creator><![CDATA[Carly Page]]></dc:creator>
-		<pubDate>Wed, 26 Feb 2025 10:02:14 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[GitHub]]></category>
-		<category><![CDATA[Microsoft Copilot]]></category>
-		<category><![CDATA[security]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2971010</guid>
-
-					<description><![CDATA[<p>Data exposed even briefly can live on in generative AI chatbots long after the data is made private.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ElevenLabs now lets authors create and publish audiobooks on its own platform</title>
-		<link>https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Wed, 26 Feb 2025 03:45:45 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Audible]]></category>
-		<category><![CDATA[Artificial Intelligence (AI)]]></category>
-		<category><![CDATA[audiobooks]]></category>
-		<category><![CDATA[ElevenLabs]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2970708</guid>
-
-					<description><![CDATA[<p>Voice AI company ElevenLabs is now letting authors publish AI-generated audiobooks on its own Reader app, TechCrunch has learned and the company confirmed. The announcement comes days after the company partnered with Spotify for AI-narrated audiobooks. ElevenLabs, which raised a $180 million mega-round last month, started inviting authors to try out their publishing program through [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>German startup wins accolade for its fusion reactor design</title>
-		<link>https://techcrunch.com/2025/02/25/german-startup-wins-accolade-for-its-fusion-reactor-design/</link>
+		<title>Europe’s Relay pulls in $35M Series A after applying Asia&#8217;s model to delivery</title>
+		<link>https://techcrunch.com/2025/02/26/europes-relay-pulls-in-35m-series-a-after-applying-asias-model-to-delivery/</link>
 		
 		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
-		<pubDate>Wed, 26 Feb 2025 02:52:46 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
+		<pubDate>Thu, 27 Feb 2025 01:01:03 +0000</pubDate>
+				<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[delivery]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2972425</guid>
+
+					<description><![CDATA[<p>Being somewhat later than Europe in adopting the idea of parcel delivery, much of Asia built its delivery infrastructure around e-commerce, effectively &#8220;Uberizing&#8221; how deliveries worked down to the last mile. Think DoorDash but for parcels, not food. This is what the founders of Europe’s Relay realized and decided to bring to the region &#8212; [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Lonestar and Phison&#8217;s data center infrastructure is headed to the moon</title>
+		<link>https://techcrunch.com/2025/02/26/lonestar-and-phisons-data-center-infrastructure-is-headed-to-the-moon/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Thu, 27 Feb 2025 00:56:01 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
 		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Fusion]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2971573</guid>
+		<category><![CDATA[Space]]></category>
+		<category><![CDATA[data center]]></category>
+		<category><![CDATA[SpaceX]]></category>
+		<category><![CDATA[phison]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2972384</guid>
 
-					<description><![CDATA[<p>Proxima Fusion, a two-year-old, German nuclear fusion startup, has published plans for a working fusion power plant in a peer-reviewed journal, in what is being touted as a step-change in the race to generate limitless energy. Today’s nuclear fission reactors create radioactive waste, whereas nuclear fusion releases vast amounts of energy, with zero carbon emissions and [&#8230;]</p>
+					<description><![CDATA[<p>Data storage and resilience company Lonestar and semiconductor and storage company Phison launched a data center infrastructure on a SpaceX rocket on Wednesday that&#8217;s headed to the moon. The companies are sending Phison&#8217;s Pascari storage — solid state drives (SSDs) built for data centers — packed with Lonestar&#8217;s clients&#8217; data on a SpaceX Falcon 9 [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -408,22 +114,20 @@
 		
 			</item>
 		<item>
-		<title>Claude: Everything you need to know about Anthropic&#8217;s AI</title>
-		<link>https://techcrunch.com/2025/02/25/claude-everything-you-need-to-know-about-anthropics-ai/</link>
+		<title>Commercetools, a pioneer in &#8216;headless commerce&#8217;, lays off dozens of staff</title>
+		<link>https://techcrunch.com/2025/02/26/commercetools-a-pioneer-in-headless-commerce-lays-off-dozens-of-staff/</link>
 		
-		<dc:creator><![CDATA[Kyle Wiggers, Maxwell Zeff]]></dc:creator>
-		<pubDate>Wed, 26 Feb 2025 01:23:42 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Claude]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[Explainer]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2899898</guid>
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+		<pubDate>Thu, 27 Feb 2025 00:15:16 +0000</pubDate>
+				<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[commercetools]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[headless commerce]]></category>
+		<category><![CDATA[headless content management]]></category>
+		<category><![CDATA[Layoffs]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2972348</guid>
 
-					<description><![CDATA[<p>Anthropic, one of the world&#8217;s largest AI vendors, has a powerful family of generative AI models called Claude. These models can perform a range of tasks, from captioning images and writing emails to solving math and coding challenges. With Anthropic&#8217;s model ecosystem growing so quickly, it can be tough to keep track of which Claude [&#8230;]</p>
+					<description><![CDATA[<p>Commercetools &#8212; a “headless commerce&#8221; platform that provides APIs to companies building online storefronts &#8212; saw a major boost in its business just a few years ago, raising money at a whopping $1.9 billion valuation as the world went shopping online in the wake of the COVID-19 pandemic, and businesses rushed to improve their e-commerce [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -431,24 +135,302 @@
 		
 			</item>
 		<item>
-		<title>How much does ChatGPT cost? Everything you need to know about OpenAI&#8217;s pricing plans</title>
-		<link>https://techcrunch.com/2025/02/25/how-much-does-chatgpt-cost-everything-you-need-to-know-about-openais-pricing-plans/</link>
+		<title>Shop Circle raises $60M to encircle e-commerce with an app suite</title>
+		<link>https://techcrunch.com/2025/02/26/shop-circle-raises-60m-to-encircle-ecommerce-with-an-app-suite/</link>
 		
-		<dc:creator><![CDATA[Kyle Wiggers, Maxwell Zeff]]></dc:creator>
-		<pubDate>Tue, 25 Feb 2025 23:25:57 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[chatbot]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[gpt store]]></category>
-		<category><![CDATA[gtps]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2794977</guid>
+		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
+		<pubDate>Thu, 27 Feb 2025 00:07:00 +0000</pubDate>
+				<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[eCommerce]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Shopify]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2972318</guid>
 
-					<description><![CDATA[<p>OpenAI offers an array of plans for ChatGPT, both paid and free.</p>
+					<description><![CDATA[<p>The boom in e-commerce post-pandemic meant shops moved online. However, some merchants ended up with dozens of separate app providers to accommodate everything from supply chains, to inventory, to marketing. The founders of Shop Circle realized this and either built or bought many such apps. The company has now raised $60 million in a Series [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nvidia CEO Jensen Huang shrugs off DeepSeek as sales soar</title>
+		<link>https://techcrunch.com/2025/02/26/nvidia-ceo-jensen-huang-shrugs-off-deepseek-as-sales-soar/</link>
+		
+		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 23:54:10 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[deepseek]]></category>
+		<category><![CDATA[earnings]]></category>
+		<category><![CDATA[Jensen Huang]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2972362</guid>
+
+					<description><![CDATA[<p>Nvidia CEO Jensen Huang is more bullish about Nvidia's sales than ever, despite a market panic last month induced by China's DeepSeek.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Meta&#8217;s Oversight Board is reviewing the company&#8217;s new hate speech policies</title>
+		<link>https://techcrunch.com/2025/02/26/metas-oversight-board-is-reviewing-the-companys-new-hate-speech-policies/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 23:53:53 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[content moderation]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Meta]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2972364</guid>
+
+					<description><![CDATA[<p>Meta&#8217;s Oversight Board, the company&#8217;s independent group created to help with sensitive policy decisions, is preparing to weigh in on CEO Mark Zuckerberg&#8217;s recent changes to how Facebook, Instagram, and Threads handle hate speech, Engadget reported. Zuckerberg announced an overhaul of its content moderation policies in January, shortly before the inauguration of U.S. President Donald [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>With Alexa+, Amazon makes an intriguing play in the consumer agent space</title>
+		<link>https://techcrunch.com/2025/02/26/with-alexa-amazon-makes-an-intriguing-play-in-the-consumer-agent-space/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 23:32:54 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[agents]]></category>
+		<category><![CDATA[alexa+]]></category>
+		<category><![CDATA[Amazon event]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2972049</guid>
+
+					<description><![CDATA[<p>Amazon shared an impressive vision of an &#8220;agentic&#8221; future on Wednesday — one in which the company&#8217;s improved Alexa, Alexa+, handles countless mundane tasks, from booking restaurants to finding appliance repairmen. If Amazon can deliver, it could be the first out to the gate with a comprehensive, consumer-focused agent tool. The company hopes to marry [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trump signs executive order to expand DOGE&#8217;s spending review powers</title>
+		<link>https://techcrunch.com/2025/02/26/trump-signs-executive-order-to-expand-doges-spending-review-powers/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 23:32:35 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[doge]]></category>
+		<category><![CDATA[executive order]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2972327</guid>
+
+					<description><![CDATA[<p>In a newly issued executive order (EO), the Trump administration has instructed the Department of Government Efficiency (DOGE), the Elon Musk-advised initiative to reduce federal spending, to create a &#8220;centralized technological system&#8221; in every agency to record contract and grant awards. As part of the ramp-up of these systems, agency employees who approved individual contract [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>a16z hires former Republican congressman Patrick McHenry as advisor</title>
+		<link>https://techcrunch.com/2025/02/26/a16z-hires-former-republican-congressman-patrick-mchenry-as-advisor/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 23:28:35 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[a16z]]></category>
+		<category><![CDATA[Andreessen Horowitz]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2972322</guid>
+
+					<description><![CDATA[<p>Former North Carolina congressman Patrick McHenry announced Wednesday that he landed a job with VC firm Andreessen Horowitz. He will be a senior advisor. His post on X said little about what the job entails, except to be advocating for startups (which a16z likes to call &#8220;little tech&#8221;) with policymakers. Andreessen Horowitz did not immediately [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Maternity clinic Millie nabs $12M Series A from an all-star, all female class of VCs</title>
+		<link>https://techcrunch.com/2025/02/26/maternity-clinic-millie-nabs-12m-series-a-from-an-all-star-all-female-class-of-vcs/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 23:05:00 +0000</pubDate>
+				<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Melinda French Gates]]></category>
+		<category><![CDATA[Pivotal Ventures]]></category>
+		<category><![CDATA[tmv]]></category>
+		<category><![CDATA[women's health]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2971650</guid>
+
+					<description><![CDATA[<p>Millie, a California-based maternity clinic, founded by Anu Sharma, announced the raise of a $12 million Series A by investors including RH Capital, TMV, and Melinda French Gates’ Pivotal Ventures.&#160; Sharma was inspired to launch the company after the birth of her daughter in 2019. She faced pregnancy complications and, as the child of a [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Avride&#8217;s sidewalk delivery bots land in Japan</title>
+		<link>https://techcrunch.com/2025/02/26/avrides-sidewalk-delivery-bots-land-in-japan/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 21:09:07 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[autonomous delivery]]></category>
+		<category><![CDATA[avride]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2972122</guid>
+
+					<description><![CDATA[<p>Avride sidewalk bots will start delivering restaurant orders and groceries in central Tokyo this week through a partnership with e-commerce giant Rakuten, the latest commercial expansion by the Yandex spinout into Northeast Asia. The Austin-based autonomous vehicle startup is one of four projects under Nebius Group, a Netherlands-based company formerly called Yandex NV that sold [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>These alternatives to popular apps can help reclaim your online life from billionaires and surveillance</title>
+		<link>https://techcrunch.com/2025/02/26/these-alternatives-to-popular-apps-can-help-reclaim-your-online-life-from-billionaires-and-surveillance/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 20:30:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[encrypted chat apps]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[productivity]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2919909</guid>
+
+					<description><![CDATA[<p>Not every app or service wants to monetize your personal data. Here are some of our favorite alternatives to popular apps.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Here are all the tech companies rolling back DEI or still committed to it — so far</title>
+		<link>https://techcrunch.com/2025/02/26/here-are-all-the-tech-companies-rolling-back-dei-or-still-committed-to-it-so-far/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 20:00:00 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[big tech]]></category>
+		<category><![CDATA[DEI]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2971646</guid>
+
+					<description><![CDATA[<p>Companies around America have started cutting DEI programs and eliminating DEI commitments from public documents in response to legal and political threats from the Trump administration. Just a few weeks ago, Attorney General Pam Bondi instructed the Department of Justice to “investigate, eliminate, and penalize,” DEI programs deemed illegal in private sector companies that receive [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Inception emerges from stealth with a new type of AI model</title>
+		<link>https://techcrunch.com/2025/02/26/inception-emerges-from-stealth-with-a-new-type-of-ai-model/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 19:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[diffusion]]></category>
+		<category><![CDATA[dlms]]></category>
+		<category><![CDATA[Funding]]></category>
+		<category><![CDATA[inception]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2972081</guid>
+
+					<description><![CDATA[<p>Inception, a new Palo Alto-based company started by Stanford computer science professor Stefano Ermon, claims to have developed a novel AI model based on &#8220;diffusion&#8221; technology. Inception calls it a diffusion-based large language model, or a &#8220;DLM&#8221; for short. The generative AI models receiving the most attention now can be broadly divided into two types: [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hacked crypto exchange Bybit offers $140M bounty to trace stolen funds</title>
+		<link>https://techcrunch.com/2025/02/26/hacked-crypto-exchange-bybit-offers-140-million-bounty-to-trace-stolen-funds/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 18:38:28 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[bybit]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[eth]]></category>
+		<category><![CDATA[ethereum]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[Lazarus Group]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2972014</guid>
+
+					<description><![CDATA[<p>Bybit has already paid more than $4 million to bounty hunters who helped trace and freeze some of the stolen funds. </p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ElevenLabs is launching its own speech-to-text model</title>
+		<link>https://techcrunch.com/2025/02/26/elevenlabs-is-launching-its-own-speech-to-text-model/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 18:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[DeepGram]]></category>
+		<category><![CDATA[ElevenLabs]]></category>
+		<category><![CDATA[Gladia]]></category>
+		<category><![CDATA[speech to text]]></category>
+		<category><![CDATA[speechmatics]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2964596</guid>
+
+					<description><![CDATA[<p>ElevenLabs, an AI startup that just raised a $180 million mega-funding round, has been primarily known for its audio-generation prowess. The company took a step in another technological direction by launching its first stand-alone speech-to-text model called Scribe. The startup, valued at $3.3 billion, has aided many other companies in providing text-to-speech services through its [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Pixel Watch 3 is getting &#8216;Loss of Pulse Detection&#8217; in the US in March</title>
+		<link>https://techcrunch.com/2025/02/26/pixel-watch-3-is-getting-loss-of-pulse-detection-in-the-us-in-march/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 17:13:23 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[pixel watch]]></category>
+		<category><![CDATA[pixel watch 3]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2971880</guid>
+
+					<description><![CDATA[<p>Google announced on Wednesday that it has received FDA clearance for the Pixel Watch 3&#8217;s &#8220;Loss of Pulse Detection&#8221; feature and will be launching it in the U.S. at the end of March. The feature can detect when a user&#8217;s heart stops beating due to an event like primary cardiac arrest, respiratory or circulatory failure, [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hinge launches a new feature for daters to privately share details with matches</title>
+		<link>https://techcrunch.com/2025/02/26/hinge-launches-a-new-feature-for-daters-to-privately-share-details-with-matches/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 17:13:10 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[dating apps]]></category>
+		<category><![CDATA[Hinge]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2971935</guid>
+
+					<description><![CDATA[<p>Dating app Hinge launched a new feature called “Match Note” on Wednesday, allowing users to privately share information with matches that they haven’t shared publicly on their profile.  Users can add a Match Note by going to their profile, similar to how they can add a text prompt. The note is always visible to new [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
