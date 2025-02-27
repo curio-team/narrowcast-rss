@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 27 Feb 2025 10:42:55 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Feb 2025 12:56:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Amazon debuts Ocelot, its first quantum computing chip</title>
+		<link>https://techcrunch.com/2025/02/27/amazon-debuts-ocelot-its-first-quantum-computing-chip/</link>
+		
+		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
+		<pubDate>Thu, 27 Feb 2025 12:56:27 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[Ocelot]]></category>
+		<category><![CDATA[quantum computing]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2972548</guid>
+
+					<description><![CDATA[<p>Amazon Web Services (AWS) has introduced Ocelot, its first quantum computing chip. The news brings it into line with its big cloud rivals Microsoft and Google, which have also unveiled their own quantum chips in recent months, respectively Majorana and Willow. The cloud computing giant has long been investing in the quantum computing space, starting [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Unique, a Swiss AI platform for finance, raises $30M</title>
 		<link>https://techcrunch.com/2025/02/27/unique-a-swiss-ai-platform-for-finance-raises-30m/</link>
 		
@@ -410,31 +430,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2972081</guid>
 
 					<description><![CDATA[<p>Inception, a new Palo Alto-based company started by Stanford computer science professor Stefano Ermon, claims to have developed a novel AI model based on &#8220;diffusion&#8221; technology. Inception calls it a diffusion-based large language model, or a &#8220;DLM&#8221; for short. The generative AI models receiving the most attention now can be broadly divided into two types: [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hacked crypto exchange Bybit offers $140M bounty to trace stolen funds</title>
-		<link>https://techcrunch.com/2025/02/26/hacked-crypto-exchange-bybit-offers-140-million-bounty-to-trace-stolen-funds/</link>
-		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
-		<pubDate>Wed, 26 Feb 2025 18:38:28 +0000</pubDate>
-				<category><![CDATA[Crypto]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[bybit]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[eth]]></category>
-		<category><![CDATA[ethereum]]></category>
-		<category><![CDATA[hackers]]></category>
-		<category><![CDATA[Lazarus Group]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2972014</guid>
-
-					<description><![CDATA[<p>Bybit has already paid more than $4 million to bounty hunters who helped trace and freeze some of the stolen funds. </p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
