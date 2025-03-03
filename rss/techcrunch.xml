@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 03 Mar 2025 13:31:02 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 03 Mar 2025 14:36:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,90 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>T-Mobile and Perplexity announce new &#8216;AI phone&#8217; priced at under $1K</title>
+		<link>https://techcrunch.com/2025/03/03/t-mobile-and-perplexity-announce-new-ai-phone-priced-at-under-1k/</link>
+		
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2025 14:24:47 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ai phone]]></category>
+		<category><![CDATA[deutsche telekom]]></category>
+		<category><![CDATA[mwc]]></category>
+		<category><![CDATA[Perplexity]]></category>
+		<category><![CDATA[T-Mobile]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2973955</guid>
+
+					<description><![CDATA[<p>It was inevitable that this year at MWC in Barcelona, at least one carrier would announce a major effort at building a smartphone with a major AI company. And here it is: T-Mobile, the mobile telco owned by Deutsche Telekom, said that it is building an “AI Phone”, a low-cost handset created in close collaboration [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Stability AI optimized its audio generation model to run on Arm chips</title>
+		<link>https://techcrunch.com/2025/03/03/stability-ai-optimized-its-audio-generation-model-to-run-on-arm-chips/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2025 14:18:31 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[ARM]]></category>
+		<category><![CDATA[audio]]></category>
+		<category><![CDATA[mwc 2025]]></category>
+		<category><![CDATA[Stability AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2973936</guid>
+
+					<description><![CDATA[<p>AI startup Stability AI has teamed up with chipmaker Arm to bring Stability&#8217;s Stable Audio Open, an AI model that can generate audio including sound effects, to mobile devices running Arm chips. While a number of AI-powered apps can generate audio, like Suno and Udio, most rely on cloud processing, meaning that they can&#8217;t be [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>As Skype shuts down, its legacy is end-to-end encryption for the masses</title>
+		<link>https://techcrunch.com/2025/03/03/as-skype-shuts-down-its-legacy-is-end-to-end-encryption-for-the-masses/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2025 14:05:00 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Skype]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[end-to-end encryption]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2973729</guid>
+
+					<description><![CDATA[<p>iMessage, Signal, and WhatsApp have made E2EE the default for messaging, but Skype paved the way decades ago. </p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>HackerPulse wants to help enterprises spot engineering bottlenecks</title>
+		<link>https://techcrunch.com/2025/03/03/hackerpulse-built-a-platform-to-give-enterprises-visibility-into-their-engineering-teams/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[developer tools]]></category>
+		<category><![CDATA[engineers]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[fundraising]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2973375</guid>
+
+					<description><![CDATA[<p>HackerPulse builds dashboards of information pulled from engineering tools to show how and where engineers spend their time.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Jolla founders take the wraps off an AI assistant to power up their push for privacy-friendly GenAI</title>
 		<link>https://techcrunch.com/2025/03/03/jolla-founders-take-the-wraps-off-an-ai-assistant-to-power-up-their-push-for-privacy-friendly-genai/</link>
 		
@@ -341,83 +425,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2973752</guid>
 
 					<description><![CDATA[<p>Chinese AI startup DeepSeek recently declared that its AI models could be very profitable — with some asterisks. In a post on X, DeepSeek boasted that its online services have a “cost profit margin” of 545%. However, that margin is calculated based on “theoretical income.” It discussed these numbers in more detail at the end [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ben Horowitz donates Cybertruck fleet to the Las Vegas police</title>
-		<link>https://techcrunch.com/2025/03/01/ben-horowitz-donates-cybertruck-fleet-to-the-las-vegas-police/</link>
-		
-		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
-		<pubDate>Sat, 01 Mar 2025 17:35:01 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[a16z]]></category>
-		<category><![CDATA[Andreessen Horowitz]]></category>
-		<category><![CDATA[Tesla]]></category>
-		<category><![CDATA[Tesla Cybertruck]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2973723</guid>
-
-					<description><![CDATA[<p>Andreessen Horowitz co-founder Ben Horowitz has donated a fleet of Tesla Cybertrucks to the Las Vegas Metropolitan Police, the department has confirmed to TechCrunch. The Cybertruck fleet is the latest entry in a list of gifts Horowitz has given to the Las Vegas police &#8212; a relationship TechCrunch revealed in detail late last year. The [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>How to get rid of the new Apple Mail redesign</title>
-		<link>https://techcrunch.com/2025/03/01/how-to-get-rid-of-the-new-apple-mail-redesign/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Sat, 01 Mar 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[iPhone]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[ios 18]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2969594</guid>
-
-					<description><![CDATA[<p>There are three inevitabilities in life: death, taxes, and tech platforms making design changes that are universally disliked. The latest victim to this phenomenon is the Apple Mail app, which got a major redesign in iOS 18. This update is also rolling out on iPads and MacBooks. The new Apple Mail design separates emails into [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>&#8216;Uber for guns&#8217; app Protector lets you hire armed body guards like you would an Uber — but does anyone need this?</title>
-		<link>https://techcrunch.com/2025/03/01/uber-for-guns-app-protector-lets-you-hire-armed-body-guards-like-you-would-an-uber-but-does-anyone-need-this/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Sat, 01 Mar 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2971078</guid>
-
-					<description><![CDATA[<p>In a TikTok video with over 3 million views, a woman in a fluffy, maximalist coat sits in the back seat of a luxury SUV, parked in the middle of a New York City street. Atop the 6-second video, a line of text reads, &#8220;our bodyguards got us matcha.&#8221; The camera zooms in on two [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>2 days left to save up to $325 on TechCrunch Sessions: AI tickets</title>
-		<link>https://techcrunch.com/2025/03/01/2-days-left-to-save-up-to-325-on-techcrunch-sessions-ai-tickets/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Sat, 01 Mar 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[TechCrunch Sessions: AI]]></category>
-		<category><![CDATA[TC Sessions: AI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2972922</guid>
-
-					<description><![CDATA[<p>Time is ticking to get AI industry insights — and major savings. There are just two days left to save up to $325 and secure your spot at TechCrunch Sessions: AI. But act fast, this special offer ends on March 2 at 11:59 p.m. PT. TC Sessions: AI is an event like no other that [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
