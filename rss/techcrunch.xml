@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 03 Mar 2025 15:33:13 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Mar 2025 02:17:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,146 +28,19 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>UK probes how TikTok, Reddit, and Imgur protect child privacy</title>
-		<link>https://techcrunch.com/2025/03/03/uk-probes-how-tiktok-reddit-and-imgur-protect-child-privacy/</link>
+		<title>Dutch startup QuantWare seeks to fast-track quantum computing</title>
+		<link>https://techcrunch.com/2025/03/03/dutch-startup-quantware-seeks-to-fast-track-quantum-computing/</link>
 		
-		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
-		<pubDate>Mon, 03 Mar 2025 15:32:01 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Imgur]]></category>
-		<category><![CDATA[Reddit]]></category>
-		<category><![CDATA[TikTok]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2973908</guid>
-
-					<description><![CDATA[<p>The U.K.&#8217;s privacy watchdog has launched investigations into three social media companies over how they go about protecting the privacy of children on their respective platforms. The Information Commissioner&#8217;s Office (ICO) announced today that it&#8217;s looking into how TikTok uses personal information of 13-17-year-olds to recommend videos, &#8220;in light of growing concerns&#8221; around how young [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chinese buyers are getting Nvidia Blackwell chips despite U.S. export controls</title>
-		<link>https://techcrunch.com/2025/03/03/chinese-buyers-are-getting-nvidia-blackwell-chips-despite-u-s-export-controls/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Mon, 03 Mar 2025 15:08:59 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[data centers]]></category>
-		<category><![CDATA[export controls]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<category><![CDATA[semiconductors]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2973963</guid>
-
-					<description><![CDATA[<p>Upholding export controls on semiconductor chips made in the U.S. made chips may be harder than Washington D.C. thinks. Chinese buyers are getting their hands on computing systems with Nvidia&#8217;s Blackwell chips through third-party traders located in other regions, the Wall Street Journal reported. Buyers in Malaysia, Taiwan and Vietnam are buying these resources for [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Conan O&#8217;Brien comments on AI during his opening monologue at the Oscars</title>
-		<link>https://techcrunch.com/2025/03/03/conan-obrien-comments-on-ai-during-his-opening-monologue-at-the-oscars/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Mon, 03 Mar 2025 15:08:27 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Hollywood]]></category>
-		<category><![CDATA[oscars]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2974000</guid>
-
-					<description><![CDATA[<p>When hosting the 2025 Oscars last night, comedian and late-night TV host Conan O&#8217;Brien&#160;addressed the use of AI in his opening monologue, reflecting the growing conversation about the technology’s influence in Hollywood. “We did not use AI to make this show,” O’Brien said. His remarks were clearly a reference to the use of generative AI [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>T-Mobile and Perplexity announce new &#8216;AI Phone&#8217; priced at under $1K</title>
-		<link>https://techcrunch.com/2025/03/03/t-mobile-and-perplexity-announce-new-ai-phone-priced-at-under-1k/</link>
-		
-		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
-		<pubDate>Mon, 03 Mar 2025 14:24:47 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[ai phone]]></category>
-		<category><![CDATA[deutsche telekom]]></category>
-		<category><![CDATA[mwc]]></category>
-		<category><![CDATA[Perplexity]]></category>
-		<category><![CDATA[T-Mobile]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2973955</guid>
-
-					<description><![CDATA[<p>It was inevitable that this year at MWC in Barcelona, at least one carrier would announce a major effort at building a smartphone with a top AI company. And here it is: T-Mobile, the mobile telco owned by Deutsche Telekom (DT), said that it is building an “AI Phone,” a low-cost handset created in close [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Stability AI optimized its audio generation model to run on Arm chips</title>
-		<link>https://techcrunch.com/2025/03/03/stability-ai-optimized-its-audio-generation-model-to-run-on-arm-chips/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Mon, 03 Mar 2025 14:18:31 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[ARM]]></category>
-		<category><![CDATA[audio]]></category>
-		<category><![CDATA[mwc 2025]]></category>
-		<category><![CDATA[Stability AI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2973936</guid>
-
-					<description><![CDATA[<p>AI startup Stability AI has teamed up with chipmaker Arm to bring Stability&#8217;s Stable Audio Open, an AI model that can generate audio including sound effects, to mobile devices running Arm chips. While a number of AI-powered apps can generate audio, like Suno and Udio, most rely on cloud processing, meaning that they can&#8217;t be [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>As Skype shuts down, its legacy is end-to-end encryption for the masses</title>
-		<link>https://techcrunch.com/2025/03/03/as-skype-shuts-down-its-legacy-is-end-to-end-encryption-for-the-masses/</link>
-		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
-		<pubDate>Mon, 03 Mar 2025 14:05:00 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Skype]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[end-to-end encryption]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2973729</guid>
-
-					<description><![CDATA[<p>iMessage, Signal, and WhatsApp have made E2EE the default for messaging, but Skype paved the way decades ago. </p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>HackerPulse wants to help enterprises spot engineering bottlenecks</title>
-		<link>https://techcrunch.com/2025/03/03/hackerpulse-built-a-platform-to-give-enterprises-visibility-into-their-engineering-teams/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Mon, 03 Mar 2025 14:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Anna Heim]]></dc:creator>
+		<pubDate>Tue, 04 Mar 2025 07:59:00 +0000</pubDate>
 				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Startups]]></category>
 		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[developer tools]]></category>
-		<category><![CDATA[engineers]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[fundraising]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2973375</guid>
+		<category><![CDATA[chips]]></category>
+		<category><![CDATA[quantum computing]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2974313</guid>
 
-					<description><![CDATA[<p>HackerPulse builds dashboards of information pulled from engineering tools to show how and where engineers spend their time.</p>
+					<description><![CDATA[<p>Big tech companies aren’t sleeping on quantum chips: Amazon Web Services introduced Ocelot; Microsoft, Majorana; and Google, Willow. But although all of these can be considered to be breakthroughs, quantum startups often focus on more practical advancements — and they are making progress. Founded in 2020, Dutch startup QuantWare is one of these, which claims [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -175,20 +48,20 @@
 		
 			</item>
 		<item>
-		<title>Jolla founders take the wraps off an AI assistant to power up their push for privacy-friendly GenAI</title>
-		<link>https://techcrunch.com/2025/03/03/jolla-founders-take-the-wraps-off-an-ai-assistant-to-power-up-their-push-for-privacy-friendly-genai/</link>
+		<title>Moonwatt secures $8.3M to dial up solar’s staying power with sodium-ion storage</title>
+		<link>https://techcrunch.com/2025/03/03/moonwatt-secures-8-3m-to-dial-up-solars-staying-power-with-sodium-ion-storage/</link>
 		
 		<dc:creator><![CDATA[Natasha Lomas]]></dc:creator>
-		<pubDate>Mon, 03 Mar 2025 13:30:55 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
+		<pubDate>Tue, 04 Mar 2025 07:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
 		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[jolla ai assistant]]></category>
-		<category><![CDATA[mindy]]></category>
-		<category><![CDATA[mwc]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2973874</guid>
+		<category><![CDATA[Climate]]></category>
+		<category><![CDATA[moonwatt]]></category>
+		<category><![CDATA[solar storage]]></category>
+		<category><![CDATA[sodium-ion]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2972575</guid>
 
-					<description><![CDATA[<p>Jolla, the erstwhile mobile maker turned privacy-centric AI business — via sister startup, Venho.ai — has taken the wraps off an AI assistant it says is a “fully private” alternative to data-mining cloud giants crawling all over your personal information. &#160; The AI assistant is designed to integrate with apps like email, calendar and social [&#8230;]</p>
+					<description><![CDATA[<p>The drive to decarbonize our economies through electrification and clean energy continues to generate momentum around battery technologies, as storage has a key role to play in enabling the green transition. While renewables are clean sources of energy compared to burning fossil fuels, their power output isn&#8217;t always consistent. In the case of solar &#8212; [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -196,20 +69,18 @@
 		
 			</item>
 		<item>
-		<title>Cloudsmith raises $23M to improve software supply chain security</title>
-		<link>https://techcrunch.com/2025/03/03/cloudsmith-raises-23m-to-solve-software-supply-chain-security/</link>
+		<title>Trump Administration cuts may threaten AI research efforts</title>
+		<link>https://techcrunch.com/2025/03/03/trump-administration-cuts-may-threaten-ai-research-efforts/</link>
 		
-		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
-		<pubDate>Mon, 03 Mar 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[cloudsmith]]></category>
-		<category><![CDATA[TCV]]></category>
-		<category><![CDATA[supply chain security]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2970802</guid>
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Tue, 04 Mar 2025 02:17:39 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Layoffs]]></category>
+		<category><![CDATA[Trump Administration]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2974674</guid>
 
-					<description><![CDATA[<p>The software supply chain is notoriously porous: a reported 81% of codebases contain high- or critical-risk open source vulnerabilities. A single vulnerability can have a far-reaching impact on the wider software supply chain, as evidenced by the likes of the Log4Shell exploit that saw millions of applications exposed to potential remote code execution hacks via [&#8230;]</p>
+					<description><![CDATA[<p>The Trump Administration has fired a number of National Science Foundation employees who had been handpicked for their expertise in AI, threatening the agency&#8217;s ability to sustain key AI research, Bloomberg reported. One of the affected departments inside NSF, called the Directorate for Technology, Innovation, and Partnerships, was instrumental in funneling government grants focused on [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -217,59 +88,58 @@
 		
 			</item>
 		<item>
-		<title>Opera unveils an AI agent that runs natively within the browser</title>
-		<link>https://techcrunch.com/2025/03/03/opera-announces-a-new-agentic-feature-for-its-browser/</link>
+		<title>People are using Super Mario to benchmark AI now</title>
+		<link>https://techcrunch.com/2025/03/03/people-are-using-super-mario-to-benchmark-ai-now/</link>
 		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Mon, 03 Mar 2025 13:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2025 23:54:19 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[benchmarks]]></category>
+		<category><![CDATA[games]]></category>
+		<category><![CDATA[super mario bros]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2974525</guid>
+
+					<description><![CDATA[<p>At least we can watch AI play Mario.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>General Catalyst loses three top investors as the firm expands beyond venture, contemplates IPO</title>
+		<link>https://techcrunch.com/2025/03/03/general-catalyst-loses-three-top-investors-as-the-firm-expands-beyond-venture-contemplates-ipo/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2025 23:26:45 +0000</pubDate>
+				<category><![CDATA[Venture]]></category>
+		<category><![CDATA[departures]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[General Catalyst]]></category>
+		<category><![CDATA[IPO]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2974622</guid>
+
+					<description><![CDATA[<p>Three key investors have left General Catalyst amidst a series of recent changes at the firm, which now describes itself as an &#8220;investment and transformation company,&#8221; TechCrunch has learned. The departed managing directors include Deep Nishar and Kyle Doherty, who co-led General Catalyst&#8217;s late-stage strategy known as Endurance, and Adam Valkin, one of the three [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>You can now talk to Google Gemini from your iPhone&#8217;s lock screen</title>
+		<link>https://techcrunch.com/2025/03/03/you-can-now-talk-to-google-gemini-from-your-iphones-lock-screen/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2025 23:13:49 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[ai agent]]></category>
-		<category><![CDATA[Opera]]></category>
-		<category><![CDATA[Opera Browser]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2973873</guid>
-
-					<description><![CDATA[<p>Browser company Opera has unveiled a new AI agent called Browser Operator that can complete tasks for you on different websites. In a demo video, the company showed the AI agent finding a right pair of socks from Walmart; securing tickets for a football match from the club&#8217;s site; and looking up a flight and [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Uber is piloting accounts for teenagers in India</title>
-		<link>https://techcrunch.com/2025/03/03/uber-is-piloting-accounts-for-teenagers-in-india/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Mon, 03 Mar 2025 10:51:37 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[Uber]]></category>
-		<category><![CDATA[uber for teens]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2973862</guid>
-
-					<description><![CDATA[<p>Uber has started testing its teenagers-focused service, Uber for Teens, in India.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google&#8217;s Gemini now lets you ask questions using videos and what&#8217;s on your screen</title>
-		<link>https://techcrunch.com/2025/03/03/googles-gemini-now-lets-you-ask-questions-using-videos-or-whats-on-your-screen/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Mon, 03 Mar 2025 10:36:47 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI assistant]]></category>
-		<category><![CDATA[gemini]]></category>
 		<category><![CDATA[Google]]></category>
 		<category><![CDATA[google gemini]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2973864</guid>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2974499</guid>
 
-					<description><![CDATA[<p>Google is adding new features to its AI assistant, Gemini, that let users ask it questions using video and content on the screen in real time. At the Mobile World Congress (MWC) 2025 in Barcelona, the company showed off a new &#8220;Screenshare&#8221; feature, which lets users share what&#8217;s on their phone&#8217;s screen with Gemini and [&#8230;]</p>
+					<description><![CDATA[<p>Google Gemini users can now access the AI chatbot directly from the iPhone&#8217;s lock screen, thanks to an update released on Monday first spotted by 9to5Google. Users can now call up Gemini Live, Google&#8217;s relatively real-time voice feature for its AI chatbot, before they unlock their phone by adding a Gemini widget to their lock [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -277,39 +147,19 @@
 		
 			</item>
 		<item>
-		<title>Signal is the number-one downloaded app in the Netherlands. But why?</title>
-		<link>https://techcrunch.com/2025/03/02/signal-is-the-number-one-downloaded-app-in-the-netherlands-but-why/</link>
+		<title>Singapore arrests alleged Nvidia chip smugglers</title>
+		<link>https://techcrunch.com/2025/03/03/singapore-arrests-alleged-nvidia-chip-smugglers/</link>
 		
-		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
-		<pubDate>Sun, 02 Mar 2025 22:36:34 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Netherlands]]></category>
-		<category><![CDATA[signal]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2973182</guid>
-
-					<description><![CDATA[<p>Privacy-focused messaging app Signal has been flying high in the Dutch app stores this past month, often sitting at the top as the most downloaded free app on iOS and Android across all categories, per data from multiple app-tracking platforms such as Sensor Tower. The app has experienced surges in popularity over the years, often [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple might not release a truly ‘modernized’ Siri until 2027</title>
-		<link>https://techcrunch.com/2025/03/02/apple-might-not-release-a-truly-modernized-siri-until-2027/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sun, 02 Mar 2025 21:57:58 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2025 22:44:32 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[siri]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2973843</guid>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[chips]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2974503</guid>
 
-					<description><![CDATA[<p>Apple is struggling to rebuild Siri for the age of generative AI, according to Bloomberg’s Mark Gurman, who says the company might not release “a true modernized, conversational version of Siri” until iOS 20 comes out in 2027. That doesn’t mean there won’t be big Siri updates before then. A new version Siri will reportedly [&#8230;]</p>
+					<description><![CDATA[<p>Singapore just arrested 3 men for allegedly smuggling Nvidia chips.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -317,19 +167,18 @@
 		
 			</item>
 		<item>
-		<title>Flora is building an AI-powered ‘infinite canvas’ for creative professionals</title>
-		<link>https://techcrunch.com/2025/03/02/flora-is-building-an-ai-powered-infinite-canvas-for-creative-professionals/</link>
+		<title>Creator monetization platform Passes sued over alleged distribution of CSAM</title>
+		<link>https://techcrunch.com/2025/03/03/creator-monetization-platform-passes-sued-over-alleged-distribution-of-csam/</link>
 		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sun, 02 Mar 2025 21:25:54 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[A16Z Games]]></category>
-		<category><![CDATA[Flora]]></category>
-		<category><![CDATA[Weber Wong]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2973834</guid>
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2025 22:22:08 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[creator economy]]></category>
+		<category><![CDATA[CSAM]]></category>
+		<category><![CDATA[passes]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2974182</guid>
 
-					<description><![CDATA[<p>With just a few words, AI models can be prompted to create a story, an image, or even a short film. But according to Weber Wong, these models are all “made by non-creatives for other non-creatives to feel creative.” In other words, they’re not built for actual creative professionals. That’s something Wong is hoping to [&#8230;]</p>
+					<description><![CDATA[<p>Passes, a direct-to-fan monetization platform for creators backed by $40 million in Series A funding, has been sued for allegedly distributing Child Sexual Abuse Material (also known as CSAM). While its guidelines do not allow for creators to post nude photos or videos, as opposed to competitors like OnlyFans, a creator has sued Passes, alleging [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -337,79 +186,19 @@
 		
 			</item>
 		<item>
-		<title>Trump calls for creation of a ‘crypto strategic reserve’</title>
-		<link>https://techcrunch.com/2025/03/02/trump-calls-for-creation-of-crypto-strategic-reserve/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sun, 02 Mar 2025 17:27:00 +0000</pubDate>
-				<category><![CDATA[Crypto]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[crypto strategic reserve]]></category>
-		<category><![CDATA[Donald Trump]]></category>
-		<category><![CDATA[Solana]]></category>
-		<category><![CDATA[xrp]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2973794</guid>
-
-					<description><![CDATA[<p>President Donald Trump is throwing his support behind the creation of a federal reserve of cryptocurrency assets — he initially highlighted XRP, Solana, and Cardano for inclusion, then later said Bitcoin and Ethereum would &#8220;obviously&#8221; be included too. In January, Trump issued an executive order calling for the formation of a working group that would [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Aviron’s $2,499 gamified treadmill will keep you on your toes</title>
-		<link>https://techcrunch.com/2025/03/02/avirons-2499-gamified-treadmill-will-keep-you-on-your-toes/</link>
-		
-		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
-		<pubDate>Sun, 02 Mar 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[aviron]]></category>
-		<category><![CDATA[connected fitness]]></category>
-		<category><![CDATA[Treadmill]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2972225</guid>
-
-					<description><![CDATA[<p>Aviron’s home fitness equipment operates on a simple principle: People hate working out. But many of those same people love playing video games. Perhaps the only thing standing between them and a more active lifestyle is some healthy competition and well-timed distraction. It’s the same gamification concept that made Nintendo’s Wii and VR games like [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Last chance! Last 24 hours to save up to $325 on TechCrunch Sessions: AI</title>
-		<link>https://techcrunch.com/2025/03/02/last-chance-last-24-hours-to-save-up-to-325-on-techcrunch-sessions-ai/</link>
+		<title>TechCrunch Sessions: AI speaker applications close March 7</title>
+		<link>https://techcrunch.com/2025/03/03/techcrunch-sessions-ai-speaker-applications-close-march-7/</link>
 		
 		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Sun, 02 Mar 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[TechCrunch Sessions: AI]]></category>
-		<category><![CDATA[TC Sessions: AI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2972934</guid>
-
-					<description><![CDATA[<p>Tonight is the night and the clock is winding down to register for TechCrunch Sessions: AI at our Super Early Bird pricing. Register before 11:59 p.m. PT so you can save up to $325 on passes! TC Sessions: AI will bring you invaluable insights into the cutting-edge and ever-evolving world of AI through expert-led main [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The TechCrunch AI glossary</title>
-		<link>https://techcrunch.com/2025/03/02/the-techcrunch-ai-glossary/</link>
-		
-		<dc:creator><![CDATA[Natasha Lomas, Romain Dillet]]></dc:creator>
-		<pubDate>Sun, 02 Mar 2025 14:00:00 +0000</pubDate>
+		<pubDate>Mon, 03 Mar 2025 21:50:30 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[artificial intelligence]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[Glossary]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2973217</guid>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[TC Sessions: AI]]></category>
+		<category><![CDATA[TechCrunch Sessions: AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2973692</guid>
 
-					<description><![CDATA[<p>Artificial intelligence is a deep and convoluted world. The scientists who work in this field often rely on jargon and lingo to explain what they’re working on. As a result, we frequently have to use those technical terms in our coverage of the artificial intelligence industry. That’s why we thought it would be helpful to [&#8230;]</p>
+					<description><![CDATA[<p>On June 5, TechCrunch Sessions: AI will kick off — and you can be part of the industry-changing conversations that will be taking place. We have an open invitation for members of the AI community to lead breakout sessions and discussions with over 1,200 startup founders, VC leaders, and AI aficionados attending our newest event, which [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -417,19 +206,210 @@
 		
 			</item>
 		<item>
-		<title>Mark Cuban offers to fund government tech unit that was cut in the middle of the night</title>
-		<link>https://techcrunch.com/2025/03/01/mark-cuban-offers-to-fund-government-tech-unit-that-was-cut-in-the-middle-of-the-night/</link>
+		<title>MWC hears two starkly divided views of AI&#8217;s impact</title>
+		<link>https://techcrunch.com/2025/03/03/mwc-hears-two-starkly-divided-views-of-ais-impact/</link>
 		
-		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
-		<pubDate>Sun, 02 Mar 2025 06:15:02 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[18F]]></category>
-		<category><![CDATA[doge]]></category>
-		<category><![CDATA[mark cuban]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2973784</guid>
+		<dc:creator><![CDATA[Natasha Lomas]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2025 21:37:35 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[mwc]]></category>
+		<category><![CDATA[ray kurzweil]]></category>
+		<category><![CDATA[Scott Galloway]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2974234</guid>
 
-					<description><![CDATA[<p>Billionaire investor Mark Cuban waded into the latest government tech shake-up on Saturday, offering support on the social network Bluesky for newly laid-off federal workers whose job it was to make government tech work better. His message, which quickly gained traction, urged the displaced engineers and designers to turn the upheaval to their advantage. &#8220;If [&#8230;]</p>
+					<description><![CDATA[<p>Two sharply different visions of AI were platformed on stage at the Mobile World Congress trade show on Monday. The true believer’s case for the technology’s potential — to merge with and transform human life for the better — was offered up by futurist and singularity priest Ray Kurzweil, who also has a research role [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The author of SB 1047 introduces a new AI bill in California</title>
+		<link>https://techcrunch.com/2025/03/03/the-author-of-sb-1047-introduces-a-new-ai-bill-in-california/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2025 20:38:25 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[ai safety]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2974299</guid>
+
+					<description><![CDATA[<p>The author of California&#8217;s SB 1047, the nation&#8217;s most controversial AI safety bill of 2024, is back with a new AI bill that could shake up Silicon Valley. California state Senator Scott Wiener introduced a new bill on Friday that would protect employees at leading AI labs, allowing them to speak out if they think [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Play update makes it easier to find Android apps with widgets</title>
+		<link>https://techcrunch.com/2025/03/03/google-play-update-makes-it-easier-to-find-android-apps-with-widgets/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2025 20:24:28 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Google]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2974331</guid>
+
+					<description><![CDATA[<p>Google announced Monday a series of changes to its widgets system on Android that will make it easier for app developers to reach their users. Widgets, which offer at-a-glance views of an app&#8217;s most important information &#8212; like the day&#8217;s weather or upcoming meetings on your calendar &#8212; are a key aspect of Android home [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ramp, a 6-year-old fintech startup, has more than doubled its annualized revenue to $700M</title>
+		<link>https://techcrunch.com/2025/03/03/ramp-has-more-than-doubled-its-annualized-revenue-to-700-million/</link>
+		
+		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2025 20:23:33 +0000</pubDate>
+				<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Eric Glyman]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Ramp]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2974288</guid>
+
+					<description><![CDATA[<p>Fintech startup Ramp has crossed $700 million in annualized revenue as of January of this year, according to a source familiar with the company’s internal operations. The company had crossed $100 million in annualized revenue before its third birthday in March 2022, passed $300 million by August 2023, and now effectively more than doubled that [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>TSMC pledges to spend $100B on US chip facilities</title>
+		<link>https://techcrunch.com/2025/03/03/tsmc-pledges-to-spend-100b-on-us-chip-facilities/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2025 19:40:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Chips Act]]></category>
+		<category><![CDATA[TSMC]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2974011</guid>
+
+					<description><![CDATA[<p>Chipmaker TSMC said that it aims to invest &#8220;at least&#8221; $100 billion in chip manufacturing plants in the U.S. over the next four years as part of an effort to expand the company&#8217;s network of semiconductor factories. President Donald Trump announced the news during a press conference Monday. TSMC&#8217;s cash infusion will fund the construction [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google releases SpeciesNet, an AI model designed to identify wildlife</title>
+		<link>https://techcrunch.com/2025/03/03/google-releases-speciesnet-an-ai-model-designed-to-identify-wildlife/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2025 19:22:12 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[speciesnet]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2974240</guid>
+
+					<description><![CDATA[<p>Google has open sourced an AI model, SpeciesNet, designed to identify animal species by analyzing photos from camera traps. Researchers around the world use camera traps — digital cameras connected to infrared sensors — to study wildlife populations. But while these traps can provide valuable insights, they generate massive volumes of data that take days [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Lee Enterprises ransomware attack halts freelance and contractor payments</title>
+		<link>https://techcrunch.com/2025/03/03/lee-enterprises-ransomware-attack-hits-freelance-and-contractor-payments/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2025 19:20:52 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Lee Enterprises]]></category>
+		<category><![CDATA[local newspapers]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2974280</guid>
+
+					<description><![CDATA[<p>The ransomware attack is affecting Lee's ability to pay outside vendors, including freelancers and contractors, TechCrunch has learned.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Podcasting platform Podcastle launches a text-to-speech model with more than 450 AI voices</title>
+		<link>https://techcrunch.com/2025/03/03/podcasting-platform-podcastle-launches-a-text-to-speech-model-with-more-than-450-ai-voices/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2025 18:24:42 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ElevenLabs]]></category>
+		<category><![CDATA[Podcastle]]></category>
+		<category><![CDATA[text-to-speech]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2973860</guid>
+
+					<description><![CDATA[<p>Podcast recording and editing platform Podcastle is now joining other companies in the AI-powered, text-to-speech race by releasing its own AI model called Asyncflow v1.0. An API for developers will also be available, allowing them to directly integrate the text-to-speech model in their apps. Thanks to the new model, the company is able to offer [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google upgrades Colab with an AI agent tool</title>
+		<link>https://techcrunch.com/2025/03/03/google-upgrades-colab-with-an-ai-agent-tool/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2025 17:41:06 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google Colab]]></category>
+		<category><![CDATA[google labs]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2974012</guid>
+
+					<description><![CDATA[<p>Google Colab has integrated Google Labs' Data Science Agent to help data scientists and ML engineers quickly clean their data and get insights on the datasets they upload.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Reddit co-founder Alexis Ohanian joins Frank McCourt’s TikTok bid</title>
+		<link>https://techcrunch.com/2025/03/03/reddit-co-founder-alexis-ohanian-joins-frank-mccourts-tiktok-bid/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2025 17:38:18 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Alexis Ohanian]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Reddit]]></category>
+		<category><![CDATA[TikTok]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2974109</guid>
+
+					<description><![CDATA[<p>Reddit co-founder and investor Alexis Ohanian has joined billionaire Frank McCourt&#8217;s bid to acquire TikTok as a strategic adviser specializing in social media, Reuters reports. “He has that broad portfolio of experience … of where social media was and, I think, a keen understanding of where it’s evolving,” McCourt told Reuters. &#8220;Where he can help [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>No part of Amazon is &#8216;unaffected&#8217; by AI, says its head of AGI</title>
+		<link>https://techcrunch.com/2025/03/03/no-part-of-amazon-is-unaffected-by-ai-says-its-head-of-agi/</link>
+		
+		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2025 17:34:47 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[mwc]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2974024</guid>
+
+					<description><![CDATA[<p>“There&#8217;s scarcely a part of the company that is unaffected by AI,” said Vishal Sharma, Amazon’s VP of Artificial General Intelligence, on Monday at Mobile World Congress in Barcelona. He dismissed the idea that open source models might reduce compute needs and deflected when asked whether European companies would change their generative AI strategies in light [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
