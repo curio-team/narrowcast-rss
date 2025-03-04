@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 04 Mar 2025 14:36:27 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Mar 2025 14:59:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,15 +28,36 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>On a quest to revive the woolly mammoth, Colossal Biosciences has created a woolly mouse</title>
+		<link>https://techcrunch.com/2025/03/04/on-a-quest-to-revive-the-woolly-mammoth-colossal-biosciences-has-created-a-woolly-mouse/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Tue, 04 Mar 2025 14:53:54 +0000</pubDate>
+				<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[Colossal Biosciences]]></category>
+		<category><![CDATA[woolly mammoth]]></category>
+		<category><![CDATA[woolly mouse]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2974815</guid>
+
+					<description><![CDATA[<p>Colossal Biosciences, known for its outlandish goal to resurrect the woolly mammoth by 2028, is claiming steady progress. It&#8217;s evidence: Genetically engineering mice to have mammoth-like fur. To engineer the woolly mouse, the company&#8217;s scientists found mouse versions of mammoth genes and then used CRISPR to edit mice embryos, Dr. Beth Shapiro, chief science officer [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>OpenAI launches $50M grant program to help fund academic research</title>
 		<link>https://techcrunch.com/2025/03/04/openai-launches-50m-grant-program-to-help-fund-academic-research/</link>
 		
 		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
 		<pubDate>Tue, 04 Mar 2025 14:30:23 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
+		<category><![CDATA[NextGenAI]]></category>
+		<category><![CDATA[OpenAI]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2974784</guid>
 
-					<description><![CDATA[<p>OpenAI on Monday announced a consortium, NextGenAI, focused on supporting AI-assisted research at top universities. NextGenAI, whose 15 founding academic partners include Harvard, the University of Oxford, and MIT, will be funded with $50 million in research grants, compute funding, and API access from OpenAI, the company said. Students, educators, and researchers will be eligible [&#8230;]</p>
+					<description><![CDATA[<p>OpenAI on Monday said it is supporting a new consortium called NextGenAI that would focus on supporting AI-assisted research at top universities. NextGenAI, whose 15 founding academic partners include Harvard, the University of Oxford and MIT, will be funded with $50 million in research grants, compute funding, and API access from OpenAI, the company said. [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -94,7 +115,7 @@
 		<category><![CDATA[ipad air m3]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2974786</guid>
 
-					<description><![CDATA[<p>Apple has introduced new 11-inch and 13-inch iPad Air models with the M3 chip. The new iPad Air can be pre-ordered starting Tuesday, and will launch on March 12. The device starts at $599 for the 11-inch model and $799 for the 13-inch model. The iPad Air with M3 comes in four colors. While the [&#8230;]</p>
+					<description><![CDATA[<p>Apple has introduced new 11-inch and 13-inch iPad Air models with the M3 chip. The new iPad Air can be pre-ordered starting Tuesday, and will launch on March 12. The device starts at $599 for the 11-inch model and $799 for the 13-inch model. It comes in four colors: blue, purple, starlight, and space gray, [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -145,18 +166,18 @@
 		
 			</item>
 		<item>
-		<title>LlamaIndex launches a cloud service for building unstructed data agents</title>
+		<title>LlamaIndex launches a cloud service for building unstructured data agents</title>
 		<link>https://techcrunch.com/2025/03/04/llamaindex-launches-a-cloud-service-for-building-unstructed-data-agents/</link>
 		
 		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
 		<pubDate>Tue, 04 Mar 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
 		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[unstructured data]]></category>
+		<category><![CDATA[Startups]]></category>
 		<category><![CDATA[agents]]></category>
 		<category><![CDATA[llamaindex]]></category>
+		<category><![CDATA[unstructured data]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2970620</guid>
 
 					<description><![CDATA[<p>Agents are the next big thing in AI. Some define these &#8220;agents&#8221; differently from others, but the general idea is, they&#8217;re AI-powered tools that can perform tasks autonomously. The agent hype has reached a fever pitch, but one startup was relatively early to the game: LlamaIndex. Founded by former Uber research scientists, Jerry Liu and [&#8230;]</p>
@@ -407,25 +428,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2974503</guid>
 
 					<description><![CDATA[<p>Singapore just arrested 3 men for allegedly smuggling Nvidia chips.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Creator monetization platform Passes sued over alleged distribution of CSAM</title>
-		<link>https://techcrunch.com/2025/03/03/creator-monetization-platform-passes-sued-over-alleged-distribution-of-csam/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Mon, 03 Mar 2025 22:22:08 +0000</pubDate>
-				<category><![CDATA[Social]]></category>
-		<category><![CDATA[creator economy]]></category>
-		<category><![CDATA[CSAM]]></category>
-		<category><![CDATA[passes]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2974182</guid>
-
-					<description><![CDATA[<p>Passes, a direct-to-fan monetization platform for creators backed by $40 million in Series A funding, has been sued for allegedly distributing Child Sexual Abuse Material (also known as CSAM). While its guidelines do not allow for creators to post nude photos or videos, as opposed to competitors like OnlyFans, a creator has sued Passes, alleging [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
