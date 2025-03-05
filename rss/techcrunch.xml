@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 05 Mar 2025 13:36:30 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Mar 2025 14:35:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,83 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Apple updates the Mac Studio with M4 Max and M3 Ultra options</title>
+		<link>https://techcrunch.com/2025/03/05/apple-updates-the-new-mac-studio-with-m4-max-or-m3-ultra/</link>
+		
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+		<pubDate>Wed, 05 Mar 2025 14:21:36 +0000</pubDate>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[mac]]></category>
+		<category><![CDATA[Mac Studio]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2975698</guid>
+
+					<description><![CDATA[<p>Apple has launched a new Mac Studio, its desktop computer for professionals who need top-of-the-line performance. The company is trying something new with the Mac Studio as it lets you choose between the M4 Max or the M3 Ultra. The Mac Studio starts at $1,999. Pre-orders open today, and it will be available in Apple [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple launches new MacBook Air with M4 chip</title>
+		<link>https://techcrunch.com/2025/03/05/apple-launches-a-new-macbook-air-with-m4-chip/</link>
+		
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+		<pubDate>Wed, 05 Mar 2025 14:09:09 +0000</pubDate>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[macbook]]></category>
+		<category><![CDATA[macbook air]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2974922</guid>
+
+					<description><![CDATA[<p>Apple on Wednesday introduced a new MacBook Air on its website, offering improved performance while retaining the familiar design. The new laptop is equipped with Apple’s M4 chip, the most recent addition to the M-series chip lineup. The MacBook Air comes in two sizes. Customers can choose between a 13-inch and a 15-inch display. Pricing [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>GibberLink lets AI agents call each other in robo-language</title>
+		<link>https://techcrunch.com/2025/03/05/gibberlink-lets-ai-agents-call-each-other-in-robo-language/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Wed, 05 Mar 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI agents]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2975355</guid>
+
+					<description><![CDATA[<p>A weekend hackathon project that lets AI agents talk on the phone with each other in a robotic language, one that&#8217;s incomprehensible to humans, has gone viral on social media over the past week. The project, called GibberLink, was created by two Meta software engineers during a hackathon competition in London, hosted by ElevenLabs and [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CIA director says US has paused sharing intelligence with Ukraine</title>
+		<link>https://techcrunch.com/2025/03/05/cia-director-says-us-has-paused-sharing-intelligence-with-ukraine/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Wed, 05 Mar 2025 13:55:16 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[intelligence]]></category>
+		<category><![CDATA[ukraine]]></category>
+		<category><![CDATA[us government]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2975656</guid>
+
+					<description><![CDATA[<p>The confirmation of the pause on intelligence sharing follows a heated exchange between the U.S. and Ukrainian presidents </p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Experts don&#8217;t think AI is ready to be a &#8216;co-scientist&#8217;</title>
 		<link>https://techcrunch.com/2025/03/05/experts-dont-think-ai-is-ready-to-be-a-co-scientist/</link>
 		
@@ -46,16 +123,19 @@
 		
 			</item>
 		<item>
-		<title>U.K.&#8217;s competition authority says Microsoft&#8217;s OpenAI partnership doesn&#8217;t quality for investigation</title>
+		<title>UK&#8217;s competition regulator says Microsoft&#8217;s OpenAI partnership doesn&#8217;t qualify for investigation</title>
 		<link>https://techcrunch.com/2025/03/05/u-k-s-competition-authority-says-microsofts-openai-partnership-doesnt-quality-for-investigation/</link>
 		
 		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
 		<pubDate>Wed, 05 Mar 2025 12:57:40 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[CMA]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[OpenAI]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2975602</guid>
 
-					<description><![CDATA[<p>Britain&#8217;s competition authority, the Competition and Markets Authority (CMA), said Wednesday that Microsoft&#8217;s partnership with OpenAI doesn&#8217;t qualify for investigation under the merger provisions of the U.K.&#8217;s Enterprise Act 2002, the country&#8217;s anticompetitive practices law. &#8220;Overall, taking into account all of the available evidence [&#8230;] the CMA does not believe that Microsoft currently controls OpenAI’s [&#8230;]</p>
+					<description><![CDATA[<p>Britain&#8217;s competition regulator, the Competition and Markets Authority (CMA), said on Wednesday that Microsoft&#8217;s partnership with OpenAI doesn&#8217;t qualify for an investigation under the merger provisions of the U.K.&#8217;s Enterprise Act 2002, the country&#8217;s anticompetitive practices law. &#8220;Overall, taking into account all of the available evidence [&#8230;] the CMA does not believe that Microsoft currently [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -172,16 +252,16 @@
 		
 		<dc:creator><![CDATA[Natasha Lomas]]></dc:creator>
 		<pubDate>Wed, 05 Mar 2025 08:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
+				<category><![CDATA[Biotech & Health]]></category>
 		<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[biorecycling]]></category>
+		<category><![CDATA[epoch biodesign]]></category>
 		<category><![CDATA[Exclusive]]></category>
 		<category><![CDATA[plastic recycling]]></category>
-		<category><![CDATA[epoch biodesign]]></category>
-		<category><![CDATA[biorecycling]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2973203</guid>
 
-					<description><![CDATA[<p>A U.K. startup, originating from founder Jacob Nathan&#8217;s high school science project on using enzymes to break down plastic waste, has secured an oversubscribed $18.3 million in Series A funding. Founded in 2019 in London, Epoch Biodesign now a 30+ strong multidisciplinary team of chemists, biologists and software engineers. It will be using the new [&#8230;]</p>
+					<description><![CDATA[<p>A U.K. startup, originating from founder Jacob Nathan&#8217;s high school science project on using enzymes to break down plastic waste, has secured an oversubscribed $18.3 million in Series A funding. Founded in 2019 in London, Epoch Biodesign is now a 30+ strong multidisciplinary team of chemists, biologists and software engineers. The startup will use the [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -229,7 +309,7 @@
 		
 			</item>
 		<item>
-		<title>Meta brings its anti-scam facial recognition test to the UK</title>
+		<title>Meta brings its anti-scam facial recognition test to the UK and Europe</title>
 		<link>https://techcrunch.com/2025/03/04/meta-brings-its-anti-fraud-facial-recognition-test-to-the-uk-after-getting-a-thumbs-up-from-regulators/</link>
 		
 		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
@@ -341,87 +421,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2975386</guid>
 
 					<description><![CDATA[<p>The fintech startup has been under federal scrutiny for years for questionable financial and carbon accounting practices.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Amazon reportedly forms a new agentic AI group</title>
-		<link>https://techcrunch.com/2025/03/04/amazon-reportedly-forms-a-new-agentic-ai-group/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Tue, 04 Mar 2025 22:07:17 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI agents]]></category>
-		<category><![CDATA[Amazon]]></category>
-		<category><![CDATA[AWS]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2975246</guid>
-
-					<description><![CDATA[<p>Amazon has formed a new group within AWS dedicated to creating AI agents, systems that help people automate parts of their lives, Reuters reported on Tuesday. In an email to staff seen by Reuters, AWS CEO Matt Garman said agentic AI has the potential to be &#8220;the next multi-billion business for AWS.&#8221; A longtime AWS [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>X updates Communities with new filters, sorting options, and a way to see your own posts</title>
-		<link>https://techcrunch.com/2025/03/04/x-updates-communities-with-new-filters-sorting-options-and-a-way-to-see-your-own-posts/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Tue, 04 Mar 2025 22:04:45 +0000</pubDate>
-				<category><![CDATA[Social]]></category>
-		<category><![CDATA[communities]]></category>
-		<category><![CDATA[social media]]></category>
-		<category><![CDATA[social networking]]></category>
-		<category><![CDATA[Twitter]]></category>
-		<category><![CDATA[X]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2975200</guid>
-
-					<description><![CDATA[<p>X is bringing more attention to Communities, a feature that allows X users to connect and engage in discussions around a given topic, similar to how it&#8217;s done on Reddit. Today, tabs to access popular Communities are pinned to the top of the app&#8217;s homepage alongside your For You feed and other Lists. Now, you&#8217;ll [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>African VC LoftyInc Capital launches third fund for seed and Series A, reaches $43M first close</title>
-		<link>https://techcrunch.com/2025/03/04/loftyinc-capital-launches-third-fund-for-seed-and-series-a/</link>
-		
-		<dc:creator><![CDATA[Tage Kene-Okafor]]></dc:creator>
-		<pubDate>Tue, 04 Mar 2025 22:00:17 +0000</pubDate>
-				<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Africa]]></category>
-		<category><![CDATA[africa fund]]></category>
-		<category><![CDATA[early-stage]]></category>
-		<category><![CDATA[investments]]></category>
-		<category><![CDATA[LoftyInc Capital]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2974723</guid>
-
-					<description><![CDATA[<p>One of Africa’s most active investors, known for early bets on unicorns like Flutterwave, Andela, and Wave, has secured fresh capital to invest in startups across the continent. This comes as funding deals and volumes in Africa saw only a slight dip last year, according to a report by VC firm Partech. LoftyInc Capital, which [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Andy Dunn&#8217;s new app Pie uses AI to help you make friends</title>
-		<link>https://techcrunch.com/2025/03/04/andy-dunns-new-app-pie-uses-ai-to-help-you-make-friends/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Tue, 04 Mar 2025 21:11:27 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Andy Dunn]]></category>
-		<category><![CDATA[pie]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2975180</guid>
-
-					<description><![CDATA[<p>&#8220;We&#8217;re a long way from pants,&#8221; Andy Dunn, founder of online fashion retailer Bonobos, told TechCrunch. Now, the former CEO is taking on a completely different challenge: He wants to help people make friends. Dunn&#8217;s newest venture, Pie, is a social app focused on bringing people together in real life. With an $11.5 million Series [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
