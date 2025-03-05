@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 05 Mar 2025 11:29:44 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Mar 2025 12:44:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Kevin Rose, Alexis Ohanian acquire Digg</title>
+		<link>https://techcrunch.com/2025/03/05/kevin-rose-and-alexis-ohanian-acquire-digg/</link>
+		
+		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
+		<pubDate>Wed, 05 Mar 2025 12:25:38 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[Alexis Ohanian]]></category>
+		<category><![CDATA[Digg]]></category>
+		<category><![CDATA[kevin rose]]></category>
+		<category><![CDATA[Reddit]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2975586</guid>
+
+					<description><![CDATA[<p>Here&#8217;s a blast from the past: Digg, one of the web&#8217;s early news aggregators, is now back under the ownership of its original founder Kevin Rose. Notably, he&#8217;s being joined as co-owner by Reddit co-founder Alexis Ohanian (both pictured above). Digg and Reddit were once fierce rivals in the online social news aggregation space, launching [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>ARM to sign $250M chip deal with Malaysia</title>
 		<link>https://techcrunch.com/2025/03/05/arm-to-sign-250m-chip-deal-with-malaysia/</link>
 		
@@ -409,25 +429,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2974969</guid>
 
 					<description><![CDATA[<p>Amazon reportedly wants to get in on the AI &#8220;reasoning&#8221; model game. According to Business Insider, Amazon is developing an AI model that incorporates advanced &#8220;reasoning&#8221; capabilities, similar to models like OpenAI&#8217;s o3-mini and Chinese AI lab DeepSeek&#8217;s R1. The model may launch as soon as June under Amazon&#8217;s Nova brand, which the company introduced [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google still limits how Gemini answers political questions</title>
-		<link>https://techcrunch.com/2025/03/04/google-still-limits-how-gemini-answers-political-questions/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Tue, 04 Mar 2025 19:25:19 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[google gemini]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2974638</guid>
-
-					<description><![CDATA[<p>While several of Google&#8217;s rivals, including OpenAI, have tweaked their AI chatbots to discuss politically sensitive subjects in recent months, Google appears to be embracing a more conservative approach. When asked to answer certain political questions, Google&#8217;s AI-powered chatbot, Gemini, often says it &#8220;can&#8217;t help with responses on elections and political figures right now,&#8221; TechCrunch&#8217;s [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
