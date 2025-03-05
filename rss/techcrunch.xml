@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 05 Mar 2025 07:40:17 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Mar 2025 09:06:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,49 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Apple is challenging U.K.’s iCloud encryption backdoor order</title>
+		<link>https://techcrunch.com/2025/03/05/apple-is-challenging-u-k-s-icloud-encryption-backdoor-order/</link>
+		
+		<dc:creator><![CDATA[Natasha Lomas]]></dc:creator>
+		<pubDate>Wed, 05 Mar 2025 08:59:45 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[apple icloud backdoor]]></category>
+		<category><![CDATA[apple icloud backdoor challenge]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2975552</guid>
+
+					<description><![CDATA[<p>Apple is challenging a U.K. Government data access order in the Investigatory Powers Tribunal (IPT), the Financial Times reports. The order targeted iCloud backups that are protected by end-to-end encryption. Last month, press leaks revealed the existence of the January order asking Apple to build a backdoor in iCloud&#8217;s encrypted backups. U.K. officials are exercising [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Darwinbox, the HR upstart from India, raises $140M to take on Deel and Rippling</title>
+		<link>https://techcrunch.com/2025/03/05/darwinbox-the-hr-upstart-from-india-raises-140m-to-take-on-deel-and-rippling/</link>
+		
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+		<pubDate>Wed, 05 Mar 2025 08:39:37 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Darwinbox]]></category>
+		<category><![CDATA[hrtech]]></category>
+		<category><![CDATA[human resources]]></category>
+		<category><![CDATA[KKR]]></category>
+		<category><![CDATA[Partners Group]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2975547</guid>
+
+					<description><![CDATA[<p>Darwinbox, an Indian startup building a SaaS platform for hiring, onboarding and employee administration, has raised $140 million to take on the likes of Rippling and Deel as it seeks to expand internationally, especially in the U.S. The funding is being co-led by KKR and Partners Group, and is a mix of primary and secondary [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>From high school science project to $18.3M: AI-accelerated enzymes are coming for fast fashion’s plastic waste</title>
 		<link>https://techcrunch.com/2025/03/05/from-high-school-science-project-to-18-3m-ai-accelerated-enzymes-are-coming-for-fast-fashions-plastic-waste/</link>
 		
@@ -90,7 +133,7 @@
 		
 			</item>
 		<item>
-		<title>Meta brings its anti-fraud facial recognition test to the UK following regulator approval</title>
+		<title>Meta brings its anti-scam facial recognition test to the UK</title>
 		<link>https://techcrunch.com/2025/03/04/meta-brings-its-anti-fraud-facial-recognition-test-to-the-uk-after-getting-a-thumbs-up-from-regulators/</link>
 		
 		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
@@ -129,21 +172,21 @@
 		
 			</item>
 		<item>
-		<title>Quantexa nabs $175M at a $2.6B valuation to double down on data analytics for AI</title>
+		<title>Quantexa nabs $175M at $2.6B valuation to double down on data analytics for AI</title>
 		<link>https://techcrunch.com/2025/03/04/quantexa-nabs-175m-at-a-2-6b-valuation-to-double-down-on-data-analytics-for-ai/</link>
 		
 		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
 		<pubDate>Wed, 05 Mar 2025 05:00:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[AI]]></category>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
 		<category><![CDATA[Fundraising]]></category>
 		<category><![CDATA[data analytics]]></category>
-		<category><![CDATA[quantexa]]></category>
 		<category><![CDATA[Ontario Teachers’ Pension Plan Board]]></category>
+		<category><![CDATA[quantexa]]></category>
 		<category><![CDATA[tvg]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2975351</guid>
 
-					<description><![CDATA[<p>London startup Quantexa has made its name over the years with an enterprise platform that employs AI and data analytics to fight money laundering and fraud. Today, it is announcing new funding of $175 million to double down on that business while also moving deeper into another hot area: using its technology to help organizations [&#8230;]</p>
+					<description><![CDATA[<p>British startup Quantexa has made a name for itself over the years with its enterprise platform that employs AI and data analytics to fight money laundering and fraud. Today, the company said it has raised a fresh $175 million to double down on that business and move deeper into another hot area: helping organizations understand [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -390,45 +433,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2975071</guid>
 
 					<description><![CDATA[<p>Experts note that this is just the first step for the alleged North Korean hackers to profit from the historic heist. </p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI chairman Bret Taylor lays out the bull case for AI agents</title>
-		<link>https://techcrunch.com/2025/03/04/openai-chairman-bret-taylor-lays-out-the-bull-case-for-ai-agents/</link>
-		
-		<dc:creator><![CDATA[Natasha Lomas]]></dc:creator>
-		<pubDate>Tue, 04 Mar 2025 18:06:01 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI agents]]></category>
-		<category><![CDATA[mwc]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2974984</guid>
-
-					<description><![CDATA[<p>We still didn&#8217;t get a straight-up definition of exactly what an AI agent is during Bret Taylor&#8217;s Mobile World Congress fireside chat in Barcelona on Tuesday. The Sierra founder and OpenAI board chair preferred to sidestep CNN moderator Anna Stewart&#8217;s question asking how &#8220;agentic AI&#8221; is &#8220;any different to a GenAI chatbot&#8221; by suggesting everyone [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TechCrunch Sessions: AI speaker applications close March 7, submit yours today</title>
-		<link>https://techcrunch.com/2025/03/04/techcrunch-sessions-ai-speaker-applications-close-march-7-submit-yours-today/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Tue, 04 Mar 2025 18:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[TC Sessions: AI]]></category>
-		<category><![CDATA[TechCrunch Sessions: AI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2973692</guid>
-
-					<description><![CDATA[<p>On June 5, TechCrunch Sessions: AI will kick off — and you can be part of the industry-changing conversations that will be taking place. We have an open invitation for members of the AI community to lead breakout sessions and discussions with over 1,200 startup founders, VC leaders, and AI aficionados attending our newest event, which [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
