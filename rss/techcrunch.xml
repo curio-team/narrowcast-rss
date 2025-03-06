@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 06 Mar 2025 14:30:31 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 06 Mar 2025 15:08:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Google DeepMind, Cohere, and Twelve Labs explain how founders can build with their AI models at TechCrunch Sessions: AI</title>
+		<link>https://techcrunch.com/2025/03/06/google-deepmind-cohere-and-twelve-labs-explain-how-founders-can-build-with-their-ai-models-at-tc-sessions-ai/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Thu, 06 Mar 2025 15:00:00 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[TechCrunch Sessions: AI]]></category>
+		<category><![CDATA[TC Sessions: AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2972069</guid>
+
+					<description><![CDATA[<p>There seems to be a new, more impressive AI model every week. Given the rapid pace, how can founders best position themselves to build on top of this technology? At TechCrunch Sessions: AI, on June 5 in Zellerbach Hall at UC Berkeley, we&#8217;ll host a panel on &#8220;How Founders Can Build on Existing Foundational Models&#8221; [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Anthropic submits AI policy recommendations to the White House</title>
 		<link>https://techcrunch.com/2025/03/06/anthropic-submits-ai-policy-recommendations-to-the-white-house/</link>
 		
@@ -84,7 +104,7 @@
 		
 			</item>
 		<item>
-		<title>Crogl, armed with $30M, takes the wraps off a new AI &#8216;Iron Man suit&#8217; for security analysts</title>
+		<title>Crogl, armed with $30M, says it&#8217;s built an AI &#8216;Iron Man suit&#8217; for security analysts</title>
 		<link>https://techcrunch.com/2025/03/06/crogl-armed-with-30m-takes-the-wraps-off-a-new-ai-iron-man-suit-for-security-analysts/</link>
 		
 		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
@@ -98,7 +118,7 @@
 		<category><![CDATA[splunk]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2976461</guid>
 
-					<description><![CDATA[<p>AI agents are marching across the world of IT, and on Thursday a startup called Crogl is debuting its contribution to the field: an autonomous assistant for cybersecurity researchers to help them analyse thousands of daily network alerts to find and fix actual security incidents. The assistant — described by Crogl’s CEO and co-founder Monzy [&#8230;]</p>
+					<description><![CDATA[<p>AI agents are marching across the world of IT, and on Thursday a startup called Crogl is debuting its contribution to the field: an autonomous assistant that helps cybersecurity researchers analyze daily network alerts to find and fix security incidents. The assistant — described by Crogl’s CEO and co-founder Monzy Merza as an “Iron Man [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -418,27 +438,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2975942</guid>
 
 					<description><![CDATA[<p>OpenAI may be planning to charge up to $20,000 per month for specialized AI &#8220;agents,&#8221; according to The Information. The publication reports that OpenAI intends to launch several &#8220;agent&#8221; products tailored for different applications, including sorting and ranking sales leads and software engineering. One, a &#8220;high-income knowledge worker&#8221; agent, will reportedly be priced at $2,000 [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Not all cancer patients need chemo — Ataraxis AI raised $20M to personalize treatment</title>
-		<link>https://techcrunch.com/2025/03/05/not-all-cancer-patients-need-chemo-ataraxis-ai-raised-20m-to-personalize-treatment/</link>
-		
-		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
-		<pubDate>Wed, 05 Mar 2025 18:54:39 +0000</pubDate>
-				<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[cancer]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2975674</guid>
-
-					<description><![CDATA[<p>Ataraxis AI has raised a $20.4 million Series A to make cancer treatment more personalized.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
