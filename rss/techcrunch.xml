@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 07 Mar 2025 01:21:47 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 Mar 2025 10:12:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>FBI says scammers are targeting US executives with fake BianLian ransom notes</title>
+		<link>https://techcrunch.com/2025/03/07/fbi-says-scammers-are-targeting-us-executives-with-fake-bianlian-ransom-notes/</link>
+		
+		<dc:creator><![CDATA[Carly Page]]></dc:creator>
+		<pubDate>Fri, 07 Mar 2025 10:12:05 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[scammer]]></category>
+		<category><![CDATA[security]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2976964</guid>
+
+					<description><![CDATA[<p>The FBI is warning that scammers are impersonating the BianLian ransomware gang using fake ransom notes sent to U.S. corporate executives. The fake ransom notes, first reported by U.S. cybersecurity company GuidePoint Security, claim that hackers have gained access to an organization’s network to steal sensitive data, and threaten to publish the stolen data unless [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>SpaceX Starship spirals out of control in second straight test flight failure</title>
 		<link>https://techcrunch.com/2025/03/06/spacex-starship-spirals-out-of-control-in-second-straight-test-flight-failure/</link>
 		
@@ -393,27 +412,6 @@ $240 million at a $5.3 billion valuation in its latest round.</p>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2976604</guid>
 
 					<description><![CDATA[<p>On Thursday French large language model (LLM) developer Mistral launched a new API for developers who handle complex PDF documents. Mistral OCR is an optical character recognition (OCR) API that can turn any PDF into a text file to make it easier for AI models to ingest. LLMs, which underpin popular GenAI tools like OpenAI&#8217;s [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Intangible, a no-code 3D creation tool for filmmakers and game designers, raises $4M </title>
-		<link>https://techcrunch.com/2025/03/06/intangible-ai-a-no-code-3d-creation-tool-for-filmmakers-and-game-designers-raises-4m/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Thu, 06 Mar 2025 17:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[3d]]></category>
-		<category><![CDATA[a16z speedrun]]></category>
-		<category><![CDATA[Funding]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2976513</guid>
-
-					<description><![CDATA[<p>Intangible, now backed by $4 million in seed funding, offers an AI-powered creative tool that allows users to create 3D world concepts with text prompts to aid creative professionals across a variety of industries. The company&#8217;s mission is to make the creative process accessible to everyone, including professionals such as filmmakers, game designers, event planners, [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
