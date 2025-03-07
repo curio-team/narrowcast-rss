@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 07 Mar 2025 13:32:31 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 Mar 2025 14:23:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,46 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Meta&#8217;s next Llama models may have upgraded voice features</title>
+		<link>https://techcrunch.com/2025/03/07/metas-next-llama-models-may-have-upgraded-voice-features/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Fri, 07 Mar 2025 14:23:01 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Llama]]></category>
+		<category><![CDATA[Meta]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2977004</guid>
+
+					<description><![CDATA[<p>Meta&#8217;s next major &#8220;open&#8221; AI model may have a voice focus, per a report in Financial Times. According to the piece, Meta is planning to introduce improved voice features with Llama 4, the next flagship in its Llama model family, which is expected to arrive in &#8220;weeks.&#8221; Reportedly, Meta has been particularly focused on allowing [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>X now lets you query Grok by mentioning it in replies</title>
+		<link>https://techcrunch.com/2025/03/07/x-now-lets-you-query-grok-by-mentioning-it-in-replies/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Fri, 07 Mar 2025 14:04:44 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[AI chatbot]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[Grok]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[xAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2976991</guid>
+
+					<description><![CDATA[<p>X is actively working to expand the reach of xAI&#8217;s Grok model to more users on the platform. Multiple users noted today that people can now mention Grok in replies and ask a question to get an explanation about a post. Users of the Elon Musk-owned social media platform could already access Grok through a button [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>FBI says scammers are targeting US executives with fake BianLian ransom notes</title>
 		<link>https://techcrunch.com/2025/03/07/fbi-says-scammers-are-targeting-us-executives-with-fake-bianlian-ransom-notes/</link>
 		
@@ -375,43 +415,6 @@ $240 million at a $5.3 billion valuation in its latest round.</p>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2973692</guid>
 
 					<description><![CDATA[<p>On June 5, TechCrunch Sessions: AI will kick off — and you can be part of the industry-changing conversations that will be taking place. We have an open invitation for members of the AI community to lead breakout sessions and discussions with over 1,200 startup founders, VC leaders, and AI aficionados attending our newest event, which [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI&#8217;s ex-policy lead criticizes the company for &#8216;rewriting&#8217; its AI safety history</title>
-		<link>https://techcrunch.com/2025/03/06/openais-ex-policy-lead-criticizes-the-company-for-rewriting-its-ai-safety-history/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Thu, 06 Mar 2025 17:09:36 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[miles Brundage]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[policy]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2976488</guid>
-
-					<description><![CDATA[<p>A high-profile ex-OpenAI policy researcher, Miles Brundage, took to social media on Wednesday to criticize OpenAI for &#8220;rewriting the history&#8221; of its deployment approach to potentially risky AI systems. Earlier this week, OpenAI published a document outlining its current philosophy on AI safety and alignment, the process of designing AI systems that behave in desirable [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mistral adds a new API that turns any PDF document into an AI-ready Markdown file</title>
-		<link>https://techcrunch.com/2025/03/06/mistrals-new-ocr-api-turns-any-pdf-document-into-an-ai-ready-markdown-file/</link>
-		
-		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
-		<pubDate>Thu, 06 Mar 2025 17:01:37 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[mistral]]></category>
-		<category><![CDATA[ocr]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2976604</guid>
-
-					<description><![CDATA[<p>On Thursday French large language model (LLM) developer Mistral launched a new API for developers who handle complex PDF documents. Mistral OCR is an optical character recognition (OCR) API that can turn any PDF into a text file to make it easier for AI models to ingest. LLMs, which underpin popular GenAI tools like OpenAI&#8217;s [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
