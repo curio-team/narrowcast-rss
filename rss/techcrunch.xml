@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 06 Mar 2025 15:08:29 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 Mar 2025 01:21:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,19 +28,334 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Google DeepMind, Cohere, and Twelve Labs explain how founders can build with their AI models at TechCrunch Sessions: AI</title>
-		<link>https://techcrunch.com/2025/03/06/google-deepmind-cohere-and-twelve-labs-explain-how-founders-can-build-with-their-ai-models-at-tc-sessions-ai/</link>
+		<title>SpaceX Starship spirals out of control in second straight test flight failure</title>
+		<link>https://techcrunch.com/2025/03/06/spacex-starship-spirals-out-of-control-in-second-straight-test-flight-failure/</link>
 		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Thu, 06 Mar 2025 15:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Thu, 06 Mar 2025 23:59:26 +0000</pubDate>
+				<category><![CDATA[Space]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[SpaceX]]></category>
+		<category><![CDATA[Starship]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2976908</guid>
+
+					<description><![CDATA[<p>SpaceX&#8217;s Starship spiraled out of control while in space during a test flight Thursday, marking the second launch in a row that the vehicle&#160;has run into a fatal problem on its way to orbit. The Federal Aviation Administration (FAA) briefly halted flights into major Florida airports and appears to have diverted some others out of [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google co-founder Larry Page reportedly has a new AI startup</title>
+		<link>https://techcrunch.com/2025/03/06/google-co-founder-larry-page-reportedly-has-a-new-ai-startup/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 06 Mar 2025 22:17:54 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Larry Page]]></category>
+		<category><![CDATA[manufacturing]]></category>
+		<category><![CDATA[startup]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2976846</guid>
+
+					<description><![CDATA[<p>Google co-founder Larry Page is building a new company called Dynatomics that&#8217;s focused on applying AI to product manufacturing, according to The Information. Page is reportedly working with a small group of engineers on AI that can create &#8220;highly optimized&#8221; designs for objects and then have a factory build them, per The Information. Chris Anderson, [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>A second Intuitive Machines spacecraft just landed on the moon — and probably tipped over</title>
+		<link>https://techcrunch.com/2025/03/06/a-second-intuitive-machines-spacecraft-just-landed-on-the-moon-and-probably-tipped-over/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Thu, 06 Mar 2025 22:17:01 +0000</pubDate>
+				<category><![CDATA[Space]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Intuitive Machines]]></category>
+		<category><![CDATA[NASA]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2976845</guid>
+
+					<description><![CDATA[<p>Intuitive Machines has landed a second spacecraft on the moon, just one year after accomplishing the feat for the first time ever. Unfortunately, much like that first attempt, it seems the company&#8217;s spacecraft may have tipped on its side. The lunar lander, called Athena, touched down on the moon&#8217;s surface at around 12:30 p.m. ET [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anthropic&#8217;s Claude Code tool had a bug that &#8216;bricked&#8217; some systems</title>
+		<link>https://techcrunch.com/2025/03/06/anthropics-claude-code-tool-had-a-bug-that-bricked-some-systems/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 06 Mar 2025 21:47:34 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[bug]]></category>
+		<category><![CDATA[claude code]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2976804</guid>
+
+					<description><![CDATA[<p>The problematic code changed file permissions that broke some systems, users say. </p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Scale AI is being investigated by the US Department of Labor</title>
+		<link>https://techcrunch.com/2025/03/06/scale-ai-is-being-investigated-by-the-us-department-of-labor/</link>
+		
+		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
+		<pubDate>Thu, 06 Mar 2025 21:27:53 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Scale AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2976770</guid>
+
+					<description><![CDATA[<p>Scale AI is being investigated by the U.S. Department of Labor for compliance with the Fair Labor Standards Act.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ChatGPT doubled its weekly active users in under 6 months, thanks to new releases</title>
+		<link>https://techcrunch.com/2025/03/06/chatgpt-doubled-its-weekly-active-users-in-under-6-months-thanks-to-new-releases/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Thu, 06 Mar 2025 21:04:44 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[a16z]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2976783</guid>
+
+					<description><![CDATA[<p>OpenAI&#8217;s flagship AI chatbot, ChatGPT, returned to solid growth in the latter half of 2024, according to a new report published on Thursday by VC firm Andreessen Horowitz (a16z). While it took ChatGPT nine months to grow from 100 million weekly active users in November 2023 to 200 million in August 2024, it&#8217;s now taken [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hacked health firm HCRG demanded journalist &#8216;take down&#8217; data breach reporting, citing UK court order</title>
+		<link>https://techcrunch.com/2025/03/06/hacked-health-firm-hcrg-demanded-journalist-take-down-data-breach-reporting-citing-uk-court-order/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Thu, 06 Mar 2025 21:00:11 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[First Amendment]]></category>
+		<category><![CDATA[journalist]]></category>
+		<category><![CDATA[legal]]></category>
+		<category><![CDATA[press freedoms]]></category>
+		<category><![CDATA[UK]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2976670</guid>
+
+					<description><![CDATA[<p>DataBreaches.net declined to comply, citing a lack of jurisdiction.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hugging Face&#8217;s chief science officer worries AI is becoming &#8216;yes-men on servers&#8217;</title>
+		<link>https://techcrunch.com/2025/03/06/hugging-faces-chief-science-officer-worries-ai-is-becoming-yes-men-on-servers/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 06 Mar 2025 20:42:03 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Hugging Face]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2976714</guid>
+
+					<description><![CDATA[<p>AI company founders have a reputation for making bold claims about the technology&#8217;s potential to reshape fields, particularly the sciences. But Thomas Wolf, Hugging Face&#8217;s co-founder and chief science officer, has a more measured take. In an essay published to X on Thursday, Wolf said that he feared AI becoming &#8220;yes-men on servers&#8221; absent a [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Shield AI raises $240M at a $5.3B valuation to commercialize its AI drone tech</title>
+		<link>https://techcrunch.com/2025/03/06/shield-ai-raises-240-million-at-a-5-3-billion-valuation-to-commercialize-its-ai-drone-tech/</link>
+		
+		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
+		<pubDate>Thu, 06 Mar 2025 20:36:12 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[defense tech]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[shield ai]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2976760</guid>
+
+					<description><![CDATA[<p>Shield AI is now one of the U.S.'s biggest defense tech startups by valuation, raising<br />
+$240 million at a $5.3 billion valuation in its latest round.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Russian crypto exchange Garantex seized by law enforcement operation</title>
+		<link>https://techcrunch.com/2025/03/06/russian-crypto-exchange-garantex-seized-by-law-enforcement-operation/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Thu, 06 Mar 2025 19:24:08 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[doj]]></category>
+		<category><![CDATA[russia]]></category>
+		<category><![CDATA[Sanctions]]></category>
+		<category><![CDATA[FBI]]></category>
+		<category><![CDATA[Secret Service]]></category>
+		<category><![CDATA[Garantex]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2976731</guid>
+
+					<description><![CDATA[<p>An international coalition of law enforcement agencies seized the official website of Garantex, which has previously been sanctioned by the U.S. and E.U. governments.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Christie&#8217;s AI art auction reportedly exceeds expectations</title>
+		<link>https://techcrunch.com/2025/03/06/christies-ai-art-auction-reportedly-exceeds-expectations/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 06 Mar 2025 18:38:57 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[AI art]]></category>
+		<category><![CDATA[christie's]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2976610</guid>
+
+					<description><![CDATA[<p>Nearly 6,500 artists demanded in an open letter that fine art auction house Christie’s cancel its first show dedicated solely to works created with AI. Yet, the show, Augmented Intelligence, went on — and reportedly exceeded expectations. According to Christie&#8217;s, the show brought in more than $700,000, with many lots reaching beyond their high estimates. [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ChatGPT on macOS can now directly edit code</title>
+		<link>https://techcrunch.com/2025/03/06/chatgpt-on-macos-can-now-directly-edit-code/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 06 Mar 2025 18:36:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[macos]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2976650</guid>
+
+					<description><![CDATA[<p>The new version for macOS can edit code in supported developer tools, including Xcode, VS Code, and JetBrains.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Spotify says it&#8217;s fixing the bug that caused Premium users to hear ads</title>
+		<link>https://techcrunch.com/2025/03/06/spotify-says-its-fixing-the-bug-that-caused-premium-users-to-hear-ads/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Thu, 06 Mar 2025 18:31:46 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Music]]></category>
+		<category><![CDATA[Spotify]]></category>
+		<category><![CDATA[streaming music]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2976673</guid>
+
+					<description><![CDATA[<p>Spotify has acknowledged an issue that&#8217;s causing some of its paid Premium subscribers to encounter ads when trying to play music. In an X post published on Thursday by Spotify&#8217;s customer service account, the company said it&#8217;s looking into the problem and linked to its Community website where the issue has been documented by users [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>What is Mistral AI? Everything to know about the OpenAI competitor</title>
+		<link>https://techcrunch.com/2025/03/06/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/</link>
+		
+		<dc:creator><![CDATA[Anna Heim]]></dc:creator>
+		<pubDate>Thu, 06 Mar 2025 18:08:53 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2970347</guid>
+
+					<description><![CDATA[<p>Mistral AI, the French company behind AI assistant Le Chat and several foundational models, is officially regarded as one of France’s most promising tech startups and is arguably the only European company that could compete with OpenAI. But compared to its $6 billion valuation, its global market share is still relatively low.&#160; However, the recent [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>VW’s cheapest EV will have Rivian DNA and who is bidding for Canoo’s assets</title>
+		<link>https://techcrunch.com/2025/03/06/vws-cheapest-ev-will-have-rivian-dna-and-who-is-bidding-for-canoos-assets/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Thu, 06 Mar 2025 18:05:00 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2976376</guid>
+
+					<description><![CDATA[<p>Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation. Sign up here for free — just click TechCrunch Mobility! TechCrunch’s transportation team — well at least myself and senior reporter Rebecca Bellan — are hittin’ the road. Destination: SXSW, the annual tech, music, film, and culture [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Founder of battery startup Our Next Energy returns as CEO following new funding</title>
+		<link>https://techcrunch.com/2025/03/06/founder-of-battery-startup-our-next-energy-returns-as-ceo-following-new-funding/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Thu, 06 Mar 2025 18:00:07 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[battery manufacturing]]></category>
+		<category><![CDATA[battery startups]]></category>
+		<category><![CDATA[our next energy]]></category>
+		<category><![CDATA[Trousdale Ventures]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2976649</guid>
+
+					<description><![CDATA[<p>ONE also announced the close of a new funding round.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>TechCrunch Sessions: AI speaker applications close tomorrow, submit yours today</title>
+		<link>https://techcrunch.com/2025/03/06/techcrunch-sessions-ai-speaker-applications-close-tomorrow-submit-yours-today/</link>
+		
+		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
+		<pubDate>Thu, 06 Mar 2025 17:41:33 +0000</pubDate>
 				<category><![CDATA[TC]]></category>
 		<category><![CDATA[Startups]]></category>
 		<category><![CDATA[AI]]></category>
-		<category><![CDATA[TechCrunch Sessions: AI]]></category>
 		<category><![CDATA[TC Sessions: AI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2972069</guid>
+		<category><![CDATA[TechCrunch Sessions: AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2973692</guid>
 
-					<description><![CDATA[<p>There seems to be a new, more impressive AI model every week. Given the rapid pace, how can founders best position themselves to build on top of this technology? At TechCrunch Sessions: AI, on June 5 in Zellerbach Hall at UC Berkeley, we&#8217;ll host a panel on &#8220;How Founders Can Build on Existing Foundational Models&#8221; [&#8230;]</p>
+					<description><![CDATA[<p>On June 5, TechCrunch Sessions: AI will kick off — and you can be part of the industry-changing conversations that will be taking place. We have an open invitation for members of the AI community to lead breakout sessions and discussions with over 1,200 startup founders, VC leaders, and AI aficionados attending our newest event, which [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -48,39 +363,18 @@
 		
 			</item>
 		<item>
-		<title>Anthropic submits AI policy recommendations to the White House</title>
-		<link>https://techcrunch.com/2025/03/06/anthropic-submits-ai-policy-recommendations-to-the-white-house/</link>
+		<title>OpenAI&#8217;s ex-policy lead criticizes the company for &#8216;rewriting&#8217; its AI safety history</title>
+		<link>https://techcrunch.com/2025/03/06/openais-ex-policy-lead-criticizes-the-company-for-rewriting-its-ai-safety-history/</link>
 		
 		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Thu, 06 Mar 2025 14:19:06 +0000</pubDate>
+		<pubDate>Thu, 06 Mar 2025 17:09:36 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[White House]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2976460</guid>
-
-					<description><![CDATA[<p>A day after quietly removing Biden-era AI policy commitments from its website, Anthropic submitted recommendations to the White House for a national AI policy that the company says &#8220;better prepare[s] America to capture the economic benefits&#8221; of AI. The company&#8217;s suggestions include preserving the AI Safety Institute established under the Biden Administration, directing NIST to [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Turing, a key coding provider for OpenAI and other LLM producers, raises $111M at a $2.2B valuation</title>
-		<link>https://techcrunch.com/2025/03/06/turing-a-key-coding-provider-for-openai-and-other-llm-producers-raises-111m-at-a-2-2b-valuation/</link>
-		
-		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
-		<pubDate>Thu, 06 Mar 2025 14:00:54 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[coding assistant]]></category>
-		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[miles Brundage]]></category>
 		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[turing]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2976468</guid>
+		<category><![CDATA[policy]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2976488</guid>
 
-					<description><![CDATA[<p>As AI companies race to improve the accuracy of Large Language Models and apps built on top of them, a startup that has emerged as a key partner in fulfilling that effort is announcing a significant round of funding to expand. Turing, which works with armies of engineers to contribute code to AI projects — [&#8230;]</p>
+					<description><![CDATA[<p>A high-profile ex-OpenAI policy researcher, Miles Brundage, took to social media on Wednesday to criticize OpenAI for &#8220;rewriting the history&#8221; of its deployment approach to potentially risky AI systems. Earlier this week, OpenAI published a document outlining its current philosophy on AI safety and alignment, the process of designing AI systems that behave in desirable [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -88,253 +382,17 @@
 		
 			</item>
 		<item>
-		<title>A year later, OpenAI still hasn&#8217;t released its voice cloning tool</title>
-		<link>https://techcrunch.com/2025/03/06/a-year-later-openai-still-hasnt-released-its-voice-cloning-tool/</link>
+		<title>Mistral adds a new API that turns any PDF document into an AI-ready Markdown file</title>
+		<link>https://techcrunch.com/2025/03/06/mistrals-new-ocr-api-turns-any-pdf-document-into-an-ai-ready-markdown-file/</link>
 		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Thu, 06 Mar 2025 13:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+		<pubDate>Thu, 06 Mar 2025 17:01:37 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2976085</guid>
-
-					<description><![CDATA[<p>Late last March, OpenAI announced a &#8220;small-scale preview&#8221; of an AI service, Voice Engine, that the company claimed could clone a person&#8217;s voice with just 15 seconds of speech. Roughly a year later, the tool remains in preview, and OpenAI has given no indication as to when it might launch — or whether it&#8217;ll launch [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Crogl, armed with $30M, says it&#8217;s built an AI &#8216;Iron Man suit&#8217; for security analysts</title>
-		<link>https://techcrunch.com/2025/03/06/crogl-armed-with-30m-takes-the-wraps-off-a-new-ai-iron-man-suit-for-security-analysts/</link>
-		
-		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
-		<pubDate>Thu, 06 Mar 2025 13:26:14 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[AI agents]]></category>
-		<category><![CDATA[crogl]]></category>
-		<category><![CDATA[monzy merza]]></category>
-		<category><![CDATA[splunk]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2976461</guid>
-
-					<description><![CDATA[<p>AI agents are marching across the world of IT, and on Thursday a startup called Crogl is debuting its contribution to the field: an autonomous assistant that helps cybersecurity researchers analyze daily network alerts to find and fix security incidents. The assistant — described by Crogl’s CEO and co-founder Monzy Merza as an “Iron Man [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>UK quietly scrubs encryption advice from government websites</title>
-		<link>https://techcrunch.com/2025/03/06/uk-quietly-scrubs-encryption-advice-from-government-websites/</link>
-		
-		<dc:creator><![CDATA[Carly Page]]></dc:creator>
-		<pubDate>Thu, 06 Mar 2025 10:34:26 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[encryption]]></category>
-		<category><![CDATA[NCSC]]></category>
-		<category><![CDATA[security]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2976440</guid>
-
-					<description><![CDATA[<p>The UK is no longer recommending the use of encryption for at-risk groups following its iCloud backdoor demands</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>A quarter of startups in YC&#8217;s current cohort have codebases that are almost entirely AI-generated</title>
-		<link>https://techcrunch.com/2025/03/06/a-quarter-of-startups-in-ycs-current-cohort-have-codebases-that-are-almost-entirely-ai-generated/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Thu, 06 Mar 2025 10:10:50 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[code]]></category>
-		<category><![CDATA[developer tools]]></category>
-		<category><![CDATA[Y Combinator]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2976433</guid>
-
-					<description><![CDATA[<p>With the release of new AI models that are better at coding, developers are increasingly using AI to generate code. One of the newest examples is the current batch of Y Combinator, the storied Silicon Valley startup accelerator. A quarter of the W25 startup batch have 95% of their codebases generated by AI, YC managing [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Renaissance Fusion raises €32M to radically simplify complex fusion reactors</title>
-		<link>https://techcrunch.com/2025/03/06/renaissance-fusion-raises-e32m-to-radically-simplify-complex-fusion-reactors/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Thu, 06 Mar 2025 08:00:00 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[nuclear fusion]]></category>
-		<category><![CDATA[fusion power]]></category>
-		<category><![CDATA[Lowercarbon Capital]]></category>
-		<category><![CDATA[Renaissance Fusion]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2976367</guid>
-
-					<description><![CDATA[<p>The startup is betting that by simplifying stellarators, it can make fusion power cheaper and easier to maintain.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Alpine Eagle secures funding from European backers for counter-drone tech amid rising threats</title>
-		<link>https://techcrunch.com/2025/03/05/alpine-eagle-secures-funding-from-european-backers-for-counter-drone-tech-amid-rising-threats/</link>
-		
-		<dc:creator><![CDATA[Anna Heim]]></dc:creator>
-		<pubDate>Thu, 06 Mar 2025 06:00:00 +0000</pubDate>
-				<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[defense tech]]></category>
-		<category><![CDATA[drones]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2975748</guid>
-
-					<description><![CDATA[<p>The war in Ukraine has brought drones to the forefront of modern warfare, creating a surge in demand for counter-drone systems. However, legacy solutions to counter drones, such as ground-based defense systems and cyber warfare, often come with a hefty price tag. For German startup Alpine Eagle, these solutions fall short: When now-ubiquitous $500 first-person [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Infineon teams up with India&#8217;s CDIL to build chips for light EVs, energy storage solutions</title>
-		<link>https://techcrunch.com/2025/03/05/infineon-teams-up-with-indias-cdil-to-explore-business-in-light-evs-energy-storage-solutions/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Thu, 06 Mar 2025 05:30:00 +0000</pubDate>
-				<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[battery storage]]></category>
-		<category><![CDATA[CDIL]]></category>
-		<category><![CDATA[CDIL Semiconductors]]></category>
-		<category><![CDATA[EV]]></category>
-		<category><![CDATA[India]]></category>
-		<category><![CDATA[Infineon Technologies]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2976399</guid>
-
-					<description><![CDATA[<p>Infineon Technologies has partnered with CDIL Semiconductors to tap into emerging business cases including light EVs and battery storage solutions in India.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tapbots teases a new Bluesky app, Phoenix, saying it can&#8217;t &#8216;survive on Mastodon alone&#8217;</title>
-		<link>https://techcrunch.com/2025/03/05/tapbots-teases-a-new-bluesky-app-phoenix-saying-it-cant-survive-on-mastodon-alone/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Wed, 05 Mar 2025 22:35:33 +0000</pubDate>
-				<category><![CDATA[Social]]></category>
-		<category><![CDATA[Bluesky]]></category>
-		<category><![CDATA[fediverse]]></category>
-		<category><![CDATA[Mastodon]]></category>
-		<category><![CDATA[tapbots]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2976186</guid>
-
-					<description><![CDATA[<p>There&#8217;s a new Bluesky app in the works from a popular developer of iOS applications. Tapbots, the company behind the popular Mastodon client Ivory, born out of its earlier efforts with Tweetbot (RIP), is readying a new app called Phoenix, designed for Bluesky&#8217;s growing social network of over 32 million users. In a post on [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Canoo&#8217;s CEO is buying the bankrupt EV startup&#8217;s assets</title>
-		<link>https://techcrunch.com/2025/03/05/canoos-ceo-is-buying-the-bankrupt-ev-startups-assets/</link>
-		
-		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
-		<pubDate>Wed, 05 Mar 2025 22:22:45 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Canoo]]></category>
-		<category><![CDATA[electric vehicles]]></category>
-		<category><![CDATA[EVs]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2975974</guid>
-
-					<description><![CDATA[<p>The CEO of Canoo is buying nearly all of the defunct EV startup&#8217;s assets out of bankruptcy, according to a court filing. A new entity controlled by the CEO, Anthony Aquila, has offered to purchase &#8220;substantially all&#8221; of the assets for $4 million in cash. The sale will also wipe clean a more-than-$11 million debt [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Trump gives automakers one-month tariff reprieve to move operations from Canada, Mexico to US</title>
-		<link>https://techcrunch.com/2025/03/05/trump-gives-automakers-one-month-tariff-reprieve-to-move-operations-from-canada-mexico-to-us/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Wed, 05 Mar 2025 22:08:17 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Ford]]></category>
-		<category><![CDATA[GM]]></category>
-		<category><![CDATA[Stellantis]]></category>
-		<category><![CDATA[Tariffs]]></category>
-		<category><![CDATA[Trump]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2976104</guid>
-
-					<description><![CDATA[<p>President Donald Trump has delayed tariffs on automobile imports from Canada and Mexico for one month after requests from executives at the Big Three automakers &#8212; General Motors, Ford, and Stellantis &#8212; with the expectation that automakers will move any offshore operations to the United States by April 2. The reprieve, which Politico first reported, [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Eric Schmidt argues against a &#8216;Manhattan Project for AGI&#8217;</title>
-		<link>https://techcrunch.com/2025/03/05/eric-schmidt-argues-against-a-manhattan-project-for-agi/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Wed, 05 Mar 2025 21:54:41 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[AGI]]></category>
-		<category><![CDATA[ai safety]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[Eric Schmidt]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2976028</guid>
-
-					<description><![CDATA[<p>In a policy paper published Wednesday, former Google CEO Eric Schmidt, Scale AI CEO Alexandr Wang, and Center for AI Safety Director Dan Hendrycks said that the U.S. should not pursue a Manhattan Project-style push to develop AI systems with &#8220;superhuman&#8221; intelligence, also known as AGI. The paper, titled &#8220;Superintelligence Strategy,&#8221; asserts that an aggressive [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The hottest AI models, what they do, and how to use them</title>
-		<link>https://techcrunch.com/2025/03/05/the-hottest-ai-models-what-they-do-and-how-to-use-them/</link>
-		
-		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
-		<pubDate>Wed, 05 Mar 2025 19:35:16 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[ai models]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[deepseek]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[google gemini]]></category>
 		<category><![CDATA[mistral]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[sora]]></category>
-		<category><![CDATA[xAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2965163</guid>
+		<category><![CDATA[ocr]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2976604</guid>
 
-					<description><![CDATA[<p>Confused about which AI model to use? Check out this comprehensive list of the most advanced models out there.</p>
+					<description><![CDATA[<p>On Thursday French large language model (LLM) developer Mistral launched a new API for developers who handle complex PDF documents. Mistral OCR is an optical character recognition (OCR) API that can turn any PDF into a text file to make it easier for AI models to ingest. LLMs, which underpin popular GenAI tools like OpenAI&#8217;s [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -342,102 +400,20 @@
 		
 			</item>
 		<item>
-		<title>Volkswagen&#8217;s cheapest EV ever is the first to use Rivian software</title>
-		<link>https://techcrunch.com/2025/03/05/volkswagens-cheapest-ev-ever-is-the-first-to-use-rivian-software/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec, Sean O'Kane]]></dc:creator>
-		<pubDate>Wed, 05 Mar 2025 19:33:44 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[#exclusive]]></category>
-		<category><![CDATA[EVs]]></category>
-		<category><![CDATA[Rivian]]></category>
-		<category><![CDATA[volkswagen]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2975930</guid>
-
-					<description><![CDATA[<p>Volkswagen&#8217;s ultra-cheap EV called the ID EVERY1 — a small four-door hatchback revealed Wednesday — will be the first to roll out with software and architecture from Rivian, according to a source familiar with the new model. The EV is expected to go into production in 2027 with a starting price of 20,000 euros ($21,500). [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Revenue prediction startup Gong surpasses $300M in annualized revenue, indicating potential IPO path</title>
-		<link>https://techcrunch.com/2025/03/05/revenue-prediction-startup-gong-surpasses-300m-arr-indicating-potential-ipo-path/</link>
-		
-		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Wed, 05 Mar 2025 19:30:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[gong]]></category>
-		<category><![CDATA[IPO]]></category>
-		<category><![CDATA[sales]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2976059</guid>
-
-					<description><![CDATA[<p>Gong, a startup that helps companies predict their revenue from potential sales, has surpassed $300 million in annualized recurring revenue, the company announced on Wednesday. Since its founding in 2016, Gong has used AI to analyze customer interactions. The addition of generative AI capabilities in recent years has helped to fuel the company&#8217;s growth. &#8220;We&#8217;re [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Prime Video tests AI dubbing for select movies and TV series</title>
-		<link>https://techcrunch.com/2025/03/05/prime-video-tests-ai-dubbing-for-select-movies-and-tv-series/</link>
+		<title>Intangible, a no-code 3D creation tool for filmmakers and game designers, raises $4M </title>
+		<link>https://techcrunch.com/2025/03/06/intangible-ai-a-no-code-3d-creation-tool-for-filmmakers-and-game-designers-raises-4m/</link>
 		
 		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Wed, 05 Mar 2025 19:18:13 +0000</pubDate>
+		<pubDate>Thu, 06 Mar 2025 17:00:00 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Amazon]]></category>
-		<category><![CDATA[auto dubbing]]></category>
-		<category><![CDATA[prime video]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2976045</guid>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[3d]]></category>
+		<category><![CDATA[a16z speedrun]]></category>
+		<category><![CDATA[Funding]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2976513</guid>
 
-					<description><![CDATA[<p>Prime Video is now experimenting with AI-assisted dubbing for select licensed movies and TV shows, as announced by the Amazon-owned streaming service on Wednesday. According to Prime Video, this new test will feature AI-assisted dubbing services in English and Latin American Spanish, combining AI with human localization professionals to “ensure quality control,” the company explained.&#160;&#160; [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Catalan court says NSO Group executives can be charged in spyware investigation</title>
-		<link>https://techcrunch.com/2025/03/05/catalan-court-says-nso-group-executives-can-be-charged-in-spyware-investigation/</link>
-		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
-		<pubDate>Wed, 05 Mar 2025 19:14:53 +0000</pubDate>
-				<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[Catalonia]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[NSO Group]]></category>
-		<category><![CDATA[Spyware]]></category>
-		<category><![CDATA[surveillance]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2976002</guid>
-
-					<description><![CDATA[<p>The ruling said that a lower court can charge two NSO Group co-founders and a former executive of two affiliate companies for the alleged hacking of a lawyer.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI reportedly plans to charge up to $20,000 a month for specialized AI &#8216;agents&#8217;</title>
-		<link>https://techcrunch.com/2025/03/05/openai-reportedly-plans-to-charge-up-to-20000-a-month-for-specialized-ai-agents/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 05 Mar 2025 19:07:39 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[agents]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2975942</guid>
-
-					<description><![CDATA[<p>OpenAI may be planning to charge up to $20,000 per month for specialized AI &#8220;agents,&#8221; according to The Information. The publication reports that OpenAI intends to launch several &#8220;agent&#8221; products tailored for different applications, including sorting and ranking sales leads and software engineering. One, a &#8220;high-income knowledge worker&#8221; agent, will reportedly be priced at $2,000 [&#8230;]</p>
+					<description><![CDATA[<p>Intangible, now backed by $4 million in seed funding, offers an AI-powered creative tool that allows users to create 3D world concepts with text prompts to aid creative professionals across a variety of industries. The company&#8217;s mission is to make the creative process accessible to everyone, including professionals such as filmmakers, game designers, event planners, [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
