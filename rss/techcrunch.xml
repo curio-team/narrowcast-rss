@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 11 Mar 2025 10:03:47 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Mar 2025 11:24:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,75 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Zolve, a neobank for global citizens moving to the US, raises $51M and secures $200M debt</title>
+		<link>https://techcrunch.com/2025/03/11/zolve-a-neobank-for-global-citizens-moving-to-the-us-raises-51m-and-secures-200m-debt/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Tue, 11 Mar 2025 11:30:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[Zolve]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[hsbc]]></category>
+		<category><![CDATA[Creaegis]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2978468</guid>
+
+					<description><![CDATA[<p>Zolve, a neobanking startup targeting global citizens seeking credit, has raised $251 million in a new round to expand into Canada and launch loans.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Sola emerges from stealth with $30M to build the &#8216;Stripe for security&#8217;</title>
+		<link>https://techcrunch.com/2025/03/11/sola-emerges-from-stealth-with-30m-to-build-the-stripe-for-security/</link>
+		
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+		<pubDate>Tue, 11 Mar 2025 11:10:42 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[cider]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[low-code]]></category>
+		<category><![CDATA[no-code]]></category>
+		<category><![CDATA[palo alto networks]]></category>
+		<category><![CDATA[Sola]]></category>
+		<category><![CDATA[sola security]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2978497</guid>
+
+					<description><![CDATA[<p>Enterprises these days can choose from hundreds of apps and services available to secure their networks, data and assets — nearly as many more to help them manage all the alerts and extra work that those security apps generate. But what if you could build your own apps, customised to your own workloads, to simplify [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Some say passkeys are clunky — this startup wants to change that</title>
+		<link>https://techcrunch.com/2025/03/11/some-say-passkeys-are-clunky-this-startup-wants-to-change-that/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Tue, 11 Mar 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[engineering capital]]></category>
+		<category><![CDATA[Hawcx]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2977779</guid>
+
+					<description><![CDATA[<p>Hawcx, backed by Engineering Capital, aims to solve passkeys' adoption challenge with its new tech.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Equator closes $55M fund to bring more private capital to African climate tech</title>
 		<link>https://techcrunch.com/2025/03/11/equator-closes-55m-fund-for-early-stage-climate-tech-startups-in-africa/</link>
 		
@@ -359,64 +428,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2950859</guid>
 
 					<description><![CDATA[<p>New details have emerged about PowerSchool's data breach — but here's what PowerSchool still isn't saying.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Poolside CEO says most companies shouldn&#8217;t build foundation models</title>
-		<link>https://techcrunch.com/2025/03/10/poolside-ceo-says-most-companies-shouldnt-build-foundation-models/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Mon, 10 Mar 2025 19:13:40 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[artificial intelligence]]></category>
-		<category><![CDATA[HumanX]]></category>
-		<category><![CDATA[Poolside]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2978133</guid>
-
-					<description><![CDATA[<p>Poolside co-founder and CEO Jason Warner didn&#8217;t mince words: He thinks that most companies looking to build foundation AI models should instead focus on building applications. Poolside is an AI-powered software development platform. Warner told the audience at the HumanX AI conference in Las Vegas on Monday that he thinks intelligence is the most important commodity in [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>DeepSeek isn’t taking VC money yet — here are 3 reasons why</title>
-		<link>https://techcrunch.com/2025/03/10/deepseek-isnt-taking-vc-money-yet-here-are-3-reasons-why/</link>
-		
-		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
-		<pubDate>Mon, 10 Mar 2025 19:12:15 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[deepseek]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2978096</guid>
-
-					<description><![CDATA[<p>Unlike AI competitors, DeepSeek’s founder Liang Wenfeng is in no hurry to get investment from outsiders.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>At SXSW, Bluesky CEO Jay Graber pokes fun at Mark Zuckerberg with Latin phrase T-shirt</title>
-		<link>https://techcrunch.com/2025/03/10/at-sxsw-bluesky-ceo-jay-graber-pokes-fun-at-mark-zuckerberg-with-latin-phrase-t-shirt/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Mon, 10 Mar 2025 18:48:06 +0000</pubDate>
-				<category><![CDATA[Social]]></category>
-		<category><![CDATA[Bluesky]]></category>
-		<category><![CDATA[Mark Zuckerberg]]></category>
-		<category><![CDATA[SXSW]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2978087</guid>
-
-					<description><![CDATA[<p>When Bluesky CEO Jay Graber walked onstage at SXSW 2025 for her keynote discussion, she wore a large black T-shirt with her hair pulled back into a bun. At first glance, it might appear as though she&#8217;s following the same playbook that so many women in tech leadership have played before: downplaying her femininity to [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
