@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 12 Mar 2025 12:43:30 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Mar 2025 13:18:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,45 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Pentera nabs $60M at a $1B+ valuation to build simulated network attacks to train security teams</title>
+		<link>https://techcrunch.com/2025/03/12/pentera-nabs-60m-at-a-1b-valuation-to-build-simulated-network-attacks-to-train-security-teams/</link>
+		
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+		<pubDate>Wed, 12 Mar 2025 13:00:23 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[pen testing]]></category>
+		<category><![CDATA[pentera]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2979176</guid>
+
+					<description><![CDATA[<p>Strong and smart security operations teams are at the heart of any cybersecurity strategy, and today a startup that builds tooling to help keep them on their toes is announcing some funding on the back of a lot of growth. Pentera — which has built a system that launches simulations of network attacks to stress [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Wolf Games, backed by ‘Law &#038; Order’ creator, uses AI to create murder mystery games</title>
+		<link>https://techcrunch.com/2025/03/12/wolf-games-backed-by-law-order-creator-uses-ai-to-create-murder-mystery-games/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Wed, 12 Mar 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2978994</guid>
+
+					<description><![CDATA[<p>Elliot Wolf, the executive producer and son of “Law &#38; Order” creator Dick Wolf, is entering a new venture aimed at engaging true crime fans.&#160; He, along with co-founders Andrew Adashek (CEO) and Noah Rosenberg (CTO), are developing Wolf Games, a new startup that leverages AI to generate daily murder mystery games. The company also [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Meta faces publisher copyright AI lawsuit in France</title>
 		<link>https://techcrunch.com/2025/03/12/meta-faces-publisher-copyright-ai-lawsuit-in-france/</link>
 		
@@ -382,48 +421,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2978643</guid>
 
 					<description><![CDATA[<p>Otherwise Fund's Terrance Rohan,  investing in Y Combinator since 2010, says he noticed a "vibe shift" with this batch thanks to AI.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple fixes new security flaw used in &#8216;extremely sophisticated attack&#8217;</title>
-		<link>https://techcrunch.com/2025/03/11/apple-fixes-new-security-flaw-used-in-extremely-sophisticated-attack/</link>
-		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
-		<pubDate>Tue, 11 Mar 2025 19:16:15 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[iOS]]></category>
-		<category><![CDATA[iPadOS]]></category>
-		<category><![CDATA[macos]]></category>
-		<category><![CDATA[VisionOS]]></category>
-		<category><![CDATA[Zero-days]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2978819</guid>
-
-					<description><![CDATA[<p>The flaw was in the browser engine WebKit, used by Safari and other apps.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI says it has trained an AI that&#8217;s &#8216;really good&#8217; at creative writing</title>
-		<link>https://techcrunch.com/2025/03/11/openai-says-it-has-trained-an-ai-thats-really-good-at-creative-writing/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 11 Mar 2025 19:10:03 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[creative writing]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2978853</guid>
-
-					<description><![CDATA[<p>Watch out, fiction writers. OpenAI may have you in its crosshairs. In a post on X on Tuesday, OpenAI CEO Sam Altman said that the company has trained a &#8220;new model&#8221; that&#8217;s &#8220;really good&#8221; at creative writing. He posted a lengthy sample from the model given the prompt &#8220;Please write a metafictional literary short story [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
