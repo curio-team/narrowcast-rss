@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 12 Mar 2025 05:35:03 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Mar 2025 10:31:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,51 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Salesforce to invest $1B in Singapore to boost adoption of AI</title>
+		<link>https://techcrunch.com/2025/03/12/salesforce-to-invest-1b-in-singapore-to-boost-adoption-of-ai/</link>
+		
+		<dc:creator><![CDATA[Kate Park]]></dc:creator>
+		<pubDate>Wed, 12 Mar 2025 10:12:26 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Agentforce]]></category>
+		<category><![CDATA[Salesforce]]></category>
+		<category><![CDATA[Singapore Airlines]]></category>
+		<category><![CDATA[Southeast Asia]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2979125</guid>
+
+					<description><![CDATA[<p>Salesforce plans to invest $1 billion in Singapore over the next five years as it seeks to fuel the adoption of its AI agent development platform, Agentforce. Salesforce claimed that Agentforce can help alleviate Singapore&#8217;s ongoing labor issues and augment the country&#8217;s workforce and enterprises by creating &#8220;digital workforces&#8221; that combine humans with autonomous AI [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>North Korean government hackers snuck spyware on Android app store</title>
+		<link>https://techcrunch.com/2025/03/12/north-korean-government-hackers-snuck-spyware-on-android-app-store/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Wed, 12 Mar 2025 10:00:00 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google Play]]></category>
+		<category><![CDATA[Lookout]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Spyware]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2978838</guid>
+
+					<description><![CDATA[<p>Cybersecurity firm Lookout found several samples of a North Korean spyware it calls KoSpy.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Elea AI is chasing the healthcare productivity opportunity by targeting pathology labs’ legacy systems</title>
 		<link>https://techcrunch.com/2025/03/12/elea-ai-is-chasing-the-healthcare-productivity-opportunity-by-targeting-pathology-labs-legacy-systems/</link>
 		
@@ -381,51 +426,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2978746</guid>
 
 					<description><![CDATA[<p>The intersection of robotics and AI continues to attract attention from investors and Big Tech alike. The latest indicator? Dexterity, a startup specializing in industrial robots with &#8220;human-like&#8221; finesse, has raised $95 million at a post-money valuation of $1.65 billion, per Bloomberg. The investment, which includes backing from Lightspeed Venture Partners and Sumitomo Corp., highlights [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Geothermal could power nearly all new data centers through 2030</title>
-		<link>https://techcrunch.com/2025/03/11/geothermal-could-power-nearly-all-new-data-centers-through-2030/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Tue, 11 Mar 2025 17:43:52 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Artificial Intelligence (AI)]]></category>
-		<category><![CDATA[Bedrock Energy]]></category>
-		<category><![CDATA[data centers]]></category>
-		<category><![CDATA[Fervo Energy]]></category>
-		<category><![CDATA[geothermal energy]]></category>
-		<category><![CDATA[Quaise Energy]]></category>
-		<category><![CDATA[Rhodium]]></category>
-		<category><![CDATA[Sage Geosystems]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2978738</guid>
-
-					<description><![CDATA[<p>Geothermal resources have enormous potential to provide the sort of consistent power that data centers crave.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI launches new tools to help businesses build AI agents</title>
-		<link>https://techcrunch.com/2025/03/11/openai-launches-new-tools-to-help-businesses-build-ai-agents/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Tue, 11 Mar 2025 17:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[agents]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2978371</guid>
-
-					<description><![CDATA[<p>On Tuesday, OpenAI released new tools designed to help developers and enterprises build AI agents &#8212; automated systems that can independently accomplish tasks &#8212; using the company&#8217;s own AI models and frameworks. The tools are part of OpenAI&#8217;s new Responses API, which lets businesses develop custom AI agents that can perform web searches, scan through [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
