@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 12 Mar 2025 14:36:23 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Mar 2025 15:34:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,51 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Project Europe, a new early stage fund, will back under-25s with $200K to build the next tech titan</title>
+		<title>Why Onyx thinks its open source solution will win enterprise search</title>
+		<link>https://techcrunch.com/2025/03/12/why-onyx-thinks-its-open-source-solution-will-win-enterprise-search/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Wed, 12 Mar 2025 15:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Khosla Ventures]]></category>
+		<category><![CDATA[Onyx]]></category>
+		<category><![CDATA[open source]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2979061</guid>
+
+					<description><![CDATA[<p>Enterprises have troves of internal data and information that employees need to complete their tasks or answer questions for potential customers. But that doesn&#8217;t mean the right information is easy to find. Onyx wants to solve that problem through its internal enterprise search tool. There are other big names in the category, like Glean — [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Lithium-ion batteries are remaking Google’s data centers</title>
+		<link>https://techcrunch.com/2025/03/12/lithium-ion-batteries-are-remaking-googles-data-centers/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Wed, 12 Mar 2025 14:39:55 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[google cloud]]></category>
+		<category><![CDATA[lithium ion batteries]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2979215</guid>
+
+					<description><![CDATA[<p>Google is replacing lead-acid battery backup units with lithium-ion cells, freeing up space for more servers.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Project Europe, a new early stage fund, will back people under 25 to build the next tech titan</title>
 		<link>https://techcrunch.com/2025/03/12/project-europe-a-new-early-stage-fund-will-back-under-25s-with-200k-to-build-the-next-tech-titan/</link>
 		
 		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
@@ -40,7 +84,7 @@
 		<category><![CDATA[Project Europe]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2979129</guid>
 
-					<description><![CDATA[<p>A recurring theme in Europe&#8217;s tech world is that the region needs its own Google or Microsoft, and that in this day and age, to be more resilient and independent, it should, could and must build it. Now comes the launch of a new fund to support this initiative. Project Europe &#8212; a new fund [&#8230;]</p>
+					<description><![CDATA[<p>A recurring theme in Europe&#8217;s tech world is that the region needs its own Google or Microsoft. Now comes the launch of a new fund to support this initiative. Project Europe &#8212; a new fund for founders &#8220;solving hard problems with technical solutions&#8221; &#8212; says it has initially pulled together $10 million from 128 different [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -388,46 +432,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2979041</guid>
 
 					<description><![CDATA[<p>Meta is reportedly testing an in-house chip for training AI systems, a part of a strategy to reduce its reliance on hardware makers like Nvidia. According to Reuters, Meta&#8217;s chip, which is designed to handle AI-specific workloads, was manufactured in partnership with Taiwan-based firm TSMC. The company is piloting a &#8220;small deployment&#8221; of the chip [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Bolt CEO Ryan Breslow explains his troubled $30M personal loan, announces new ‘super app’</title>
-		<link>https://techcrunch.com/2025/03/11/bolt-ceo-ryan-breslow-explains-his-troubled-30m-personal-loan-announces-new-super-app/</link>
-		
-		<dc:creator><![CDATA[Charles Rollet, Mary Ann Azevedo]]></dc:creator>
-		<pubDate>Tue, 11 Mar 2025 21:13:44 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Bolt]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[Fintech]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2978959</guid>
-
-					<description><![CDATA[<p>Bolt CEO Ryan Breslow defended the  $30M personal loan he took out from his startup, while announcing Bolt's latest launch.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Trump says he will label violence against Tesla as domestic terrorism</title>
-		<link>https://techcrunch.com/2025/03/11/trump-says-he-will-label-violence-against-tesla-as-domestic-terrorism/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan, Sean O'Kane]]></dc:creator>
-		<pubDate>Tue, 11 Mar 2025 20:30:19 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[doge]]></category>
-		<category><![CDATA[Donald Trump]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[Tesla]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2978934</guid>
-
-					<description><![CDATA[<p>President Donald Trump said he will label violence against Tesla dealerships as domestic terrorism, per a transcript shared by the White House pool reporters, a sign of deepening ties with Elon Musk. “Tesla Takeovers” have been breaking out across the globe at Tesla dealerships as people protest what they see as a hostile takeover of [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
