@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 13 Mar 2025 09:32:03 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Mar 2025 10:15:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Telegram introduces trading and yield features for its self-custodial crypto wallet</title>
+		<link>https://techcrunch.com/2025/03/13/telegram-introduces-trading-and-yield-features-for-its-self-custodial-crypto-wallet/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 13 Mar 2025 10:14:56 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[crypto trading]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[Telegram]]></category>
+		<category><![CDATA[Wallet]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2979926</guid>
+
+					<description><![CDATA[<p>Telegram&#8217;s self-custodial crypto wallet, developed by a third-party company called The Open Platform (TOP), has introduced new features for people who don&#8217;t just use Telegram as a messaging app. The updates include multi-asset trading and yield functionalities. Based on the TON blockchain, TOP launched the wallet in 2023. The company reported that over 100 million [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Could deeptech serve as Europe&#8217;s  path to autonomy from the US?</title>
 		<link>https://techcrunch.com/2025/03/13/could-europes-16b-deeptech-bet-be-a-path-to-autonomy-from-the-us/</link>
 		
@@ -404,28 +425,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2607662</guid>
 
 					<description><![CDATA[<p>A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Dapr&#8217;s microservices runtime now supports AI agents</title>
-		<link>https://techcrunch.com/2025/03/12/daprs-microservices-runtime-now-supports-ai-agents/</link>
-		
-		<dc:creator><![CDATA[Frederic Lardinois]]></dc:creator>
-		<pubDate>Wed, 12 Mar 2025 16:26:29 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[agents]]></category>
-		<category><![CDATA[AI agents]]></category>
-		<category><![CDATA[dapr]]></category>
-		<category><![CDATA[open source]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2979270</guid>
-
-					<description><![CDATA[<p>Back in 2019, Microsoft open sourced Dapr, a new runtime for making building distributed microservice-based applications easier. At the time, nobody was talking about AI agents yet, but as it turns out, Dapr had some of the fundamental building blocks for supporting AI agents built-in from the outset. That&#8217;s because one of Dapr&#8217;s core features [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
