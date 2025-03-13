@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 13 Mar 2025 10:15:00 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Mar 2025 11:29:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,49 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Singapore grants bail for Nvidia chip smugglers in alleged $390M fraud</title>
+		<link>https://techcrunch.com/2025/03/13/singapore-grants-bail-for-nvidia-chip-smugglers-in-alleged-390m-fraud/</link>
+		
+		<dc:creator><![CDATA[Kate Park]]></dc:creator>
+		<pubDate>Thu, 13 Mar 2025 11:01:48 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Dell]]></category>
+		<category><![CDATA[malaysia]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<category><![CDATA[Singapore]]></category>
+		<category><![CDATA[Super Micro]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2979939</guid>
+
+					<description><![CDATA[<p>A judge in Singapore granted bail to three men suspected of deceiving suppliers of server computers that may contain Nvidia chips affected by U.S. export rules that bar the sale of them to certain countries, as a route to halting them being sold to organizations in China. The move comes nearly two weeks after the [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Bria lands new funding for AI models trained on licensed data</title>
+		<link>https://techcrunch.com/2025/03/13/bria-lands-new-funding-for-ai-models-trained-on-licensed-data/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 13 Mar 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2978100</guid>
+
+					<description><![CDATA[<p>AI-powered image generators, which are at the center of a number of copyright lawsuits against AI companies, are frequently trained on massive amounts of data from public websites. Most of these companies argue that&#160;fair use doctrine&#160;shields their data scraping and training practices. But many copyright holders disagree.&#160; That&#8217;s why some startups and firms developing image [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Telegram introduces trading and yield features for its self-custodial crypto wallet</title>
 		<link>https://techcrunch.com/2025/03/13/telegram-introduces-trading-and-yield-features-for-its-self-custodial-crypto-wallet/</link>
 		
@@ -384,47 +427,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2979302</guid>
 
 					<description><![CDATA[<p>Since Donald Trump Jr. joined VC firm 1789 Capital after his father won the election, he&#8217;s been busy monetizing the Make America Great Again (MAGA) ecosystem. He’s been making bets in media, pharmaceutical, guns, and crypto while pushing against environmental, social, and governance (ESG) and diversity, equity, and inclusion (DEI), the Financial Times reported. The [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenStack comes to the Linux Foundation</title>
-		<link>https://techcrunch.com/2025/03/12/openstack-comes-to-the-linux-foundation/</link>
-		
-		<dc:creator><![CDATA[Frederic Lardinois]]></dc:creator>
-		<pubDate>Wed, 12 Mar 2025 17:13:09 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[linux foundation]]></category>
-		<category><![CDATA[OpenInfra]]></category>
-		<category><![CDATA[openstack]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2979354</guid>
-
-					<description><![CDATA[<p>Back in 2010, Rackspace and NASA launched a project called OpenStack, which was meant to become an open source option for running an AWS-style cloud inside of private data centers. The two companies then moved OpenStack to the OpenStack Foundation, which has steadfastly shepherded the project through its many ups and downs. Right now, with [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>A comprehensive list of 2025 tech layoffs</title>
-		<link>https://techcrunch.com/2025/03/12/tech-layoffs-2025-list/</link>
-		
-		<dc:creator><![CDATA[Cody Corrall, Alyssa Stringer]]></dc:creator>
-		<pubDate>Wed, 12 Mar 2025 17:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[Layoffs]]></category>
-		<category><![CDATA[tech layoffs]]></category>
-		<category><![CDATA[TechCrunch 2023 Recap]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2607662</guid>
-
-					<description><![CDATA[<p>A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
