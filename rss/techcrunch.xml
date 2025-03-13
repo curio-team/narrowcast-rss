@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 13 Mar 2025 08:10:27 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Mar 2025 09:32:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Could deeptech serve as Europe&#8217;s  path to autonomy from the US?</title>
+		<link>https://techcrunch.com/2025/03/13/could-europes-16b-deeptech-bet-be-a-path-to-autonomy-from-the-us/</link>
+		
+		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
+		<pubDate>Thu, 13 Mar 2025 09:00:00 +0000</pubDate>
+				<category><![CDATA[Venture]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[deeptech]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2979883</guid>
+
+					<description><![CDATA[<p>Amidst geopolitical tensions and volatile markets, the question of Europe&#8217;s ability to weather the storms ahead, especially as President Trump seems intent on having his pound of tariffs from the continent, is looming large. But an extensive new report claims deeptech is poised to become a key pillar of Europe&#8217;s security, defense, and future autonomy, [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Xiaomi to preinstall PhonePe&#8217;s app store on smartphones sold in India</title>
 		<link>https://techcrunch.com/2025/03/13/xiaomi-to-preinstall-phonepes-app-store-on-smartphones-sold-in-india/</link>
 		
@@ -408,25 +426,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2979270</guid>
 
 					<description><![CDATA[<p>Back in 2019, Microsoft open sourced Dapr, a new runtime for making building distributed microservice-based applications easier. At the time, nobody was talking about AI agents yet, but as it turns out, Dapr had some of the fundamental building blocks for supporting AI agents built-in from the outset. That&#8217;s because one of Dapr&#8217;s core features [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Sakana claims its AI-generated paper passed peer review — but it&#8217;s a bit more nuanced than that</title>
-		<link>https://techcrunch.com/2025/03/12/sakana-claims-its-ai-paper-passed-peer-review-but-its-a-bit-more-nuanced-than-that/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 12 Mar 2025 16:00:02 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[research]]></category>
-		<category><![CDATA[sakana]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2979173</guid>
-
-					<description><![CDATA[<p>Japanese AI startup Sakana said that its AI generated one of the first peer-reviewed scientific publications. But while the claim isn&#8217;t necessarily untrue, there are caveats to note. The debate swirling around AI and its role in the scientific process grows fiercer by the day. Many researchers don&#8217;t think AI is quite ready to serve [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
