@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 14 Mar 2025 05:17:14 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 14 Mar 2025 09:33:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>SoftBank buys $676M old Sharp plant for its OpenAI collab in Japan</title>
+		<link>https://techcrunch.com/2025/03/14/softbank-buys-676m-old-sharp-plant-for-its-openai-collab-in-japan/</link>
+		
+		<dc:creator><![CDATA[Kate Park]]></dc:creator>
+		<pubDate>Fri, 14 Mar 2025 09:24:45 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[SB OpenAI Japan]]></category>
+		<category><![CDATA[Softbank]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2980525</guid>
+
+					<description><![CDATA[<p>SoftBank is marching ahead on its ambitions to build out a major AI operation in its home market of Japan, on its own steam and in strategic partnership with others like OpenAI. On Friday, the tech company confirmed it would pay $676 million for factory previously used by Sharp to build LCD panels to convert [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Waymo was slapped with nearly 600 parking tickets last year in SF alone</title>
 		<link>https://techcrunch.com/2025/03/13/waymo-was-slapped-with-nearly-600-parking-tickets-last-year-in-sf-alone/</link>
 		
@@ -398,26 +418,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2980124</guid>
 
 					<description><![CDATA[<p>Meghan Markle is launching a new podcast entitled “Confessions of a Female Founder,” which will hear the duchess talking about her entrepreneurial journey. It will also feature talks with other female founders about the reality of building a business, according to People magazine. The show will premiere April 8th on Lemonada Media and will have [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI calls DeepSeek &#8216;state-controlled,&#8217; calls for bans on &#8216;PRC-produced&#8217; models</title>
-		<link>https://techcrunch.com/2025/03/13/openai-calls-deepseek-state-controlled-calls-for-bans-on-prc-produced-models/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 16:21:30 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[deepseek]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[policy]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2980054</guid>
-
-					<description><![CDATA[<p>In a new policy proposal, OpenAI describes Chinese AI lab DeepSeek as &#8220;state-subsidized&#8221; and &#8220;state-controlled,&#8221; and recommends that the U.S. government consider banning models from the outfit and similar People&#8217;s Republic of China (PRC)-supported operations. The proposal, a submission for the Trump administration&#8217;s &#8220;AI Action Plan&#8221; initiative, claims that DeepSeek&#8217;s models, including its R1 &#8220;reasoning&#8221; model, [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
