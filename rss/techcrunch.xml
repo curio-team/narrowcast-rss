@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 14 Mar 2025 10:13:01 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 14 Mar 2025 10:59:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>UK’s secret iCloud backdoor order triggers civil rights challenge</title>
+		<link>https://techcrunch.com/2025/03/14/uks-secret-icloud-backdoor-order-triggers-civil-rights-challenge/</link>
+		
+		<dc:creator><![CDATA[Natasha Lomas]]></dc:creator>
+		<pubDate>Fri, 14 Mar 2025 10:59:09 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[apple icloud backdoor challenge]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2980548</guid>
+
+					<description><![CDATA[<p>The U.K. government&#8217;s secret order to Apple demanding it backdoor the end-to-end encrypted version of its iCloud storage service has now been challenged by two civil rights groups, Liberty and Privacy International, which filed complaints Thursday. They called the order &#8220;unacceptable and disproportionate&#8221; and warned of &#8220;global consequences&#8221; as the access order is thought to [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Trump family is reportedly in talks to acquire stake in Binance’s US arm</title>
 		<link>https://techcrunch.com/2025/03/14/trump-family-is-reportedly-in-talks-to-acquire-stake-in-binances-us-arm/</link>
 		
@@ -397,28 +417,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2980000</guid>
 
 					<description><![CDATA[<p>Facebook is rolling out the ability for creators to earn money for views on public stories. The new monetization option is available globally to creators who are part of the Facebook Content Monetization program. With this new monetization option, creators can earn money from content that they are already producing and sharing if they post [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple’s Lockdown Mode is good for security — but its notifications are baffling</title>
-		<link>https://techcrunch.com/2025/03/13/apples-lockdown-mode-is-good-for-security-but-its-notifications-are-baffling/</link>
-		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 16:50:21 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[iOS]]></category>
-		<category><![CDATA[iPad]]></category>
-		<category><![CDATA[iPhone]]></category>
-		<category><![CDATA[lockdown mode]]></category>
-		<category><![CDATA[privacy]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2980067</guid>
-
-					<description><![CDATA[<p>Lockdown Mode is an "extreme protection" feature that's good for at-risk users, but its notifications are increasingly confusing. </p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
