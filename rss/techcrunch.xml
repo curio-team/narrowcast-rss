@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 14 Mar 2025 12:45:53 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 14 Mar 2025 14:29:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,31 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Developer of LockBit ransomware gets extradited to the United States</title>
+		<link>https://techcrunch.com/2025/03/14/developer-of-lockbit-ransomware-gets-extradited-to-the-united-states/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Fri, 14 Mar 2025 14:08:25 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[extradition]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[Israel]]></category>
+		<category><![CDATA[lockbit]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[russia]]></category>
+		<category><![CDATA[US Department of Justice]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2980580</guid>
+
+					<description><![CDATA[<p>The U.S. Department of Justice announced that Rostislav Panev, who developed code and maintained infrastructure for LockBit, is now in U.S. custody. </p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>US lawmakers urge UK spy court to hold Apple &#8216;backdoor&#8217; secret hearing in public</title>
 		<link>https://techcrunch.com/2025/03/14/us-lawmakers-urge-uk-spy-court-to-hold-apple-backdoor-secret-hearing-in-public/</link>
 		
@@ -397,23 +422,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2980190</guid>
 
 					<description><![CDATA[<p>Light, the maker of a minimalist phone designed to help consumers disconnect from smartphone distractions and social media, will launch its newest model, the Light Phone III, on March 27. This version of the device, like its older counterpart, offers a simple black-and-white display and necessary features like support for calls, texts, navigation, alarms, hotspots, [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>10 startups to watch from Y Combinator&#8217;s W25 Demo Day</title>
-		<link>https://techcrunch.com/2025/03/13/10-startups-to-watch-from-y-combinators-w25-demo-day/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff, Charles Rollet]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 17:59:58 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Y Combinator]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2979846</guid>
-
-					<description><![CDATA[<p>One of Silicon Valley&#8217;s most storied startup accelerators, Y Combinator, held its Winter 2025 Demo Day on Wednesday, showcasing what its latest batch of 160 startups are cooking up. Some of Silicon Valley&#8217;s most successful startups &#8212; including Stripe, Airbnb, and Reddit &#8212; started out in a YC batch. Today, YC&#8217;s newer startups are focused [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
