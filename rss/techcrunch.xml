@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 14 Mar 2025 14:29:01 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 14 Mar 2025 15:31:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,29 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Developer of LockBit ransomware gets extradited to the United States</title>
+		<title>iPhone and Android users will soon be able to send encrypted RCS messages to each other</title>
+		<link>https://techcrunch.com/2025/03/14/iphone-and-android-users-will-soon-be-able-to-send-encrypted-rcs-messages-to-each-other/</link>
+		
+		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
+		<pubDate>Fri, 14 Mar 2025 15:31:53 +0000</pubDate>
+				<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[e2ee]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[gsma]]></category>
+		<category><![CDATA[RCS]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2980568</guid>
+
+					<description><![CDATA[<p>Text messages sent between iPhones and Android devices will soon benefit from end-to-end encryption (E2EE), after the GSM Association (GSMA) yesterday published new specifications for the Rich Communication Services (RCS) protocol that include support for cross-platform E2EE. RCS is a longstanding effort to enable SMS-style cross-platform communications with richer features, such as group messaging, typing [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Accused LockBit ransomware developer extradited to the US</title>
 		<link>https://techcrunch.com/2025/03/14/developer-of-lockbit-ransomware-gets-extradited-to-the-united-states/</link>
 		
 		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
@@ -36,13 +58,11 @@
 				<category><![CDATA[Security]]></category>
 		<category><![CDATA[cybercrime]]></category>
 		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[extradition]]></category>
 		<category><![CDATA[hacking]]></category>
-		<category><![CDATA[Israel]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<category><![CDATA[lockbit]]></category>
 		<category><![CDATA[ransomware]]></category>
 		<category><![CDATA[russia]]></category>
-		<category><![CDATA[US Department of Justice]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2980580</guid>
 
 					<description><![CDATA[<p>The U.S. Department of Justice announced that Rostislav Panev, who developed code and maintained infrastructure for LockBit, is now in U.S. custody. </p>
@@ -81,7 +101,7 @@
 		<category><![CDATA[Funding]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2980501</guid>
 
-					<description><![CDATA[<p>Kerry Washington is expanding her angel investment portfolio, serving as lead investor in the pre-seed round of the wedding marketplace Cheersy.&#160; Cheersy, which was founded in 2024 by Amy Shack Egan, helps couples find day-of service wedding coordinators and has raised a total of $550,000, from other investors including Elizabeth Cutler, co-founder of Soul Cycle [&#8230;]</p>
+					<description><![CDATA[<p>Kerry Washington is expanding her angel investment portfolio, serving as lead investor in the pre-seed round of the wedding marketplace Cheersy.  Cheersy, which was founded in 2024 by Amy Shack Egan, helps couples find day-of-service wedding coordinators and has raised a total of $550,000 from other investors, including Elizabeth Cutler, co-founder of Soul Cycle, and [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -118,10 +138,11 @@
 		<category><![CDATA[Government & Policy]]></category>
 		<category><![CDATA[Binance]]></category>
 		<category><![CDATA[CZ]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<category><![CDATA[Trump]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2980531</guid>
 
-					<description><![CDATA[<p>President Trump’s family has been weighing an investment in Binance.US, according to a report from the Wall Street Journal. The investment would come just a couple of years after Binance’s U.S. arm pleaded guilty to violating anti-money laundering regulation. As part of that guilty plea, Binance’s founder Changpeng Zhao, better known as CZ, paid a [&#8230;]</p>
+					<description><![CDATA[<p>President Trump’s family has been weighing an investment in Binance.US, according to a report from the Wall Street Journal. The investment would come just a couple of years after Binance’s U.S. arm plead guilty to violating anti-money laundering regulation. As part of that guilty plea, Binance’s founder, Changpeng Zhao, better known as CZ, paid a [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -368,7 +389,7 @@
 		
 			</item>
 		<item>
-		<title>Amazon is still hosting stalkerware victims&#8217; data weeks after breach alert</title>
+		<title>Amazon is still hosting spyware victims&#8217; data weeks after breach alert</title>
 		<link>https://techcrunch.com/2025/03/13/amazon-is-still-hosting-stalkerware-victims-data-weeks-after-breach-alert/</link>
 		
 		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
@@ -402,26 +423,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2980156</guid>
 
 					<description><![CDATA[<p>Rumman Chowdhury, a data scientist, nonprofit founder, and former director of Twitter&#8217;s machine ethics team, had strong words for Elon Musk and the Department of Government Efficiency (DOGE) during a panel at SXSW on Thursday. &#8220;When your funding is frozen and you don&#8217;t know if you&#8217;re gonna be fired, and there&#8217;s this, like, absolutely unhinged [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Minimalist Light Phone III launches March 27</title>
-		<link>https://techcrunch.com/2025/03/13/minimalist-light-phone-iii-launches-march-27/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 18:15:20 +0000</pubDate>
-				<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[hardware]]></category>
-		<category><![CDATA[Light Phone]]></category>
-		<category><![CDATA[Phone]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2980190</guid>
-
-					<description><![CDATA[<p>Light, the maker of a minimalist phone designed to help consumers disconnect from smartphone distractions and social media, will launch its newest model, the Light Phone III, on March 27. This version of the device, like its older counterpart, offers a simple black-and-white display and necessary features like support for calls, texts, navigation, alarms, hotspots, [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
