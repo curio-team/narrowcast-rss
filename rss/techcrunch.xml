@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 13 Mar 2025 15:30:37 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 14 Mar 2025 05:17:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,19 +28,16 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>OpenAI’s &#8216;creative writing&#8217; AI evokes that annoying kid from high school fiction club</title>
-		<link>https://techcrunch.com/2025/03/13/openais-creative-writing-ai-evokes-that-annoying-kid-from-high-school-fiction-club/</link>
+		<title>Waymo was slapped with nearly 600 parking tickets last year in SF alone</title>
+		<link>https://techcrunch.com/2025/03/13/waymo-was-slapped-with-nearly-600-parking-tickets-last-year-in-sf-alone/</link>
 		
-		<dc:creator><![CDATA[Amanda Silberling, Kyle Wiggers]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 15:15:17 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[writing]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2980012</guid>
+		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
+		<pubDate>Fri, 14 Mar 2025 04:48:25 +0000</pubDate>
+				<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2980519</guid>
 
-					<description><![CDATA[<p>When I was 16, I attended a writing workshop with a group of precocious young poets, where we all tried very hard to prove who among us was the most tortured upper-middle-class teenager. One boy refused to tell anyone where he was from, declaring, “I’m from everywhere and nowhere.” Two weeks later, he admitted he [&#8230;]</p>
+					<description><![CDATA[<p>Waymo now has more than 300 driverless vehicles zipping passengers around San Francisco, but while they follow traffic laws, parking is another matter entirely. According to city records cited by the Washington Post, these rolling robots racked up 589 citations totaling $65,065 in fines last year for parking violations that ranged from blocking traffic to [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -48,20 +45,80 @@
 		
 			</item>
 		<item>
-		<title>TechCrunch All Stage unveils a powerhouse agenda for founders</title>
-		<link>https://techcrunch.com/2025/03/13/techcrunch-all-stage-unveils-a-powerhouse-agenda-for-founders/</link>
+		<title>Anti-aging zealot Bryan Johnson wants to start ‘foodome sequencing’</title>
+		<link>https://techcrunch.com/2025/03/13/anti-aging-zealot-bryan-johnson-wants-to-start-foodome-sequencing/</link>
 		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 15:03:51 +0000</pubDate>
-				<category><![CDATA[Fundraising]]></category>
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Thu, 13 Mar 2025 23:57:33 +0000</pubDate>
+				<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[bryan johnson]]></category>
+		<category><![CDATA[dont die]]></category>
+		<category><![CDATA[SXSW]]></category>
+		<category><![CDATA[SXSW 2025]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2980492</guid>
+
+					<description><![CDATA[<p>In the same way that genome sequencing determines the genetic makeup of an organism, Bryan Johnson — the investor and founder behind the Don’t Die movement — wants to start “foodome” sequencing.  “We’re going to sequence the U.S. ‘foodome,’ which means test 20% of foods that constitute 80% of the American diet based on stuff [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Sesame, the startup behind the viral virtual assistant Maya, releases its base AI model</title>
+		<link>https://techcrunch.com/2025/03/13/sesame-the-startup-behind-the-viral-virtual-assistant-maya-releases-its-base-ai-model/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 13 Mar 2025 22:45:29 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[TC]]></category>
+		<category><![CDATA[maya]]></category>
+		<category><![CDATA[sesame]]></category>
+		<category><![CDATA[voice assistant]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2980449</guid>
+
+					<description><![CDATA[<p>AI company&#160;Sesame&#160;has released the base model that powers Maya, the&#160;impressively realistic voice assistant. The model, which is 1 billion parameters in size (&#8220;parameters&#8221; referring to individual components of the model), is under an Apache 2.0 license, meaning it can be used commercially with few restrictions. Called CSM-1B, the model generates &#8220;RVQ audio codes&#8221; from text [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Rad Power Bikes already has a new CEO</title>
+		<link>https://techcrunch.com/2025/03/13/rad-power-bikes-already-has-a-new-ceo/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Thu, 13 Mar 2025 21:16:39 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[e-bikes]]></category>
+		<category><![CDATA[electric bicycles]]></category>
+		<category><![CDATA[Rad Power Bikes]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2980425</guid>
+
+					<description><![CDATA[<p>Rad Power Bikes has named a new CEO, just a few days after its previous leader stepped down. The e-bike company has tapped Kathi Lentzsch, who has spent the last few decades helping turn around underperforming companies in both the consumer and B2B spaces. The change comes as Rad Power continues to shift away from [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Y Combinator’s police surveillance darling Flock Safety raises $275M at $7.5B valuation</title>
+		<link>https://techcrunch.com/2025/03/13/y-combinators-police-surveillance-darling-flock-safety-raises-275m-at-7-5b-valuation/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Thu, 13 Mar 2025 21:12:42 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
 		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[TC All Stage]]></category>
-		<category><![CDATA[TechCrunch All Stage 2025]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2979435</guid>
+		<category><![CDATA[Bedrock]]></category>
+		<category><![CDATA[defense tech]]></category>
+		<category><![CDATA[flock safety]]></category>
+		<category><![CDATA[surveillance technologies]]></category>
+		<category><![CDATA[Y Combinator]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2980389</guid>
 
-					<description><![CDATA[<p>TechCrunch All Stage (formerly Early Stage) returns to Boston on July 15, and the agenda for our tentpole East Coast founder event is almost complete. We’re excited to share this sneak peek at some of the fantastic speakers and sessions we have on tap.&#160; For builders who are just starting on their founder journey, our [&#8230;]</p>
+					<description><![CDATA[<p>Flock Safety and one of its long-time VCs, Bedrock Capital, announced Thursday that the startup raised a fresh $275 million at a $7.5 billion valuation. Flock makes computer vision-enabled video surveillance technology used by law enforcement as well as businesses, property management companies, and so on. It&#8217;s best known for its automatic license plate recognition [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -69,20 +126,20 @@
 		
 			</item>
 		<item>
-		<title>5 ways TechCrunch Sessions: AI will fuel your AI growth</title>
-		<link>https://techcrunch.com/2025/03/13/5-ways-techcrunch-sessions-ai-will-fuel-your-ai-growth/</link>
+		<title>Android is adding Auracast support, which allows hearing aids to connect to public audio broadcasts</title>
+		<link>https://techcrunch.com/2025/03/13/android-is-adding-auracast-support-which-allows-hearing-aids-to-connect-to-public-audio-broadcasts/</link>
 		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[TC Sessions: AI]]></category>
-		<category><![CDATA[TechCrunch Sessions: AI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2980011</guid>
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Thu, 13 Mar 2025 21:07:40 +0000</pubDate>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[accessibility]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Android 16]]></category>
+		<category><![CDATA[Google]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2980376</guid>
 
-					<description><![CDATA[<p>Less than three months until TechCrunch’s biggest AI event yet! If you’re shaping the future of AI, investing in the next game-changing innovation, or simply eager to dive deep into what’s next, TechCrunch Sessions: AI is the place to be. On June 5, Zellerbach Hall in UC Berkeley, will be buzzing with 1,200 AI experts, [&#8230;]</p>
+					<description><![CDATA[<p>Google announced on Thursday that Android phones will soon support Auracast, a new Bluetooth technology that uses a phone to enable a direct connection from hearing aids to audio broadcasts in noisy environments. With Auracast, compatible hearing aids and earbuds can receive direct audio streams, such as a PA system at a train station or [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -90,196 +147,216 @@
 		
 			</item>
 		<item>
-		<title>Xbox debuts a new AI-powered gaming companion for mobile users</title>
-		<link>https://techcrunch.com/2025/03/13/xbox-debuts-a-new-ai-powered-gaming-companion/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Gaming]]></category>
-		<category><![CDATA[video games]]></category>
-		<category><![CDATA[xbox]]></category>
-		<category><![CDATA[Microsoft Copilot]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2980014</guid>
-
-					<description><![CDATA[<p>Ahead of the Game Developer’s Conference (GDC), Xbox revealed on Thursday that it’s experimenting with an AI-powered gaming sidekick. &#8220;Copilot for Gaming,&#8221; powered by Microsoft’s AI technology, is a voice-activated assistant designed to enhance the gaming experience and is designed to answer questions, complete tasks, and even criticize if you’re playing poorly.&#160; “It can trash [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple’s appeal against UK’s secret iCloud backdoor order must be held in public, rights groups urge</title>
-		<link>https://techcrunch.com/2025/03/13/apples-appeal-against-uks-secret-icloud-backdoor-order-must-be-held-in-public-rights-groups-urge/</link>
-		
-		<dc:creator><![CDATA[Natasha Lomas]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 14:56:59 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[icloud backdoor order]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2980007</guid>
-
-					<description><![CDATA[<p>Privacy rights groups have called on Apple&#8217;s legal challenge to a secret U.K. government order asking it to backdoor an end-to-end encrypted (E2EE) version of its iCloud storage service to be heard in public, rather than behind closed doors. The existence of the order emerged via press reports last month. Apple went on to confirm [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Spotify launches a program to publish audiobooks from independent authors</title>
-		<link>https://techcrunch.com/2025/03/13/spotify-launches-a-program-to-publish-audiobooks-from-independent-authors/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 14:53:01 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[audiobooks]]></category>
-		<category><![CDATA[Spotify]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2980006</guid>
-
-					<description><![CDATA[<p>In an expansion of its existing audiobook efforts, Spotify on Thursday announced the launch of a new publishing program for authors that allows them to submit short-form stories they&#8217;d like to see turned into audiobooks. When Spotify selects a story for audiobook publishing, it will handle the production and distribution of the work to other [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI calls for US government to codify &#8216;fair use&#8217; for AI training</title>
-		<link>https://techcrunch.com/2025/03/13/openai-calls-for-u-s-government-to-codify-fair-use-for-ai-training/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 14:23:01 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[copyright]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2979990</guid>
-
-					<description><![CDATA[<p>In a proposal for the U.S. government&#8217;s &#8220;AI Action Plan,&#8221; the Trump Administration&#8217;s initiative to reshape American AI policy, OpenAI called for a U.S. copyright strategy that &#8220;[preserves] American AI models&#8217; ability to learn from copyrighted material.&#8221; &#8220;America has so many AI startups, attracts so much investment, and has made so many research breakthroughs largely [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Huawei&#8217;s lobbying lands it in a bribery scandal with EU politicians</title>
-		<link>https://techcrunch.com/2025/03/13/huaweis-lobbying-lands-it-in-a-bribery-scandal-with-eu-politicians/</link>
-		
-		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 13:57:32 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Huawei]]></category>
-		<category><![CDATA[lobbying]]></category>
-		<category><![CDATA[Scandal]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2979958</guid>
-
-					<description><![CDATA[<p>Huawei is at the center of a fresh scandal in Europe, following reports that lobbyists representing the Chinese tech titan bribed members of the European Parliament (MEPs) to curry favor with lawmakers. After being cast out of the U.S. market over fears that its telecommunications equipment could be infiltrated by the Chinese government for nefarious [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>UiPath is looking for a path to growth in agentic AI with its Peak.ai acquisition</title>
-		<link>https://techcrunch.com/2025/03/13/uipath-is-looking-for-a-path-to-growth-in-agentic-ai-with-its-peak-ai-acquisition/</link>
-		
-		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 13:00:45 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[agentic ai]]></category>
-		<category><![CDATA[Automation]]></category>
-		<category><![CDATA[peak.ai]]></category>
-		<category><![CDATA[RPA]]></category>
-		<category><![CDATA[uipath]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2979977</guid>
-
-					<description><![CDATA[<p>UiPath has acquired Peak.ai, a startup out of Manchester that builds “decision-making” pricing and inventory management AI solutions.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Omni raises $69M to design tools that help companies better analyze their data</title>
-		<link>https://techcrunch.com/2025/03/13/omni-is-designing-tools-to-help-companies-make-data-driven-decisions/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Omni]]></category>
-		<category><![CDATA[data analytics]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2978401</guid>
-
-					<description><![CDATA[<p>Employees at many companies today are expected to make decisions through careful data analysis, but the tools they need to do it are clunky, slow or — in some cases — don&#8217;t exist. That&#8217;s according to Colin Zima, the CEO of Omni, a business intelligence (BI) platform that aims to help organizations simplify how they [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Skich launches an alternative app store on iOS in the EU</title>
-		<link>https://techcrunch.com/2025/03/13/skich-challenges-epic-games-with-an-alternative-app-store-on-ios-in-the-eu/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Gaming]]></category>
-		<category><![CDATA[alternative app store]]></category>
-		<category><![CDATA[iOS]]></category>
-		<category><![CDATA[mobile games]]></category>
-		<category><![CDATA[Startups]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2979559</guid>
-
-					<description><![CDATA[<p>Skich, a Tinder-like app for discovering mobile games, announced Thursday the launch of a new marketplace to put it in closer competition with alternative game stores like Aptoide and Epic Games. Skich Store, a new alternative mobile games store, will be available for iOS users in the European Union. The company plans to begin adding [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ClickUp is launching a revamped calendar tool for task and meeting management</title>
-		<link>https://techcrunch.com/2025/03/13/clickup-is-launching-a-revamped-calendar-tool-for-task-and-meeting-management/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2979907</guid>
-
-					<description><![CDATA[<p>Productivity platform ClickUp launched a revamped calendar tool that integrates tasks, docs, chats, and meetings in one place. The most interesting features of the calendar are an integrated AI meeting notetaker and AI-powered time blocking for tasks. ClickUp already had a calendar product, but it was focused more on team management and scheduling. Last year, [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meta is launching Community Notes in the US next week</title>
-		<link>https://techcrunch.com/2025/03/13/meta-is-launching-community-notes-in-the-us-next-week/</link>
+		<title>Y Combinator urges the White House to support Europe&#8217;s Digital Markets Act</title>
+		<link>https://techcrunch.com/2025/03/13/y-combinator-urges-the-white-house-to-support-europes-digital-markets-act/</link>
 		
 		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 12:05:00 +0000</pubDate>
+		<pubDate>Thu, 13 Mar 2025 20:49:21 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[DMA]]></category>
+		<category><![CDATA[Y Combinator]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2980284</guid>
+
+					<description><![CDATA[<p>Y Combinator, one of the world&#8217;s most prolific startup accelerators, sent a letter on Wednesday urging the Trump administration to openly support Europe&#8217;s Digital Markets Act (DMA), a wide-ranging piece of legislation that aims to crack open Big Tech&#8217;s market power. The DMA designates six tech companies as &#8220;gatekeepers&#8221; to the internet — Alphabet, Amazon, [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Oracle is reportedly a top choice for helping run TikTok</title>
+		<link>https://techcrunch.com/2025/03/13/oracle-is-reportedly-a-top-choice-for-storing-u-s-tiktok-user-data/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Thu, 13 Mar 2025 19:55:07 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[oracle]]></category>
+		<category><![CDATA[TikTok]]></category>
+		<category><![CDATA[TikTok Ban]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2980354</guid>
+
+					<description><![CDATA[<p>TikTok has until April to finalize a sale to a U.S.-based buyer, yet uncertainties about the future of the short-form video app remain. However, a new report has emerged, suggesting that Oracle is the leading candidate to serve as the cloud technology partner for managing TikTok in the U.S., according to The Information.  Sources including [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Bluesky quickly sold out of the T-shirt its CEO wore to troll Mark Zuckerberg</title>
+		<link>https://techcrunch.com/2025/03/13/bluesky-quickly-sold-out-of-the-t-shirt-its-ceo-wore-to-troll-mark-zuckerberg/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Thu, 13 Mar 2025 19:19:58 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[Bluesky]]></category>
+		<category><![CDATA[jay graber]]></category>
+		<category><![CDATA[SXSW]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2980295</guid>
+
+					<description><![CDATA[<p>When Bluesky CEO Jay Graber took the SXSW stage this week, she managed to make fun of Mark Zuckerberg without mentioning Meta at all. Her black T-shirt was emblazoned with black text stretching across the chest and sleeves, similar to the style of a T-shirt that the billionaire founder wore at an event last year. [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google calls for weakened copyright and export rules in AI policy proposal</title>
+		<link>https://techcrunch.com/2025/03/13/google-calls-for-weakened-copyright-and-export-rules-in-ai-policy-proposal/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 13 Mar 2025 19:11:20 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[policy]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2980289</guid>
+
+					<description><![CDATA[<p>Google, following on the heels of OpenAI, published a policy proposal in response to the Trump administration&#8217;s call for a national &#8220;AI Action Plan.&#8221; The tech giant endorsed weak copyright restrictions on AI training, as well as &#8220;balanced&#8221; export controls that &#8220;protect national security while enabling U.S. exports and global business operations.&#8221; &#8220;The U.S. needs [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Move over, Apple: Meet the alternative app stores coming to the EU</title>
+		<link>https://techcrunch.com/2025/03/13/move-over-apple-meet-the-alternative-app-stores-coming-to-the-eu/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Thu, 13 Mar 2025 19:05:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[alternative app stores]]></category>
+		<category><![CDATA[altstore]]></category>
+		<category><![CDATA[app stores]]></category>
+		<category><![CDATA[aptoide]]></category>
+		<category><![CDATA[Epic Games]]></category>
+		<category><![CDATA[epic games store]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2838099</guid>
+
+					<description><![CDATA[<p>A list of some of the alternative app stores iPhone users in the EU can try today. </p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Amazon is still hosting stalkerware victims&#8217; data weeks after breach alert</title>
+		<link>https://techcrunch.com/2025/03/13/amazon-is-still-hosting-stalkerware-victims-data-weeks-after-breach-alert/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Thu, 13 Mar 2025 19:05:00 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Amazon Web Services]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Spyware]]></category>
+		<category><![CDATA[stalkerware]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2980270</guid>
+
+					<description><![CDATA[<p>Amazon won't say if it will stop hosting data from three phone surveillance operations that spilled private data on millions of people.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ex-Twitter AI ethics lead Rumman Chowdhury is worried about Musk&#8217;s impact on the federal government</title>
+		<link>https://techcrunch.com/2025/03/13/ex-twitter-ai-ethics-lead-rumman-chowdhury-is-worried-about-musks-impact-on-the-federal-government/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 13 Mar 2025 18:30:41 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Rumman Chowdhury]]></category>
+		<category><![CDATA[SXSW]]></category>
+		<category><![CDATA[X]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2980156</guid>
+
+					<description><![CDATA[<p>Rumman Chowdhury, a data scientist, nonprofit founder, and former director of Twitter&#8217;s machine ethics team, had strong words for Elon Musk and the Department of Government Efficiency (DOGE) during a panel at SXSW on Thursday. &#8220;When your funding is frozen and you don&#8217;t know if you&#8217;re gonna be fired, and there&#8217;s this, like, absolutely unhinged [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Minimalist Light Phone III launches March 27</title>
+		<link>https://techcrunch.com/2025/03/13/minimalist-light-phone-iii-launches-march-27/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Thu, 13 Mar 2025 18:15:20 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[hardware]]></category>
+		<category><![CDATA[Light Phone]]></category>
+		<category><![CDATA[Phone]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2980190</guid>
+
+					<description><![CDATA[<p>Light, the maker of a minimalist phone designed to help consumers disconnect from smartphone distractions and social media, will launch its newest model, the Light Phone III, on March 27. This version of the device, like its older counterpart, offers a simple black-and-white display and necessary features like support for calls, texts, navigation, alarms, hotspots, [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>10 startups to watch from Y Combinator&#8217;s W25 Demo Day</title>
+		<link>https://techcrunch.com/2025/03/13/10-startups-to-watch-from-y-combinators-w25-demo-day/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff, Charles Rollet]]></dc:creator>
+		<pubDate>Thu, 13 Mar 2025 17:59:58 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Y Combinator]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2979846</guid>
+
+					<description><![CDATA[<p>One of Silicon Valley&#8217;s most storied startup accelerators, Y Combinator, held its Winter 2025 Demo Day on Wednesday, showcasing what its latest batch of 160 startups are cooking up. Some of Silicon Valley&#8217;s most successful startups &#8212; including Stripe, Airbnb, and Reddit &#8212; started out in a YC batch. Today, YC&#8217;s newer startups are focused [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>FBI, EPA, and Treasury told Citibank to freeze funds as Trump administration tries to claw back climate money</title>
+		<link>https://techcrunch.com/2025/03/13/fbi-epa-and-treasury-told-citibank-to-freeze-funds-as-trump-administration-tries-to-claw-back-climate-money/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Thu, 13 Mar 2025 17:54:35 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Environmental Protection Agency]]></category>
+		<category><![CDATA[green bank]]></category>
+		<category><![CDATA[inflation reduction act]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2979566</guid>
+
+					<description><![CDATA[<p>The accounts were frozen in February, but documents filed today make public details which had previously been unknown.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Facebook now lets creators get paid for views on stories</title>
+		<link>https://techcrunch.com/2025/03/13/facebook-now-lets-creators-get-paid-for-views-on-stories/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Thu, 13 Mar 2025 17:01:28 +0000</pubDate>
 				<category><![CDATA[Apps]]></category>
 		<category><![CDATA[Social]]></category>
 		<category><![CDATA[Facebook]]></category>
-		<category><![CDATA[Instagram]]></category>
-		<category><![CDATA[Mark Zuckerberg]]></category>
-		<category><![CDATA[Meta]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2979415</guid>
+		<category><![CDATA[stories]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2980000</guid>
 
-					<description><![CDATA[<p>Next week, Meta will begin one of the company&#8217;s most significant overhauls ever for how it fact-checks information on its platforms. On March 18, Meta will start releasing its version of Community Notes for Facebook, Instagram, and Threads users in the United States. The program copies a crowdsourced fact-checking system that Twitter unveiled in 2021 [&#8230;]</p>
+					<description><![CDATA[<p>Facebook is rolling out the ability for creators to earn money for views on public stories. The new monetization option is available globally to creators who are part of the Facebook Content Monetization program. With this new monetization option, creators can earn money from content that they are already producing and sharing if they post [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -287,23 +364,21 @@
 		
 			</item>
 		<item>
-		<title>Singapore grants bail for Nvidia chip smugglers in alleged $390M fraud</title>
-		<link>https://techcrunch.com/2025/03/13/singapore-grants-bail-for-nvidia-chip-smugglers-in-alleged-390m-fraud/</link>
+		<title>Apple’s Lockdown Mode is good for security — but its notifications are baffling</title>
+		<link>https://techcrunch.com/2025/03/13/apples-lockdown-mode-is-good-for-security-but-its-notifications-are-baffling/</link>
 		
-		<dc:creator><![CDATA[Kate Park]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 11:01:48 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[Dell]]></category>
-		<category><![CDATA[malaysia]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<category><![CDATA[Singapore]]></category>
-		<category><![CDATA[Super Micro]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2979939</guid>
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Thu, 13 Mar 2025 16:50:21 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[lockdown mode]]></category>
+		<category><![CDATA[privacy]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2980067</guid>
 
-					<description><![CDATA[<p>A judge in Singapore granted bail to three men suspected of deceiving suppliers of server computers that may contain Nvidia chips affected by U.S. export rules that bar the sale of them to certain countries, as a route to halting them being sold to organizations in China. The move comes nearly two weeks after the [&#8230;]</p>
+					<description><![CDATA[<p>Lockdown Mode is an "extreme protection" feature that's good for at-risk users, but its notifications are increasingly confusing. </p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -311,119 +386,38 @@
 		
 			</item>
 		<item>
-		<title>Bria lands new funding for AI models trained on licensed data</title>
-		<link>https://techcrunch.com/2025/03/13/bria-lands-new-funding-for-ai-models-trained-on-licensed-data/</link>
+		<title>Meghan Markle is launching a podcast about female founders</title>
+		<link>https://techcrunch.com/2025/03/13/meghan-markle-is-launching-a-podcast-about-female-founders/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Thu, 13 Mar 2025 16:49:10 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[female founders]]></category>
+		<category><![CDATA[Meghan Markle]]></category>
+		<category><![CDATA[podcasts]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2980124</guid>
+
+					<description><![CDATA[<p>Meghan Markle is launching a new podcast entitled “Confessions of a Female Founder,” which will hear the duchess talking about her entrepreneurial journey. It will also feature talks with other female founders about the reality of building a business, according to People magazine. The show will premiere April 8th on Lemonada Media and will have [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI calls DeepSeek &#8216;state-controlled,&#8217; calls for bans on &#8216;PRC-produced&#8217; models</title>
+		<link>https://techcrunch.com/2025/03/13/openai-calls-deepseek-state-controlled-calls-for-bans-on-prc-produced-models/</link>
 		
 		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2978100</guid>
+		<pubDate>Thu, 13 Mar 2025 16:21:30 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[deepseek]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[policy]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2980054</guid>
 
-					<description><![CDATA[<p>AI-powered image generators, which are at the center of a number of copyright lawsuits against AI companies, are frequently trained on massive amounts of data from public websites. Most of these companies argue that&#160;fair use doctrine&#160;shields their data scraping and training practices. But many copyright holders disagree.&#160; That&#8217;s why some startups and firms developing image [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Crypto wallet integrated with Telegram introduces crypto trading and yield features</title>
-		<link>https://techcrunch.com/2025/03/13/telegram-introduces-trading-and-yield-features-for-its-self-custodial-crypto-wallet/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 10:14:56 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Crypto]]></category>
-		<category><![CDATA[crypto trading]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[Telegram]]></category>
-		<category><![CDATA[Wallet]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2979926</guid>
-
-					<description><![CDATA[<p>Telegram&#8217;s crypto wallet, developed by a third-party company called The Open Platform (TOP), has introduced new features for people who don&#8217;t just use Telegram as a messaging app. The updates include multi-asset trading and yield functionalities. Based on the TON blockchain, TOP launched the wallet in 2023. The company reported that over 100 million users [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Could deeptech serve as Europe&#8217;s  path to autonomy from the US?</title>
-		<link>https://techcrunch.com/2025/03/13/could-europes-16b-deeptech-bet-be-a-path-to-autonomy-from-the-us/</link>
-		
-		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 09:00:00 +0000</pubDate>
-				<category><![CDATA[Venture]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[deeptech]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2979883</guid>
-
-					<description><![CDATA[<p>Amidst geopolitical tensions and volatile markets, the question of Europe&#8217;s ability to weather the storms ahead, especially as President Trump seems intent on having his pound of tariffs from the continent, is looming large. But an extensive new report claims deeptech is poised to become a key pillar of Europe&#8217;s security, defense, and future autonomy, [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Xiaomi to preinstall PhonePe&#8217;s app store on smartphones sold in India</title>
-		<link>https://techcrunch.com/2025/03/13/xiaomi-to-preinstall-phonepes-app-store-on-smartphones-sold-in-india/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 08:10:20 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Gadgets]]></category>
-		<category><![CDATA[alternative app stores]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[Google Play Store]]></category>
-		<category><![CDATA[PhonePe]]></category>
-		<category><![CDATA[Xiaomi]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2979910</guid>
-
-					<description><![CDATA[<p>Chinese smartphone maker Xiaomi said on Thursday that its Android smartphones sold in India will come preinstalled with Indian fintech company PhonePe&#8217;s app store. Xiaomi&#8217;s Android smartphones usually come preinstalled with Google&#8217;s Play Store and the Chinese company&#8217;s own GetApps. Xiaomi said that it has signed a multi-year deal with PhonePe to replace GetApps with [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Estonia-based Blackwall raises €45 million Series B to protect SMBs from malicious online traffic</title>
-		<link>https://techcrunch.com/2025/03/12/estonia-based-blackwall-raises-e45-million-series-b-to-protect-smbs-from-malicious-online-traffic/</link>
-		
-		<dc:creator><![CDATA[Anna Heim]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 06:59:00 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Dawn Capital]]></category>
-		<category><![CDATA[estonia]]></category>
-		<category><![CDATA[SMBs]]></category>
-		<category><![CDATA[Blackwall]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2979543</guid>
-
-					<description><![CDATA[<p>A huge chunk of online traffic now comes from bots, both good and bad — but AI is boosting the latter. From DDoS attacks to scraping, there’s a renewed barrage of threats that companies have to deal with. According to cybersecurity entrepreneur Nikita Rozenberg, the impact is more severe for SMBs. “The main difference is [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Vento rolls out new €75M fund for Italian founders, no matter where they live</title>
-		<link>https://techcrunch.com/2025/03/12/vento-hopes-new-e75m-fund-for-italian-founders-anywhere-will-kick-italys-ecosystem-into-life/</link>
-		
-		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 06:00:00 +0000</pubDate>
-				<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Italy]]></category>
-		<category><![CDATA[VC]]></category>
-		<category><![CDATA[venture]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2979829</guid>
-
-					<description><![CDATA[<p>Over the last 15 years or so, as European venture capital shifted into a higher gear, one way to help a nation&#8217;s ecosystem flourish was to invest in founders from that country, regardless of where they were based. This would help re-patriate the entrepreneurial mindset back home. In Europe, the approach was pioneered in part [&#8230;]</p>
+					<description><![CDATA[<p>In a new policy proposal, OpenAI describes Chinese AI lab DeepSeek as &#8220;state-subsidized&#8221; and &#8220;state-controlled,&#8221; and recommends that the U.S. government consider banning models from the outfit and similar People&#8217;s Republic of China (PRC)-supported operations. The proposal, a submission for the Trump administration&#8217;s &#8220;AI Action Plan&#8221; initiative, claims that DeepSeek&#8217;s models, including its R1 &#8220;reasoning&#8221; model, [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
