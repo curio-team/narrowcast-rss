@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 17 Mar 2025 11:22:57 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 Mar 2025 13:04:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,45 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Roblox releases its open-source model that can create 3D objects using AI</title>
+		<link>https://techcrunch.com/2025/03/17/roblox-releases-its-open-source-model-that-can-create-3d-objects-using-ai/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Mon, 17 Mar 2025 13:30:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[3d]]></category>
+		<category><![CDATA[Roblox]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2981320</guid>
+
+					<description><![CDATA[<p>Roblox announced Monday that it’s launching the first iteration of its 3D model, dubbed “Cube,” to allow creators to create 3D objects using generative AI. The company also launched an open-source version so anyone off the platform can build on it. Announced last year at Roblox’s annual developer conference, the company is demoing Cube at [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Discord launches SDK to help developers enhance social experiences in their games</title>
+		<link>https://techcrunch.com/2025/03/17/discord-launches-sdk-to-help-developers-enhance-social-experiences-in-their-games/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Mon, 17 Mar 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[discord]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2980702</guid>
+
+					<description><![CDATA[<p>Discord on Monday announced the launch of its Discord Social SDK, a free toolkit that allows developers to leverage the platform&#8217;s social infrastructure to enhance their games&#8217; social and multiplayer experiences. The toolkit allows developers to improve their in-game experiences, whether players have a Discord account or not. Social integrations include a unified friends list [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>UK’s internet watchdog puts storage and file-sharing services on watch over CSAM</title>
 		<link>https://techcrunch.com/2025/03/17/uks-internet-watchdog-puts-storage-and-file-sharing-services-on-watch-over-csam/</link>
 		
@@ -377,47 +416,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2981086</guid>
 
 					<description><![CDATA[<p>SpaceX successfully launched four people into space on Friday, beginning a mission that will give the International Space Station enough crew members to allow astronauts Suni Williams and Butch Wilmore to return to Earth after their nine-month stay. The mission, known as Crew-10, will see SpaceX&#8217;s Dragon spacecraft dock with the International Space Station (ISS) [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Skype is shutting down in May — these are the best alternatives</title>
-		<link>https://techcrunch.com/2025/03/15/skype-shuts-down-in-may-these-are-the-best-alternatives/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Sat, 15 Mar 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Skype]]></category>
-		<category><![CDATA[zoom]]></category>
-		<category><![CDATA[video calling]]></category>
-		<category><![CDATA[Microsoft Teams]]></category>
-		<category><![CDATA[google meet]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2975060</guid>
-
-					<description><![CDATA[<p>After 23 years of connecting people around the world, Skype, the popular video-calling service, is shutting down. Microsoft, the parent company, confirmed that the official sunset date for the service is May 5, 2025. Skype users can either migrate all their contacts and chat data to Microsoft Teams, or they can choose to download their [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Republican Congressman Jim Jordan asks Big Tech if Biden tried to censor AI</title>
-		<link>https://techcrunch.com/2025/03/14/republican-congressman-jim-jordan-asks-big-tech-if-biden-tried-to-censor-ai/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Fri, 14 Mar 2025 22:12:09 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[ai censorship]]></category>
-		<category><![CDATA[big tech]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2980896</guid>
-
-					<description><![CDATA[<p>On Thursday, House Judiciary Chair Jim Jordan (R-OH) sent letters to 16 American technology firms, including Google and OpenAI, asking for past communications with the&#160;Biden administration that might suggest the former president &#8220;coerced or colluded&#8221; with companies to &#8220;censor lawful speech&#8221; in AI products. The Trump administration&#8217;s top technology advisors previously signaled they would pick [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
