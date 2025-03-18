@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 18 Mar 2025 03:52:27 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Mar 2025 09:32:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,19 +28,40 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>GrubMarket raises $50M at a $3.5B+ valuation to build AI for the $1 trillion food distribution industry</title>
+		<link>https://techcrunch.com/2025/03/18/grubmarket-raises-50m-at-a-3-5b-valuation-to-build-ai-for-the-1-trillion-food-distribution-industry/</link>
+		
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+		<pubDate>Tue, 18 Mar 2025 09:05:21 +0000</pubDate>
+				<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[food distribution]]></category>
+		<category><![CDATA[GrubMarket]]></category>
+		<category><![CDATA[logistics]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2982229</guid>
+
+					<description><![CDATA[<p>U.S. President Trump’s wide-ranging tariff hikes are already resulting in growth forecasts being cut amid other uncertainty — actions that will inevitably impact the technology sector, too. Today, however, one food e-commerce startup, GrubMarket, is announcing a new equity round of $50 million on a raised valuation of over $3.5 billion — a signal of [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Google, Speedinvest back Kenya’s Leta, which uses AI to make logistics cheaper</title>
 		<link>https://techcrunch.com/2025/03/18/google-speedinvest-back-kenyas-leta-which-uses-ai-to-make-logistics-cheaper/</link>
 		
 		<dc:creator><![CDATA[Tage Kene-Okafor]]></dc:creator>
 		<pubDate>Tue, 18 Mar 2025 08:15:00 +0000</pubDate>
 				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[Google]]></category>
 		<category><![CDATA[Africa]]></category>
-		<category><![CDATA[speedinvest]]></category>
-		<category><![CDATA[logistics]]></category>
-		<category><![CDATA[Leta]]></category>
 		<category><![CDATA[AI-powered logistics]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Leta]]></category>
+		<category><![CDATA[logistics]]></category>
+		<category><![CDATA[speedinvest]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2981565</guid>
 
 					<description><![CDATA[<p>African businesses pay up to four times the global average to transport goods. Nairobi-based logistics SaaS provider Leta wants to change that.</p>
@@ -400,26 +421,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2981458</guid>
 
 					<description><![CDATA[<p>TikTok is introducing a new &#8220;Security Checkup&#8221; tool that allows users to quickly review and update their account&#8217;s security settings from a single screen, the company announced on Monday. The feature is similar to Security Checkup tools offered by TikTok rival Instagram and tech giant Google. Users can access the new tool from their profile [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers are exploiting Fortinet firewall bugs to plant ransomware</title>
-		<link>https://techcrunch.com/2025/03/17/hackers-are-exploiting-fortinet-firewall-bugs-to-plant-ransomware/</link>
-		
-		<dc:creator><![CDATA[Carly Page]]></dc:creator>
-		<pubDate>Mon, 17 Mar 2025 15:58:18 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[Fortinet]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2981520</guid>
-
-					<description><![CDATA[<p>Security researchers say that a threat actor it calls Mora_001 has ‘close ties’ to the Russia-linked hacking group</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
