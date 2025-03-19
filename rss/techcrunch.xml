@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 19 Mar 2025 09:06:07 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Mar 2025 10:37:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,28 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Aletiq secures $6.5M for its SaaS tool focused on product lifecycle management</title>
+		<link>https://techcrunch.com/2025/03/19/aletiq-secures-65m-for-its-saas-tool-focused-on-product-lifecycle-management/</link>
+		
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2025 10:36:55 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Aletiq]]></category>
+		<category><![CDATA[PLM]]></category>
+		<category><![CDATA[SaaS]]></category>
+		<category><![CDATA[vertical SaaS]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2983256</guid>
+
+					<description><![CDATA[<p>Aletiq has raised a €6 million funding round led by Point Nine a few months ago (around $6.5 million at current exchange rates). The French startup is announcing the founding round today. Aletiq has been developing product lifecycle management (PLM) software for manufacturing industrial companies working in aerospace, automotive, electronics, luxury and more. When you [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Factorial, a HR unicorn, snaps up $120M from General Catalyst to boost sales and marketing</title>
 		<link>https://techcrunch.com/2025/03/19/factorial-snaps-up-120m-from-general-catalyst-to-boost-its-hr-sales-and-marketing/</link>
 		
@@ -326,7 +348,7 @@
 		<category><![CDATA[wiz]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2982583</guid>
 
-					<description><![CDATA[<p>Tuesday&#8217;s big news that Google is acquiring security startup Wiz for a record-breaking $32 billion comes with a very big qualifier. Google says it will position Wiz as a “multicloud” offering, meaning Wiz will not be a Google-only shop.&#160; The reality is that Google had no choice but to do this, and a closer look [&#8230;]</p>
+					<description><![CDATA[<p>Tuesday&#8217;s big news that Google is acquiring security startup Wiz for a record-breaking $32 billion comes with a very big qualifier. Google says it will position Wiz as a “multicloud” offering, meaning Wiz will not be a Google-only shop.  The reality is that Google had no choice but to do this, and a closer look [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -405,25 +427,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2982532</guid>
 
 					<description><![CDATA[<p>It looks like a Pebble, it works like a Pebble, but don’t call it a Pebble. Eric Migicovsky, the original creator of the Pebble smartwatch, just unveiled two new smartwatches — called the Core 2 Duo and the Core Time 2. These spiritual successors to the Pebble smartwatches are available for preorder, costing $149 and [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Stability AI&#8217;s new AI model turns photos into 3D scenes</title>
-		<link>https://techcrunch.com/2025/03/18/stability-ais-new-ai-model-turns-photos-into-3d-scenes/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 18 Mar 2025 16:43:02 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Stability AI]]></category>
-		<category><![CDATA[stable virtual camera]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2982460</guid>
-
-					<description><![CDATA[<p>Stability AI has released a new AI model, Stable Virtual Camera, that the company claims can transform 2D images into &#8220;immersive&#8221; videos with realistic depth and perspective. Virtual cameras are tools often used in digital filmmaking and 3D animation to capture and navigate scenes in real time. With Stable Virtual Camera, Stability sought to add [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
