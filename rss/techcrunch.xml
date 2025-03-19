@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 19 Mar 2025 11:57:54 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Mar 2025 12:57:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Agentic AI startup AMT aims to be &#8216;Google Adwords for influencers,&#8217; raises seed round</title>
+		<link>https://techcrunch.com/2025/03/19/agentic-ai-startup-amt-aims-to-be-google-adwords-for-influencers-raises-seed-round/</link>
+		
+		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2025 12:49:00 +0000</pubDate>
+				<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[influencers]]></category>
+		<category><![CDATA[Marketing]]></category>
+		<category><![CDATA[social media]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2983280</guid>
+
+					<description><![CDATA[<p>Booking an ad campaign with social media influencers is currently not exactly easy. For starters, influencers&#8217; approaches to marketing can be unconventional, and there&#8217;s no standard way to engage with them. On the other side, marketing agencies that employ hosts of people to book and track brand campaigns are limited by how many influencers they [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Researchers name several countries as potential Paragon spyware customers</title>
 		<link>https://techcrunch.com/2025/03/19/researchers-name-several-countries-as-potential-paragon-spyware-customers/</link>
 		
@@ -39,11 +60,11 @@
 		<category><![CDATA[Canada]]></category>
 		<category><![CDATA[Israel]]></category>
 		<category><![CDATA[Italy]]></category>
+		<category><![CDATA[paragon]]></category>
+		<category><![CDATA[Paragon Solutions]]></category>
 		<category><![CDATA[privacy]]></category>
 		<category><![CDATA[Spyware]]></category>
 		<category><![CDATA[surveillance]]></category>
-		<category><![CDATA[paragon]]></category>
-		<category><![CDATA[Paragon Solutions]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2982769</guid>
 
 					<description><![CDATA[<p>The Citizen Lab said it believes several governments may be customers of spyware maker Paragon Solutions. </p>
@@ -411,26 +432,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2982607</guid>
 
 					<description><![CDATA[<p>General Motors is turning to Nvidia to help bring AI to the physical world in an expanded collaboration designed to touch every aspect of the automaker’s business, including factories, robots, and self-driving cars.&#160; Nvidia founder and CEO Jensen Huang, who announced the partnership Tuesday during his keynote at the company’s GTC conference in San Jose, [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nvidia debuts Groot N1, a foundation model for humanoid robotics</title>
-		<link>https://techcrunch.com/2025/03/18/nvidia-debuts-groot-n1-a-foundation-model-for-humanoid-robotics/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 18 Mar 2025 19:17:46 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[Groot N1]]></category>
-		<category><![CDATA[GTC]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2982712</guid>
-
-					<description><![CDATA[<p>Nvidia is releasing what it&#8217;s calling an AI foundation model for humanoid robotics. Announced at GTC 2025 in San Jose, the model, dubbed Groot N1, is a &#8220;generalist&#8221; model, trained on both synthetic and real data. In a video introducing Groot N1, Nvidia says it features a &#8220;dual-system architecture&#8221; for &#8220;thinking fast and slow,&#8221; inspired [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
