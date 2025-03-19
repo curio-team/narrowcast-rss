@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 19 Mar 2025 10:57:46 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Mar 2025 11:57:54 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,49 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Researchers name several countries as potential Paragon spyware customers</title>
+		<link>https://techcrunch.com/2025/03/19/researchers-name-several-countries-as-potential-paragon-spyware-customers/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2025 12:01:00 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Australia]]></category>
+		<category><![CDATA[Canada]]></category>
+		<category><![CDATA[Israel]]></category>
+		<category><![CDATA[Italy]]></category>
+		<category><![CDATA[privacy]]></category>
+		<category><![CDATA[Spyware]]></category>
+		<category><![CDATA[surveillance]]></category>
+		<category><![CDATA[paragon]]></category>
+		<category><![CDATA[Paragon Solutions]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2982769</guid>
+
+					<description><![CDATA[<p>The Citizen Lab said it believes several governments may be customers of spyware maker Paragon Solutions. </p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Shopify transfers its US listing from the NYSE to the Nasdaq</title>
+		<link>https://techcrunch.com/2025/03/19/shopify-transfers-its-us-listing-from-the-nyse-to-the-nasdaq/</link>
+		
+		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2025 11:37:18 +0000</pubDate>
+				<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[Shopify]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2983255</guid>
+
+					<description><![CDATA[<p>Nearly 10 years after filing to go public on the New York Stock Exchange (NYSE) and Toronto Stock Exchange, Canadian e-commerce platform Shopify has announced that it&#8217;s transitioning its U.S. listing to the Nasdaq. In a filing with the Securities and Exchange Commission (SEC) on Wednesday, Shopify said it is removing its Class A shares [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Academics accuse AI startups of co-opting peer review for publicity</title>
 		<link>https://techcrunch.com/2025/03/19/academics-accuse-ai-startups-of-co-opting-peer-review-for-publicity/</link>
 		
@@ -388,45 +431,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2982712</guid>
 
 					<description><![CDATA[<p>Nvidia is releasing what it&#8217;s calling an AI foundation model for humanoid robotics. Announced at GTC 2025 in San Jose, the model, dubbed Groot N1, is a &#8220;generalist&#8221; model, trained on both synthetic and real data. In a video introducing Groot N1, Nvidia says it features a &#8220;dual-system architecture&#8221; for &#8220;thinking fast and slow,&#8221; inspired [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Here’s why Google pitched its $32B Wiz acquisition as &#8216;multicloud&#8217;</title>
-		<link>https://techcrunch.com/2025/03/18/heres-why-google-pitched-its-32b-wiz-acquisition-as-multicloud/</link>
-		
-		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
-		<pubDate>Tue, 18 Mar 2025 19:14:48 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[wiz]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2982583</guid>
-
-					<description><![CDATA[<p>Tuesday&#8217;s big news that Google is acquiring security startup Wiz for a record-breaking $32 billion comes with a very big qualifier. Google says it will position Wiz as a “multicloud” offering, meaning Wiz will not be a Google-only shop.  The reality is that Google had no choice but to do this, and a closer look [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Blackwell Ultra, Vera Rubin, and Feynman are Nvidia&#8217;s next GPUs</title>
-		<link>https://techcrunch.com/2025/03/18/nvidia-announces-new-gpus-at-gtc-2025-including-rubin/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 18 Mar 2025 18:40:14 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[GPUS]]></category>
-		<category><![CDATA[GTC]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2982530</guid>
-
-					<description><![CDATA[<p>Onstage at Nvidia&#8217;s GTC 2025 conference in San Jose on Tuesday, CEO Jensen Huang announced a slew of new GPUs coming down the company&#8217;s product pipeline over the next few months. Perhaps the most significant is Vera Rubin. Vera Rubin, which is set to be released in the second half of 2026, will feature tens [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
