@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 19 Mar 2025 15:32:40 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Mar 2025 07:41:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,386 +28,16 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>EU sends Apple first DMA interoperability instructions for apps and connected devices</title>
-		<link>https://techcrunch.com/2025/03/19/eu-sends-apple-first-dma-interoperability-instructions-for-apps-and-connected-devices/</link>
-		
-		<dc:creator><![CDATA[Natasha Lomas, Romain Dillet]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 15:28:18 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Gadgets]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[apple dma]]></category>
-		<category><![CDATA[apple dma interoperability]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2983277</guid>
-
-					<description><![CDATA[<p>The European Union has sent Apple preliminary instructions on how it expects the iPhone maker to comply with interoperability provisions in the bloc’s Digital Markets Act (DMA), its flagship market contestability reform. According to the Commission, device manufacturers and app developers should be able to access nine iOS connectivity features that were restricted to Apple&#8217;s [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>‘The Last of Us’ to stream in American Sign Language on Max</title>
-		<link>https://techcrunch.com/2025/03/19/the-last-of-us-to-stream-in-american-sign-language-on-max/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 15:25:20 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[accessibility]]></category>
-		<category><![CDATA[ASL]]></category>
-		<category><![CDATA[max]]></category>
-		<category><![CDATA[streaming]]></category>
-		<category><![CDATA[the last of us]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2983340</guid>
-
-					<description><![CDATA[<p>Max announced on Wednesday that the HBO series “The Last of Us” will be available to stream in American Sign Language (ASL). Season 2 premieres on April 13. Notably, this is the first time HBO’s original content will be accessible for streaming in ASL on the service, representing a step towards inclusivity for deaf and [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>A comprehensive list of 2025 tech layoffs</title>
-		<link>https://techcrunch.com/2025/03/19/tech-layoffs-2025-list/</link>
-		
-		<dc:creator><![CDATA[Cody Corrall, Alyssa Stringer, Kate Park]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 15:17:48 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Layoffs]]></category>
-		<category><![CDATA[tech layoffs]]></category>
-		<category><![CDATA[TechCrunch 2023 Recap]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2607662</guid>
-
-					<description><![CDATA[<p>A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hugging Face&#8217;s new iOS app taps AI to describe what you&#8217;re looking at</title>
-		<link>https://techcrunch.com/2025/03/19/hugging-faces-new-ios-app-taps-ai-to-describe-what-youre-looking-at/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 15:16:42 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Hugging Face]]></category>
-		<category><![CDATA[huggingsnap]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2983337</guid>
-
-					<description><![CDATA[<p>AI startup Hugging Face has released a new app for iOS that only does one thing: uses offline, local AI to describe what&#8217;s in view of your iPhone&#8217;s camera. The app, called HuggingSnap, taps Hugging Face&#8217;s in-house vision model, smolvlm2, to analyze what your phone sees in real-time without sending data off to the cloud. [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The AI leaders bringing the AGI debate down to Earth</title>
-		<link>https://techcrunch.com/2025/03/19/the-ai-leaders-bringing-the-agi-debate-down-to-earth/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[AGI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2981045</guid>
-
-					<description><![CDATA[<p>During a recent dinner with business leaders in San Francisco, a comment I made cast a chill over the room. I hadn&#8217;t asked my dining companions anything I considered to be extremely faux pas: simply whether they thought today&#8217;s AI could someday achieve human-like intelligence (i.e. AGI) or beyond. It&#8217;s a more controversial topic than [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hunted Labs lands $3M to find suspicious open source contributors</title>
-		<link>https://techcrunch.com/2025/03/19/hunted-labs-lands-3m-to-find-suspicious-open-source-contributors/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[National Security Agency]]></category>
-		<category><![CDATA[open source software]]></category>
-		<category><![CDATA[threat management]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2982848</guid>
-
-					<description><![CDATA[<p>Former NSA deputy director George Barnes has made his first investment as a venture capitalist for his new job at the VC incubation studio Red Cell Partners. It’s a $3 million seed deal in an open source cybersecurity startup called Hunted Labs, he told TechCrunch exclusively. Barnes spent his entire 35-year career at the spy agency, [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mortgage as an employee benefit? Kleiner Perkins leads $23.5M Series A for Multiply Mortgage</title>
-		<link>https://techcrunch.com/2025/03/19/mortgage-as-an-employee-benefit-kleiner-perkins-leads-23-5m-series-a-for-multiply-mortgage/</link>
-		
-		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Kleiner Perkins]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[Multiply Mortgage]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2982922</guid>
-
-					<description><![CDATA[<p>After hitting record lows at the start of the pandemic, mortgage rates began to climb in 2022 and haven’t come down significantly since.&#160; With 30-year mortgage rates hovering at over 6.5% today (they were as low as 2.49% in 2020!), buying a home is simply not that attainable for many people. One Denver-based startup is [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google unveils redesigned $499 Pixel 9a</title>
-		<link>https://techcrunch.com/2025/03/19/google-unveils-redesigned-499-pixel-9a/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 14:38:18 +0000</pubDate>
-				<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Google Pixel]]></category>
-		<category><![CDATA[phones]]></category>
-		<category><![CDATA[pixel 9a]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2983317</guid>
-
-					<description><![CDATA[<p>Google has officially unveiled the Pixel 9a smartphone, its new midrange phone that will retail for $499. The A-series smartphone&#8217;s biggest change is its appearance, as the latest model ditches the camera bar on the back of the phone. The smartphone is getting a chip upgrade, as the new model features Google&#8217;s Tensor G4 processor, [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Zoox recalls software on 258 self-driving cars over unexpected braking</title>
-		<link>https://techcrunch.com/2025/03/19/zoox-recalls-258-self-driving-cars-over-unexpected-braking/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 14:26:34 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[avs]]></category>
-		<category><![CDATA[robotaxis]]></category>
-		<category><![CDATA[zoox]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2983312</guid>
-
-					<description><![CDATA[<p>Zoox, Amazon&#8217;s autonomous driving unit, has issued a voluntary recall for 258 vehicles due to issues with its autonomous driving system that could cause unexpected hard breaking. The recall follows a preliminary investigation from the National Highway Traffic Safety Administration (NHTSA) last May after the agency received two reports of incidents in which motorcyclists collided [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cape opens $99/month beta of its privacy-first mobile plan, inks Proton deal, raises $30M</title>
-		<link>https://techcrunch.com/2025/03/19/cape-opens-99-month-beta-of-its-privacy-first-mobile-plan-inks-proton-deal-raises-30m/</link>
-		
-		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 14:10:57 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[cape]]></category>
-		<category><![CDATA[encryption]]></category>
-		<category><![CDATA[mobile phones]]></category>
-		<category><![CDATA[Proton]]></category>
-		<category><![CDATA[SIM Swap]]></category>
-		<category><![CDATA[SS7]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2983313</guid>
-
-					<description><![CDATA[<p>Mobile networks continue to be a major target for cybersecurity breaches, and Chinese hacking group Salt Typhoon&#8216;s persistent attacks on multiple carriers are only the latest known examples.  The mobile carrier startup Cape is taking a novel approach to addressing the problem: it has built a service it says can provide a more secure, private [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Let your voice be heard! Vote for who you want to see at TechCrunch Sessions: AI</title>
-		<link>https://techcrunch.com/2025/03/19/let-your-voice-be-heard-vote-for-who-you-want-to-see-at-techcrunch-sessions-ai/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[TechCrunch Sessions: AI]]></category>
-		<category><![CDATA[TC Sessions: AI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2981651</guid>
-
-					<description><![CDATA[<p>TechCrunch Sessions: AI is nearly upon us, and you have the power to decide who you want to see lead a dynamic breakout session. We have whittled speaker applications down to six incredible finalists to take the stage on June 5 in Zellerbach Hall at UC Berkeley. Who do you want to see share their [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google now lets kids use Google Wallet for in-store payments in select countries</title>
-		<link>https://techcrunch.com/2025/03/19/google-now-lets-kids-use-google-wallet-for-in-store-payments-in-select-countries/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[google wallet]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2982582</guid>
-
-					<description><![CDATA[<p>Google announced on Wednesday that kids with Android phones can now tap to pay at stores using Google Wallet in the United States, United Kingdom, Australia, Spain, and Poland. Parents and guardians in these countries can now allow their children to access digital payments on their Android devices with supervision. Kids can also use Google [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Agentic AI startup AMT aims to be &#8216;Google Adwords for influencers,&#8217; raises seed round</title>
-		<link>https://techcrunch.com/2025/03/19/agentic-ai-startup-amt-aims-to-be-google-adwords-for-influencers-raises-seed-round/</link>
-		
-		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 12:49:00 +0000</pubDate>
-				<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[influencers]]></category>
-		<category><![CDATA[Marketing]]></category>
-		<category><![CDATA[social media]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2983280</guid>
-
-					<description><![CDATA[<p>Booking an ad campaign with social media influencers is currently not exactly easy. For starters, influencers&#8217; approaches to marketing can be unconventional, and there&#8217;s no standard way to engage with them. On the other side, marketing agencies that employ hosts of people to book and track brand campaigns are limited by how many influencers they [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Researchers name several countries as potential Paragon spyware customers</title>
-		<link>https://techcrunch.com/2025/03/19/researchers-name-several-countries-as-potential-paragon-spyware-customers/</link>
-		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 12:01:00 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[Australia]]></category>
-		<category><![CDATA[Canada]]></category>
-		<category><![CDATA[Israel]]></category>
-		<category><![CDATA[Italy]]></category>
-		<category><![CDATA[paragon]]></category>
-		<category><![CDATA[Paragon Solutions]]></category>
-		<category><![CDATA[privacy]]></category>
-		<category><![CDATA[Spyware]]></category>
-		<category><![CDATA[surveillance]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2982769</guid>
-
-					<description><![CDATA[<p>The Citizen Lab said it believes several governments may be customers of spyware maker Paragon Solutions. </p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Shopify transfers its US listing from the NYSE to the Nasdaq</title>
-		<link>https://techcrunch.com/2025/03/19/shopify-transfers-its-us-listing-from-the-nyse-to-the-nasdaq/</link>
-		
-		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 11:37:18 +0000</pubDate>
-				<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[Shopify]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2983255</guid>
-
-					<description><![CDATA[<p>Nearly 10 years after filing to go public on the New York Stock Exchange (NYSE) and Toronto Stock Exchange, Canadian e-commerce platform Shopify has announced that it&#8217;s transitioning its U.S. listing to the Nasdaq. In a filing with the Securities and Exchange Commission (SEC) on Wednesday, Shopify said it is removing its Class A shares [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Academics accuse AI startups of co-opting peer review for publicity</title>
-		<link>https://techcrunch.com/2025/03/19/academics-accuse-ai-startups-of-co-opting-peer-review-for-publicity/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 11:30:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[research]]></category>
-		<category><![CDATA[iclr]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2983070</guid>
-
-					<description><![CDATA[<p>There&#8217;s a controversy brewing over &#8220;AI-generated&#8221; studies submitted to this year&#8217;s ICLR, a long-running academic conference focused on AI. At least three AI labs — Sakana, Intology, and Autoscience — claim to have used AI to generate studies that were accepted to ICLR workshops. At conferences like ICLR, workshop organizers typically review studies for publication [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Prezent raises $20M to build AI for slide decks</title>
-		<link>https://techcrunch.com/2025/03/19/prezent-raises-20m-to-build-ai-for-slide-decks/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[greycroft]]></category>
-		<category><![CDATA[India]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[Prezent]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2982365</guid>
-
-					<description><![CDATA[<p>Prezent has raised $20 million in an all-equity funding to build specialized presentation models and expand its footprint into new markets.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US paid music subscribers cross 100 million mark for the first time</title>
-		<link>https://techcrunch.com/2025/03/19/us-paid-music-subscribers-cross-100-million-mark-for-the-first-time/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 10:57:39 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[apple music]]></category>
-		<category><![CDATA[growing us market]]></category>
-		<category><![CDATA[music streaming]]></category>
-		<category><![CDATA[Spotify]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2983235</guid>
-
-					<description><![CDATA[<p>The U.S. crossed the 100 million paid subscriber mark for music streaming services for the first time ever last year, as per a new report by the Record Industry Association of America (RIAA). The subscriber number was up from 96.8 million in 2023, with year-on-year growth of roughly 3%. RIAA&#8217;s report said that these numbers [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Aletiq secures $6.5M for its SaaS tool focused on product lifecycle management</title>
-		<link>https://techcrunch.com/2025/03/19/aletiq-secures-65m-for-its-saas-tool-focused-on-product-lifecycle-management/</link>
+		<title>Pruna AI open sources its AI model optimization framework</title>
+		<link>https://techcrunch.com/2025/03/20/pruna-ai-open-sources-its-ai-model-optimization-framework/</link>
 		
 		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 10:36:55 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Aletiq]]></category>
-		<category><![CDATA[PLM]]></category>
-		<category><![CDATA[SaaS]]></category>
-		<category><![CDATA[vertical SaaS]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2983256</guid>
+		<pubDate>Thu, 20 Mar 2025 08:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2983498</guid>
 
-					<description><![CDATA[<p>Aletiq has raised a €6 million funding round led by Point Nine a few months ago (around $6.5 million at current exchange rates). The French startup is announcing the founding round today. Aletiq has been developing product lifecycle management (PLM) software for manufacturing industrial companies working in aerospace, automotive, electronics, luxury and more. When you [&#8230;]</p>
+					<description><![CDATA[<p>Pruna AI, a European startup that has been working on compression algorithms for AI models, is making its optimization framework open source on Thursday. Pruna AI has been creating a framework that applies several efficiency methods, such as caching, pruning, quantization and distillation, to a given AI model. “We also standardize saving and loading the [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -415,22 +45,379 @@
 		
 			</item>
 		<item>
-		<title>Factorial, a HR unicorn, snaps up $120M from General Catalyst to boost sales and marketing</title>
-		<link>https://techcrunch.com/2025/03/19/factorial-snaps-up-120m-from-general-catalyst-to-boost-its-hr-sales-and-marketing/</link>
+		<title>Amid calls for sovereign EU tech stack, Evroc raises $55M to build a hyperscale cloud in Europe</title>
+		<link>https://techcrunch.com/2025/03/20/amid-calls-for-sovereign-eu-tech-stack-evroc-raises-55m-to-build-a-hyperscale-cloud-in-europe/</link>
 		
-		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 08:18:20 +0000</pubDate>
+		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
+		<pubDate>Thu, 20 Mar 2025 07:00:00 +0000</pubDate>
 				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Evroc]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2980564</guid>
+
+					<description><![CDATA[<p>A Swedish startup aiming to build a hyperscale cloud company in Europe has raised €50.6 million ($55 million) in Series A funding. Evroc, as it&#8217;s called, says it&#8217;s laying the foundations for a &#8220;secure, sovereign and sustainable hyperscale cloud to reimagine the digital future of Europe.&#8221; The announcement comes amid growing calls to create a [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ChatGPT hit with privacy complaint over defamatory hallucinations</title>
+		<link>https://techcrunch.com/2025/03/19/chatgpt-hit-with-privacy-complaint-over-defamatory-hallucinations/</link>
+		
+		<dc:creator><![CDATA[Natasha Lomas]]></dc:creator>
+		<pubDate>Thu, 20 Mar 2025 06:00:00 +0000</pubDate>
+				<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[GDPR]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2983288</guid>
+
+					<description><![CDATA[<p>OpenAI is facing another privacy complaint in Europe over its viral AI chatbot&#8217;s tendency to hallucinate false information &#8212; and this one might prove tricky for regulators to ignore. Privacy rights advocacy group Noyb is supporting an individual in Norway who was horrified to find ChatGPT returning made-up information that claimed he&#8217;d been convicted for [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Michael Seibel is leaving Y Combinator</title>
+		<link>https://techcrunch.com/2025/03/19/michael-seibel-is-leaving-y-combinator/</link>
+		
+		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
+		<pubDate>Thu, 20 Mar 2025 05:32:53 +0000</pubDate>
+				<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Michael Seibel]]></category>
+		<category><![CDATA[Y Combinator]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2983987</guid>
+
+					<description><![CDATA[<p>Michael Seibel announced late Wednesday on X that after more than 12 years at the famed accelerator Y Combinator, he is transitioning to a “partner emeritus” role. Y Combinator CEO Garry Tan shared the news separately in a company blog post, highlighting Seibel’s long history with the outfit. Seibel first joined YC as a founder, [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ClearGrid, armed with a fresh $10M, is developing AI to improve debt collection in MENA</title>
+		<link>https://techcrunch.com/2025/03/19/cleargrid-armed-with-10m-uses-ai-to-fix-debt-collection-in-mena/</link>
+		
+		<dc:creator><![CDATA[Tage Kene-Okafor]]></dc:creator>
+		<pubDate>Thu, 20 Mar 2025 04:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[cleargrid]]></category>
+		<category><![CDATA[debt collection]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2983474</guid>
+
+					<description><![CDATA[<p>Debt collection in emerging markets often feels outdated and can be costly — damaging borrower trust. As consumer lending surges and regulators push for fairer practices, legacy collection outfits are struggling to maintain pace. ClearGrid aims to help modernize debt collection — and recovery — with AI. The Dubai-based startup, which is emerging from stealth [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SoftBank to acquire semiconductor designer Ampere in $6.5B all-cash deal</title>
+		<link>https://techcrunch.com/2025/03/19/softbank-to-acquire-semiconductor-designer-ampere-in-6-5b-all-cash-deal/</link>
+		
+		<dc:creator><![CDATA[Kate Park]]></dc:creator>
+		<pubDate>Thu, 20 Mar 2025 03:28:47 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Ampere]]></category>
+		<category><![CDATA[ARM Holdings]]></category>
+		<category><![CDATA[Mergers and Acquisitions]]></category>
+		<category><![CDATA[Softbank]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2983927</guid>
+
+					<description><![CDATA[<p>SoftBank Group announced on Wednesday that it will acquire Ampere Computing, a chip designer founded by former Intel executive Renee James, through a $6.5 billion all-cash deal as a strategic move to broaden its investment in AI infrastructure. Ampere will be operate as a wholly-owned subsidiary of SoftBank after the deal, which is expected to [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>How a $6M bet on Wiz turned into a massive 200x return for one early backer</title>
+		<link>https://techcrunch.com/2025/03/19/how-a-6m-bet-on-wiz-turned-into-a-massive-200x-return-for-one-early-backer/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Thu, 20 Mar 2025 00:21:13 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[cyberstarts]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Index Venture]]></category>
+		<category><![CDATA[M&A]]></category>
+		<category><![CDATA[performance]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2983864</guid>
+
+					<description><![CDATA[<p>Wiz&#8217;s $32 billion all-cash acquisition by Google parent Alphabet promises a colossal payday for the cybersecurity startup&#8217;s early-stage investors. The deal is a big win for Sequoia, one of the best-known VC firms, which stands to make $3 billion, about 25x the money it invested in the company, Bloomberg reported. Despite substantial returns for Sequoia’s [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI&#8217;s o1-pro is the company&#8217;s most expensive AI model yet</title>
+		<link>https://techcrunch.com/2025/03/19/openais-o1-pro-is-its-most-expensive-model-yet/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2025 22:40:45 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[o1-pro]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2983818</guid>
+
+					<description><![CDATA[<p>OpenAI has launched a more powerful version of its o1 &#8220;reasoning&#8221; AI model, o1-pro, in its developer API. According to OpenAI, o1-pro uses more computing than o1 to provide &#8220;consistently better responses.&#8221; Currently, it&#8217;s only available to select developers — those who&#8217;ve spent at least $5 on OpenAI API services — and it&#8217;s pricey. Very [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hacked, leaked, exposed: Why you should never use stalkerware apps</title>
+		<link>https://techcrunch.com/2025/03/19/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2025 22:35:00 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[privacy]]></category>
+		<category><![CDATA[surveillance]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[stalkerware]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2787373</guid>
+
+					<description><![CDATA[<p>Using stalkerware is creepy, unethical, potentially illegal, and puts your data and that of your loved ones in danger.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Data breach at stalkerware SpyX affects close to 2 million, including thousands of Apple users</title>
+		<link>https://techcrunch.com/2025/03/19/data-breach-at-stalkerware-spyx-affects-close-to-2-million-including-thousands-of-apple-users/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2025 22:30:07 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Have I Been Pwned]]></category>
+		<category><![CDATA[Spyware]]></category>
+		<category><![CDATA[stalkerware]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2983665</guid>
+
+					<description><![CDATA[<p>Another consumer-grade spyware operation was hacked in June 2024, which exposed thousands of Apple Account credentials.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>X users treating Grok like a fact-checker spark concerns over misinformation</title>
+		<link>https://techcrunch.com/2025/03/19/x-users-treating-grok-like-a-fact-checker-spark-concerns-over-misinformation/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2025 21:23:08 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Grok]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[X]]></category>
+		<category><![CDATA[xAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2982780</guid>
+
+					<description><![CDATA[<p>Some users on X are turning to Grok for fact-checking, raising concerns among fact-checkers.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Sequoia shutters Washington, D.C., office, lets go of policy team</title>
+		<link>https://techcrunch.com/2025/03/19/sequoia-shutters-washington-d-c-office-lets-go-of-policy-team/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2025 21:15:00 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[policy]]></category>
+		<category><![CDATA[Sequoia]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2983668</guid>
+
+					<description><![CDATA[<p>Sequoia will shutter its Washington, D.C., office and part ways with the policy team there at the end of March, TechCrunch has confirmed. The news comes — and is somewhat in contrast — with the other prominent VC firms in Silicon Valley strengthening their ties with Capitol Hill and the new Trump administration. Andreessen Horowitz, [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI research lead Noam Brown thinks certain AI &#8216;reasoning&#8217; models could&#8217;ve arrived decades ago</title>
+		<link>https://techcrunch.com/2025/03/19/openai-research-lead-noam-brown-thinks-ai-reasoning-models-couldve-arrived-decades-ago/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2025 21:13:16 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[GTC]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2983714</guid>
+
+					<description><![CDATA[<p>Noam Brown, who leads AI reasoning research at OpenAI, says certain forms of &#8220;reasoning&#8221; AI models could&#8217;ve arrived 20 years earlier had researchers &#8220;known [the right] approach&#8221; and algorithms. &#8220;There were various reasons why this research direction was neglected,&#8221; Brown said during a panel at Nvidia&#8217;s GTC conference in San Jose on Wednesday. &#8220;I noticed [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nvidia reportedly acquires synthetic data startup Gretel</title>
+		<link>https://techcrunch.com/2025/03/19/nvidia-reportedly-acquires-synthetic-data-startup-gretel/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2025 19:34:45 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Fundraising]]></category>
 		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[customer value]]></category>
-		<category><![CDATA[Factorial]]></category>
-		<category><![CDATA[General Catalyst]]></category>
-		<category><![CDATA[hr]]></category>
-		<category><![CDATA[human resources]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2983230</guid>
+		<category><![CDATA[Gretel]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2983645</guid>
 
-					<description><![CDATA[<p>Factorial, the Barcelona-based “unicorn” startup that provides an all-in-one HR platform in the cloud for small and medium businesses, has picked up a non-dilutive (no equity) $120 million from General Catalyst — money it says it&#8217;ll invest in one specific area: “go-to-market”, or GTM, the umbrella term used for the wider expenses associated with sales [&#8230;]</p>
+					<description><![CDATA[<p>Nvidia has reportedly acquired Gretel, a San Diego-based startup that&#8217;s developed a platform to generate synthetic AI training data. Terms of the acquisition are unknown. The price tag was said to be nine figures, exceeding Gretel’s most recent valuation of $320 million, according to Wired. Gretel and its team of roughly 80 employees will be folded [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AWS generative AI exec leaves to launch startup</title>
+		<link>https://techcrunch.com/2025/03/19/aws-generative-ai-exec-leaves-to-launch-startup/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2025 19:15:53 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[Raj Aggarwal]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2983655</guid>
+
+					<description><![CDATA[<p>Raj Aggarwal is leaving AWS after nearly three years as the company&#8217;s GM of generative AI and revenue acceleration, according to a LinkedIn post Aggarwal published Wednesday. &#8220;I’m proud of the pioneering work our team did in generative AI from its earliest days,&#8221; Aggarwal said in his post. &#8220;We built what might be the world’s [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Group co-led by Fei-Fei Li suggests that AI safety laws should anticipate future risks</title>
+		<link>https://techcrunch.com/2025/03/19/group-co-led-by-fei-fei-li-suggests-that-ai-safety-laws-should-anticipate-future-risks/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2025 18:27:16 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[ai safety]]></category>
+		<category><![CDATA[SB 1047]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2983226</guid>
+
+					<description><![CDATA[<p>In a new report, a California-based policy group co-led by Fei-Fei Li, an AI pioneer, suggests that lawmakers should consider AI risks that &#8220;have not yet been observed in the world&#8221; when crafting AI regulatory policies. The 41-page interim report released on Tuesday comes from the Joint California Policy Working Group on AI Frontier Models, [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Substack rival Ghost is now connected to the fediverse</title>
+		<link>https://techcrunch.com/2025/03/19/substack-rival-ghost-is-now-connected-to-the-fediverse/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2025 18:25:33 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[ghost]]></category>
+		<category><![CDATA[Substack]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2983533</guid>
+
+					<description><![CDATA[<p>Newsletter platform Ghost, an open source competitor to Substack, is now connected to the fediverse, also known as the open social web. Federated apps run on the protocol ActivityPub, which powers apps like Mastodon, Pixelfed, Threads, Flipboard, and others, allowing posts published on one app to be seen and engaged with by those on other [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>A key DeepMind robotics researcher left Google, and Nvidia has already backed his stealth startup </title>
+		<link>https://techcrunch.com/2025/03/19/a-key-deepmind-robotics-researcher-left-google-and-nvidia-has-already-backed-his-stealth-startup/</link>
+		
+		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2025 18:12:17 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[robotics]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2983436</guid>
+
+					<description><![CDATA[<p>Nvidia has invested in a startup founded by a former Google DeepMind senior research scientist who specialized in robotics and AI.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Bluesky made more money selling T-shirts mocking Zuckerberg than custom domains</title>
+		<link>https://techcrunch.com/2025/03/19/bluesky-made-more-money-selling-t-shirts-mocking-zuckerberg-than-custom-domains/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2025 18:05:57 +0000</pubDate>
+				<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Bluesky]]></category>
+		<category><![CDATA[Mark Zuckerberg]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[social networking]]></category>
+		<category><![CDATA[SXSW]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2983517</guid>
+
+					<description><![CDATA[<p>Bluesky CEO Jay Graber made a splash at SXSW last week, showing up at her keynote event in a T-shirt that subtly poked fun at Meta founder Mark Zuckerberg. Or, at least it seemed like it was subtle. But so many people appreciated the jab that users convinced Bluesky to reproduce and sell Graber&#8217;s shirt [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>xAI launches an API for generating images</title>
+		<link>https://techcrunch.com/2025/03/19/xai-launches-an-api-for-generating-images/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2025 17:49:28 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[xAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2983532</guid>
+
+					<description><![CDATA[<p>Elon Musk&#8217;s AI company, xAI, has added image generation capabilities to its API. Only one model is available in the API at the moment, &#8220;grok-2-image-1212.&#8221; Given a caption, the model can generate up to 10 images per request (limited to five requests per second) in JPG format, priced at $0.07 per image. For comparison, AI [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
