@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 20 Mar 2025 08:42:31 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Mar 2025 13:35:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,45 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Meta AI is finally coming to the EU, but with limitations</title>
+		<link>https://techcrunch.com/2025/03/20/meta-ai-is-finally-coming-to-the-eu-but-with-limitations/</link>
+		
+		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
+		<pubDate>Thu, 20 Mar 2025 13:35:30 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[meta ai]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2984039</guid>
+
+					<description><![CDATA[<p>Amid an ongoing regulatory battle with European privacy authorities, Meta announced on Thursday that its AI-powered virtual assistant, Meta AI, is finally launching in the European Union. The chatbot-like tool will be rolled out across Meta&#8217;s portfolio of social platforms, albeit with a more limited feature set compared to what it offers in its domestic [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>TikTok to start pushing Amber Alerts to users&#8217; For You feeds</title>
+		<link>https://techcrunch.com/2025/03/20/tiktok-to-start-pushing-amber-alerts-to-users-for-you-feeds/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Thu, 20 Mar 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[TikTok]]></category>
+		<category><![CDATA[for you feed]]></category>
+		<category><![CDATA[amber alerts]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2983603</guid>
+
+					<description><![CDATA[<p>TikTok is partnering with the National Center for Missing &#38; Exploited Children (NCMEC) to bring real-time Amber Alerts directly to users&#8217; For You feeds in the United States, the company announced on Thursday. With this new feature, if an Amber Alert is activated by law enforcement and you are in the designated search area, the [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Pruna AI open sources its AI model optimization framework</title>
 		<link>https://techcrunch.com/2025/03/20/pruna-ai-open-sources-its-ai-model-optimization-framework/</link>
 		
@@ -377,47 +416,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2983436</guid>
 
 					<description><![CDATA[<p>Nvidia has invested in a startup founded by a former Google DeepMind senior research scientist who specialized in robotics and AI.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Bluesky made more money selling T-shirts mocking Zuckerberg than custom domains</title>
-		<link>https://techcrunch.com/2025/03/19/bluesky-made-more-money-selling-t-shirts-mocking-zuckerberg-than-custom-domains/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 18:05:57 +0000</pubDate>
-				<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Bluesky]]></category>
-		<category><![CDATA[Mark Zuckerberg]]></category>
-		<category><![CDATA[social media]]></category>
-		<category><![CDATA[social networking]]></category>
-		<category><![CDATA[SXSW]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2983517</guid>
-
-					<description><![CDATA[<p>Bluesky CEO Jay Graber made a splash at SXSW last week, showing up at her keynote event in a T-shirt that subtly poked fun at Meta founder Mark Zuckerberg. Or, at least it seemed like it was subtle. But so many people appreciated the jab that users convinced Bluesky to reproduce and sell Graber&#8217;s shirt [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>xAI launches an API for generating images</title>
-		<link>https://techcrunch.com/2025/03/19/xai-launches-an-api-for-generating-images/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 17:49:28 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[api]]></category>
-		<category><![CDATA[xAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2983532</guid>
-
-					<description><![CDATA[<p>Elon Musk&#8217;s AI company, xAI, has added image generation capabilities to its API. Only one model is available in the API at the moment, &#8220;grok-2-image-1212.&#8221; Given a caption, the model can generate up to 10 images per request (limited to five requests per second) in JPG format, priced at $0.07 per image. For comparison, AI [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
