@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 21 Mar 2025 11:36:46 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Mar 2025 14:34:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,39 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>1X will test humanoid robots in &#8216;a few hundred&#8217; homes in 2025</title>
+		<link>https://techcrunch.com/2025/03/21/1x-will-test-humanoid-robots-in-a-few-hundred-homes-in-2025/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Fri, 21 Mar 2025 14:15:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[1x]]></category>
+		<category><![CDATA[humanoid robots]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2984471</guid>
+
+					<description><![CDATA[Norwegian robotics startup 1X plans to start early tests of its humanoid robot, Neo Gamma, in &#8220;a few hundred to a few thousand&#8221; homes by the end of 2025, according to the company&#8217;s CEO, Bernt Børnich. &#8220;Neo Gamma is going into homes this year,&#8221; Børnich told TechCrunch in an interview at Nvidia GTC 2025. &#8220;We [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Commercial services platform BuildOps becomes a unicorn, raises $127M</title>
+		<link>https://techcrunch.com/2025/03/21/commercial-services-platform-buildops-becomes-a-unicorn-raises-127m/</link>
+		
+		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
+		<pubDate>Fri, 21 Mar 2025 13:45:00 +0000</pubDate>
+				<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[BuildOps]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2984604</guid>
+
+					<description><![CDATA[Commercial services tech hasn’t historically been considered “sexy,” but the need for innovation in the space is enormous. That need has translated into a large fundraise for a company focused on streamlining commercial contracting processes. On Friday, BuildOps, which develops software for commercial services contractors, announced that it has raised $127 million in a Series [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Russian zero-day seller is offering up to $4 million for Telegram exploits</title>
 		<link>https://techcrunch.com/2025/03/21/russian-zero-day-seller-is-offering-up-to-4-million-for-telegram-exploits/</link>
 		
@@ -345,41 +378,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2984236</guid>
 
 					<description><![CDATA[Anthropic&#8217;s AI-powered chatbot, Claude, can now search the web — a capability that had long eluded it. Web search is available now in preview for paid Claude users in the U.S., Anthropic said in its blog, with support for free users and additional countries coming soon. Users can toggle on web search in their profile [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI upgrades its transcription and voice-generating AI models</title>
-		<link>https://techcrunch.com/2025/03/20/openai-upgrades-its-transcription-and-voice-generating-ai-models/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Thu, 20 Mar 2025 17:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[api]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2983914</guid>
-
-					<description><![CDATA[OpenAI is bringing new transcription and voice-generating AI models to its API that the company claims improve upon its previous releases. For OpenAI, the models fit into its broader &#8220;agentic&#8221; vision: building automated systems that can independently accomplish tasks on behalf of users. The definition of &#8220;agent&#8221; might be in dispute, but OpenAI Head of [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Threads adds new features to highlight topics and limit replies</title>
-		<link>https://techcrunch.com/2025/03/20/threads-adds-new-features-to-highlight-topics-and-limit-replies/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Thu, 20 Mar 2025 17:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Mark Zuckerberg]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[social network]]></category>
-		<category><![CDATA[Threads]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2984044</guid>
-
-					<description><![CDATA[Meta&#8217;s social network Threads, an X competitor with more than 320 million monthly active users, is now rolling out new features related to topics, reply controls, and video playback in the app, among other things. It&#8217;s also making political content suggestions more personalized to the user, the company says. Combined, the features aim to make [&#8230;]]]></description>
 		
 		
 		
