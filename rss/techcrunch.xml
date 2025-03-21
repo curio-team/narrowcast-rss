@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 21 Mar 2025 05:06:46 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Mar 2025 11:36:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Google claims news is worthless to its ad business after test involving 1% of search results in eight EU markets</title>
+		<link>https://techcrunch.com/2025/03/21/google-claims-news-is-worthless-to-its-ad-business-after-test-involving-1-of-search-results-in-eight-eu-markets/</link>
+		
+		<dc:creator><![CDATA[Natasha Lomas]]></dc:creator>
+		<pubDate>Fri, 21 Mar 2025 11:36:13 +0000</pubDate>
+				<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[google search news test]]></category>
+		<category><![CDATA[google copyright directive]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2984637</guid>
+
+					<description><![CDATA[Google has reported the results of an experiment it ran which removed news from search results for 1% of users for 2.5 months in eight* markets in Europe &#8212; claiming the results show that news is essentially worthless to Google&#8217;s ad business. The search giant conducted the test because European copyright law requires it to [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>GTC felt more bullish than ever, but Nvidia&#8217;s challenges are piling up</title>
 		<link>https://techcrunch.com/2025/03/20/gtc-felt-more-bullish-than-ever-but-nvidias-challenges-are-piling-up/</link>
 		
@@ -359,23 +377,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2984108</guid>
 
 					<description><![CDATA[As generative AI moves increasingly into the physical world through robotics, vehicles, and drones, the need to map cloud-based AIs to real-world environments can lead to a huge mismatch. Rerun, a Stockholm-based dev tools startup, which builds a data stack for this emergent kind of &#8220;physical AI,&#8221; has secured $17 million in seed funding to [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Bluesky makes it easier for publishers to track referrals</title>
-		<link>https://techcrunch.com/2025/03/20/bluesky-makes-it-easier-for-publishers-to-track-referrals/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Thu, 20 Mar 2025 16:59:12 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Bluesky]]></category>
-		<category><![CDATA[social media]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2984163</guid>
-
-					<description><![CDATA[Social network Bluesky, an open source X rival, has made a change that will allow publishers to better track the referral traffic originating from posts on its platform. According to a comment from Bluesky employee Emily Liu, the company is now sending referral traffic through Bluesky&#8217;s &#8220;go&#8221; subdomain to make it easier for publishers to [&#8230;]]]></description>
 		
 		
 		
