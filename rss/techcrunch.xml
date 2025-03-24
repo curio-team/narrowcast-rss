@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 24 Mar 2025 10:32:27 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 24 Mar 2025 12:40:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>23andMe faces an uncertain future — so does your genetic data </title>
+		<link>https://techcrunch.com/2025/03/24/23andme-faces-an-uncertain-future-so-does-your-genetic-data/</link>
+		
+		<dc:creator><![CDATA[Carly Page]]></dc:creator>
+		<pubDate>Mon, 24 Mar 2025 12:15:00 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[23andMe]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[data security]]></category>
+		<category><![CDATA[privacy]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2900608</guid>
+
+					<description><![CDATA[As 23andMe's bankruptcy looms, privacy experts warn customers to delete their DNA data.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>AI chip startup FuriosaAI reportedly turns down $800M acquisition offer from Meta</title>
 		<link>https://techcrunch.com/2025/03/24/ai-chip-startup-furiosaai-reportedly-turns-down-800m-acquisition-offer-from-meta/</link>
 		
@@ -48,7 +67,7 @@
 		
 			</item>
 		<item>
-		<title>Ex-Network International execs raise $6M for Enza, an African fintech serving banks</title>
+		<title>Ex-Network International execs raise $6.75M for Enza, an African fintech serving banks</title>
 		<link>https://techcrunch.com/2025/03/24/ex-network-execs-raise-6m-for-enza/</link>
 		
 		<dc:creator><![CDATA[Tage Kene-Okafor]]></dc:creator>
@@ -360,24 +379,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2984732</guid>
 
 					<description><![CDATA[Earlier this week, Anthropic rolled out a web search feature for its AI-powered chatbot platform, Claude, bringing the bot in line with many of its rivals. It wasn&#8217;t immediately clear which search index might be powering the feature — one possibility was that Anthropic had developed its own. But evidence suggests it&#8217;s Brave Search, the [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Startups Weekly: Wiz&#8217;s bet paid off in an M&#038;A-rich week</title>
-		<link>https://techcrunch.com/2025/03/21/startups-weekly-wizs-bet-paid-off-in-an-ma-rich-week/</link>
-		
-		<dc:creator><![CDATA[Anna Heim]]></dc:creator>
-		<pubDate>Fri, 21 Mar 2025 17:05:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[venture capital]]></category>
-		<category><![CDATA[newsletter]]></category>
-		<category><![CDATA[Startups Weekly]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2984414</guid>
-
-					<description><![CDATA[Welcome to Startups Weekly — your weekly recap of everything you can’t miss from the world of startups. Want it in your inbox every Friday? Sign up here. It&#8217;s rare to report on an 11-figure startup acquisition, let alone multiple high-value deals in a single week. And there are more subtle signs that things are [&#8230;]]]></description>
 		
 		
 		
