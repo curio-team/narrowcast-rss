@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 24 Mar 2025 12:40:15 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 24 Mar 2025 14:29:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,14 +28,70 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Apple is bringing lossless audio and low-latency audio to AirPods Max</title>
+		<link>https://techcrunch.com/2025/03/24/apple-is-bringing-lossless-audio-and-low-latency-audio-to-airpods-max/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Mon, 24 Mar 2025 14:29:07 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[AirPods Max]]></category>
+		<category><![CDATA[Apple]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2985238</guid>
+
+					<description><![CDATA[Apple announced on Monday that it&#8217;s bringing lossless audio and ultra-low latency audio to AirPods Max headphones when using the included USB-C cable. With this upcoming update, AirPods Max headphones will unlock 24-bit, 48 kHz lossless audio to maintain the quality of original recordings. Lossless audio also extends to Personalized Spatial Audio &#8220;to deliver a [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Only 7 Days Left: Founders and VCs Save $300+ on TechCrunch All Stage Passes</title>
+		<link>https://techcrunch.com/2025/03/24/only-7-days-left-founders-and-vcs-save-300-on-techcrunch-all-stage-passes/</link>
+		
+		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
+		<pubDate>Mon, 24 Mar 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[tc events]]></category>
+		<category><![CDATA[TechCrunch All Stage 2025]]></category>
+		<category><![CDATA[TC All Stage 2025]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2979580</guid>
+
+					<description><![CDATA[TechCrunch All Stage is returning to Boston, MA on July 15 for a jam-packed day where founders &#8211; no matter what stage they&#8217;re in — will gain practical insights to fuel their startup growth. With a lineup of expert-led sessions, founders will leave with actionable strategies they can implement right away. Investors will also be [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apply to compete in TechCrunch Startup Battlefield 200 today!</title>
+		<link>https://techcrunch.com/2025/03/24/apply-to-compete-in-techcrunch-startup-battlefield-200-today/</link>
+		
+		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
+		<pubDate>Mon, 24 Mar 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[techcrunch startup battlefield]]></category>
+		<category><![CDATA[Startup Battlefield 200]]></category>
+		<category><![CDATA[TechCrunch Disrupt 2025]]></category>
+		<category><![CDATA[Disrupt 2025]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2982683</guid>
+
+					<description><![CDATA[Start your engines … applications for TechCrunch&#8217;s Startup Battlefield 200 competition are open! If you’re a pre-Series A startup founder looking to make your mark on a global stage, this is an opportunity you can’t pass up. We want to see you showcase your game-changing innovations to the world at TechCrunch Disrupt 2025’s premier startup pitch [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>The Cadillac Optiq EV and Cadillac Escalade IQ go big on tech, luxury, and price</title>
 		<link>https://techcrunch.com/2025/03/24/the-cadillac-optiq-ev-and-cadillac-escalade-iq-go-big-on-tech-luxury-and-price/</link>
 		
-		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<dc:creator><![CDATA[Emme Hall]]></dc:creator>
 		<pubDate>Mon, 24 Mar 2025 13:00:00 +0000</pubDate>
 				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[EVs]]></category>
 		<category><![CDATA[Cadillac]]></category>
+		<category><![CDATA[EVs]]></category>
 		<category><![CDATA[General Motors]]></category>
 		<category><![CDATA[Optiq]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2985172</guid>
@@ -325,62 +381,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2984750</guid>
 
 					<description><![CDATA[What we found mostly supports the auto makers claims, with a few caveats.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Valve removes video game demo suspected of being malware</title>
-		<link>https://techcrunch.com/2025/03/21/valve-removes-video-game-demo-suspected-of-being-malware/</link>
-		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
-		<pubDate>Fri, 21 Mar 2025 19:58:54 +0000</pubDate>
-				<category><![CDATA[Gaming]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[hacking]]></category>
-		<category><![CDATA[infostealer]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[Steam]]></category>
-		<category><![CDATA[Valve]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2984871</guid>
-
-					<description><![CDATA[Valve removed a video game called Sniper: Phantom's Resolution from Steam after users reported that its free demo contained malware. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>DeepSeek: Everything you need to know about the AI chatbot app</title>
-		<link>https://techcrunch.com/2025/03/21/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Fri, 21 Mar 2025 18:38:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[deepseek]]></category>
-		<category><![CDATA[DeepSeek v3]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[Explainer]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[r1]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2953864</guid>
-
-					<description><![CDATA[DeepSeek has gone viral. Chinese AI lab DeepSeek broke into the mainstream consciousness this week after&#160;its chatbot app rose to the top of the Apple App Store charts (and Google Play, as well). DeepSeek’s AI models, which were trained using compute-efficient techniques,&#160;have led Wall Street analysts&#160;—&#160;and technologists&#160;— to question whether the U.S. can maintain its [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TechCrunch has, yes, personal news!</title>
-		<link>https://techcrunch.com/2025/03/21/techcrunch-has-personal-news/</link>
-		
-		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
-		<pubDate>Fri, 21 Mar 2025 17:11:56 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[TC]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2984795</guid>
-
-					<description><![CDATA[If you haven’t heard the news, TechCrunch has a shiny new home. After years under the ownership of Yahoo &#8212; which, in turn, is backed by Apollo Group &#8212; the brand is now in fresh hands. Its new parent company: Regent, a dynamic private equity firm with a diverse portfolio spanning media, retail, and manufacturing. [&#8230;]]]></description>
 		
 		
 		
