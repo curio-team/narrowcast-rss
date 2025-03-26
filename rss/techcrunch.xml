@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 26 Mar 2025 14:35:08 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Mar 2025 15:19:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,75 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Amazon&#8217;s Alexa Fund is now backing AI startups</title>
+		<link>https://techcrunch.com/2025/03/26/amazon-alexa-fund-invests-into-four-new-startups-as-it-plans-to-invest-more-into-ai-solutions/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 15:30:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Alexa]]></category>
+		<category><![CDATA[Funding]]></category>
+		<category><![CDATA[Amazon Alexa Fund]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2986151</guid>
+
+					<description><![CDATA[Amazon started the Alexa Fund in 2015 to back early-stage voice startups. With the advent of large language models and Amazon launching Gen AI-powered Alexa+ along with a family of multimodal AI models, the fund now wants to broaden its scope and invest more in AI startups. In a blog post Amazon shared with TechCrunch [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>What&#8217;s next for ATProto, the protocol powering Bluesky and other apps</title>
+		<link>https://techcrunch.com/2025/03/26/whats-next-for-atproto-the-protocol-powering-bluesky-and-other-apps/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 15:11:16 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[AT Protocol]]></category>
+		<category><![CDATA[Bluesky]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2986212</guid>
+
+					<description><![CDATA[It&#8217;s getting easier to build new applications on ATProto, the protocol that powers Bluesky&#8217;s social network and a growing number of other apps. At ATmosphere, the ATProto community conference held over the weekend in Seattle, Bluesky CTO Paul Frazee offered attendees a glimpse of what&#8217;s ahead for the protocol&#8217;s development and how those will help [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Krisp is using AI to help Indians sound like Americans on calls</title>
+		<link>https://techcrunch.com/2025/03/26/krisp-launches-a-dubbing-feature-to-change-accent-of-the-speaker-during-a-call/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 15:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[accents]]></category>
+		<category><![CDATA[voice AI]]></category>
+		<category><![CDATA[Krisp]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2985224</guid>
+
+					<description><![CDATA[Audio startup Krisp on Wednesday said it is launching a new feature that uses AI to change a user&#8217;s accent during calls. The company is initially rolling out support for changing Indian English accents to U.S. English. The startup says the accent conversion process preserves the speaker&#8217;s voice and only switches phonemes to match American [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The TikTok ban is losing support among Americans, study says</title>
+		<link>https://techcrunch.com/2025/03/26/the-tiktok-ban-is-losing-support-among-americans-study-says/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 14:53:21 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[study]]></category>
+		<category><![CDATA[TikTok]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2986231</guid>
+
+					<description><![CDATA[Americans&#8217; support for a TikTok ban is declining, according to a study from the Pew Research Center. This survey of over 5,000 U.S. adults found that just 34% of respondents supported banning the short form video app. When Pew ran a similar study in 2023, 50% of adults supported the TikTok ban. Over the same [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Amazon launches personalized shopping prompts as part of its generative AI push</title>
 		<link>https://techcrunch.com/2025/03/26/amazon-launches-personalized-shopping-prompts-as-part-of-its-generative-ai-push/</link>
 		
@@ -314,78 +383,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2985785</guid>
 
 					<description><![CDATA[23andMe holds millions of customers' genetic information. Here's what you can do to protect your data.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google unveils a next-gen family of AI reasoning models</title>
-		<link>https://techcrunch.com/2025/03/25/google-unveils-a-next-gen-ai-reasoning-model/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Tue, 25 Mar 2025 17:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[gemini]]></category>
-		<category><![CDATA[Google]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2985743</guid>
-
-					<description><![CDATA[On Tuesday, Google unveiled Gemini 2.5, a new family of AI reasoning models that pauses to &#8220;think&#8221; before answering a question. To kick off the new family of models, Google is launching Gemini 2.5 Pro Experimental, a multimodal, reasoning AI model that the company claims is its most intelligent model yet. This model will be [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Quora’s Poe launches its most affordable subscription plan for $5/month</title>
-		<link>https://techcrunch.com/2025/03/25/quoras-poe-now-offers-an-affordable-subscription-plan-for-5-month/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Tue, 25 Mar 2025 16:53:10 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[chatbots]]></category>
-		<category><![CDATA[Poe]]></category>
-		<category><![CDATA[quora]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2985795</guid>
-
-					<description><![CDATA[Poe, Quora&#8217;s chatbot app, launched one of its most affordable subscription options on Tuesday, priced at just $5 per month.  In addition, the company introduced its highest-priced plan at $250 per month, designed for users who need to send a large volume of messages on Poe. Poe allows users to utilize several AI-powered bots &#8212; [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cerebras Systems&#8217; IPO is further delayed</title>
-		<link>https://techcrunch.com/2025/03/25/cerebras-systems-ipo-is-further-delayed/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Tue, 25 Mar 2025 16:47:28 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI chips]]></category>
-		<category><![CDATA[Cerebras]]></category>
-		<category><![CDATA[IPO]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2985796</guid>
-
-					<description><![CDATA[AI chipmaking company Cerebras Systems&#8217; IPO is delayed again as the public listing&#8217;s national security review drags on. Cerebras, which originally filed its intent to IPO in September 2024, thought the incoming Trump administration would help it breeze through its national security review, according to Reuters. That hasn&#8217;t been the case. The White House has [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>A world without Caesars: How the ATProto community is rebuilding the web to return power to the people</title>
-		<link>https://techcrunch.com/2025/03/25/a-world-without-caesars-how-the-atproto-community-is-rebuilding-the-web-to-return-power-to-the-people/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Tue, 25 Mar 2025 16:20:59 +0000</pubDate>
-				<category><![CDATA[Social]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[atproto]]></category>
-		<category><![CDATA[Bluesky]]></category>
-		<category><![CDATA[developers]]></category>
-		<category><![CDATA[social media]]></category>
-		<category><![CDATA[social networking]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2985584</guid>
-
-					<description><![CDATA[The first in-person gathering devoted to those building with the AT Protocol — which powers Bluesky — was held in Seattle.]]></description>
 		
 		
 		
