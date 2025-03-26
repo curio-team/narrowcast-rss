@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 26 Mar 2025 10:12:24 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Mar 2025 12:13:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>AI&#8217;s coming to the classroom: Brisk raises $15M after a quick start in school</title>
+		<link>https://techcrunch.com/2025/03/26/ais-coming-to-the-classroom-brisk-raises-15m-after-a-quick-start-in-school/</link>
+		
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 12:13:18 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[AI teaching tools]]></category>
+		<category><![CDATA[brisk]]></category>
+		<category><![CDATA[EdTech]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2986172</guid>
+
+					<description><![CDATA[It&#8217;s virtually impossible today to determine when a student&#8217;s writing has been composed using ChatGPT or another GenAI tool, and it can be a nightmare to disprove incorrect accusations. An AI edtech startup called Brisk has built a tool that could at least help teachers identify some of the telltale signs, and it&#8217;s now announcing [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>A comprehensive list of 2025 tech layoffs</title>
 		<link>https://techcrunch.com/2025/03/26/tech-layoffs-2025-list/</link>
 		
@@ -374,24 +392,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2985483</guid>
 
 					<description><![CDATA[When Sam Weaver was vice president of product management at Unqork, he realized that the company needed a better way to manage its sprawling network of Kubernetes clusters &#8212; which are groups of computing nodes. When Unqork couldn&#8217;t find anything off the shelf, it assembled a 15-person team to build a Kubernetes management product. Despite [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple Music is integrating with music tools to allow DJs to create mixes using its catalog</title>
-		<link>https://techcrunch.com/2025/03/25/apple-3/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Tue, 25 Mar 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[apple music]]></category>
-		<category><![CDATA[DJ]]></category>
-		<category><![CDATA[Remixes]]></category>
-		<category><![CDATA[Spotify]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2985693</guid>
-
-					<description><![CDATA[Apple said today it is opening its catalog to let users build mix sets by integrating the platform with a number of tools. These tools include Algoriddim&#8217;s djay Pro software, hardware platforms AlphaTheta, Serato, inMusic’s Engine DJ, Denon DJ, Numark, and RANE DJ. This will possibly attract DJs to explore Apple Music&#8217;s catalog of over 100 million songs and also give [&#8230;]]]></description>
 		
 		
 		
