@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 26 Mar 2025 12:13:30 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Mar 2025 13:28:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,57 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Google fixes Chrome zero-day security flaw used in hacking campaign targeting journalists</title>
+		<link>https://techcrunch.com/2025/03/26/google-fixes-chrome-zero-day-security-flaw-used-in-hacking-campaign-targeting-journalists/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 13:15:07 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[browsers]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2986199</guid>
+
+					<description><![CDATA[Kaspersky attributed the hacks to an espionage campaign targeting journalists and employees at educational institutions.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Rivian spins out a new micromobility startup called Also with $105M from Eclipse</title>
+		<link>https://techcrunch.com/2025/03/26/rivian-spins-out-a-new-micromobility-startup-called-also-with-105m-from-eclipse/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec, Sean O'Kane]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 13:00:03 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[micromobility]]></category>
+		<category><![CDATA[Rivian]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2986132</guid>
+
+					<description><![CDATA[Before RJ Scaringe founded Rivian in 2009, he had micromobility on his mind. More than a decade later, his musings took root in a small skunkworks program inside Rivian that set out to answer one question: Could the company&#8217;s technology be condensed down into something smaller and more affordable than its electric vans, trucks, and SUVs? [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cloud veterans launch ConfigHub to fix &#8216;configuration hell&#8217;</title>
+		<link>https://techcrunch.com/2025/03/26/cloud-veterans-launch-confighub-to-fix-configuration-hell/</link>
+		
+		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[ConfigHub]]></category>
+		<category><![CDATA[configuration management]]></category>
+		<category><![CDATA[Kubernetes]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2977960</guid>
+
+					<description><![CDATA[A trio of cloud industry leaders have launched a new company with the mission of modernizing software configuration data management. Emerging from stealth today with $4 million in funding, ConfigHub is the handiwork of CEO Alexis Richardson, founder of cloud-native container management platform Weaveworks; CTO Brian Grant, former Google software engineer and original lead architect [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>AI&#8217;s coming to the classroom: Brisk raises $15M after a quick start in school</title>
 		<link>https://techcrunch.com/2025/03/26/ais-coming-to-the-classroom-brisk-raises-15m-after-a-quick-start-in-school/</link>
 		
@@ -330,68 +381,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2985242</guid>
 
 					<description><![CDATA[When Kat Abughazaleh got laid off from her job as an extremism researcher and video producer at Media Matters last year, Elon Musk personally chimed in on X to celebrate her misfortune. &#8220;Karma is real,&#8221; Musk said. But as Abughazaleh said in a video on Monday announcing her campaign for Congress, she&#8217;s not afraid of [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Outreach founder Manny Medina has a new startup that helps AI agents get paid</title>
-		<link>https://techcrunch.com/2025/03/25/outreach-founder-manny-medina-has-a-new-startup-that-helps-ai-agents-get-paid/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Tue, 25 Mar 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[ai agent]]></category>
-		<category><![CDATA[eqt ventures]]></category>
-		<category><![CDATA[outreach]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2985626</guid>
-
-					<description><![CDATA[Medina's new startup, called Paid, helps agentic startups profitably charge for their bots.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Less than a week to save $300+ on TechCrunch All Stage passes</title>
-		<link>https://techcrunch.com/2025/03/25/less-than-a-week-to-save-300-on-techcrunch-all-stage-passes/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Tue, 25 Mar 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[TechCrunch events]]></category>
-		<category><![CDATA[TechCrunch All Stage 2025]]></category>
-		<category><![CDATA[TC All Stage]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2979639</guid>
-
-					<description><![CDATA[The premiere founder conference brought to you by TechCrunch is heading back to Boston on July 15. TC All Stage 2025 (formerly known as Early Stage) is our tentpole East Coast event that promises an agenda full of founder knowledge — for all stages — that will be passed along to you. What’s more, if [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Plural&#8217;s platform allows enterprises to manage their Kubernetes clusters in one place</title>
-		<link>https://techcrunch.com/2025/03/25/plurals-platform-allows-enterprises-to-manage-their-kubernetes-clusters-in-one-place/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Tue, 25 Mar 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[cloud]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[fundraising]]></category>
-		<category><![CDATA[Kubernetes]]></category>
-		<category><![CDATA[plural]]></category>
-		<category><![CDATA[Primary Venture Partners]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2985483</guid>
-
-					<description><![CDATA[When Sam Weaver was vice president of product management at Unqork, he realized that the company needed a better way to manage its sprawling network of Kubernetes clusters &#8212; which are groups of computing nodes. When Unqork couldn&#8217;t find anything off the shelf, it assembled a 15-person team to build a Kubernetes management product. Despite [&#8230;]]]></description>
 		
 		
 		
