@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 26 Mar 2025 15:19:55 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Mar 2025 08:26:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,361 +28,368 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>NHS vendor Advanced to pay £3M fine following 2022 ransomware attack</title>
+		<link>https://techcrunch.com/2025/03/27/nhs-vendor-advanced-to-pay-3m-fine-following-2022-ransomware-attack/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Thu, 27 Mar 2025 08:26:19 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[NHS]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2986579</guid>
+
+					<description><![CDATA[NHS vendor Advanced will pay just over £3 million ($3.8 million) in fines for not implementing basic security measures before it suffered a ransomware attack in 2022, the U.K.&#8217;s data protection regulator has confirmed.  It&#8217;s half the fine that the Information Commissioner&#8217;s Office had initially sought in August 2024, when the data watchdog said it [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI will reportedly close its SoftBank-led $40 billion round soon</title>
+		<link>https://techcrunch.com/2025/03/26/openai-will-reportedly-close-its-softbank-led-40-billion-round-soon/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 27 Mar 2025 06:13:12 +0000</pubDate>
+				<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[fundraising]]></category>
+		<category><![CDATA[Magnetar Capital]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Softbank]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2986607</guid>
+
+					<description><![CDATA[While you&#8217;re busy Ghibli-fying your images with ChatGPT&#8217;s new image-generation capabilities, OpenAI is out raising a ton more cash. The company is close to finalizing a new $40 billion funding round led by SoftBank, according to a report from Bloomberg. The report noted that other funds, including the hedge fund Magnetar Capital, Coatue Management, Founders [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI&#8217;s viral Studio Ghibli moment highlights AI copyright concerns</title>
+		<link>https://techcrunch.com/2025/03/26/openais-viral-studio-ghibli-moment-highlights-ai-copyright-concerns/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 23:23:09 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2986398</guid>
+
+					<description><![CDATA[It&#8217;s only been a day since ChatGPT&#8217;s new AI image generator went live, and social media feeds are already flooded with AI-generated memes in the style of Studio Ghibli, the cult-favorite Japanese animation studio behind blockbuster films such as &#8220;My Neighbor Totoro&#8221; and &#8220;Spirited Away.&#8221; In the last 24 hours, we&#8217;ve seen AI-generated images representing [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nvidia is reportedly in talks to acquire Lepton AI</title>
+		<link>https://techcrunch.com/2025/03/26/nvidia-is-reportedly-in-talks-to-acquire-lepton-ai/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 22:22:49 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[AI GPUs]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[chips]]></category>
+		<category><![CDATA[GPUS]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Mergers and Acquisitions]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2986519</guid>
+
+					<description><![CDATA[Nvidia is looking to get into the server rental market. The semiconductor giant is reportedly nearing a deal to acquire Lepton AI, a company that rents out servers that are powered by Nvidia&#8217;s AI chips, according to The Information. Citing unnamed sources, the outlet says the deal deal is worth several hundred million dollars. TechCrunch [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ChatGPT&#8217;s new AI image feature is delayed for free users</title>
+		<link>https://techcrunch.com/2025/03/26/chatgpts-new-ai-image-feature-is-delayed-for-free-users/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 21:34:03 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2986508</guid>
+
+					<description><![CDATA[OpenAI CEO Sam Altman announced on Wednesday that the rollout of ChatGPT&#8217;s viral new AI image features to free users would be delayed, citing significantly higher demand than the company expected. &#8220;Images in ChatGPT are wayyyy more popular than we expected (and we had pretty high expectations),&#8221; Altman said in a post on X on [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>UnitedHealth removes mentions of DEI from its website</title>
+		<link>https://techcrunch.com/2025/03/26/unitedhealth-removes-mentions-of-dei-from-its-website/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 21:30:00 +0000</pubDate>
+				<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[DEI]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[Trump Administration]]></category>
+		<category><![CDATA[UnitedHealth Group]]></category>
+		<category><![CDATA[UnitedHealthcare]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2986470</guid>
+
+					<description><![CDATA[The health insurance giant is the latest to remove references to diversity, equity and inclusion policies amid mounting pressure from the Trump administration.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Island lands $250M in funding at a $4.8B valuation</title>
+		<link>https://techcrunch.com/2025/03/26/island-lands-250m-in-funding-at-a-4-8b-valuation/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 20:50:08 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[enterprise startups]]></category>
+		<category><![CDATA[fundraising]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2986481</guid>
+
+					<description><![CDATA[Enterprise browser startup Island just raised a sizable funding round &#8212; one that bumps up its valuation significantly, and less than one year after its last fundraise. Dallas-based Island raised $250 million in a Series E round led by Coatue that valued the company at $4.85 billion, the startup announced today. This brings the company&#8217;s [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Lumon Terminal Pro computer pops up on Apple&#8217;s website</title>
+		<link>https://techcrunch.com/2025/03/26/the-lumon-terminal-pro-computer-pops-up-on-apples-website/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 19:43:51 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Apple tv+]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2986449</guid>
+
+					<description><![CDATA[The Lumon Terminal Pro &#8212; the computer used in Apple TV&#8217;s hit series &#8220;Severance&#8221; &#8212; has appeared on Apple&#8217;s retail website. When shopping Apple.com, you&#8217;ll see the new device, adorned with a red &#8220;New&#8221; label, when you click to view the available Mac computers Apple has for sale from the top-level navigation. But sorry, &#8220;Severance&#8221; [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>19 founders and VCs working with Elon Musk&#8217;s DOGE</title>
+		<link>https://techcrunch.com/2025/03/26/19-founders-and-vcs-working-with-elon-musks-doge/</link>
+		
+		<dc:creator><![CDATA[Charles Rollet, Rebecca Bellan, Dominic-Madori Davis, Julie Bort, Sean O'Kane]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 18:45:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[doge]]></category>
+		<category><![CDATA[Department of Government Efficiency]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2985010</guid>
+
+					<description><![CDATA[Silicon Valley used to take a backseat to Washington, D.C. But now,&#160;the people disrupting technology have taken the wheel at the highest echelons of government. And that&#8217;s thanks, in large part, to the Department of Government Efficiency, better known as DOGE. Much reporting on DOGE has&#160;focused on its staffers&#8217; ties to Musk,&#160;the billionaire bestie of [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI adopts rival Anthropic&#8217;s standard for connecting AI models to data</title>
+		<link>https://techcrunch.com/2025/03/26/openai-adopts-rival-anthropics-standard-for-connecting-ai-models-to-data/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 18:18:35 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[mcp]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2986400</guid>
+
+					<description><![CDATA[OpenAI is embracing rival Anthropic&#8217;s standard for connecting AI assistants to the systems where data resides. In a post on X on Wednesday, OpenAI CEO Sam Altman said that OpenAI will add support for Anthropic&#8217;s Model Context Protocol, or MCP, across its products, including the desktop app for ChatGPT. MCP is an open source standard [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SpaceX reportedly has a secret backdoor for Chinese investment</title>
+		<link>https://techcrunch.com/2025/03/26/spacex-reportedly-has-a-secret-backdoor-for-chinese-investment/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 18:11:44 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Space]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[SpaceX]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2986394</guid>
+
+					<description><![CDATA[Elon Musk’s rocket company SpaceX has allowed Chinese investors to buy stakes as long as the funds are routed through the Cayman Islands or other offshore hubs, according to reporting from ProPublica.&#160; SpaceX is a defense contractor for the Pentagon, one that handles sensitive work like building a classified spy satellite network. Investment from China [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Leaked data exposes a Chinese AI censorship machine</title>
+		<link>https://techcrunch.com/2025/03/26/leaked-data-exposes-a-chinese-ai-censorship-machine/</link>
+		
+		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 18:05:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[human rights]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2983783</guid>
+
+					<description><![CDATA[One academic who reviewed the dataset said it was "clear evidence" that China, or its affiliates, wants to use AI to improve repression.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Bradley Tusk says he makes more money with ‘equity-for-services’ than he did as a traditional VC</title>
+		<link>https://techcrunch.com/2025/03/26/bradley-tusk-says-he-makes-more-money-with-equity-for-services-than-he-did-as-a-traditional-vc/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 17:58:07 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Bradley Tusk]]></category>
+		<category><![CDATA[Equity]]></category>
+		<category><![CDATA[VC]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2985938</guid>
+
+					<description><![CDATA[Bradley Tusk, co-founder and managing partner at Tusk Venture Partners, told TechCrunch in today’s episode of Equity that VC as we know it is dead. And it has been for the last four years.&#160; “Maybe there’s some VC that I’ve never heard of that’s awash with liquidity the last couple of years, but we haven’t [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fintech Mercury lands $300M in Sequoia-led Series C, doubles valuation to $3.5B</title>
+		<link>https://techcrunch.com/2025/03/26/fintech-mercury-lands-300m-in-sequoia-led-series-c-doubles-valuation-to-3-5b/</link>
+		
+		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 17:22:03 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Sequoia]]></category>
+		<category><![CDATA[mercury]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[digital banking]]></category>
+		<category><![CDATA[immad akhund]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2986356</guid>
+
+					<description><![CDATA[Digital banking startup Mercury has raised $300 million in primary and secondary funding at a $3.5 billion post-money valuation, the company confirmed to TechCrunch on Wednesday. The valuation is more than double the startup’s valuation when it last raised capital — a $120 million Series B round in 2021 that valued the company at $1.62 [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nuclear startup Terrestrial Energy goes public via SPAC, netting $280M in merger</title>
+		<link>https://techcrunch.com/2025/03/26/nuclear-startup-terrestrial-energy-goes-public-via-spac-netting-280-million-in-merger/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 16:50:23 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[nuclear fission]]></category>
+		<category><![CDATA[nuclear power]]></category>
+		<category><![CDATA[reverse merger]]></category>
+		<category><![CDATA[SPAC]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2986312</guid>
+
+					<description><![CDATA[The Canadian company is developing small modular reactors. It previously raised nearly $100 million.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Has GetReal cracked the code on AI deepfakes? $18M and an impressive client list say yes</title>
+		<link>https://techcrunch.com/2025/03/26/has-getreal-cracked-the-code-on-ai-deepfakes-18m-and-an-impressive-client-list-says-yes/</link>
+		
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 16:28:45 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[deepfakes]]></category>
+		<category><![CDATA[forensics]]></category>
+		<category><![CDATA[ForgePoint Capital]]></category>
+		<category><![CDATA[GetReal]]></category>
+		<category><![CDATA[impersonations]]></category>
+		<category><![CDATA[In-Q-Tel]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2986286</guid>
+
+					<description><![CDATA[The proliferation of scarily realistic deepfakes is one of the more pernicious by-products of the rise of AI, and falling victim to scams based on these deepfakes is already costing companies millions of dollars &#8212; not to mention the implications these could have on national security. A startup that&#8217;s built a toolset aimed at governments [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>A new social app is fighting rage-bait</title>
+		<link>https://techcrunch.com/2025/03/26/a-new-social-app-is-fighting-rage-bait/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 16:27:46 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[sez us]]></category>
+		<category><![CDATA[social media]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2986274</guid>
+
+					<description><![CDATA[Sez Us, a social app founded by Democratic strategist Joe Trippi, is trying to build a platform without rage-bait. Rage-bait refers to any posts that are intended to stoke controversy. This might be an intentionally controversial political take, or it can be a wholly fabricated scenario designed to farm engagement (e.g., a satirical creator got [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>YouTube is changing how YouTube Shorts views are counted</title>
+		<link>https://techcrunch.com/2025/03/26/youtube-is-changing-how-youtube-shorts-views-are-counted/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 16:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[YouTube]]></category>
+		<category><![CDATA[YouTube Shorts]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2986224</guid>
+
+					<description><![CDATA[YouTube is changing how it counts views on YouTube Shorts to give creators a deeper understanding of how their short-form content is performing, the company announced on Wednesday. Shorts views will now count the number of times a creator&#8217;s Short starts to play or replay. In the past, a view had been counted after a [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Waze removes Google Assistant from iOS due to ongoing issues</title>
+		<link>https://techcrunch.com/2025/03/26/waze-removes-google-assistant-from-ios-due-to-ongoing-issues/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 15:54:05 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[waze]]></category>
+		<category><![CDATA[Google Assistant]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2986264</guid>
+
+					<description><![CDATA[Since the integration of Google Assistant for Waze on iOS in 2020, iPhone users have faced ongoing issues that the company has struggled to resolve for &#8220;over a year,&#8221; Waze wrote in a post, apologizing for the “prolonged inconvenience.”  On Wednesday, the navigation app officially discontinued the feature. Many users had reported on Reddit that [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Amazon&#8217;s Alexa Fund is now backing AI startups</title>
 		<link>https://techcrunch.com/2025/03/26/amazon-alexa-fund-invests-into-four-new-startups-as-it-plans-to-invest-more-into-ai-solutions/</link>
 		
 		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
 		<pubDate>Wed, 26 Mar 2025 15:30:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
 		<category><![CDATA[Alexa]]></category>
-		<category><![CDATA[Funding]]></category>
 		<category><![CDATA[Amazon Alexa Fund]]></category>
+		<category><![CDATA[Funding]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2986151</guid>
 
-					<description><![CDATA[Amazon started the Alexa Fund in 2015 to back early-stage voice startups. With the advent of large language models and Amazon launching Gen AI-powered Alexa+ along with a family of multimodal AI models, the fund now wants to broaden its scope and invest more in AI startups. In a blog post Amazon shared with TechCrunch [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>What&#8217;s next for ATProto, the protocol powering Bluesky and other apps</title>
-		<link>https://techcrunch.com/2025/03/26/whats-next-for-atproto-the-protocol-powering-bluesky-and-other-apps/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Wed, 26 Mar 2025 15:11:16 +0000</pubDate>
-				<category><![CDATA[Social]]></category>
-		<category><![CDATA[AT Protocol]]></category>
-		<category><![CDATA[Bluesky]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2986212</guid>
-
-					<description><![CDATA[It&#8217;s getting easier to build new applications on ATProto, the protocol that powers Bluesky&#8217;s social network and a growing number of other apps. At ATmosphere, the ATProto community conference held over the weekend in Seattle, Bluesky CTO Paul Frazee offered attendees a glimpse of what&#8217;s ahead for the protocol&#8217;s development and how those will help [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Krisp is using AI to help Indians sound like Americans on calls</title>
-		<link>https://techcrunch.com/2025/03/26/krisp-launches-a-dubbing-feature-to-change-accent-of-the-speaker-during-a-call/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Wed, 26 Mar 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[accents]]></category>
-		<category><![CDATA[voice AI]]></category>
-		<category><![CDATA[Krisp]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2985224</guid>
-
-					<description><![CDATA[Audio startup Krisp on Wednesday said it is launching a new feature that uses AI to change a user&#8217;s accent during calls. The company is initially rolling out support for changing Indian English accents to U.S. English. The startup says the accent conversion process preserves the speaker&#8217;s voice and only switches phonemes to match American [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The TikTok ban is losing support among Americans, study says</title>
-		<link>https://techcrunch.com/2025/03/26/the-tiktok-ban-is-losing-support-among-americans-study-says/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Wed, 26 Mar 2025 14:53:21 +0000</pubDate>
-				<category><![CDATA[Social]]></category>
-		<category><![CDATA[social media]]></category>
-		<category><![CDATA[study]]></category>
-		<category><![CDATA[TikTok]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2986231</guid>
-
-					<description><![CDATA[Americans&#8217; support for a TikTok ban is declining, according to a study from the Pew Research Center. This survey of over 5,000 U.S. adults found that just 34% of respondents supported banning the short form video app. When Pew ran a similar study in 2023, 50% of adults supported the TikTok ban. Over the same [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Amazon launches personalized shopping prompts as part of its generative AI push</title>
-		<link>https://techcrunch.com/2025/03/26/amazon-launches-personalized-shopping-prompts-as-part-of-its-generative-ai-push/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Wed, 26 Mar 2025 14:09:19 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[Amazon]]></category>
-		<category><![CDATA[e-commerce]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[online shopping]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2986228</guid>
-
-					<description><![CDATA[Amazon continues to infuse AI into its shopping tools to encourage customers to make more purchases. The company announced on Wednesday a new feature called “Interests,” aimed at creating a more personalized and conversational search experience.&#160; With the new feature, customers can enter tailored prompts in the search bar, reflecting their interests, preferences, and even [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Countdown: 5 days left to save up to $320 on TechCrunch All Stage passes</title>
-		<link>https://techcrunch.com/2025/03/26/countdown-5-days-left-to-save-up-to-320-on-techcrunch-all-stage-passes/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Wed, 26 Mar 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[TC All Stage]]></category>
-		<category><![CDATA[TechCrunch All Stage]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2986139</guid>
-
-					<description><![CDATA[The clock is ticking — less than a week left until TechCrunch All Stage ticket prices go up! Save over $300 on founder and investor passes before March 31 at 11:59 p.m. PT. Founders, accelerate your path. Investors, empower their rise. On July 15, join 1,200 founders and VCs at SoWa Power Station in Boston, [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google fixes Chrome zero-day security flaw used in hacking campaign targeting journalists</title>
-		<link>https://techcrunch.com/2025/03/26/google-fixes-chrome-zero-day-security-flaw-used-in-hacking-campaign-targeting-journalists/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Wed, 26 Mar 2025 13:15:07 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[browsers]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2986199</guid>
-
-					<description><![CDATA[Kaspersky attributed the hacks to an espionage campaign targeting journalists and employees at educational institutions.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rivian spins out a new micromobility startup called Also with $105M from Eclipse</title>
-		<link>https://techcrunch.com/2025/03/26/rivian-spins-out-a-new-micromobility-startup-called-also-with-105m-from-eclipse/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec, Sean O'Kane]]></dc:creator>
-		<pubDate>Wed, 26 Mar 2025 13:00:03 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[EVs]]></category>
-		<category><![CDATA[micromobility]]></category>
-		<category><![CDATA[Rivian]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2986132</guid>
-
-					<description><![CDATA[Before RJ Scaringe founded Rivian in 2009, he had micromobility on his mind. More than a decade later, his musings took root in a small skunkworks program inside Rivian that set out to answer one question: Could the company&#8217;s technology be condensed down into something smaller and more affordable than its electric vans, trucks, and SUVs? [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cloud veterans launch ConfigHub to fix &#8216;configuration hell&#8217;</title>
-		<link>https://techcrunch.com/2025/03/26/cloud-veterans-launch-confighub-to-fix-configuration-hell/</link>
-		
-		<dc:creator><![CDATA[Paul Sawers]]></dc:creator>
-		<pubDate>Wed, 26 Mar 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[ConfigHub]]></category>
-		<category><![CDATA[configuration management]]></category>
-		<category><![CDATA[Kubernetes]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2977960</guid>
-
-					<description><![CDATA[A trio of cloud industry leaders have launched a new company with the mission of modernizing software configuration data management. Emerging from stealth today with $4 million in funding, ConfigHub is the handiwork of CEO Alexis Richardson, founder of cloud-native container management platform Weaveworks; CTO Brian Grant, former Google software engineer and original lead architect [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI&#8217;s coming to the classroom: Brisk raises $15M after a quick start in school</title>
-		<link>https://techcrunch.com/2025/03/26/ais-coming-to-the-classroom-brisk-raises-15m-after-a-quick-start-in-school/</link>
-		
-		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
-		<pubDate>Wed, 26 Mar 2025 12:13:18 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[EdTech]]></category>
-		<category><![CDATA[brisk]]></category>
-		<category><![CDATA[AI teaching tools]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2986172</guid>
-
-					<description><![CDATA[It&#8217;s virtually impossible today to determine when a student&#8217;s writing has been composed using ChatGPT or another GenAI tool, and it can be a nightmare to disprove incorrect accusations. An AI edtech startup called Brisk has built a tool that could at least help teachers identify some of the telltale signs, and it&#8217;s now announcing [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>A comprehensive list of 2025 tech layoffs</title>
-		<link>https://techcrunch.com/2025/03/26/tech-layoffs-2025-list/</link>
-		
-		<dc:creator><![CDATA[Cody Corrall, Alyssa Stringer, Kate Park]]></dc:creator>
-		<pubDate>Wed, 26 Mar 2025 10:12:16 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[Layoffs]]></category>
-		<category><![CDATA[tech layoffs]]></category>
-		<category><![CDATA[TechCrunch 2023 Recap]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2607662</guid>
-
-					<description><![CDATA[A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft adds AI-powered deep research tools to Copilot</title>
-		<link>https://techcrunch.com/2025/03/25/microsoft-adds-ai-powered-deep-research-tools-to-copilot/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 26 Mar 2025 02:45:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[agents]]></category>
-		<category><![CDATA[deep research]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2985986</guid>
-
-					<description><![CDATA[Microsoft is introducing a &#8220;deep research&#8221; AI-powered tool in Microsoft 365 Copilot, its AI chatbot app. There&#8217;s been a raft of deep research agents launched recently across chatbots, including OpenAI&#8217;s ChatGPT, Google&#8217;s Gemini, and xAI&#8217;s Grok. Powering them are so-called reasoning AI models, which posses the ability to think through problems and fact-check themselves &#8212; [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Read the email Jack Dorsey sent when he cut 931 of Block&#8217;s staff</title>
-		<link>https://techcrunch.com/2025/03/25/read-the-email-jack-dorsey-sent-when-he-cut-931-of-blocks-staff/</link>
-		
-		<dc:creator><![CDATA[Charles Rollet, Maxwell Zeff]]></dc:creator>
-		<pubDate>Tue, 25 Mar 2025 22:39:05 +0000</pubDate>
-				<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[jack dorsey]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2986055</guid>
-
-					<description><![CDATA[Block just laid off 931 employees. Read the email from its co-founder Jack Dorsey for more details on why.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>How to tell if your online accounts have been hacked</title>
-		<link>https://techcrunch.com/2025/03/25/how-to-tell-if-your-online-accounts-have-been-hacked/</link>
-		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
-		<pubDate>Tue, 25 Mar 2025 21:10:00 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[Facebook]]></category>
-		<category><![CDATA[Instagram]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[Outlook]]></category>
-		<category><![CDATA[security]]></category>
-		<category><![CDATA[signal]]></category>
-		<category><![CDATA[Twitter]]></category>
-		<category><![CDATA[WhatsApp]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2808258</guid>
-
-					<description><![CDATA[This is a guide on how to check whether someone compromised your online accounts.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Emergence Capital closes on $1B fund to back B2B companies</title>
-		<link>https://techcrunch.com/2025/03/25/emergence-capital-closes-on-1b-fund-to-back-b2b-companies/</link>
-		
-		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
-		<pubDate>Tue, 25 Mar 2025 20:53:39 +0000</pubDate>
-				<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Emergence Capital]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2986004</guid>
-
-					<description><![CDATA[Emergence Capital has closed its $1 billion seventh fund, it reported on Tuesday It&#8217;s the firm&#8217;s first raise in nearly four years. In May 2021, the San Mateo, California-based venture firm rounded up nearly a billion dollars in capital commitments across two funds.&#160; At that time, it closed its sixth early-stage fund with $575 million; [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Earth AI’s algorithms found critical minerals in places everyone else ignored</title>
-		<link>https://techcrunch.com/2025/03/25/earth-ais-algorithms-found-critical-minerals-in-places-everyone-else-ignored/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Tue, 25 Mar 2025 19:05:30 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[critical minerals]]></category>
-		<category><![CDATA[Earth AI]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[mining]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2985894</guid>
-
-					<description><![CDATA[The startup uses AI to quickly search for minerals over wide areas, identifying promising potential deposits for exploration.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Instagram partners with schools to prioritize reports of online bullying and student safety</title>
-		<link>https://techcrunch.com/2025/03/25/instagram-helps-schools-quickly-report-and-remove-posts-made-by-students/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Tue, 25 Mar 2025 18:39:44 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Instagram]]></category>
-		<category><![CDATA[teen safety]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2985949</guid>
-
-					<description><![CDATA[Instagram on Tuesday announced a new school partnership program aimed at expediting the handling of moderation reports submitted by verified school accounts. The program is currently available to all middle and high schools in the U.S. It allows schools to report posts or student accounts that may violate the app&#8217;s guidelines directly to Instagram. These [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ChatGPT&#8217;s image-generation feature gets an upgrade</title>
-		<link>https://techcrunch.com/2025/03/25/chatgpts-image-generation-feature-gets-an-upgrade/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers, Maxwell Zeff]]></dc:creator>
-		<pubDate>Tue, 25 Mar 2025 18:32:40 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[image generator]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2985792</guid>
-
-					<description><![CDATA[During a livestream on Tuesday, OpenAI CEO Sam Altman announced the first major upgrade to ChatGPT&#8217;s image-generation capabilities in over a year. ChatGPT can now leverage the company&#8217;s GPT-4o model to natively create and modify images and photos. GPT-4o has long underpinned the AI-powered chatbot platform, but until now, the model has been able to [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple announces WWDC 2025 takes place June 9-13</title>
-		<link>https://techcrunch.com/2025/03/25/apple-announces-wwdc-2025-takes-place-june-9-13/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Tue, 25 Mar 2025 17:46:39 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[wwdc]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2985892</guid>
-
-					<description><![CDATA[Apple has announced that its annual Worldwide Developers Conference (WWDC) will kick off on June 9 and run through June 13. The tech giant&#8217;s event is where it offers a look at its upcoming versions of iOS, iPadOS, macOS, watchOS, and tvOS, as well as new tools for its developers. As in past years, the [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>23andMe files for bankruptcy: How to delete your data</title>
-		<link>https://techcrunch.com/2025/03/25/23andme-files-for-bankruptcy-how-to-delete-your-data/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Tue, 25 Mar 2025 17:05:00 +0000</pubDate>
-				<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[23andMe]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2985785</guid>
-
-					<description><![CDATA[23andMe holds millions of customers' genetic information. Here's what you can do to protect your data.]]></description>
+					<description><![CDATA[Amazon started the Alexa Fund in 2015 to back early-stage voice startups. With the advent of large language models and Amazon launching Gen AI-powered Alexa+, along with a family of multimodal AI models, the fund now wants to broaden its scope and invest more in AI startups. In a blog post Amazon shared with TechCrunch [&#8230;]]]></description>
 		
 		
 		
