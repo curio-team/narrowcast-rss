@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 28 Mar 2025 00:08:42 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Mar 2025 12:31:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,42 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Mozilla patches Firefox bug &#8216;exploited in the wild&#8217;, similar to bug attacking Chrome</title>
+		<link>https://techcrunch.com/2025/03/28/mozilla-patches-firefox-bug-exploited-in-the-wild-similar-to-bug-attacking-chrome/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Fri, 28 Mar 2025 12:31:27 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[browsers]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[Mozilla]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2986934</guid>
+
+					<description><![CDATA[The bug fix comes days after Google fixed a similar vulnerability under attack in its Chrome browser.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google rolls out user choice billing on Google Play in the UK</title>
+		<link>https://techcrunch.com/2025/03/28/google-rolls-out-user-choice-billing-on-google-play-in-the-uk/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Fri, 28 Mar 2025 12:26:43 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[developers]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google Play]]></category>
+		<category><![CDATA[user choice billing]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2986930</guid>
+
+					<description><![CDATA[Google said today that it will start offering user choice billing in the U.K., giving Google Play developers the ability to use other billing options instead of Google&#8217;s own system. The change kicks in on March 29, initially only to non-game developers. If developers opt for it, they cannot replace Google Play billing altogether. Instead, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Krafton acquires controlling stake in Indian gaming studio Nautilus Mobile for $14M</title>
 		<link>https://techcrunch.com/2025/03/27/krafton-acquires-controlling-stake-in-indian-gaming-studio-nautilus-mobile-for-14m/</link>
 		
@@ -78,7 +114,7 @@
 		<category><![CDATA[certifications]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2986794</guid>
 
-					<description><![CDATA[Certification platform Certiverse raised an $11 million Series A led by Cherryrock Capital, it announced this week. The company was founded by Ruben Garcia, Pablo Meyer, and Federico Lopez in 2023. It lets organizations develop certification exams at, its founders say, far less cost than traditional methods.  Certifications are an age-old method to gain technical [&#8230;]]]></description>
+					<description><![CDATA[Certification platform Certiverse raised an $11 million Series A led by Cherryrock Capital, it announced this week. The company was founded by Ruben Garcia, Tyler Meadlin, Pablo Meyer, and Federico Lopez in 2019. It lets organizations develop certification exams at, its founders say, far less cost than traditional methods.  Certifications are an age-old method to [&#8230;]]]></description>
 		
 		
 		
@@ -349,43 +385,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2986604</guid>
 
 					<description><![CDATA[Abound, a go-to remittance app that was spun off by India's Times Internet, has raised $14 million in a seed round.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>NHS vendor Advanced to pay £3M fine following 2022 ransomware attack</title>
-		<link>https://techcrunch.com/2025/03/27/nhs-vendor-advanced-to-pay-3m-fine-following-2022-ransomware-attack/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Thu, 27 Mar 2025 08:26:19 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[NHS]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2986579</guid>
-
-					<description><![CDATA[NHS vendor Advanced will pay just over £3 million ($3.8 million) in fines for not implementing basic security measures before it suffered a ransomware attack in 2022, the U.K.&#8217;s data protection regulator has confirmed.&#160; It&#8217;s half the fine that the Information Commissioner&#8217;s Office (ICO) had initially sought in August 2024, when the data watchdog said [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI will reportedly close its SoftBank-led $40B round soon</title>
-		<link>https://techcrunch.com/2025/03/26/openai-will-reportedly-close-its-softbank-led-40-billion-round-soon/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Thu, 27 Mar 2025 06:13:12 +0000</pubDate>
-				<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[fundraising]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Magnetar Capital]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[Softbank]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2986607</guid>
-
-					<description><![CDATA[While you&#8217;re busy Ghibli-fying your images with ChatGPT&#8217;s new image-generation capabilities, OpenAI is out raising a ton more cash. The company is close to finalizing a new $40 billion funding round led by SoftBank, according to a report from Bloomberg. The report noted that other funds, including the hedge fund Magnetar Capital, Coatue Management, Founders [&#8230;]]]></description>
 		
 		
 		
