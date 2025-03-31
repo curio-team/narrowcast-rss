@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 31 Mar 2025 14:28:45 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 31 Mar 2025 15:35:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,60 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Runway releases an impressive new video-generating AI model</title>
+		<link>https://techcrunch.com/2025/03/31/runway-releases-an-impressive-new-video-generating-ai-model/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Mon, 31 Mar 2025 15:24:16 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[gen-4]]></category>
+		<category><![CDATA[runway]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2987485</guid>
+
+					<description><![CDATA[AI startup Runway on Monday released what it claims is one of the highest-fidelity AI-powered video generators yet. Called Gen-4, the model is rolling out to the company&#8217;s individual and enterprise customers. Runway claims that it can generate consistent characters, locations, and objects across scenes, maintain &#8220;coherent world environments,&#8221; and regenerate elements from different perspectives [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trump says TikTok deal will come before April 5 deadline</title>
+		<link>https://techcrunch.com/2025/03/31/trump-says-tiktok-deal-will-come-before-april-5-deadline/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Mon, 31 Mar 2025 15:17:22 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Donald Trump]]></category>
+		<category><![CDATA[TikTok]]></category>
+		<category><![CDATA[Trump]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2987482</guid>
+
+					<description><![CDATA[President Donald Trump has said that a deal with TikTok&#8217;s parent company ByteDance to sell the app will be finalized before the April 5 deadline, Reuters reports. &#8220;We have a lot of potential buyers,&#8221; Trump told reporters. &#8220;There&#8217;s tremendous interest in TikTok. He added, &#8220;I&#8217;d like to see TikTok remain alive.&#8221; Trump extended the deadline [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ChatGPT: Everything you need to know about the AI-powered chatbot</title>
+		<link>https://techcrunch.com/2025/03/31/chatgpt-everything-to-know-about-the-ai-chatbot/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers, Cody Corrall, Alyssa Stringer, Kate Park]]></dc:creator>
+		<pubDate>Mon, 31 Mar 2025 15:01:12 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2607630</guid>
+
+					<description><![CDATA[ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to supercharge productivity through writing essays and code with short text prompts has evolved into a behemoth with 300 million weekly active users. 2024 was a big year for OpenAI, from its partnership [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Streaming service Plex rolls out a revamped mobile app</title>
 		<link>https://techcrunch.com/2025/03/31/streaming-service-plex-rolls-out-a-revamped-mobile-app/</link>
 		
@@ -35,12 +89,11 @@
 		<pubDate>Mon, 31 Mar 2025 14:28:39 +0000</pubDate>
 				<category><![CDATA[Apps]]></category>
 		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[TC]]></category>
 		<category><![CDATA[plex]]></category>
 		<category><![CDATA[streaming service]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2987461</guid>
 
-					<description><![CDATA[Media software maker and streaming app Plex on Monday released an updated version of its mobile app. The redesign features a new user experience, reorganized navigation that includes giving its Watchlist a dedicated spot, and other changes that aim to make it easier to access power-user features for Plex customers who use its personal media [&#8230;]]]></description>
+					<description><![CDATA[Media software maker and streaming app Plex on Monday released an updated version of its mobile app. The redesign features a new user experience, reorganized navigation that includes giving its Watchlist a dedicated spot, and other changes that aim to make it easier to access power-user features for Plex customers who use the company&#8217;s personal [&#8230;]]]></description>
 		
 		
 		
@@ -117,7 +170,7 @@
 		
 			</item>
 		<item>
-		<title>IPO-bound Chime hopes to boost growth by paying higher interest rates</title>
+		<title>IPO-bound Chime hopes to boost growth by offering higher interest rates</title>
 		<link>https://techcrunch.com/2025/03/31/ipo-bound-chime-hopes-to-boost-growth-by-paying-higher-interest-rates/</link>
 		
 		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
@@ -334,55 +387,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2987350</guid>
 
 					<description><![CDATA[Amazon announced this week that Jennifer Salke is stepping down as the head of Amazon MGM Studios — a move that could indicate high-level dissatisfaction with the company’s streaming strategy over the past few years. To be clear, Salke’s boss Mike Hopkins (the head of Amazon MGM Studios and Prime Video) praised her work in [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Elon Musk&#8217;s xAI buys X</title>
-		<link>https://techcrunch.com/2025/03/29/block-cuts-931-employees/</link>
-		
-		<dc:creator><![CDATA[Karyne Levy]]></dc:creator>
-		<pubDate>Sat, 29 Mar 2025 17:02:00 +0000</pubDate>
-				<category><![CDATA[Social]]></category>
-		<category><![CDATA[block]]></category>
-		<category><![CDATA[Layoffs]]></category>
-		<category><![CDATA[Week in Review]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2987079</guid>
-
-					<description><![CDATA[Welcome back to Week in Review! Elon Musk says that xAI bought X in an all-stock deal; a16z-backed 11x faked some customers; the Lumon Terminal Pro pops up on Apple&#8217;s website; and much more. Let&#8217;s dig in! xAI buys X: X owner Elon Musk announced on X on Friday that xAI acquired X in an [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Elon Musk says xAI acquired X</title>
-		<link>https://techcrunch.com/2025/03/29/elon-musk-says-xai-acquired-x/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Sat, 29 Mar 2025 16:04:08 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2987176</guid>
-
-					<description><![CDATA[Elon Musk&#8217;s AI startup, xAI, has acquired his social media platform X, formerly known as Twitter, in an all-stock deal, he announced in a post on X Friday. &#8220;xAI has acquired X in an all-stock transaction,&#8221; Musk said. &#8220;The combination values xAI at $80 billion and X at $33 billion ($45B less $12B debt).&#8221; Musk [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CoreWeave co-founder explains how a closet of crypto-mining GPUs led to a $1.5B IPO</title>
-		<link>https://techcrunch.com/2025/03/29/coreweave-co-founder-explains-how-a-closet-of-crypto-mining-gpus-led-to-a-1-5b-ipo/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Sat, 29 Mar 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[CoreWeave]]></category>
-		<category><![CDATA[IPOs]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2987216</guid>
-
-					<description><![CDATA[CoreWeave co-founder Brian Venturo knows that three hedge fund guys, turned crypto miners, now running AI training infrastructure has been a wild ride.]]></description>
 		
 		
 		
