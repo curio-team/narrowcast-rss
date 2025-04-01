@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 01 Apr 2025 05:28:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 01 Apr 2025 12:26:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Ente wants to take on Google Photos with its privacy-first photo storage service</title>
+		<link>https://techcrunch.com/2025/04/01/ente-wants-to-take-on-google-photos-with-its-privacy-first-photo-storage-service/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Tue, 01 Apr 2025 12:26:27 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[ente]]></category>
+		<category><![CDATA[Google Photos]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[Photo backup]]></category>
+		<category><![CDATA[privacy]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2981375</guid>
+
+					<description><![CDATA[Despite Google&#8217;s intentions for its default image viewing and editing app for Android, the Photos app has, over the years, become one of the most popular photo backup services around. In fact, it was one of the most attractive offerings for years until it stopped offering unlimited storage in 2020. That change in the tech [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>OpenAI&#8217;s new image generator is now available to all users</title>
 		<link>https://techcrunch.com/2025/03/31/openais-new-image-generator-is-now-available-to-all-users/</link>
 		
@@ -355,24 +374,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2987453</guid>
 
 					<description><![CDATA[Electric trucking company Harbinger has filed an objection to the sale of Canoo&#8217;s assets to its CEO, potentially throwing a wrench into the two-month-old bankruptcy case. Harbinger&#8217;s objection, filed late Friday, accuses Canoo of hiding certain assets from the sale process, including what the startup purchased from another bankrupt EV company, Arrival. It also accuses [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Runway releases an impressive new video-generating AI model</title>
-		<link>https://techcrunch.com/2025/03/31/runway-releases-an-impressive-new-video-generating-ai-model/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Mon, 31 Mar 2025 15:24:16 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[gen-4]]></category>
-		<category><![CDATA[runway]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2987485</guid>
-
-					<description><![CDATA[AI startup Runway on Monday released what it claims is one of the highest-fidelity AI-powered video generators yet. Called Gen-4, the model is rolling out to the company&#8217;s individual and enterprise customers. Runway claims that it can generate consistent characters, locations, and objects across scenes, maintain &#8220;coherent world environments,&#8221; and regenerate elements from different perspectives [&#8230;]]]></description>
 		
 		
 		
