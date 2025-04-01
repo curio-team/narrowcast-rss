@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 01 Apr 2025 12:59:51 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 01 Apr 2025 14:21:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Tinder’s new AI-powered game assesses your flirting skills</title>
+		<link>https://techcrunch.com/2025/04/01/tinders-new-ai-powered-game-assesses-your-flirting-skills/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Tue, 01 Apr 2025 14:21:50 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[dating apps]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Tinder]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2987981</guid>
+
+					<description><![CDATA[You know the online dating scene is bad when dating giants like Tinder are now introducing AI personas for users to flirt with. On Tuesday, the company announced a new game powered by OpenAI, allowing users to interact with an AI bot to practice flirting, reenact meet-cute scenarios, and receive scores with suggestions for improving [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>ChatGPT isn&#8217;t the only chatbot that&#8217;s gaining users</title>
 		<link>https://techcrunch.com/2025/04/01/chatgpt-isnt-the-only-chatbot-thats-gaining-users/</link>
 		
@@ -364,23 +382,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2987451</guid>
 
 					<description><![CDATA[OpenAI is still struggling to overcome the capacity issues brought on by the viral image generation feature the company launched last week. On Monday, OpenAI disabled video generation for new users of Sora, the company&#8217;s suite of generative AI media tools. &#8220;We’re currently experiencing heavy traffic and have temporarily disabled Sora video generation for new [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Signal sees its downloads double after scandal</title>
-		<link>https://techcrunch.com/2025/03/31/signal-sees-its-downloads-double-after-scandal/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Mon, 31 Mar 2025 16:52:03 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[messenger apps]]></category>
-		<category><![CDATA[signal]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2987500</guid>
-
-					<description><![CDATA[Encrypted messaging app Signal continues to see spiking downloads in the wake of the messaging scandal that saw The Atlantic’s editor-in-chief Jeffrey Goldberg added to a group chat where high-ranking officials in the Trump administration were discussing an attack on Houthi rebels in Yemen. The resulting press coverage around the leak of these sensitive plans [&#8230;]]]></description>
 		
 		
 		
