@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 03 Apr 2025 13:30:49 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 03 Apr 2025 14:33:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,43 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Spotify debuts Gen AI ads, programmatic ad buying</title>
+		<link>https://techcrunch.com/2025/04/03/spotify-debuts-gen-ai-ads-programmatic-ad-buying/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Thu, 03 Apr 2025 14:03:36 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[advertising]]></category>
+		<category><![CDATA[Spotify]]></category>
+		<category><![CDATA[streaming service]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2989042</guid>
+
+					<description><![CDATA[Spotify announced Gen AI ads, among other changes to its advertising business, at an event in New York City on Thursday. Notably, the company introduced a new programmatic offering, the Spotify Ad Exchange (SAX), which allows advertisers to reach Spotify&#8217;s logged-in users via real-time auctions. Expanding on the SAX news, Spotify said it inked new [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New session at TechCrunch All Stage: Jahanvi Sardana on how top startups reshape markets</title>
+		<link>https://techcrunch.com/2025/04/03/new-session-at-techcrunch-all-stage-jahanvi-sardana-on-how-top-startups-reshape-markets/</link>
+		
+		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
+		<pubDate>Thu, 03 Apr 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[TC All Stage]]></category>
+		<category><![CDATA[TechCrunch All Stage]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2988682</guid>
+
+					<description><![CDATA[TechCrunch All Stage — the ultimate founder summit — is shaping up to be a powerhouse event where 1,200 founders and VCs across all stages will come together to forge meaningful connections and gain practical insights they can immediately apply to scale their startups. Join us on July 15 at SoWa Power Station in Boston [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Runway, best known for its video-generating AI models, raises $308M</title>
 		<link>https://techcrunch.com/2025/04/03/runway-best-known-for-its-video-generating-models-raises-308m/</link>
 		
@@ -68,8 +105,8 @@
 		<pubDate>Thu, 03 Apr 2025 13:00:00 +0000</pubDate>
 				<category><![CDATA[Crypto]]></category>
 		<category><![CDATA[blockchain]]></category>
-		<category><![CDATA[web3]]></category>
 		<category><![CDATA[Watr]]></category>
+		<category><![CDATA[web3]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2988595</guid>
 
 					<description><![CDATA[With President Donald Trump’s latest round of tariffs coming out today — a day he is calling “Liberation Day” — a Web3 startup thinks it could track tariffs automatically on goods coming into and out of the USA using its blockchain platform. The claim may well be bold — and typical of many such bold claims [&#8230;]]]></description>
@@ -337,39 +374,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2988545</guid>
 
 					<description><![CDATA[Amazon has submitted a bid to acquire all of TikTok, according to a new report from The New York Times. The last-minute bid comes as TikTok faces an April 5 deadline to shed its Chinese ownership or face a ban in the U.S. However, the parties involved in the deal talks do not appear to [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Redwood Materials preps for expansion spree with new R&#038;D center in San Francisco</title>
-		<link>https://techcrunch.com/2025/04/02/redwood-materials-preps-for-expansion-spree-with-new-rd-center-in-san-francisco/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
-		<pubDate>Wed, 02 Apr 2025 16:26:30 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[JB Straubel]]></category>
-		<category><![CDATA[Redwood Materials]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2988403</guid>
-
-					<description><![CDATA[Redwood Materials has been on an expansion tear in recent years — growth that has extended the lithium-ion battery recycling and materials startup&#8217;s footprint well beyond its Carson City, Nevada headquarters as it locked up deals with Toyota, Panasonic, and GM, started construction on a South Carolina factory, and made an acquisition in Europe. And [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>DeepMind&#8217;s 145-page paper on AGI safety may not convince skeptics</title>
-		<link>https://techcrunch.com/2025/04/02/deepminds-145-page-paper-on-agi-safety-may-not-convince-skeptics/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 02 Apr 2025 15:57:35 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[AGI]]></category>
-		<category><![CDATA[DeepMind]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2988462</guid>
-
-					<description><![CDATA[Google DeepMind on Wednesday published an exhaustive paper on its safety approach to AGI, roughly defined as AI that can accomplish any task a human can. AGI is a bit of a controversial subject in the AI field, with naysayers suggesting that it&#8217;s little more than a pipe dream. Others, including major AI labs like [&#8230;]]]></description>
 		
 		
 		
