@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 03 Apr 2025 09:03:36 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 03 Apr 2025 12:17:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,41 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Fuse raises $6.6M to fix a payment problem for companies expanding to MENA</title>
+		<link>https://techcrunch.com/2025/04/03/ex-bvnk-founder-launches-fuse-raises-6-6m-to-power-cross-border-payments-in-mena/</link>
+		
+		<dc:creator><![CDATA[Tage Kene-Okafor]]></dc:creator>
+		<pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[FUSE]]></category>
+		<category><![CDATA[MENA]]></category>
+		<category><![CDATA[cross-border payments]]></category>
+		<category><![CDATA[BVNK]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2988882</guid>
+
+					<description><![CDATA[Expanding into the Middle East and North Africa (MENA) remains a costly and complex challenge for global businesses, thanks to fragmented regulations and banking systems. Dubai-based fintech Fuse aims to simplify that with a cross-border payments API and has raised $6.6 million in seed funding to make it happen. Founded in 2023 by George Davis, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Truecaller now has over 450M monthly active users</title>
+		<link>https://techcrunch.com/2025/04/03/truecaller-now-has-over-450m-monthly-active-users/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 03 Apr 2025 11:38:50 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[caller id]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[Truecaller]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2988975</guid>
+
+					<description><![CDATA[The caller identity app Truecaller said that it crossed the 450 million user mark earlier this week. The company said that it added 50 million users in the past 10 months and 15.5 million users since the beginning of 2025. India is the company&#8217;s biggest user base. So it wasn&#8217;t surprising when Truecaller promoted Chief [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Fintech Plaid raises $575M at a $6.1B valuation, says it will not go public in 2025</title>
 		<link>https://techcrunch.com/2025/04/03/fintech-plaid-raises-575m-at-6-1b-valuation-says-it-will-not-go-public-in-2025/</link>
 		
@@ -340,42 +375,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2988353</guid>
 
 					<description><![CDATA[Anthropic announced on Wednesday that it&#8217;s launching a new Claude for Education tier, an answer to OpenAI&#8217;s ChatGPT Edu plan. The new tier is aimed at higher education, and gives students, faculty, and other staff access to Anthropic&#8217;s AI chatbot, Claude, with a few additional capabilities. One piece of Claude for Education is &#8220;Learning Mode,&#8221; [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Actively AI raises $22.5M to offer sales ‘superintelligence,’ says AI SDRs failed</title>
-		<link>https://techcrunch.com/2025/04/02/actively-ai-raises-22-5m-to-offer-sales-superintelligence-says-ai-sdrs-failed/</link>
-		
-		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
-		<pubDate>Wed, 02 Apr 2025 14:06:09 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[bain capital ventures]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2988339</guid>
-
-					<description><![CDATA[Actively AI argues that most AI sales reps have "failed." It just raised $22.5 million.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Parasail says its fleet of on-demand GPUs is larger than Oracle&#8217;s entire cloud</title>
-		<link>https://techcrunch.com/2025/04/02/parasail-says-its-fleet-of-on-demand-gpus-is-larger-than-oracles-entire-cloud/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Wed, 02 Apr 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI GPUs]]></category>
-		<category><![CDATA[AI hardware]]></category>
-		<category><![CDATA[fundraising]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2988279</guid>
-
-					<description><![CDATA[Cloud infrastructure is dominated by several large industry players: AWS, Microsoft&#8217;s Azure, and Google Cloud. While to some it may look like AI is headed in a similar direction, the founders of Parasail think AI infrastructure will look very different —&#160;and are betting their company&#8217;s fate on it. Parasail works with dozens of providers to [&#8230;]]]></description>
 		
 		
 		
