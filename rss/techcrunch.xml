@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 04 Apr 2025 09:44:33 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 04 Apr 2025 12:19:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Trump fires head of National Security Agency and Cyber Command</title>
+		<link>https://techcrunch.com/2025/04/04/trump-fires-head-of-national-security-agency-and-cyber-command/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Fri, 04 Apr 2025 12:02:04 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[national security]]></category>
+		<category><![CDATA[National Security Agency]]></category>
+		<category><![CDATA[Trump Administration]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2989607</guid>
+
+					<description><![CDATA[Haugh’s firing has seemingly caught senior lawmakers by surprise]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>A comprehensive list of 2025 tech layoffs</title>
 		<link>https://techcrunch.com/2025/04/04/tech-layoffs-2025-list/</link>
 		
@@ -94,7 +113,7 @@
 		<category><![CDATA[MidJourney]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2989539</guid>
 
-					<description><![CDATA[Midjourney, one of the first AI-based image generators on the web, has released its first new AI image model in nearly a year. Dubbed V7, the model began rolling out in alpha around midnight EST on Thursday, comes a week after OpenAI debuted a new image generator in ChatGPT that quickly went viral for its [&#8230;]]]></description>
+					<description><![CDATA[Midjourney, one of the earliest AI image-generating services on the web, has released its first new AI image model in nearly a year. Dubbed V7, the model began rolling out in alpha around midnight EST on Thursday, comes a week after OpenAI debuted a new image generator in ChatGPT that quickly went viral for its [&#8230;]]]></description>
 		
 		
 		
@@ -368,23 +387,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2989147</guid>
 
 					<description><![CDATA[Apple lost more than $250 billion in market value Thursday, with shares down as much as 8.5% as a result of President Donald Trump’s tariff spree.  The iPhone maker took one of the biggest hits on Wall Street, where tech stocks dropped as investors shifted money away from volatile assets. Tesla, Nvidia, and Meta were [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google is shipping Gemini models faster than its AI safety reports</title>
-		<link>https://techcrunch.com/2025/04/03/google-is-shipping-gemini-models-faster-than-its-ai-safety-reports/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Thu, 03 Apr 2025 16:41:38 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[ai safety]]></category>
-		<category><![CDATA[gemini]]></category>
-		<category><![CDATA[Google]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2988886</guid>
-
-					<description><![CDATA[More than two years after Google was caught flat-footed by the release of OpenAI&#8217;s ChatGPT, the company has dramatically picked up the pace. In late March, Google launched an AI reasoning model, Gemini 2.5 Pro, that leads the industry on several benchmarks measuring coding and math capabilities. That launch came just three months after the [&#8230;]]]></description>
 		
 		
 		
