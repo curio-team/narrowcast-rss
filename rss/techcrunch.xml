@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 03 Apr 2025 14:33:11 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 04 Apr 2025 06:25:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,19 +28,219 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Spotify debuts Gen AI ads, programmatic ad buying</title>
-		<link>https://techcrunch.com/2025/04/03/spotify-debuts-gen-ai-ads-programmatic-ad-buying/</link>
+		<title>StrictlyVC is heading to London this May</title>
+		<link>https://techcrunch.com/2025/04/04/strictlyvc-is-heading-to-london-this-may/</link>
 		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Thu, 03 Apr 2025 14:03:36 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[advertising]]></category>
-		<category><![CDATA[Spotify]]></category>
-		<category><![CDATA[streaming service]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2989042</guid>
+		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
+		<pubDate>Fri, 04 Apr 2025 07:00:00 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[StrictlyVC]]></category>
+		<category><![CDATA[StrictlyVC London]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2989530</guid>
 
-					<description><![CDATA[Spotify announced Gen AI ads, among other changes to its advertising business, at an event in New York City on Thursday. Notably, the company introduced a new programmatic offering, the Spotify Ad Exchange (SAX), which allows advertisers to reach Spotify&#8217;s logged-in users via real-time auctions. Expanding on the SAX news, Spotify said it inked new [&#8230;]]]></description>
+					<description><![CDATA[StrictlyVC is crossing the Atlantic! On 13 May, London will play host to an exclusive StrictlyVC evening, delivering the same high-caliber VC insider content that has made these events a must-attend for investors and startup leaders alike. If you’re a venture capitalist or founder looking to exchange insights with peers and dive into powerful, no-filter [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Midjourney releases V7, its first new AI image model in nearly a year</title>
+		<link>https://techcrunch.com/2025/04/03/midjourney-releases-its-first-new-ai-image-model-in-nearly-a-year/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Fri, 04 Apr 2025 04:59:47 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[AI image generators]]></category>
+		<category><![CDATA[MidJourney]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2989539</guid>
+
+					<description><![CDATA[Midjourney, one of the first AI-based image generators on the web, has released its first new AI image model in nearly a year. Dubbed V7, the model began rolling out in alpha around midnight EST on Thursday, comes a week after OpenAI debuted a new image generator in ChatGPT that quickly went viral for its [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Amazon&#8217;s new AI agent will shop third-party sites for you</title>
+		<link>https://techcrunch.com/2025/04/03/amazons-new-ai-agent-will-shop-third-party-stores-for-you/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Fri, 04 Apr 2025 00:35:40 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[agent]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[online shopping]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2989387</guid>
+
+					<description><![CDATA[Amazon is starting to test a new AI shopping agent, a feature it calls &#8220;Buy for Me,&#8221; with a subset users, the company announced in a blog post Thursday. If Amazon doesn&#8217;t sell something that users are searching for, the Buy for Me feature will display products to users that other websites are selling. Then, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Federal judge allows the EFF&#8217;s lawsuit against DOGE and Elon Musk to proceed</title>
+		<link>https://techcrunch.com/2025/04/03/federal-judge-allows-the-effs-lawsuit-against-doge-and-elon-musk-to-proceed/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Thu, 03 Apr 2025 22:05:13 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[EFF]]></category>
+		<category><![CDATA[OPM]]></category>
+		<category><![CDATA[doge]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2989441</guid>
+
+					<description><![CDATA[A federal judge ruled on Thursday that a lawsuit attempting to stop the Department of Government Efficiency from obtaining records on millions of Americans may proceed. In conjunction with privacy watchdog the Electronic Frontier Foundation and two labor unions, more than 100 current and former federal employees sued DOGE, the U.S. Office of Personnel Management [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Amazon Kindle&#8217;s new feature uses AI to generate recaps for books in a series</title>
+		<link>https://techcrunch.com/2025/04/03/amazon-kindles-new-feature-uses-ai-to-generate-recaps-for-books-in-a-series/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Thu, 03 Apr 2025 20:32:28 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Kindle]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2989045</guid>
+
+					<description><![CDATA[Amazon is introducing a new &#8220;Recaps&#8221; feature for Kindle users to help them recall plot points and character arcs before picking up the latest book in a series. While the company&#8217;s press release for the new feature doesn&#8217;t mention AI, Amazon confirmed to TechCrunch that recaps are AI-generated. &#8220;We use technology, including GenAI and Amazon [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Grace raises €5.9M seed to offer insurance to luxury goods</title>
+		<link>https://techcrunch.com/2025/04/03/grace-raises-e5-9-million-seed-to-offer-insurance-to-luxury-goods/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Thu, 03 Apr 2025 20:30:00 +0000</pubDate>
+				<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Grace]]></category>
+		<category><![CDATA[luxury goods]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2989321</guid>
+
+					<description><![CDATA[Grace, an insurance company for luxury goods, announced on Wednesday a $6.4 million (€5.9 million) seed round led by FinTech Collective and Speedinvest.  An insurance company for luxury goods, Grace works with luxury brands to protect purchased consumer goods. If an item is stolen or damaged, a consumer can create a claim through the Grace [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI just made its first cybersecurity investment </title>
+		<link>https://techcrunch.com/2025/04/03/openai-just-made-its-first-cybersecurity-investment/</link>
+		
+		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
+		<pubDate>Thu, 03 Apr 2025 20:28:37 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Andreessen Horowitz]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[deepfakes]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2989356</guid>
+
+					<description><![CDATA[OpenAI just co-led a $43 million Series A into deepfake defense startup Adaptive Security.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Intel and TSMC are reportedly launching a joint chipmaking venture</title>
+		<link>https://techcrunch.com/2025/04/03/intel-and-tsmc-are-reportedly-launching-a-joint-chipmaking-venture/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Thu, 03 Apr 2025 20:25:46 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[chips]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[semiconductor]]></category>
+		<category><![CDATA[TSMC]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2989316</guid>
+
+					<description><![CDATA[Semiconductor giants Intel and TSMC are reportedly teaming up. The two firms are said to have reached a tentative agreement to create a joint venture that will operate Intel&#8217;s chipmaking facilities, according to The Information. TSMC will have a 20% stake in the new venture. Instead of funding its stake with capital, TSMC will share [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ted Schlein&#8217;s Ballistic Ventures is raising $100M for a new fund</title>
+		<link>https://techcrunch.com/2025/04/03/ted-schleins-ballistic-ventures-is-raising-100m-for-a-new-fund/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Thu, 03 Apr 2025 20:20:24 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[Ballistic Ventures]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2989336</guid>
+
+					<description><![CDATA[Ted Schlein's cybersecurity-focused Ballistic Ventures is raising $100 million for a new fund, TechCrunch has exclusively learned.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Teen with 4.0 GPA who built the viral Cal AI app was rejected by 15 top universities</title>
+		<link>https://techcrunch.com/2025/04/03/teen-with-4-0-gpa-who-built-the-viral-cal-ai-app-was-rejected-by-15-top-universities/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Thu, 03 Apr 2025 19:55:02 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[calorie counting]]></category>
+		<category><![CDATA[college drop-outs]]></category>
+		<category><![CDATA[teen]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2988897</guid>
+
+					<description><![CDATA[Zach Yadegari, the high school teen co-founder of Cal AI, is being hammered with comments on X after he revealed that out of 18 top colleges he applied to, he was rejected by 15. Yadegari says that he got a 4.0 GPA and nailed a 34 score on his ACT (above 31 is considered a [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>TikTok quietly launches a new &#8216;TikTok for Artists&#8217; platform</title>
+		<link>https://techcrunch.com/2025/04/03/tiktok-quietly-launches-a-new-tiktok-for-artists-platform/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Thu, 03 Apr 2025 19:47:49 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[TikTok]]></category>
+		<category><![CDATA[tiktok for artists]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2989231</guid>
+
+					<description><![CDATA[As TikTok&#8217;s fate in the United States remains uncertain, the tech giant has quietly started testing a new &#8220;TikTok for Artists&#8221; insights platform that is designed to help artists build their careers, the company confirmed to TechCrunch. The platform will provide artists with tools to promote their songs, understand performance metrics, and engage with fans. [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Devin, the viral coding AI agent, gets a new pay-as-you-go plan</title>
+		<link>https://techcrunch.com/2025/04/03/devin-the-viral-coding-ai-agent-gets-a-new-pay-as-you-go-plan/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 03 Apr 2025 19:46:33 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[ai coding assistant]]></category>
+		<category><![CDATA[Devin]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2989255</guid>
+
+					<description><![CDATA[Cognition, the startup behind the viral AI programming tool Devin, has introduced a new low-cost plan to incentivize signups. When Cognition released Devin last year, the tool quickly blew up on social media for its ability to perform certain software development tasks autonomously. But it soon became apparent that Devin struggled with more complex coding [&#8230;]]]></description>
 		
 		
 		
@@ -50,11 +250,11 @@
 		<link>https://techcrunch.com/2025/04/03/new-session-at-techcrunch-all-stage-jahanvi-sardana-on-how-top-startups-reshape-markets/</link>
 		
 		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Thu, 03 Apr 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
+		<pubDate>Thu, 03 Apr 2025 19:40:57 +0000</pubDate>
+				<category><![CDATA[Fundraising]]></category>
 		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
 		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Fundraising]]></category>
 		<category><![CDATA[TC All Stage]]></category>
 		<category><![CDATA[TechCrunch All Stage]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2988682</guid>
@@ -65,315 +265,128 @@
 		
 			</item>
 		<item>
-		<title>Runway, best known for its video-generating AI models, raises $308M</title>
-		<link>https://techcrunch.com/2025/04/03/runway-best-known-for-its-video-generating-models-raises-308m/</link>
+		<title>Microsoft reportedly pulls back on its data center plans</title>
+		<link>https://techcrunch.com/2025/04/03/microsoft-reportedly-pulls-back-on-its-data-center-plans/</link>
 		
 		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Thu, 03 Apr 2025 13:18:00 +0000</pubDate>
+		<pubDate>Thu, 03 Apr 2025 18:45:48 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2989016</guid>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[data center]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2989225</guid>
 
-					<description><![CDATA[Runway, a startup developing a range of generative AI models for media production, including video-generating models, has raised $308 million in a Series D funding round. General Atlantic led the round, which had participation from Fidelity Management &#38; Research Company, Baillie Gifford, Nvidia, SoftBank, and others. The fresh capital will be put toward AI research [&#8230;]]]></description>
+					<description><![CDATA[Microsoft has pulled back on data center projects around the world, Bloomberg reports, suggesting that the company is wary of expanding its cloud computing infrastructure too rapidly. Microsoft has halted talks for or delayed development sites of data centers in the U.K., Australia, North Dakota, Wisconsin, and Illinois, per Bloomberg. A spokesperson told the publication [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>The Nintendo Switch 2, hands-on: It’s pretty good!</title>
-		<link>https://techcrunch.com/2025/04/03/the-nintendo-switch-2-hands-on-its-pretty-good/</link>
+		<title>X may soon start selling inactive usernames to Verified Organizations starting at $10K, code reveals</title>
+		<link>https://techcrunch.com/2025/04/03/x-may-soon-start-selling-inactive-usernames-to-verified-organizations-starting-at-10k-code-reveals/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Thu, 03 Apr 2025 18:10:54 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[X]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2989175</guid>
+
+					<description><![CDATA[X&#8217;s plan to boost revenue by selling off dormant usernames on its service is starting to shape up. According to recent changes found in X&#8217;s web application, the company is setting up a &#8220;handle inquiry&#8221; process that will allow Verified Organizations &#8212; companies and other organizations that already have a $1,000 per month X subscription [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Studio Ghibli hasn&#8217;t commented on OpenAI&#8217;s onslaught of AI copies, but the fan subreddit has</title>
+		<link>https://techcrunch.com/2025/04/03/studio-ghibli-hasnt-commented-on-openais-onslaught-of-ai-copies-but-the-fan-subreddit-has/</link>
 		
 		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Thu, 03 Apr 2025 13:01:55 +0000</pubDate>
-				<category><![CDATA[Gaming]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Nintendo]]></category>
-		<category><![CDATA[nintendo switch 2]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2989002</guid>
+		<pubDate>Thu, 03 Apr 2025 17:39:34 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[hayao miyazaki]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Studio Ghibli]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2989133</guid>
 
-					<description><![CDATA[At a presentation unveiling the Nintendo Switch 2, longtime Nintendo producer Kouichi Kawamoto revealed that at one point, he considered calling the Switch’s successor the “Super Nintendo Switch.” It would have been a nice nod to Nintendo’s second console, the Super Nintendo Entertainment System, which followed the original NES about 35 years ago. But Kawamoto, [&#8230;]]]></description>
+					<description><![CDATA[When OpenAI debuted its image-generation feature in ChatGPT last week, social media exploded when users realized that they could make AI-generated images that looked like something out of an animated film from Studio Ghibli. Fans hoped that Studio Ghibli mastermind Hayao Miyazaki would take a stand, but the 84-year-old animator has remained silent. In the [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>A web3 startup aims to change the game in the tariff wars</title>
-		<link>https://techcrunch.com/2025/04/03/could-web3-change-the-game-in-the-coming-tariff-wars/</link>
-		
-		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
-		<pubDate>Thu, 03 Apr 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Crypto]]></category>
-		<category><![CDATA[blockchain]]></category>
-		<category><![CDATA[Watr]]></category>
-		<category><![CDATA[web3]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2988595</guid>
-
-					<description><![CDATA[With President Donald Trump’s latest round of tariffs coming out today — a day he is calling “Liberation Day” — a Web3 startup thinks it could track tariffs automatically on goods coming into and out of the USA using its blockchain platform. The claim may well be bold — and typical of many such bold claims [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fuse raises $6.6M to fix a payment problem for companies expanding to MENA</title>
-		<link>https://techcrunch.com/2025/04/03/ex-bvnk-founder-launches-fuse-raises-6-6m-to-power-cross-border-payments-in-mena/</link>
-		
-		<dc:creator><![CDATA[Tage Kene-Okafor]]></dc:creator>
-		<pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[FUSE]]></category>
-		<category><![CDATA[MENA]]></category>
-		<category><![CDATA[cross-border payments]]></category>
-		<category><![CDATA[BVNK]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2988882</guid>
-
-					<description><![CDATA[Expanding into the Middle East and North Africa (MENA) remains a costly and complex challenge for global businesses, thanks to fragmented regulations and banking systems. Dubai-based fintech Fuse aims to simplify that with a cross-border payments API and has raised $6.6 million in seed funding to make it happen. Founded in 2023 by George Davis, [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Truecaller now has over 450M monthly active users</title>
-		<link>https://techcrunch.com/2025/04/03/truecaller-now-has-over-450m-monthly-active-users/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Thu, 03 Apr 2025 11:38:50 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[caller id]]></category>
-		<category><![CDATA[India]]></category>
-		<category><![CDATA[Truecaller]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2988975</guid>
-
-					<description><![CDATA[The caller identity app Truecaller said that it crossed the 450 million user mark earlier this week. The company said that it added 50 million users in the past 10 months and 15.5 million users since the beginning of 2025. India is the company&#8217;s biggest user base. So it wasn&#8217;t surprising when Truecaller promoted Chief [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fintech Plaid raises $575M at a $6.1B valuation, says it will not go public in 2025</title>
-		<link>https://techcrunch.com/2025/04/03/fintech-plaid-raises-575m-at-6-1b-valuation-says-it-will-not-go-public-in-2025/</link>
-		
-		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
-		<pubDate>Thu, 03 Apr 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Plaid]]></category>
-		<category><![CDATA[Franklin Templeton]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2988854</guid>
-
-					<description><![CDATA[Plaid, which connects bank accounts to financial applications, has sold about $575 million worth of common stock at a $6.1 billion post-money valuation, the fintech company confirmed to TechCrunch. The valuation is about less than half of the $13.4 billion that San Francisco-based Plaid was valued at when it raised a $425 million Series D [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Y Combinator neobank Djamo raises $17M with 1M users across Francophone Africa</title>
-		<link>https://techcrunch.com/2025/04/03/djamo-raises-17m-and-has-1m-users-across-francophone-africa/</link>
-		
-		<dc:creator><![CDATA[Tage Kene-Okafor]]></dc:creator>
-		<pubDate>Thu, 03 Apr 2025 09:00:00 +0000</pubDate>
-				<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Africa]]></category>
-		<category><![CDATA[digital banking]]></category>
-		<category><![CDATA[Djamo]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2988389</guid>
-
-					<description><![CDATA[Djamo is one of several digital banking startups targeting Africa’s underbanked. But unlike many that focus on large markets like Nigeria, Egypt, or South Africa, Djamo has carved out a niche in Francophone West Africa, specifically the Ivory Coast and, more recently, Senegal. It now serves over one million customers across both countries. The Y [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Space solar startup Aetherflux raises $50M to launch first space demo in 2026</title>
-		<link>https://techcrunch.com/2025/04/02/space-solar-startup-aetherflux-raises-50m-to-launch-first-space-demo-in-2026/</link>
+		<title>Apple loses $250B market value as tariffs tank tech stocks</title>
+		<link>https://techcrunch.com/2025/04/03/apple-loses-250b-market-value-as-tariffs-tank-tech-stocks/</link>
 		
 		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Wed, 02 Apr 2025 21:07:39 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Space]]></category>
-		<category><![CDATA[Aetherflux]]></category>
-		<category><![CDATA[space solar]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2988800</guid>
-
-					<description><![CDATA[Aetherflux, the space solar startup founded by Baiju Bhatt, the billionaire co-founder of Robinhood, has raised $50 million in a Series A round as it works to launch its first low Earth orbit demonstration in 2026.  The San Carlos, California-based startup, which came out of stealth last October, aims to eventually launch a constellation of [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Stablecoin issuer Circle takes another stab at a public listing</title>
-		<link>https://techcrunch.com/2025/04/02/stablecoin-issuer-circle-takes-another-stab-at-a-public-listing/</link>
-		
-		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Wed, 02 Apr 2025 21:00:34 +0000</pubDate>
-				<category><![CDATA[Crypto]]></category>
-		<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Circle]]></category>
-		<category><![CDATA[IPO]]></category>
-		<category><![CDATA[stablecoin]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2988783</guid>
-
-					<description><![CDATA[Circle, the issuer of USDC, a stablecoin pegged to the U.S. dollar, filed to go public on Tuesday. The company, which makes money from interest earned on its reserve assets, reported that its 2024 revenue and reserve income was $1.68 billion, up from $1.45 billion the year prior. Circle&#8217;s 2024 net income was $156 million, [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI&#8217;s o3 model might be costlier to run than originally estimated</title>
-		<link>https://techcrunch.com/2025/04/02/openais-o3-model-might-be-costlier-to-run-than-originally-estimated/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 02 Apr 2025 20:21:25 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[arc prize foundation]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2988631</guid>
-
-					<description><![CDATA[When OpenAI unveiled its o3 &#8220;reasoning&#8221; AI model in December, the company partnered with the creators of ARC-AGI, a benchmark designed to test highly capable AI, to showcase o3&#8217;s capabilities. Months later, the results have been revised, and they now look slightly less impressive than they did initially. Last week, the Arc Prize Foundation, which [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Epic Games CEO calls Apple and Google &#8216;gangster-style&#8217; businesses in need of competition</title>
-		<link>https://techcrunch.com/2025/04/02/epic-games-ceo-calls-apple-and-google-gangster-style-businesses-in-need-of-competition/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Wed, 02 Apr 2025 20:11:57 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Gaming]]></category>
-		<category><![CDATA[app stores]]></category>
+		<pubDate>Thu, 03 Apr 2025 16:43:06 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Hardware]]></category>
 		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Epic Games]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[tim sweeney]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2988630</guid>
+		<category><![CDATA[trump's tariffs]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2989147</guid>
 
-					<description><![CDATA[Epic Games CEO Tim Sweeney, whose company makes Fortnite and tools for other developers, including Unreal Engine, called out Apple and Google as &#8220;gangster-style businesses&#8221; engaged in illegal practices while speaking at a Y Combinator event on Wednesday. The executive also emphasized how the big tech companies&#8217; practices directly affected his own business by scaring [&#8230;]]]></description>
+					<description><![CDATA[Apple lost more than $250 billion in market value Thursday, with shares down as much as 8.5% as a result of President Donald Trump’s tariff spree.  The iPhone maker took one of the biggest hits on Wall Street, where tech stocks dropped as investors shifted money away from volatile assets. Tesla, Nvidia, and Meta were [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>You might be following Second Lady Usha Vance on Instagram now</title>
-		<link>https://techcrunch.com/2025/04/02/you-might-be-following-second-lady-usha-vance-on-instagram-now/</link>
+		<title>Google is shipping Gemini models faster than its AI safety reports</title>
+		<link>https://techcrunch.com/2025/04/03/google-is-shipping-gemini-models-faster-than-its-ai-safety-reports/</link>
 		
 		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Wed, 02 Apr 2025 20:00:00 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Instagram]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[White House]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2988640</guid>
-
-					<description><![CDATA[Starting Wednesday, Meta says it will begin combining the Instagram accounts of the Second Lady of the United States, Usha Vance, and the former Second Gentleman of the United States, Doug Emhoff. As a result, the 1.2 million people who were previously following the Instagram account of Kamala Harris&#8217;s husband, @secondgentleman46archive (recently archived by the [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The affidavit of a Rippling employee caught spying for Deel reads like a movie</title>
-		<link>https://techcrunch.com/2025/04/02/the-affidavit-of-a-rippling-employee-caught-spying-for-deel-reads-like-a-movie/</link>
-		
-		<dc:creator><![CDATA[Julie Bort, Mary Ann Azevedo]]></dc:creator>
-		<pubDate>Wed, 02 Apr 2025 19:20:05 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[corporate espionage]]></category>
-		<category><![CDATA[Deel]]></category>
-		<category><![CDATA[Rippling]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2988661</guid>
-
-					<description><![CDATA[Rippling released the affidavit of the its employee who admitted he was spying for Deel. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI seeks to convene group to advise its nonprofit goals</title>
-		<link>https://techcrunch.com/2025/04/02/openai-seeks-to-convene-group-to-advise-its-nonprofit-goals/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 02 Apr 2025 19:19:02 +0000</pubDate>
+		<pubDate>Thu, 03 Apr 2025 16:41:38 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2988680</guid>
+		<category><![CDATA[ai safety]]></category>
+		<category><![CDATA[gemini]]></category>
+		<category><![CDATA[Google]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2988886</guid>
 
-					<description><![CDATA[As it prepares to transition from a nonprofit corporation to a for-profit, OpenAI says it&#8217;s convening a group of experts to &#8220;help OpenAI’s philanthropy understand the most urgent and intractable problems nonprofits face today.&#8221; This group, which OpenAI says will incorporate feedback from &#8220;leaders and communities&#8221; in health, science, education, and public services, particularly within [&#8230;]]]></description>
+					<description><![CDATA[More than two years after Google was caught flat-footed by the release of OpenAI&#8217;s ChatGPT, the company has dramatically picked up the pace. In late March, Google launched an AI reasoning model, Gemini 2.5 Pro, that leads the industry on several benchmarks measuring coding and math capabilities. That launch came just three months after the [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>WordPress maker Automattic lays off 16% of staff</title>
-		<link>https://techcrunch.com/2025/04/02/wordpress-maker-automattic-lays-off-16-of-staff/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Wed, 02 Apr 2025 18:29:05 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Automattic]]></category>
-		<category><![CDATA[Layoffs]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2988633</guid>
-
-					<description><![CDATA[Automattic, the company behind WordPress.com, Tumblr, WooCommerce, and a range of other online services, is reducing its workforce. The layoffs will impact 16% of staff across divisions, an Automattic blog post published Wednesday reveals. Ahead of the layoffs, Automattic&#8217;s website listed 1,744 employees, which means north of 270 people may have lost their jobs. (Automattic [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>What to know about TikTok’s uncertain future in the US and the people who want to buy it</title>
-		<link>https://techcrunch.com/2025/04/02/what-to-know-about-tiktoks-uncertain-future-in-the-us-and-the-people-who-want-to-buy-it/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Wed, 02 Apr 2025 17:18:27 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[social media]]></category>
-		<category><![CDATA[TikTok]]></category>
-		<category><![CDATA[TikTok Ban]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2966426</guid>
-
-					<description><![CDATA[TikTok, owned by the Chinese company ByteDance, has been at the center of controversy in the U.S. for four years now due to concerns about user data potentially being accessed by the Chinese government. Earlier this year, the app experienced a temporary outage in the U.S. that left millions of users in suspense before it [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Epic Games acquires Loci to introduce automated 3D tagging</title>
-		<link>https://techcrunch.com/2025/04/02/epic-games-acquires-loci-to-introduce-3d-tagging/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Wed, 02 Apr 2025 16:44:24 +0000</pubDate>
-				<category><![CDATA[Gaming]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Epic Games]]></category>
-		<category><![CDATA[fortnite]]></category>
-		<category><![CDATA[Mergers and Acquisitions]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2988563</guid>
-
-					<description><![CDATA[Epic Games announced on Wednesday the acquisition of Loci, an AI platform for automated tagging 3D assets. The deal will help creators with the labor-intensive process of tagging as well as to help detect potential intellectual property (IP) violations. Loci, which uses computer vision models to understand 3D content, automatically tags 3D assets, making content [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Amazon reportedly submits last-minute bid to acquire TikTok</title>
-		<link>https://techcrunch.com/2025/04/02/amazon-reportedly-submits-last-minute-bid-to-acquire-tiktok/</link>
+		<title>YouTube Shorts takes on TikTok with new creation tools</title>
+		<link>https://techcrunch.com/2025/04/03/youtube-shorts-takes-on-tiktok-with-new-creation-tools/</link>
 		
 		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Wed, 02 Apr 2025 16:43:09 +0000</pubDate>
+		<pubDate>Thu, 03 Apr 2025 16:00:00 +0000</pubDate>
 				<category><![CDATA[Apps]]></category>
 		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Amazon]]></category>
-		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Instagram Reels]]></category>
 		<category><![CDATA[TikTok]]></category>
-		<category><![CDATA[TikTok Ban]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2988545</guid>
+		<category><![CDATA[YouTube]]></category>
+		<category><![CDATA[YouTube Shorts]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2988707</guid>
 
-					<description><![CDATA[Amazon has submitted a bid to acquire all of TikTok, according to a new report from The New York Times. The last-minute bid comes as TikTok faces an April 5 deadline to shed its Chinese ownership or face a ban in the U.S. However, the parties involved in the deal talks do not appear to [&#8230;]]]></description>
+					<description><![CDATA[As YouTube Shorts continues to compete with TikTok, the platform is announcing new upcoming features to help creators publish engaging short-form videos. Creators will get access to an improved video editor, the ability to generate AI stickers, a feature that syncs content to the beat of a song, enhanced templates, and more. The launch of [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Elon Musk took a chainsaw to the US government. Tesla is taking the hit.</title>
+		<link>https://techcrunch.com/2025/04/03/elon-musk-took-a-chainsaw-to-the-us-government-tesla-is-taking-the-hit/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Thu, 03 Apr 2025 15:49:00 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[doge]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<category><![CDATA[tesla takedown]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2988860</guid>
+
+					<description><![CDATA[Elon Musk has long been credited with turning Tesla into a beacon of innovation, the visionary who pushed the world into an era of electrification. But his slide into politics &#8212; specifically his alignment with President Trump and activities within the federal government &#8212; has dragged Tesla into uncertainty.  For many would-be Tesla buyers, the [&#8230;]]]></description>
 		
 		
 		
