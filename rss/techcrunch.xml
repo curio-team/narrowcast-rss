@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 07 Apr 2025 06:55:40 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 07 Apr 2025 11:43:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Someone hacked ransomware gang Everest’s leak site</title>
+		<link>https://techcrunch.com/2025/04/07/someone-hacked-everest-ransomware-gang-dark-web-leak-site/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Mon, 07 Apr 2025 11:40:21 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2990147</guid>
+
+					<description><![CDATA["Don't do crime," the ransomware gang's dark web leak site reads.
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Want to stay young? Peter Diamandis says survive the next 10 years</title>
 		<link>https://techcrunch.com/2025/04/06/want-to-stay-young-peter-diamandis-says-survive-the-next-10-years/</link>
 		
@@ -348,22 +367,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&#038;p=2989701</guid>
 
 					<description><![CDATA[Mach CEO Ethan Thornton has been building weapons systems of varying shapes and sizes since high school, but his ambitions have turned into a company that recently landed a contract with the U.S. military and a plan to develop cross-functional factories. TechCrunch&#8217;s Charles Rollet interviewed Thornton during the StrictlyVC 2025 event in San Francisco, exploring [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>GitHub Copilot introduces new limits, charges for &#8216;premium&#8217; AI models</title>
-		<link>https://techcrunch.com/2025/04/04/github-copilot-introduces-new-limits-charges-for-premium-ai-models/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Fri, 04 Apr 2025 17:52:41 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Copilot]]></category>
-		<category><![CDATA[GitHub]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2989776</guid>
-
-					<description><![CDATA[GitHub Copilot, Microsoft-owned GitHub&#8217;s AI coding assistant, could soon become costlier for some users. On Friday, GitHub announced &#8220;premium requests&#8221; for GitHub Copilot, a new system that imposes rate limits when users switch to AI models other than the base model for tasks such as &#8220;agentic&#8221; coding and multi-file edits. While GitHub Copilot subscribers can [&#8230;]]]></description>
 		
 		
 		
