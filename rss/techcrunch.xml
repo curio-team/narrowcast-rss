@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 08 Apr 2025 12:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 08 Apr 2025 13:14:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,57 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Mira Murati&#8217;s AI startup gains prominent ex-OpenAI advisors</title>
+		<link>https://techcrunch.com/2025/04/08/mira-muratis-ai-startup-gains-prominent-ex-openai-advisors/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Tue, 08 Apr 2025 13:13:57 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Mira Murati]]></category>
+		<category><![CDATA[Thinking Machines Lab]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2990883</guid>
+
+					<description><![CDATA[Ex-OpenAI CTO Mira Murati&#8217;s new AI venture, Thinking Machines Lab, has gained two new prominent advisors: Bob McGrew, previously OpenAI&#8217;s chief research officer, and Alec Radford, a former OpenAI researcher behind many of the company&#8217;s more transformative innovations. Thinking Machines Lab&#8217;s website was quietly updated with McGrew and Radford&#8217;s names sometime in March. A spokesperson [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Snapchat rolls out Sponsored AI Lenses for brands</title>
+		<link>https://techcrunch.com/2025/04/08/snapchat-rolls-out-sponsored-ai-lenses-for-brands/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Tue, 08 Apr 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Snap]]></category>
+		<category><![CDATA[Snapchat]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2990312</guid>
+
+					<description><![CDATA[Snapchat is introducing Sponsored AI Lenses, a new ad format that lets brands engage with consumers in an immersive way. While Snapchat has offered brands the opportunity to pay for sponsored lenses on the platform for years, now they can leverage AI-generated experiences powered by Snap&#8217;s proprietary generative AI technology. With these interactive lenses, brands [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Amazon unveils a new AI voice model, Nova Sonic</title>
+		<link>https://techcrunch.com/2025/04/08/amazon-unveils-a-new-ai-voice-model-nova-sonic/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Tue, 08 Apr 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[AI voice model]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2990605</guid>
+
+					<description><![CDATA[On Tuesday, Amazon debuted a new generative AI model, Nova Sonic, capable of natively processing voice and generating natural-sounding speech. Amazon claims that Sonic&#8217;s performance is competitive with frontier voice models from OpenAI and Google on benchmarks measuring speed, speech recognition, and conversational quality. Nova Sonic is Amazon&#8217;s answer to newer AI voice models such [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Blackbird gobbles up $50M for its blockchain-based payment-loyalty app for restaurants</title>
 		<link>https://techcrunch.com/2025/04/08/blackbird-gobbles-up-50m-for-its-blockchain-based-payment-loyalty-app-for-restaurants/</link>
 		
@@ -336,58 +387,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2990292</guid>
 
 					<description><![CDATA[Waymo is preparing to use data from its robotaxis, including video from interior cameras tied to rider identities, to train generative AI models, according to an unreleased version of its privacy policy found by researcher Jane Manchun Wong.  The draft language reveals Waymo may also share this data to personalize ads, raising fresh questions about [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google&#8217;s AI Mode now lets users ask complex questions about images</title>
-		<link>https://techcrunch.com/2025/04/07/googles-ai-mode-now-lets-users-ask-complex-questions-about-images/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Mon, 07 Apr 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[ai mode]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[Google Search]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2990160</guid>
-
-					<description><![CDATA[Google is bringing multimodal search to AI Mode, its Google Search experiment that lets users ask complex, multi-part questions and follow-ups to dig deeper on a topic. Users who have access to AI Mode can now tap the feature to ask questions about photos they&#8217;ve uploaded or taken with their camera. The new image-analyzing functionality [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Shopify CEO tells teams to consider using AI before growing headcount</title>
-		<link>https://techcrunch.com/2025/04/07/shopify-ceo-tells-teams-to-consider-using-ai-before-growing-headcount/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Mon, 07 Apr 2025 15:58:13 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[Shopify]]></category>
-		<category><![CDATA[AI agents]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2990261</guid>
-
-					<description><![CDATA[In a recent memo to employees, Shopify CEO Tobi Lütke made a bold policy change: teams must demonstrate why AI can&#8217;t perform a job before they&#8217;re permitted to ask for more headcount and resources. &#8220;Before asking for more headcount and resources, teams must demonstrate why they cannot get what they want done using AI,&#8221; Lütke [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nintendo says it is &#8216;actively assessing&#8217; the impact of US tariffs</title>
-		<link>https://techcrunch.com/2025/04/07/nintendo-says-it-is-actively-assessing-the-impact-of-u-s-tariffs/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Mon, 07 Apr 2025 15:34:22 +0000</pubDate>
-				<category><![CDATA[Gaming]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Nintendo]]></category>
-		<category><![CDATA[nintendo switch 2]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2990202</guid>
-
-					<description><![CDATA[Nintendo of America president Doug Bowser said that the company did not factor in possible tariffs from the U.S. when deciding on the pricing for its Nintendo Switch 2 console, according to Wired. Nintendo unveiled its highly anticipated Switch 2 last week and announced that the console would be released on June 5, priced at [&#8230;]]]></description>
 		
 		
 		
