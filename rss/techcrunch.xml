@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 07 Apr 2025 14:29:48 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 08 Apr 2025 00:02:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,20 +28,308 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Krea’s founders snubbed postgrad grants from the King of Spain to build their AI startup. Now it’s valued at $500M</title>
+		<title>IBM releases a new mainframe built for the age of AI</title>
+		<link>https://techcrunch.com/2025/04/07/ibm-releases-a-new-mainframe-built-for-the-age-of-ai/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Tue, 08 Apr 2025 04:01:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[IBM]]></category>
+		<category><![CDATA[mainframe]]></category>
+		<category><![CDATA[ai infrastructure]]></category>
+		<category><![CDATA[AI hardware]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2989067</guid>
+
+					<description><![CDATA[IBM is releasing the latest version of its mainframe hardware that includes new updates meant to accelerate AI adoption. The hardware and consulting company on Monday announced IBM z17, the latest version of its mainframe computer hardware. This fully encrypted mainframe is powered by an IBM Telum II processor and is designed for more than [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google is allegedly paying some AI staff to do nothing for a year rather than join rivals</title>
+		<link>https://techcrunch.com/2025/04/07/google-is-allegedly-paying-some-ai-staff-to-do-nothing-for-a-year-rather-than-join-rivals/</link>
+		
+		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
+		<pubDate>Mon, 07 Apr 2025 22:12:51 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2990511</guid>
+
+					<description><![CDATA[Retaining top AI talent is tough amid cutthroat competition between Google, OpenAI, and other heavyweights. Google&#8217;s AI division, DeepMind, has resorted to using &#8220;aggressive&#8221; noncompete agreements for some AI staff in the U.K. that bar them from working for competitors for up to a year, Business Insider reports. Some are paid during this time, in [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft reportedly fires staff whose protest interrupted its Copilot event</title>
+		<link>https://techcrunch.com/2025/04/07/microsoft-reportedly-fires-staff-whose-protest-interrupted-its-copilot-event/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Mon, 07 Apr 2025 21:36:21 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Copilot]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2990536</guid>
+
+					<description><![CDATA[On Monday, Microsoft reportedly terminated the roles of two software engineers, Ibtihal Aboussad and Vaniya Agrawal, who protested the company&#8217;s reported dealings with the Israeli military during Microsoft&#8217;s Copilot and 50th anniversary event last week. According to an internal message viewed by CNBC, Microsoft wrote that Aboussad could have raised concerns &#8220;confidentially with your manager, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Amazon says its AI video model can now generate minutes-long clips</title>
+		<link>https://techcrunch.com/2025/04/07/amazon-says-its-ai-video-model-can-now-generate-minutes-long-clips/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Mon, 07 Apr 2025 21:08:41 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[Nova]]></category>
+		<category><![CDATA[nova reel]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2990508</guid>
+
+					<description><![CDATA[Amazon has upgraded its AI video model, Nova Reel, with the ability to generate videos up to two minutes in length. Nova Reel, announced in December 2024, was Amazon&#8217;s first foray into the generative video space. It competes with models from OpenAI, Google, and others in what&#8217;s fast becoming a crowded market. The latest Nova [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>How one tweet wreaked havoc on the stock market</title>
+		<link>https://techcrunch.com/2025/04/07/how-one-tweet-wreaked-havoc-on-the-stock-market/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Mon, 07 Apr 2025 21:02:46 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Tariffs]]></category>
+		<category><![CDATA[Trump]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2990426</guid>
+
+					<description><![CDATA[Amid a morning of pandemonium on Wall Street, a popular news aggregator on X, known as Walter Bloomberg, posted a false report declaring that President Trump was considering a 90-day pause on his controversial tariff proposal. This news was not true, and yet, index funds like the Dow Jones whipsawed — rapidly rising, before reversing [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nikola founder Trevor Milton wants to buy the bankrupt startup&#8217;s assets</title>
+		<link>https://techcrunch.com/2025/04/07/nikola-founder-trevor-milton-wants-to-buy-the-bankrupt-startups-assets/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Mon, 07 Apr 2025 20:46:23 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Nikola]]></category>
+		<category><![CDATA[Trevor Milton]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2990473</guid>
+
+					<description><![CDATA[Nikola founder Trevor Milton, who was recently pardoned after being convicted of securities fraud, is trying to buy the assets of his former company out of bankruptcy, according to new court filings and a person familiar with the matter. Nikola filed for Chapter 11 bankruptcy protection in February and has said it hopes to sell [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Flexport CEO Ryan Petersen’s high-stakes test amid tariff turmoil: &#8216;You can’t be freaking out&#8217;</title>
+		<link>https://techcrunch.com/2025/04/07/flexport-ceo-ryan-petersens-high-stakes-test-amid-tariff-turmoil-you-cant-be-freaking-out/</link>
+		
+		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
+		<pubDate>Mon, 07 Apr 2025 20:43:28 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Flexport]]></category>
+		<category><![CDATA[StrictlyVC SF]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2990480</guid>
+
+					<description><![CDATA[At 11 a.m. in California last Thursday, the day after President Donald Trump declared sweeping new tariffs under what he dubbed “Liberation Day,” Ryan Petersen was live on camera, fielding questions from a virtual room packed with more than 2,300 anxious customers. The founder and CEO of Flexport, a now 12-year-old global logistics and customs [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Meta exec denies the company artificially boosted Llama 4&#8217;s benchmark scores</title>
+		<link>https://techcrunch.com/2025/04/07/meta-exec-denies-the-company-artificially-boosted-llama-4s-benchmark-scores/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Mon, 07 Apr 2025 18:45:07 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[llama 4]]></category>
+		<category><![CDATA[Meta]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2990400</guid>
+
+					<description><![CDATA[A Meta exec on Monday denied a rumor that the company tuned its new AI models to present well on specific benchmarks while concealing the models&#8217; weaknesses. The executive, Ahmad Al-Dahle, VP of generative AI at Meta, said in a post on X that it&#8217;s &#8220;simply not true&#8221; that Meta trained its Llama 4 Maverick [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Analyst says Apple, Tesla have biggest exposure to Trump’s tariffs</title>
+		<link>https://techcrunch.com/2025/04/07/analyst-says-apple-tesla-have-biggest-exposure-to-trumps-tariffs/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Mon, 07 Apr 2025 18:10:26 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Tariffs]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2990399</guid>
+
+					<description><![CDATA[Wedbush Securities analyst Dan Ives slashed his price targets for Apple and Tesla over the weekend as President Trump’s tariffs threaten to disrupt both businesses.  “The tariff economic Armageddon unleashed by Trump is a complete disaster for Apple given its massive China production exposure,” Ives said in a warning note over the weekend. “In our [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Former Tesla exec Drew Baglino’s new startup is rethinking the electrical transformer</title>
+		<link>https://techcrunch.com/2025/04/07/former-tesla-exec-drew-baglinos-new-startup-is-rethinking-the-electrical-transformer/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Mon, 07 Apr 2025 17:54:48 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Capricorn Investment Group]]></category>
+		<category><![CDATA[electrical grid]]></category>
+		<category><![CDATA[Heron Power]]></category>
+		<category><![CDATA[smart grid]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2990345</guid>
+
+					<description><![CDATA[Heron Power is raising between $30 million to $50 million for a Series A, according to a report.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Waymo may use interior camera data to train generative AI models, sell ads</title>
+		<link>https://techcrunch.com/2025/04/07/waymo-may-use-interior-camera-data-to-train-generative-ai-models-sell-ads/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Mon, 07 Apr 2025 16:04:16 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Alphabet]]></category>
+		<category><![CDATA[autonomous vehicles]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[robotaxis]]></category>
+		<category><![CDATA[Waymo]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2990292</guid>
+
+					<description><![CDATA[Waymo is preparing to use data from its robotaxis, including video from interior cameras tied to rider identities, to train generative AI models, according to an unreleased version of its privacy policy found by researcher Jane Manchun Wong.  The draft language reveals Waymo may also share this data to personalize ads, raising fresh questions about [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google&#8217;s AI Mode now lets users ask complex questions about images</title>
+		<link>https://techcrunch.com/2025/04/07/googles-ai-mode-now-lets-users-ask-complex-questions-about-images/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Mon, 07 Apr 2025 16:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ai mode]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google Search]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2990160</guid>
+
+					<description><![CDATA[Google is bringing multimodal search to AI Mode, its Google Search experiment that lets users ask complex, multi-part questions and follow-ups to dig deeper on a topic. Users who have access to AI Mode can now tap the feature to ask questions about photos they&#8217;ve uploaded or taken with their camera. The new image-analyzing functionality [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Shopify CEO tells teams to consider using AI before growing headcount</title>
+		<link>https://techcrunch.com/2025/04/07/shopify-ceo-tells-teams-to-consider-using-ai-before-growing-headcount/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Mon, 07 Apr 2025 15:58:13 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[Shopify]]></category>
+		<category><![CDATA[AI agents]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2990261</guid>
+
+					<description><![CDATA[In a recent memo to employees, Shopify CEO Tobi Lütke made a bold policy change: teams must demonstrate why AI can&#8217;t perform a job before they&#8217;re permitted to ask for more headcount and resources. &#8220;Before asking for more headcount and resources, teams must demonstrate why they cannot get what they want done using AI,&#8221; Lütke [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nintendo says it is &#8216;actively assessing&#8217; the impact of US tariffs</title>
+		<link>https://techcrunch.com/2025/04/07/nintendo-says-it-is-actively-assessing-the-impact-of-u-s-tariffs/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Mon, 07 Apr 2025 15:34:22 +0000</pubDate>
+				<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Nintendo]]></category>
+		<category><![CDATA[nintendo switch 2]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2990202</guid>
+
+					<description><![CDATA[Nintendo of America president Doug Bowser said that the company did not factor in possible tariffs from the U.S. when deciding on the pricing for its Nintendo Switch 2 console, according to Wired. Nintendo unveiled its highly anticipated Switch 2 last week and announced that the console would be released on June 5, priced at [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI video startup Moonvalley raised a fresh $43M, SEC filing shows</title>
+		<link>https://techcrunch.com/2025/04/07/ai-video-startup-moonvalley-raised-a-fresh-43m-sec-filing-shows/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Mon, 07 Apr 2025 14:56:27 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[moonvalley]]></category>
+		<category><![CDATA[video generation]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2990195</guid>
+
+					<description><![CDATA[Los Angeles-based startup Moonvalley, which is developing AI tools for video creation, has raised a fresh $43 million in venture capital, according to an SEC filing. The filing lists 11 unnamed investors and comes roughly a week after Moonvalley launched its first AI video-generating model, Marey. Moonvalley previously raised $70 million in seed funding from backers [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>UK&#8217;s demand for Apple backdoor should not be heard in secret, says court</title>
+		<link>https://techcrunch.com/2025/04/07/uk-demand-for-apple-backdoor-should-not-be-heard-in-secret-says-court/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Mon, 07 Apr 2025 14:35:00 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[apple icloud backdoor]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[UK government]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2990203</guid>
+
+					<description><![CDATA[A UK surveillance court said the backdoor order targeting Apple iCloud can be heard partly in public.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Krea raises $83M to be the one-stop shop for GenAI creatives</title>
 		<link>https://techcrunch.com/2025/04/07/kreas-founders-snubbed-postgrad-grants-from-the-king-of-spain-to-build-their-ai-startup-now-its-valued-at-500m/</link>
 		
 		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
 		<pubDate>Mon, 07 Apr 2025 14:29:41 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
+				<category><![CDATA[AI]]></category>
 		<category><![CDATA[abstract ventures]]></category>
-		<category><![CDATA[bain ventures]]></category>
+		<category><![CDATA[Andreessen Horowitz]]></category>
+		<category><![CDATA[bain capital ventures]]></category>
 		<category><![CDATA[genAI]]></category>
 		<category><![CDATA[image generation]]></category>
 		<category><![CDATA[krea.ai]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2990196</guid>
 
-					<description><![CDATA[Overwhelmed with trying to keep up with the different models you can now use to build your content using AI? A startup called Krea that’s looking to solve this problem specifically for designers and other visual creatives has now raised $83 million for a platform it believes will make the task of working with generative [&#8230;]]]></description>
+					<description><![CDATA[Overwhelmed with trying to keep up with the different AI models you can use to make content? A startup called Krea is looking to solve this problem specifically for designers and other visual creatives, and it has now raised $83 million for its platform, which it believes will make working with generative AI a lot [&#8230;]]]></description>
 		
 		
 		
@@ -96,289 +384,13 @@
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Fundraising]]></category>
 		<category><![CDATA[AI hardware]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<category><![CDATA[jony ive]]></category>
 		<category><![CDATA[OpenAI]]></category>
 		<category><![CDATA[sam altman]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2990145</guid>
 
 					<description><![CDATA[OpenAI is said to have discussed acquiring the AI hardware startup that former Apple design lead Jony Ive is building with OpenAI CEO Sam Altman. According to The Information, OpenAI could pay around $500 million for the fledgling company, called io Products. Ive, who left Apple in 2019 to start his own design firm called [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Someone hacked ransomware gang Everest’s leak site</title>
-		<link>https://techcrunch.com/2025/04/07/someone-hacked-everest-ransomware-gang-dark-web-leak-site/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Mon, 07 Apr 2025 11:40:21 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2990147</guid>
-
-					<description><![CDATA["Don't do crime," the ransomware gang's dark web leak site reads.
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Want to stay young? Peter Diamandis says survive the next 10 years</title>
-		<link>https://techcrunch.com/2025/04/06/want-to-stay-young-peter-diamandis-says-survive-the-next-10-years/</link>
-		
-		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
-		<pubDate>Mon, 07 Apr 2025 06:52:10 +0000</pubDate>
-				<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[Peter Diamandis]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2990128</guid>
-
-					<description><![CDATA[Peter Diamandis, a futurist with degrees from both MIT and Harvard, has spent much of the past two decades evangelizing a vision of an &#8220;abundant future&#8221; driven by exponential technologies that will lengthen our lives. The serial entrepreneur and founder of organizations like the XPRIZE Foundation and Singularity University has also cultivated close ties with [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meta&#8217;s benchmarks for its new AI models are a bit misleading</title>
-		<link>https://techcrunch.com/2025/04/06/metas-benchmarks-for-its-new-ai-models-are-a-bit-misleading/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Sun, 06 Apr 2025 21:16:03 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Benchmark]]></category>
-		<category><![CDATA[Llama]]></category>
-		<category><![CDATA[llama 4]]></category>
-		<category><![CDATA[Meta]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2990076</guid>
-
-					<description><![CDATA[One of the new flagship AI models Meta released on Saturday, Maverick, ranks second on LM Arena, a test that has human raters compare the outputs of models and choose which they prefer. But it seems the version of Maverick that Meta deployed to LM Arena differs from the version that&#8217;s widely available to developers. [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>BBC seeks more prominent credit in Apple and Google News</title>
-		<link>https://techcrunch.com/2025/04/06/bbc-seeks-more-prominent-credit-in-apple-and-google-news/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sun, 06 Apr 2025 19:03:02 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[BBC]]></category>
-		<category><![CDATA[Google]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2990073</guid>
-
-					<description><![CDATA[The British Broadcasting Corporation has filed a complaint with a UK antitrust regulator complaining that aggregators like Apple News and Google News minimize credit for the stories they feature. Apple Insider reports that the BBC is asking the UK’s Competition and Markets Authority to require Apple and Google to more prominently credit news sources. And [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>White House reportedly blames auto-suggested iPhone contact for Signal scandal</title>
-		<link>https://techcrunch.com/2025/04/06/white-house-reportedly-blames-auto-suggested-iphone-contact-for-signal-scandal/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sun, 06 Apr 2025 18:10:08 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[jeffrey goldberg]]></category>
-		<category><![CDATA[Mike Waltz]]></category>
-		<category><![CDATA[signal]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2990067</guid>
-
-					<description><![CDATA[How did Atlantic editor-in-chief Jeffrey Goldberg get added to a Signal group chat with Trump administration officials discussing their plans for an airstrike in Yemen? The simplest explanation: National Security Adviser Mike Waltz had Goldberg saved as a contact in his phone and accidentally added him. Indeed, when Waltz first claimed that Goldberg’s phone number [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft releases AI-generated Quake II demo, but admits ‘limitations’</title>
-		<link>https://techcrunch.com/2025/04/06/microsoft-releases-ai-generated-quake-ii-demo-but-admits-limitations/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sun, 06 Apr 2025 16:10:24 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Gaming]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[Copilot]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[quake ii]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2990059</guid>
-
-					<description><![CDATA[Microsoft has released a browser-based, playable level of the classic video game Quake II. This functions as a tech demo for the gaming capabilities of Microsoft’s Copilot AI platform — though by the company’s own admission, the experience isn’t quite the same as playing a well-made game. You can try it out for yourself, using [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>DOGE reportedly planning a hackathon to build ‘mega API’ for IRS data</title>
-		<link>https://techcrunch.com/2025/04/05/doge-reportedly-planning-a-hackathon-to-build-mega-api-for-irs-data/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sat, 05 Apr 2025 20:14:37 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[doge]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[irs]]></category>
-		<category><![CDATA[sam corcos]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2990018</guid>
-
-					<description><![CDATA[Elon Musk’s Department of Government Efficiency (DOGE) plans to host a hackathon next week focused on the creation of a “mega API” that will provide access to taxpayer data, according to Wired. Wired says the hackathon is being organized by two DOGE staffers at the Internal Revenue Service — Gavin Kliger and Sam Corcos, who’s [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meta releases Llama 4, a new crop of flagship AI models</title>
-		<link>https://techcrunch.com/2025/04/05/meta-releases-llama-4-a-new-crop-of-flagship-ai-models/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Sat, 05 Apr 2025 20:01:30 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[llama 4]]></category>
-		<category><![CDATA[Meta]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2989980</guid>
-
-					<description><![CDATA[Meta has released a new collection of AI models, Llama 4, in its Llama family — on a Saturday, no less. There are four new models in total: Llama 4 Scout, Llama 4 Maverick, and Llama 4 Behemoth. All were trained on &#8220;large amounts of unlabeled text, image, and video data&#8221; to give them &#8220;broad [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Deel’s comms chief departs amidst spying lawsuit from Rippling</title>
-		<link>https://techcrunch.com/2025/04/05/deels-comms-chief-departs-amidst-spying-lawsuit-from-rippling/</link>
-		
-		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
-		<pubDate>Sat, 05 Apr 2025 18:48:00 +0000</pubDate>
-				<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Deel]]></category>
-		<category><![CDATA[Rippling]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2989977</guid>
-
-					<description><![CDATA[Elisabeth Diana, head of communications at human resources Deel, is no longer with the company, according to her LinkedIn profile. Bloomberg first reported the news that Diana had resigned from Deel, which was recently accused of planting a spy at rival company Rippling. TechCrunch reached out to Diana but had not heard back at the [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>&#8216;A Minecraft Movie&#8217; is on-track for a $135M opening weekend</title>
-		<link>https://techcrunch.com/2025/04/05/a-minecraft-movie-is-on-track-for-a-135m-opening-weekend/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sat, 05 Apr 2025 18:29:16 +0000</pubDate>
-				<category><![CDATA[Gaming]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Minecraft]]></category>
-		<category><![CDATA[Warner Bros]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2989972</guid>
-
-					<description><![CDATA[The big screen adaptation of video game mega-franchise Minecraft brought in $58 million on Friday, putting it on-track for a $135 million opening weekend domestically — or potentially even more. That would give “A Minecraft Movie” the biggest opening of the year, beating out “Captain America: Brave New World” (which earned $88.8 million during its [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Week in Review: Nintendo unveils the Switch 2</title>
-		<link>https://techcrunch.com/2025/04/05/nintendo-unveils-the-switch-2/</link>
-		
-		<dc:creator><![CDATA[Karyne Levy]]></dc:creator>
-		<pubDate>Sat, 05 Apr 2025 17:05:00 +0000</pubDate>
-				<category><![CDATA[Social]]></category>
-		<category><![CDATA[Nintendo]]></category>
-		<category><![CDATA[Week in Review]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2989739</guid>
-
-					<description><![CDATA[Welcome back to Week in Review! Tons of stuff for you today, including Nintendo&#8217;s Switch 2; capacity issues at OpenAI; a story that deserves the Hollywood treatment; and much, much more. Let&#8217;s go! It&#8217;s finally (almost) here: After almost 10 years, Nintendo finally released its Switch successor, the Switch 2. According to TechCrunch&#8217;s Amanda Silberling, [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SF Mayor Lurie to tech CEOs: &#8216;How can we get you back?&#8217;</title>
-		<link>https://techcrunch.com/2025/04/05/sf-mayor-lurie-to-tech-ceos-how-can-we-get-you-back/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Sat, 05 Apr 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[San Francisco]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[daniel lurie]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2989875</guid>
-
-					<description><![CDATA[San Francisco Mayor Daniel Lurie wants to bring his city back to its glory days. And he&#8217;s convinced tech leaders — who often pitch utopian ideals of their own — can help him deliver. &#8220;I&#8217;m a mayor that is picking up the phone and calling CEOs,&#8221; said Lurie during TechCrunch&#8217;s StrictlyVC event on Thursday night. [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ChatGPT adoption skyrockets in India, but monetization may be trailing</title>
-		<link>https://techcrunch.com/2025/04/04/chatgpt-adoption-skyrockets-in-india-but-monetization-may-be-trailing/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh, Ivan Mehta]]></dc:creator>
-		<pubDate>Sat, 05 Apr 2025 03:05:50 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2989194</guid>
-
-					<description><![CDATA[ChatGPT has seen India as its largest market by monthly active users and the second largest by downloads, per the external data seen by TechCrunch.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TechCrunch Mobility: Tesla takes a hit, tariff chaos begins, and one EV startup hits a milestone</title>
-		<link>https://techcrunch.com/2025/04/04/techcrunch-mobility-tesla-takes-a-hit-tariff-chaos-begins-and-one-ev-startup-hits-a-milestone/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
-		<pubDate>Fri, 04 Apr 2025 19:52:00 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[Tesla]]></category>
-		<category><![CDATA[techcrunch mobility]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2989852</guid>
-
-					<description><![CDATA[Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation. Sign up here for free — just click TechCrunch Mobility! Over the 13 years reporting on Tesla and its CEO, Elon Musk, I have watched the rise, fall, near misses, and rise again of the company and [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>How Kalshi helped prediction markets go mainstream</title>
-		<link>https://techcrunch.com/video/how-kalshi-helped-prediction-markets-go-mainstream/</link>
-		
-		<dc:creator><![CDATA[TC Video]]></dc:creator>
-		<pubDate>Fri, 04 Apr 2025 19:00:00 +0000</pubDate>
-				<category><![CDATA[Venture]]></category>
-		<category><![CDATA[StrictlyVC SF]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&#038;p=2989712</guid>
-
-					<description><![CDATA[Kalshi is the largest prediction market in America, creating an entire trading economy around political, sports, and cultural events. To some, including several states, it&#8217;s an illegal effort that requires gambling licenses. To others, including some courts and members of the Trump administration, it&#8217;s just a new financial opportunity. In a conversation with TechCrunch&#8217;s Maxwell [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI&#8217;s models &#8216;memorized&#8217; copyrighted content, new study suggests</title>
-		<link>https://techcrunch.com/2025/04/04/openais-models-memorized-copyrighted-content-new-study-suggests/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Fri, 04 Apr 2025 18:42:11 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[copyright]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[study]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2989625</guid>
-
-					<description><![CDATA[A new study appears to lend credence to allegations that OpenAI trained at least some of its AI models on copyrighted content. OpenAI is embroiled in suits brought by authors, programmers, and other rights-holders who accuse the company of using their works — books, codebases, and so on — to develop its models without permission. [&#8230;]]]></description>
 		
 		
 		
