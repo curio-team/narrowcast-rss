@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 09 Apr 2025 11:27:21 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 09 Apr 2025 11:59:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,137 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Ironwood is Google&#8217;s newest AI accelerator chip</title>
+		<link>https://techcrunch.com/2025/04/09/google-unveils-ironwood-a-new-ai-accelerator-chip/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 09 Apr 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Cloud Next]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2990314</guid>
+
+					<description><![CDATA[During its Cloud Next conference this week, Google unveiled the latest generation of its TPU AI accelerator chip. The new chip, called Ironwood, is Google&#8217;s seventh-generation TPU and is the first optimized for inference — that is, running AI models. Scheduled to launch sometime later this year for Google Cloud customers, Ironwood will come in [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google&#8217;s newest Gemini AI model focuses on efficiency</title>
+		<link>https://techcrunch.com/2025/04/09/googles-newest-gemini-ai-model-focuses-on-efficiency/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 09 Apr 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[gemini]]></category>
+		<category><![CDATA[Cloud Next]]></category>
+		<category><![CDATA[gemini 2.5 flash]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2990411</guid>
+
+					<description><![CDATA[Google is releasing a new AI model designed to deliver strong performance with a focus on efficiency. The model, Gemini 2.5 Flash, will soon launch in Vertex AI, Google&#8217;s AI development platform. The company says it offers &#8220;dynamic and controllable&#8221; computing, allowing developers to adjust processing time based on the complexity of queries. &#8220;[You can [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Workspace gets automation flows, podcast-style summaries</title>
+		<link>https://techcrunch.com/2025/04/09/google-workspace-gets-automation-flows-podcast-style-summaries/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 09 Apr 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google Workspace]]></category>
+		<category><![CDATA[Cloud Next]]></category>
+		<category><![CDATA[AI workflow automation]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2990414</guid>
+
+					<description><![CDATA[Google is upgrading Workspace, its suite of cloud-based productivity tools, with new AI capabilities. The suite is gaining Workspace Flows, a tool designed to automate multi-step processes such as updating spreadsheets and digging through documents for information. Flows can tap Gems, Google&#8217;s brand of custom AI-powered chatbots, to handle specialized tasks, and it can also [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google&#8217;s enterprise cloud gets a music-generating AI model</title>
+		<link>https://techcrunch.com/2025/04/09/google-brings-a-music-generating-ai-model-to-its-enterprise-cloud/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 09 Apr 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[google cloud]]></category>
+		<category><![CDATA[music generation]]></category>
+		<category><![CDATA[Cloud Next]]></category>
+		<category><![CDATA[Vertex AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2990419</guid>
+
+					<description><![CDATA[On Wednesday, Google rolled out updates to several of its first-party media-generating AI models available through its Vertex AI cloud platform. Lyria, Google&#8217;s text-to-music model, is now available in preview for select customers, and the company&#8217;s Veo 2 video creation model has been enhanced with new editing and visual effects customization options. The company has [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Gemini Code Assist, Google&#8217;s AI coding assistant, gets &#8216;agentic&#8217; abilities</title>
+		<link>https://techcrunch.com/2025/04/09/gemini-code-assist-googles-ai-coding-assistant-gets-agentic-upgrades/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 09 Apr 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Cloud Next]]></category>
+		<category><![CDATA[ai coding assistant]]></category>
+		<category><![CDATA[gemini code assist]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2990424</guid>
+
+					<description><![CDATA[Gemini Code Assist, Google&#8217;s AI coding assistant, is gaining new &#8220;agentic&#8221; capabilities in preview. During its Cloud Next conference on Wednesday, Google said Code Assist can now deploy new AI &#8220;agents&#8221; that can take multiple steps to accomplish complex programming tasks. These agents can create applications from product specifications in Google Docs, for example, or [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Samsung adds Google&#8217;s Gemini to its home robot Ballie</title>
+		<link>https://techcrunch.com/2025/04/09/samsung-adds-google-gemini-ai-assistant-to-its-home-robot-ballie/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Wed, 09 Apr 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Cloud Next]]></category>
+		<category><![CDATA[gemini]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[home robot]]></category>
+		<category><![CDATA[Samsung]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2991343</guid>
+
+					<description><![CDATA[Samsung said on Wednesday that it&#8217;s adding Google&#8217;s Gemini AI to its home robot Ballie through a partnership with Google Cloud. Users will be able to ask the robot different queries to get answers from Gemini, said the companies. Samsung aims to tap into Gemini’s multimodal capabilities for its robot. The Korean tech giant said [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Reddit’s conversational AI search tool leverages Google Gemini</title>
+		<link>https://techcrunch.com/2025/04/09/reddits-conversational-ai-search-tool-leverages-google-gemini/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Wed, 09 Apr 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Reddit]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2991347</guid>
+
+					<description><![CDATA[Reddit Answers, the platform&#8217;s conversational AI search tool, gets an upgrade through an integration with Google Gemini. This comes over a year after Reddit expanded its partnership with Google Cloud to access its Vertex AI platform to build AI agents. Google and Reddit announced the update on Wednesday, explaining that by incorporating Gemini on Vertex AI, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Lyst, a fashion marketplace once valued at $700M, sells to Japan&#8217;s Zozo for $154M</title>
 		<link>https://techcrunch.com/2025/04/09/lyst-the-fashion-marketplace-once-valued-at-700m-sells-to-japans-zozo-for-154m/</link>
 		
@@ -271,144 +402,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2990740</guid>
 
 					<description><![CDATA[If you’re reading this, consider it your signal: The opportunity to influence the future of tech is here. TechCrunch Disrupt 2025 is now accepting speaker applications. Join us onstage this October 27–29 at Moscone West in San Francisco and share your ideas with 10,000+ tech leaders, VCs, and innovators shaping what’s next. Apply to speak [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Amazon’s Zoox begins robotaxi testing in Los Angeles </title>
-		<link>https://techcrunch.com/2025/04/08/amazons-zoox-begins-robotaxi-testing-in-los-angeles/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Tue, 08 Apr 2025 15:30:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[autonomous vehicles]]></category>
-		<category><![CDATA[zoox]]></category>
-		<category><![CDATA[robotaxis]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2990950</guid>
-
-					<description><![CDATA[Zoox, Amazon’s autonomous vehicle unit, is deploying a small fleet of retrofitted test vehicles on the streets of Los Angeles starting Tuesday &#8212; a modest, yet meaningful step as the company inches toward offering public rides in Las Vegas and San Francisco later this year.  The data-collection effort marks Zoox’s entrance into its sixth city [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Los Angeles-based Rain raised a $75M Series B in another good sign for fintech</title>
-		<link>https://techcrunch.com/2025/04/08/los-angeles-based-rain-raised-a-75m-series-b-in-another-good-sign-for-fintech/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Tue, 08 Apr 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[earned wage access]]></category>
-		<category><![CDATA[EWA]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[Prosus]]></category>
-		<category><![CDATA[Rain]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2990439</guid>
-
-					<description><![CDATA[Rain, a startup offering an employer-integrated earned wage access (EWA) app coupled with financial-wellness features like overdraft alerts and spending trends, has raised $75 million in an all-equity Series B round. The round was led by Prosus at a post-money valuation of $340 million. Rain plans to use the new funds to help it add [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Founders, TechCrunch Startup Battlefield 200 is calling! Apply to enter!</title>
-		<link>https://techcrunch.com/2025/04/08/founders-techcrunch-startup-battlefield-200-is-calling-apply-to-enter/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Tue, 08 Apr 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[TechCrunch Disrupt]]></category>
-		<category><![CDATA[Startup Battlefield]]></category>
-		<category><![CDATA[Startup Battlefield 200]]></category>
-		<category><![CDATA[TechCrunch Disrupt 2025]]></category>
-		<category><![CDATA[Disrupt 2025]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2990691</guid>
-
-					<description><![CDATA[Founders, the battlefield is calling! Startup Battlefield 200 applications are now live — and the race has begun. If you’ve got a groundbreaking idea and the guts to pitch it to the world, TechCrunch Disrupt 2025 is your arena. You’ll face elite VC judges. You’ll compete against 199 of the world’s most promising startups. And [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Trump to endorse coal for data center power in the face of grim market realities</title>
-		<link>https://techcrunch.com/2025/04/08/trump-to-endorse-coal-for-data-center-power-in-the-face-of-grim-market-realities/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Tue, 08 Apr 2025 14:46:15 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Climate]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[coal]]></category>
-		<category><![CDATA[critical minerals]]></category>
-		<category><![CDATA[data centers]]></category>
-		<category><![CDATA[Donald Trump]]></category>
-		<category><![CDATA[electricity]]></category>
-		<category><![CDATA[Trump Administration]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2990912</guid>
-
-					<description><![CDATA[An executive order will direct the federal government to list coal as a critical mineral and force some coal-fired power plants to keep generating electricity.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Volunteer your time for a free ticket to TechCrunch Sessions: AI</title>
-		<link>https://techcrunch.com/2025/04/08/volunteer-your-time-for-a-free-ticket-to-techcrunch-sessions-ai/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Tue, 08 Apr 2025 14:30:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[TC Sessions: AI]]></category>
-		<category><![CDATA[TechCrunch Sessions: AI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2990166</guid>
-
-					<description><![CDATA[Join us for an unforgettable opportunity at TechCrunch Sessions: AI, happening at UC Berkeley&#8217;s Zellerbach Hall on June 5! We&#8217;re on the lookout for enthusiastic volunteers to be part of this exciting event. If you&#8217;ve ever wondered what goes into the making of tech gatherings, now&#8217;s your chance to find out firsthand. Apply here by [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Waymo may use interior camera data to train generative AI models, but riders will be able to opt out</title>
-		<link>https://techcrunch.com/2025/04/08/waymo-may-use-interior-camera-data-to-train-generative-ai-models-sell-ads/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Tue, 08 Apr 2025 14:00:49 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Alphabet]]></category>
-		<category><![CDATA[autonomous vehicles]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[robotaxis]]></category>
-		<category><![CDATA[Waymo]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2990292</guid>
-
-					<description><![CDATA[Waymo is preparing to use data from its robotaxis, including video from interior cameras tied to rider identities, to train generative AI models, according to an unreleased version of its privacy policy found by researcher Jane Manchun Wong, raising fresh questions about how much of a rider&#8217;s behavior inside autonomous vehicles could be repurposed for [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meet the new Audience Choice winners to lead breakouts at TechCrunch Sessions: AI</title>
-		<link>https://techcrunch.com/2025/04/08/meet-the-new-audience-choice-winners-to-lead-breakouts-at-techcrunch-sessions-ai/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Tue, 08 Apr 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[TechCrunch Sessions: AI]]></category>
-		<category><![CDATA[TC Sessions: AI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2990621</guid>
-
-					<description><![CDATA[You voted. They rose to the top! Meet the two Audience Choice winners who’ll take the breakout stage at TechCrunch Sessions: AI on June 5 in Zellerbach Hall at UC Berkeley to share their insights with 1,200 AI leaders and enthusiasts.  We sifted through hundreds of Call for Content submissions and narrowed them down to [&#8230;]]]></description>
 		
 		
 		
