@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 09 Apr 2025 11:59:08 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 09 Apr 2025 13:04:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -149,11 +149,11 @@
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Apps]]></category>
 		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Reddit]]></category>
 		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Reddit]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2991347</guid>
 
-					<description><![CDATA[Reddit Answers, the platform&#8217;s conversational AI search tool, gets an upgrade through an integration with Google Gemini. This comes over a year after Reddit expanded its partnership with Google Cloud to access its Vertex AI platform to build AI agents. Google and Reddit announced the update on Wednesday, explaining that by incorporating Gemini on Vertex AI, [&#8230;]]]></description>
+					<description><![CDATA[Reddit Answers, the platform&#8217;s conversational AI search tool, gets an upgrade through an integration with Google Gemini.&#160;This comes over a year after Reddit expanded its partnership with Google Cloud to access its Vertex AI platform to build AI agents. Google and Reddit announced the update on Wednesday, explaining that by incorporating Gemini on Vertex AI, [&#8230;]]]></description>
 		
 		
 		
@@ -186,13 +186,13 @@
 				<category><![CDATA[Security]]></category>
 		<category><![CDATA[Android]]></category>
 		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Google]]></category>
 		<category><![CDATA[China]]></category>
+		<category><![CDATA[gchq]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[NCSC]]></category>
+		<category><![CDATA[Spyware]]></category>
 		<category><![CDATA[Tibet]]></category>
 		<category><![CDATA[UK]]></category>
-		<category><![CDATA[Spyware]]></category>
-		<category><![CDATA[gchq]]></category>
-		<category><![CDATA[NCSC]]></category>
 		<category><![CDATA[Uyghurs]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2991148</guid>
 
@@ -352,12 +352,12 @@
 		<pubDate>Tue, 08 Apr 2025 16:25:46 +0000</pubDate>
 				<category><![CDATA[Apps]]></category>
 		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Bluesky]]></category>
-		<category><![CDATA[iOS apps]]></category>
-		<category><![CDATA[Mastodon]]></category>
 		<category><![CDATA[RSS]]></category>
 		<category><![CDATA[social networks]]></category>
+		<category><![CDATA[iOS apps]]></category>
 		<category><![CDATA[tapestry]]></category>
+		<category><![CDATA[Mastodon]]></category>
+		<category><![CDATA[Bluesky]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2990974</guid>
 
 					<description><![CDATA[Tapestry, a new app designed to organize the open social web, is adding a valuable feature to help people who are keeping up with multiple social networks: It will now remove duplicate posts from your feed. That means if you follow the same person across social networking services like Bluesky and Mastodon, you won&#8217;t have [&#8230;]]]></description>
