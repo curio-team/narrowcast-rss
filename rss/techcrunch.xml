@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 10 Apr 2025 12:14:54 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 10 Apr 2025 13:36:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,72 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Incident.io raises $62M at a $400M valuation to help IT teams move fast when things break</title>
+		<link>https://techcrunch.com/2025/04/10/incident-io-raises-62m-at-a-400m-valuation-to-help-it-teams-move-fast-when-things-break/</link>
+		
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+		<pubDate>Thu, 10 Apr 2025 13:36:04 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[incident response]]></category>
+		<category><![CDATA[Incident.io]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2992075</guid>
+
+					<description><![CDATA[In the world of tech, some might argue that the term of the decade is AI, but in the bigger scheme of things beyond this single sector, the most important word may well be “resilience.” How well prepared are people, organizations and countries for unforeseen, negative economic, geopolitical, social and environmental developmen? It’s a question [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trump orders federal investigation into former CISA director Chris Krebs</title>
+		<link>https://techcrunch.com/2025/04/10/trump-orders-federal-investigation-into-former-cisa-director-chris-krebs/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Thu, 10 Apr 2025 13:35:17 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Chris Krebs]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[executive order]]></category>
+		<category><![CDATA[Trump Administration]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2992068</guid>
+
+					<description><![CDATA[Trump fired Krebs by tweet in 2020 after he publicly debunked Trump's false claims of election fraud.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The rise of AI &#8216;reasoning&#8217; models is making benchmarking more expensive</title>
+		<link>https://techcrunch.com/2025/04/10/the-rise-of-ai-reasoning-models-is-making-benchmarking-more-expensive/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 10 Apr 2025 13:30:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ai benchmarks]]></category>
+		<category><![CDATA[AI reasoning models]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2991689</guid>
+
+					<description><![CDATA[AI labs like OpenAI claim that their so-called &#8220;reasoning&#8221; AI models, which can &#8220;think&#8221; through problems step by step, are more capable than their non-reasoning counterparts in specific domains, such as physics. But while this generally appears to be the case, reasoning models are also much more expensive to benchmark, making it difficult to independently [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Drafted uses AI and video resumes to help early-career professionals land jobs</title>
+		<link>https://techcrunch.com/2025/04/10/drafted-uses-ai-and-video-resumes-to-help-early-career-professionals-land-jobs/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Thu, 10 Apr 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2991708</guid>
+
+					<description><![CDATA[As the job market continues to get more competitive, it&#8217;s taking months for new grads to land employment, with many settling for roles that don’t align with their goals. To address this problem, Drafted, a new startup emerging from stealth, has built a jobs platform for students and early-career professionals, a subset of people who [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>AI insurtech Ominimo bags its first investment at a $220M valuation</title>
 		<link>https://techcrunch.com/2025/04/10/ai-insurtech-ominimo-bags-its-first-investment-at-a-220m-valuation/</link>
 		
@@ -323,77 +389,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2991589</guid>
 
 					<description><![CDATA[OpenAI co-founder and former chief scientist Ilya Sutskever&#8217;s new AI startup, Safe Superintelligence (SSI), is using Google Cloud&#8217;s TPU chips to power its AI research, part of a new partnership the companies announced on Wednesday in a press release. Google Cloud says SSI is using TPUs to &#8220;accelerate its research and development efforts toward building [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Canoo CEO can buy bankrupt EV startup&#8217;s assets, judge rules</title>
-		<link>https://techcrunch.com/2025/04/09/canoo-ceo-can-buy-bankrupt-ev-startups-assets-judge-rules/</link>
-		
-		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
-		<pubDate>Wed, 09 Apr 2025 18:53:59 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Canoo]]></category>
-		<category><![CDATA[electric vehicles]]></category>
-		<category><![CDATA[Harbinger]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2991631</guid>
-
-					<description><![CDATA[The sale of bankrupt EV startup Canoo’s assets to its CEO has been okayed by the judge overseeing the case. After evaluating a number of limited objections to the sale, Judge Brendan Shannon said in a hearing Wednesday he believes the process was fair and that no one else but Canoo CEO Anthony Aquila made [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Court document reveals locations of WhatsApp victims targeted by NSO spyware</title>
-		<link>https://techcrunch.com/2025/04/09/court-document-reveals-locations-of-whatsapp-victims-targeted-by-nso-spyware/</link>
-		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
-		<pubDate>Wed, 09 Apr 2025 18:25:08 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[Israel]]></category>
-		<category><![CDATA[Mexico]]></category>
-		<category><![CDATA[NSO Group]]></category>
-		<category><![CDATA[privacy]]></category>
-		<category><![CDATA[Spyware]]></category>
-		<category><![CDATA[surveillance]]></category>
-		<category><![CDATA[WhatsApp]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2991437</guid>
-
-					<description><![CDATA[The list of 1,223 victims in 51 countries hints at the “true scale of the spyware problem,” per one researcher.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>More good news for New York startups: Lerer Hippeau raised another $200M</title>
-		<link>https://techcrunch.com/2025/04/09/more-good-news-for-new-york-startups-lerer-hippeau-raised-another-200m/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Wed, 09 Apr 2025 18:06:59 +0000</pubDate>
-				<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Lerer Hippeau]]></category>
-		<category><![CDATA[new york city startups]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2991568</guid>
-
-					<description><![CDATA[New York&#8217;s A-list venture capital seed fund, Lerer Hippeau, announced on Wednesday that it closed a ninth $200 million fund. That&#8217;s a step up from its eighth fund, which closed at $140 million, it said. With the new fund, Lerer Hippeau has $1.4 billion of assets under management. Since its inception in 2010, Lerer Hippeau [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI launches program to design new &#8216;domain-specific&#8217; AI benchmarks</title>
-		<link>https://techcrunch.com/2025/04/09/openai-launches-program-to-design-new-domain-specific-ai-benchmarks/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 09 Apr 2025 17:32:18 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[benchmarks]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2991571</guid>
-
-					<description><![CDATA[OpenAI thinks AI benchmarks are broken. Now the company is launching a program to fix how AI models are scored. The new OpenAI Pioneers Program will focus on creating evaluations for AI models that &#8220;set the bar for what good looks like,&#8221; as OpenAI phrased it in a blog post. &#8220;As the pace of AI [&#8230;]]]></description>
 		
 		
 		
