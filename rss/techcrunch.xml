@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 10 Apr 2025 10:35:32 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 10 Apr 2025 10:52:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,28 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>AI insurtech Ominimo bags its first investment at a $220M valuation</title>
+		<link>https://techcrunch.com/2025/04/10/ai-insurtech-ominimo-bags-its-first-investment-at-a-220m-valuation/</link>
+		
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+		<pubDate>Thu, 10 Apr 2025 10:52:03 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[car insurance]]></category>
+		<category><![CDATA[insurance]]></category>
+		<category><![CDATA[insurtech]]></category>
+		<category><![CDATA[oninimo]]></category>
+		<category><![CDATA[Wefox]]></category>
+		<category><![CDATA[zurich]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2992043</guid>
+
+					<description><![CDATA[How do you get talented engineers to work for a startup in a mundane field at a time when more exciting companies are paying well and hiring aggressively? Here’s an answer from one insurance startup out of Poland called Ominimo: make pay competitive, yes, but more importantly, give those engineers the license to apply their [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Revent rocks the boat with $100M fund to invest in people and the planet</title>
 		<link>https://techcrunch.com/2025/04/10/revent-rocks-the-boat-with-a-fresh-100m-to-invest-in-people-and-the-planet/</link>
 		
@@ -372,23 +394,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2991571</guid>
 
 					<description><![CDATA[OpenAI thinks AI benchmarks are broken. Now the company is launching a program to fix how AI models are scored. The new OpenAI Pioneers Program will focus on creating evaluations for AI models that &#8220;set the bar for what good looks like,&#8221; as OpenAI phrased it in a blog post. &#8220;As the pace of AI [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic rolls out a $200-per-month Claude subscription</title>
-		<link>https://techcrunch.com/2025/04/09/anthropic-rolls-out-a-200-per-month-claude-subscription/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Wed, 09 Apr 2025 17:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Claude]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2991134</guid>
-
-					<description><![CDATA[Anthropic announced on Wednesday that it&#8217;s launching a new, very expensive subscription plan for its AI chatbot Claude: Max. An answer to OpenAI&#8217;s $200-a-month ChatGPT Pro tier, Max comes with higher usage limits than Anthropic&#8217;s $20-per-month Claude Pro subscription, as well as priority access to the company&#8217;s newest AI models and features. A bit confusingly, [&#8230;]]]></description>
 		
 		
 		
