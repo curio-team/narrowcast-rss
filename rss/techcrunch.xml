@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 11 Apr 2025 13:27:23 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 11 Apr 2025 14:29:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,46 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Dropbox Chief Customer Officer Eric Cox plans to step down, per filing</title>
+		<title>OpenAI will soon phase out GPT-4 from ChatGPT</title>
+		<link>https://techcrunch.com/2025/04/11/openai-is-winding-down-its-gpt-4-ai-model-in-chatgpt/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Fri, 11 Apr 2025 14:03:44 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[gpt-4]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2992699</guid>
+
+					<description><![CDATA[OpenAI will soon retire GPT-4, an AI model it launched over two years ago, from ChatGPT, according to a changelog posted on Thursday. Effective April 30, GPT-4 will be &#8220;fully replaced&#8221; by GPT-4o, the current default model in ChatGPT, OpenAI said. GPT-4 will remain available for use via OpenAI&#8217;s API. &#8220;In head‑to‑head evaluations, [GPT-4o] consistently [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Less than a month to get your exhibit table for TechCrunch Sessions: AI</title>
+		<link>https://techcrunch.com/2025/04/11/less-than-a-month-to-get-your-exhibit-table-for-techcrunch-sessions-ai/</link>
+		
+		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
+		<pubDate>Fri, 11 Apr 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[TechCrunch Sessions: AI]]></category>
+		<category><![CDATA[TC Sessions: AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2992636</guid>
+
+					<description><![CDATA[TechCrunch Sessions: AI is fast approaching. So, what does that mean for you? It means exhibit tables are nearly gone — and now’s your chance to grab one before they’re all sold out. If you’ve got a game-changing product to showcase to the AI world, don’t keep it quiet. Exhibit your brand in front of [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Dropbox&#8217;s chief customer officer Eric Cox plans to step down, per filing</title>
 		<link>https://techcrunch.com/2025/04/11/dropbox-chief-customer-officer-eric-cox-plans-to-step-down-per-filing/</link>
 		
 		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
@@ -37,7 +76,7 @@
 		<category><![CDATA[Dropbox]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2992680</guid>
 
-					<description><![CDATA[Dropbox&#8217;s chief customer officer, Eric Cox, plans to step down, according to a document filed with the SEC on Friday. Cox will remain in his current role for &#8220;a period of time&#8221; to help with the transition, per the filing, and then will continue as a &#8220;non-executive&#8221; employee through mid-August. Dropbox didn&#8217;t immediately respond to [&#8230;]]]></description>
+					<description><![CDATA[Dropbox&#8217;s chief customer officer, Eric Cox, plans to step down, according to a document filed with the SEC on Friday. Cox will remain in his current role for &#8220;a period of time&#8221; to help with the transition, per the filing, and then will continue as a &#8220;non-executive&#8221; employee through mid-August. The filing did not mention [&#8230;]]]></description>
 		
 		
 		
@@ -85,13 +124,13 @@
 		
 		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
 		<pubDate>Fri, 11 Apr 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[CO2]]></category>
-		<category><![CDATA[Exclusive]]></category>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Enterprise]]></category>
 		<category><![CDATA[carbon capture]]></category>
 		<category><![CDATA[carbon removal]]></category>
+		<category><![CDATA[CO2]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Microsoft]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2992512</guid>
 
 					<description><![CDATA[The purchase covers 12 years of emissions from CO280’s first carbon capture project at a mill on the Gulf Coast.]]></description>
@@ -350,40 +389,6 @@ Rajat Bhageria turned it around by doing something that early-stage founders fea
 		<guid isPermaLink="false">https://techcrunch.com/?p=2992364</guid>
 
 					<description><![CDATA[Social network Bluesky is rolling out a new version of its software, which adopts some of the features former X users have missed. Nope, it&#8217;s not an edit button! Instead, the open social network is adding support for chat reactions in its direct messages feature and is revamping its search page as &#8220;Explore,&#8221; directing users [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Bezos-backed EV startup Slate Auto&#8217;s pickup truck spotted in the wild</title>
-		<link>https://techcrunch.com/2025/04/10/bezos-backed-ev-startup-slate-autos-pickup-truck-spotted-in-the-wild/</link>
-		
-		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
-		<pubDate>Thu, 10 Apr 2025 18:02:53 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[electric vehicles]]></category>
-		<category><![CDATA[EVs]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[slate auto]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2992308</guid>
-
-					<description><![CDATA[Just one day after TechCrunch revealed that Jeff Bezos is backing a secretive EV startup called Slate Auto, an early version of the company&#8217;s low-cost electric pickup truck was spotted in the wild. Reddit user u/discostranger09 posted a photo to the r/whatisthiscar subreddit on Wednesday of a small, dark gray, two-seater pickup truck on a [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The US Secretary of Education referred to AI as &#8216;A1,&#8217; like the steak sauce</title>
-		<link>https://techcrunch.com/2025/04/10/the-us-secretary-of-education-referred-to-ai-as-a1-like-the-steak-sauce/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Thu, 10 Apr 2025 17:53:01 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[A1]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2992284</guid>
-
-					<description><![CDATA[U.S. Secretary of Education Linda McMahon attended the ASU+GSV Summit this week, where experts in education and technology gathered to discuss how AI will impact learning. While speaking on a panel about AI in the workforce, McMahon repeatedly referred to AI as &#8220;A1,&#8221; like the steak sauce. &#8220;You know, AI development — I mean, how [&#8230;]]]></description>
 		
 		
 		
