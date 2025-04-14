@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 14 Apr 2025 00:01:08 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 14 Apr 2025 12:42:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Intel agrees to sell controlling stake in Altera chip business</title>
+		<link>https://techcrunch.com/2025/04/14/intel-agrees-to-sell-controlling-stake-in-altera-chip-business/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Mon, 14 Apr 2025 12:39:26 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[altera]]></category>
+		<category><![CDATA[Intel]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2993291</guid>
+
+					<description><![CDATA[Intel on Monday announced that it has entered into a definitive agreement to sell 51% of its Altera semiconductor business to Silver Lake, a private equity firm. The deal, which values Altera at $8.75 billion, will make Altera &#8220;operationally independent,&#8221; Intel said in a press release. Intel will retain 49% ownership in Altera, which will [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Bill Gates-backed Arnergy to expand solar access in Nigeria with $18M as demand surges</title>
 		<link>https://techcrunch.com/2025/04/14/arnergy-to-expand-solar-access-in-nigeria-with-18m-series-b/</link>
 		
@@ -354,25 +370,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2992986</guid>
 
 					<description><![CDATA[A group of professors specializing in copyright law has filed an amicus brief in support of authors suing Meta for allegedly training its Llama AI models on e-books without permission. The brief, filed on Friday in the U.S. District Court for the Northern District of California, San Francisco Division, calls Meta’s fair use defense &#8220;a [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>38 consumer startup founders lobby over Trump tariffs: One faces a surprise $200K bill</title>
-		<link>https://techcrunch.com/2025/04/11/38-consumer-startup-founders-lobby-over-trump-tariffs-one-faces-a-surprise-200k-bill/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Fri, 11 Apr 2025 20:06:11 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[cpg]]></category>
-		<category><![CDATA[Tariffs]]></category>
-		<category><![CDATA[trump's tariffs]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2992871</guid>
-
-					<description><![CDATA[Small businesses could be crushed under President Trump’s increased tariffs, according to an open letter by 38 female consumer product founders. While Trump paused his tariff increases for 90 days for various countries &#8212; setting the rate at 10% for now &#8212; China&#8217;s was raised to 145%, which includes the previous 20% levy. In the letter, [&#8230;]]]></description>
 		
 		
 		
