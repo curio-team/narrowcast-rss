@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 14 Apr 2025 13:37:41 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 14 Apr 2025 14:09:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Silicon Valley crosswalk buttons hacked to imitate Musk, Zuckerberg voices</title>
+		<title>Autonomous trucking startup Kodiak Robotics to go public via SPAC</title>
+		<link>https://techcrunch.com/2025/04/14/autonomous-trucking-startup-kodiak-robotics-to-go-public-via-spac/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Mon, 14 Apr 2025 13:45:40 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[autonomous trucking]]></category>
+		<category><![CDATA[Kodiak Robotics]]></category>
+		<category><![CDATA[SPAC]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2993322</guid>
+
+					<description><![CDATA[Self-driving truck startup Kodiak Robotics plans to go public via a merger with special purpose acquisition company Ares Acquisition Corporation II. The transaction values Kodiak, which has raised around $243 million to date, at about $2.5 billion pre-money. New and existing Kodiak institutional investors, like Soros Fund Management, ARK Investments, and Ares, have funded or [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Silicon Valley crosswalk buttons hacked to imitate Musk, Zuckerberg&#8217;s voices</title>
 		<link>https://techcrunch.com/2025/04/14/silicon-valley-crosswalk-buttons-hacked-to-imitate-musk-zuckerberg-voices/</link>
 		
 		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
@@ -45,7 +62,7 @@
 		
 			</item>
 		<item>
-		<title>Nvidia says it plans to manufacture some AI chips in the U.S.</title>
+		<title>Nvidia says it plans to manufacture some AI chips in the US</title>
 		<link>https://techcrunch.com/2025/04/14/nvidia-says-it-plans-to-manufacture-some-ai-chips-in-the-u-s/</link>
 		
 		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
@@ -54,7 +71,7 @@
 		<category><![CDATA[nvidia]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2993329</guid>
 
-					<description><![CDATA[Nvidia says it has commissioned more than a million square feet of manufacturing space to build and test AI chips in Arizona and Texas as part of an effort to move a portion of production to the U.S. The chipmaker says that Nvidia Blackwell chips have started production at TSMC’s chip plants in Phoenix, Arizona, [&#8230;]]]></description>
+					<description><![CDATA[Nvidia said on Monday that it has commissioned more than a million square feet of manufacturing space to build and test AI chips in Arizona and Texas as part of an effort to move a portion of its production to the U.S. The chipmaker said the production of its Blackwell chips has started at TSMC’s [&#8230;]]]></description>
 		
 		
 		
@@ -68,10 +85,10 @@
 				<category><![CDATA[Startups]]></category>
 		<category><![CDATA[Transportation]]></category>
 		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[electric vehicles]]></category>
-		<category><![CDATA[Funding]]></category>
-		<category><![CDATA[Exclusive]]></category>
 		<category><![CDATA[conifer]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Funding]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2992701</guid>
 
 					<description><![CDATA[A handful of engineers who worked at Lucid Motors and on Apple&#8217;s electric car project have launched a new startup that puts a fresh spin on electric hub motors. The new startup, called Conifer, has developed its motor to be free of rare earth elements by using more abundant ferrite magnets, which the company says [&#8230;]]]></description>
@@ -80,7 +97,7 @@
 		
 			</item>
 		<item>
-		<title>Intel agrees to sell controlling stake in Altera chip business</title>
+		<title>Intel to sell controlling stake in Altera chip business to Silver Lake</title>
 		<link>https://techcrunch.com/2025/04/14/intel-agrees-to-sell-controlling-stake-in-altera-chip-business/</link>
 		
 		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
@@ -88,9 +105,11 @@
 				<category><![CDATA[Enterprise]]></category>
 		<category><![CDATA[altera]]></category>
 		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[Mergers and Acquisitions]]></category>
+		<category><![CDATA[silver lake partners]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2993291</guid>
 
-					<description><![CDATA[Intel on Monday announced that it has entered into a definitive agreement to sell 51% of its Altera semiconductor business to Silver Lake, a private equity firm. The deal, which values Altera at $8.75 billion, will make Altera &#8220;operationally independent,&#8221; Intel said in a press release. Intel will retain 49% ownership in Altera, which will [&#8230;]]]></description>
+					<description><![CDATA[Intel on Monday said it has agreed to sell 51% of its Altera semiconductor business to Silver Lake, a private equity firm. The deal, which values Altera at $8.75 billion, will make the division &#8220;operationally independent,&#8221; Intel said in a press release. The chipmaker will retain a 49% stake in Altera, which will be led [&#8230;]]]></description>
 		
 		
 		
@@ -349,23 +368,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2993092</guid>
 
 					<description><![CDATA[Thirteen years ago, Forerunner Ventures began helping to usher in a new era of consumer startups, including Warby Parker, Bonobos, and Glossier. None has gone through a traditional IPO process. Warby Parker was taken public through a special purpose acquisition vehicle. Bonobos was acquired by Walmart. Glossier is still privately held, along with many other [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meta&#8217;s vanilla Maverick AI model ranks below rivals on a popular chat benchmark</title>
-		<link>https://techcrunch.com/2025/04/11/metas-vanilla-maverick-ai-model-ranks-below-rivals-on-a-popular-chat-benchmark/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Fri, 11 Apr 2025 22:46:22 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Llama]]></category>
-		<category><![CDATA[lm arena]]></category>
-		<category><![CDATA[Meta]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2992970</guid>
-
-					<description><![CDATA[Earlier this week, Meta landed in hot water for using an experimental, unreleased version of its Llama 4 Maverick model to achieve a high score on a crowdsourced benchmark, LM Arena. The incident prompted the maintainers of LM Arena to apologize, change their policies, and score the unmodified, vanilla Maverick. Turns out, it&#8217;s not very [&#8230;]]]></description>
 		
 		
 		
