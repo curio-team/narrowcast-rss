@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 15 Apr 2025 11:10:21 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Apr 2025 13:04:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,45 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Fusion power has a fuel problem; Hexium has a laser-powered solution</title>
+		<link>https://techcrunch.com/2025/04/15/fusion-power-has-a-fuel-problem-hexium-has-a-laser-powered-solution/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Tue, 15 Apr 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[lasers]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[nuclear fusion]]></category>
+		<category><![CDATA[fusion power]]></category>
+		<category><![CDATA[MaC Venture Capital]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2993647</guid>
+
+					<description><![CDATA[Hexium has emerged from stealth with $8 million in seed funding.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Phantom Neuro grabs $19M to help amputees put their phantom limbs to use</title>
+		<link>https://techcrunch.com/2025/04/15/phantom-neuro-grabs-19m-to-help-amputees-gain-control-of-their-phantom-limbs/</link>
+		
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+		<pubDate>Tue, 15 Apr 2025 12:58:19 +0000</pubDate>
+				<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[neuroscience]]></category>
+		<category><![CDATA[Phantom Neuro]]></category>
+		<category><![CDATA[Prosthetics]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2993962</guid>
+
+					<description><![CDATA[The science fiction trope of humans superpowered by computer and bionic implants is fast becoming a reality, and today, a startup hoping for a role in how that plays out is announcing some funding.  Phantom Neuro, which is developing a wristband-like device that gets implanted under the skin to let a person control prosthetic limbs, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Apple details how it plans to improve its AI models by privately analyzing user data</title>
 		<link>https://techcrunch.com/2025/04/15/apple-details-how-it-plans-to-improve-its-ai-models-by-privately-analyzing-user-data/</link>
 		
@@ -338,42 +377,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2993387</guid>
 
 					<description><![CDATA[Meta announced on Monday that it&#8217;s going to train its AI models on public content, such as posts and comments on Facebook and Instagram, in the EU after previously pausing its plans to do so in response to regulatory pressure due to data privacy concerns. The company will start training its AI on users&#8217; content [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hugging Face buys a humanoid robotics startup</title>
-		<link>https://techcrunch.com/2025/04/14/hugging-face-buys-a-humanoid-robotics-startup/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Mon, 14 Apr 2025 14:37:22 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Mergers and Acquisitions]]></category>
-		<category><![CDATA[Hugging Face]]></category>
-		<category><![CDATA[pollen robotics]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[reachy 2]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2993385</guid>
-
-					<description><![CDATA[AI dev platform Hugging Face has acquired Pollen Robotics, a robotics startup based in France, for an undisclosed amount. Wired reports that Hugging Face plans to sell Pollen&#8217;s humanoid robot, Reachy 2, and let developers download and suggest improvements to its code. Pollen Robotics, which aims to bring affordable humanoid robots to the home, was [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Autonomous trucking startup Kodiak Robotics to go public via SPAC</title>
-		<link>https://techcrunch.com/2025/04/14/autonomous-trucking-startup-kodiak-robotics-to-go-public-via-spac/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Mon, 14 Apr 2025 13:45:40 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[autonomous trucking]]></category>
-		<category><![CDATA[SPAC]]></category>
-		<category><![CDATA[Kodiak Robotics]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2993322</guid>
-
-					<description><![CDATA[Self-driving truck startup Kodiak Robotics plans to go public via a merger with special purpose acquisition company Ares Acquisition Corporation II. The transaction values Kodiak, which has raised around $243 million to date, at about $2.5 billion pre-money. New and existing Kodiak institutional investors, like Soros Fund Management, ARK Investments, and Ares, have funded or [&#8230;]]]></description>
 		
 		
 		
