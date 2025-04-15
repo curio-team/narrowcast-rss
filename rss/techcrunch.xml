@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 15 Apr 2025 07:59:37 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Apr 2025 11:10:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Apple details how it plans to improve its AI models by privately analyzing user data</title>
+		<link>https://techcrunch.com/2025/04/15/apple-details-how-it-plans-to-improve-its-ai-models-by-privately-analyzing-user-data/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Tue, 15 Apr 2025 10:53:55 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Apple Intelligence]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2993942</guid>
+
+					<description><![CDATA[In the wake of criticism over the underwhelming performance of its AI products, especially in areas like notification summaries, Apple on Monday detailed how it is trying to improve its AI models by analyzing user data privately with the aid of synthetic data. Using an approach called &#8220;differential privacy,&#8221; the company said it would first [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Waymo and Uber prepare to launch robotaxi service in Atlanta this summer</title>
 		<link>https://techcrunch.com/2025/04/15/waymo-and-uber-prepare-to-launch-robotaxi-service-in-atlanta-this-summer/</link>
 		
@@ -357,23 +374,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2993322</guid>
 
 					<description><![CDATA[Self-driving truck startup Kodiak Robotics plans to go public via a merger with special purpose acquisition company Ares Acquisition Corporation II. The transaction values Kodiak, which has raised around $243 million to date, at about $2.5 billion pre-money. New and existing Kodiak institutional investors, like Soros Fund Management, ARK Investments, and Ares, have funded or [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Silicon Valley crosswalk buttons hacked to imitate Musk, Zuckerberg&#8217;s voices</title>
-		<link>https://techcrunch.com/2025/04/14/silicon-valley-crosswalk-buttons-hacked-to-imitate-musk-zuckerberg-voices/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Mon, 14 Apr 2025 13:35:40 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[hack]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[traffic lights]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2993279</guid>
-
-					<description><![CDATA[The crosswalk buttons, which include audio alerts, were hacked over the weekend.]]></description>
 		
 		
 		
