@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 15 Apr 2025 13:04:21 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Apr 2025 14:06:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Lucid Gravity First Drive: An electric SUV that doesn&#8217;t make compromises</title>
+		<link>https://techcrunch.com/2025/04/15/lucid-gravity-first-drive-an-electric-suv-that-doesnt-make-compromises/</link>
+		
+		<dc:creator><![CDATA[Abigail Bassett]]></dc:creator>
+		<pubDate>Tue, 15 Apr 2025 13:30:00 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[Lucid Motors]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2993924</guid>
+
+					<description><![CDATA[Lucid has spent years working on its second EV — a plush van-like SUV designed to be the category killer that could take market share from the likes of other luxury EV and internal combustion people haulers like the Rivian R1S, Cadillac Escalade IQ, BMW X7, and Audi Q8. The Saudi-backed company&#8217;s aim was to [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Fusion power has a fuel problem; Hexium has a laser-powered solution</title>
 		<link>https://techcrunch.com/2025/04/15/fusion-power-has-a-fuel-problem-hexium-has-a-laser-powered-solution/</link>
 		
@@ -360,23 +376,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2993405</guid>
 
 					<description><![CDATA[Chipolo, the maker of AirTag-like devices, on Monday introduced the latest version of its product. Now, instead of offering models that only work with either Apple or Google&#8217;s lost-item finding technology, the new Chipolo POP devices work with both companies&#8217; finding networks out of the box. By combining these different functionalities into one device, Chipolo [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meta to start training its AI models on public content in the EU</title>
-		<link>https://techcrunch.com/2025/04/14/meta-to-start-training-its-ai-models-on-public-content-in-the-eu/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Mon, 14 Apr 2025 15:03:57 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[meta ai]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2993387</guid>
-
-					<description><![CDATA[Meta announced on Monday that it&#8217;s going to train its AI models on public content, such as posts and comments on Facebook and Instagram, in the EU after previously pausing its plans to do so in response to regulatory pressure due to data privacy concerns. The company will start training its AI on users&#8217; content [&#8230;]]]></description>
 		
 		
 		
