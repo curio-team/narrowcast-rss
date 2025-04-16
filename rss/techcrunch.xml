@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 16 Apr 2025 12:38:58 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 16 Apr 2025 13:37:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,60 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Lyft to buy taxi app FREENOW for $197M to enter Europe</title>
+		<link>https://techcrunch.com/2025/04/16/lyft-to-buy-taxi-app-freenow-for-197m-to-enter-europe/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Wed, 16 Apr 2025 13:20:02 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[freenow]]></category>
+		<category><![CDATA[Lyft]]></category>
+		<category><![CDATA[Mergers and Acquisitions]]></category>
+		<category><![CDATA[ridehail]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2994783</guid>
+
+					<description><![CDATA[Ride-hailing giant Lyft said it has agreed to acquire FREENOW, a German multi-mobility app with ride-hail at its core, from BMW and Mercedes-Benz Mobility for about $197 million in cash.  The acquisition opens up the European market to Lyft for the first time. The company has only operated in the U.S. and Canada since it [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AMD estimates $800M charge on US license requirement for AI chips</title>
+		<link>https://techcrunch.com/2025/04/16/amd-takes-800m-charge-on-us-license-requirement-for-ai-chips/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 16 Apr 2025 13:09:52 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[amd]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2994788</guid>
+
+					<description><![CDATA[AMD says that the U.S. government&#8217;s license control requirement for exporting AI chips to China and certain other countries may impact its earnings materially. If AMD doesn&#8217;t successfully obtain a license, the company could be on the hook for roughly $800 million in inventory, purchase commitments, and related reserves charges, the company said in a [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Patreon tests a native live video feature where creators can stream 24/7</title>
+		<link>https://techcrunch.com/2025/04/16/patreon-tests-a-native-live-video-feature-where-creators-can-stream-24-7/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Wed, 16 Apr 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Patreon]]></category>
+		<category><![CDATA[content creators]]></category>
+		<category><![CDATA[creator economy]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2994407</guid>
+
+					<description><![CDATA[Patreon is finally experimenting with a native livestreaming, a new feature that could attract more creators and help them earn more money. The capability is rolling out to select testers this week and will become more widely available this summer.&#160; Similar to other platforms, Patreon’s new livestream feature comes with a live chat where fans [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>A dev built a test to see how AI chatbots respond to controversial topics</title>
 		<link>https://techcrunch.com/2025/04/16/theres-now-a-benchmark-for-how-free-an-ai-chatbot-is-to-talk-about-controversial-topics/</link>
 		
@@ -47,19 +101,17 @@
 		
 			</item>
 		<item>
-		<title>A year after Elon Musk’s takeover, UK revenues for X plummeted</title>
+		<title>X&#8217;s UK division saw revenue decline 66% in 2023 following Musk&#8217;s takeover</title>
 		<link>https://techcrunch.com/2025/04/16/a-year-after-elon-musks-takeover-uk-revenues-for-x-plummeted/</link>
 		
 		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
 		<pubDate>Wed, 16 Apr 2025 12:28:02 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[social]]></category>
+				<category><![CDATA[Social]]></category>
 		<category><![CDATA[social media]]></category>
 		<category><![CDATA[X]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2994766</guid>
 
-					<description><![CDATA[X has not been fairing well in the U.K., previously a major source of revenue for the social network prior to Elon Musk’s arrival. Still named Twitter UK Ltd, revenues and profits for X&#8217;s UK entity collapsed by over 60% in the year after Musk took it over and changed its moderation controls, according to [&#8230;]]]></description>
+					<description><![CDATA[X has not been faring well in the U.K., which used to be a major source of revenue for the social network prior to Elon Musk’s takeover. Still named Twitter UK Ltd, revenues and profits for X&#8217;s U.K. entity collapsed by over 60% in 2023, according to accounts filed this week with the U.K.’s Companies [&#8230;]]]></description>
 		
 		
 		
@@ -327,61 +379,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2994358</guid>
 
 					<description><![CDATA[OpenAI has updated its Preparedness Framework &#8212; the internal system it uses to assess the safety of AI models and determine necessary safeguards during development and deployment. In the update, OpenAI stated that it may &#8220;adjust&#8221; its safety requirements if a competing AI lab releases a &#8220;high-risk&#8221; system without similar protections in place. The change [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>India&#8217;s BluSmart swept up in Gensol investigation alleging misuse of EV loans</title>
-		<link>https://techcrunch.com/2025/04/15/indian-ride-hailing-startup-blusmart-swept-up-in-gensol-investigation-alleging-misuse-of-ev-loans/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Tue, 15 Apr 2025 19:24:01 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[BluSmart]]></category>
-		<category><![CDATA[EV]]></category>
-		<category><![CDATA[Gensol Engineering]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2994314</guid>
-
-					<description><![CDATA[India&#8217;s market regulator launched a probe Tuesday into Gensol Engineering after finding alleged misuse of electric vehicle loans. BluSmart, a ride-hailing startup connected to Gensol that was once seen as an emerging Uber rival in the South Asian market, has also been swept up into the investigation. The Securities and Exchange Board of India (SEBI) [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Figma sent a cease-and-desist letter to Lovable over the term &#8216;Dev Mode&#8217;</title>
-		<link>https://techcrunch.com/2025/04/15/figma-sent-a-cease-and-desist-letter-to-lovable-over-the-term-dev-mode/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Tue, 15 Apr 2025 19:17:40 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[cease and desist]]></category>
-		<category><![CDATA[Figma]]></category>
-		<category><![CDATA[vibe coding]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2994310</guid>
-
-					<description><![CDATA[We may be witnessing the makings of a new tech industry feud between competitors. Figma has sent a cease-and-desist letter to popular no-code AI startup Lovable, Figma confirmed to TechCrunch.&#160; The letter tells Lovable to stop using the term “Dev Mode&#8221; for a new product feature. Figma, which also has a feature called Dev Mode, [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI hires team behind GV-backed AI eval platform Context.ai</title>
-		<link>https://techcrunch.com/2025/04/15/openai-hires-team-behind-gv-backed-ai-eval-platform-context-ai/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Tue, 15 Apr 2025 18:13:18 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[acquihire]]></category>
-		<category><![CDATA[context.ai]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2994167</guid>
-
-					<description><![CDATA[Context.ai, a startup building evaluations and analytics for AI models, announced Tuesday that its co-founders will join OpenAI.  Context.ai plans to wind down its products following the acqui-hire, per a message on the company&#8217;s website. When reached for comment, OpenAI declined to reveal the terms of the deal. &#8220;Evals are a requirement to building high-performing [&#8230;]]]></description>
 		
 		
 		
