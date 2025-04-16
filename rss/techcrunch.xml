@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 16 Apr 2025 08:35:47 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 16 Apr 2025 11:01:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Hammerspace, an unstructured data wrangler used by Nvidia, Meta and Tesla, raises $100M at $500M+ valuation</title>
+		<link>https://techcrunch.com/2025/04/16/hammerspace-an-unstructured-data-wrangler-used-by-nvidia-meta-and-tesla-raises-100m-at-500m-valuation/</link>
+		
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+		<pubDate>Wed, 16 Apr 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[altimeter capital]]></category>
+		<category><![CDATA[unstructured data]]></category>
+		<category><![CDATA[data orchestration]]></category>
+		<category><![CDATA[hammerspace]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2994738</guid>
+
+					<description><![CDATA[Artificial intelligence services at their heart are massive data plays: you need data — a lot of it — to build the models, and then the models need efficient ways to ingest and output data to work.&#160; A company called Hammerspace has built a system to help AI and other organisations tap into data troves [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Google used AI to suspend over 39M ad accounts suspected of fraud</title>
 		<link>https://techcrunch.com/2025/04/16/google-used-ai-to-suspend-over-39m-ad-accounts-committing-fraud/</link>
 		
@@ -65,19 +84,19 @@
 		
 			</item>
 		<item>
-		<title>Opera adds its Aria AI assistant to Opera Mini browser</title>
+		<title>Opera adds its Aria AI assistant to Opera Mini on Android</title>
 		<link>https://techcrunch.com/2025/04/16/opera-adds-its-aria-ai-assistant-to-opera-mini-browser/</link>
 		
 		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
 		<pubDate>Wed, 16 Apr 2025 08:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[AI assistant]]></category>
 		<category><![CDATA[browsers]]></category>
 		<category><![CDATA[Opera]]></category>
-		<category><![CDATA[AI assistant]]></category>
+		<category><![CDATA[opera mini]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2994733</guid>
 
-					<description><![CDATA[Norway-based browser company Opera said today that it is making its AI assistant Aria available to Opera Mini users on Android. This move will help users with low-end devices and data constraints access better AI features. Aria AI can help users get the latest news and information on different topics, learn more about various subjects, and [&#8230;]]]></description>
+					<description><![CDATA[Norway-based browser company Opera said today that it is making its AI assistant Aria available on its Opera Mini browser for on Android.  Aria AI can help users get the latest news and information on different topics, learn more about various subjects, and generate images. Opera uses a mix of models from OpenAI and Google [&#8230;]]]></description>
 		
 		
 		
@@ -361,25 +380,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2994132</guid>
 
 					<description><![CDATA[Publishing platform Medium says it&#8217;s still committed to diversity, equity, and inclusion (DEI), even as many other U.S. tech companies have scaled back their efforts in this space to appease the Trump administration. In a blog post published on Monday, Medium CEO Tony Stubblebine backed the company&#8217;s diverse community, saying that businesses shouldn&#8217;t have to [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google&#8217;s Veo 2 video generating model comes to Gemini</title>
-		<link>https://techcrunch.com/2025/04/15/googles-veo-2-video-generator-comes-to-gemini/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 15 Apr 2025 17:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[gemini]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[veo 2]]></category>
-		<category><![CDATA[video generation]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2993695</guid>
-
-					<description><![CDATA[Google is bringing its Veo 2 video-generating AI model to users who pay for Gemini Advanced, the company&#8217;s premium AI plan. The expansion comes as Google looks to deliver an answer to OpenAI&#8217;s Sora video generation platform, and as competition in the space grows fiercer. Two weeks ago, one of the more formidable synthetic media [&#8230;]]]></description>
 		
 		
 		
