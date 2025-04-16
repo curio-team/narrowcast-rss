@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 16 Apr 2025 11:01:26 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 16 Apr 2025 12:38:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,64 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>A dev built a test to see how AI chatbots respond to controversial topics</title>
+		<link>https://techcrunch.com/2025/04/16/theres-now-a-benchmark-for-how-free-an-ai-chatbot-is-to-talk-about-controversial-topics/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 16 Apr 2025 12:30:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ai censorship]]></category>
+		<category><![CDATA[Grok]]></category>
+		<category><![CDATA[Llama]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[SpeechMap]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2994296</guid>
+
+					<description><![CDATA[A pseudonymous developer has created what they&#8217;re calling a &#8220;free speech eval,&#8221; SpeechMap, for the AI models powering chatbots like OpenAI&#8217;s ChatGPT and X&#8217;s Grok. The goal is to compare how different models treat sensitive and controversial subjects, the developer told TechCrunch, including political criticism and questions about civil rights and protest. AI companies have [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>A year after Elon Musk’s takeover, UK revenues for X plummeted</title>
+		<link>https://techcrunch.com/2025/04/16/a-year-after-elon-musks-takeover-uk-revenues-for-x-plummeted/</link>
+		
+		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
+		<pubDate>Wed, 16 Apr 2025 12:28:02 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[X]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2994766</guid>
+
+					<description><![CDATA[X has not been fairing well in the U.K., previously a major source of revenue for the social network prior to Elon Musk’s arrival. Still named Twitter UK Ltd, revenues and profits for X&#8217;s UK entity collapsed by over 60% in the year after Musk took it over and changed its moderation controls, according to [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cosmic Robotics&#8217; robots could speed up solar panel deployments</title>
+		<link>https://techcrunch.com/2025/04/16/cosmic-robotics-is-building-robots-to-speed-solar-power-deployments-for-data-centers/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Wed, 16 Apr 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[solar panels]]></category>
+		<category><![CDATA[Solar Power]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Giant Ventures]]></category>
+		<category><![CDATA[construction robotics]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2994305</guid>
+
+					<description><![CDATA[Cosmic Robotics has developed a robotic assistant that does the heavy lifting on solar job sites.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Hammerspace, an unstructured data wrangler used by Nvidia, Meta and Tesla, raises $100M at $500M+ valuation</title>
 		<link>https://techcrunch.com/2025/04/16/hammerspace-an-unstructured-data-wrangler-used-by-nvidia-meta-and-tesla-raises-100m-at-500m-valuation/</link>
 		
@@ -324,62 +382,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2994167</guid>
 
 					<description><![CDATA[Context.ai, a startup building evaluations and analytics for AI models, announced Tuesday that its co-founders will join OpenAI.  Context.ai plans to wind down its products following the acqui-hire, per a message on the company&#8217;s website. When reached for comment, OpenAI declined to reveal the terms of the deal. &#8220;Evals are a requirement to building high-performing [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google bets on geothermal to power data centers in Taiwan</title>
-		<link>https://techcrunch.com/2025/04/15/google-bets-on-geothermal-to-power-data-centers-in-taiwan/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Tue, 15 Apr 2025 18:02:10 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[geothermal]]></category>
-		<category><![CDATA[geothermal energy]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[green data centers]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[taiwan]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2994226</guid>
-
-					<description><![CDATA[Swedish company Baseload Capital is developing the project.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic forms a new team to grow its AWS business</title>
-		<link>https://techcrunch.com/2025/04/15/anthropic-forms-a-new-team-to-grow-its-aws-business/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 15 Apr 2025 17:37:32 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[AWS]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2994082</guid>
-
-					<description><![CDATA[In a sign of Anthropic&#8217;s increasingly cozy relationship with Amazon, Anthropic has formed a new team to recruit AWS customers to use its AI products. The team, which Anthropic appears to have begun hiring several months ago, aims to &#8220;accelerate&#8221; the adoption of Anthropic&#8217;s AI among AWS accounts by &#8220;building programs that [&#8230;] scale across [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Publishing platform Medium says it&#8217;s sticking with DEI</title>
-		<link>https://techcrunch.com/2025/04/15/publishing-platform-medium-says-its-sticking-with-dei/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Tue, 15 Apr 2025 17:13:23 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[blogging]]></category>
-		<category><![CDATA[DEI]]></category>
-		<category><![CDATA[Medium]]></category>
-		<category><![CDATA[Publishing]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2994132</guid>
-
-					<description><![CDATA[Publishing platform Medium says it&#8217;s still committed to diversity, equity, and inclusion (DEI), even as many other U.S. tech companies have scaled back their efforts in this space to appease the Trump administration. In a blog post published on Monday, Medium CEO Tony Stubblebine backed the company&#8217;s diverse community, saying that businesses shouldn&#8217;t have to [&#8230;]]]></description>
 		
 		
 		
