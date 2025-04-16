@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 16 Apr 2025 06:21:10 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 16 Apr 2025 08:35:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,43 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Visa-backed African unicorn Moniepoint tackles remittances. But is it late to the game?</title>
+		<link>https://techcrunch.com/2025/04/16/visa-backed-african-unicorn-moniepoint-tackles-remittances-but-is-it-late-to-the-game/</link>
+		
+		<dc:creator><![CDATA[Tage Kene-Okafor]]></dc:creator>
+		<pubDate>Wed, 16 Apr 2025 08:35:34 +0000</pubDate>
+				<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Africa]]></category>
+		<category><![CDATA[diaspora banking]]></category>
+		<category><![CDATA[moniepoint]]></category>
+		<category><![CDATA[remittance]]></category>
+		<category><![CDATA[remittance banking]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2994303</guid>
+
+					<description><![CDATA[When Visa invested in Nigerian fintech Moniepoint earlier this year, it didn’t just validate the newly minted unicorn — it signaled a bold new direction. As part of that deal, the Nigerian fintech best known for building one of Africa’s largest business banking platforms, hinted at plans to integrate with Visa Direct, a move that [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Opera adds its Aria AI assistant to Opera Mini browser</title>
+		<link>https://techcrunch.com/2025/04/16/opera-adds-its-aria-ai-assistant-to-opera-mini-browser/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Wed, 16 Apr 2025 08:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[browsers]]></category>
+		<category><![CDATA[Opera]]></category>
+		<category><![CDATA[AI assistant]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2994733</guid>
+
+					<description><![CDATA[Norway-based browser company Opera said today that it is making its AI assistant Aria available to Opera Mini users on Android. This move will help users with low-end devices and data constraints access better AI features. Aria AI can help users get the latest news and information on different topics, learn more about various subjects, and [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>TS Anil, CEO of Monzo, is joining our StrictlyVC London lineup</title>
 		<link>https://techcrunch.com/2025/04/16/ts-anil-ceo-of-monzo-is-joining-our-strictlyvc-london-lineup/</link>
 		
@@ -66,8 +103,8 @@
 		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
 		<pubDate>Wed, 16 Apr 2025 02:30:28 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Grok]]></category>
 		<category><![CDATA[xAI]]></category>
+		<category><![CDATA[Grok]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2994670</guid>
 
 					<description><![CDATA[Grok, the chatbot from Elon Musk&#8217;s AI company, xAI, has gained a canvas-like feature for editing and creating documents and basic apps. Called Grok Studio, the feature was announced on X late Tuesday. It&#8217;s available for both free and paying Grok users on Grok.com &#8220;Grok can now generate documents, code, reports and browser games,&#8221; wrote [&#8230;]]]></description>
@@ -342,42 +379,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2993718</guid>
 
 					<description><![CDATA[Anthropic announced on Tuesday that its AI chatbot, Claude, now integrates with Google Workspace, allowing it to search and reference your emails in Gmail, scheduled events in Google Calendar, and documents in Google Docs. The integration is rolling out in beta first to subscribers to Anthropic&#8217;s Max, Team, Enterprise, and Pro plans. Administrators managing multi-user [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Notorious image board 4chan hacked and internal data leaked</title>
-		<link>https://techcrunch.com/2025/04/15/notorious-image-board-4chan-hacked-and-internal-data-leaked/</link>
-		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai, Amanda Silberling]]></dc:creator>
-		<pubDate>Tue, 15 Apr 2025 16:54:21 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[4chan]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[hackers]]></category>
-		<category><![CDATA[hacking]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2994134</guid>
-
-					<description><![CDATA[The infamous website was taken down and working intermittently, while hackers leaked alleged data like moderators email addresses, and source code.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Deel’s CEO is now in Dubai, complicating Rippling’s lawsuit</title>
-		<link>https://techcrunch.com/2025/04/15/deels-ceo-is-now-in-dubai-complicating-ripplings-lawsuit/</link>
-		
-		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
-		<pubDate>Tue, 15 Apr 2025 16:32:16 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Alex Bouaziz]]></category>
-		<category><![CDATA[Deel]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[Rippling]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2994126</guid>
-
-					<description><![CDATA[Rippling&#8217;s efforts to serve Deel CEO Alex Bouaziz have been significantly complicated by the fact that Bouaziz and his lawyer are now in Dubai, according to internal correspondence seen by TechCrunch. The UAE is a country with a reputation of being a safe haven for those wanting to avoid extradition. Rippling is trying to serve [&#8230;]]]></description>
 		
 		
 		
