@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 17 Apr 2025 13:11:58 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 17 Apr 2025 14:28:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,43 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Mark Zuckerberg says TikTok slowed Meta&#8217;s growth</title>
+		<link>https://techcrunch.com/2025/04/17/mark-zuckerberg-says-tiktok-slowed-metas-growth/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Thu, 17 Apr 2025 14:28:37 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[FTC]]></category>
+		<category><![CDATA[Instagram]]></category>
+		<category><![CDATA[TikTok]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2995452</guid>
+
+					<description><![CDATA[In Meta&#8217;s antitrust trial on Wednesday, Meta CEO Mark Zuckerberg testified that TikTok&#8217;s success was a risk to Meta&#8217;s business, saying the short-form video app was a &#8220;top priority&#8221; and a &#8220;highly urgent&#8221; competitive threat when it arrived in 2018, according to Bloomberg and other outlets. The reports come from a packed first week of [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Shein and Temu to raise prices for US shoppers in response to tariffs</title>
+		<link>https://techcrunch.com/2025/04/17/shein-and-temu-to-raise-prices-for-us-shoppers-in-response-to-tariffs/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Thu, 17 Apr 2025 13:47:01 +0000</pubDate>
+				<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Shein]]></category>
+		<category><![CDATA[Tariffs]]></category>
+		<category><![CDATA[temu]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2995448</guid>
+
+					<description><![CDATA[Temu and Shein plan to raise prices for U.S. customers starting next week on April 25th, due to President Donald Trump&#8217;s tariffs on goods shipped from China, the Associated Press reports. The 145% tariff on products made in China, along with Trump&#8217;s decision to end a customs exemption that had allowed goods under $800 to [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Wasp&#8217;s platform is the glue that holds web dev apps together</title>
 		<link>https://techcrunch.com/2025/04/17/wasps-platform-is-the-glue-that-holds-web-apps-together/</link>
 		
@@ -344,40 +381,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2994599</guid>
 
 					<description><![CDATA[OpenAI announced on Wednesday the launch of o3 and o4-mini, new AI reasoning models designed to pause and work through questions before responding. The company calls o3 its most advanced reasoning model ever, outperforming the company&#8217;s previous models on tests measuring math, coding, reasoning, science, and visual understanding capabilities. Meanwhile, o4-mini offers what OpenAI says [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI debuts Codex CLI, an open source coding tool for terminals</title>
-		<link>https://techcrunch.com/2025/04/16/openai-debuts-codex-cli-an-open-source-coding-tool-for-terminals/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 16 Apr 2025 17:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[open source]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2994600</guid>
-
-					<description><![CDATA[In a bid to inject AI into more of the programming process, OpenAI is launching Codex CLI, a coding &#8220;agent&#8221; designed to run locally from terminal software. Announced on Wednesday alongside OpenAI&#8217;s newest AI models, o3 and o4-mini, Codex CLI links OpenAI&#8217;s models with local code and computing tasks, OpenAI says. Via Codex CLI, OpenAI&#8217;s [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Digital frame maker Aura introduces the Aspen, a $299 frame with more intelligent features</title>
-		<link>https://techcrunch.com/2025/04/16/digital-frame-maker-aura-introduces-the-aspen-a-299-frame-with-more-intelligent-features/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Wed, 16 Apr 2025 16:59:54 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Gadgets]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[aura]]></category>
-		<category><![CDATA[digital frames]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2994928</guid>
-
-					<description><![CDATA[Aura, a digital photo frames company founded by early Twitter employees, is introducing its latest model, Aspen, which adds new technology to the device and its accompanying mobile app. In addition to hosting your digital photos in its 12-inch HD display, the device now also allows you to add captions to your photos when they [&#8230;]]]></description>
 		
 		
 		
