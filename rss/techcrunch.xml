@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 17 Apr 2025 06:32:41 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 17 Apr 2025 13:11:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,42 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Wasp&#8217;s platform is the glue that holds web dev apps together</title>
+		<link>https://techcrunch.com/2025/04/17/wasps-platform-is-the-glue-that-holds-web-apps-together/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Thu, 17 Apr 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[coding]]></category>
+		<category><![CDATA[developer tools]]></category>
+		<category><![CDATA[wasp]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2995226</guid>
+
+					<description><![CDATA[When Matija Šošić started working in web development, he was surprised by how hard it was to build a full-stack production-ready web application. One of the biggest hurdles Šošić faced was navigating the fragmented dev tooling landscape. Coding a web application required utilizing different tools for developing the front-end versus the back-end, and so on. [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Archer Aviation wants to help New Yorkers skip airport traffic with electric air taxis</title>
+		<link>https://techcrunch.com/2025/04/17/archer-aviation-wants-to-help-new-yorkers-skip-airport-traffic-with-electric-air-taxis/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Thu, 17 Apr 2025 12:45:54 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Archer Aviation]]></category>
+		<category><![CDATA[eVTOL]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2995437</guid>
+
+					<description><![CDATA[New York City is one of those places in the world where you can get a dollar slice at 2 in the morning or have a burger delivered in under 30 minutes, but you&#8217;ll still spend two hours crawling down the highway to catch a flight. Archer Aviation wants to change that with air taxis [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Smashing, the reading curation app by Goodreads&#8217; founder, shuts down</title>
 		<link>https://techcrunch.com/2025/04/16/smashing-the-reading-curation-app-by-goodreads-founder-shuts-down/</link>
 		
@@ -342,43 +378,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2994928</guid>
 
 					<description><![CDATA[Aura, a digital photo frames company founded by early Twitter employees, is introducing its latest model, Aspen, which adds new technology to the device and its accompanying mobile app. In addition to hosting your digital photos in its 12-inch HD display, the device now also allows you to add captions to your photos when they [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Bluesky feed builder Graze raises $1M, rolls out ads</title>
-		<link>https://techcrunch.com/2025/04/16/bluesky-feed-builder-graze-raises-1m-rolls-out-ads/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Wed, 16 Apr 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[Social]]></category>
-		<category><![CDATA[advertising]]></category>
-		<category><![CDATA[Bluesky]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2994791</guid>
-
-					<description><![CDATA[Graze, a startup that lets people build and monetize custom feeds for Bluesky&#8217;s social network, has attracted new capital. Pre-seed investors, led by Betaworks and Salesforce Ventures, have invested $1 million in the company&#8217;s small team, which is working to give users control over their algorithms and social media experiences. Graze&#8217;s software, available via the [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple races to surpass rivals in quest to eliminate carbon pollution</title>
-		<link>https://techcrunch.com/2025/04/16/apple-races-to-surpass-rivals-in-quest-to-eliminate-carbon-pollution/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Wed, 16 Apr 2025 15:59:10 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Gadgets]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[carbon emissions]]></category>
-		<category><![CDATA[carbon footprint]]></category>
-		<category><![CDATA[sustainability]]></category>
-		<category><![CDATA[sustainability reporting]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2994931</guid>
-
-					<description><![CDATA[Apple reported on Wednesday that is more than halfway to its 2030 goal.]]></description>
 		
 		
 		
