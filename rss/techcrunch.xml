@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 18 Apr 2025 14:27:44 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 20 Apr 2025 23:41:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,357 +28,349 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>The Nintendo Switch 2 will still cost $450 in the US, despite tariffs</title>
-		<link>https://techcrunch.com/2025/04/18/the-nintendo-switch-2-will-still-cost-450-in-the-us-despite-tariffs/</link>
+		<title>Palantir exec defends company’s immigration surveillance work</title>
+		<link>https://techcrunch.com/2025/04/20/palantir-exec-defends-companys-immigration-surveillance-work/</link>
 		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Fri, 18 Apr 2025 14:19:45 +0000</pubDate>
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sun, 20 Apr 2025 21:48:25 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[Palantir]]></category>
+		<category><![CDATA[Paul Graham]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2996379</guid>
+
+					<description><![CDATA[One of the founders of startup accelerator Y Combinator offered unsparing criticism this weekend of the controversial data analytics company Palantir, leading a company executive to offer an extensive defense of Palantir’s work. The back-and-forth came after federal filings showed that U.S. Immigration and Customs Enforcement (ICE) — tasked with carrying out the Trump administration&#8217;s [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI&#8217;s o3 AI model scores lower on a benchmark than the company initially implied</title>
+		<link>https://techcrunch.com/2025/04/20/openais-o3-ai-model-scores-lower-on-a-benchmark-than-the-company-initially-implied/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Sun, 20 Apr 2025 21:19:26 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[o3]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2996286</guid>
+
+					<description><![CDATA[A discrepancy between first- and third-party benchmark results for OpenAI&#8217;s o3 AI model is raising questions about the company&#8217;s transparency and model testing practices. When OpenAI unveiled o3 in December, the company claimed the model could answer just over a fourth of questions on FrontierMath, a challenging set of math problems. That score blew the [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Kids sure love video game movies</title>
+		<link>https://techcrunch.com/2025/04/20/kids-sure-love-video-game-movies/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sun, 20 Apr 2025 20:32:35 +0000</pubDate>
 				<category><![CDATA[Gaming]]></category>
-		<category><![CDATA[Nintendo]]></category>
-		<category><![CDATA[nintendo switch 2]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2995862</guid>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[a minecraft movie]]></category>
+		<category><![CDATA[Minecraft]]></category>
+		<category><![CDATA[Warner Bros]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2996333</guid>
 
-					<description><![CDATA[Nintendo announced on Friday that it will open Switch 2 pre-orders in the U.S. on April 24, following a delay due to the Trump administration&#8217;s hefty tariffs. Fans feared the long-awaited console would spike in price due to Trump&#8217;s export rules on international goods, but Nintendo confirmed the Switch 2 will still cost $449.99 and [&#8230;]]]></description>
+					<description><![CDATA[“A Minecraft Movie” isn’t just a hit — after three weekends in theaters, the film is estimated to have grossed $344 million domestically and $720 million worldwide. That makes it the biggest movie of an admittedly underwhelming year at the box office (so far), and the second biggest video game movie of all time. Coming [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Final day to submit your speaker application and shape the next wave of startups at TechCrunch All Stage</title>
-		<link>https://techcrunch.com/2025/04/18/final-day-to-submit-your-speaker-application-and-shape-the-next-wave-of-startups-at-techcrunch-all-stage/</link>
+		<title>Your politeness could be costly for OpenAI</title>
+		<link>https://techcrunch.com/2025/04/20/your-politeness-could-be-costly-for-openai/</link>
 		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Fri, 18 Apr 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[TechCrunch All Stage]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2995827</guid>
-
-					<description><![CDATA[Today’s the day! The application to speak at TechCrunch All Stage closes tonight at 11:59 p.m. PT — this is your final chance to share real-world insights with 1,200+ startup founders and VCs attending the event. Whether you’ve built or backed startups, battled bottlenecks, or cracked the code on growth, the stage is yours. TC [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Netflix is revamping search with AI to improve discovery</title>
-		<link>https://techcrunch.com/2025/04/18/netflix-is-revamping-search-with-ai-to-improve-discovery/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Fri, 18 Apr 2025 12:27:07 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[AI search]]></category>
-		<category><![CDATA[home screen]]></category>
-		<category><![CDATA[Netflix]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2995855</guid>
-
-					<description><![CDATA[Netflix is building a new search experience aimed at improving the discovery experience, and it&#8217;s going to use AI to do it, the company&#8217;s CEO Greg Peters said during its first-quarter results conference call. Peters said Netflix is working on &#8220;interactive search that&#8217;s based on generative technologies&#8221; to help people find different titles. Answering an [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI pursued Cursor maker before entering into talks to buy Windsurf for $3B</title>
-		<link>https://techcrunch.com/2025/04/17/openai-pursued-cursor-maker-before-entering-into-talks-to-buy-windsurf-for-3b/</link>
-		
-		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Fri, 18 Apr 2025 03:01:08 +0000</pubDate>
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sun, 20 Apr 2025 17:12:35 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Anysphere]]></category>
-		<category><![CDATA[Codeium]]></category>
-		<category><![CDATA[M&A]]></category>
 		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2995836</guid>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2996297</guid>
 
-					<description><![CDATA[When news broke that OpenAI was in talks to acquire AI coding company&#160;Windsurf for $3 billion, one of the first questions on the mind of anyone following the space was likely: “Why not buy Cursor creator Anysphere instead?” After all, OpenAI Startup Fund has been an investor in Anysphere, the maker of Cursor, since the [&#8230;]]]></description>
+					<description><![CDATA[“I wonder how much money OpenAI has lost in electricity costs from people saying ‘please’ and ‘thank you’ to their models.” It was a seemingly random question posed by a user on X (formerly Twitter), but OpenAI CEO Sam Altman jumped in to reply that typing those words has added up to “tens of millions [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Defense tech Theseus landed Y Combinator, the US Special Forces, and $4.3M from a tweet</title>
-		<link>https://techcrunch.com/2025/04/17/defense-tech-theseus-landed-y-combinator-the-us-special-forces-and-4-3m-from-a-tweet/</link>
-		
-		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
-		<pubDate>Thu, 17 Apr 2025 22:36:41 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[defense tech]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[First Round Capital]]></category>
-		<category><![CDATA[Theseus]]></category>
-		<category><![CDATA[Y Combinator]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2995800</guid>
-
-					<description><![CDATA[On February 18, 2024, Ian Laffey posted on X that he and two others he&#8217;d just met built a cheap drone at a hackathon that calculated its coordinates simply by using its camera and Google Maps. He and his colleagues, Sacha Lévy and Carl Schoeller, were all engineers under the age of 25. The tech [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ramp is trying to get the US government as a customer after seeing a tweet from DOGE</title>
-		<link>https://techcrunch.com/2025/04/17/ramp-is-trying-to-get-the-us-government-as-a-customer-after-seeing-a-tweet-from-doge/</link>
-		
-		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
-		<pubDate>Thu, 17 Apr 2025 21:13:05 +0000</pubDate>
-				<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[doge]]></category>
-		<category><![CDATA[Ramp]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2995784</guid>
-
-					<description><![CDATA[Expense management startup Ramp is being considered for a charge card pilot program by the U.S. government’s General Services Administration, the company confirmed to TechCrunch on Thursday. The government’s internal expense card program, dubbed SmartPay, is a $700 billion program. It is estimated that the charge card pilot program contract for which Ramp is being [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI launches Flex processing for cheaper, slower AI tasks</title>
-		<link>https://techcrunch.com/2025/04/17/openai-launches-flex-processing-for-cheaper-slower-ai-tasks/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Thu, 17 Apr 2025 20:40:19 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2995744</guid>
-
-					<description><![CDATA[In a bid to more aggressively compete with rival AI companies like Google, OpenAI is launching Flex processing, an API option that provides lower AI model usage prices in exchange for slower response times and &#8220;occasional resource unavailability.&#8221; Flex processing, available in beta for OpenAI&#8217;s recently released o3 and o4-mini reasoning models, is aimed at [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Carbon removal startup Holocene bought by oil and gas giant Occidental</title>
-		<link>https://techcrunch.com/2025/04/17/carbon-removal-startup-holocene-bought-by-oil-and-gas-giant-occidental/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Thu, 17 Apr 2025 20:05:48 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[carbon removal]]></category>
-		<category><![CDATA[direct air capture]]></category>
-		<category><![CDATA[exit]]></category>
-		<category><![CDATA[Mergers and Acquisitions]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2995718</guid>
-
-					<description><![CDATA[The deal was executed through Oxy Low Carbon Ventures for an undisclosed amount.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>As the trade war escalates, Hence launches an AI &#8216;advisor&#8217; to help companies manage risk</title>
-		<link>https://techcrunch.com/2025/04/17/as-the-trade-war-escalates-hence-launches-an-ai-advisor-to-help-companies-manage-risk/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Thu, 17 Apr 2025 19:58:35 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[hence ai]]></category>
-		<category><![CDATA[risk management]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2995685</guid>
-
-					<description><![CDATA[President Donald Trump’s tariffs have underscored the increasing geopolitical risk that almost all businesses now face. As the situation continues to shift with Trump’s unpredictable deal-making, it’s also becoming clear how challenging it is for companies, nonprofits, consultants, and lawyers to keep up with the rapid day-to-day changes. &#8220;We are drowning in trade updates every [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chinese shopping app Taobao joins DHgate in Top 5 on US App Store</title>
-		<link>https://techcrunch.com/2025/04/17/chinese-shopping-app-taobao-joins-dhgate-in-top-5-on-us-app-store/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Thu, 17 Apr 2025 19:54:47 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[shopping]]></category>
-		<category><![CDATA[Tariffs]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2995700</guid>
-
-					<description><![CDATA[The Chinese e-commerce marketplace app DHgate, which is now the No. 2 free iPhone app in the U.S., isn&#8217;t the only one that&#8217;s oddly benefiting from President Trump&#8217;s tariffs on U.S. imports from China. Another Chinese shopping app, Taobao, has now also entered the Top 5 as of Thursday. U.S. consumers began flocking to these [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Former Y Combinator president Geoff Ralston launches new AI ‘safety’ fund</title>
-		<link>https://techcrunch.com/2025/04/17/former-y-combinator-president-geoff-ralston-launches-new-ai-safety-fund/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Thu, 17 Apr 2025 19:33:28 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Geoff Ralston]]></category>
-		<category><![CDATA[venture funds]]></category>
-		<category><![CDATA[Y Combinator]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2995703</guid>
-
-					<description><![CDATA[Geoff Ralston, known for his years at Y Combinator, has a new AI VC fund called SAIF. It is seeking AI startups focused on safety.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google&#8217;s latest AI model report lacks key safety details, experts say</title>
-		<link>https://techcrunch.com/2025/04/17/googles-latest-ai-model-report-lacks-key-safety-details-experts-say/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Thu, 17 Apr 2025 18:53:20 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[gemini]]></category>
-		<category><![CDATA[Google]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2995511</guid>
-
-					<description><![CDATA[On Thursday, weeks after launching its most powerful AI model yet, Gemini 2.5 Pro, Google published a technical report showing the results of its internal safety evaluations. However, the report is light on the details, experts say, making it difficult to determine which risks the model might pose. Technical reports provide useful — and unflattering, [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Automakers selling cars in China banned from using &#8216;autonomous driving&#8217; in ads</title>
-		<link>https://techcrunch.com/2025/04/17/automakers-selling-cars-in-china-banned-from-using-autonomous-driving-in-ads/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
-		<pubDate>Thu, 17 Apr 2025 18:49:49 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[ADAS]]></category>
-		<category><![CDATA[autonomous vehicles]]></category>
-		<category><![CDATA[China]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2995660</guid>
-
-					<description><![CDATA[China is cracking down on how automakers advertise driver-assistance features, banning terms like &#8220;autonomous driving,&#8221; &#8220;self-driving,&#8221; and &#8220;smart driving,&#8221; Reuters reported, citing a transcript of a meeting between the government and industry representatives. The updated rule will also prohibit automakers from rolling out improvements via software updates to advanced driver-assistance systems in vehicles already in [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI benchmarking platform Chatbot Arena forms a new company</title>
-		<link>https://techcrunch.com/2025/04/17/ai-benchmarking-platform-chatbot-arena-forms-a-new-company/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Thu, 17 Apr 2025 18:02:56 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[chatbot arena]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2995607</guid>
-
-					<description><![CDATA[Chatbot Arena, the crowdsourced benchmarking project major AI labs rely on to test and market their AI models, is forming a company called Arena Intelligence Inc., reports Bloomberg. In a blog post published Thursday, Chatbot Arena said that the company will &#8220;give [it] the resources to improve [its platform] significantly over what it is today.&#8221; [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Florida draft law mandating encryption backdoors for social media accounts billed &#8216;dangerous and dumb&#8217;</title>
-		<link>https://techcrunch.com/2025/04/17/florida-draft-law-mandating-encryption-backdoors-for-social-media-accounts-billed-dangerous-and-dumb/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Thu, 17 Apr 2025 17:02:02 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[end-to-end encryption]]></category>
-		<category><![CDATA[florida]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2995555</guid>
-
-					<description><![CDATA[A digital rights group blasted the Florida bill, but lawmakers voted to advanced the draft law.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Instagram&#8217;s new Blend feature creates a custom reels feed for you and your friends</title>
-		<link>https://techcrunch.com/2025/04/17/instagrams-new-blend-feature-creates-a-custom-reels-feed-for-you-and-your-friends/</link>
+		<title>Uncovered emails showed how Meta struggled to keep Facebook culturally relevant</title>
+		<link>https://techcrunch.com/2025/04/20/uncovered-emails-showed-how-meta-struggled-to-keep-facebook-culturally-relevant/</link>
 		
 		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Thu, 17 Apr 2025 16:00:00 +0000</pubDate>
+		<pubDate>Sun, 20 Apr 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Mark Zuckerberg]]></category>
+		<category><![CDATA[Meta]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2995733</guid>
+
+					<description><![CDATA[With the first week of Meta’s antitrust trial behind us, documents shared by the U.S Federal Trade Commission (FTC) offered more insight into Meta’s internal struggles to keep Facebook relevant. In emails from 2022, Meta executives mulled different visions for Facebook’s future to boost its success, acknowledging that its cultural relevance was decreasing.&#160; Fast-forward to [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Congress has questions about 23andMe bankruptcy</title>
+		<link>https://techcrunch.com/2025/04/19/congress-has-questions-about-23andme-bankruptcy/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sat, 19 Apr 2025 20:56:54 +0000</pubDate>
+				<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[23andMe]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2996281</guid>
+
+					<description><![CDATA[Leaders of the House Committee on Energy and Commerce said they are investigating how 23andMe’s bankruptcy might affect customers’ data. Representatives Brett Guthrie, Gus Bilirakis, and Gary Palmer (all Republicans) sent a letter Thursday to the genetic testing company’s interim CEO Joe Selsavage asking a number of questions about how 23andMe will handle customer data [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Robots run a half marathon, slowly</title>
+		<link>https://techcrunch.com/2025/04/19/robots-run-a-half-marathon-slowly/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sat, 19 Apr 2025 18:32:48 +0000</pubDate>
+				<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[humanoid robots]]></category>
+		<category><![CDATA[Tiangong Ultra]]></category>
+		<category><![CDATA[X-Humanoid]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2996274</guid>
+
+					<description><![CDATA[It looks like humanoid robots have a long way to go before catching up with human runners. Beijing’s E-Town tech hub hosted what it described as the world’s first humanoid half-marathon on Saturday, with 21 humanoid robots competing alongside thousands of humans. Bloomberg reports that the winning robot, Tiangong Ultra, was built by the government-backed [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Week in Review: Google loses a major antitrust case</title>
+		<link>https://techcrunch.com/2025/04/19/week-in-review-google-loses-a-major-antitrust-case/</link>
+		
+		<dc:creator><![CDATA[Karyne Levy]]></dc:creator>
+		<pubDate>Sat, 19 Apr 2025 17:05:00 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Week in Review]]></category>
+		<category><![CDATA[Meta]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2995981</guid>
+
+					<description><![CDATA[Welcome back to Week in Review! We&#8217;ve got tons of stuff for you this week: antitrust lawsuits against Google and Meta; Grok can now remember; Bolt CEO Ryan Breslow wants to make his mark; and much, much more. Have a great weekend! It&#8217;s over: Google violated antitrust laws in the ad tech market, a judge [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Famed AI researcher launches controversial startup to replace all human workers everywhere</title>
+		<link>https://techcrunch.com/2025/04/19/famed-ai-researcher-launches-controversial-startup-to-replace-all-human-workers-everywhere/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Sat, 19 Apr 2025 16:09:45 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[AI agents]]></category>
+		<category><![CDATA[epoch ai]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2996211</guid>
+
+					<description><![CDATA[Every now and then, a Silicon Valley startup launches with such an “absurdly” described mission that it’s difficult to discern if the startup is for real or just satire. Such is the case with Mechanize, a startup whose founder – and the non-profit AI research organization he founded called Epoch – is being skewered on [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Read what Mark Zuckerberg and Facebook execs said about Instagram before buying it</title>
+		<link>https://techcrunch.com/2025/04/19/read-what-mark-zuckerberg-and-facebook-execs-said-about-instagram-before-buying-it/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez, Aisha Malik, Lauren Forristal]]></dc:creator>
+		<pubDate>Sat, 19 Apr 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Instagram]]></category>
+		<category><![CDATA[Mark Zuckerberg]]></category>
+		<category><![CDATA[Meta]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2995543</guid>
+
+					<description><![CDATA[The first week of the Meta antitrust trial brought new revelations about how the company formerly known as Facebook approached the competitive threat posed by Instagram in the early 2010s. The U.S. government is accusing Meta of violating competition laws by acquiring companies like Instagram and WhatsApp that threatened the Facebook monopoly. If lawyers for [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>A comprehensive list of 2025 tech layoffs</title>
+		<link>https://techcrunch.com/2025/04/18/tech-layoffs-2025-list/</link>
+		
+		<dc:creator><![CDATA[Cody Corrall, Alyssa Stringer, Kate Park]]></dc:creator>
+		<pubDate>Fri, 18 Apr 2025 23:19:13 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<category><![CDATA[Layoffs]]></category>
+		<category><![CDATA[tech layoffs]]></category>
+		<category><![CDATA[TechCrunch 2023 Recap]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2607662</guid>
+
+					<description><![CDATA[A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>A new kids&#8217; show will come with a crypto wallet when it debuts this fall</title>
+		<link>https://techcrunch.com/2025/04/18/a-new-kids-show-will-come-with-a-crypto-wallet-when-it-debuts-this-fall/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Fri, 18 Apr 2025 21:43:13 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[blockchain]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[lamina1]]></category>
+		<category><![CDATA[we ghosted media]]></category>
+		<category><![CDATA[web3]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2996033</guid>
+
+					<description><![CDATA[A new animated kids’ series expected to premiere this year won’t be headed for a TV network. Or a streaming service.&#160;Instead, the founders of production studio We Ghosted Media plan to launch on a decentralized web platform that uses blockchain technology. And yes, a crypto wallet will be involved.&#160; We Ghosted Media — founded by [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Techstars increases startup funding to $220,000, mirroring YC structure</title>
+		<link>https://techcrunch.com/2025/04/18/techstars-increases-startup-funding-to-220000-mirroring-yc-structure/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Fri, 18 Apr 2025 21:15:17 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[accelerators]]></category>
+		<category><![CDATA[TechStars]]></category>
+		<category><![CDATA[terms]]></category>
+		<category><![CDATA[Y Combinator]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2996173</guid>
+
+					<description><![CDATA[Techstars, a nearly 20-year-old startup accelerator, announced new terms for startups that enter its three-month program. The organization will now invest $220,000, which is $100,000 more than it offered previously, in companies starting with its fall 2025 batch. The capital will be divided into two components. The group is offering companies $20,000 in exchange for [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI&#8217;s new reasoning AI models hallucinate more</title>
+		<link>https://techcrunch.com/2025/04/18/openais-new-reasoning-ai-models-hallucinate-more/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Fri, 18 Apr 2025 21:09:44 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[hallucinations]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2995658</guid>
+
+					<description><![CDATA[OpenAI&#8217;s recently launched o3 and o4-mini AI models are state-of-the-art in many respects. However, the new models still hallucinate, or make things up — in fact, they hallucinate more than several of OpenAI&#8217;s older models. Hallucinations have proven to be one of the biggest and most difficult problems to solve in AI, impacting even today&#8217;s [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ChatGPT: Everything you need to know about the AI-powered chatbot</title>
+		<link>https://techcrunch.com/2025/04/18/chatgpt-everything-to-know-about-the-ai-chatbot/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers, Cody Corrall, Alyssa Stringer, Kate Park]]></dc:creator>
+		<pubDate>Fri, 18 Apr 2025 20:29:21 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2607630</guid>
+
+					<description><![CDATA[ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to supercharge productivity through writing essays and code with short text prompts has evolved into a behemoth with 300 million weekly active users. 2024 was a big year for OpenAI, from its partnership [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Bluesky may soon add blue check verification</title>
+		<link>https://techcrunch.com/2025/04/18/bluesky-may-soon-add-blue-check-verification/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Fri, 18 Apr 2025 20:15:59 +0000</pubDate>
 				<category><![CDATA[Apps]]></category>
 		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Instagram]]></category>
-		<category><![CDATA[Instagram Reels]]></category>
-		<category><![CDATA[TikTok]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2995141</guid>
+		<category><![CDATA[Bluesky]]></category>
+		<category><![CDATA[verification]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2996032</guid>
 
-					<description><![CDATA[Instagram on Thursday announced that it&#8217;s rolling out Blend, a new feature that lets you create a custom, personalized reels feed for you and your friends. Blends are invite-only and can be created with a singular friend or with a group chat. The custom feeds are refreshed with new content each day. The launch doesn&#8217;t [&#8230;]]]></description>
+					<description><![CDATA[Bluesky may soon get a new blue checkmark verification system, according to changes to the app’s public GitHub repository spotted Friday by reverse engineer alice.mosphere.at. The blue checks may have a similar look to the system pioneered by Twitter, now X, but Bluesky&#8217;s version seems like it will work quite differently. Bluesky&#8217;s blue check system [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Here are all the tech companies rolling back DEI or still committed to it — so far</title>
-		<link>https://techcrunch.com/2025/04/17/here-are-all-the-tech-companies-rolling-back-dei-or-still-committed-to-it-so-far/</link>
+		<title>TechCrunch Mobility: Lyft buys its way into Europe, Kodiak SPACs, and how China’s new ADAS rules might affect Tesla</title>
+		<link>https://techcrunch.com/2025/04/18/techcrunch-mobility-lyft-buys-its-way-into-europe-kodiak-spacs-and-how-chinas-new-adas-rules-might-affect-tesla/</link>
 		
-		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
-		<pubDate>Thu, 17 Apr 2025 15:31:49 +0000</pubDate>
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Fri, 18 Apr 2025 20:05:00 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Lyft]]></category>
+		<category><![CDATA[techcrunch mobility]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2996038</guid>
+
+					<description><![CDATA[Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation. Sign up here for free — just click TechCrunch Mobility! Enough with my typical small talk. Let’s jump into the news right away this week. And there’s plenty of it, including Lyft’s entry into Europe, AV startup [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>White House replaces covid.gov website with &#8216;lab leak&#8217; theory</title>
+		<link>https://techcrunch.com/2025/04/18/white-house-replaces-covid-gov-website-with-lab-leak-theory/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Fri, 18 Apr 2025 19:59:33 +0000</pubDate>
 				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[big tech]]></category>
-		<category><![CDATA[DEI]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2971646</guid>
-
-					<description><![CDATA[Companies around America have started cutting DEI programs and eliminating DEI commitments from public documents in response to legal and political threats from the Trump administration. Just a few weeks ago, Attorney General Pam Bondi instructed the Department of Justice to “investigate, eliminate, and penalize,” DEI programs deemed illegal in private sector companies that receive [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI&#8217;s Stargate project sets its sights on international expansion</title>
-		<link>https://techcrunch.com/2025/04/17/openais-stargate-project-sets-its-sights-on-international-expansion/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Thu, 17 Apr 2025 15:10:48 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[Covid]]></category>
+		<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[doge]]></category>
 		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[oracle]]></category>
-		<category><![CDATA[Softbank]]></category>
-		<category><![CDATA[stargate]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2995474</guid>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2996037</guid>
 
-					<description><![CDATA[Stargate, a $500 billion project headed up by OpenAI, Oracle, and SoftBank to build AI data centers and other AI infrastructure in the U.S., is considering investments in the U.K. and elsewhere overseas, according to a Financial Times report.  While Stargate was initially launched as a way to boost U.S. AI infrastructure, the project is [&#8230;]]]></description>
+					<description><![CDATA[The government-run website covid.gov used to host information about COVID-19 vaccines, testing, and treatment. Now, under President Trump&#8217;s purview, the page redirects to a White House website espousing the unproven theory that COVID-19 originated in a Chinese laboratory. The theory, which has been opposed by many virologists, was espoused in a report by House Republicans [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>The latest viral ChatGPT trend is doing &#8216;reverse location search&#8217; from photos</title>
-		<link>https://techcrunch.com/2025/04/17/the-latest-viral-chatgpt-trend-is-doing-reverse-location-search-from-photos/</link>
+		<title>ChatGPT is referring to users by their names unprompted, and some find it &#8216;creepy&#8217;</title>
+		<link>https://techcrunch.com/2025/04/18/chatgpt-is-referring-to-users-by-their-names-unprompted-and-some-find-it-creepy/</link>
 		
 		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Thu, 17 Apr 2025 15:06:27 +0000</pubDate>
+		<pubDate>Fri, 18 Apr 2025 19:31:25 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Social]]></category>
 		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[privacy]]></category>
-		<category><![CDATA[reverse location search]]></category>
-		<category><![CDATA[social media]]></category>
-		<category><![CDATA[viral]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2995399</guid>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2995785</guid>
 
-					<description><![CDATA[There&#8217;s a somewhat concerning new trend going viral: People are using ChatGPT to figure out the location shown in pictures. This week, OpenAI released its newest AI models, o3 and o4-mini, both of which can uniquely &#8220;reason&#8221; through uploaded images. In practice, the models can crop, rotate, and zoom in on photos — even blurry [&#8230;]]]></description>
+					<description><![CDATA[Some ChatGPT users have noticed a strange phenomenon recently: Occasionally, the chatbot refers to them by name as it reasons through problems. That wasn&#8217;t the default behavior previously, and several users claim ChatGPT is mentioning their names despite never having been told what to call them. Reviews are mixed. One user, software developer and AI [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Judge rules Google illegally monopolized adtech, opening door to potential breakup </title>
-		<link>https://techcrunch.com/2025/04/17/judge-rules-google-illegally-monopolized-ad-tech-opening-door-to-potential-breakup/</link>
+		<title>From Bogotá to the Battlefield: LatAm startups are winning big in TechCrunch Startup Battlefield</title>
+		<link>https://techcrunch.com/2025/04/18/from-bogota-to-the-battlefield-latam-startups-are-winning-big/</link>
 		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Thu, 17 Apr 2025 15:03:11 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[antitrust]]></category>
-		<category><![CDATA[lawsuit]]></category>
-		<category><![CDATA[ad tech]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2995487</guid>
+		<dc:creator><![CDATA[Isabelle Johannessen]]></dc:creator>
+		<pubDate>Fri, 18 Apr 2025 18:26:45 +0000</pubDate>
+				<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Startup Battlefield]]></category>
+		<category><![CDATA[Startup Battlefield 200]]></category>
+		<category><![CDATA[TechCrunch Startup Battlefield 200]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2995342</guid>
 
-					<description><![CDATA[A federal judge has found that Google violated antitrust laws by “willfully acquiring and maintaining monopoly power” in the advertising technology market, rounding out a two-year saga after the U.S. and eight states filed its initial complaints against the Alphabet-owned company. The court will set a briefing schedule and hearing date to determine appropriate remedies [&#8230;]]]></description>
+					<description><![CDATA[For startups around the world, the TechCrunch Startup Battlefield program offers unmatched exposure, credibility, and connections to scale their businesses. TechCrunch has long been committed to spotlighting companies solving real-world problems in scalable and sustainable ways — making it a powerful launchpad for startups both in and outside the U.S. Several Latin American startups have [&#8230;]]]></description>
 		
 		
 		
