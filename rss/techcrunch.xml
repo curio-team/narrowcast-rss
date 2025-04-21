@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 21 Apr 2025 12:06:06 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 21 Apr 2025 13:25:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,59 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ChatGPT: Everything you need to know about the AI-powered chatbot</title>
+		<link>https://techcrunch.com/2025/04/21/chatgpt-everything-to-know-about-the-ai-chatbot/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers, Cody Corrall, Alyssa Stringer, Kate Park]]></dc:creator>
+		<pubDate>Mon, 21 Apr 2025 13:25:27 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2607630</guid>
+
+					<description><![CDATA[ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to supercharge productivity through writing essays and code with short text prompts has evolved into a behemoth with 300 million weekly active users. 2024 was a big year for OpenAI, from its partnership [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tesla reportedly delays launch of new low-cost model by months</title>
+		<link>https://techcrunch.com/2025/04/21/tesla-reportedly-delays-launch-of-new-low-cost-model-by-months/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Mon, 21 Apr 2025 13:14:27 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2996424</guid>
+
+					<description><![CDATA[Tesla is pushing back the promised launch of a more affordable EV by months, according to a report from Reuters. The new model, which is supposedly a very stripped-down Model Y, was supposed to debut in the first half of this year but now might not come until late 2025 or early 2026, states the [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Airbnb will now show users the total cost of their stay right away</title>
+		<link>https://techcrunch.com/2025/04/21/airbnb-will-automatically-display-total-price-to-all-users/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Mon, 21 Apr 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Airbnb]]></category>
+		<category><![CDATA[travel]]></category>
+		<category><![CDATA[travel tech]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2996260</guid>
+
+					<description><![CDATA[One of the chief complaints of Airbnb users over the years has been not being able to tell right away how much they would pay for their stay, including charges such as cleaning fees. Airbnb is now fixing that by showing the total cost for a given property, including all charges, automatically. Users across the [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Palantir exec defends company’s immigration surveillance work</title>
 		<link>https://techcrunch.com/2025/04/20/palantir-exec-defends-companys-immigration-surveillance-work/</link>
 		
@@ -272,24 +325,6 @@
 		
 			</item>
 		<item>
-		<title>ChatGPT: Everything you need to know about the AI-powered chatbot</title>
-		<link>https://techcrunch.com/2025/04/18/chatgpt-everything-to-know-about-the-ai-chatbot/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers, Cody Corrall, Alyssa Stringer, Kate Park]]></dc:creator>
-		<pubDate>Fri, 18 Apr 2025 20:29:21 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2607630</guid>
-
-					<description><![CDATA[ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to supercharge productivity through writing essays and code with short text prompts has evolved into a behemoth with 300 million weekly active users. 2024 was a big year for OpenAI, from its partnership [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
 		<title>Bluesky may soon add blue check verification</title>
 		<link>https://techcrunch.com/2025/04/18/bluesky-may-soon-add-blue-check-verification/</link>
 		
@@ -336,41 +371,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2996037</guid>
 
 					<description><![CDATA[The government-run website covid.gov used to host information about COVID-19 vaccines, testing, and treatment. Now, under President Trump&#8217;s purview, the page redirects to a White House website espousing the unproven theory that COVID-19 originated in a Chinese laboratory. The theory, which has been opposed by many virologists, was espoused in a report by House Republicans [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ChatGPT is referring to users by their names unprompted, and some find it &#8216;creepy&#8217;</title>
-		<link>https://techcrunch.com/2025/04/18/chatgpt-is-referring-to-users-by-their-names-unprompted-and-some-find-it-creepy/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Fri, 18 Apr 2025 19:31:25 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2995785</guid>
-
-					<description><![CDATA[Some ChatGPT users have noticed a strange phenomenon recently: Occasionally, the chatbot refers to them by name as it reasons through problems. That wasn&#8217;t the default behavior previously, and several users claim ChatGPT is mentioning their names despite never having been told what to call them. Reviews are mixed. One user, software developer and AI [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>From Bogotá to the Battlefield: LatAm startups are winning big in TechCrunch Startup Battlefield</title>
-		<link>https://techcrunch.com/2025/04/18/from-bogota-to-the-battlefield-latam-startups-are-winning-big/</link>
-		
-		<dc:creator><![CDATA[Isabelle Johannessen]]></dc:creator>
-		<pubDate>Fri, 18 Apr 2025 18:26:45 +0000</pubDate>
-				<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startup Battlefield]]></category>
-		<category><![CDATA[Startup Battlefield 200]]></category>
-		<category><![CDATA[TechCrunch Startup Battlefield 200]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2995342</guid>
-
-					<description><![CDATA[For startups around the world, the TechCrunch Startup Battlefield program offers unmatched exposure, credibility, and connections to scale their businesses. TechCrunch has long been committed to spotlighting companies solving real-world problems in scalable and sustainable ways — making it a powerful launchpad for startups both in and outside the U.S. Several Latin American startups have [&#8230;]]]></description>
 		
 		
 		
