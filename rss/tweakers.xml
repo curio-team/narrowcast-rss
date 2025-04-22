@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 22 Apr 25 12:31:01 +0200</pubDate>
-        <lastBuildDate>Tue, 22 Apr 25 12:31:01 +0200</lastBuildDate>
+        <pubDate>Tue, 22 Apr 25 13:31:01 +0200</pubDate>
+        <lastBuildDate>Tue, 22 Apr 25 13:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Instagram begint met AI om tieners op te sporen die liegen over leeftijd</title>
+            <link>https://tweakers.net/nieuws/234196/instagram-begint-met-ai-om-tieners-op-te-sporen-die-liegen-over-leeftijd.html</link>
+            <description>Instagram is in de Verenigde Staten begonnen met het gebruik van kunstmatige intelligentie om minderjarigen op te sporen die liegen over hun leeftijd. Dat gebeurt onder meer aan de hand van hun gebruik en berichten die ze krijgen.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/234196/instagram-begint-met-ai-om-tieners-op-te-sporen-die-liegen-over-leeftijd.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234196</guid>
+            <pubDate>Tue, 22 Apr 25 13:28:33 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google betaalt Samsung voor voorgeïnstalleerde Gemini op Galaxy-telefoons</title>
+            <link>https://tweakers.net/nieuws/234200/google-betaalt-samsung-voor-voorgeinstalleerde-gemini-op-galaxy-telefoons.html</link>
+            <description>Google betaalt Samsung maandelijks een groot geldbedrag om Gemini op alle Galaxy-telefoons te zetten. Dat blijkt uit getuigenverklaringen tijdens een Amerikaanse rechtszaak. De betalingen begonnen een paar maanden geleden.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/234200/google-betaalt-samsung-voor-voorgeinstalleerde-gemini-op-galaxy-telefoons.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234200</guid>
+            <pubDate>Tue, 22 Apr 25 13:00:16 +0200</pubDate>
+        </item>
+        <item>
+            <title>EU eist vanaf 20 juni energie- en duurzaamheidslabel voor smartphones en tablets</title>
+            <link>https://tweakers.net/nieuws/234198/eu-eist-vanaf-20-juni-energie-en-duurzaamheidslabel-voor-smartphones-en-tablets.html</link>
+            <description>De Europese Unie verplicht dat smartphone- en tabletfabrikanten vanaf 20 juni 2025 een nieuw label toepassen. Gebruikers kunnen zich hierdoor informeren over de efficiëntie en duurzaamheid van het toestel. De EU gaat ook verschillende duurzaamheidsregels invoeren voor deze apparaten.</description>
+            <author>Idriz Velghe</author>
+            <category>Nieuws / Tablets en telefoons / Telefoons</category>
+            <comments>https://tweakers.net/nieuws/234198/eu-eist-vanaf-20-juni-energie-en-duurzaamheidslabel-voor-smartphones-en-tablets.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234198</guid>
+            <pubDate>Tue, 22 Apr 25 13:00:04 +0200</pubDate>
+        </item>
         <item>
             <title>Microsoft Recall-functie is makkelijk te kraken en slaat creditcardgegevens op</title>
             <link>https://tweakers.net/nieuws/234192/microsoft-recall-functie-is-makkelijk-te-kraken-en-slaat-creditcardgegevens-op.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/downloads/72394/media-player-classic-home-cinema-242.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72394</guid>
             <pubDate>Sat, 19 Apr 25 20:11:21 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Media Player Classic - Black Edition 1.8.4</title>
-            <link>https://tweakers.net/downloads/72392/media-player-classic-black-edition-184.html</link>
-            <description>Media Player Classic is een kleine no-nonsensemediaspeler met het uiterlijk van Windows Media Player 6.4. Nadat Gabest, de originele maker van MPC, de ontwikkeling staakte, zijn verschillende projecten ontstaan op basis van de opensourcecode. Home Cinema en Black Edition zijn daarvan de bekendste. MPC - BE kan overweg met de meestgebruikte mediaformaten, heeft ondersteuning voor hardwareacceleratie en is in meer dan 25 talen te gebruiken. Versie 1.8.4 is uitgekomen en hierin zijn de volgende veranderingen en verbeteringen aangebracht: Standalone filters</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72392/media-player-classic-black-edition-184.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72392</guid>
-            <pubDate>Sat, 19 Apr 25 19:58:55 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nederlands kabinet overweegt inzet AI om externe inhuur ict&#039;ers terug te dringen</title>
-            <link>https://tweakers.net/nieuws/234150/nederlands-kabinet-overweegt-inzet-ai-om-externe-inhuur-icters-terug-te-dringen.html</link>
-            <description>Het Nederlands kabinet kan besparen op de inhuur van extern ict-personeel door een deel van de werkzaamheden te vervangen door technologieën als AI. Dat adviseren onderzoekers in een rapport in opdracht van de overheid.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Economie en maatschappij</category>
-            <comments>https://tweakers.net/nieuws/234150/nederlands-kabinet-overweegt-inzet-ai-om-externe-inhuur-icters-terug-te-dringen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234150</guid>
-            <pubDate>Sat, 19 Apr 25 13:21:06 +0200</pubDate>
-        </item>
-        <item>
-            <title>YouTube Music krijgt functie die volume van nummers consistenter moet maken</title>
-            <link>https://tweakers.net/nieuws/234148/youtube-music-krijgt-functie-die-volume-van-nummers-consistenter-moet-maken.html</link>
-            <description>YouTube Music krijgt een functie waarmee het geluidsvolume gedurende meerdere nummers consistent blijft. Eerder bracht YouTube een soortgelijke functie uit voor reguliere video&#039;s, maar voor muziek was dit nog niet mogelijk.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/234148/youtube-music-krijgt-functie-die-volume-van-nummers-consistenter-moet-maken.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234148</guid>
-            <pubDate>Sat, 19 Apr 25 12:36:42 +0200</pubDate>
         </item>
     </channel>
 </rss>
