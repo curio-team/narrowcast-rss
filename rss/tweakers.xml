@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 22 Apr 25 15:36:01 +0200</pubDate>
-        <lastBuildDate>Tue, 22 Apr 25 15:36:01 +0200</lastBuildDate>
+        <pubDate>Tue, 22 Apr 25 16:31:01 +0200</pubDate>
+        <lastBuildDate>Tue, 22 Apr 25 16:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - AdGuard Home 0.107.61</title>
+            <link>https://tweakers.net/downloads/72424/adguard-home-010761.html</link>
+            <description>AdGuard Home versie 0.107.61 is uitgekomen. Met deze software kan er thuis een DNS-server worden opgezet om zo onder meer advertenties en malware te blokkeren op het hele netwerk, waardoor dat niet langer op elk individueel apparaat nodig is. Het is daarmee dus vergelijkbaar met Pi-hole. AdGuard Home werkt op een machine met Windows, macOS, Linux of FreeBSD, is ook in staat om tegen phishing te beschermen en heeft parental control. Op ons eigen forum kan over het programma worden gediscussieerd. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: AdGuard Home v0.107.61</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72424/adguard-home-010761.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72424</guid>
+            <pubDate>Tue, 22 Apr 25 16:15:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Stoppen OpenDNS-dienst in België tijdelijke reactie op bevel blokkeren sites</title>
+            <link>https://tweakers.net/nieuws/234212/stoppen-opendns-dienst-in-belgie-tijdelijke-reactie-op-bevel-blokkeren-sites.html</link>
+            <description>OpenDNS stopt tijdelijk met het leveren van zijn gratis DNS-resolverdienst in België vanwege een rechtelijk bevel. Het moederbedrijf Cisco moet Belgische internetgebruikers namelijk de toegang tot bepaalde websites ontzeggen. Het stoppen van de dienst is een tijdelijk oplossing.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/234212/stoppen-opendns-dienst-in-belgie-tijdelijke-reactie-op-bevel-blokkeren-sites.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234212</guid>
+            <pubDate>Tue, 22 Apr 25 15:58:35 +0200</pubDate>
+        </item>
         <item>
             <title>Europese tak processorkoelerfabrikant Scythe dreigt failliet te gaan</title>
             <link>https://tweakers.net/nieuws/234210/europese-tak-processorkoelerfabrikant-scythe-dreigt-failliet-te-gaan.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/234158/voorraad-nvidia-geforce-rtx-5090d-voor-china-tijdelijk-opgeschort.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234158</guid>
             <pubDate>Sun, 20 Apr 25 12:57:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Google wil geplande taken aan Gemini toevoegen&#039;</title>
-            <link>https://tweakers.net/nieuws/234160/google-wil-geplande-taken-aan-gemini-toevoegen.html</link>
-            <description>Het lijkt erop dat Google een nieuwe functie aan Gemini wil toevoegen: Scheduled actions. Dat blijkt uit screenshots die zijn opgedoken. Dankzij de nieuwe functie kunnen gebruikers de AI-chatbot op een later moment acties laten uitvoeren.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/234160/google-wil-geplande-taken-aan-gemini-toevoegen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234160</guid>
-            <pubDate>Sun, 20 Apr 25 12:03:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Tweede Star Wars Outlaws-dlc vanaf 15 mei beschikbaar, game komt naar Switch 2</title>
-            <link>https://tweakers.net/nieuws/234154/tweede-star-wars-outlaws-dlc-vanaf-15-mei-beschikbaar-game-komt-naar-switch-2.html</link>
-            <description>De tweede uitbreiding voor Star Wars Outlaws is vanaf 15 mei beschikbaar. De dlc heet A Pirate’s Fortune, bevat een nieuwe verhaallijn, een nieuwe factie en cosmetische items. Star Wars Outlaws is vanaf 4 september tevens beschikbaar voor Switch 2.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/234154/tweede-star-wars-outlaws-dlc-vanaf-15-mei-beschikbaar-game-komt-naar-switch-2.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234154</guid>
-            <pubDate>Sun, 20 Apr 25 11:10:33 +0200</pubDate>
         </item>
     </channel>
 </rss>
