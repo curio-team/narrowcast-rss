@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 22 Apr 25 14:41:02 +0200</pubDate>
-        <lastBuildDate>Tue, 22 Apr 25 14:41:02 +0200</lastBuildDate>
+        <pubDate>Tue, 22 Apr 25 15:36:01 +0200</pubDate>
+        <lastBuildDate>Tue, 22 Apr 25 15:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,46 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Europese tak processorkoelerfabrikant Scythe dreigt failliet te gaan</title>
+            <link>https://tweakers.net/nieuws/234210/europese-tak-processorkoelerfabrikant-scythe-dreigt-failliet-te-gaan.html</link>
+            <description>Scythe EU GmbH kampt met financiële problemen. Een Duitse rechtbank zou de Europese tak van de processorkoelerfabrikant onder voorlopig insolventiebeheer hebben gesteld. Scythes koelers zijn momenteel ook hier slecht verkrijgbaar. Het hoofdkwartier van het bedrijf is gevestigd in Tokio, Japan.</description>
+            <author>Idriz Velghe</author>
+            <category>Nieuws / Computers / Processorkoeling</category>
+            <comments>https://tweakers.net/nieuws/234210/europese-tak-processorkoelerfabrikant-scythe-dreigt-failliet-te-gaan.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234210</guid>
+            <pubDate>Tue, 22 Apr 25 15:09:35 +0200</pubDate>
+        </item>
+        <item>
+            <title>Bluesky laat vertrouwde accounts andere gebruikers blauwe vinkjes geven</title>
+            <link>https://tweakers.net/nieuws/234188/bluesky-laat-vertrouwde-accounts-andere-gebruikers-blauwe-vinkjes-geven.html</link>
+            <description>Bluesky gaat vertrouwde accounthouders gebruikers laten verifiëren. Zo kan bijvoorbeeld een medium de eigen medewerkers een blauw vinkje geven in de app. Bluesky gaat vooralsnog zelf geen blauwe vinkjes uitdelen.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/234188/bluesky-laat-vertrouwde-accounts-andere-gebruikers-blauwe-vinkjes-geven.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234188</guid>
+            <pubDate>Tue, 22 Apr 25 15:00:25 +0200</pubDate>
+        </item>
+        <item>
+            <title>Sony voegde 4k-toggle toe aan Xperia 1 V en gaat hem weer weghalen</title>
+            <link>https://tweakers.net/nieuws/234202/sony-voegde-4k-toggle-toe-aan-xperia-1-v-en-gaat-hem-weer-weghalen.html</link>
+            <description>Sony heeft met de Android 15-upgrade voor zijn Xperia 1 V een toggle toegevoegd aan de instellingen om het beeldscherm te forceren op volledige resolutie, 3840x1644 pixels. Die werkt niet en het menu verdwijnt met de volgende update, zegt de fabrikant.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/234202/sony-voegde-4k-toggle-toe-aan-xperia-1-v-en-gaat-hem-weer-weghalen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234202</guid>
+            <pubDate>Tue, 22 Apr 25 14:59:43 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Foxit PDF Reader 2025.1.0</title>
+            <link>https://tweakers.net/downloads/72422/foxit-pdf-reader-202510.html</link>
+            <description>Foxit Software heeft versie 2025.1.0 van Foxit PDF Reader uitgebracht, een alternatief voor Adobe Reader. Met dit gratis programma kunnen pdf-documenten bekeken, ingevuld en ondertekend worden. Voor het bewerken van pdf-documenten heeft Foxit Software het betaalde Foxit PDF Editor (voorheen PhantomPDF) in huis, vergelijkbaar met Acrobat Pro DC. Gebruik je de interne updatefunctie, vergeet dan niet het vinkje weg te halen voor het downloaden en installeren van PDF Editor. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Enhancements to AI Assistant</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72422/foxit-pdf-reader-202510.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72422</guid>
+            <pubDate>Tue, 22 Apr 25 14:48:32 +0200</pubDate>
+        </item>
         <item>
             <title>WD en Microsoft halen zeldzame aardmetalen uit 21.000kg aan hdd&#039;s en ssd&#039;s</title>
             <link>https://tweakers.net/nieuws/234206/wd-en-microsoft-halen-zeldzame-aardmetalen-uit-21000kg-aan-hdds-en-ssds.html</link>
@@ -376,46 +416,6 @@
             <comments>https://tweakers.net/nieuws/234154/tweede-star-wars-outlaws-dlc-vanaf-15-mei-beschikbaar-game-komt-naar-switch-2.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234154</guid>
             <pubDate>Sun, 20 Apr 25 11:10:33 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nothing: Phone (3) komt in derde kwartaal van 2025 uit</title>
-            <link>https://tweakers.net/nieuws/234156/nothing-phone-3-komt-in-derde-kwartaal-van-2025-uit.html</link>
-            <description>Carl Pei, de oprichter en ceo van Nothing, heeft aangegeven dat de Nothing Phone (3) in het derde kwartaal van 2025 op de markt komt. De man heeft verder geen details over de smartphone gedeeld.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/234156/nothing-phone-3-komt-in-derde-kwartaal-van-2025-uit.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234156</guid>
-            <pubDate>Sun, 20 Apr 25 10:33:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - DeCONZ 2.29.5</title>
-            <link>https://tweakers.net/downloads/72398/deconz-2295.html</link>
-            <description>Na een reeks van bèta&#039;s is versie 2.29.5 van deCONZ is uitgekomen. DeCONZ is een Zigbee-gateway ontwikkeld door Dresden Elektronik. Met deze gateway is het mogelijk om Zigbee-apparaten van verschillende fabrikanten aan te sturen door middel van de Phoscon-webapp. De deCONZ-gateway is los te gebruiken, maar ook in combinatie met verschillende domotica-applicaties zoals Home Assistant, Domoticz en openHAB. De software kan alleen gebruikt worden in combinatie met een ConBee-USB-stick of een RaspBee Shield voor de Raspberry Pi. Meer informatie over deCONZ kan op ons forum worden gevonden. De changelog sinds versie 2.27.6 kan hieronder worden gevonden. Version 2.29.5 changes</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72398/deconz-2295.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72398</guid>
-            <pubDate>Sun, 20 Apr 25 10:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>OpenAI: o3-taalmodel hallucineert meer dan o1; o4-mini is minder nauwkeurig</title>
-            <link>https://tweakers.net/nieuws/234152/openai-o3-taalmodel-hallucineert-meer-dan-o1-o4-mini-is-minder-nauwkeurig.html</link>
-            <description>OpenAI zegt dat o3 meer hallucineert dan het o1-taalmodel. De AI-onderzoeksorganisatie zegt ook dat o4-mini minder nauwkeurig is dan o1. OpenAI schrijft dat er meer onderzoek nodig is om de oorzaken te achterhalen.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / IT Pro / Wetenschap</category>
-            <comments>https://tweakers.net/nieuws/234152/openai-o3-taalmodel-hallucineert-meer-dan-o1-o4-mini-is-minder-nauwkeurig.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234152</guid>
-            <pubDate>Sun, 20 Apr 25 09:48:36 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - IntelliJ IDEA 2025.1</title>
-            <link>https://tweakers.net/downloads/72396/intellij-idea-20251.html</link>
-            <description>JetBrains brengt verschillende ontwikkelomgevingen uit, zoals CLion gericht op C en C++, DataGrip gericht op SQL, PhpStorm gericht op PHP en IntelliJ IDEA gericht op Java. IntelliJ IDEA biedt slimme codecompletion, deep static analysis, intelligent refactorings, een debugger en een testrunner, en kan ook overweg met Kotlin, Groovy, Coffee- en ActionScript. Voor een overzicht van de mogelijkheden verwijzen we naar deze pagina. IntelliJ IDEA is beschikbaar in twee smaken: een gelicentieerde Ultimate-smaak met meer functionaliteit en een gratis opensource Community-smaak. Voor de Ultimate-smaak zal voor zakelijk en thuisgebruik betaald moeten worden, maar als de software wordt gebruikt voor onderwijs of niet-commerciële opensourceprojecten is de licentie gratis. De complete changelog voor versie 2025.1 is op deze pagina te vinden; dit zijn de belangrijkste verbeteringen: Key highlights:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72396/intellij-idea-20251.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72396</guid>
-            <pubDate>Sun, 20 Apr 25 08:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
