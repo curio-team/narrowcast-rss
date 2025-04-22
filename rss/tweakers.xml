@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 22 Apr 25 13:31:01 +0200</pubDate>
-        <lastBuildDate>Tue, 22 Apr 25 13:31:01 +0200</lastBuildDate>
+        <pubDate>Tue, 22 Apr 25 14:41:02 +0200</pubDate>
+        <lastBuildDate>Tue, 22 Apr 25 14:41:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>WD en Microsoft halen zeldzame aardmetalen uit 21.000kg aan hdd&#039;s en ssd&#039;s</title>
+            <link>https://tweakers.net/nieuws/234206/wd-en-microsoft-halen-zeldzame-aardmetalen-uit-21000kg-aan-hdds-en-ssds.html</link>
+            <description>Western Digital heeft verschillende zeldzame aardmetalen gerecupereerd uit duizenden kilo’s versleten hdd’s, ssd’s en schijfkooien. Het succesvolle pilotproject toont aan dat het mogelijk is om deze materialen op grote schaal te ‘ontginnen’ in de VS en tegelijkertijd uitstoot te verminderen.</description>
+            <author>Idriz Velghe</author>
+            <category>Nieuws / Computers / Interne harde schijven</category>
+            <comments>https://tweakers.net/nieuws/234206/wd-en-microsoft-halen-zeldzame-aardmetalen-uit-21000kg-aan-hdds-en-ssds.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234206</guid>
+            <pubDate>Tue, 22 Apr 25 14:24:10 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nederlands kabinet: overheden mogen AI gebruiken, liefst opensource en Europees</title>
+            <link>https://tweakers.net/nieuws/234208/nederlands-kabinet-overheden-mogen-ai-gebruiken-liefst-opensource-en-europees.html</link>
+            <description>Nederlandse overheden mogen generatieve kunstmatige intelligentie gebruiken en liefst zijn het daarbij Europese diensten die opensource zijn. Dat zegt het kabinet in een nieuw standpunt over het gebruik van AI.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/234208/nederlands-kabinet-overheden-mogen-ai-gebruiken-liefst-opensource-en-europees.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234208</guid>
+            <pubDate>Tue, 22 Apr 25 13:54:59 +0200</pubDate>
+        </item>
+        <item>
+            <title>KPN introduceert tv-ontvanger met ingebouwde speaker</title>
+            <link>https://tweakers.net/nieuws/234204/kpn-introduceert-tv-ontvanger-met-ingebouwde-speaker.html</link>
+            <description>KPN introduceert een tv-ontvanger met ingebouwde speaker, de TV+ Soundbox. Die heeft een geluidssysteem met &#039;Bang en Olufsen audiodesign&#039;. Daarnaast ondersteunt hij net als de reguliere tv-box 4K-beelden en Dolby Atmos.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Beeld en geluid / Overige audio</category>
+            <comments>https://tweakers.net/nieuws/234204/kpn-introduceert-tv-ontvanger-met-ingebouwde-speaker.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234204</guid>
+            <pubDate>Tue, 22 Apr 25 13:39:28 +0200</pubDate>
+        </item>
         <item>
             <title>Instagram begint met AI om tieners op te sporen die liegen over leeftijd</title>
             <link>https://tweakers.net/nieuws/234196/instagram-begint-met-ai-om-tieners-op-te-sporen-die-liegen-over-leeftijd.html</link>
@@ -298,12 +328,12 @@
             <pubDate>Mon, 21 Apr 25 06:00:00 +0200</pubDate>
         </item>
         <item>
-            <title>Achtergrond - Zo testen we monitors - Van kijkhoeken tot responstijden</title>
-            <link>https://tweakers.net/reviews/12656/zo-testen-we-monitors-van-kijkhoeken-tot-responstijden.html</link>
+            <title>Achtergrond - Wat maakt een monitor écht goed? Zo testen wij bij Tweakers</title>
+            <link>https://tweakers.net/reviews/12656/wat-maakt-een-monitor-echt-goed-zo-testen-wij-bij-tweakers.html</link>
             <description>In het Tweakers-testlab worden jaarlijks bijna honderd monitors getest volgens een vaste procedure. In dit artikel nemen we je mee langs alle metingen die we uitvoeren.</description>
             <author>Friso Weijers</author>
             <category>Achtergrond / Computers / Monitors</category>
-            <comments>https://tweakers.net/reviews/12656/8/zo-testen-we-monitors-van-kijkhoeken-tot-responstijden-formaat-resolutie-en-andere-features.html#reacties</comments>
+            <comments>https://tweakers.net/reviews/12656/8/wat-maakt-een-monitor-echt-goed-zo-testen-wij-bij-tweakers-formaat-resolutie-en-andere-features.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/12656</guid>
             <pubDate>Mon, 21 Apr 25 06:00:00 +0200</pubDate>
         </item>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/downloads/72396/intellij-idea-20251.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72396</guid>
             <pubDate>Sun, 20 Apr 25 08:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Review - Commandos Origins - Ouderwets goede spanning, maar alleen op pc</title>
-            <link>https://tweakers.net/reviews/13182/commandos-origins-ouderwets-goede-spanning-maar-alleen-op-pc.html</link>
-            <description>Commandos Origins brengt de spanning van de oude games terug, maar kampt met bugs. Op pc loopt het prima, terwijl de Xbox-versie helaas flink tegenvalt.</description>
-            <author>Jurian Ubachs</author>
-            <category>Review / Gaming / Games</category>
-            <comments>https://tweakers.net/reviews/13182/4/commandos-origins-ouderwets-goede-spanning-maar-alleen-op-pc-conclusie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13182</guid>
-            <pubDate>Sun, 20 Apr 25 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Terug in de tijd #43 - Metallica knokt met Napster en Google personaliseert ads</title>
-            <link>https://tweakers.net/geek/233916/terug-in-de-tijd-43-metallica-knokt-met-napster-en-google-personaliseert-ads.html</link>
-            <description>Op Tweakers verschijnen dagelijks tientallen nieuwsberichten, maar bij het schrijven weten we zelden hoe het afloopt met de producten, technieken en ontwikkelingen die we bespreken. In deze rubriek lezen we oude berichten terug en kijken we hoe het verderging.</description>
-            <author>Redactie Tweakers</author>
-            <category>.Geek / IT Pro / Internet</category>
-            <comments>https://tweakers.net/geek/233916/terug-in-de-tijd-43-metallica-knokt-met-napster-en-google-personaliseert-ads.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/233916</guid>
-            <pubDate>Sun, 20 Apr 25 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Media Player Classic - Home Cinema 2.4.2</title>
-            <link>https://tweakers.net/downloads/72394/media-player-classic-home-cinema-242.html</link>
-            <description>In juli 2017 is versie 1.7.13 van Media Player Classic - Home Cinema uitgekomen en gaven de ontwikkelaars aan dat zij verder geen nieuwe versies meer uit zouden brengen. De broncode is echter opensource en een ontwikkelaar die onder de naam clsid bij de website Doom9 bekendstaat en zelf lange tijd bij mpc-hc betrokken was, brengt nu af en toe nieuwe, &#039;onofficiële&#039; versies uit. Deze bevatten voornamelijk kleine verbeteringen en ook worden altijd de laatste versies van de LAV Filters en MediaInfo meegeleverd. Versie 2.4.2 is uitgekomen en hierin zijn de volgende veranderingen en verbeteringen aangebracht: Updates:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72394/media-player-classic-home-cinema-242.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72394</guid>
-            <pubDate>Sat, 19 Apr 25 20:11:21 +0200</pubDate>
         </item>
     </channel>
 </rss>

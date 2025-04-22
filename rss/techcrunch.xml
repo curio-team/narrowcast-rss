@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 22 Apr 2025 10:40:50 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 22 Apr 2025 12:23:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,21 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Crowdsourced AI benchmarks have serious flaws, some experts say</title>
+		<link>https://techcrunch.com/2025/04/22/crowdsourced-ai-benchmarks-have-serious-flaws-some-experts-say/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Tue, 22 Apr 2025 12:30:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[benchmarking]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2996493</guid>
+
+					<description><![CDATA[AI labs are increasingly relying on crowdsourced benchmarking platforms such as Chatbot Arena to probe the strengths and weaknesses of their latest models. But some experts say that there are serious problems with this approach from an ethical and academic perspective. Over the past few years, labs including OpenAI, Google, and Meta have turned to [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Social media is not wholly terrible for teen mental health, study says</title>
 		<link>https://techcrunch.com/2025/04/22/social-media-is-not-wholly-terrible-for-teen-mental-health-study-says/</link>
 		
@@ -60,7 +75,7 @@
 		<category><![CDATA[summit partners]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2996937</guid>
 
-					<description><![CDATA[Chatbots and other kinds of AI agents — and the companies that build them — may feel like a dime a dozen these days. But the truth is that, for both businesses and consumers, some may be infinitely more useful (and perhaps less dystopian) than others. Today, a startup that’s built a successful business around [&#8230;]]]></description>
+					<description><![CDATA[Chatbots and other kinds of AI agents may feel like a dime a dozen these days. But the truth is that, for both businesses and consumers, some may be infinitely more useful (and perhaps less dystopian) than others. Today, a startup that’s built a successful business around that concept is announcing a major growth round [&#8230;]]]></description>
 		
 		
 		
@@ -360,25 +375,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2995812</guid>
 
 					<description><![CDATA[The countdown is real! Exhibit tables for TechCrunch Sessions: AI are almost gone, and the May 9 deadline is closing in fast. If you’ve been meaning to showcase your AI innovation, this is your last window to make it happen. No more &#8220;maybe next year.&#8221; No more waiting for the perfect moment. This is it! [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Instagram is using AI to find teens lying about their age and restricting their accounts</title>
-		<link>https://techcrunch.com/2025/04/21/instagram-is-using-ai-to-find-teens-lying-about-their-age-and-restricting-their-accounts/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Mon, 21 Apr 2025 13:58:38 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Instagram]]></category>
-		<category><![CDATA[parents]]></category>
-		<category><![CDATA[Teens]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2996432</guid>
-
-					<description><![CDATA[Meta is using AI technology to search for kids who are lying about their age on Instagram in order to bypass safeguards, the company announced on Monday. When Meta finds an account that it suspects belongs to a teen, the platform will enroll them into a restricted Teen Account, even if the account lists an [&#8230;]]]></description>
 		
 		
 		
