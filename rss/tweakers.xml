@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 23 Apr 2025 09:31:01 +0200</pubDate>
-        <lastBuildDate>Wed, 23 Apr 2025 09:31:01 +0200</lastBuildDate>
+        <pubDate>Wed, 23 Apr 2025 10:36:01 +0200</pubDate>
+        <lastBuildDate>Wed, 23 Apr 2025 10:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Carrefour waarschuwt Mobile-klanten voor datalek met gevoelige persoonsgegevens</title>
+            <link>https://tweakers.net/nieuws/234230/carrefour-waarschuwt-mobile-klanten-voor-datalek-met-gevoelige-persoonsgegevens.html</link>
+            <description>De persoonsgegevens van Belgische Carrefour Mobile-klanten zijn betrokken bij een datalek, dat meldt de hypermarktketen per sms aan betrokkenen. Mogelijk zijn er onder meer namen, adressen, wachtwoorden, telefoonnummers en paspoortnummers gelekt.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/234230/carrefour-waarschuwt-mobile-klanten-voor-datalek-met-gevoelige-persoonsgegevens.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234230</guid>
+            <pubDate>Wed, 23 Apr 2025 10:31:41 +0200</pubDate>
+        </item>
+        <item>
+            <title>Driver-update - AMD Radeon Software Adrenalin Edition 25.4.1</title>
+            <link>https://tweakers.net/downloads/72434/amd-radeon-software-adrenalin-edition-2541.html</link>
+            <description>AMD heeft een nieuwe versie van zijn Radeon Software Adrenalin Edition-drivers uitgebracht. De drivers zijn geschikt voor de RX 5000-, RX 6000, RX 7000 en RX9000-serie. In versie 25.4.1 heeft AMD onder meer verbeteringen aangebracht voor de spellen Assassin&#039;s Creed Shadows, Kingdom Come Deliverance 2, Dynasty Warriors Origin, Civilization 7, Naraka Bladepoint en de opgepoetste versie van The Elder Scrolls IV: Oblivion. Ook zijn er weer diverse problemen verholpen. De complete changelog voor deze uitgave kan hieronder worden gevonden. New Game Support</description>
+            <author>Bart van Klaveren</author>
+            <category>Driver</category>
+            <comments>https://tweakers.net/downloads/72434/amd-radeon-software-adrenalin-edition-2541.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72434</guid>
+            <pubDate>Wed, 23 Apr 2025 10:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>NIO kondigt EV voor 29.900 euro aan met nog onbruikbare accuwisselfunctie</title>
+            <link>https://tweakers.net/nieuws/233998/nio-kondigt-ev-voor-29900-euro-aan-met-nog-onbruikbare-accuwisselfunctie.html</link>
+            <description>NIO brengt deze zomer een kleinere auto uit onder het nieuwe firefly-merk. De firefly krijgt net als andere NIO-auto&#039;s een verwisselbare accu, al heeft het bedrijf nog geen directe plannen om accuwissels mogelijk te maken. Dit hangt onder meer af van hoe goed de auto verkoopt.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Beeld en geluid / Cartech</category>
+            <comments>https://tweakers.net/nieuws/233998/nio-kondigt-ev-voor-29900-euro-aan-met-nog-onbruikbare-accuwisselfunctie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/233998</guid>
+            <pubDate>Wed, 23 Apr 2025 10:00:00 +0200</pubDate>
+        </item>
         <item>
             <title>HBO Max introduceert 8 dollar toeslag voor accountdelen in de Verenigde Staten</title>
             <link>https://tweakers.net/nieuws/234226/hbo-max-introduceert-8-dollar-toeslag-voor-accountdelen-in-de-verenigde-staten.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/reviews/13118/denkt-een-ai-model-in-het-engels-hoe-een-groot-taalmodel-van-binnen-werkt.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13118</guid>
             <pubDate>Tue, 22 Apr 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Bethesda onthult dinsdag The Elder Scrolls IV: Oblivion-remaster</title>
-            <link>https://tweakers.net/nieuws/234174/bethesda-onthult-dinsdag-the-elder-scrolls-iv-oblivion-remaster.html</link>
-            <description>Bethesda Softworks onthult dinsdag de gemoderniseerde versie van The Elder Scrolls IV: Oblivion. De uitgever houdt dinsdagmiddag een livestream over de game, die via Twitch en YouTube te volgen is. De stream staat gepland voor 17:00 uur Nederlandse tijd.</description>
-            <author>Jurian Ubachs</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/234174/bethesda-onthult-dinsdag-the-elder-scrolls-iv-oblivion-remaster.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234174</guid>
-            <pubDate>Mon, 21 Apr 2025 19:47:31 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - DBeaver 25.0.3</title>
-            <link>https://tweakers.net/downloads/72412/dbeaver-2503.html</link>
-            <description>Versie 25.0.3 van DBeaver is uitgekomen. Met dit programma kunnen databases worden beheerd. Het kan onder andere query&#039;s uitvoeren en data tonen, filteren en bewerken. Er is ondersteuning aanwezig voor de bekende databases, zoals MySQL, Oracle, DB2, SQL Server, PostgreSQL, Firebird en SQLite. Het is verkrijgbaar in een opensource CE-uitvoering en drie verschillende commerciële uitvoeringen. Deze voegen onder meer ondersteuning voor verschillende nosql-databases toe, zoals MongoDB, Apache Cassandra en Apache Hive, en bevatten verder extra plug-ins en jdbc-drivers. De changelog voor deze uitgave ziet er als volgt uit: Changes in DBeaver version 25.0.3:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72412/dbeaver-2503.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72412</guid>
-            <pubDate>Mon, 21 Apr 2025 19:25:12 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Firefly III 6.2.12</title>
-            <link>https://tweakers.net/downloads/72408/firefly-iii-6212.html</link>
-            <description>Firefly III is een in PHP geschreven webapplicatie waarmee een overzicht van je financiën kan worden bijgehouden. Het kan de data importeren vanuit csv-bestanden, de bunq-api of de Spectre-api. Voor meer informatie over dit programma verwijzen we naar deze pagina. De ontwikkelaar loopt ook op Tweakers rond en bespreekt zijn applicatie in het grote &#039;Firefly III&#039;-topic. Versie 6.2.12 is uitgekomen en hier zijn de volgende verbeteringen in aangebracht: Fixed</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72408/firefly-iii-6212.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72408</guid>
-            <pubDate>Mon, 21 Apr 2025 14:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
