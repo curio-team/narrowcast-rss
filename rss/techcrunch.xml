@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 24 Apr 2025 08:12:50 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 24 Apr 2025 09:14:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,61 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>British startup Isembard lands $9M to reshore manufacturing for critical industries</title>
+		<link>https://techcrunch.com/2025/04/24/british-startup-isembard-lands-9m-to-reshore-manufacturing-for-critical-industries/</link>
+		
+		<dc:creator><![CDATA[Anna Heim]]></dc:creator>
+		<pubDate>Thu, 24 Apr 2025 09:14:54 +0000</pubDate>
+				<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[defense tech]]></category>
+		<category><![CDATA[Isembard]]></category>
+		<category><![CDATA[manufacturing]]></category>
+		<category><![CDATA[supply chain]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2997719</guid>
+
+					<description><![CDATA[Geopolitical pressures are accelerating a demand in many countries and regions to reshore &#8212; that is, to redevelop critical industry infrastructure, and to bring back businesses, which had moved or outsourced some or all of their industrial operations to cheaper countries further away. But that is easier said than done. In the key area of [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Adobe wants to create a robots.txt styled indicator for images used in AI training</title>
+		<link>https://techcrunch.com/2025/04/24/adobe-wants-to-create-a-robots-txt-styled-indicator-for-images-used-in-ai-training/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 24 Apr 2025 09:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[c2pa]]></category>
+		<category><![CDATA[content credentials]]></category>
+		<category><![CDATA[AI image]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2997698</guid>
+
+					<description><![CDATA[For years, websites included information about what kind of crawlers were not allowed on their site with a robots.txt file. Adobe, which wants to create a similar standard for images, has added a tool to content credentials with an intention to give them a bit more control over what is used to train AI models. [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Adobe releases new Firefly image generation models and a redesigned Firefly web app</title>
+		<link>https://techcrunch.com/2025/04/24/adobe-releases-new-firefly-image-generation-models-and-a-redesigned-firefly-web-app/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 24 Apr 2025 09:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Adobe Firefly]]></category>
+		<category><![CDATA[Creative Cloud]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2998219</guid>
+
+					<description><![CDATA[Adobe on Thursday launched the latest iteration of its Firefly family of image generation AI models, a model for generating vectors, and a redesigned web app that houses all its AI models, plus some from its competitors. There&#8217;s also a mobile app for Firefly in the works. The new Firefly Image Model 4, Adobe says, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Mystery will may reveal Zappos founder&#8217;s final wishes</title>
 		<link>https://techcrunch.com/2025/04/23/mystery-will-may-reveal-zappos-founders-final-wishes/</link>
 		
@@ -317,62 +372,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2997521</guid>
 
 					<description><![CDATA[A new venture firm aims to prove that the most successful startup ideas don’t have to be born or scaled in Silicon Valley. Fluent Ventures, a global early-stage fund, is backing founders replicating proven business models from Western markets in fintech, digital health, and commerce across emerging markets. The more cynical might describe this as [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meta&#8217;s Threads opens up ads to global advertisers</title>
-		<link>https://techcrunch.com/2025/04/23/metas-threads-opens-up-ads-to-global-advertisers/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 15:05:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Instagram]]></category>
-		<category><![CDATA[Ads]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[ad tech]]></category>
-		<category><![CDATA[Threads]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2997736</guid>
-
-					<description><![CDATA[Months after first testing ads in select markets, including the U.S., Meta on Wednesday announced that its Instagram Threads app would now expand ads to all advertisers worldwide. The expansion will allow eligible advertisers to reach Threads&#8217; over 320 million monthly active users, and it will include access to an inventory filter to control the sensitivity level [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Amazon&#8217;s Starlink competitor runs into production delays</title>
-		<link>https://techcrunch.com/2025/04/23/amazons-starlink-competitor-runs-into-production-delays/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 15:01:38 +0000</pubDate>
-				<category><![CDATA[Space]]></category>
-		<category><![CDATA[Starlink]]></category>
-		<category><![CDATA[Project Kuiper]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2997786</guid>
-
-					<description><![CDATA[Amazon&#8217;s Project Kuiper, the company&#8217;s initiative to launch a fleet of satellites into low-Earth orbit and beam internet connection to users, is struggling to ramp up production, Bloomberg reported on Wednesday. The competitor to Elon Musk&#8217;s Starlink has completed only a few dozen satellites, according to the report. The venture reportedly needs to quadruple its [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI note-taking app Fireflies adds new ways to extract insights from meeting notes</title>
-		<link>https://techcrunch.com/2025/04/23/ai-powered-notetaker-fireflies-ai-release-mini-apps-to-extract-insights-out-of-meeting-notes/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Khosla Ventures]]></category>
-		<category><![CDATA[meetings]]></category>
-		<category><![CDATA[AI note-taking]]></category>
-		<category><![CDATA[Fireflies]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2996266</guid>
-
-					<description><![CDATA[Khosla Ventures-backed Fireflies.ai, an AI-powered note-taking app, on Wednesday released a set of domain-specific &#8220;mini apps&#8221; to extract insights from meeting transcripts automatically. With the widespread availability of automatic speech recognition models and generative AI, meeting intelligence startups like Otter, Read AI, Circleback, Krisp, and Granola have registered impressive growth. Fireflies, similarly, has seen 8x [&#8230;]]]></description>
 		
 		
 		
