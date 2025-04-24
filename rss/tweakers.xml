@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 24 Apr 2025 15:36:01 +0200</pubDate>
-        <lastBuildDate>Thu, 24 Apr 2025 15:36:01 +0200</lastBuildDate>
+        <pubDate>Thu, 24 Apr 2025 16:31:01 +0200</pubDate>
+        <lastBuildDate>Thu, 24 Apr 2025 16:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>.Deals - De beste elektronicadeals van week 17 2025</title>
+            <link>https://tweakers.net/plan/4400/de-beste-elektronicadeals-van-week-17-2025.html</link>
+            <description>De interessante prijsdalingen, cashbackacties, kortingscodes en comboaanbiedingen van week 17 van 2025, geselecteerd door het Pricewatch-team.</description>
+            <author>Tweakers Pricewatch</author>
+            <category>.deals</category>
+            <comments>https://tweakers.net/plan/4400/de-beste-elektronicadeals-van-week-17-2025.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/plan/4400</guid>
+            <pubDate>Thu, 24 Apr 2025 16:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>AIVD: meer landen hebben offensief cyberprogramma door commerciële spyware</title>
+            <link>https://tweakers.net/nieuws/234300/aivd-meer-landen-hebben-offensief-cyberprogramma-door-commerciele-spyware.html</link>
+            <description>Het wordt voor landen steeds makkelijker een goed offensief cyberprogramma op te stellen. Bovendien zijn aanvallen door staatshackers steeds effectiever omdat bedrijven zich vaak niet goed beveiligen door bijvoorbeeld patches niet te installeren, waarschuwt de AIVD.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/234300/aivd-meer-landen-hebben-offensief-cyberprogramma-door-commerciele-spyware.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234300</guid>
+            <pubDate>Thu, 24 Apr 2025 15:59:36 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Unbound 1.23.0</title>
+            <link>https://tweakers.net/downloads/72446/unbound-1230.html</link>
+            <description>Als je een DNS-lookup uitvoert, begint een recursor in eerste instantie met het stellen van de lookupvraag aan een DNS-rootserver. Deze kan dan doorverwijzen naar andere servers, vanaf waar weer doorverwezen kan worden naar andere servers enzovoort, totdat uiteindelijk een server is bereikt die het antwoord weet, of weet dat de lookup niet mogelijk is. Van dit laatste kan sprake zijn als de naam niet bestaat of de servers niet reageren. Het proces van het langslopen van verschillende authoritative servers heet recursie. Unbound is een DNS-recursor met ondersteuning voor moderne standaarden, zoals Query Name Minimisation, Aggressive Use of Dnssec-Validated Cache en authority zones. Versie 1.23 is uitgebracht en hierin zijn de volgende veranderingen en verbeteringen aangebracht: Features</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72446/unbound-1230.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72446</guid>
+            <pubDate>Thu, 24 Apr 2025 15:51:22 +0200</pubDate>
+        </item>
         <item>
             <title>FBI: Cybercrimeschade liep in 2024 op tot 16 miljard dollar in de VS</title>
             <link>https://tweakers.net/nieuws/234296/fbi-cybercrimeschade-liep-in-2024-op-tot-16-miljard-dollar-in-de-vs.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/downloads/72434/amd-radeon-software-adrenalin-edition-2541.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72434</guid>
             <pubDate>Wed, 23 Apr 2025 10:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>NIO kondigt EV voor 29.900 euro aan met nog onbruikbare accuwisselfunctie</title>
-            <link>https://tweakers.net/nieuws/233998/nio-kondigt-ev-voor-29900-euro-aan-met-nog-onbruikbare-accuwisselfunctie.html</link>
-            <description>NIO brengt deze zomer een kleinere auto uit onder het nieuwe firefly-merk. De firefly krijgt net als andere NIO-auto&#039;s een verwisselbare accu, al heeft het bedrijf nog geen directe plannen om accuwissels mogelijk te maken. Dit hangt onder meer af van hoe goed de auto verkoopt.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / Beeld en geluid / Cartech</category>
-            <comments>https://tweakers.net/nieuws/233998/nio-kondigt-ev-voor-29900-euro-aan-met-nog-onbruikbare-accuwisselfunctie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/233998</guid>
-            <pubDate>Wed, 23 Apr 2025 10:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>HBO Max introduceert 8 dollar toeslag voor accountdelen in de Verenigde Staten</title>
-            <link>https://tweakers.net/nieuws/234226/hbo-max-introduceert-8-dollar-toeslag-voor-accountdelen-in-de-verenigde-staten.html</link>
-            <description>Max, de Amerikaanse versie van streamingdienst HBO Max, staat gebruikers toe om een extra persoon buiten het huishouden toe te voegen aan een abonnement voor een toeslag van 7,99 dollar per maand. In 2023 introduceerde Netflix een soortgelijke beperking voor het accountdelen.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / Beeld en geluid / Televisies</category>
-            <comments>https://tweakers.net/nieuws/234226/hbo-max-introduceert-8-dollar-toeslag-voor-accountdelen-in-de-verenigde-staten.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234226</guid>
-            <pubDate>Wed, 23 Apr 2025 09:21:13 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Obsidian 1.8.10</title>
-            <link>https://tweakers.net/downloads/72432/obsidian-1810.html</link>
-            <description>Versie 1.8.10 van Obsidian is uitgekomen. Obsidian is een applicatie voor het maken van notities en is beschikbaar voor Android, iOS, Windows, Linux en macOS. Notities worden lokaal in Markdown opgeslagen, waardoor je altijd baas over je eigen data bent en deze eenvoudig naar een ander platform is te converteren. Het programma is uiterst aanpasbaar met honderden plug-ins en gratis te gebruiken, maar voor commercieel gebruik of bepaalde functionaliteit, zoals end-to-endversleuteling of versiecontrole, wordt wel een vergoeding gevraagd. De changelog sinds versie 1.8.8 ziet er als volgt uit:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72432/obsidian-1810.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72432</guid>
-            <pubDate>Wed, 23 Apr 2025 09:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
