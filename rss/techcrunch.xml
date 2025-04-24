@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 24 Apr 2025 01:09:05 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 24 Apr 2025 08:12:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -48,10 +48,10 @@
 		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
 		<pubDate>Wed, 23 Apr 2025 22:30:49 +0000</pubDate>
 				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Government & Policy]]></category>
 		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[doge]]></category>
+		<category><![CDATA[Government & Policy]]></category>
 		<category><![CDATA[IBM]]></category>
+		<category><![CDATA[doge]]></category>
 		<category><![CDATA[USAID]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2998175</guid>
 
@@ -85,9 +85,9 @@
 		<pubDate>Wed, 23 Apr 2025 20:59:14 +0000</pubDate>
 				<category><![CDATA[Transportation]]></category>
 		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[FSD]]></category>
-		<category><![CDATA[robotaxi]]></category>
 		<category><![CDATA[Tesla]]></category>
+		<category><![CDATA[robotaxi]]></category>
+		<category><![CDATA[FSD]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2998048</guid>
 
 					<description><![CDATA[Tesla has started testing its autonomous ride-hail service with employees in Austin and the Bay Area ahead of the company&#8217;s planned robotaxi launch this summer. &#8220;FSD Supervised ride-hailing service is live for an early set of employees in Austin &#38; San Francisco Bay Area,&#8221; the company posted Wednesday on X. FSD stands for &#8220;Full Self-Driving,&#8221; [&#8230;]]]></description>
@@ -101,8 +101,8 @@
 		
 		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
 		<pubDate>Wed, 23 Apr 2025 20:56:36 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[Apps]]></category>
 		<category><![CDATA[Bluesky]]></category>
 		<category><![CDATA[censorship]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2997986</guid>
@@ -120,9 +120,10 @@
 		<pubDate>Wed, 23 Apr 2025 20:30:53 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[open source ai]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2998082</guid>
 
-					<description><![CDATA[Toward the end of March, OpenAI announced its intention to release its first &#8220;open&#8221; language model since GPT‑2 sometime this year. Now details about that model are beginning to trickle out from the company&#8217;s sessions with the AI developer community. Sources tell TechCrunch that Aidan Clark, OpenAI&#8217;s VP of research, is leading development of the open model, [&#8230;]]]></description>
+					<description><![CDATA[Toward the end of March, OpenAI said it intended to release its first &#8220;open&#8221; language model since GPT‑2 sometime this year. Now, details about that model are beginning to trickle out from the company&#8217;s sessions with the AI developer community. Aidan Clark, OpenAI&#8217;s VP of research, is leading development of the open model, which is [&#8230;]]]></description>
 		
 		
 		
@@ -133,12 +134,12 @@
 		
 		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
 		<pubDate>Wed, 23 Apr 2025 20:12:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI]]></category>
 		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[Enterprise]]></category>
 		<category><![CDATA[evergreens]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2976754</guid>
 
 					<description><![CDATA[Last year was monumental for the AI industry in the U.S. and beyond. There were 49 startups that raised funding rounds worth $100 million or more in 2024, per our count at TechCrunch; three companies raised more than one &#8220;megaround,&#8221; and seven companies raised rounds $1 billion in size or larger. How will 2025 compare? [&#8230;]]]></description>
@@ -186,10 +187,10 @@
 		
 		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
 		<pubDate>Wed, 23 Apr 2025 17:57:58 +0000</pubDate>
-				<category><![CDATA[Gaming]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[discord]]></category>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[Gaming]]></category>
 		<category><![CDATA[jason citron]]></category>
+		<category><![CDATA[discord]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2997903</guid>
 
 					<description><![CDATA[Amid rumors that the company is eyeing an IPO, Discord appointed former Activision Blizzard Vice Chairman Humam Sakhnini as CEO. Discord co-founder Jason Citron will leave his CEO role after 13 years at the company. Discord straddles the gaming and social media spaces &#8212; despite its initial emergence as a platform for online multiplayer gamers [&#8230;]]]></description>
@@ -209,7 +210,7 @@
 		<category><![CDATA[Safety]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2997787</guid>
 
-					<description><![CDATA[In mid-April, OpenAI launched a powerful new AI model, GPT-4.1, that the company claimed &#8220;excelled&#8221; at following instructions. But the results of several independent tests suggest the model is less aligned — that is to say, less reliable — than previous OpenAI releases. When OpenAI launches a new model, it typically publishes a detailed technical [&#8230;]]]></description>
+					<description><![CDATA[In mid-April, OpenAI launched a powerful new AI model, GPT-4.1, which it claimed &#8220;excelled&#8221; at following instructions. But the results of several independent tests suggest the model is less aligned — that is to say, less reliable — than previous OpenAI releases. When OpenAI launches a new model, it typically publishes a detailed technical report [&#8230;]]]></description>
 		
 		
 		
@@ -274,8 +275,8 @@
 		<pubDate>Wed, 23 Apr 2025 15:52:45 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[AI chatbots]]></category>
-		<category><![CDATA[google gemini]]></category>
 		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[google gemini]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2997820</guid>
 
 					<description><![CDATA[Gemini, Google&#8217;s AI chatbot, had 350 million monthly active users around the globe as of March, according to internal data revealed in Google&#8217;s ongoing antitrust suit. The Information first reported the stat. Usage of Google&#8217;s AI offerings has exploded in the last year. Gemini had just 9 million daily active users in October 2024, but [&#8230;]]]></description>
@@ -289,9 +290,9 @@
 		
 		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
 		<pubDate>Wed, 23 Apr 2025 15:42:17 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
+				<category><![CDATA[TC]]></category>
 		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[TC]]></category>
+		<category><![CDATA[AI]]></category>
 		<category><![CDATA[TC Sessions: AI]]></category>
 		<category><![CDATA[TechCrunch Sessions: AI]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2997831</guid>
@@ -310,8 +311,8 @@
 				<category><![CDATA[Venture]]></category>
 		<category><![CDATA[emerging markets]]></category>
 		<category><![CDATA[Fluent Ventures]]></category>
-		<category><![CDATA[latin america]]></category>
 		<category><![CDATA[MENA]]></category>
+		<category><![CDATA[latin america]]></category>
 		<category><![CDATA[Southeast Asia]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2997521</guid>
 
@@ -328,10 +329,10 @@
 		<pubDate>Wed, 23 Apr 2025 15:05:00 +0000</pubDate>
 				<category><![CDATA[Apps]]></category>
 		<category><![CDATA[Social]]></category>
-		<category><![CDATA[ad tech]]></category>
-		<category><![CDATA[Ads]]></category>
 		<category><![CDATA[Instagram]]></category>
+		<category><![CDATA[Ads]]></category>
 		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[ad tech]]></category>
 		<category><![CDATA[Threads]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2997736</guid>
 
@@ -347,9 +348,9 @@
 		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
 		<pubDate>Wed, 23 Apr 2025 15:01:38 +0000</pubDate>
 				<category><![CDATA[Space]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Project Kuiper]]></category>
 		<category><![CDATA[Starlink]]></category>
+		<category><![CDATA[Project Kuiper]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2997786</guid>
 
 					<description><![CDATA[Amazon&#8217;s Project Kuiper, the company&#8217;s initiative to launch a fleet of satellites into low-Earth orbit and beam internet connection to users, is struggling to ramp up production, Bloomberg reported on Wednesday. The competitor to Elon Musk&#8217;s Starlink has completed only a few dozen satellites, according to the report. The venture reportedly needs to quadruple its [&#8230;]]]></description>
@@ -365,10 +366,10 @@
 		<pubDate>Wed, 23 Apr 2025 15:00:00 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[AI note-taking]]></category>
-		<category><![CDATA[Fireflies]]></category>
 		<category><![CDATA[Khosla Ventures]]></category>
 		<category><![CDATA[meetings]]></category>
+		<category><![CDATA[AI note-taking]]></category>
+		<category><![CDATA[Fireflies]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2996266</guid>
 
 					<description><![CDATA[Khosla Ventures-backed Fireflies.ai, an AI-powered note-taking app, on Wednesday released a set of domain-specific &#8220;mini apps&#8221; to extract insights from meeting transcripts automatically. With the widespread availability of automatic speech recognition models and generative AI, meeting intelligence startups like Otter, Read AI, Circleback, Krisp, and Granola have registered impressive growth. Fireflies, similarly, has seen 8x [&#8230;]]]></description>
