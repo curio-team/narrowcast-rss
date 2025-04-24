@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 23 Apr 2025 14:19:42 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 24 Apr 2025 01:09:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,375 +28,350 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>EU fines Apple, Meta millions for breaching tech competition rules</title>
-		<link>https://techcrunch.com/2025/04/23/eu-fines-apple-meta-millions-for-breaching-tech-competition-rules/</link>
+		<title>Mystery will may reveal Zappos founder&#8217;s final wishes</title>
+		<link>https://techcrunch.com/2025/04/23/mystery-will-may-reveal-zappos-founders-final-wishes/</link>
+		
+		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
+		<pubDate>Thu, 24 Apr 2025 01:03:20 +0000</pubDate>
+				<category><![CDATA[Commerce]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2998225</guid>
+
+					<description><![CDATA[According to the WSJ, a recently discovered will suggests late Zappos co-founder Tony Hsieh had concrete plans for his fortune despite previous beliefs that he died without leaving instructions for an estate that&#8217;s estimated to be worth $1.2 billion. Among other things, the document, signed in 2015 and included in a recent court filing, contains [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>IBM affected by DOGE cuts, downplays impact during Q1 earnings call</title>
+		<link>https://techcrunch.com/2025/04/23/ibm-affected-by-doge-cuts-downplays-impact-during-q1-earnings-call/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 22:30:49 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[doge]]></category>
+		<category><![CDATA[IBM]]></category>
+		<category><![CDATA[USAID]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2998175</guid>
+
+					<description><![CDATA[Tech and consulting giant IBM was not immune to the Department of Government Efficiency&#8217;s (DOGE) cuts. IBM had 15 of its federal contracts canceled due to DOGE-related cuts during the first quarter of 2025, according to reporting from Reuters and Bloomberg. These cuts amount to $100 million in future payments, per Bloomberg. Federal contracts represent [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Windsurf slashes prices as competition with Cursor heats up</title>
+		<link>https://techcrunch.com/2025/04/23/windsurf-slashes-prices-as-competition-with-cursor-heats-up/</link>
+		
+		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 21:43:57 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[cursor]]></category>
+		<category><![CDATA[Windsurf]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2998164</guid>
+
+					<description><![CDATA[AI coding assistant startup Windsurf cut its prices “across the board” it announced on Monday, touting “massive savings” for its users as competition with its rival Cursor intensifies. Windsurf said it’s getting rid of its complex system of “flow action credits,” which charged developers for actions its AI did in the background. It’s also cutting [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tesla begins &#8216;FSD Supervised&#8217; ride-hail tests with employees in Austin, Bay Area</title>
+		<link>https://techcrunch.com/2025/04/23/tesla-begins-fsd-supervised-ride-hail-tests-with-employees-in-austin-bay-area/</link>
 		
 		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 14:19:37 +0000</pubDate>
+		<pubDate>Wed, 23 Apr 2025 20:59:14 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[FSD]]></category>
+		<category><![CDATA[robotaxi]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2998048</guid>
+
+					<description><![CDATA[Tesla has started testing its autonomous ride-hail service with employees in Austin and the Bay Area ahead of the company&#8217;s planned robotaxi launch this summer. &#8220;FSD Supervised ride-hailing service is live for an early set of employees in Austin &#38; San Francisco Bay Area,&#8221; the company posted Wednesday on X. FSD stands for &#8220;Full Self-Driving,&#8221; [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Government censorship comes to Bluesky, but not its third-party apps &#8230; yet</title>
+		<link>https://techcrunch.com/2025/04/23/government-censorship-comes-to-bluesky-but-not-its-third-party-apps-yet/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 20:56:36 +0000</pubDate>
 				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Digital Markets Act]]></category>
-		<category><![CDATA[Meta]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2997759</guid>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Bluesky]]></category>
+		<category><![CDATA[censorship]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2997986</guid>
 
-					<description><![CDATA[The European Union has fined Apple €500 million (about $568 million) and Meta €200 million (about $227 million) for allegedly breaching the bloc&#8217;s Digital Markets Act, according to The Wall Street Journal. The EU has accused Apple of failing to comply with an obligation to allow app developers to inform customers of alternative ways to [&#8230;]]]></description>
+					<description><![CDATA[Government censorship has found its way to Bluesky, but there&#8217;s&#160;currently&#160;a loophole thanks to how the social network is structured. Earlier this month, Bluesky restricted access to 72 accounts in Turkey at the request of Turkish governmental authorities, according to a recent report by the Freedom of Expression Association. As a result, people in Turkey can [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Durin digs up $3.4M to automate drills for critical minerals exploration</title>
-		<link>https://techcrunch.com/2025/04/23/durin-digs-up-3-4m-to-automate-drills-for-critical-minerals-exploration/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[Andreessen Horowitz]]></category>
-		<category><![CDATA[Automation]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[lux capital]]></category>
-		<category><![CDATA[mining]]></category>
-		<category><![CDATA[day one ventures]]></category>
-		<category><![CDATA[critical minerals]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2997170</guid>
-
-					<description><![CDATA[Mining companies spend billions on exploration. Durin thinks it can slash costs.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Blue Shield of California shared the private health data of millions with Google for years</title>
-		<link>https://techcrunch.com/2025/04/23/blue-shield-of-california-shared-the-private-health-data-of-millions-with-google-for-years/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 13:55:13 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[Blue Shield]]></category>
-		<category><![CDATA[california]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[health insurance]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2997754</guid>
-
-					<description><![CDATA[The health insurance giant is notifying at least 4.7 million patients of the security lapse.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Linktree rolls out a suite of monetization features for creators</title>
-		<link>https://techcrunch.com/2025/04/23/linktree-rolls-out-a-suite-of-monetization-features-for-creators/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik, Ivan Mehta]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[creator economy]]></category>
-		<category><![CDATA[Linktree]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2997237</guid>
-
-					<description><![CDATA[Linktree is launching a set of new features aimed at helping creators earn more money directly from its platform. The new tools include the ability to sell courses, earn from brand-sponsored links, and build shoppable storefronts. The launch of the new monetization features will help Linktree stand out among other similar platforms like Beacons and [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Endor Labs, which builds tools to scan AI-generated code for vulnerabilities, lands $93M</title>
-		<link>https://techcrunch.com/2025/04/23/endor-labs-which-builds-tools-to-scan-ai-generated-code-for-vulnerabilities-lands-93m/</link>
+		<title>OpenAI seeks to make its upcoming &#8216;open&#8217; AI model best-in-class</title>
+		<link>https://techcrunch.com/2025/04/23/openai-seeks-to-make-its-upcoming-open-ai-model-best-in-class/</link>
 		
 		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Endor Labs]]></category>
-		<category><![CDATA[ai code]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2997524</guid>
-
-					<description><![CDATA[AI-generated code is no doubt changing how software is built, but it’s also introducing new security challenges. More than 50% of organizations encounter security issues with AI-produced code sometimes or frequently, according to a late 2023 survey by developer security platform Synk. For Endor Labs, that opportunity proved alluring enough that it chose to change [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>YouTube&#8217;s TV app is getting a redesign this summer</title>
-		<link>https://techcrunch.com/2025/04/23/youtube-adds-new-features-to-improve-playback-and-creator-experinces/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[multi view]]></category>
-		<category><![CDATA[playback speed]]></category>
-		<category><![CDATA[YouTube]]></category>
-		<category><![CDATA[YouTube TV]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2997631</guid>
-
-					<description><![CDATA[YouTube said on Wednesday that it will launch a redesign of its TV app this summer. On the books are easier navigation, playback and quality tweaks, as well as better access to comments, channel info, and subscribing. The company didn&#8217;t provide any further details about the redesign, but we&#8217;ve asked for a peek at the [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Datadog acquires AI-powered observability startup Metaplane</title>
-		<link>https://techcrunch.com/2025/04/23/datadog-acquires-ai-powered-observability-startup-metaplane/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 12:54:56 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[data observability]]></category>
-		<category><![CDATA[Datadog]]></category>
-		<category><![CDATA[Mergers and Acquisitions]]></category>
-		<category><![CDATA[Metaplane]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2997640</guid>
-
-					<description><![CDATA[Cloud monitoring and security platform Datadog on Wednesday said it has acquired Metaplane, an AI-powered data observability startup. Financial terms of the deal were not disclosed. In a press release, Datadog said that the deal &#8220;accelerates&#8221; its expansion into data observability, building on the launch of related products. Metaplane will continue supporting its existing and [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Alpaca raises $52M Series C to take its API brokerage platform to new markets</title>
-		<link>https://techcrunch.com/2025/04/23/alpaca-a-developer-of-api-brokerage-platform-raises-52m-in-series-c/</link>
-		
-		<dc:creator><![CDATA[Kate Park]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 12:30:00 +0000</pubDate>
-				<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[api]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Alpaca]]></category>
-		<category><![CDATA[Portage Ventures]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2996397</guid>
-
-					<description><![CDATA[Alpaca said on Wednesday it has raised a $52M Series C round to expand into more foreign markets, including the Middle East, Europe and Asia.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The U.S. doesn&#8217;t refine cobalt. This startup wants to change that.</title>
-		<link>https://techcrunch.com/2025/04/23/the-u-s-refines-zero-cobalt-this-startup-wants-to-change-that/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 11:40:00 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[aerospace]]></category>
-		<category><![CDATA[battery materials]]></category>
-		<category><![CDATA[cobalt]]></category>
-		<category><![CDATA[critical minerals]]></category>
-		<category><![CDATA[defense technology]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[lithium ion batteries]]></category>
-		<category><![CDATA[metals]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2997230</guid>
-
-					<description><![CDATA[Xerion says it has a new technique to produce highly refined cobalt in a single step.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cynomi cinches $37M for its AI-based &#8216;virtual CISO&#8217; for SMB cybersecurity</title>
-		<link>https://techcrunch.com/2025/04/23/cynomi-cinches-37m-for-its-ai-based-virtual-ciso-for-smb-cybersecurity/</link>
-		
-		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 11:13:33 +0000</pubDate>
-				<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[Cynomi]]></category>
-		<category><![CDATA[Insight Partners]]></category>
-		<category><![CDATA[SMBs]]></category>
-		<category><![CDATA[SMEs]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2997705</guid>
-
-					<description><![CDATA[Small and medium businesses are the latest targets for cybersecurity attacks, with one in three small businesses experiencing a data breach last year. SMBs are becoming more proactive in detecting and stopping these threats, and today a startup called Cynomi is announcing $37 million in funding to meet that demand. Insight Partners and Entrée Capital are co-leading [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Froda secures $23M Series B for its debt financing platform for SMEs</title>
-		<link>https://techcrunch.com/2025/04/23/froda-secures-23m-series-b-for-its-debt-financing-platform-for-smes/</link>
-		
-		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 11:08:25 +0000</pubDate>
-				<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[sme]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2997701</guid>
-
-					<description><![CDATA[Swedish Fintech startup Froda has secured a $22.7 million (€20 million) Series B round led by Incore Invest, also based in Sweden. The move bucks the trend of a slight slowdown in investments into fintech, plus a further confirmation of the long-term trend towards the &#8217;embedded finance&#8217; model.  Largely operating in northern European countries from [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Xprize Carbon awarded to a dirt simple carbon removal technology</title>
-		<link>https://techcrunch.com/2025/04/23/xprize-carbon-awarded-to-a-dirt-simple-carbon-removal-technology/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[agriculture]]></category>
-		<category><![CDATA[carbon dioxide]]></category>
-		<category><![CDATA[XPRIZE]]></category>
-		<category><![CDATA[carbon removal]]></category>
-		<category><![CDATA[Mati Carbon]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2997125</guid>
-
-					<description><![CDATA[ Mati Carbon walked away with the $50 million grand prize for its enhanced rock weathering program that locks carbon in soils for thousands of years.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>StrictlyVC heads to Athens for in-depth conversations on European innovation and investment</title>
-		<link>https://techcrunch.com/2025/04/23/strictlyvc-heads-to-athens-for-in-depth-conversations-on-european-innovation-and-investment/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 08:34:13 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[StrictlyVC]]></category>
-		<category><![CDATA[StrictlyVC Greece]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2997279</guid>
-
-					<description><![CDATA[StrictlyVC is turning up the heat in 2025 — and we’re going international! First stop: Athens, May 8. Get ready for sharp, unfiltered conversations onstage — and your chance to jump into the dialogue. This isn’t just an event; it’s a forum where every attendee has a voice with some of Europe’s most influential tech [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tech resilience, breakout startups, and banking reinvented: The big conversations at StrictlyVC London in May</title>
-		<link>https://techcrunch.com/2025/04/22/how-to-build-resilient-tech-nazo-moosa-of-paladin-talks-cyber-ai-and-deep-tech-at-strictlyvc-london/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 06:00:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[StrictlyVC]]></category>
-		<category><![CDATA[StrictlyVC London]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2997475</guid>
-
-					<description><![CDATA[StrictlyVC is heading to London on May 13, uniting top investors and entrepreneurs to spark meaningful connections and drive forward innovation. We’re thrilled to welcome industry leaders like Nazo Moosa, general partner at Paladin Capital Group; Sonali De Rycker, partner at Accel; and TS Anil, CEO of Monzo Bank, to the stage. Paladin is proud [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Noxtua raises $92M for its sovereign AI tuned for the German legal system</title>
-		<link>https://techcrunch.com/2025/04/22/noxtua-raises-92m-for-its-sovereign-ai-tuned-for-the-german-legal-system/</link>
-		
-		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 05:00:00 +0000</pubDate>
+		<pubDate>Wed, 23 Apr 2025 20:30:53 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2998082</guid>
+
+					<description><![CDATA[Toward the end of March, OpenAI announced its intention to release its first &#8220;open&#8221; language model since GPT‑2 sometime this year. Now details about that model are beginning to trickle out from the company&#8217;s sessions with the AI developer community. Sources tell TechCrunch that Aidan Clark, OpenAI&#8217;s VP of research, is leading development of the open model, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Here are the 19 US AI startups that have raised $100M or more in 2025</title>
+		<link>https://techcrunch.com/2025/04/23/here-are-the-19-us-ai-startups-that-have-raised-100m-or-more-in-2025/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 20:12:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
 		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[law]]></category>
-		<category><![CDATA[legal]]></category>
-		<category><![CDATA[Noxtua]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2997316</guid>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2976754</guid>
 
-					<description><![CDATA[Back in 2020, Xayn was a privacy-based, on-device AI startup designed specifically for smartphones. But that early experience eventually saw the company pivot into developing sovereign AI for the legal sphere. Now Xayn has rebranded as Noxtua and raised a $92.2 million (roughly €81.2 million) Series B round. The round was led by strategic investor [&#8230;]]]></description>
+					<description><![CDATA[Last year was monumental for the AI industry in the U.S. and beyond. There were 49 startups that raised funding rounds worth $100 million or more in 2024, per our count at TechCrunch; three companies raised more than one &#8220;megaround,&#8221; and seven companies raised rounds $1 billion in size or larger. How will 2025 compare? [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Intel reportedly plans to lay off over 21,000 employees</title>
-		<link>https://techcrunch.com/2025/04/22/intel-reportedly-plans-to-lay-off-over-21000-employees/</link>
+		<title>Netflix aims to be a trillion-dollar company, says co-CEO</title>
+		<link>https://techcrunch.com/2025/04/23/netflix-aims-to-be-a-trillion-dollar-company-says-co-ceo/</link>
 		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 04:08:42 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Intel]]></category>
-		<category><![CDATA[Layoffs]]></category>
-		<category><![CDATA[Lip-bu Tan]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2997533</guid>
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 19:09:42 +0000</pubDate>
+				<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Netflix]]></category>
+		<category><![CDATA[streaming service]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2998030</guid>
 
-					<description><![CDATA[Intel is set to cut over 21,000 people, or roughly 20% of its workforce, with an announcement due this week, according to a Bloomberg report.  The news comes ahead of Intel&#8217;s Q1 earnings call helmed by recently appointed CEO Lip-Bu Tan, who replaced longtime chief Pat Gelsinger last year.  With the layoffs, Tan aims to [&#8230;]]]></description>
+					<description><![CDATA[At Semafor’s 2025 World Economy Summit on Wednesday, Netflix co-CEO Ted Sarandos said he believes Netflix’s long-term goal to achieve a $1 trillion market capitalization is possible if the streaming giant continues to perform well.  Sarandos said, “In the previous five years, we&#8217;ve doubled our revenue, we grew profits 10 times, and we grew our [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Meta&#8217;s Oversight Board seeks details on the company&#8217;s new hate speech policies</title>
-		<link>https://techcrunch.com/2025/04/22/metas-oversight-board-seeks-details-on-new-hate-speech-policies/</link>
+		<title>19 US fintech startups have raised over $50M in 2025 so far</title>
+		<link>https://techcrunch.com/2025/04/23/19-us-fintech-startups-have-raised-over-50m-in-2025-so-far/</link>
+		
+		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 19:08:05 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Plaid]]></category>
+		<category><![CDATA[Mercury bank]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2997950</guid>
+
+					<description><![CDATA[After a sluggish couple of years, fintech appears to be making a comeback. In the first quarter of 2025, fintech startups globally raised a combined $10.3 billion &#8212; marking the highest level of funding since the first quarter of 2023, according to CB Insights research. The average deal size of $17.7 million also marked the [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Discord appoints former Activision Blizzard exec Humam Sakhnini as CEO</title>
+		<link>https://techcrunch.com/2025/04/23/discord-appoints-former-activision-blizzard-exec-humam-sakhnini-as-ceo/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 17:57:58 +0000</pubDate>
+				<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[discord]]></category>
+		<category><![CDATA[jason citron]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2997903</guid>
+
+					<description><![CDATA[Amid rumors that the company is eyeing an IPO, Discord appointed former Activision Blizzard Vice Chairman Humam Sakhnini as CEO. Discord co-founder Jason Citron will leave his CEO role after 13 years at the company. Discord straddles the gaming and social media spaces &#8212; despite its initial emergence as a platform for online multiplayer gamers [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI&#8217;s GPT-4.1 may be less aligned than the company&#8217;s previous AI models</title>
+		<link>https://techcrunch.com/2025/04/23/openais-gpt-4-1-may-be-less-aligned-than-the-companys-previous-ai-models/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 17:54:58 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[gpt-4.1]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Safety]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2997787</guid>
+
+					<description><![CDATA[In mid-April, OpenAI launched a powerful new AI model, GPT-4.1, that the company claimed &#8220;excelled&#8221; at following instructions. But the results of several independent tests suggest the model is less aligned — that is to say, less reliable — than previous OpenAI releases. When OpenAI launches a new model, it typically publishes a detailed technical [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>DOJ reportedly probes Disney-FuboTV deal over competition concerns</title>
+		<link>https://techcrunch.com/2025/04/23/doj-reportedly-probes-disney-fubotv-deal-over-competition-concerns/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 17:39:56 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Disney]]></category>
+		<category><![CDATA[doj]]></category>
+		<category><![CDATA[FuboTV]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2997927</guid>
+
+					<description><![CDATA[The U.S. Department of Justice is probing Disney&#8217;s deal to take a controlling stake in FuboTV, Bloomberg reports. Fubo is a live TV streaming service known for its&#160;extensive sports coverage. Officials are examining whether the deal would create a concentration of power in the sports streaming market. In January, Disney announced that it was going [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anti-Musk protests are now an official risk to Tesla&#8217;s business</title>
+		<link>https://techcrunch.com/2025/04/23/anti-musk-protests-are-now-an-official-risk-to-teslas-business/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 17:17:30 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2997865</guid>
+
+					<description><![CDATA[Protests against Elon Musk and Tesla have been spreading around the world thanks to the CEO&#8217;s involvement in the Trump administration. Now those protests are listed as an official &#8220;risk factor&#8221; in paperwork Tesla is required to file with federal regulators. The new language, filed with the Securities and Exchange Commission on Wednesday morning, shows [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI makes its upgraded image generator available to developers</title>
+		<link>https://techcrunch.com/2025/04/23/openai-makes-its-upgraded-image-generator-available-to-developers/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 17:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2997789</guid>
+
+					<description><![CDATA[OpenAI on Wednesday brought the tech behind its new and improved image generation feature in ChatGPT to its API, allowing developers to integrate it into their apps and services. OpenAI’s new image generator, which launched for most ChatGPT users in late March, went viral for its ability to create realistic Ghibli-style photos and &#8220;AI action figures.&#8221; [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Gemini has 350M monthly users, reveals court hearing</title>
+		<link>https://techcrunch.com/2025/04/23/google-gemini-has-350m-monthly-users-reveals-court-hearing/</link>
 		
 		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 04:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[content moderation]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[oversight board]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2997523</guid>
-
-					<description><![CDATA[Meta&#8217;s Oversight Board, the independent group created to help Meta with content moderation decisions, on Tuesday issued its response to the social media company&#8217;s new hate speech policies announced in January. The Board says that Meta&#8217;s new policies were &#8220;announced hastily, in a departure from regular procedure,&#8221; and called on the company to provide more [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tesla profits drop 71% on weak sales and anti-Elon Musk sentiment</title>
-		<link>https://techcrunch.com/2025/04/22/tesla-profits-drop-71-on-weak-sales-and-anti-elon-musk-sentiment/</link>
-		
-		<dc:creator><![CDATA[Sean O'Kane, Kirsten Korosec]]></dc:creator>
-		<pubDate>Tue, 22 Apr 2025 23:49:13 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[earnings]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[Tesla]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2997261</guid>
-
-					<description><![CDATA[Tesla’s flailing sales figures have put the company closer to the red than it has been in years, according to financial results released Tuesday, threatening one of its biggest advantages over other EV players. The electric automaker reported $409 million in net income on $19.3 billion in revenue after delivering almost 337,000 EVs in the [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>xAI&#8217;s Grok chatbot can now &#8216;see&#8217; the world around it</title>
-		<link>https://techcrunch.com/2025/04/22/xais-grok-chatbot-can-now-see-the-world-around-it/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 22 Apr 2025 23:47:33 +0000</pubDate>
+		<pubDate>Wed, 23 Apr 2025 15:52:45 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Grok]]></category>
-		<category><![CDATA[xAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2997474</guid>
+		<category><![CDATA[AI chatbots]]></category>
+		<category><![CDATA[google gemini]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2997820</guid>
 
-					<description><![CDATA[xAI&#8217;s Grok chatbot can now answer questions about what&#8217;s in view of your smartphone&#8217;s camera, similar to real-time vision features available for Google&#8217;s Gemini and ChatGPT. On Tuesday, xAI announced the launch of Grok Vision, which lets users point their phone at objects like products, signs, and documents and ask questions about them. Grok Vision [&#8230;]]]></description>
+					<description><![CDATA[Gemini, Google&#8217;s AI chatbot, had 350 million monthly active users around the globe as of March, according to internal data revealed in Google&#8217;s ongoing antitrust suit. The Information first reported the stat. Usage of Google&#8217;s AI offerings has exploded in the last year. Gemini had just 9 million daily active users in October 2024, but [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Why OpenAI wanted to buy Cursor but opted for the fast-growing Windsurf</title>
-		<link>https://techcrunch.com/2025/04/22/why-openai-wanted-to-buy-cursor-but-opted-for-the-fast-growing-windsurf/</link>
+		<title>Bring a plus-one to TechCrunch Sessions: AI and save 50% on their ticket through May 4</title>
+		<link>https://techcrunch.com/2025/04/23/bring-a-plus-one-to-techcrunch-sessions-ai-and-save-50-on-their-ticket-through-may-4/</link>
 		
-		<dc:creator><![CDATA[Marina Temkin, Maxwell Zeff]]></dc:creator>
-		<pubDate>Tue, 22 Apr 2025 22:42:21 +0000</pubDate>
+		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 15:42:17 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Anysphere]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[Mergers and Acquisitions]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[Windsurf]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2997417</guid>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[TC Sessions: AI]]></category>
+		<category><![CDATA[TechCrunch Sessions: AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2997831</guid>
 
-					<description><![CDATA[Anysphere, maker of AI coding assistant Cursor, is growing so quickly that it’s not in the market to be sold, even to OpenAI, a source close to the company tells TechCrunch. It’s been a hot target. Cursor is one of the most popular AI-powered coding tools, and its revenue has been growing astronomically &#8212; doubling [&#8230;]]]></description>
+					<description><![CDATA[You’re not the only one thinking about where AI is headed. So why come alone? From now through May 4, buy your Early Bird ticket to TechCrunch Sessions: AI and save up to $210 — plus get 50% off a second ticket for your colleague, co-founder, collaborator, friend, or whoever you want to bring. It’s [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fluent Ventures backs replicated startup models in emerging markets</title>
+		<link>https://techcrunch.com/2025/04/23/fluent-ventures-backs-replicated-startup-models-in-emerging-markets/</link>
+		
+		<dc:creator><![CDATA[Tage Kene-Okafor]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 15:15:15 +0000</pubDate>
+				<category><![CDATA[Venture]]></category>
+		<category><![CDATA[emerging markets]]></category>
+		<category><![CDATA[Fluent Ventures]]></category>
+		<category><![CDATA[latin america]]></category>
+		<category><![CDATA[MENA]]></category>
+		<category><![CDATA[Southeast Asia]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2997521</guid>
+
+					<description><![CDATA[A new venture firm aims to prove that the most successful startup ideas don’t have to be born or scaled in Silicon Valley. Fluent Ventures, a global early-stage fund, is backing founders replicating proven business models from Western markets in fintech, digital health, and commerce across emerging markets. The more cynical might describe this as [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Meta&#8217;s Threads opens up ads to global advertisers</title>
+		<link>https://techcrunch.com/2025/04/23/metas-threads-opens-up-ads-to-global-advertisers/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 15:05:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[ad tech]]></category>
+		<category><![CDATA[Ads]]></category>
+		<category><![CDATA[Instagram]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[Threads]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2997736</guid>
+
+					<description><![CDATA[Months after first testing ads in select markets, including the U.S., Meta on Wednesday announced that its Instagram Threads app would now expand ads to all advertisers worldwide. The expansion will allow eligible advertisers to reach Threads&#8217; over 320 million monthly active users, and it will include access to an inventory filter to control the sensitivity level [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Amazon&#8217;s Starlink competitor runs into production delays</title>
+		<link>https://techcrunch.com/2025/04/23/amazons-starlink-competitor-runs-into-production-delays/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 15:01:38 +0000</pubDate>
+				<category><![CDATA[Space]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Project Kuiper]]></category>
+		<category><![CDATA[Starlink]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2997786</guid>
+
+					<description><![CDATA[Amazon&#8217;s Project Kuiper, the company&#8217;s initiative to launch a fleet of satellites into low-Earth orbit and beam internet connection to users, is struggling to ramp up production, Bloomberg reported on Wednesday. The competitor to Elon Musk&#8217;s Starlink has completed only a few dozen satellites, according to the report. The venture reportedly needs to quadruple its [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI note-taking app Fireflies adds new ways to extract insights from meeting notes</title>
+		<link>https://techcrunch.com/2025/04/23/ai-powered-notetaker-fireflies-ai-release-mini-apps-to-extract-insights-out-of-meeting-notes/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 15:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[AI note-taking]]></category>
+		<category><![CDATA[Fireflies]]></category>
+		<category><![CDATA[Khosla Ventures]]></category>
+		<category><![CDATA[meetings]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2996266</guid>
+
+					<description><![CDATA[Khosla Ventures-backed Fireflies.ai, an AI-powered note-taking app, on Wednesday released a set of domain-specific &#8220;mini apps&#8221; to extract insights from meeting transcripts automatically. With the widespread availability of automatic speech recognition models and generative AI, meeting intelligence startups like Otter, Read AI, Circleback, Krisp, and Granola have registered impressive growth. Fireflies, similarly, has seen 8x [&#8230;]]]></description>
 		
 		
 		

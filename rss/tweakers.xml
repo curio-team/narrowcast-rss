@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 23 Apr 2025 16:31:02 +0200</pubDate>
-        <lastBuildDate>Wed, 23 Apr 2025 16:31:02 +0200</lastBuildDate>
+        <pubDate>Thu, 24 Apr 2025 09:31:08 +0200</pubDate>
+        <lastBuildDate>Thu, 24 Apr 2025 09:31:08 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,196 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Bowers &amp; Wilkins brengt Px7 S3 over-ears uit voor 429 euro</title>
+            <link>https://tweakers.net/nieuws/234248/bowers-en-wilkins-brengt-px7-s3-over-ears-uit-voor-429-euro.html</link>
+            <description>Bowers &amp; Wilkins heeft donderdag de Bowers &amp; Wilkins Px7 S3 uitgebracht, een nieuwe over-earbluetoothhoofdtelefoon. Deze opvolger van de Px7 S2e zou verbeterde noisecancelling hebben en een betere geluidskwaliteit hebben. De Px7 S3 heeft een adviesprijs van 429 euro.</description>
+            <author>Sjef Weller</author>
+            <category>Nieuws / Beeld en geluid / Hoofdtelefoons</category>
+            <comments>https://tweakers.net/nieuws/234248/bowers-en-wilkins-brengt-px7-s3-over-ears-uit-voor-429-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234248</guid>
+            <pubDate>Thu, 24 Apr 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - DaVinci Resolve 20.0 bèta 2</title>
+            <link>https://tweakers.net/downloads/72444/davinci-resolve-200-beta-2.html</link>
+            <description>Blackmagic Design heeft de eerste bèta van versie 20.0 van DaVinci Resolve uitgebracht. DaVinci Resolve is een videobewerkingsprogramma voor Windows, macOS en Linux. Het is beschikbaar in de gratis DaVinci Resolve-uitvoering en het betaalde DaVinci Resolve Studio. Dat laatste beschikt over extra functionaliteit, zoals de mogelijkheid om in hogere resoluties en grotere aantallen frames per seconde te werken en de mogelijkheid om van extra grafische processors en OpenFX-plug-ins gebruik te maken. De verbeteringen die in versie 20.0 zijn aangebracht kun je op deze pagina vinden; dit is wat er in bèta 2 is veranderd: What&#039;s New in DaVinci Resolve 20 Public Beta 2</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72444/davinci-resolve-200-beta-2.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72444</guid>
+            <pubDate>Thu, 24 Apr 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - D&amp;D brengt nieuwe regels onder CC-licentie uit, publicatie eigen materiaal mag</title>
+            <link>https://tweakers.net/geek/234278/d-en-d-brengt-nieuwe-regels-onder-cc-licentie-uit-publicatie-eigen-materiaal-mag.html</link>
+            <description>Wizards of the Coast heeft de essentie van de nieuwste set regels voor Dungeons &amp; Dragons uitgebracht onder een Creative Commons-licentie. Dat betekent dat deze informatie gebruikt mag worden om eigen materiaal te maken rondom Dungeons &amp; Dragons.</description>
+            <author>Eveline Meijer</author>
+            <category>.Geek / Gaming / Games</category>
+            <comments>https://tweakers.net/geek/234278/d-en-d-brengt-nieuwe-regels-onder-cc-licentie-uit-publicatie-eigen-materiaal-mag.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/234278</guid>
+            <pubDate>Thu, 24 Apr 2025 08:47:02 +0200</pubDate>
+        </item>
+        <item>
+            <title>Lenovo introduceert nieuwe ThinkPad-laptops met AMD-cpu&#039;s</title>
+            <link>https://tweakers.net/nieuws/234274/lenovo-introduceert-nieuwe-thinkpad-laptops-met-amd-cpus.html</link>
+            <description>Lenovo heeft twee nieuwe ThinkPad Copilot+-laptops met AMD-cpu&#039;s aangekondigd. Het gaat om de zesde generatie ThinkPad P14s en de vierde generatie ThinkPad P16s. De laptops verschijnen in mei dit jaar. Ook zijn er twee nieuwe laptops in de zakelijke L-serie onthuld.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / Computers / Laptops</category>
+            <comments>https://tweakers.net/nieuws/234274/lenovo-introduceert-nieuwe-thinkpad-laptops-met-amd-cpus.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234274</guid>
+            <pubDate>Thu, 24 Apr 2025 08:03:22 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - SyncBackFree 11.3.99.0</title>
+            <link>https://tweakers.net/downloads/72440/syncbackfree-113990.html</link>
+            <description>2BrightSparks heeft versie 11.3.99.0 van SyncBackFree uitgebracht. Dit programma is de eenvoudigste en daarmee meteen ook de gratis uitvoering van de back-upsoftware die dit bedrijf in de aanbieding heeft. Naast back-ups maken kan SyncBackFree data synchroniseren. Dit kan naar een locatie op dezelfde of een andere schijf, of naar een ander medium, zoals een USB-stick, FTP-server of ziparchief. Naast deze gratis uitvoering zijn er ook SyncBackSE en SyncBackPro, die voor respectievelijk 48 en 65 euro extra functionaliteit bieden. De changelog voor deze uitgave is hieronder te vinden: New:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72440/syncbackfree-113990.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72440</guid>
+            <pubDate>Thu, 24 Apr 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Video - Bigtechboetes, smartphonelabels en nep-5090&#039;s - Tweakers Podcast #370</title>
+            <link>https://tweakers.net/video/19866/bigtechboetes-smartphonelabels-en-nep-5090s-tweakers-podcast-370.html</link>
+            <description>Deze week praten Arnoud Wokke, Jurian Ubachs, Jelle Stuip en Friso Weijers over de komende energielabels voor smartphones, de duurste laptops die er zijn, de plotselinge release van de Elder Scrolls Oblivion-remake, de DMA-boetes voor Meta en Apple en midrange-telefoons.</description>
+            <author>Redactie Tweakers</author>
+            <category>Video / IT Pro / Economie en maatschappij</category>
+            <comments>https://tweakers.net/video/19866/bigtechboetes-smartphonelabels-en-nep-5090s-tweakers-podcast-370.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/video/19866</guid>
+            <pubDate>Thu, 24 Apr 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Tweakers Podcast #370 - Bigtechboetes, smartphonelabels en nep-5090&#039;s</title>
+            <link>https://tweakers.net/geek/234252/tweakers-podcast-370-bigtechboetes-smartphonelabels-en-nep-5090s.html</link>
+            <description>Deze week praten Arnoud Wokke, Jurian Ubachs, Jelle Stuip en Friso Weijers over de komende energielabels voor smartphones, de duurste laptops die er zijn, de plotselinge release van de Elder Scrolls Oblivion-remake, de DMA-boetes voor Meta en Apple en midrange-telefoons.</description>
+            <author>Arnoud Wokke</author>
+            <category>.Geek / Beeld en geluid / Audio</category>
+            <comments>https://tweakers.net/geek/234252/tweakers-podcast-370-bigtechboetes-smartphonelabels-en-nep-5090s.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/234252</guid>
+            <pubDate>Thu, 24 Apr 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Quicktest - Vaarwel TrackPoint, hallo middelmatige prestaties - Lenovo ThinkPad X9 Quicktest</title>
+            <link>https://tweakers.net/reviews/13148/vaarwel-trackpoint-hallo-middelmatige-prestaties-lenovo-thinkpad-x9-quicktest.html</link>
+            <description>De ThinkPad X9 mist de iconische TrackPoint − een primeur voor Lenovo&#039;s zakelijke lijn. Hoe presteert deze dunne 14&quot;-laptop zonder rode nub?</description>
+            <author>Jelle Stuip</author>
+            <category>Quicktest / Computers / Laptops</category>
+            <comments>https://tweakers.net/reviews/13148/vaarwel-trackpoint-hallo-middelmatige-prestaties-lenovo-thinkpad-x9-quicktest.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13148</guid>
+            <pubDate>Thu, 24 Apr 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Eerste YouTube-video &#039;Me at the zoo&#039; kwam twintig jaar geleden online</title>
+            <link>https://tweakers.net/geek/234232/eerste-youtube-video-me-at-the-zoo-kwam-twintig-jaar-geleden-online.html</link>
+            <description>&#039;Me at the zoo&#039;, de eerste video die op YouTube werd gedeeld, bestaat twintig jaar. De video werd op 24 april om 5.31 uur Nederlandse tijd geüpload door Jawed Karim, een van de oprichters van YouTube.</description>
+            <author>Sabine Schults</author>
+            <category>.Geek / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/geek/234232/eerste-youtube-video-me-at-the-zoo-kwam-twintig-jaar-geleden-online.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/234232</guid>
+            <pubDate>Thu, 24 Apr 2025 05:31:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>TSMC begint in 2028 met de productie van &#039;1,4nm&#039;-chips</title>
+            <link>https://tweakers.net/nieuws/234270/tsmc-begint-in-2028-met-de-productie-van-1-komma-4nm-chips.html</link>
+            <description>TSMC heeft een nieuw &#039;1,4nm&#039;-procedé aangekondigd. Deze node, genaamd A14, maakt wederom gebruik van nanosheettransistors. De productie op A14 moet in 2028 van start gaan. Een jaar later volgt een verbeterde versie met backside power delivery.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/234270/tsmc-begint-in-2028-met-de-productie-van-1-komma-4nm-chips.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234270</guid>
+            <pubDate>Wed, 23 Apr 2025 21:26:24 +0200</pubDate>
+        </item>
+        <item>
+            <title>Discord-medeoprichter Jason Citron stapt op als ceo</title>
+            <link>https://tweakers.net/nieuws/234268/discord-medeoprichter-jason-citron-stapt-op-als-ceo.html</link>
+            <description>Jason Citron, de ceo en medeoprichter van chatdienst Discord, gaat opstappen. Hij wordt opgevolgd door Humam Sakhnini, die eerder werkte voor Activision Blizzard en King. Citron blijft lid van de raad van bestuur en wordt daarnaast een adviseur voor de nieuwe topman.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/234268/discord-medeoprichter-jason-citron-stapt-op-als-ceo.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234268</guid>
+            <pubDate>Wed, 23 Apr 2025 20:39:11 +0200</pubDate>
+        </item>
+        <item>
+            <title>WhatsApp voorkomt ongewenst exporteren van chatgesprekken met nieuwe functie</title>
+            <link>https://tweakers.net/nieuws/234266/whatsapp-voorkomt-ongewenst-exporteren-van-chatgesprekken-met-nieuwe-functie.html</link>
+            <description>WhatsApp komt met een nieuwe privacyfunctie. Met die feature kunnen gebruikers voorkomen dat hun chatgesprekken worden geëxporteerd door de ontvangers. De functie wordt toegevoegd aan de nieuwste versie van de chatdienst.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/234266/whatsapp-voorkomt-ongewenst-exporteren-van-chatgesprekken-met-nieuwe-functie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234266</guid>
+            <pubDate>Wed, 23 Apr 2025 20:07:58 +0200</pubDate>
+        </item>
+        <item>
+            <title>Driver-update - AMD Ryzen Chipset Drivers 7.04.09.545</title>
+            <link>https://tweakers.net/downloads/72442/amd-ryzen-chipset-drivers-70409545.html</link>
+            <description>AMD heeft een nieuwe versie van zijn Ryzen Chipset-drivers uitgebracht. De drivers zijn geschikt voor de zevende generatie AMD A-processoren en hoger, en de TRX40-chipsets en hoger. De drivers zijn geschikt voor Windows 10 en 11. Voor installatie-instructies verwijst AMD naar deze pagina. In deze uitgave zijn enkele problemen verholpen, maar AMD treedt niet in detail. De complete changelog ziet er als volgt uit: Release Highlights</description>
+            <author>Bart van Klaveren</author>
+            <category>Driver</category>
+            <comments>https://tweakers.net/downloads/72442/amd-ryzen-chipset-drivers-70409545.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72442</guid>
+            <pubDate>Wed, 23 Apr 2025 19:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Xbox Cloud Gaming is vanaf nu beschikbaar voor LG-televisies</title>
+            <link>https://tweakers.net/nieuws/234264/xbox-cloud-gaming-is-vanaf-nu-beschikbaar-voor-lg-televisies.html</link>
+            <description>Microsoft heeft zijn Xbox-app uitgebracht voor LG-televisies. De app laat gebruikers Xbox-games direct naar hun tv streamen vanuit de cloud. De dienst komt beschikbaar voor bepaalde smart-tv&#039;s en LG-monitors die webOS 24 of nieuwer draaien.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Beeld en geluid / Televisies</category>
+            <comments>https://tweakers.net/nieuws/234264/xbox-cloud-gaming-is-vanaf-nu-beschikbaar-voor-lg-televisies.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234264</guid>
+            <pubDate>Wed, 23 Apr 2025 19:06:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nvidia&#039;s AI-gamingchatbot krijgt plug-ins voor Spotify, Twitch en meer</title>
+            <link>https://tweakers.net/nieuws/234254/nvidias-ai-gamingchatbot-krijgt-plug-ins-voor-spotify-twitch-en-meer.html</link>
+            <description>Nvidia&#039;s G-Assist-chatbot krijgt ondersteuning voor plug-ins. De gamingchatbot kan daarmee geïntegreerd worden met andere apps en diensten. Er zijn inmiddels plug-ins te downloaden voor diensten als Spotify, livestreamingplatform Twitch, Google Gemini en meer.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/234254/nvidias-ai-gamingchatbot-krijgt-plug-ins-voor-spotify-twitch-en-meer.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234254</guid>
+            <pubDate>Wed, 23 Apr 2025 18:02:05 +0200</pubDate>
+        </item>
+        <item>
+            <title>Videopreview - Comeback van een classic! The Elder Scrolls IV: Oblivion Remastered</title>
+            <link>https://tweakers.net/video/19864/comeback-van-een-classic-the-elder-scrolls-iv-oblivion-remastered.html</link>
+            <description>Dinsdagavond kondigde Bethesda Softworks niet alleen The Elder Scrolls IV: Oblivion Remastered aan, de game werd ook meteen uitgebracht. Gameredacteur Jurian Ubachs sprong direct bovenop deze nieuwe versie van een van zijn favoriete games aller tijden en bekeek wat voor vlees we in de rpg-kuip hebben.</description>
+            <author>Luke van Drie</author>
+            <category>Videopreview / Gaming / Games</category>
+            <comments>https://tweakers.net/video/19864/comeback-van-een-classic-the-elder-scrolls-iv-oblivion-remastered.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/video/19864</guid>
+            <pubDate>Wed, 23 Apr 2025 18:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>AMD kondigt op 21 mei nieuwe gamingproducten aan tijdens Computex-presentatie</title>
+            <link>https://tweakers.net/nieuws/234260/amd-kondigt-op-21-mei-nieuwe-gamingproducten-aan-tijdens-computex-presentatie.html</link>
+            <description>AMD houdt op woensdag 21 mei een persconferentie tijdens de Computex. Het bedrijf gaat dan onder andere gamingproducten aankondigen. Het bedrijf noemt geen concrete voorbeelden, maar naar verwachting gaat het onder meer om de Radeon RX 9060 XT-videokaart.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/234260/amd-kondigt-op-21-mei-nieuwe-gamingproducten-aan-tijdens-computex-presentatie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234260</guid>
+            <pubDate>Wed, 23 Apr 2025 17:21:08 +0200</pubDate>
+        </item>
+        <item>
+            <title>IWF waarschuwt voor toename aantal kindermisbruikbeelden dat in EU gehost wordt</title>
+            <link>https://tweakers.net/nieuws/234258/iwf-waarschuwt-voor-toename-aantal-kindermisbruikbeelden-dat-in-eu-gehost-wordt.html</link>
+            <description>Het aantal kindermisbruikbeelden dat binnen de Europese Unie wordt gehost, lijkt het afgelopen jaar te zijn gestegen. Dat zegt de Britse Internet Watch Foundation. Het aantal gevonden URL&#039;s met kindermisbruikmateriaal dat wordt gehost in de EU steeg in 2024 met 11 procentpunt.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / IT Pro / Internet</category>
+            <comments>https://tweakers.net/nieuws/234258/iwf-waarschuwt-voor-toename-aantal-kindermisbruikbeelden-dat-in-eu-gehost-wordt.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234258</guid>
+            <pubDate>Wed, 23 Apr 2025 17:14:41 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - NVCleanstall 1.19.0</title>
+            <link>https://tweakers.net/downloads/72438/nvcleanstall-1190.html</link>
+            <description>NVCleanstall is een programma waarmee een aangepaste installatie van Nvidia-videokaartdrivers kan worden gemaakt. Zo kunnen componenten worden verwijderd die je niet nodig hebt of niet wilt hebben, maar die niet in het standaard installatiebestand uitgeschakeld kunnen worden. Het programma kan werken met een driver die reeds geïnstalleerd is, een installatiebestand dat al gedownload is, of het kan een driver naar keuze ophalen van de Nvidia-website. Daarna wordt de driver uitgepakt en worden de gewenste aanpassingen doorgevoerd. Het resultaat is een ongecomprimeerde map met bestanden die weliswaar groter is, maar veel minder installeert. De changelog voor deze uitgave ziet er als volgt uit: Changes in version 1.19.0:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72438/nvcleanstall-1190.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72438</guid>
+            <pubDate>Wed, 23 Apr 2025 16:36:17 +0200</pubDate>
+        </item>
         <item>
             <title>Ghost of Yōtei komt in oktober uit voor de PlayStation 5</title>
             <link>https://tweakers.net/nieuws/234256/ghost-of-yotei-komt-in-oktober-uit-voor-de-playstation-5.html</link>
@@ -140,7 +330,7 @@
         <item>
             <title>Software-update - Obsidian 1.8.10</title>
             <link>https://tweakers.net/downloads/72432/obsidian-1810.html</link>
-            <description>Versie 1.8.10 van Obsidian is uitgekomen. Het gaat om een versie die alleen beschikbaar is voor gebruikers die een betaalde Catalyst-licentie hebben. Obsidian is een applicatie voor het maken van notities en is beschikbaar voor Android, iOS, Windows, Linux en macOS. Notities worden lokaal in Markdown opgeslagen, waardoor je altijd baas over je eigen data bent en deze eenvoudig naar een ander platform is te converteren. Het programma is uiterst aanpasbaar met honderden plug-ins en gratis te gebruiken, maar voor commercieel gebruik of bepaalde functionaliteit, zoals end-to-endversleuteling of versiecontrole, wordt wel een vergoeding gevraagd. De changelog sinds versie 1.8.8 ziet er als volgt uit:</description>
+            <description>Versie 1.8.10 van Obsidian is uitgekomen. Obsidian is een applicatie voor het maken van notities en is beschikbaar voor Android, iOS, Windows, Linux en macOS. Notities worden lokaal in Markdown opgeslagen, waardoor je altijd baas over je eigen data bent en deze eenvoudig naar een ander platform is te converteren. Het programma is uiterst aanpasbaar met honderden plug-ins en gratis te gebruiken, maar voor commercieel gebruik of bepaalde functionaliteit, zoals end-to-endversleuteling of versiecontrole, wordt wel een vergoeding gevraagd. De changelog sinds versie 1.8.8 ziet er als volgt uit:</description>
             <author>Bart van Klaveren</author>
             <category>Software</category>
             <comments>https://tweakers.net/downloads/72432/obsidian-1810.html#reacties</comments>
@@ -226,196 +416,6 @@
             <comments>https://tweakers.net/downloads/72426/enpass-61110.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72426</guid>
             <pubDate>Tue, 22 Apr 2025 17:45:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Bethesda brengt Unreal Engine 5-remaster van The Elder Scrolls IV: Oblivion uit</title>
-            <link>https://tweakers.net/nieuws/234218/bethesda-brengt-unreal-engine-5-remaster-van-the-elder-scrolls-iv-oblivion-uit.html</link>
-            <description>Bethesda Softworks en Virtuos brengen per direct The Elder Scrolls IV: Oblivion Remastered uit. De game is inhoudelijk grotendeels gelijk aan het origineel uit 2006, maar is opnieuw opgebouwd op basis van Unreal Engine 5. De game kost 55 euro en is ook via Xbox Game Pass verkrijgbaar.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/234218/bethesda-brengt-unreal-engine-5-remaster-van-the-elder-scrolls-iv-oblivion-uit.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234218</guid>
-            <pubDate>Tue, 22 Apr 2025 17:35:56 +0200</pubDate>
-        </item>
-        <item>
-            <title>MIVD: Nederland in 2024 doelwit van Russische cybersabotage en -spionage</title>
-            <link>https://tweakers.net/nieuws/234214/mivd-nederland-in-2024-doelwit-van-russische-cybersabotage-en-spionage.html</link>
-            <description>Nederland was in 2024 meermaals het doelwit van Russische cyberaanvallen, waaronder een poging tot cybersabotage van het &#039;digitale besturingssysteem van een publieksvoorziening&#039;. Nederland verkeert volgens de MIVD daarom in de &#039;grijze zone tussen oorlog en vrede&#039;.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/234214/mivd-nederland-in-2024-doelwit-van-russische-cybersabotage-en-spionage.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234214</guid>
-            <pubDate>Tue, 22 Apr 2025 16:34:14 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - AdGuard Home 0.107.61</title>
-            <link>https://tweakers.net/downloads/72424/adguard-home-010761.html</link>
-            <description>AdGuard Home versie 0.107.61 is uitgekomen. Met deze software kan er thuis een DNS-server worden opgezet om zo onder meer advertenties en malware te blokkeren op het hele netwerk, waardoor dat niet langer op elk individueel apparaat nodig is. Het is daarmee dus vergelijkbaar met Pi-hole. AdGuard Home werkt op een machine met Windows, macOS, Linux of FreeBSD, is ook in staat om tegen phishing te beschermen en heeft parental control. Op ons eigen forum kan over het programma worden gediscussieerd. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: AdGuard Home v0.107.61</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72424/adguard-home-010761.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72424</guid>
-            <pubDate>Tue, 22 Apr 2025 16:15:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Stoppen OpenDNS-dienst in België is tijdelijke reactie op bevel blokkeren sites</title>
-            <link>https://tweakers.net/nieuws/234212/stoppen-opendns-dienst-in-belgie-is-tijdelijke-reactie-op-bevel-blokkeren-sites.html</link>
-            <description>OpenDNS stopt tijdelijk met het leveren van zijn gratis DNS-resolverdienst in België vanwege een rechtelijk bevel. Het moederbedrijf Cisco moet Belgische internetgebruikers namelijk de toegang tot bepaalde websites ontzeggen. Het stoppen van de dienst is een tijdelijk oplossing.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/234212/stoppen-opendns-dienst-in-belgie-is-tijdelijke-reactie-op-bevel-blokkeren-sites.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234212</guid>
-            <pubDate>Tue, 22 Apr 2025 15:58:35 +0200</pubDate>
-        </item>
-        <item>
-            <title>Europese tak processorkoelerfabrikant Scythe dreigt failliet te gaan</title>
-            <link>https://tweakers.net/nieuws/234210/europese-tak-processorkoelerfabrikant-scythe-dreigt-failliet-te-gaan.html</link>
-            <description>Scythe EU GmbH kampt met financiële problemen. Een Duitse rechtbank zou de Europese tak van de processorkoelerfabrikant onder voorlopig insolventiebeheer hebben gesteld. Scythes koelers zijn momenteel ook hier slecht verkrijgbaar. Het hoofdkwartier van het bedrijf is gevestigd in Tokio, Japan.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Computers / Processorkoeling</category>
-            <comments>https://tweakers.net/nieuws/234210/europese-tak-processorkoelerfabrikant-scythe-dreigt-failliet-te-gaan.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234210</guid>
-            <pubDate>Tue, 22 Apr 2025 15:09:35 +0200</pubDate>
-        </item>
-        <item>
-            <title>Bluesky laat vertrouwde accounts andere gebruikers blauwe vinkjes geven</title>
-            <link>https://tweakers.net/nieuws/234188/bluesky-laat-vertrouwde-accounts-andere-gebruikers-blauwe-vinkjes-geven.html</link>
-            <description>Bluesky gaat vertrouwde accounthouders gebruikers laten verifiëren. Zo kan bijvoorbeeld een medium de eigen medewerkers een blauw vinkje geven in de app. Bluesky gaat vooralsnog zelf geen blauwe vinkjes uitdelen.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/nieuws/234188/bluesky-laat-vertrouwde-accounts-andere-gebruikers-blauwe-vinkjes-geven.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234188</guid>
-            <pubDate>Tue, 22 Apr 2025 15:00:25 +0200</pubDate>
-        </item>
-        <item>
-            <title>Sony voegde 4k-toggle toe aan Xperia 1 V en gaat hem weer weghalen</title>
-            <link>https://tweakers.net/nieuws/234202/sony-voegde-4k-toggle-toe-aan-xperia-1-v-en-gaat-hem-weer-weghalen.html</link>
-            <description>Sony heeft met de Android 15-upgrade voor zijn Xperia 1 V een toggle toegevoegd aan de instellingen om het beeldscherm te forceren op volledige resolutie, 3840x1644 pixels. Die werkt niet en het menu verdwijnt met de volgende update, zegt de fabrikant.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/234202/sony-voegde-4k-toggle-toe-aan-xperia-1-v-en-gaat-hem-weer-weghalen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234202</guid>
-            <pubDate>Tue, 22 Apr 2025 14:59:43 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Foxit PDF Reader 2025.1.0</title>
-            <link>https://tweakers.net/downloads/72422/foxit-pdf-reader-202510.html</link>
-            <description>Foxit Software heeft versie 2025.1.0 van Foxit PDF Reader uitgebracht, een alternatief voor Adobe Reader. Met dit gratis programma kunnen pdf-documenten bekeken, ingevuld en ondertekend worden. Voor het bewerken van pdf-documenten heeft Foxit Software het betaalde Foxit PDF Editor (voorheen PhantomPDF) in huis, vergelijkbaar met Acrobat Pro DC. Gebruik je de interne updatefunctie, vergeet dan niet het vinkje weg te halen voor het downloaden en installeren van PDF Editor. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Enhancements to AI Assistant</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72422/foxit-pdf-reader-202510.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72422</guid>
-            <pubDate>Tue, 22 Apr 2025 14:48:32 +0200</pubDate>
-        </item>
-        <item>
-            <title>WD en Microsoft halen zeldzame aardmetalen uit 21.000kg aan hdd&#039;s en ssd&#039;s</title>
-            <link>https://tweakers.net/nieuws/234206/wd-en-microsoft-halen-zeldzame-aardmetalen-uit-21000kg-aan-hdds-en-ssds.html</link>
-            <description>Western Digital heeft verschillende zeldzame aardmetalen teruggewonnen uit duizenden kilo’s versleten hdd’s, ssd’s en schijfkooien. Het succesvolle pilotproject zou aantonen dat het mogelijk is om deze materialen op grote schaal in de VS te recyclen.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Computers / Interne harde schijven</category>
-            <comments>https://tweakers.net/nieuws/234206/wd-en-microsoft-halen-zeldzame-aardmetalen-uit-21000kg-aan-hdds-en-ssds.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234206</guid>
-            <pubDate>Tue, 22 Apr 2025 14:24:10 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nederlands kabinet: overheden mogen AI gebruiken, liefst opensource en Europees</title>
-            <link>https://tweakers.net/nieuws/234208/nederlands-kabinet-overheden-mogen-ai-gebruiken-liefst-opensource-en-europees.html</link>
-            <description>Nederlandse overheidsdiensten mogen generatieve kunstmatige intelligentie gebruiken en liefst zijn het daarbij Europese diensten die opensource zijn. Dat zegt het kabinet in een nieuw standpunt over het gebruik van AI.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/234208/nederlands-kabinet-overheden-mogen-ai-gebruiken-liefst-opensource-en-europees.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234208</guid>
-            <pubDate>Tue, 22 Apr 2025 13:54:59 +0200</pubDate>
-        </item>
-        <item>
-            <title>KPN introduceert tv-ontvanger met ingebouwde speaker</title>
-            <link>https://tweakers.net/nieuws/234204/kpn-introduceert-tv-ontvanger-met-ingebouwde-speaker.html</link>
-            <description>KPN introduceert een tv-ontvanger met ingebouwde speaker, de TV+ Soundbox. Die heeft een geluidssysteem met &#039;Bang en Olufsen audiodesign&#039;. Daarnaast ondersteunt hij net als de reguliere tv-box 4K-beelden en Dolby Atmos.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Beeld en geluid / Overige audio</category>
-            <comments>https://tweakers.net/nieuws/234204/kpn-introduceert-tv-ontvanger-met-ingebouwde-speaker.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234204</guid>
-            <pubDate>Tue, 22 Apr 2025 13:39:28 +0200</pubDate>
-        </item>
-        <item>
-            <title>Instagram begint met AI om tieners op te sporen die liegen over leeftijd</title>
-            <link>https://tweakers.net/nieuws/234196/instagram-begint-met-ai-om-tieners-op-te-sporen-die-liegen-over-leeftijd.html</link>
-            <description>Instagram is in de Verenigde Staten begonnen met het gebruik van kunstmatige intelligentie om minderjarigen op te sporen die liegen over hun leeftijd. Dat gebeurt onder meer aan de hand van hun gebruik en berichten die ze krijgen.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/234196/instagram-begint-met-ai-om-tieners-op-te-sporen-die-liegen-over-leeftijd.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234196</guid>
-            <pubDate>Tue, 22 Apr 2025 13:28:33 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google betaalt Samsung voor voorgeïnstalleerde Gemini op Galaxy-telefoons</title>
-            <link>https://tweakers.net/nieuws/234200/google-betaalt-samsung-voor-voorgeinstalleerde-gemini-op-galaxy-telefoons.html</link>
-            <description>Google betaalt Samsung maandelijks een groot geldbedrag om Gemini op alle Galaxy-telefoons te zetten. Dat blijkt uit getuigenverklaringen tijdens een Amerikaanse rechtszaak. De betalingen begonnen een paar maanden geleden.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/234200/google-betaalt-samsung-voor-voorgeinstalleerde-gemini-op-galaxy-telefoons.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234200</guid>
-            <pubDate>Tue, 22 Apr 2025 13:00:16 +0200</pubDate>
-        </item>
-        <item>
-            <title>EU eist vanaf 20 juni energie- en duurzaamheidslabel voor smartphones en tablets</title>
-            <link>https://tweakers.net/nieuws/234198/eu-eist-vanaf-20-juni-energie-en-duurzaamheidslabel-voor-smartphones-en-tablets.html</link>
-            <description>De Europese Unie verplicht dat smartphone- en tabletfabrikanten vanaf 20 juni 2025 een nieuw label toepassen. Gebruikers kunnen zich hierdoor informeren over de efficiëntie en duurzaamheid van het toestel. De EU gaat ook verschillende duurzaamheidsregels invoeren voor deze apparaten.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Tablets en telefoons / Telefoons</category>
-            <comments>https://tweakers.net/nieuws/234198/eu-eist-vanaf-20-juni-energie-en-duurzaamheidslabel-voor-smartphones-en-tablets.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234198</guid>
-            <pubDate>Tue, 22 Apr 2025 13:00:04 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft Recall-functie is makkelijk te kraken en slaat creditcardgegevens op</title>
-            <link>https://tweakers.net/nieuws/234192/microsoft-recall-functie-is-makkelijk-te-kraken-en-slaat-creditcardgegevens-op.html</link>
-            <description>Recall, de Windows-functie om alles wat gebruikers doen op de pc op te slaan en doorzoekbaar te maken, is makkelijk te kraken met alleen een pincode en slaat bovendien gevoelige gegevens op, terwijl dat niet zou moeten.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Computers / Besturingssystemen</category>
-            <comments>https://tweakers.net/nieuws/234192/microsoft-recall-functie-is-makkelijk-te-kraken-en-slaat-creditcardgegevens-op.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234192</guid>
-            <pubDate>Tue, 22 Apr 2025 12:30:20 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Text Editor Pro 32.0.0</title>
-            <link>https://tweakers.net/downloads/72420/text-editor-pro-3200.html</link>
-            <description>Versie 32.0.0 van Text Editor Pro is uitgekomen. Deze gratis, kleine en eenvoudige teksteditor heeft uitgebreide mogelijkheden, die vooral voor softwareontwikkelaars interessant zijn. Zo zijn er syntaxhighlighting voor meer dan vijftig script- en programmeertalen, macro&#039;s en verticale selectieblokken, en kan het programma bestanden vergelijken. Het programma wordt actief ontwikkeld en regelmatig verschijnen er nieuwe versies met kleine verbeteringen. Sinds versie 31.3.1 zijn de volgende veranderingen en verbeteringen aangebracht: Changes in Text Editor Pro version 32.0.0:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72420/text-editor-pro-3200.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72420</guid>
-            <pubDate>Tue, 22 Apr 2025 12:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>TSMC zegt dat het niks kan doen als klant chips doorsluist naar Huawei</title>
-            <link>https://tweakers.net/nieuws/234186/tsmc-zegt-dat-het-niks-kan-doen-als-klant-chips-doorsluist-naar-huawei.html</link>
-            <description>Chipfabrikant TSMC zegt er weinig aan te kunnen doen dat Huawei zijn chips heeft gebruikt in zijn socs. Dat kwam vorig najaar naar buiten. Volgens TSMC heeft het geen zicht op wat zijn klanten precies doen met geleverde chips.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Computers / Processors</category>
-            <comments>https://tweakers.net/nieuws/234186/tsmc-zegt-dat-het-niks-kan-doen-als-klant-chips-doorsluist-naar-huawei.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234186</guid>
-            <pubDate>Tue, 22 Apr 2025 11:31:38 +0200</pubDate>
-        </item>
-        <item>
-            <title>ASN, SNS en RegioBank hebben storing met website en app</title>
-            <link>https://tweakers.net/nieuws/234190/asn-sns-en-regiobank-hebben-storing-met-website-en-app.html</link>
-            <description>De banken onder de Volksbank, waaronder de SNS Bank, ASN Bank en RegioBank, hebben momenteel last van een storing. De websites van deze banken zijn niet bereikbaar en gebruikers kunnen niet inloggen in de app.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / IT Pro / Economie en maatschappij</category>
-            <comments>https://tweakers.net/nieuws/234190/asn-sns-en-regiobank-hebben-storing-met-website-en-app.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234190</guid>
-            <pubDate>Tue, 22 Apr 2025 11:30:56 +0200</pubDate>
-        </item>
-        <item>
-            <title>Meer dan duizend kamers in Vlaamse woonzorgcentra hebben valsensoren met AI</title>
-            <link>https://tweakers.net/nieuws/234182/meer-dan-duizend-kamers-in-vlaamse-woonzorgcentra-hebben-valsensoren-met-ai.html</link>
-            <description>Er hangen in iets meer dan duizend kamers in Vlaamse woonzorgcentra systemen die met behulp van AI alarm slaan wanneer een bewoner valt. Op die manier krijgen verpleegkundigen meteen te horen wanneer ze een bewoner moeten gaan helpen.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / IT Pro / Economie en maatschappij</category>
-            <comments>https://tweakers.net/nieuws/234182/meer-dan-duizend-kamers-in-vlaamse-woonzorgcentra-hebben-valsensoren-met-ai.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234182</guid>
-            <pubDate>Tue, 22 Apr 2025 11:04:13 +0200</pubDate>
         </item>
     </channel>
 </rss>
