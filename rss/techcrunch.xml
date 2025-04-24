@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 24 Apr 2025 09:14:59 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 24 Apr 2025 13:35:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,43 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Revolut, the $45B neobank, posts $1B profit in 2024</title>
+		<link>https://techcrunch.com/2025/04/24/revolut-the-45b-neobank-posts-1b-profit-in-2024/</link>
+		
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+		<pubDate>Thu, 24 Apr 2025 13:34:56 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[neobank]]></category>
+		<category><![CDATA[neobanks]]></category>
+		<category><![CDATA[Revolut]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2998297</guid>
+
+					<description><![CDATA[Revolut, the $45 billion neobanking startup founded in the U.K., may have put its IPO plans on ice, but its balance sheet is looking pretty hot. The company reported net profit of $1 billion (£790 million) in 2024, while its customer base grew by 38% to 52.5 million, according to its annual report. Revenues increased [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Dropbox adds new features to Dash, its AI-powered search tool</title>
+		<link>https://techcrunch.com/2025/04/24/dropbox-adds-new-features-to-its-ai-powered-search-tool-dash/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 24 Apr 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Dropbox]]></category>
+		<category><![CDATA[Dash]]></category>
+		<category><![CDATA[AI search]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2996262</guid>
+
+					<description><![CDATA[Companies like Google and Microsoft have equipped their productivity suites with AI features and assistants, while startups such as ClickUp and ReadAI have focused heavily on building AI integrations and search capabilities. In alignment with this growing trend of infusing digital work suites with AI, Dropbox on Thursday upgraded its AI search tool, Dash, first [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Uber, Volkswagen pair up to launch robotaxi service in US with self-driving, electric microbuses</title>
 		<link>https://techcrunch.com/2025/04/24/uber-and-volkswagen-pair-up-to-launch-robotaxi-service-with-self-driving-electric-microbuses/</link>
 		
@@ -336,39 +373,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2997865</guid>
 
 					<description><![CDATA[Protests against Elon Musk and Tesla have been spreading around the world thanks to the CEO&#8217;s involvement in the Trump administration. Now those protests are listed as an official &#8220;risk factor&#8221; in paperwork Tesla is required to file with federal regulators. The new language, filed with the Securities and Exchange Commission on Wednesday morning, shows [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI makes its upgraded image generator available to developers</title>
-		<link>https://techcrunch.com/2025/04/23/openai-makes-its-upgraded-image-generator-available-to-developers/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 17:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[api]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2997789</guid>
-
-					<description><![CDATA[OpenAI on Wednesday brought the tech behind its new and improved image generation feature in ChatGPT to its API, allowing developers to integrate it into their apps and services. OpenAI’s new image generator, which launched for most ChatGPT users in late March, went viral for its ability to create realistic Ghibli-style photos and &#8220;AI action figures.&#8221; [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Gemini has 350M monthly users, reveals court hearing</title>
-		<link>https://techcrunch.com/2025/04/23/google-gemini-has-350m-monthly-users-reveals-court-hearing/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 15:52:45 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI chatbots]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[google gemini]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2997820</guid>
-
-					<description><![CDATA[Gemini, Google&#8217;s AI chatbot, had 350 million monthly active users around the globe as of March, according to internal data revealed in Google&#8217;s ongoing antitrust suit. The Information first reported the stat. Usage of Google&#8217;s AI offerings has exploded in the last year. Gemini had just 9 million daily active users in October 2024, but [&#8230;]]]></description>
 		
 		
 		
