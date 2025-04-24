@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 24 Apr 2025 13:31:05 +0200</pubDate>
-        <lastBuildDate>Thu, 24 Apr 2025 13:31:05 +0200</lastBuildDate>
+        <pubDate>Thu, 24 Apr 2025 14:41:03 +0200</pubDate>
+        <lastBuildDate>Thu, 24 Apr 2025 14:41:03 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,12 +18,22 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
-            <title>AP benadrukt dat bezwaar maken tegen Instagrams AI-training voor 27 mei moet</title>
-            <link>https://tweakers.net/nieuws/234290/ap-benadrukt-dat-bezwaar-maken-tegen-instagrams-ai-training-voor-27-mei-moet.html</link>
+            <title>Kassa&#039;s Delhaize selecteren door bug producten die klanten niet hebben gekocht</title>
+            <link>https://tweakers.net/nieuws/234292/kassas-delhaize-selecteren-door-bug-producten-die-klanten-niet-hebben-gekocht.html</link>
+            <description>Het kassasysteem van de Belgische supermarktketen Delhaize slaat al maanden producten aan die klanten helemaal niet hebben gekocht. Daardoor betalen klanten soms tot tientallen euro&#039;s extra voor een product dat ze niet hebben ontvangen.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / Computers / Software</category>
+            <comments>https://tweakers.net/nieuws/234292/kassas-delhaize-selecteren-door-bug-producten-die-klanten-niet-hebben-gekocht.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234292</guid>
+            <pubDate>Thu, 24 Apr 2025 13:49:13 +0200</pubDate>
+        </item>
+        <item>
+            <title>AP benadrukt dat bezwaar maken tegen AI-training Instagram voor 27 mei moet</title>
+            <link>https://tweakers.net/nieuws/234290/ap-benadrukt-dat-bezwaar-maken-tegen-ai-training-instagram-voor-27-mei-moet.html</link>
             <description>Facebook- en Instagram-eigenaar Meta gaat vanaf 27 mei openbare data van gebruikers inzetten voor het trainen van zijn AI. Wie dat niet wil, moet nu al bezwaar maken, zo waarschuwt de Nederlandse privacytoezichthouder Autoriteit Persoonsgegevens.</description>
             <author>Eveline Meijer</author>
             <category>Nieuws / IT Pro / Privacy</category>
-            <comments>https://tweakers.net/nieuws/234290/ap-benadrukt-dat-bezwaar-maken-tegen-instagrams-ai-training-voor-27-mei-moet.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/234290/ap-benadrukt-dat-bezwaar-maken-tegen-ai-training-instagram-voor-27-mei-moet.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234290</guid>
             <pubDate>Thu, 24 Apr 2025 13:18:50 +0200</pubDate>
         </item>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/234224/ahold-waarschuwt-duizenden-medewerkers-na-datadiefstal.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234224</guid>
             <pubDate>Wed, 23 Apr 2025 08:07:50 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - BurnAware 18.6</title>
-            <link>https://tweakers.net/downloads/72430/burnaware-186.html</link>
-            <description>Versie 18.6 van het cd-, dvd- en blu-raybrandprogramma BurnAware is uitgekomen. Dit programma is beschikbaar in een Free-versie en in betaalde Premium- en Professional-edities, met prijzen van respectievelijk dertig en veertig dollar. De betaalde uitvoeringen hebben extra functionaliteit, zoals voor het kopiëren van schijfjes en het rippen van audio-cd&#039;s. Op deze pagina worden de verschillende edities tegen elkaar afgezet. De gratis versie wordt gebundeld met optionele extra&#039;s; hier staat een versie waar die niet in zitten. In deze uitgave zijn de volgende verbeteringen doorgevoerd: Enhancements</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72430/burnaware-186.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72430</guid>
-            <pubDate>Wed, 23 Apr 2025 07:30:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
