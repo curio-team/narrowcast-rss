@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 25 Apr 2025 12:31:01 +0200</pubDate>
-        <lastBuildDate>Fri, 25 Apr 2025 12:31:01 +0200</lastBuildDate>
+        <pubDate>Fri, 25 Apr 2025 13:26:01 +0200</pubDate>
+        <lastBuildDate>Fri, 25 Apr 2025 13:26:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>CBS gebruikt data van slimme energiemeters voor voorspellingen</title>
+            <link>https://tweakers.net/nieuws/234340/cbs-gebruikt-data-van-slimme-energiemeters-voor-voorspellingen.html</link>
+            <description>Het Nederlands Centraal Bureau voor de Statistiek is begonnen met het verwerken van data van energiemeters van Nederlandse huishoudens. Het CBS krijgt voortaan toegang tot de gegevens van vrijwel alle 14,2 miljoen slimme meters. Het CBS wil zo nauwkeurigere voorspellingen doen.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Privacy</category>
+            <comments>https://tweakers.net/nieuws/234340/cbs-gebruikt-data-van-slimme-energiemeters-voor-voorspellingen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234340</guid>
+            <pubDate>Fri, 25 Apr 2025 13:15:01 +0200</pubDate>
+        </item>
         <item>
             <title>OnePlus brengt OnePlus 13T met aanpasbare knop en grote accu in China uit</title>
             <link>https://tweakers.net/nieuws/234326/oneplus-brengt-oneplus-13t-met-aanpasbare-knop-en-grote-accu-in-china-uit.html</link>
@@ -405,16 +415,6 @@
             <category>Quicktest / Computers / Laptops</category>
             <comments>https://tweakers.net/reviews/13148/lenovo-thinkpad-x9-vaarwel-trackpoint-hallo-middelmatige-prestaties.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13148</guid>
-            <pubDate>Thu, 24 Apr 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Tweakers Podcast #370 - Bigtechboetes, smartphonelabels en nep-5090&#039;s</title>
-            <link>https://tweakers.net/geek/234252/tweakers-podcast-370-bigtechboetes-smartphonelabels-en-nep-5090s.html</link>
-            <description>Deze week praten Arnoud Wokke, Jurian Ubachs, Jelle Stuip en Friso Weijers over de komende energielabels voor smartphones, de duurste laptops die er zijn, de plotselinge release van de Elder Scrolls Oblivion-remake, de DMA-boetes voor Meta en Apple en midrange-telefoons.</description>
-            <author>Arnoud Wokke</author>
-            <category>.Geek / Beeld en geluid / Audio</category>
-            <comments>https://tweakers.net/geek/234252/tweakers-podcast-370-bigtechboetes-smartphonelabels-en-nep-5090s.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/234252</guid>
             <pubDate>Thu, 24 Apr 2025 06:00:00 +0200</pubDate>
         </item>
     </channel>
