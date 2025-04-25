@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 25 Apr 2025 15:36:02 +0200</pubDate>
-        <lastBuildDate>Fri, 25 Apr 2025 15:36:02 +0200</lastBuildDate>
+        <pubDate>Fri, 25 Apr 2025 16:31:01 +0200</pubDate>
+        <lastBuildDate>Fri, 25 Apr 2025 16:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Installatie Android 14 ging bijna drie keer zo snel als die van Android 15</title>
+            <link>https://tweakers.net/nieuws/234348/installatie-android-14-ging-bijna-drie-keer-zo-snel-als-die-van-android-15.html</link>
+            <description>Android 15 stond zo&#039;n zeven maanden na de release op 4,5 procent van alle Android-toestellen. In diezelfde tijd werd Android 14 op zo&#039;n 13 procent van alle Android-smartphones geïnstalleerd. Dat verschil komt vermoedelijk door Samsung, die onlangs pas met een OS-upgrade kwam.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Tablets en telefoons / Mobiele besturingssystemen</category>
+            <comments>https://tweakers.net/nieuws/234348/installatie-android-14-ging-bijna-drie-keer-zo-snel-als-die-van-android-15.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234348</guid>
+            <pubDate>Fri, 25 Apr 2025 16:28:28 +0200</pubDate>
+        </item>
         <item>
             <title>Intel gaat binnenkort personeel ontslaan om &#039;lagen te verwijderen&#039;</title>
             <link>https://tweakers.net/nieuws/234344/intel-gaat-binnenkort-personeel-ontslaan-om-lagen-te-verwijderen.html</link>
@@ -300,7 +310,7 @@
         <item>
             <title>FBI: Cybercrimeschade liep in 2024 op tot 16 miljard dollar in de VS</title>
             <link>https://tweakers.net/nieuws/234296/fbi-cybercrimeschade-liep-in-2024-op-tot-16-miljard-dollar-in-de-vs.html</link>
-            <description>Cybercriminaliteit verrichte in de Verenigde Staten in 2024 ruim 16 miljard dollar aan schade aan. Dat is een toename van 33 procent ten opzichte van 2023, zegt de FBI in een nieuw rapport op basis van 859.532 meldingen over vermoedelijke cybercriminaliteit.</description>
+            <description>Cybercriminaliteit richtte in de Verenigde Staten in 2024 ruim 16 miljard dollar aan schade aan. Dat is een toename van 33 procent ten opzichte van 2023, zegt de FBI in een nieuw rapport op basis van 859.532 meldingen over vermoedelijke cybercriminaliteit.</description>
             <author>Eveline Meijer</author>
             <category>Nieuws / Computers / Beveiliging en antivirus</category>
             <comments>https://tweakers.net/nieuws/234296/fbi-cybercrimeschade-liep-in-2024-op-tot-16-miljard-dollar-in-de-vs.html#reacties</comments>
@@ -318,12 +328,12 @@
             <pubDate>Thu, 24 Apr 2025 13:49:13 +0200</pubDate>
         </item>
         <item>
-            <title>AP benadrukt dat bezwaar maken tegen AI-training Instagram voor 27 mei moet</title>
-            <link>https://tweakers.net/nieuws/234290/ap-benadrukt-dat-bezwaar-maken-tegen-ai-training-instagram-voor-27-mei-moet.html</link>
+            <title>AP benadrukt: bezwaar maken tegen AI-training Meta moet voor 27 mei - update</title>
+            <link>https://tweakers.net/nieuws/234290/ap-benadrukt-bezwaar-maken-tegen-ai-training-meta-moet-voor-27-mei.html</link>
             <description>Facebook- en Instagram-eigenaar Meta gaat vanaf 27 mei openbare data van gebruikers inzetten voor het trainen van zijn AI. Wie dat niet wil, moet nu al bezwaar maken, zo waarschuwt de Nederlandse privacytoezichthouder Autoriteit Persoonsgegevens.</description>
             <author>Eveline Meijer</author>
             <category>Nieuws / IT Pro / Privacy</category>
-            <comments>https://tweakers.net/nieuws/234290/ap-benadrukt-dat-bezwaar-maken-tegen-ai-training-instagram-voor-27-mei-moet.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/234290/ap-benadrukt-bezwaar-maken-tegen-ai-training-meta-moet-voor-27-mei.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234290</guid>
             <pubDate>Thu, 24 Apr 2025 13:18:50 +0200</pubDate>
         </item>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/geek/234278/nieuwe-d-en-d-regels-mogen-onder-cc-licentie-door-iedereen-gebruikt-worden.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/geek/234278</guid>
             <pubDate>Thu, 24 Apr 2025 08:47:02 +0200</pubDate>
-        </item>
-        <item>
-            <title>Lenovo introduceert nieuwe ThinkPad-laptops met AMD-cpu&#039;s</title>
-            <link>https://tweakers.net/nieuws/234274/lenovo-introduceert-nieuwe-thinkpad-laptops-met-amd-cpus.html</link>
-            <description>Lenovo heeft twee nieuwe ThinkPad Copilot+-laptops met AMD-cpu&#039;s aangekondigd. Het gaat om de zesde generatie ThinkPad P14s en de vierde generatie ThinkPad P16s. De laptops verschijnen in mei dit jaar. Ook zijn er twee nieuwe laptops in de zakelijke L-serie onthuld.</description>
-            <author>Eveline Meijer</author>
-            <category>Nieuws / Computers / Laptops</category>
-            <comments>https://tweakers.net/nieuws/234274/lenovo-introduceert-nieuwe-thinkpad-laptops-met-amd-cpus.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234274</guid>
-            <pubDate>Thu, 24 Apr 2025 08:03:22 +0200</pubDate>
         </item>
     </channel>
 </rss>
