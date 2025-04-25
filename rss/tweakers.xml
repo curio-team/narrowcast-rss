@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 25 Apr 2025 09:31:05 +0200</pubDate>
-        <lastBuildDate>Fri, 25 Apr 2025 09:31:05 +0200</lastBuildDate>
+        <pubDate>Fri, 25 Apr 2025 10:36:01 +0200</pubDate>
+        <lastBuildDate>Fri, 25 Apr 2025 10:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>VideoCardz: foto&#039;s bevestigen dat Radeon RX 9070 GRE 12GB vram krijgt</title>
+            <link>https://tweakers.net/nieuws/234330/videocardz-fotos-bevestigen-dat-radeon-rx-9070-gre-12gb-vram-krijgt.html</link>
+            <description>De aankomende Radeon RX 9070 GRE-gpu van AMD krijgt 12GB aan GDDR6-videogeheugen, zegt VideoCardz op basis van afbeeldingen die het van de kaart heeft bemachtigd. Volgens de site gebruikt de gpu dezelfde koelers als de reguliere 9070-serie en de XT-variant.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/234330/videocardz-fotos-bevestigen-dat-radeon-rx-9070-gre-12gb-vram-krijgt.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234330</guid>
+            <pubDate>Fri, 25 Apr 2025 09:57:01 +0200</pubDate>
+        </item>
         <item>
             <title>Apple wil alle Amerikaanse iPhones in India laten maken vanwege importheffingen</title>
             <link>https://tweakers.net/nieuws/234328/apple-wil-alle-amerikaanse-iphones-in-india-laten-maken-vanwege-importheffingen.html</link>
@@ -58,12 +68,12 @@
             <pubDate>Fri, 25 Apr 2025 07:30:00 +0200</pubDate>
         </item>
         <item>
-            <title>Rijksoverheid gaat afgeschreven laptops wipen en weggeven aan Nederlanders</title>
-            <link>https://tweakers.net/nieuws/234322/rijksoverheid-gaat-afgeschreven-laptops-wipen-en-weggeven-aan-nederlanders.html</link>
-            <description>De Nederlandse Rijksoverheid gaat afgeschreven laptops wipen en na een opknapbeurt beschikbaar stellen aan burgers. De laptops van ambtenaren zijn bedoeld om de toegang tot digitale diensten te vergroten voor burgers die het financieel niet breed hebben.</description>
+            <title>Rijksoverheid gaat afgeschreven laptops wissen en weggeven aan Nederlanders</title>
+            <link>https://tweakers.net/nieuws/234322/rijksoverheid-gaat-afgeschreven-laptops-wissen-en-weggeven-aan-nederlanders.html</link>
+            <description>De Nederlandse Rijksoverheid gaat afgeschreven laptops wissen en na een opknapbeurt beschikbaar stellen aan burgers. De laptops van ambtenaren zijn bedoeld om de toegang tot digitale diensten te vergroten voor burgers die het financieel niet breed hebben.</description>
             <author>Tijs Hofmans</author>
             <category>Nieuws / Computers / Laptops</category>
-            <comments>https://tweakers.net/nieuws/234322/rijksoverheid-gaat-afgeschreven-laptops-wipen-en-weggeven-aan-nederlanders.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/234322/rijksoverheid-gaat-afgeschreven-laptops-wissen-en-weggeven-aan-nederlanders.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234322</guid>
             <pubDate>Fri, 25 Apr 2025 07:29:00 +0200</pubDate>
         </item>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/234270/tsmc-begint-in-2028-met-de-productie-van-1-komma-4nm-chips.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234270</guid>
             <pubDate>Wed, 23 Apr 2025 21:26:24 +0200</pubDate>
-        </item>
-        <item>
-            <title>Discord-medeoprichter Jason Citron stapt op als ceo</title>
-            <link>https://tweakers.net/nieuws/234268/discord-medeoprichter-jason-citron-stapt-op-als-ceo.html</link>
-            <description>Jason Citron, de ceo en medeoprichter van chatdienst Discord, gaat opstappen. Hij wordt opgevolgd door Humam Sakhnini, die eerder werkte voor Activision Blizzard en King. Citron blijft lid van de raad van bestuur en wordt daarnaast een adviseur voor de nieuwe topman.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/234268/discord-medeoprichter-jason-citron-stapt-op-als-ceo.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234268</guid>
-            <pubDate>Wed, 23 Apr 2025 20:39:11 +0200</pubDate>
         </item>
     </channel>
 </rss>
