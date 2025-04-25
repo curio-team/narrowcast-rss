@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 25 Apr 2025 13:26:01 +0200</pubDate>
-        <lastBuildDate>Fri, 25 Apr 2025 13:26:01 +0200</lastBuildDate>
+        <pubDate>Fri, 25 Apr 2025 14:41:01 +0200</pubDate>
+        <lastBuildDate>Fri, 25 Apr 2025 14:41:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Intel gaat binnenkort personeel ontslaan om &#039;lagen te verwijderen&#039;</title>
+            <link>https://tweakers.net/nieuws/234344/intel-gaat-binnenkort-personeel-ontslaan-om-lagen-te-verwijderen.html</link>
+            <description>Intel-ceo Lip-Bu Tan belooft vanaf het tweede kwartaal van 2025 het werknemersbestand van het bedrijf te gaan verkleinen. Hij spreekt van het &#039;verwijderen van lagen&#039; om onnodige bureaucratie in het bedrijf te voorkomen. Tan noemt geen exacte aantallen verwachte ontslagen.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/234344/intel-gaat-binnenkort-personeel-ontslaan-om-lagen-te-verwijderen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234344</guid>
+            <pubDate>Fri, 25 Apr 2025 14:40:47 +0200</pubDate>
+        </item>
+        <item>
+            <title>Brave maakt tool voor blokkeren van cookiebanners opensource</title>
+            <link>https://tweakers.net/nieuws/234342/brave-maakt-tool-voor-blokkeren-van-cookiebanners-opensource.html</link>
+            <description>Brave maakt de tool Cookiecrumbler voor het automatisch blokkeren van cookiebanners en -toestemmingsverklaringen opensource. De broncode van de tool is onder de Mozilla Public License Version 2.0 door iedereen in te zien en te gebruiken.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Computers / Browsers</category>
+            <comments>https://tweakers.net/nieuws/234342/brave-maakt-tool-voor-blokkeren-van-cookiebanners-opensource.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234342</guid>
+            <pubDate>Fri, 25 Apr 2025 13:43:47 +0200</pubDate>
+        </item>
+        <item>
+            <title>KPN repareert bug met dubbel uitgegeven IPv6-adressen in Box 12-modem</title>
+            <link>https://tweakers.net/nieuws/234338/kpn-repareert-bug-met-dubbel-uitgegeven-ipv6-adressen-in-box-12-modem.html</link>
+            <description>KPN heeft een firmware-update uitgebracht voor zijn Box 12-modem waarmee een langslepend probleem met IPv6-adressen is opgelost. Ook zitten er nieuwe functies in de webinterface, waaronder de mogelijkheid om het modem op Engels in te stellen.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Modems en routers</category>
+            <comments>https://tweakers.net/nieuws/234338/kpn-repareert-bug-met-dubbel-uitgegeven-ipv6-adressen-in-box-12-modem.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234338</guid>
+            <pubDate>Fri, 25 Apr 2025 13:37:48 +0200</pubDate>
+        </item>
         <item>
             <title>CBS gebruikt data van slimme energiemeters voor voorspellingen</title>
             <link>https://tweakers.net/nieuws/234340/cbs-gebruikt-data-van-slimme-energiemeters-voor-voorspellingen.html</link>
@@ -82,7 +112,7 @@
             <link>https://tweakers.net/nieuws/234320/aqara-brengt-hub-m100-met-usb-a-formfactor-matter-en-thread-ondersteuning-uit.html</link>
             <description>Aqara heeft een nieuwe smarthomehub uitgebracht. De M100 heeft dezelfde formfactor met USB-A als de eerdere Hub E1, maar de specificaties van de Hub M3 waardoor het apparaat als Matter-controller en Thread-borderrouter kan werken. De Hub M100 kost 26 euro.</description>
             <author>Tijs Hofmans</author>
-            <category>Nieuws / Beeld en geluid / Smarthome accessoires</category>
+            <category>Nieuws / Beeld en geluid / Basisstations</category>
             <comments>https://tweakers.net/nieuws/234320/aqara-brengt-hub-m100-met-usb-a-formfactor-matter-en-thread-ondersteuning-uit.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234320</guid>
             <pubDate>Fri, 25 Apr 2025 08:06:49 +0200</pubDate>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/234274/lenovo-introduceert-nieuwe-thinkpad-laptops-met-amd-cpus.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234274</guid>
             <pubDate>Thu, 24 Apr 2025 08:03:22 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - SyncBackFree 11.3.99.0</title>
-            <link>https://tweakers.net/downloads/72440/syncbackfree-113990.html</link>
-            <description>2BrightSparks heeft versie 11.3.99.0 van SyncBackFree uitgebracht. Dit programma is de eenvoudigste en daarmee meteen ook de gratis uitvoering van de back-upsoftware die dit bedrijf in de aanbieding heeft. Naast back-ups maken kan SyncBackFree data synchroniseren. Dit kan naar een locatie op dezelfde of een andere schijf, of naar een ander medium, zoals een USB-stick, FTP-server of ziparchief. Naast deze gratis uitvoering zijn er ook SyncBackSE en SyncBackPro, die voor respectievelijk 48 en 65 euro extra functionaliteit bieden. De changelog voor deze uitgave is hieronder te vinden: New:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72440/syncbackfree-113990.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72440</guid>
-            <pubDate>Thu, 24 Apr 2025 07:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Video - Bigtechboetes, smartphonelabels en nep-5090&#039;s - Tweakers Podcast #370</title>
-            <link>https://tweakers.net/video/19866/bigtechboetes-smartphonelabels-en-nep-5090s-tweakers-podcast-370.html</link>
-            <description>Deze week praten Arnoud Wokke, Jurian Ubachs, Jelle Stuip en Friso Weijers over de komende energielabels voor smartphones, de duurste laptops die er zijn, de plotselinge release van de Elder Scrolls Oblivion-remake, de DMA-boetes voor Meta en Apple en midrange-telefoons.</description>
-            <author>Redactie Tweakers</author>
-            <category>Video / IT Pro / Economie en maatschappij</category>
-            <comments>https://tweakers.net/video/19866/bigtechboetes-smartphonelabels-en-nep-5090s-tweakers-podcast-370.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/video/19866</guid>
-            <pubDate>Thu, 24 Apr 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Quicktest - Lenovo ThinkPad X9 - Vaarwel TrackPoint, hallo middelmatige prestaties</title>
-            <link>https://tweakers.net/reviews/13148/lenovo-thinkpad-x9-vaarwel-trackpoint-hallo-middelmatige-prestaties.html</link>
-            <description>De ThinkPad X9 mist de iconische TrackPoint − een primeur voor Lenovo&#039;s zakelijke lijn. Hoe presteert deze dunne 14&quot;-laptop zonder rode nub?</description>
-            <author>Jelle Stuip</author>
-            <category>Quicktest / Computers / Laptops</category>
-            <comments>https://tweakers.net/reviews/13148/lenovo-thinkpad-x9-vaarwel-trackpoint-hallo-middelmatige-prestaties.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13148</guid>
-            <pubDate>Thu, 24 Apr 2025 06:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
