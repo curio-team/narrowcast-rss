@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 25 Apr 2025 10:36:01 +0200</pubDate>
-        <lastBuildDate>Fri, 25 Apr 2025 10:36:01 +0200</lastBuildDate>
+        <pubDate>Fri, 25 Apr 2025 11:31:09 +0200</pubDate>
+        <lastBuildDate>Fri, 25 Apr 2025 11:31:09 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Upgradeversies van Nintendo Switch 2-games gaan tien of twintig euro kosten</title>
+            <link>https://tweakers.net/nieuws/234332/upgradeversies-van-nintendo-switch-2-games-gaan-tien-of-twintig-euro-kosten.html</link>
+            <description>De upgrades voor Nintendo Switch 2-games gaan tussen de tien en twintig euro kosten. Nintendo heeft vier games in de eShop gezet waarvoor bezitters een upgrade kunnen kopen, die dezelfde euro- als dollarprijzen krijgen. Afhankelijk van de nieuwe features is dat 9,99 of 19,99 euro.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/234332/upgradeversies-van-nintendo-switch-2-games-gaan-tien-of-twintig-euro-kosten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234332</guid>
+            <pubDate>Fri, 25 Apr 2025 10:46:31 +0200</pubDate>
+        </item>
         <item>
             <title>VideoCardz: foto&#039;s bevestigen dat Radeon RX 9070 GRE 12GB vram krijgt</title>
             <link>https://tweakers.net/nieuws/234330/videocardz-fotos-bevestigen-dat-radeon-rx-9070-gre-12gb-vram-krijgt.html</link>
@@ -110,7 +120,7 @@
         <item>
             <title>Motorola&#039;s vouwbare telefoon kost bij release 100 euro minder dan voorganger</title>
             <link>https://tweakers.net/nieuws/234318/motorolas-vouwbare-telefoon-kost-bij-release-100-euro-minder-dan-voorganger.html</link>
-            <description>Motorola&#039;s vouwbare telefoon razr 60 kost bij release 799 euro en dat is 100 euro minder dan zijn voorganger razr 50. Dezelfde prijsverlaging is er niet bij de duurdere ultra-versie: de razr 60 ultra komt net als de vorige versie uit voor 1199 euro.</description>
+            <description>Motorola&#039;s vouwbare telefoon razr 60 kost bij release 799 euro en dat is 100 euro minder dan zijn voorganger razr 50. De duurdere razr 60 ultra die tegelijk uitkomt, kost juist 100 euro meer dan de vorige versie bij introductie: 1299 euro.</description>
             <author>Arnoud Wokke</author>
             <category>Nieuws / Tablets en telefoons / Smartphones</category>
             <comments>https://tweakers.net/nieuws/234318/motorolas-vouwbare-telefoon-kost-bij-release-100-euro-minder-dan-voorganger.html#reacties</comments>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/geek/234232/eerste-youtube-video-me-at-the-zoo-kwam-twintig-jaar-geleden-online.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/geek/234232</guid>
             <pubDate>Thu, 24 Apr 2025 05:31:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>TSMC begint in 2028 met de productie van &#039;1,4nm&#039;-chips</title>
-            <link>https://tweakers.net/nieuws/234270/tsmc-begint-in-2028-met-de-productie-van-1-komma-4nm-chips.html</link>
-            <description>TSMC heeft een nieuw &#039;1,4nm&#039;-procedé aangekondigd. Deze node, genaamd A14, maakt wederom gebruik van nanosheettransistors. De productie op A14 moet in 2028 van start gaan. Een jaar later volgt een verbeterde versie met backside power delivery.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / Processors</category>
-            <comments>https://tweakers.net/nieuws/234270/tsmc-begint-in-2028-met-de-productie-van-1-komma-4nm-chips.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234270</guid>
-            <pubDate>Wed, 23 Apr 2025 21:26:24 +0200</pubDate>
         </item>
     </channel>
 </rss>
