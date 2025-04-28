@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 28 Apr 2025 13:36:04 +0200</pubDate>
-        <lastBuildDate>Mon, 28 Apr 2025 13:36:04 +0200</lastBuildDate>
+        <pubDate>Mon, 28 Apr 2025 14:41:01 +0200</pubDate>
+        <lastBuildDate>Mon, 28 Apr 2025 14:41:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Nederlandse Unpluq brengt gezinsabo naar NFC-tag die smartphonegebruik beperkt</title>
+            <link>https://tweakers.net/nieuws/234396/nederlandse-unpluq-brengt-gezinsabo-naar-nfc-tag-die-smartphonegebruik-beperkt.html</link>
+            <description>Het Nederlandse bedrijf Unpluq heeft de NFC-tagdienst om het smartphonegebruik te beperken uitgebreid met een familieabonnement. Dit abonnement is bedoeld voor ouders die het smartphonegebruik van hun kinderen willen beperken en kost minsten 89,95 euro per jaar.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/234396/nederlandse-unpluq-brengt-gezinsabo-naar-nfc-tag-die-smartphonegebruik-beperkt.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234396</guid>
+            <pubDate>Mon, 28 Apr 2025 14:40:28 +0200</pubDate>
+        </item>
+        <item>
+            <title>Overheid vraagt Nederlanders om minder stroom te gebruiken tijdens piekuren</title>
+            <link>https://tweakers.net/nieuws/234394/overheid-vraagt-nederlanders-om-minder-stroom-te-gebruiken-tijdens-piekuren.html</link>
+            <description>Het ministerie van Klimaat en Groene Groei roept Nederlanders op om tussen 16.00 en 21.00 uur minder stroom te gebruiken. Dit zou de druk op het stroomnet tijdens die piekuren moeten verminderen om zo stroomstoringen en langere aansluitwachtlijsten te voorkomen.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/234394/overheid-vraagt-nederlanders-om-minder-stroom-te-gebruiken-tijdens-piekuren.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234394</guid>
+            <pubDate>Mon, 28 Apr 2025 14:13:04 +0200</pubDate>
+        </item>
+        <item>
+            <title>MediaMarkt introduceert mobiele provider met clouddienst via KPN-netwerk</title>
+            <link>https://tweakers.net/nieuws/234392/mediamarkt-introduceert-mobiele-provider-met-clouddienst-via-kpn-netwerk.html</link>
+            <description>Winkelketen MediaMarkt komt vanaf 1 mei met een eigen mobiele telecomaanbieder voor de Nederlandse markt: Let’s Go Mobile. De nieuwe provider maakt gebruik van het KPN-netwerk en combineert reguliere telefonieabonnementen met een clouddienst.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/234392/mediamarkt-introduceert-mobiele-provider-met-clouddienst-via-kpn-netwerk.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234392</guid>
+            <pubDate>Mon, 28 Apr 2025 13:58:06 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - qBittorrent 5.1.0</title>
             <link>https://tweakers.net/downloads/72474/qbittorrent-510.html</link>
@@ -48,7 +78,7 @@
             <pubDate>Mon, 28 Apr 2025 12:10:51 +0200</pubDate>
         </item>
         <item>
-            <title>Testgebruiker deelt gameplaybeelden van Battlefield 6-alphatest</title>
+            <title>Testgebruiker deelt gameplaybeelden van Battlefield 6-alphatest - update</title>
             <link>https://tweakers.net/nieuws/234386/testgebruiker-deelt-gameplaybeelden-van-battlefield-6-alphatest.html</link>
             <description>Een testgebruiker heeft gameplaybeelden van een Battlefield 6-alphatest gedeeld via X, ondanks  dat dit verboden is volgens de afspraken. Uit de beelden blijkt dat de speelwereld destructieve elementen bevat. Het is niet duidelijk of de clips representatief zijn voor de uiteindelijke game.</description>
             <author>Jay Stout</author>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/234342/brave-maakt-tool-voor-blokkeren-van-cookiebanners-opensource.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234342</guid>
             <pubDate>Fri, 25 Apr 2025 13:43:47 +0200</pubDate>
-        </item>
-        <item>
-            <title>KPN repareert bug met dubbel uitgegeven IPv6-adressen in Box 12-modem</title>
-            <link>https://tweakers.net/nieuws/234338/kpn-repareert-bug-met-dubbel-uitgegeven-ipv6-adressen-in-box-12-modem.html</link>
-            <description>KPN heeft een firmware-update uitgebracht voor zijn Box 12-modem waarmee een langslepend probleem met IPv6-adressen is opgelost. Ook zitten er nieuwe functies in de webinterface, waaronder de mogelijkheid om het modem op Engels in te stellen.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Modems en routers</category>
-            <comments>https://tweakers.net/nieuws/234338/kpn-repareert-bug-met-dubbel-uitgegeven-ipv6-adressen-in-box-12-modem.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234338</guid>
-            <pubDate>Fri, 25 Apr 2025 13:37:48 +0200</pubDate>
-        </item>
-        <item>
-            <title>CBS gebruikt data van slimme energiemeters voor voorspellingen</title>
-            <link>https://tweakers.net/nieuws/234340/cbs-gebruikt-data-van-slimme-energiemeters-voor-voorspellingen.html</link>
-            <description>Het Nederlands Centraal Bureau voor de Statistiek is begonnen met het verwerken van data van energiemeters van Nederlandse huishoudens. Het CBS krijgt voortaan toegang tot de gegevens van vrijwel alle 14,2 miljoen slimme meters. Het CBS wil zo nauwkeurigere voorspellingen doen.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Privacy</category>
-            <comments>https://tweakers.net/nieuws/234340/cbs-gebruikt-data-van-slimme-energiemeters-voor-voorspellingen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234340</guid>
-            <pubDate>Fri, 25 Apr 2025 13:15:01 +0200</pubDate>
-        </item>
-        <item>
-            <title>OnePlus brengt OnePlus 13T met aanpasbare knop en grote accu in China uit</title>
-            <link>https://tweakers.net/nieuws/234326/oneplus-brengt-oneplus-13t-met-aanpasbare-knop-en-grote-accu-in-china-uit.html</link>
-            <description>OnePlus heeft in China de OnePlus 13T uitgebracht. Het apparaat is relatief klein en heeft zoals verwacht geen alertslider meer. Wel zit er een programmeerbare knop op het apparaat. Het apparaat heeft verder een 6260mAh-accu, opvallend groot voor een smartphone van dit formaat.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/234326/oneplus-brengt-oneplus-13t-met-aanpasbare-knop-en-grote-accu-in-china-uit.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234326</guid>
-            <pubDate>Fri, 25 Apr 2025 11:48:30 +0200</pubDate>
         </item>
     </channel>
 </rss>

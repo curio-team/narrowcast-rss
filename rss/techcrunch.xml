@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 28 Apr 2025 08:27:07 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 28 Apr 2025 12:33:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Lightrun grabs $70M using AI to debug code in production</title>
+		<link>https://techcrunch.com/2025/04/28/lightrun-grabs-70m-using-ai-to-debug-code-in-production/</link>
+		
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+		<pubDate>Mon, 28 Apr 2025 12:33:11 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[coding]]></category>
+		<category><![CDATA[debugging]]></category>
+		<category><![CDATA[ide]]></category>
+		<category><![CDATA[Lightrun]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2999807</guid>
+
+					<description><![CDATA[AI-based coding has exploded in popularity on the promise that it will make developers’ jobs faster and easier. But it’s also resulted in something else: a vast increase in lines of code, and thus the likelihood of bugs resulting in crashes or other mishaps. Today, an Israeli startup called Lightrun — which has built an [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>OmniRetail shakes up Africa&#8217;s B2B e-commerce market with $20M Series A</title>
 		<link>https://techcrunch.com/2025/04/28/omniretail-shakes-up-africas-b2b-e-commerce-market-with-20m-series-a/</link>
 		
@@ -354,22 +374,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2999535</guid>
 
 					<description><![CDATA[Elon Musk&#8217;s xAI Holdings is in talks to raise $20 billion in fresh funding, potentially valuing the AI and social media combo at over $120 billion, according to a new Bloomberg report that says talks are in the &#8220;early stages.&#8221; If successful, the deal would be the second-largest startup funding round ever, behind only OpenAI&#8217;s [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>DoorDash seeks dismissal of Uber lawsuit</title>
-		<link>https://techcrunch.com/2025/04/25/doordash-seeks-dismissal-of-uber-lawsuit/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
-		<pubDate>Fri, 25 Apr 2025 23:25:31 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[DoorDash]]></category>
-		<category><![CDATA[Uber]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2999467</guid>
-
-					<description><![CDATA[DoorDash has asked a California Superior Court judge to dismiss a lawsuit filed by Uber that accuses the food delivery company of stifling competition by intimidating restaurant owners into exclusive deals. DoorDash argues in its motion that Uber&#8217;s claim lacks merit on all fronts. On a post on its website on Friday, DoorDash said, &#8220;the [&#8230;]]]></description>
 		
 		
 		
