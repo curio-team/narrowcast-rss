@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 28 Apr 2025 15:41:02 +0200</pubDate>
-        <lastBuildDate>Mon, 28 Apr 2025 15:41:02 +0200</lastBuildDate>
+        <pubDate>Mon, 28 Apr 2025 16:36:09 +0200</pubDate>
+        <lastBuildDate>Mon, 28 Apr 2025 16:36:09 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>WSJ: Huawei wil in mei nieuwe AI-chip Ascend 910D testen bij bedrijven</title>
+            <link>https://tweakers.net/nieuws/234402/wsj-huawei-wil-in-mei-nieuwe-ai-chip-ascend-910d-testen-bij-bedrijven.html</link>
+            <description>Huawei zou in mei de eerste tests bij bedrijven willen uitvoeren met de Ascend 910D, meldt The Wall Street Journal. De 910D is de opvolger van de 910C en Huawei zou hopen dat de chip sneller is dan Nvidia&#039;s H100-chip, een hoop die het bedrijf bij eerdere chips ook uitsprak.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/234402/wsj-huawei-wil-in-mei-nieuwe-ai-chip-ascend-910d-testen-bij-bedrijven.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234402</guid>
+            <pubDate>Mon, 28 Apr 2025 15:55:47 +0200</pubDate>
+        </item>
         <item>
             <title>ASUS-pagina meldt onaangekondigde Threadripper 9000-cpu&#039;s met max 96 cores</title>
             <link>https://tweakers.net/nieuws/234400/asus-pagina-meldt-onaangekondigde-threadripper-9000-cpus-met-max-96-cores.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/234350/viaplay-lijdt-verlies-en-verliest-klein-deel-abonnees.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234350</guid>
             <pubDate>Fri, 25 Apr 2025 17:50:31 +0200</pubDate>
-        </item>
-        <item>
-            <title>Uitrol Android 14 ging bijna drie keer zo snel als die van Android 15</title>
-            <link>https://tweakers.net/nieuws/234348/uitrol-android-14-ging-bijna-drie-keer-zo-snel-als-die-van-android-15.html</link>
-            <description>Android 15 stond zo&#039;n zeven maanden na de release op 4,5 procent van alle Android-toestellen. In diezelfde tijd werd Android 14 op zo&#039;n 13 procent van alle Android-smartphones geïnstalleerd. Dat verschil komt vermoedelijk door Samsung, die onlangs pas met een OS-upgrade kwam.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Tablets en telefoons / Mobiele besturingssystemen</category>
-            <comments>https://tweakers.net/nieuws/234348/uitrol-android-14-ging-bijna-drie-keer-zo-snel-als-die-van-android-15.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234348</guid>
-            <pubDate>Fri, 25 Apr 2025 16:28:28 +0200</pubDate>
         </item>
     </channel>
 </rss>
