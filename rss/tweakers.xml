@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 25 Apr 2025 16:31:01 +0200</pubDate>
-        <lastBuildDate>Fri, 25 Apr 2025 16:31:01 +0200</lastBuildDate>
+        <pubDate>Mon, 28 Apr 2025 09:41:00 +0200</pubDate>
+        <lastBuildDate>Mon, 28 Apr 2025 09:41:00 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,12 +18,312 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
-            <title>Installatie Android 14 ging bijna drie keer zo snel als die van Android 15</title>
-            <link>https://tweakers.net/nieuws/234348/installatie-android-14-ging-bijna-drie-keer-zo-snel-als-die-van-android-15.html</link>
+            <title>&#039;SK hynix levert GDDR7-chips voor Nvidia RTX 5070 Ti; kunnen overgeklokt worden&#039;</title>
+            <link>https://tweakers.net/nieuws/234384/sk-hynix-levert-gddr7-chips-voor-nvidia-rtx-5070-ti-kunnen-overgeklokt-worden.html</link>
+            <description>SK hynix levert, net als Micron en Samsung, ook GDDR7-geheugenmodules voor de Nvidia GeForce RTX 5070 Ti-videokaarten. Dat blijkt uit nieuwe informatie van klanten. Deze geheugenchips kunnen naar verluidt overgeklokt worden tot een snelheid van 34Gbit/s.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/234384/sk-hynix-levert-gddr7-chips-voor-nvidia-rtx-5070-ti-kunnen-overgeklokt-worden.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234384</guid>
+            <pubDate>Mon, 28 Apr 2025 09:16:56 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - AIMP 5.40 build 2675</title>
+            <link>https://tweakers.net/downloads/72472/aimp-540-build-2675.html</link>
+            <description>Er is een nieuwe versie van AIMP uitgekomen. Deze gratis, lichtgewicht mediaspeler van Russische makelij heeft ondersteuning voor de populairste muziekformaten. Het uiterlijk heeft wat weg van het bekende Winamp en is door middel van skins aan te passen. AIMP heeft een 18-kanaalsequalizer aan boord en ondersteunt plug-ins. Verder kan het programma cd&#039;s rippen, muziekbestanden converteren en tags bewerken. Hieronder is de changelog voor deze uitgave te vinden. New:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72472/aimp-540-build-2675.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72472</guid>
+            <pubDate>Mon, 28 Apr 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>WSJ: Meta AI kon seksueel expliciete gesprekken met minderjarigen voeren</title>
+            <link>https://tweakers.net/nieuws/234382/wsj-meta-ai-kon-seksueel-expliciete-gesprekken-met-minderjarigen-voeren.html</link>
+            <description>Meta AI was tot voor kort in staat om seksueel expliciete gesprekken met minderjarigen te voeren tijdens een zogenoemd &#039;romantisch rollenspel&#039;. Dat zegt The Wall Street Journal na maandenlang onderzoek. Meta ontkent de beschuldigingen en noemt de claims van de krant ongeloofwaardig.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / IT Pro / Wetenschap</category>
+            <comments>https://tweakers.net/nieuws/234382/wsj-meta-ai-kon-seksueel-expliciete-gesprekken-met-minderjarigen-voeren.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234382</guid>
+            <pubDate>Mon, 28 Apr 2025 08:27:13 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - OpenBSD 7.7</title>
+            <link>https://tweakers.net/downloads/72470/openbsd-77.html</link>
+            <description>De nieuwe halfjaarlijkse release van OpenBSD is uitgekomen. Op deze pagina is een uitgebreide lijst van ftp- en http(s)-downloadlocaties te vinden. OpenBSD stamt af van de originele Berkeley Software Distribution en heeft als kenmerk dat de ontwikkelaars alleen opensourcesoftware willen gebruiken. Verder staat het besturingssysteem bekend om zijn uitstekende documentatie en veiligheid. De complete releasenotes kunnen op deze pagina worden gevonden; dit is de aankondiging voor deze uitgave: OpenBSD 7.7 Released</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72470/openbsd-77.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72470</guid>
+            <pubDate>Mon, 28 Apr 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - ASUS ROG Flow Z13 - Een &#039;Surface Pro&#039; waar je op kunt gamen</title>
+            <link>https://tweakers.net/reviews/13170/asus-rog-flow-z13-een-surface-pro-waar-je-op-kunt-gamen.html</link>
+            <description>De ASUS ROG Flow Z13 is niet alleen een opvallend dunne en lichte gamingtablet, maar ook het eerste apparaat met AMD&#039;s nieuwe Ryzen AI Max+-soc. Hoe presteert die?</description>
+            <author>Tomas Hochstenbach</author>
+            <category>Review / Tablets en telefoons / Tablets</category>
+            <comments>https://tweakers.net/reviews/13170/7/asus-rog-flow-z13-een-surface-pro-waar-je-op-kunt-gamen-conclusie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13170</guid>
+            <pubDate>Mon, 28 Apr 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - WinMerge 2.16.48</title>
+            <link>https://tweakers.net/downloads/72468/winmerge-21648.html</link>
+            <description>Er is een nieuwe stabiele versie van WinMerge verschenen. Met WinMerge kunnen bestanden of mappen met elkaar worden vergeleken: handig, bijvoorbeeld om te zien wat er is veranderd tussen verschillende stukken broncode of om de inhoud van logbestanden door te pluizen. Het programma bevat syntaxhighlighting en de applicatie kan op basis van de ontdekte verschillen patchbestanden aanmaken. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72468/winmerge-21648.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72468</guid>
+            <pubDate>Sun, 27 Apr 2025 17:41:08 +0200</pubDate>
+        </item>
+        <item>
+            <title>Microsoft trekt in juli stekker uit Windows Kaarten-app</title>
+            <link>https://tweakers.net/nieuws/234380/microsoft-trekt-in-juli-stekker-uit-windows-kaarten-app.html</link>
+            <description>Microsoft stopt met Windows Kaarten. De app is vanaf juli niet meer te gebruiken. De kaartendienst wordt sinds 2024 niet meer voorgeïnstalleerd op nieuwe Windows-pc&#039;s, maar is nog wel te installeren via de Microsoft Store.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Computers / Besturingssystemen</category>
+            <comments>https://tweakers.net/nieuws/234380/microsoft-trekt-in-juli-stekker-uit-windows-kaarten-app.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234380</guid>
+            <pubDate>Sun, 27 Apr 2025 12:50:27 +0200</pubDate>
+        </item>
+        <item>
+            <title>Openbaar aanklager VS betwist belastingvrije status Wikipedia door &#039;propaganda&#039;</title>
+            <link>https://tweakers.net/nieuws/234376/openbaar-aanklager-vs-betwist-belastingvrije-status-wikipedia-door-propaganda.html</link>
+            <description>Een openbaar aanklager heeft namens de regering-Trump een brief gestuurd naar de Wikimedia Foundation, waarin de belastingvrije status van de non-profitorganisatie in twijfel wordt getrokken. De aanklachter beticht de stichting ervan dat deze &#039;propaganda&#039; op Wikipedia toelaat.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/234376/openbaar-aanklager-vs-betwist-belastingvrije-status-wikipedia-door-propaganda.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234376</guid>
+            <pubDate>Sun, 27 Apr 2025 11:59:44 +0200</pubDate>
+        </item>
+        <item>
+            <title>Microsoft maakt Recall-functie beschikbaar voor Copilot+-gebruikers buiten EU</title>
+            <link>https://tweakers.net/nieuws/234374/microsoft-maakt-recall-functie-beschikbaar-voor-copilot+-gebruikers-buiten-eu.html</link>
+            <description>Microsoft heeft de omstreden Recall-functie algemeen beschikbaar gemaakt voor gebruikers met een Copilot+-pc. Dit &#039;fotografische geheugen&#039; zou oorspronkelijk in juni 2024 al zijn uitgebracht, maar is meermaals uitgesteld. EU-gebruikers krijgen echter pas later toegang tot de functie.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Computers / Besturingssystemen</category>
+            <comments>https://tweakers.net/nieuws/234374/microsoft-maakt-recall-functie-beschikbaar-voor-copilot+-gebruikers-buiten-eu.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234374</guid>
+            <pubDate>Sun, 27 Apr 2025 10:40:21 +0200</pubDate>
+        </item>
+        <item>
+            <title>Processorkoelerfabrikant Scythe sluit Europese tak, koelers blijven beschikbaar</title>
+            <link>https://tweakers.net/nieuws/234372/processorkoelerfabrikant-scythe-sluit-europese-tak-koelers-blijven-beschikbaar.html</link>
+            <description>Scythe EU GmbH wordt opgeheven. Dat laat de processorkoelerfabrikant weten in een mededeling aan Tweakers. De producten blijven echter beschikbaar via Europese leveranciers en webshops.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Computers / Processorkoeling</category>
+            <comments>https://tweakers.net/nieuws/234372/processorkoelerfabrikant-scythe-sluit-europese-tak-koelers-blijven-beschikbaar.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234372</guid>
+            <pubDate>Sun, 27 Apr 2025 09:40:33 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - openHAB 4.3.5</title>
+            <link>https://tweakers.net/downloads/72466/openhab-435.html</link>
+            <description>OpenHAB is domoticasoftware waarmee componenten uitgelezen en aangestuurd kunnen worden. Daarbij kun je denken aan lichtschakelaars, diverse sensors, ledlampen, beveiligingsapparatuur en tal van andere domoticahardware. Het kan door middel van zogenaamde bindings onder andere praten via Z-Wave, Nest en Zigbee, of producten van Ikea Trådfri, Xiaomi Smart Home en Philips Hue aansturen. Voor meer informatie verwijzen we naar deze pagina en voor gebruikerservaringen kun je ook op ons forum terecht in Het Grote openHAB-topic. De ontwikkelaars hebben openHAB 4.3.5 uitgebracht en hierin zijn de volgende veranderingen en verbeteringen aangebracht: Runtime</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72466/openhab-435.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72466</guid>
+            <pubDate>Sun, 27 Apr 2025 08:28:59 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - Samsung Galaxy A26, A36 en A56 - Net wat beter, net zo betaalbaar</title>
+            <link>https://tweakers.net/reviews/13180/samsung-galaxy-a26-a36-en-a56-net-wat-beter-net-zo-betaalbaar.html</link>
+            <description>Samsung Galaxy A-telefoons zijn elk jaar een groot succes. We hebben drie van de nieuwe modellen onder de loep genomen.</description>
+            <author>Dennis de Vries</author>
+            <category>Review / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/reviews/13180/8/samsung-galaxy-a26-a36-en-a56-net-wat-beter-net-zo-betaalbaar-conclusie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13180</guid>
+            <pubDate>Sun, 27 Apr 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Windows Terminal 1.22.11141.0</title>
+            <link>https://tweakers.net/downloads/72464/windows-terminal-122111410.html</link>
+            <description>Microsoft heeft een update voor versie 1.22 van Windows Terminal uitgebracht. Windows Terminal wordt met Windows 11 meegeleverd en maakt het mogelijk om in een scherm met tabbladen onder meer een commandprompt, PowerShell, Windows PowerShell en Azure Cloud Shell te openen. Het programma heeft ondersteuning voor thema&#039;s en profielen. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changes</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72464/windows-terminal-122111410.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72464</guid>
+            <pubDate>Sat, 26 Apr 2025 21:46:22 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - ExifTool 13.28</title>
+            <link>https://tweakers.net/downloads/72462/exiftool-1328.html</link>
+            <description>Phil Harvey heeft versie 13.28 van ExifTool uitgebracht. ExifTool is een gratis crossplatformprogramma waarmee de metadata van een groot aantal bestanden kan worden beheerd en bewerkt. Het werkt vanaf de commandline, maar er zijn oplossingen van derden beschikbaar waardoor het ook met een grafische gebruikersinterface kan worden gebruikt. Met enige regelmaat verschijnen er nieuwe versies, maar de meeste uitgaven worden onder de bètavlag beschikbaar gesteld, ondanks dat deze als stabiel kunnen worden beschouwd. Ook deze update wordt als ontwikkelversie aangeduid; de laatste stabiele uitgave is versie 13.25. Sinds versie 13.25 zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 13.28:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72462/exiftool-1328.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72462</guid>
+            <pubDate>Sat, 26 Apr 2025 21:28:38 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Patch My PC 5.2.0.0</title>
+            <link>https://tweakers.net/downloads/72460/patch-my-pc-5200.html</link>
+            <description>Versie 5.1.3.0 van Patch My PC is uitgekomen. Dit programma kan controleren of de laatste versies van ruim 500 populaire programma&#039;s zijn geïnstalleerd. Daarnaast kan het deze programma&#039;s ook installeren als ze nog niet aanwezig zijn en uiteraard ook weer verwijderen. In versie 5.0 heeft de gebruikersinterface een opfrisbeurt gekregen en moet het programma nu geïnstalleerd worden, waar het voorheen als portable applicatie gebruikt kon worden. De changelog voor deze uitgave kan hieronder worden gevonden. What’s new:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72460/patch-my-pc-5200.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72460</guid>
+            <pubDate>Sat, 26 Apr 2025 21:16:11 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - MKVToolnix 92.0</title>
+            <link>https://tweakers.net/downloads/72458/mkvtoolnix-920.html</link>
+            <description>Moritz Bunkus heeft versie 92 van MKVToolNix uitgebracht. Met dit programma kunnen matroskabestanden worden bekeken, bewerkt en geconverteerd. Zo kunnen geluidssporen en ondertiteling worden toegevoegd, verwijderd of juist als standaard worden ingesteld. MKVToolNix is een verzameling afzonderlijke commandlinetools, maar er wordt ook een grafische gebruikersinterface meegeleverd. Downloads zijn beschikbaar voor Windows, macOS en diverse Linux-distributies. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: New features and enhancements</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72458/mkvtoolnix-920.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72458</guid>
+            <pubDate>Sat, 26 Apr 2025 21:11:45 +0200</pubDate>
+        </item>
+        <item>
+            <title>EA-skatinggame skate vereist een onlineverbinding om te spelen</title>
+            <link>https://tweakers.net/nieuws/234370/ea-skatinggame-skate-vereist-een-onlineverbinding-om-te-spelen.html</link>
+            <description>Skate krijgt geen offlinemodus, zegt ontwikkelaar Full Circle. Volgens een ontwikkelaarsblog staat de early access van de skatinggame, die wordt uitgegeven door Electronic Arts, nog altijd gepland voor dit jaar. Verder bevestigt de ontwikkelaar nogmaals dat crossplay ondersteund wordt.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/234370/ea-skatinggame-skate-vereist-een-onlineverbinding-om-te-spelen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234370</guid>
+            <pubDate>Sat, 26 Apr 2025 12:57:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gerucht: Apple voorziet minstens drie iPhone 17-telefoons van 12GB werkgeheugen</title>
+            <link>https://tweakers.net/nieuws/234364/gerucht-apple-voorziet-minstens-drie-iphone-17-telefoons-van-12gb-werkgeheugen.html</link>
+            <description>Apple is van plan om ten minste de drie duurdere toestellen uit de iPhone 17-serie uit te rusten met 12GB werkgeheugen. Dat zegt de doorgaans goed ingelichte analist Ming-Chi Kuo. Het is nog niet zeker of dit ook voor de reguliere iPhone 17 geldt.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/234364/gerucht-apple-voorziet-minstens-drie-iphone-17-telefoons-van-12gb-werkgeheugen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234364</guid>
+            <pubDate>Sat, 26 Apr 2025 11:24:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Microsoft Copilot heeft 20 miljoen wekelijkse gebruikers&#039;</title>
+            <link>https://tweakers.net/nieuws/234362/microsoft-copilot-heeft-20-miljoen-wekelijkse-gebruikers.html</link>
+            <description>Het aantal gebruikers van Microsoft Copilot schommelt wekelijks rond de 20 miljoen gebruikers, meldt techblog Newcomer. Ter vergelijking: ChatGPT van OpenAI bereikt wekelijks zo&#039;n 400 miljoen gebruikers.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / Computers / Laptops</category>
+            <comments>https://tweakers.net/nieuws/234362/microsoft-copilot-heeft-20-miljoen-wekelijkse-gebruikers.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234362</guid>
+            <pubDate>Sat, 26 Apr 2025 09:56:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>4chan is weer online na hackincident van vorige week</title>
+            <link>https://tweakers.net/nieuws/234368/4chan-is-weer-online-na-hackincident-van-vorige-week.html</link>
+            <description>4chan is weer online na bijna twee weken downtime. Een hacker had toegang verkregen tot de hostingserver van het controversiële internetforum en een &#039;groot deel van de broncode&#039; gestolen, bevestigt 4chan. De servers werden vervolgens door het internetforum offline gehaald.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/234368/4chan-is-weer-online-na-hackincident-van-vorige-week.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234368</guid>
+            <pubDate>Sat, 26 Apr 2025 08:48:44 +0200</pubDate>
+        </item>
+        <item>
+            <title>YouTube test AI-overzichten met videohighlights in zoekresultaten</title>
+            <link>https://tweakers.net/nieuws/234360/youtube-test-ai-overzichten-met-videohighlights-in-zoekresultaten.html</link>
+            <description>YouTube experimenteert met AI-overzichten waarbij relevante videohighlights getoond worden op basis van een zoekopdracht. De functie is vergelijkbaar met de AI-overzichten in Google Zoeken, maar dan specifiek gericht op video&#039;s.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/234360/youtube-test-ai-overzichten-met-videohighlights-in-zoekresultaten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234360</guid>
+            <pubDate>Sat, 26 Apr 2025 07:19:01 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - Nvidia GeForce RTX 5060 Ti 8GB - Voor wie graag 405 euro uitgeeft aan framedrops</title>
+            <link>https://tweakers.net/reviews/13190/nvidia-geforce-rtx-5060-ti-8gb-voor-wie-graag-405-euro-uitgeeft-aan-framedrops.html</link>
+            <description>Tweakers test de RTX 5060 Ti 8GB, de versie die Nvidia niet naar de pers stuurde, en vergelijkt prestaties met de duurdere 16GB-variant.</description>
+            <author>Reinoud Dik</author>
+            <category>Review / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/reviews/13190/nvidia-geforce-rtx-5060-ti-8gb-voor-wie-graag-405-euro-uitgeeft-aan-framedrops.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13190</guid>
+            <pubDate>Sat, 26 Apr 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Community - Weg van big tech: tweakers maken complete gids met Europese alternatieven</title>
+            <link>https://tweakers.net/reviews/13200/weg-van-big-tech-tweakers-maken-complete-gids-met-europese-alternatieven.html</link>
+            <description>In een topic op het forum zoeken tweakers naar de beste alternatieven voor Amerikaanse techdiensten. Waar lopen ze tegenaan en wat zijn de beste alternatieven?</description>
+            <author>Tijs Hofmans</author>
+            <category>.Community / IT Pro / Privacy</category>
+            <comments>https://tweakers.net/reviews/13200/weg-van-big-tech-tweakers-maken-complete-gids-met-europese-alternatieven.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13200</guid>
+            <pubDate>Sat, 26 Apr 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Q-Dir 12.18</title>
+            <link>https://tweakers.net/downloads/72456/q-dir-1218.html</link>
+            <description>Software OK heeft versie 12.18 van de gratis filemanager Q-Dir uitgebracht. Het ziet er een beetje uit als Windows Verkenner, maar dan met vier schermen, waardoor het eenvoudig is om bestanden te verplaatsen, beheren of bekijken. Dit verklaart ook meteen de naam: de Q staat voor quad. De download is ongeveer een megabyte groot en het programma is in verschillende talen te gebruiken, waaronder in het Nederlands. De changelog sinds versie 12.14 ziet er als volgt uit: New in version 12.18:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72456/q-dir-1218.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72456</guid>
+            <pubDate>Fri, 25 Apr 2025 22:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google stopt verkoop Nest-thermostaten in Europa</title>
+            <link>https://tweakers.net/nieuws/234358/google-stopt-verkoop-nest-thermostaten-in-europa.html</link>
+            <description>Google stopt met de verkoop van nieuwe Nest-smarthomethermostaten in Europa. Daarnaast stopt de ondersteuning van de eerste en tweede generatie Nest Learning Thermostat. Het bedrijf biedt bepaalde klanten ter vervanging 50 procent korting op een Tado Slimme Thermostaat X aan.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Beeld en geluid / Thermostaten</category>
+            <comments>https://tweakers.net/nieuws/234358/google-stopt-verkoop-nest-thermostaten-in-europa.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234358</guid>
+            <pubDate>Fri, 25 Apr 2025 21:37:17 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Fan Control 221</title>
+            <link>https://tweakers.net/downloads/72454/fan-control-221.html</link>
+            <description>Versie 221 van Fan Control is uitgekomen. Met dit programma, dat gebruikmaakt van het opensource Libre Hardware Monitor-project, kunnen de ventilators in de computer worden beheerd en in de gaten worden gehouden. Zo is het onder meer mogelijk om met verschillende profielen en configuraties de computer koel of juist stil te houden. Fan Control kan overweg met de meeste fans en controllers en via een plug-insysteem is dat verder uit te breiden. De changelog voor deze uitgave ziet er als volgt uit: Changelog for version 221:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72454/fan-control-221.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72454</guid>
+            <pubDate>Fri, 25 Apr 2025 21:10:30 +0200</pubDate>
+        </item>
+        <item>
+            <title>Meta bevestigt ontslagronde afdeling virtual reality</title>
+            <link>https://tweakers.net/nieuws/234356/meta-bevestigt-ontslagronde-afdeling-virtual-reality.html</link>
+            <description>Meta bevestigt dat er werknemers ontslagen worden bij de virtualrealityafdeling Reality Labs van het bedrijf. Om hoeveel werknemers het gaat, is niet duidelijk. Wel laat de maker van de fitnessgame Supernatural weten dat de studio door de ontslagronde getroffen is.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/234356/meta-bevestigt-ontslagronde-afdeling-virtual-reality.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234356</guid>
+            <pubDate>Fri, 25 Apr 2025 21:08:21 +0200</pubDate>
+        </item>
+        <item>
+            <title>FBI adviseert gebruik adblocker tegen malafide zoekadvertenties</title>
+            <link>https://tweakers.net/nieuws/234352/fbi-adviseert-gebruik-adblocker-tegen-malafide-zoekadvertenties.html</link>
+            <description>Het Amerikaanse FBI adviseert gebruikers van werknemerservicewebsites en overheidsdiensten om onder meer een adblocker tegen malafide zoekadvertenties te gebruiken. Volgens de opsporingsdienst gebruiken cybercriminelen zoekadvertenties om geld te stelen.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/234352/fbi-adviseert-gebruik-adblocker-tegen-malafide-zoekadvertenties.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234352</guid>
+            <pubDate>Fri, 25 Apr 2025 19:51:21 +0200</pubDate>
+        </item>
+        <item>
+            <title>Sony brengt Days Gone Remastered voor PlayStation 5 en dlc voor pc-versie uit</title>
+            <link>https://tweakers.net/nieuws/234354/sony-brengt-days-gone-remastered-voor-playstation-5-en-dlc-voor-pc-versie-uit.html</link>
+            <description>Sony Interactive Entertainment en Bend Studio brengen Days Gone Remastered uit voor de PlayStation 5. De Remastered-versie introduceert grafische verbeteringen en nieuwe gamemodi. Deze gamemodi zijn ook voor de pc-versie van Days Gone verkrijgbaar als dlc.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/234354/sony-brengt-days-gone-remastered-voor-playstation-5-en-dlc-voor-pc-versie-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234354</guid>
+            <pubDate>Fri, 25 Apr 2025 18:57:11 +0200</pubDate>
+        </item>
+        <item>
+            <title>Viaplay maakt verlies en verliest klein deel abonnees</title>
+            <link>https://tweakers.net/nieuws/234350/viaplay-maakt-verlies-en-verliest-klein-deel-abonnees.html</link>
+            <description>Viaplay verloor in het afgelopen kwartaal zo&#039;n 110.000 abonnees wereldwijd en maakte mede daardoor omgerekend zo&#039;n 11,3 miljoen euro verlies. De streamingdienst verliest al langer abonnees en zet sinds eind 2023 in op een herstructurering om consistenter winstgevend te zijn.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/234350/viaplay-maakt-verlies-en-verliest-klein-deel-abonnees.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234350</guid>
+            <pubDate>Fri, 25 Apr 2025 17:50:31 +0200</pubDate>
+        </item>
+        <item>
+            <title>Uitrol Android 14 ging bijna drie keer zo snel als die van Android 15</title>
+            <link>https://tweakers.net/nieuws/234348/uitrol-android-14-ging-bijna-drie-keer-zo-snel-als-die-van-android-15.html</link>
             <description>Android 15 stond zo&#039;n zeven maanden na de release op 4,5 procent van alle Android-toestellen. In diezelfde tijd werd Android 14 op zo&#039;n 13 procent van alle Android-smartphones geïnstalleerd. Dat verschil komt vermoedelijk door Samsung, die onlangs pas met een OS-upgrade kwam.</description>
             <author>Yannick Spinner</author>
             <category>Nieuws / Tablets en telefoons / Mobiele besturingssystemen</category>
-            <comments>https://tweakers.net/nieuws/234348/installatie-android-14-ging-bijna-drie-keer-zo-snel-als-die-van-android-15.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/234348/uitrol-android-14-ging-bijna-drie-keer-zo-snel-als-die-van-android-15.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234348</guid>
             <pubDate>Fri, 25 Apr 2025 16:28:28 +0200</pubDate>
         </item>
@@ -116,306 +416,6 @@
             <comments>https://tweakers.net/downloads/72452/winsshterm-2400.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72452</guid>
             <pubDate>Fri, 25 Apr 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Aqara brengt Hub M100 met USB-A-formfactor, Matter- en Thread-ondersteuning uit</title>
-            <link>https://tweakers.net/nieuws/234320/aqara-brengt-hub-m100-met-usb-a-formfactor-matter-en-thread-ondersteuning-uit.html</link>
-            <description>Aqara heeft een nieuwe smarthomehub uitgebracht. De M100 heeft dezelfde formfactor met USB-A als de eerdere Hub E1, maar de specificaties van de Hub M3 waardoor het apparaat als Matter-controller en Thread-borderrouter kan werken. De Hub M100 kost 26 euro.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Beeld en geluid / Basisstations</category>
-            <comments>https://tweakers.net/nieuws/234320/aqara-brengt-hub-m100-met-usb-a-formfactor-matter-en-thread-ondersteuning-uit.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234320</guid>
-            <pubDate>Fri, 25 Apr 2025 08:06:49 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - PowerShell 7.5.1</title>
-            <link>https://tweakers.net/downloads/72450/powershell-751.html</link>
-            <description>Microsoft heeft versie 7.5.1 van PowerShell uitgebracht. Deze objectgeoriënteerde shell- en scripttaal voor taakautomatisering bestaat uit een commandlineshell, een scripttaal en een framework voor configuratiebeheer. De software bestaat al sinds 2006 en is sinds versie 2.0 standaard onderdeel van Windows. Sinds eind 2016 is het opensource en ook beschikbaar voor Linux en macOS. PowerShell 7.5 is gebouwd met .NET versie 9.0. Hieronder is de changelog voor deze uitgave te vinden. Build and Packaging Improvements</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72450/powershell-751.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72450</guid>
-            <pubDate>Fri, 25 Apr 2025 07:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Rijksoverheid gaat afgeschreven laptops wissen en weggeven aan Nederlanders</title>
-            <link>https://tweakers.net/nieuws/234322/rijksoverheid-gaat-afgeschreven-laptops-wissen-en-weggeven-aan-nederlanders.html</link>
-            <description>De Nederlandse Rijksoverheid gaat afgeschreven laptops wissen en na een opknapbeurt beschikbaar stellen aan burgers. De laptops van ambtenaren zijn bedoeld om de toegang tot digitale diensten te vergroten voor burgers die het financieel niet breed hebben.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Laptops</category>
-            <comments>https://tweakers.net/nieuws/234322/rijksoverheid-gaat-afgeschreven-laptops-wissen-en-weggeven-aan-nederlanders.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234322</guid>
-            <pubDate>Fri, 25 Apr 2025 07:29:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Review - Amazfit Active 2 en T-Rex 3 - Veel horloge voor weinig geld</title>
-            <link>https://tweakers.net/reviews/13192/amazfit-active-2-en-t-rex-3-veel-horloge-voor-weinig-geld.html</link>
-            <description>Amazfit biedt met de Active 2 (99 euro) en T-Rex 3 (235 euro) betaalbare smartwatches met veel functies, beide met prima specs en een prima batterijduur.</description>
-            <author>Eric van Ballegoie</author>
-            <category>Review / Tablets en telefoons / Smartwatches</category>
-            <comments>https://tweakers.net/reviews/13192/7/amazfit-active-2-en-t-rex-3-veel-horloge-voor-weinig-geld-conclusie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13192</guid>
-            <pubDate>Fri, 25 Apr 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Videoreview - Veel horloge voor weinig geld - Amazfit Active 2</title>
-            <link>https://tweakers.net/video/19870/veel-horloge-voor-weinig-geld-amazfit-active-2.html</link>
-            <description>Betaalbare smartwatches met veel functies en een goede bouwkwaliteit − dat is in een notendop wat Amazfit biedt met de Active 2. Het is een elegant en compact horloge met een prijskaartje van net geen 100 euro.</description>
-            <author>Mark van der Kruit</author>
-            <category>Videoreview / Tablets en telefoons / Smartwatches</category>
-            <comments>https://tweakers.net/video/19870/veel-horloge-voor-weinig-geld-amazfit-active-2.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/video/19870</guid>
-            <pubDate>Fri, 25 Apr 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - eM Client 10.3.1720</title>
-            <link>https://tweakers.net/downloads/72448/em-client-1031720.html</link>
-            <description>Versie 10.3.1720 van eM Client is uitgebracht. Deze e-mailclient is beschikbaar voor Windows, macOS, Android en iOS. Het programma heeft ook een kalender, er kunnen taken en notities worden bijgehouden en er kan worden gechat via Google Talk, Jabber en via het XMPP-protocol. Het programma is gratis voor privégebruik, maar voor extra mogelijkheden of bij gebruik van meer dan twee accounts wordt wel een vergoeding gevraagd. Uitgebreide informatie over versie 10 is op deze pagina te vinden. De changelog voor deze uitgave kan hieronder worden gevonden. Changes in eM Client version 10.3.1720.0</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72448/em-client-1031720.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72448</guid>
-            <pubDate>Thu, 24 Apr 2025 21:56:43 +0200</pubDate>
-        </item>
-        <item>
-            <title>Motorola&#039;s vouwbare telefoon kost bij release 100 euro minder dan voorganger</title>
-            <link>https://tweakers.net/nieuws/234318/motorolas-vouwbare-telefoon-kost-bij-release-100-euro-minder-dan-voorganger.html</link>
-            <description>Motorola&#039;s vouwbare telefoon razr 60 kost bij release 799 euro en dat is 100 euro minder dan zijn voorganger razr 50. De duurdere razr 60 ultra die tegelijk uitkomt, kost juist 100 euro meer dan de vorige versie bij introductie: 1299 euro.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/234318/motorolas-vouwbare-telefoon-kost-bij-release-100-euro-minder-dan-voorganger.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234318</guid>
-            <pubDate>Thu, 24 Apr 2025 20:51:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Razer komt met eerste verticale ergonomische muis</title>
-            <link>https://tweakers.net/nieuws/234316/razer-komt-met-eerste-verticale-ergonomische-muis.html</link>
-            <description>Razer heeft zijn eerste verticale ergonomische muis gepresenteerd. De muis staat onder een hoek van 71,7º en heeft een verlengde duimsteun die moet zorgen voor ontspanning in de hand. Er komt ook een reguliere versie van de muis.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Computers / Muizen</category>
-            <comments>https://tweakers.net/nieuws/234316/razer-komt-met-eerste-verticale-ergonomische-muis.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234316</guid>
-            <pubDate>Thu, 24 Apr 2025 20:12:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Nieuwe regels Instagram zorgen mogelijk voor schendingen mensenrechten&#039;</title>
-            <link>https://tweakers.net/nieuws/234314/nieuwe-regels-instagram-zorgen-mogelijk-voor-schendingen-mensenrechten.html</link>
-            <description>De nieuwe moderatieregels die Meta in januari aankondigde voor Instagram en Facebook zorgen mogelijk voor schendingen van mensenrechten. Meta&#039;s eigen toezichthouder roept het bedrijf openlijk op om onderzoek te doen naar de impact van de nieuwe regels.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/234314/nieuwe-regels-instagram-zorgen-mogelijk-voor-schendingen-mensenrechten.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234314</guid>
-            <pubDate>Thu, 24 Apr 2025 19:54:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Belgische provider verstopt goedkoop abonnement, maar belooft site aan te passen</title>
-            <link>https://tweakers.net/nieuws/234312/belgische-provider-verstopt-goedkoop-abonnement-maar-belooft-site-aan-te-passen.html</link>
-            <description>De Belgische provider Hey! Telecom, een dochtermerk van Orange, heeft het goedkoopste abonnement op zijn website verstopt. Het abonnement van 5 euro met een databundel van 15GB met 5G is wel verkrijgbaar.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Tablets en telefoons / Sim-only abonnementen</category>
-            <comments>https://tweakers.net/nieuws/234312/belgische-provider-verstopt-goedkoop-abonnement-maar-belooft-site-aan-te-passen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234312</guid>
-            <pubDate>Thu, 24 Apr 2025 19:17:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google Chrome is als apart bedrijf 50 miljard dollar waard, zegt DuckDuckGo</title>
-            <link>https://tweakers.net/nieuws/234310/google-chrome-is-als-apart-bedrijf-50-miljard-dollar-waard-zegt-duckduckgo.html</link>
-            <description>Als Google zijn browser Chrome zou afsplitsen, zou dat als apart bedrijf ongeveer 50 miljard dollar waard zijn. Dat schatte de directeur van concurrerende zoekmachine DuckDuckGo. Dat kan DuckDuckGo niet betalen.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Computers / Browsers</category>
-            <comments>https://tweakers.net/nieuws/234310/google-chrome-is-als-apart-bedrijf-50-miljard-dollar-waard-zegt-duckduckgo.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234310</guid>
-            <pubDate>Thu, 24 Apr 2025 18:51:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>WhatsApp: AI-chatbot is niet uit te schakelen, zoals channels en status</title>
-            <link>https://tweakers.net/nieuws/234308/whatsapp-ai-chatbot-is-niet-uit-te-schakelen-zoals-channels-en-status.html</link>
-            <description>WhatsApp gaat zijn AI-chatbot niet verwijderbaar maken, zegt moederbedrijf Meta. Het is een optie die in de app blijft staan, net als onder meer channels en status. Er is afgelopen tijd kritiek op de functie die als knop en zoekbalk in WhatsApp is komen te staan.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/234308/whatsapp-ai-chatbot-is-niet-uit-te-schakelen-zoals-channels-en-status.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234308</guid>
-            <pubDate>Thu, 24 Apr 2025 18:08:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Regering-Trump: Europese boetes voor Apple en Meta zijn &#039;economische afpersing&#039;</title>
-            <link>https://tweakers.net/nieuws/234304/regering-trump-europese-boetes-voor-apple-en-meta-zijn-economische-afpersing.html</link>
-            <description>De boetes die de Europese Commissie oplegde aan Apple en Meta voor het overtreden van de Digital Markets Act zijn &#039;economische afpersing&#039;, zo zegt de regering-Trump. De Amerikaanse overheid zal de boetes naar eigen zeggen niet tolereren.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/234304/regering-trump-europese-boetes-voor-apple-en-meta-zijn-economische-afpersing.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234304</guid>
-            <pubDate>Thu, 24 Apr 2025 17:29:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Frostpunk-remake op basis van Unreal Engine 5 komt in 2027 uit</title>
-            <link>https://tweakers.net/nieuws/234306/frostpunk-remake-op-basis-van-unreal-engine-5-komt-in-2027-uit.html</link>
-            <description>Frostpunk-ontwikkelaar 11 Bit Studios komt met een remake van het originele spel. Frostpunk 1886 wordt opnieuw gemaakt in de Unreal Engine 5. Naast visuele upgrades komen er ook nieuwe functies in het spel zoals nieuwe mechanics. Ook komt er ondersteuning voor mods.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/234306/frostpunk-remake-op-basis-van-unreal-engine-5-komt-in-2027-uit.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234306</guid>
-            <pubDate>Thu, 24 Apr 2025 17:04:16 +0200</pubDate>
-        </item>
-        <item>
-            <title>Preview - F1 25 - Meer managen en terugkeer Braking Point</title>
-            <link>https://tweakers.net/reviews/13186/f1-25-meer-managen-en-terugkeer-braking-point.html</link>
-            <description>F1 25 maakt van My Team een managermodus en voegt pathtracing toe aan de pc-versie van de game.</description>
-            <author>Jurian Ubachs</author>
-            <category>Preview / Gaming / Games</category>
-            <comments>https://tweakers.net/reviews/13186/4/f1-25-meer-managen-en-terugkeer-braking-point-voorlopige-conclusie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13186</guid>
-            <pubDate>Thu, 24 Apr 2025 17:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>OpenAI laat externe ontwikkelaars 4o-beeldgenerator gebruiken via api</title>
-            <link>https://tweakers.net/nieuws/234302/openai-laat-externe-ontwikkelaars-4o-beeldgenerator-gebruiken-via-api.html</link>
-            <description>OpenAI maakt de 4o-beeldgenerator uit ChatGPT ook beschikbaar voor de api. Daarmee wordt het ook mogelijk om afbeeldingen te genereren via apps van derde partijen als die ChatGPT hebben geïntegreerd in hun software.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Internet</category>
-            <comments>https://tweakers.net/nieuws/234302/openai-laat-externe-ontwikkelaars-4o-beeldgenerator-gebruiken-via-api.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234302</guid>
-            <pubDate>Thu, 24 Apr 2025 16:42:17 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Deals - De beste elektronicadeals van week 17 2025</title>
-            <link>https://tweakers.net/plan/4400/de-beste-elektronicadeals-van-week-17-2025.html</link>
-            <description>De interessante prijsdalingen, cashbackacties, kortingscodes en comboaanbiedingen van week 17 van 2025, geselecteerd door het Pricewatch-team.</description>
-            <author>Tweakers Pricewatch</author>
-            <category>.deals</category>
-            <comments>https://tweakers.net/plan/4400/de-beste-elektronicadeals-van-week-17-2025.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/plan/4400</guid>
-            <pubDate>Thu, 24 Apr 2025 16:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>AIVD: meer landen hebben offensief cyberprogramma door commerciële spyware</title>
-            <link>https://tweakers.net/nieuws/234300/aivd-meer-landen-hebben-offensief-cyberprogramma-door-commerciele-spyware.html</link>
-            <description>Het wordt voor landen steeds makkelijker een goed offensief cyberprogramma op te stellen. Bovendien zijn aanvallen door staatshackers steeds effectiever omdat bedrijven zich vaak niet goed beveiligen door bijvoorbeeld patches niet te installeren, waarschuwt de AIVD.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/234300/aivd-meer-landen-hebben-offensief-cyberprogramma-door-commerciele-spyware.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234300</guid>
-            <pubDate>Thu, 24 Apr 2025 15:59:36 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Unbound 1.23.0</title>
-            <link>https://tweakers.net/downloads/72446/unbound-1230.html</link>
-            <description>Als je een DNS-lookup uitvoert, begint een recursor in eerste instantie met het stellen van de lookupvraag aan een DNS-rootserver. Deze kan dan doorverwijzen naar andere servers, vanaf waar weer doorverwezen kan worden naar andere servers enzovoort, totdat uiteindelijk een server is bereikt die het antwoord weet, of weet dat de lookup niet mogelijk is. Van dit laatste kan sprake zijn als de naam niet bestaat of de servers niet reageren. Het proces van het langslopen van verschillende authoritative servers heet recursie. Unbound is een DNS-recursor met ondersteuning voor moderne standaarden, zoals Query Name Minimisation, Aggressive Use of Dnssec-Validated Cache en authority zones. Versie 1.23 is uitgebracht en hierin zijn de volgende veranderingen en verbeteringen aangebracht: Features</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72446/unbound-1230.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72446</guid>
-            <pubDate>Thu, 24 Apr 2025 15:51:22 +0200</pubDate>
-        </item>
-        <item>
-            <title>FBI: Cybercrimeschade liep in 2024 op tot 16 miljard dollar in de VS</title>
-            <link>https://tweakers.net/nieuws/234296/fbi-cybercrimeschade-liep-in-2024-op-tot-16-miljard-dollar-in-de-vs.html</link>
-            <description>Cybercriminaliteit richtte in de Verenigde Staten in 2024 ruim 16 miljard dollar aan schade aan. Dat is een toename van 33 procent ten opzichte van 2023, zegt de FBI in een nieuw rapport op basis van 859.532 meldingen over vermoedelijke cybercriminaliteit.</description>
-            <author>Eveline Meijer</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/234296/fbi-cybercrimeschade-liep-in-2024-op-tot-16-miljard-dollar-in-de-vs.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234296</guid>
-            <pubDate>Thu, 24 Apr 2025 14:49:11 +0200</pubDate>
-        </item>
-        <item>
-            <title>Kassa&#039;s Delhaize selecteren door bug producten die klanten niet hebben gekocht</title>
-            <link>https://tweakers.net/nieuws/234292/kassas-delhaize-selecteren-door-bug-producten-die-klanten-niet-hebben-gekocht.html</link>
-            <description>Het kassasysteem van de Belgische supermarktketen Delhaize slaat al maanden producten aan die klanten helemaal niet hebben gekocht. Daardoor betalen klanten soms tot tientallen euro&#039;s extra voor een product dat ze niet hebben ontvangen.</description>
-            <author>Eveline Meijer</author>
-            <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/234292/kassas-delhaize-selecteren-door-bug-producten-die-klanten-niet-hebben-gekocht.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234292</guid>
-            <pubDate>Thu, 24 Apr 2025 13:49:13 +0200</pubDate>
-        </item>
-        <item>
-            <title>AP benadrukt: bezwaar maken tegen AI-training Meta moet voor 27 mei - update</title>
-            <link>https://tweakers.net/nieuws/234290/ap-benadrukt-bezwaar-maken-tegen-ai-training-meta-moet-voor-27-mei.html</link>
-            <description>Facebook- en Instagram-eigenaar Meta gaat vanaf 27 mei openbare data van gebruikers inzetten voor het trainen van zijn AI. Wie dat niet wil, moet nu al bezwaar maken, zo waarschuwt de Nederlandse privacytoezichthouder Autoriteit Persoonsgegevens.</description>
-            <author>Eveline Meijer</author>
-            <category>Nieuws / IT Pro / Privacy</category>
-            <comments>https://tweakers.net/nieuws/234290/ap-benadrukt-bezwaar-maken-tegen-ai-training-meta-moet-voor-27-mei.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234290</guid>
-            <pubDate>Thu, 24 Apr 2025 13:18:50 +0200</pubDate>
-        </item>
-        <item>
-            <title>Onderzoeker: Windows-update voor &#039;inetpub&#039;-map veroorzaakt beveiligingsprobleem</title>
-            <link>https://tweakers.net/nieuws/234288/onderzoeker-windows-update-voor-inetpub-map-veroorzaakt-beveiligingsprobleem.html</link>
-            <description>De beveiligingsupdates die Microsoft tijdens de Patch Tuesday van april heeft uitgerold, zorgen mogelijk voor een nieuw beveiligingsprobleem. Als onderdeel van de updates wordt een nieuwe lege map aangemaakt genaamd &#039;inetpub&#039;. Die map blijkt gemakkelijk te misbruiken te zijn.</description>
-            <author>Eveline Meijer</author>
-            <category>Nieuws / Computers / Besturingssystemen</category>
-            <comments>https://tweakers.net/nieuws/234288/onderzoeker-windows-update-voor-inetpub-map-veroorzaakt-beveiligingsprobleem.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234288</guid>
-            <pubDate>Thu, 24 Apr 2025 12:00:26 +0200</pubDate>
-        </item>
-        <item>
-            <title>PS5-update brengt klassieke thema&#039;s van oudere PlayStations terug</title>
-            <link>https://tweakers.net/nieuws/234286/ps5-update-brengt-klassieke-themas-van-oudere-playstations-terug.html</link>
-            <description>Sony heeft de klassieke thema&#039;s van oudere PlayStations definitief teruggebracht naar de PlayStation 5. Deze thema&#039;s werden eind december tijdelijk als onderdeel van de dertigste verjaardag van PlayStation voor de PS5 uitgebracht.</description>
-            <author>Eveline Meijer</author>
-            <category>Nieuws / Gaming / Consoles</category>
-            <comments>https://tweakers.net/nieuws/234286/ps5-update-brengt-klassieke-themas-van-oudere-playstations-terug.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234286</guid>
-            <pubDate>Thu, 24 Apr 2025 11:17:46 +0200</pubDate>
-        </item>
-        <item>
-            <title>Noyb dient klacht in over Ubisoft vanwege tracking van spelers singleplayergames</title>
-            <link>https://tweakers.net/nieuws/234284/noyb-dient-klacht-in-over-ubisoft-vanwege-tracking-van-spelers-singleplayergames.html</link>
-            <description>Privacyorganisatie noyb dient een klacht in over Ubisoft bij de Oostenrijkse privacytoezichthouder DSB. Volgens noyb schendt Ubisoft de Algemene Verordening Gegevensbescherming door spelers te dwingen online te zijn, zelfs als ze een singleplayerspel spelen.</description>
-            <author>Eveline Meijer</author>
-            <category>Nieuws / IT Pro / Privacy</category>
-            <comments>https://tweakers.net/nieuws/234284/noyb-dient-klacht-in-over-ubisoft-vanwege-tracking-van-spelers-singleplayergames.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234284</guid>
-            <pubDate>Thu, 24 Apr 2025 10:46:59 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nederlandse kentekenplicht voor elektrische steps gaat per 1 juli in</title>
-            <link>https://tweakers.net/nieuws/234282/nederlandse-kentekenplicht-voor-elektrische-steps-gaat-per-1-juli-in.html</link>
-            <description>Goedgekeurde elektrische steps, bijzondere bromfietsen en andere &#039;licht elektrische voertuigen zonder trapondersteuning&#039; krijgen in Nederland per 1 juli een kentekenplicht. Dat zegt minister Barry Madlener van Infrastructuur en Waterstaat in De Telegraaf.</description>
-            <author>Eveline Meijer</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/234282/nederlandse-kentekenplicht-voor-elektrische-steps-gaat-per-1-juli-in.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234282</guid>
-            <pubDate>Thu, 24 Apr 2025 10:29:41 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google start reparatieprogramma voor accu Pixel 7a die onverwacht kan opzwellen</title>
-            <link>https://tweakers.net/nieuws/234280/google-start-reparatieprogramma-voor-accu-pixel-7a-die-onverwacht-kan-opzwellen.html</link>
-            <description>Google is een reparatieprogramma gestart voor de accu van de Pixel 7a. Het bedrijf meldt dat de accu bij sommige Pixel 7a-telefoons onverwacht is gaan opzwellen. De telefoons zijn echter niet in alle landen te repareren. Daarom wordt in een aantal landen een vergoeding gegeven.</description>
-            <author>Eveline Meijer</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/234280/google-start-reparatieprogramma-voor-accu-pixel-7a-die-onverwacht-kan-opzwellen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234280</guid>
-            <pubDate>Thu, 24 Apr 2025 09:32:56 +0200</pubDate>
-        </item>
-        <item>
-            <title>Bowers &amp; Wilkins brengt Px7 S3 over-ears uit voor 429 euro</title>
-            <link>https://tweakers.net/nieuws/234248/bowers-en-wilkins-brengt-px7-s3-over-ears-uit-voor-429-euro.html</link>
-            <description>Bowers &amp; Wilkins heeft donderdag de Bowers &amp; Wilkins Px7 S3 uitgebracht, een nieuwe over-earbluetoothhoofdtelefoon. Deze opvolger van de Px7 S2e zou verbeterde noisecancelling hebben en een betere geluidskwaliteit hebben. De Px7 S3 heeft een adviesprijs van 429 euro.</description>
-            <author>Sjef Weller</author>
-            <category>Nieuws / Beeld en geluid / Hoofdtelefoons</category>
-            <comments>https://tweakers.net/nieuws/234248/bowers-en-wilkins-brengt-px7-s3-over-ears-uit-voor-429-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234248</guid>
-            <pubDate>Thu, 24 Apr 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - DaVinci Resolve 20.0 bèta 2</title>
-            <link>https://tweakers.net/downloads/72444/davinci-resolve-200-beta-2.html</link>
-            <description>Blackmagic Design heeft de eerste bèta van versie 20.0 van DaVinci Resolve uitgebracht. DaVinci Resolve is een videobewerkingsprogramma voor Windows, macOS en Linux. Het is beschikbaar in de gratis DaVinci Resolve-uitvoering en het betaalde DaVinci Resolve Studio. Dat laatste beschikt over extra functionaliteit, zoals de mogelijkheid om in hogere resoluties en grotere aantallen frames per seconde te werken en de mogelijkheid om van extra grafische processors en OpenFX-plug-ins gebruik te maken. De verbeteringen die in versie 20.0 zijn aangebracht kun je op deze pagina vinden; dit is wat er in bèta 2 is veranderd: What&#039;s New in DaVinci Resolve 20 Public Beta 2</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72444/davinci-resolve-200-beta-2.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72444</guid>
-            <pubDate>Thu, 24 Apr 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Nieuwe D&amp;D-regels mogen onder CC-licentie door iedereen gebruikt worden</title>
-            <link>https://tweakers.net/geek/234278/nieuwe-d-en-d-regels-mogen-onder-cc-licentie-door-iedereen-gebruikt-worden.html</link>
-            <description>Wizards of the Coast heeft de essentie van de nieuwste set regels voor Dungeons &amp; Dragons uitgebracht onder een Creative Commons-licentie. Dat betekent dat deze informatie gebruikt mag worden om eigen materiaal te maken rondom Dungeons &amp; Dragons.</description>
-            <author>Eveline Meijer</author>
-            <category>.Geek / Gaming / Games</category>
-            <comments>https://tweakers.net/geek/234278/nieuwe-d-en-d-regels-mogen-onder-cc-licentie-door-iedereen-gebruikt-worden.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/234278</guid>
-            <pubDate>Thu, 24 Apr 2025 08:47:02 +0200</pubDate>
         </item>
     </channel>
 </rss>
