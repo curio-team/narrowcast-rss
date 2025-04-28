@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 28 Apr 2025 12:06:09 +0200</pubDate>
-        <lastBuildDate>Mon, 28 Apr 2025 12:06:09 +0200</lastBuildDate>
+        <pubDate>Mon, 28 Apr 2025 12:56:01 +0200</pubDate>
+        <lastBuildDate>Mon, 28 Apr 2025 12:56:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - qBittorrent 5.1.0</title>
+            <link>https://tweakers.net/downloads/72474/qbittorrent-510.html</link>
+            <description>Versie 5.1.0 van qBittorrent is verschenen. Deze opensource torrentclient heeft versies voor Windows, Linux en macOS. Het programma wordt met Qt ontwikkeld en is gebaseerd op libtorrent (rasterbar) en Boost. Het programma is het geesteskind van de Fransman Christophe Dumez, die er sinds begin 2006 aan werkt. Tegenwoordig wordt het door de community onderhouden. Er zijn twee downloads beschikbaar. De ene bevat libtorrent 1.2, de andere versie 2.0. Voor de gebruikersinterface wordt van Qt6 gebruikgemaakt, wat betekent dat minimaal Windows 10 vereist is. De changelog voor deze uitgave kan hieronder worden gevonden. New:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72474/qbittorrent-510.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72474</guid>
+            <pubDate>Mon, 28 Apr 2025 12:18:25 +0200</pubDate>
+        </item>
+        <item>
+            <title>Websites Nederlandse provincies onbereikbaar door cyberaanval</title>
+            <link>https://tweakers.net/nieuws/234390/websites-nederlandse-provincies-onbereikbaar-door-cyberaanval.html</link>
+            <description>De websites van verschillende Nederlandse gemeenten en provincies werden maandagochtend getroffen door een grootschalige cyberaanval. Hierdoor waren ze urenlang niet bereikbaar. Het zou mogelijks om een ddos-aanval van de Russische hackersgroep Noname gaan.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / Computers / Networking en security</category>
+            <comments>https://tweakers.net/nieuws/234390/websites-nederlandse-provincies-onbereikbaar-door-cyberaanval.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234390</guid>
+            <pubDate>Mon, 28 Apr 2025 12:17:26 +0200</pubDate>
+        </item>
+        <item>
+            <title>Alienware Area 51-laptops met glazen onderkant kosten minstens 4100 euro</title>
+            <link>https://tweakers.net/nieuws/234388/alienware-area-51-laptops-met-glazen-onderkant-kosten-minstens-4100-euro.html</link>
+            <description>Alienware heeft prijzen van de Area 51-gaminglaptops met glazen onderkant bekendgemaakt. Het 16”-basismodel met een GeForce RTX 5080 kost 4100 euro. Het 18”-basismodel met dezelfde gpu kost minstens 4300 euro. Beide modellen zijn per direct beschikbaar.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / Computers / Laptops</category>
+            <comments>https://tweakers.net/nieuws/234388/alienware-area-51-laptops-met-glazen-onderkant-kosten-minstens-4100-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234388</guid>
+            <pubDate>Mon, 28 Apr 2025 12:10:51 +0200</pubDate>
+        </item>
         <item>
             <title>Testgebruiker deelt gameplaybeelden van Battlefield 6-alphatest</title>
             <link>https://tweakers.net/nieuws/234386/testgebruiker-deelt-gameplaybeelden-van-battlefield-6-alphatest.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/234326/oneplus-brengt-oneplus-13t-met-aanpasbare-knop-en-grote-accu-in-china-uit.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234326</guid>
             <pubDate>Fri, 25 Apr 2025 11:48:30 +0200</pubDate>
-        </item>
-        <item>
-            <title>Upgradeversies van Nintendo Switch 2-games gaan tien of twintig euro kosten</title>
-            <link>https://tweakers.net/nieuws/234332/upgradeversies-van-nintendo-switch-2-games-gaan-tien-of-twintig-euro-kosten.html</link>
-            <description>De upgrades voor Nintendo Switch 2-games gaan tussen de tien en twintig euro kosten. Nintendo heeft vier games in de eShop gezet waarvoor bezitters een upgrade kunnen kopen, die dezelfde euro- als dollarprijzen krijgen. Afhankelijk van de nieuwe features is dat 9,99 of 19,99 euro.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/234332/upgradeversies-van-nintendo-switch-2-games-gaan-tien-of-twintig-euro-kosten.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234332</guid>
-            <pubDate>Fri, 25 Apr 2025 10:46:31 +0200</pubDate>
-        </item>
-        <item>
-            <title>VideoCardz: foto&#039;s bevestigen dat Radeon RX 9070 GRE 12GB vram krijgt</title>
-            <link>https://tweakers.net/nieuws/234330/videocardz-fotos-bevestigen-dat-radeon-rx-9070-gre-12gb-vram-krijgt.html</link>
-            <description>De aankomende Radeon RX 9070 GRE-gpu van AMD krijgt 12GB aan GDDR6-videogeheugen, zegt VideoCardz op basis van afbeeldingen die het van de kaart heeft bemachtigd. Volgens de site gebruikt de gpu dezelfde koelers als de reguliere 9070-serie en de XT-variant.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/nieuws/234330/videocardz-fotos-bevestigen-dat-radeon-rx-9070-gre-12gb-vram-krijgt.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234330</guid>
-            <pubDate>Fri, 25 Apr 2025 09:57:01 +0200</pubDate>
-        </item>
-        <item>
-            <title>Apple wil alle Amerikaanse iPhones in India laten maken vanwege importheffingen</title>
-            <link>https://tweakers.net/nieuws/234328/apple-wil-alle-amerikaanse-iphones-in-india-laten-maken-vanwege-importheffingen.html</link>
-            <description>Apple is van plan de productie van alle iPhones die in de VS worden verkocht naar India te verplaatsen. Het bedrijf wil al langer zijn productie deels uit China weghalen, maar versnelt dat plan vanwege de importheffingen die door Donald Trump werden ingesteld.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Economie en maatschappij</category>
-            <comments>https://tweakers.net/nieuws/234328/apple-wil-alle-amerikaanse-iphones-in-india-laten-maken-vanwege-importheffingen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234328</guid>
-            <pubDate>Fri, 25 Apr 2025 09:14:12 +0200</pubDate>
         </item>
     </channel>
 </rss>
