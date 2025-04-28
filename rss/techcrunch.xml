@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 28 Apr 2025 12:33:15 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 28 Apr 2025 13:24:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,71 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Meet the companies racing to build quantum chips</title>
+		<link>https://techcrunch.com/2025/04/28/meet-the-companies-racing-to-build-quantum-chips/</link>
+		
+		<dc:creator><![CDATA[Anna Heim]]></dc:creator>
+		<pubDate>Mon, 28 Apr 2025 13:24:14 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[chips]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<category><![CDATA[quantum computing]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2999559</guid>
+
+					<description><![CDATA[Quantum computing has long been announced as “just around the corner,” but several companies are now determined to make this a commercial reality, with the promise of solving complex problems beyond classical computers’ reach. The problems in question are wide-ranging, from medicine and cybersecurity to materials science and chemistry. But first, there are very practical [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>IBM pledges to spend $150B in the US over the next few years</title>
+		<link>https://techcrunch.com/2025/04/28/ibm-pledges-to-spend-150b-in-the-u-s-over-the-next-few-years/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Mon, 28 Apr 2025 13:22:36 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[IBM]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2999836</guid>
+
+					<description><![CDATA[Enterprise tech giant IBM says that it plans to invest $150 billion in the U.S. over the next five years, which will include a &#8220;more than&#8221; $30 billion investment in mainframe and quantum computing research. The goal is to fuel the economy and &#8220;accelerate [IBM&#8217;s] role as the global leader in computing,&#8221; the company said in a press release Monday. [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI animation startup Cheehoo lands $10M funding from Greycroft</title>
+		<link>https://techcrunch.com/2025/04/28/ai-animation-startup-cheehoo-lands-10m-funding-from-greycroft/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Mon, 28 Apr 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[greycroft]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2995410</guid>
+
+					<description><![CDATA[Creating animation is a time-consuming process, requiring multiple steps including storyboarding, rendering, composition, and lighting to craft a single scene. If a director wants to experiment with a different take for a scene, an animation team has to go back and tweak things before the scene can be finalized. Cheehoo, a startup founded by a [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Volution doubles-down on booming UK fintech with new $100M fund</title>
+		<link>https://techcrunch.com/2025/04/28/volution-doubles-down-on-booming-uk-fintech-with-new-100m-fund/</link>
+		
+		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
+		<pubDate>Mon, 28 Apr 2025 12:51:42 +0000</pubDate>
+				<category><![CDATA[Venture]]></category>
+		<category><![CDATA[venture]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2999816</guid>
+
+					<description><![CDATA[The UK fintech sector is on a bit of roll. Allica Bank – a London-based fintech – recently announced it had&#160;doubled its profits in 2024,&#160;bringing in £29.9 million, while Neobank Revolut announced a £1bn profit in 2024. Companies of this nature continue to spring out of London, a city which has become a fintech global [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Lightrun grabs $70M using AI to debug code in production</title>
 		<link>https://techcrunch.com/2025/04/28/lightrun-grabs-70m-using-ai-to-debug-code-in-production/</link>
 		
@@ -42,7 +107,7 @@
 		<category><![CDATA[Lightrun]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2999807</guid>
 
-					<description><![CDATA[AI-based coding has exploded in popularity on the promise that it will make developers’ jobs faster and easier. But it’s also resulted in something else: a vast increase in lines of code, and thus the likelihood of bugs resulting in crashes or other mishaps. Today, an Israeli startup called Lightrun — which has built an [&#8230;]]]></description>
+					<description><![CDATA[AI-based coding has exploded in popularity on the promise that it will make developers’ jobs faster and easier. But AI coding has also resulted in something else: a vast increase in lines of code, and thus the likelihood of bugs resulting in crashes or other mishaps. On Monday, an Israeli startup called Lightrun, which has [&#8230;]]]></description>
 		
 		
 		
@@ -302,78 +367,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2986308</guid>
 
 					<description><![CDATA[Perhaps no one in the world has made such catastrophic tech flubs this year as U.S. Secretary of Defense Pete Hegseth. The saga started when the editor-in-chief of The Atlantic, Jeffrey Goldberg, reported that he had been mistakenly added to an unauthorized Signal group chat by U.S. National Security Advisor Michael Waltz, where numerous high-ranking [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Lately&#8217;s new gamified app helps people arrive on time</title>
-		<link>https://techcrunch.com/2025/04/26/latelys-new-gamified-app-helps-people-arrive-on-time/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Sat, 26 Apr 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[iOS app]]></category>
-		<category><![CDATA[time management]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2999165</guid>
-
-					<description><![CDATA[A new app called Lately launched on the App Store a few weeks ago, targeting people with ADHD to help them arrive on time and rewarding them for doing so. The service is designed to help users manage their travel plans by notifying them when it&#8217;s time to leave for a trip, sending reminders 30 [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The OpenAI mafia: 15 of the most notable startups founded by alumni</title>
-		<link>https://techcrunch.com/2025/04/26/the-openai-mafia-15-of-the-most-notable-startups-founded-by-alumni/</link>
-		
-		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
-		<pubDate>Sat, 26 Apr 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[xAI]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[Perplexity]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2998812</guid>
-
-					<description><![CDATA[Move over, PayPal mafia: There’s a new tech mafia in Silicon Valley. As the startup behind ChatGPT, OpenAI is arguably the biggest AI player in town. Its meteoric rise to a $300 billion valuation has spurred many employees to leave the AI giant to create startups of their own. The hype around OpenAI is so [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Instagram Edits topped 7M downloads in first week, a bigger launch than CapCut&#8217;s</title>
-		<link>https://techcrunch.com/2025/04/26/instagram-edits-topped-7m-downloads-in-first-week-a-bigger-launch-than-capcuts/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Sat, 26 Apr 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Instagram]]></category>
-		<category><![CDATA[videos]]></category>
-		<category><![CDATA[edits]]></category>
-		<category><![CDATA[Creators]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2999175</guid>
-
-					<description><![CDATA[Instagram Edits, Meta&#8217;s newly released video creation app, had a bigger debut than its direct competitor, ByteDance&#8217;s CapCut, once did. The new app, which today helps users craft videos for Instagram reels, stories, and other social posts, was downloaded an estimated 702,900 times on iOS devices during its first two days on the market. That&#8217;s [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Musk&#8217;s xAI Holdings is reportedly raising the second-largest private funding round ever</title>
-		<link>https://techcrunch.com/2025/04/25/musks-xai-holdings-is-reportedly-raising-the-second-largest-private-funding-round-ever/</link>
-		
-		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
-		<pubDate>Sat, 26 Apr 2025 05:29:11 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[xAI Holdings]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2999535</guid>
-
-					<description><![CDATA[Elon Musk&#8217;s xAI Holdings is in talks to raise $20 billion in fresh funding, potentially valuing the AI and social media combo at over $120 billion, according to a new Bloomberg report that says talks are in the &#8220;early stages.&#8221; If successful, the deal would be the second-largest startup funding round ever, behind only OpenAI&#8217;s [&#8230;]]]></description>
 		
 		
 		
