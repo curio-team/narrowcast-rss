@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 29 Apr 2025 14:41:00 +0200</pubDate>
-        <lastBuildDate>Tue, 29 Apr 2025 14:41:00 +0200</lastBuildDate>
+        <pubDate>Tue, 29 Apr 2025 15:36:00 +0200</pubDate>
+        <lastBuildDate>Tue, 29 Apr 2025 15:36:00 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Alibaba brengt Qwen3-AI-taalmodel uit</title>
+            <link>https://tweakers.net/nieuws/234444/alibaba-brengt-qwen3-ai-taalmodel-uit.html</link>
+            <description>Alibaba heeft het Qwen3-taalmodel uitgebracht. Het gaat om een geüpdatete versie van de eerdere Qwen2-modellen. Het model, dat grotendeels opensource beschikbaar komt via Hugging Face en GitHub, omvat verschillende varianten van 0,6 tot 235 miljard parameters.</description>
+            <author>Andrei Stiru</author>
+            <category>Nieuws / Computers / Software</category>
+            <comments>https://tweakers.net/nieuws/234444/alibaba-brengt-qwen3-ai-taalmodel-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234444</guid>
+            <pubDate>Tue, 29 Apr 2025 15:06:53 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Blender 4.4.2</title>
+            <link>https://tweakers.net/downloads/72484/blender-442.html</link>
+            <description>Versie 4.4.2 van het crossplatform- en opensourceprogramma Blender is uitgekomen, een versie met extra lange ondersteuning. Deze applicatie is bedoeld voor 3d-modelling, animatie, rendering, postproduction, interactive creation en playback. Meer informatie over de uitgebreide mogelijkheden van Blender kan op deze pagina worden gevonden. Met dit programma zijn onder meer de korte opensource animatiefilms Elephants Dream, Big Buck Bunny, Sintel, Tears of Steel, Cosmos Laundromat en Sprite Fright gemaakt. Ook Flow, wat dit jaar onder meer een Oscar en Golden Globe voor beste animatiefilm in de wacht sleepte, is met Blender gemaakt. Uitgebreide informatie over de veranderingen en versie 4.4 zijn op deze pagina te vinden; in deze tweede update zijn de volgende verbeteringen aangebracht: Blender 4.4.2</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72484/blender-442.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72484</guid>
+            <pubDate>Tue, 29 Apr 2025 14:53:57 +0200</pubDate>
+        </item>
         <item>
             <title>&#039;DJI Mavic 4 Pro verschijnt op 13 mei voor 2189 euro&#039;</title>
             <link>https://tweakers.net/nieuws/234434/dji-mavic-4-pro-verschijnt-op-13-mei-voor-2189-euro.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/234376/openbaar-aanklager-vs-betwist-belastingvrije-status-wikipedia-door-propaganda.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234376</guid>
             <pubDate>Sun, 27 Apr 2025 11:59:44 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft maakt Recall-functie beschikbaar voor Copilot+-gebruikers buiten EU</title>
-            <link>https://tweakers.net/nieuws/234374/microsoft-maakt-recall-functie-beschikbaar-voor-copilot+-gebruikers-buiten-eu.html</link>
-            <description>Microsoft heeft de omstreden Recall-functie algemeen beschikbaar gemaakt voor gebruikers met een Copilot+-pc. Dit &#039;fotografische geheugen&#039; zou oorspronkelijk in juni 2024 al zijn uitgebracht, maar is meermaals uitgesteld. EU-gebruikers krijgen echter pas later toegang tot de functie.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Computers / Besturingssystemen</category>
-            <comments>https://tweakers.net/nieuws/234374/microsoft-maakt-recall-functie-beschikbaar-voor-copilot+-gebruikers-buiten-eu.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234374</guid>
-            <pubDate>Sun, 27 Apr 2025 10:40:21 +0200</pubDate>
-        </item>
-        <item>
-            <title>Processorkoelerfabrikant Scythe sluit Europese tak, koelers blijven beschikbaar</title>
-            <link>https://tweakers.net/nieuws/234372/processorkoelerfabrikant-scythe-sluit-europese-tak-koelers-blijven-beschikbaar.html</link>
-            <description>Scythe EU GmbH wordt opgeheven. Dat laat de processorkoelerfabrikant weten in een mededeling aan Tweakers. De producten blijven echter beschikbaar via Europese leveranciers en webshops.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Computers / Processorkoeling</category>
-            <comments>https://tweakers.net/nieuws/234372/processorkoelerfabrikant-scythe-sluit-europese-tak-koelers-blijven-beschikbaar.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234372</guid>
-            <pubDate>Sun, 27 Apr 2025 09:40:33 +0200</pubDate>
         </item>
     </channel>
 </rss>
