@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 29 Apr 2025 11:31:00 +0200</pubDate>
-        <lastBuildDate>Tue, 29 Apr 2025 11:31:00 +0200</lastBuildDate>
+        <pubDate>Tue, 29 Apr 2025 12:36:00 +0200</pubDate>
+        <lastBuildDate>Tue, 29 Apr 2025 12:36:00 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Bloomberg: Sony wil halfgeleiderdivisie die camerasensors produceert verkopen</title>
+            <link>https://tweakers.net/nieuws/234432/bloomberg-sony-wil-halfgeleiderdivisie-die-camerasensors-produceert-verkopen.html</link>
+            <description>Sony werkt volgens ingewijden die met Bloomberg spraken aan plannen om zijn halfgeleiderdivisie af te splitsen en apart naar de beurs te brengen. Dat zou mogelijk al dit jaar kunnen plaatsvinden, met een geschatte waardering van tussen de 30 en 43 miljard euro.</description>
+            <author>Andrei Stiru</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/234432/bloomberg-sony-wil-halfgeleiderdivisie-die-camerasensors-produceert-verkopen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234432</guid>
+            <pubDate>Tue, 29 Apr 2025 12:13:15 +0200</pubDate>
+        </item>
         <item>
             <title>Amazon lanceert eerste operationele Kuiper-internetsatellieten</title>
             <link>https://tweakers.net/nieuws/234430/amazon-lanceert-eerste-operationele-kuiper-internetsatellieten.html</link>
@@ -48,12 +58,12 @@
             <pubDate>Tue, 29 Apr 2025 09:55:47 +0200</pubDate>
         </item>
         <item>
-            <title>Taiwan beperkt export nieuwste geavanceerde halfgeleiders naar landen als VS</title>
-            <link>https://tweakers.net/nieuws/234422/taiwan-beperkt-export-nieuwste-geavanceerde-halfgeleiders-naar-landen-als-vs.html</link>
+            <title>Taiwan beperkt export nieuwste halfgeleidertechnologie naar landen als VS</title>
+            <link>https://tweakers.net/nieuws/234422/taiwan-beperkt-export-nieuwste-halfgeleidertechnologie-naar-landen-als-vs.html</link>
             <description>De Taiwanese overheid voert strengere regelgeving in voor de export van geavanceerde halfgeleidertechnologie. TSMC mag hierdoor zijn meest recente productieprocessen niet meer in het buitenland toepassen. Dat heeft directe gevolgen voor de Verenigde Staten.</description>
             <author>Andrei Stiru</author>
             <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/234422/taiwan-beperkt-export-nieuwste-geavanceerde-halfgeleiders-naar-landen-als-vs.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/234422/taiwan-beperkt-export-nieuwste-halfgeleidertechnologie-naar-landen-als-vs.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234422</guid>
             <pubDate>Tue, 29 Apr 2025 09:05:04 +0200</pubDate>
         </item>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/downloads/72462/exiftool-1328.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72462</guid>
             <pubDate>Sat, 26 Apr 2025 21:28:38 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Patch My PC 5.2.0.0</title>
-            <link>https://tweakers.net/downloads/72460/patch-my-pc-5200.html</link>
-            <description>Versie 5.1.3.0 van Patch My PC is uitgekomen. Dit programma kan controleren of de laatste versies van ruim 500 populaire programma&#039;s zijn geïnstalleerd. Daarnaast kan het deze programma&#039;s ook installeren als ze nog niet aanwezig zijn en uiteraard ook weer verwijderen. In versie 5.0 heeft de gebruikersinterface een opfrisbeurt gekregen en moet het programma nu geïnstalleerd worden, waar het voorheen als portable applicatie gebruikt kon worden. De changelog voor deze uitgave kan hieronder worden gevonden. What’s new:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72460/patch-my-pc-5200.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72460</guid>
-            <pubDate>Sat, 26 Apr 2025 21:16:11 +0200</pubDate>
         </item>
     </channel>
 </rss>
