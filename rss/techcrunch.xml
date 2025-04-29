@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 29 Apr 2025 07:19:57 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 29 Apr 2025 08:29:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Grouphug is a stealth-mode startup that plans use AI inside WhatsApp groups</title>
+		<link>https://techcrunch.com/2025/04/29/grouphug-is-a-stealth-mode-startup-that-plans-use-ai-inside-whatsapp-groups/</link>
+		
+		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
+		<pubDate>Tue, 29 Apr 2025 08:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Memes]]></category>
+		<category><![CDATA[WhatsApp]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2999921</guid>
+
+					<description><![CDATA[Veterans of the European startup scene, who’ve launched multiple consumer apps in the past, are partly coming out of stealth Tuesday with a new app. On the face of it, Grouphug will simply generate memes from the archive of a group WhatsApp chat. However, that masks a wider play.  Grouphug is led by Felix Petersen, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>IXI raises $36.5M from Amazon and others to bring autofocus to prescription glasses</title>
 		<link>https://techcrunch.com/2025/04/28/ixi-raises-36-5m-from-amazon-and-more-to-bring-the-concept-of-autofocus-to-prescription-glasses/</link>
 		
@@ -53,7 +70,7 @@
 		
 			</item>
 		<item>
-		<title>Reddit now supports translation of posts and comments into Hindi</title>
+		<title>Reddit now supports translation of posts and comments to Hindi</title>
 		<link>https://techcrunch.com/2025/04/28/reddit-now-supports-translation-of-posts-and-comments-into-hindi/</link>
 		
 		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
@@ -127,9 +144,10 @@
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[alibaba]]></category>
 		<category><![CDATA[qwen]]></category>
+		<category><![CDATA[reasoning models]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3000135</guid>
 
-					<description><![CDATA[Chinese tech company Alibaba on Monday released Qwen3, a family of AI models the company claims matches and in some cases outperforms the best models available from Google and OpenAI. Most of the models are — or soon will be — available for download under an &#8220;open&#8221; license from AI dev platform Hugging Face and [&#8230;]]]></description>
+					<description><![CDATA[Chinese tech company Alibaba on Monday released Qwen3, a family of AI models that the company claims can match and, in some cases, outperform the best models available from Google and OpenAI. Most of the models are — or soon will be — available for download under an &#8220;open&#8221; license on AI dev platform Hugging [&#8230;]]]></description>
 		
 		
 		
@@ -376,23 +394,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2998135</guid>
 
 					<description><![CDATA[The world has a trash problem. The amount of stuff we throw away is expected to nearly double, to 3.8 billion metric tons, by 2050. Reducing what we use would go a long way to addressing the issue, but let’s face it, we’re not very good at buying less either. That leaves recycling, which has [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meet the companies racing to build quantum chips</title>
-		<link>https://techcrunch.com/2025/04/28/meet-the-companies-racing-to-build-quantum-chips/</link>
-		
-		<dc:creator><![CDATA[Anna Heim]]></dc:creator>
-		<pubDate>Mon, 28 Apr 2025 13:24:14 +0000</pubDate>
-				<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[chips]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[quantum computing]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2999559</guid>
-
-					<description><![CDATA[Quantum computing has long been announced as “just around the corner,” but several companies are now determined to make this a commercial reality, with the promise of solving complex problems beyond classical computers’ reach. The problems in question are wide-ranging, from medicine and cybersecurity to materials science and chemistry. But first, there are very practical [&#8230;]]]></description>
 		
 		
 		

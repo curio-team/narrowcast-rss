@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 29 Apr 2025 09:31:00 +0200</pubDate>
-        <lastBuildDate>Tue, 29 Apr 2025 09:31:00 +0200</lastBuildDate>
+        <pubDate>Tue, 29 Apr 2025 10:36:00 +0200</pubDate>
+        <lastBuildDate>Tue, 29 Apr 2025 10:36:00 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,12 +18,32 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
-            <title>Taiwan verscherpt exportregels voor TSMC&#039;s geavanceerde halfgeleidertechnologie</title>
-            <link>https://tweakers.net/nieuws/234422/taiwan-verscherpt-exportregels-voor-tsmcs-geavanceerde-halfgeleidertechnologie.html</link>
+            <title>ChatGPT krijgt shoppingfunctie en WhatsApp-versie krijgt websearch</title>
+            <link>https://tweakers.net/nieuws/234424/chatgpt-krijgt-shoppingfunctie-en-whatsapp-versie-krijgt-websearch.html</link>
+            <description>OpenAI breidt de zoekopdrachten van ChatGPT uit met een nieuwe shoppingfunctionaliteit. De functie biedt productaanbevelingen en directe koppelingen naar webwinkels zonder dat die webwinkels daar direct voor betalen. Daarnaast krijgt de WhatsApp-versie websearch.</description>
+            <author>Andrei Stiru</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/234424/chatgpt-krijgt-shoppingfunctie-en-whatsapp-versie-krijgt-websearch.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234424</guid>
+            <pubDate>Tue, 29 Apr 2025 10:18:52 +0200</pubDate>
+        </item>
+        <item>
+            <title>ASN-, SNS- en RegioBank-klanten melden storing met internetbankieren</title>
+            <link>https://tweakers.net/nieuws/234426/asn-sns-en-regiobank-klanten-melden-storing-met-internetbankieren.html</link>
+            <description>De websites en mobiele applicaties van verschillende Volksbank-merken, waaronder ASN Bank, SNS Bank en RegioBank, zijn sinds dinsdagochtend onbereikbaar. De eerste storingsmeldingen kwamen rond 8:40 uur binnen bij storingsmonitor Allestoringen.nl.</description>
+            <author>Andrei Stiru</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/234426/asn-sns-en-regiobank-klanten-melden-storing-met-internetbankieren.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234426</guid>
+            <pubDate>Tue, 29 Apr 2025 09:55:47 +0200</pubDate>
+        </item>
+        <item>
+            <title>Taiwan beperkt export nieuwste geavanceerde halfgeleiders naar landen als VS</title>
+            <link>https://tweakers.net/nieuws/234422/taiwan-beperkt-export-nieuwste-geavanceerde-halfgeleiders-naar-landen-als-vs.html</link>
             <description>De Taiwanese overheid voert strengere regelgeving in voor de export van geavanceerde halfgeleidertechnologie. TSMC mag hierdoor zijn meest recente productieprocessen niet meer in het buitenland toepassen. Dat heeft directe gevolgen voor de Verenigde Staten.</description>
             <author>Andrei Stiru</author>
             <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/234422/taiwan-verscherpt-exportregels-voor-tsmcs-geavanceerde-halfgeleidertechnologie.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/234422/taiwan-beperkt-export-nieuwste-geavanceerde-halfgeleiders-naar-landen-als-vs.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234422</guid>
             <pubDate>Tue, 29 Apr 2025 09:05:04 +0200</pubDate>
         </item>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/downloads/72458/mkvtoolnix-920.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72458</guid>
             <pubDate>Sat, 26 Apr 2025 21:11:45 +0200</pubDate>
-        </item>
-        <item>
-            <title>EA-skatinggame skate vereist een onlineverbinding om te spelen</title>
-            <link>https://tweakers.net/nieuws/234370/ea-skatinggame-skate-vereist-een-onlineverbinding-om-te-spelen.html</link>
-            <description>Skate krijgt geen offlinemodus, zegt ontwikkelaar Full Circle. Volgens een ontwikkelaarsblog staat de early access van de skatinggame, die wordt uitgegeven door Electronic Arts, nog altijd gepland voor dit jaar. Verder bevestigt de ontwikkelaar nogmaals dat crossplay ondersteund wordt.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/234370/ea-skatinggame-skate-vereist-een-onlineverbinding-om-te-spelen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234370</guid>
-            <pubDate>Sat, 26 Apr 2025 12:57:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Gerucht: Apple voorziet minstens drie iPhone 17-telefoons van 12GB werkgeheugen</title>
-            <link>https://tweakers.net/nieuws/234364/gerucht-apple-voorziet-minstens-drie-iphone-17-telefoons-van-12gb-werkgeheugen.html</link>
-            <description>Apple is van plan om ten minste de drie duurdere toestellen uit de iPhone 17-serie uit te rusten met 12GB werkgeheugen. Dat zegt de doorgaans goed ingelichte analist Ming-Chi Kuo. Het is nog niet zeker of dit ook voor de reguliere iPhone 17 geldt.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/234364/gerucht-apple-voorziet-minstens-drie-iphone-17-telefoons-van-12gb-werkgeheugen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234364</guid>
-            <pubDate>Sat, 26 Apr 2025 11:24:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
