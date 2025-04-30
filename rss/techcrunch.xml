@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 30 Apr 2025 12:33:40 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 30 Apr 2025 13:13:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,40 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Intel&#8217;s chief commercial officer and sales lead, Christoph Schell, resigns</title>
+		<link>https://techcrunch.com/2025/04/30/intels-chief-commercial-officer-and-sales-lead-christoph-schell-resigns/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 30 Apr 2025 13:04:28 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Intel]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3001122</guid>
+
+					<description><![CDATA[Christoph Schell, Intel&#8217;s EVP and chief commercial officer, is leaving the company after two years in the role, according to a filing with the SEC. Schell notified Intel of his decision to leave on Monday, and will resign on June 30 &#8220;in order to pursue another career opportunity,&#8221; per the filing. It isn&#8217;t clear who will replace [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Supio, an AI-powered legal analysis platform, lands $60M</title>
+		<link>https://techcrunch.com/2025/04/30/supio-an-ai-powered-legal-platform-lands-60m-in-fresh-capital/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 30 Apr 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[legaltech]]></category>
+		<category><![CDATA[supio]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3000579</guid>
+
+					<description><![CDATA[Supio, a startup that uses AI to automate data collection and analysis for legal teams, has raised $60 million in a funding round led by Sapphire Ventures with participation from Mayfield and Thomson Reuters Ventures. The new capital, which brings Supio&#8217;s total raised to $91 million, will be put toward growth, hiring, and go-to-market efforts, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>DeepSeek upgrades its math-focused AI model Prover</title>
 		<link>https://techcrunch.com/2025/04/30/deepseek-upgrades-its-ai-model-for-math-problem-solving/</link>
 		
@@ -37,7 +71,7 @@
 		<category><![CDATA[deepseek]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3001100</guid>
 
-					<description><![CDATA[Chinese AI lab DeepSeek has quietly updated Prover, its AI model that&#8217;s designed to solve math-related proofs and theorems. According to South China Morning Post, DeepSeek uploaded the latest version of Prover, V2, to AI dev platform, Hugging Face, late on Wednesday. It appears to be built on top of the startup&#8217;s V3 model, which [&#8230;]]]></description>
+					<description><![CDATA[Chinese AI lab DeepSeek has quietly updated Prover, its AI model that&#8217;s designed to solve math-related proofs and theorems. According to South China Morning Post, DeepSeek uploaded the latest version of Prover, V2, to AI dev platform Hugging Face late on Wednesday. It appears to be built on top of the startup&#8217;s V3 model, which [&#8230;]]]></description>
 		
 		
 		
@@ -331,40 +365,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3000613</guid>
 
 					<description><![CDATA[The first 27 satellites in Amazon&#8217;s effort to create a space-based internet network have finally made it to orbit, paving the way for the company to attempt to compete with Elon Musk&#8217;s well-established Starlink service. A United Launch Alliance (ULA) Atlas V rocket lifted off late Monday from the Cape Canaveral Space Force Station in [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tesla board member Joe Gebbia actually bought some stock</title>
-		<link>https://techcrunch.com/2025/04/29/a-tesla-board-member-actually-bought-some-stock/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
-		<pubDate>Tue, 29 Apr 2025 17:27:46 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[EVs]]></category>
-		<category><![CDATA[Tesla]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3000585</guid>
-
-					<description><![CDATA[Tesla board member and Airbnb co-founder Joe Gebbia acquired about 4,000 shares of the automaker&#8217;s stock, a purchase that has a value of about $1 million and change, according to a regulatory filing. That&#8217;s not a significant stock purchase, and certainly not for the billionaire board member, as Electrek noted in its reporting. It&#8217;s notable [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meta previews an API for its Llama AI models</title>
-		<link>https://techcrunch.com/2025/04/29/meta-previews-an-api-for-its-llama-ai-models/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 29 Apr 2025 17:15:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[Llama]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3000314</guid>
-
-					<description><![CDATA[At its inaugural LlamaCon AI developer conference on Tuesday, Meta announced an API for its Llama series of AI models: the Llama API. Available in limited preview, the Llama API lets developers explore and experiment with products powered by different Llama models, per Meta. Paired with Meta&#8217;s SDKs, it allows developers to build Llama-driven services, [&#8230;]]]></description>
 		
 		
 		
