@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 30 Apr 2025 10:36:00 +0200</pubDate>
-        <lastBuildDate>Wed, 30 Apr 2025 10:36:00 +0200</lastBuildDate>
+        <pubDate>Wed, 30 Apr 2025 11:31:02 +0200</pubDate>
+        <lastBuildDate>Wed, 30 Apr 2025 11:31:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Bunq maakt handelen in cryptovaluta mogelijk via app</title>
+            <link>https://tweakers.net/nieuws/234476/bunq-maakt-handelen-in-cryptovaluta-mogelijk-via-app.html</link>
+            <description>Bunq-gebruikers in onder meer Nederland en België kunnen voortaan handelen in meer dan driehonderd cryptovaluta, waaronder bitcoin, ether en Solana. De neobank is hiervoor een samenwerking aangegaan met het Amerikaanse cryptovalutahandelsplatform Kraken.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/234476/bunq-maakt-handelen-in-cryptovaluta-mogelijk-via-app.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234476</guid>
+            <pubDate>Wed, 30 Apr 2025 11:09:39 +0200</pubDate>
+        </item>
+        <item>
+            <title>OnePlus brengt 13T-smartphone niet uit in Europa</title>
+            <link>https://tweakers.net/nieuws/234474/oneplus-brengt-13t-smartphone-niet-uit-in-europa.html</link>
+            <description>OnePlus heeft geen plannen om zijn nieuwe 13T-smartphone uit te brengen in Europa en Noord-Amerika, bevestigt de fabrikant aan The Verge. Het toestel kwam vorige week uit voor de Chinese markt en komt ook naar India als OnePlus 13S.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/234474/oneplus-brengt-13t-smartphone-niet-uit-in-europa.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234474</guid>
+            <pubDate>Wed, 30 Apr 2025 10:39:27 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Penpot 2.6.2</title>
             <link>https://tweakers.net/downloads/72494/penpot-262.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/reviews/13202/6/asus-rt-be88u-deze-wi-fi-7-router-mist-zijn-belangrijkste-troef-conclusie.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13202</guid>
             <pubDate>Tue, 29 Apr 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Achtergrond - Wi-Fi 7-testopstelling gereed - Zo meten we nu de nieuwste draadloze standaard</title>
-            <link>https://tweakers.net/reviews/13176/wi-fi-7-testopstelling-gereed-zo-meten-we-nu-de-nieuwste-draadloze-standaard.html</link>
-            <description>De testopstelling waarin we Wi-Fi-apparatuur testen is geüpdatet naar Wi-Fi 7. Dit artikel behandelt de wijzigingen in de apparatuur en het testprotocol.</description>
-            <author>Olaf Weijers</author>
-            <category>Achtergrond / Computers / Netwerk</category>
-            <comments>https://tweakers.net/reviews/13176/wi-fi-7-testopstelling-gereed-zo-meten-we-nu-de-nieuwste-draadloze-standaard.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13176</guid>
-            <pubDate>Tue, 29 Apr 2025 05:59:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;WhatsApp werkt aan bellen en videobellen via de browser&#039;</title>
-            <link>https://tweakers.net/nieuws/234416/whatsapp-werkt-aan-bellen-en-videobellen-via-de-browser.html</link>
-            <description>WhatsApp wil de webclient uitbreiden met spraak- en beeldbellen. Dat zegt WABetaInfo op basis van de bètaversie van de webclient. Nu kan spraak- en beeldbellen alleen via de mobiele of desktopapps.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/234416/whatsapp-werkt-aan-bellen-en-videobellen-via-de-browser.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234416</guid>
-            <pubDate>Mon, 28 Apr 2025 21:02:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
