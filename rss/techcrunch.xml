@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 30 Apr 2025 07:05:33 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 30 Apr 2025 12:33:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,63 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>DeepSeek upgrades its math-focused AI model Prover</title>
+		<link>https://techcrunch.com/2025/04/30/deepseek-upgrades-its-ai-model-for-math-problem-solving/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 30 Apr 2025 12:20:24 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[deepseek]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3001100</guid>
+
+					<description><![CDATA[Chinese AI lab DeepSeek has quietly updated Prover, its AI model that&#8217;s designed to solve math-related proofs and theorems. According to South China Morning Post, DeepSeek uploaded the latest version of Prover, V2, to AI dev platform, Hugging Face, late on Wednesday. It appears to be built on top of the startup&#8217;s V3 model, which [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cast AI raises $108M to get the most out of AI, Kubernetes and other workloads</title>
+		<link>https://techcrunch.com/2025/04/30/cast-ai-raises-108m-to-get-the-max-out-of-ai-kubernetes-and-other-workloads/</link>
+		
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+		<pubDate>Wed, 30 Apr 2025 12:02:50 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Automation]]></category>
+		<category><![CDATA[Cast]]></category>
+		<category><![CDATA[cast ai]]></category>
+		<category><![CDATA[containers]]></category>
+		<category><![CDATA[GPUS]]></category>
+		<category><![CDATA[Kubernetes]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3001101</guid>
+
+					<description><![CDATA[The crush of traffic going into training and running AI has quickly turned into a major cost and resource headache for organizations. Today, Cast AI, a startup building tools to ease and optimize workloads for AI and other tasks with automation, is raising a major round of funding on the back of strong growth and [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI sales tax startup Kintsugi had doubled its valuation in 6 months</title>
+		<link>https://techcrunch.com/2025/04/30/ai-sales-tax-startup-kintsugi-had-doubled-its-valuation-in-6-months/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Wed, 30 Apr 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[sales tax]]></category>
+		<category><![CDATA[Kintsugi]]></category>
+		<category><![CDATA[Vertex]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3000815</guid>
+
+					<description><![CDATA[Kintsugi, a Silicon Valley-based startup that helps companies offload and automate their sales tax compliance, has raised $18 million in new funding led by global indirect tax technology solution provider Vertex. The startup plans to enable more small and medium businesses to use its AI-enabled capabilities for tax calculations and filings. The ongoing growth of [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>X is rolling out support for 4K video uploads</title>
 		<link>https://techcrunch.com/2025/04/30/x-is-rolling-out-support-for-4k-video-uploads/</link>
 		
@@ -308,54 +365,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3000314</guid>
 
 					<description><![CDATA[At its inaugural LlamaCon AI developer conference on Tuesday, Meta announced an API for its Llama series of AI models: the Llama API. Available in limited preview, the Llama API lets developers explore and experiment with products powered by different Llama models, per Meta. Paired with Meta&#8217;s SDKs, it allows developers to build Llama-driven services, [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google launches AI tools for practicing languages through personalized lessons</title>
-		<link>https://techcrunch.com/2025/04/29/google-launches-ai-tools-for-practicing-languages-through-personalized-lessons/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Tue, 29 Apr 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Google]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2996974</guid>
-
-					<description><![CDATA[Google on Tuesday is releasing three new AI experiments aimed at helping people learn to speak a new language in a more personalized way. While the experiments are still in the early stages, it&#8217;s possible that the company is looking to take on Duolingo with the help of Gemini, Google&#8217;s multimodal large language model. The [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Wallet to add support for digital IDs in more states</title>
-		<link>https://techcrunch.com/2025/04/29/google-wallet-to-add-support-for-digital-ids-in-more-states/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Tue, 29 Apr 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[google wallet]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3000492</guid>
-
-					<description><![CDATA[Google announced on Tuesday that digital IDs are coming to more states and services in Google Wallet. The company also shared that Wallet is getting a way to privately verify age and that the app is expanding to 50 more countries. Residents in Arkansas, Montana, Puerto Rico, and West Virginia will soon be able to [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google&#8217;s NotebookLM expands its AI podcast feature to more languages</title>
-		<link>https://techcrunch.com/2025/04/29/googles-notebooklm-expands-its-ai-podcast-feature-to-more-languages/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Tue, 29 Apr 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[notebooklm]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3000518</guid>
-
-					<description><![CDATA[Google&#8217;s AI-based note-taking and research assistant NotebookLM is making its Audio Overviews feature available in 76 new languages, the company announced on Tuesday. Audio Overviews launched last year to give users the ability to generate a podcast with AI virtual hosts based on documents they have shared with NotebookLM, such as course readings or legal [&#8230;]]]></description>
 		
 		
 		
