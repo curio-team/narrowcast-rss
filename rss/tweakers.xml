@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 30 Apr 2025 15:36:02 +0200</pubDate>
-        <lastBuildDate>Wed, 30 Apr 2025 15:36:02 +0200</lastBuildDate>
+        <pubDate>Wed, 30 Apr 2025 16:31:01 +0200</pubDate>
+        <lastBuildDate>Wed, 30 Apr 2025 16:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,12 +18,32 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
-            <title>Firefox krijgt ondersteuning voor tabbladgroepen, vijf jaar na Chrome</title>
-            <link>https://tweakers.net/nieuws/234490/firefox-krijgt-ondersteuning-voor-tabbladgroepen-vijf-jaar-na-chrome.html</link>
+            <title>Software-update - LibreOffice 25.2.3</title>
+            <link>https://tweakers.net/downloads/72502/libreoffice-2523.html</link>
+            <description>De Document Foundation heeft versie 25.2.3 van LibreOffice uitgebracht. Dit opensource officepakket wordt geleverd met tekstverwerker Writer, spreadsheetprogramma Calc, presentatieprogramma Impress, tekenprogramma Draw, databaseprogramma Base en Formula, een applicatie om wetenschappelijke notaties mee te maken. Uitgebreide informatie over de veranderingen in versie 25.2 kunnen op deze pagina worden gevonden. Versie 25.2.3 is een zogenaamde bugfixuitgave en kende twee releasecandidates, waarin in totaal 68 verbeteringen zijn aangebracht: Bugs fixed in LibreOffice 25.2.3 RC 1:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72502/libreoffice-2523.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72502</guid>
+            <pubDate>Wed, 30 Apr 2025 16:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nederlandse fabrikant van elektrische bussen dreigt failliet te gaan</title>
+            <link>https://tweakers.net/nieuws/234492/nederlandse-fabrikant-van-elektrische-bussen-dreigt-failliet-te-gaan.html</link>
+            <description>Ebusco, een Nederlandse fabrikant van elektrische bussen, heeft het opnieuw financieel zwaar. Het bedrijf draaide vorig jaar een verlies van ruim 200 miljoen euro. Een leverancier van Ebusco heeft het faillissement van het bedrijf aangevraagd vanwege onbetaalde rekeningen.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/234492/nederlandse-fabrikant-van-elektrische-bussen-dreigt-failliet-te-gaan.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234492</guid>
+            <pubDate>Wed, 30 Apr 2025 16:05:58 +0200</pubDate>
+        </item>
+        <item>
+            <title>Firefox krijgt ondersteuning voor tabbladgroepen</title>
+            <link>https://tweakers.net/nieuws/234490/firefox-krijgt-ondersteuning-voor-tabbladgroepen.html</link>
             <description>Firefox heeft ondersteuning voor tabbladgroepen gekregen. Gebruikers kunnen daarmee hun tabbladen bundelen in groepen, die gelabeld worden met een naam of een kleur. Het was volgens ontwikkelaar Mozilla een van de meestgevraagde functies voor de webbrowser.</description>
             <author>Daan van Monsjou</author>
             <category>Nieuws / Computers / Browsers</category>
-            <comments>https://tweakers.net/nieuws/234490/firefox-krijgt-ondersteuning-voor-tabbladgroepen-vijf-jaar-na-chrome.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/234490/firefox-krijgt-ondersteuning-voor-tabbladgroepen.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234490</guid>
             <pubDate>Wed, 30 Apr 2025 15:29:33 +0200</pubDate>
         </item>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/downloads/72484/blender-442.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72484</guid>
             <pubDate>Tue, 29 Apr 2025 14:53:57 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;DJI Mavic 4 Pro verschijnt op 13 mei voor 2189 euro&#039;</title>
-            <link>https://tweakers.net/nieuws/234434/dji-mavic-4-pro-verschijnt-op-13-mei-voor-2189-euro.html</link>
-            <description>Droneproducent DJI brengt op 13 mei de Mavic 4 Pro uit. De website DroneXL bericht dat DJI op 6 mei de eerste teasers van de drone vrijgeeft, gevolgd door de officiële aankondiging een week later.</description>
-            <author>Andrei Stiru</author>
-            <category>Nieuws / </category>
-            <comments>https://tweakers.net/nieuws/234434/dji-mavic-4-pro-verschijnt-op-13-mei-voor-2189-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234434</guid>
-            <pubDate>Tue, 29 Apr 2025 14:09:22 +0200</pubDate>
-        </item>
-        <item>
-            <title>Hitachi haalt proactief Vantara-clouddienst offline na ransomwareaanval</title>
-            <link>https://tweakers.net/nieuws/234442/hitachi-haalt-proactief-vantara-clouddienst-offline-na-ransomwareaanval.html</link>
-            <description>Hitachi Vantara heeft zijn clouddienst Vantara tijdelijk proactief offline gehaald omdat het bedrijf getroffen is door een ransomwareaanval. Het bedrijf werkt naar eigen zeggen aan een oplossing om de servers &#039;op een veilige manier&#039; weer online te brengen.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/234442/hitachi-haalt-proactief-vantara-clouddienst-offline-na-ransomwareaanval.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234442</guid>
-            <pubDate>Tue, 29 Apr 2025 14:06:29 +0200</pubDate>
         </item>
     </channel>
 </rss>
