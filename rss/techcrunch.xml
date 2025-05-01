@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 01 May 2025 12:23:14 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 May 2025 13:18:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>MoviePass explores a daily fantasy platform for film buffs</title>
+		<link>https://techcrunch.com/2025/05/01/moviepass-explores-a-daily-fantasy-platform-tailored-for-film-enthusiasts/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Thu, 01 May 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Apps]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3001379</guid>
+
+					<description><![CDATA[MoviePass, the startup that made its mark with its movie theater subscription service, has always been known for shaking things up, and its latest venture is no exception.&#160; The company announced on Thursday the beta launch of Mogul, a new daily fantasy entertainment platform designed specifically for the Hollywood industry.&#160; To understand what Mogul is, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Google is reportedly showing ads in chats with some third-party AI chatbots</title>
 		<link>https://techcrunch.com/2025/05/01/google-is-reportedly-showing-ads-in-chats-with-some-third-party-ai-chatbots/</link>
 		
@@ -349,22 +365,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3001346</guid>
 
 					<description><![CDATA[Rivian built up a stockpile of batteries for its trucks, SUVs, and commercial vans before and after the election of Donald Trump, a strategy used to soften the blow of the president&#8217;s tariffs, according to Bloomberg News. The company apparently bought an undisclosed number of lithium iron phosphate batteries from Chinese firm Gotion before the [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>If you own Ray-Ban Meta glasses, you should double-check your privacy settings</title>
-		<link>https://techcrunch.com/2025/04/30/if-you-own-ray-ban-meta-glasses-you-should-double-check-your-privacy-settings/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Wed, 30 Apr 2025 18:29:12 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[meta ray-bans]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3001291</guid>
-
-					<description><![CDATA[Meta has updated the privacy policy for its AI glasses, Ray-Ban Meta, giving the tech giant more power over what data it can store and use to train its AI models. The company emailed Ray-Ban Meta owners on Tuesday with a notice that AI features will now be enabled on the glasses by default, according [&#8230;]]]></description>
 		
 		
 		

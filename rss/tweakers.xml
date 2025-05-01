@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 01 May 2025 14:41:02 +0200</pubDate>
-        <lastBuildDate>Thu, 01 May 2025 14:41:02 +0200</lastBuildDate>
+        <pubDate>Thu, 01 May 2025 15:36:03 +0200</pubDate>
+        <lastBuildDate>Thu, 01 May 2025 15:36:03 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,76 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Instagram en Facebook krijgen interactieve video&#039;s</title>
+            <link>https://tweakers.net/nieuws/234532/instagram-en-facebook-krijgen-interactieve-videos.html</link>
+            <description>Instagram en Facebook krijgen op korte termijn interactieve video&#039;s, denkt Meta-oprichter Mark Zuckerberg. Hij noemt die vorm de volgende logische stap na een feed vol video&#039;s, zoals nu al gebruikelijk is.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/234532/instagram-en-facebook-krijgen-interactieve-videos.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234532</guid>
+            <pubDate>Thu, 01 May 2025 15:31:32 +0200</pubDate>
+        </item>
+        <item>
+            <title>Microsoft verhoogt Xbox-prijzen met 50 euro in Europa, games worden ook duurder</title>
+            <link>https://tweakers.net/nieuws/234550/microsoft-verhoogt-xbox-prijzen-met-50-euro-in-europa-games-worden-ook-duurder.html</link>
+            <description>Microsoft heeft de prijzen van zijn consoles verhoogd. Alle consoles kosten nu vanaf donderdag 50 euro meer dan voorheen. Daardoor kost een Xbox Series X nu 600 euro. Nieuwe firstparty-games krijgen vanaf komend najaar een hogere prijs.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Gaming / Gamecontrollers</category>
+            <comments>https://tweakers.net/nieuws/234550/microsoft-verhoogt-xbox-prijzen-met-50-euro-in-europa-games-worden-ook-duurder.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234550</guid>
+            <pubDate>Thu, 01 May 2025 15:23:47 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gearbox toont nieuwe personages, wapens en planeet in Borderlands 4</title>
+            <link>https://tweakers.net/nieuws/234552/gearbox-toont-nieuwe-personages-wapens-en-planeet-in-borderlands-4.html</link>
+            <description>Het aankomende spel Borderlands 4 krijgt vier nieuwe Vault Hunters, nieuwe wapens en een geheel nieuwe planeet. Tijdens de State of Play van PlayStation zijn daar een aantal van uitgelicht. Het gaat onder meer om Vex de Siren en Rafa de Exo-soldier.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/234552/gearbox-toont-nieuwe-personages-wapens-en-planeet-in-borderlands-4.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234552</guid>
+            <pubDate>Thu, 01 May 2025 15:10:39 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Deluge 2.2.0</title>
+            <link>https://tweakers.net/downloads/72520/deluge-220.html</link>
+            <description>Versie 2.2.0 van Deluge is uitgekomen. Deze bittorrent-client is ontwikkeld door Zach Tibbitts en Alon Zakai, twee leden van het Ubuntu-forum. Naast versies voor de bekende Linux-distributies worden er ook Deluge-versies voor Windows, BSD en macOS uitgebracht. Het programma heeft alles wat je van een bittorrent-client mag verwachten: bittorrent-protocol-encryptie, mainline dht, upnp, nat-pmp, µTorrent Peer Exchange en de mogelijkheid om het programma via een webbrowser op afstand te beheren. De complete changelog voor deze uitgave kan hier worden gevonden; dit zijn de belangrijkste verbeteringen: Some of the highlights since the last major release.</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72520/deluge-220.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72520</guid>
+            <pubDate>Thu, 01 May 2025 15:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Community - Q&amp;A: Drobanir over downloads, software en de Meuktracker</title>
+            <link>https://tweakers.net/reviews/13194/q-en-a-drobanir-over-downloads-software-en-de-meuktracker.html</link>
+            <description>Bart van Klaveren, op Tweakers bekend als Drobanir, vult sinds 2004 de Meuktracker. Stel vrijdag je vragen over software en het plaatsen van downloads in deze Q&amp;A.</description>
+            <author>Bart van Klaveren</author>
+            <category>.Community / IT Pro / Internet</category>
+            <comments>https://tweakers.net/reviews/13194/q-en-a-drobanir-over-downloads-software-en-de-meuktracker.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13194</guid>
+            <pubDate>Thu, 01 May 2025 15:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google Gemini kan nu geüploade foto&#039;s aanpassen</title>
+            <link>https://tweakers.net/nieuws/234522/google-gemini-kan-nu-geuploade-fotos-aanpassen.html</link>
+            <description>Google heeft Gemini voorzien van een functie om foto&#039;s die gebruikers uploaden aan te passen met tekstprompts. Zo is het mogelijk de eigen haarkleur aan te passen of de achtergrond te wijzigen naar iets anders.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Internet</category>
+            <comments>https://tweakers.net/nieuws/234522/google-gemini-kan-nu-geuploade-fotos-aanpassen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234522</guid>
+            <pubDate>Thu, 01 May 2025 14:54:25 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Windows 7 startte door bug langzaam op als je een egale achtergrond had</title>
+            <link>https://tweakers.net/geek/234548/windows-7-startte-door-bug-langzaam-op-als-je-een-egale-achtergrond-had.html</link>
+            <description>Toen Windows 7 in 2009 op de markt kwam, zaten er nog een aantal kinderziektes in. Eén daarvan was dat het lang duurde om het besturingssysteem te laden als er een enkele kleur als achtergrond was ingesteld. Microsoft legt nu, ruim vijftien jaar na release, uit waarom dat was.</description>
+            <author>Eveline Meijer</author>
+            <category>.Geek / Computers / Besturingssystemen</category>
+            <comments>https://tweakers.net/geek/234548/windows-7-startte-door-bug-langzaam-op-als-je-een-egale-achtergrond-had.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/234548</guid>
+            <pubDate>Thu, 01 May 2025 14:43:46 +0200</pubDate>
+        </item>
         <item>
             <title>.Deals - De beste elektronicadeals van week 18 2025</title>
             <link>https://tweakers.net/plan/4402/de-beste-elektronicadeals-van-week-18-2025.html</link>
@@ -346,76 +416,6 @@
             <comments>https://tweakers.net/nieuws/234490/firefox-krijgt-ondersteuning-voor-tabbladgroepen.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234490</guid>
             <pubDate>Wed, 30 Apr 2025 15:29:33 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Bitwarden 2025.4.3</title>
-            <link>https://tweakers.net/downloads/72500/bitwarden-202543.html</link>
-            <description>Bitwarden is een crossplatform en opensource wachtwoordbeheerdienst die persoonlijke gegevens in een versleutelde digitale kluis opslaat. Het is in de basis gratis te gebruiken en voor een klein bedrag per jaar is er toegang tot diverse extra&#039;s zoals het kunnen opslaan van totp-codes, inloggen met een YubiKey en opslagcapaciteit voor bijlagen. Bitwarden is beschikbaar online, als desktopclient, als mobiele app en als plug-in voor diverse webbrowsers. In versie 2025.4.3 zijn de volgende veranderingen en verbeteringen aangebracht: Password Manager</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72500/bitwarden-202543.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72500</guid>
-            <pubDate>Wed, 30 Apr 2025 15:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Vlaamse streamingdienst Streamz start in juni met beperken accountdelen</title>
-            <link>https://tweakers.net/nieuws/234486/vlaamse-streamingdienst-streamz-start-in-juni-met-beperken-accountdelen.html</link>
-            <description>Streamz, de streamingdienst van Telenet en DPG Media, start in juni met het beperken van accountdelen. Gebruikers dienen dan een thuislocatie in te stellen. Kijken op andere locaties is dan niet meer mogelijk, tenzij het om een tijdelijke locatie gaat, zoals een vakantieadres.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / Beeld en geluid / Televisies</category>
-            <comments>https://tweakers.net/nieuws/234486/vlaamse-streamingdienst-streamz-start-in-juni-met-beperken-accountdelen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234486</guid>
-            <pubDate>Wed, 30 Apr 2025 14:37:36 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft belooft toegang tot zijn diensten in EU te beschermen van overheid VS</title>
-            <link>https://tweakers.net/nieuws/234484/microsoft-belooft-toegang-tot-zijn-diensten-in-eu-te-beschermen-van-overheid-vs.html</link>
-            <description>Microsoft zegt dat het de Amerikaanse overheid zou aanklagen als dat nodig is om toegang tot zijn clouddiensten in Europa te beschermen. Het bedrijf zegt ook back-ups van zijn code op te slaan in Zwitserland. Europese partners krijgen het recht om die te gebruiken in geval van nood.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
-            <comments>https://tweakers.net/nieuws/234484/microsoft-belooft-toegang-tot-zijn-diensten-in-eu-te-beschermen-van-overheid-vs.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234484</guid>
-            <pubDate>Wed, 30 Apr 2025 14:10:27 +0200</pubDate>
-        </item>
-        <item>
-            <title>Xiaomi introduceert eigen AI-redeneermodel MiMo</title>
-            <link>https://tweakers.net/nieuws/234482/xiaomi-introduceert-eigen-ai-redeneermodel-mimo.html</link>
-            <description>Xiaomi brengt zijn eigen AI-model uit MiMo uit. Uit de benchmarks die de Chinese elektronicafabrikant deelt, blijkt dat het redeneermodel beter presteert dan o1-mini van OpenAI en de Qwen-modellen van Alibaba.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/234482/xiaomi-introduceert-eigen-ai-redeneermodel-mimo.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234482</guid>
-            <pubDate>Wed, 30 Apr 2025 14:00:21 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Tor Browser 14.5.1</title>
-            <link>https://tweakers.net/downloads/72498/tor-browser-1451.html</link>
-            <description>Versie 14.5.1 van Tor Browser is uitgekomen. Tor staat voor &#039;The Onion Router&#039; en is een netwerk dat gebruikt kan worden om redelijk anoniem over internet te surfen. Al het TCP-verkeer van gebruikers wordt langs verschillende Tor-routers geleid, waarna het voor de ontvanger vrijwel niet meer mogelijk is om te achterhalen wie de oorspronkelijke verzender was. Binnen het Tor-netwerk is die informatie nog wel aanwezig, zodat antwoorden, uiteraard ook weer via het stelsel van routers, uiteindelijk weer op de juiste plek aankomen. De changelog voor deze uitgave kan hieronder worden gevonden. All Platforms</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72498/tor-browser-1451.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72498</guid>
-            <pubDate>Wed, 30 Apr 2025 13:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Videoreview - Zo verander je een succesformule subtiel - Samsung Galaxy A26, A36 en A56 Review</title>
-            <link>https://tweakers.net/video/19876/zo-verander-je-een-succesformule-subtiel-samsung-galaxy-a26-a36-en-a56-review.html</link>
-            <description>Samsung Galaxy A-telefoons zijn elk jaar een groot succes en in deze video nemen we de Galaxy A26, A36 en A56 onder de loep.</description>
-            <author>Mees Derks</author>
-            <category>Videoreview / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/video/19876/zo-verander-je-een-succesformule-subtiel-samsung-galaxy-a26-a36-en-a56-review.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/video/19876</guid>
-            <pubDate>Wed, 30 Apr 2025 13:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>OpenAI draait update GPT-4o terug vanwege &#039;vleierig en irritant gedrag&#039;</title>
-            <link>https://tweakers.net/nieuws/234480/openai-draait-update-gpt-4o-terug-vanwege-vleierig-en-irritant-gedrag.html</link>
-            <description>OpenAI draait een recente update van GPT-4o terug vanwege de &#039;overdreven vleierige en irritante persoonlijkheid&#039; van de chatbot. ChatGPT-gebruikers maken nu weer gebruik van een eerdere versie met &#039;een meer gebalanceerd gedrag&#039;.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/234480/openai-draait-update-gpt-4o-terug-vanwege-vleierig-en-irritant-gedrag.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234480</guid>
-            <pubDate>Wed, 30 Apr 2025 12:32:46 +0200</pubDate>
         </item>
     </channel>
 </rss>
