@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 01 May 2025 08:50:50 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 May 2025 10:31:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>WhatsApp now has more than 3 billion users a month</title>
+		<link>https://techcrunch.com/2025/05/01/whatsapp-now-has-more-than-3-billion-users/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 01 May 2025 09:35:53 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Mark Zuckerberg]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[WhatsApp]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3001817</guid>
+
+					<description><![CDATA[WhatsApp now has more than 3 billion people using it every month, Meta CEO Mark Zuckerberg noted during the company&#8217;s Q1 results conference call on Wednesday. Founded in 2009 and acquired by Facebook for $19 billion in 2014, WhatsApp remains free to use and doesn&#8217;t serve any ads. The app reached the 2 billion monthly [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>From tech pioneers to &#8216;extremists&#8217;: Belarusian founders face exile and statelessness</title>
 		<link>https://techcrunch.com/2025/05/01/branded-extremists-for-building-startups-belarusian-tech-pioneers-face-a-stateless-life-in-exile/</link>
 		
@@ -68,9 +87,10 @@
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Microsoft]]></category>
 		<category><![CDATA[Phi]]></category>
+		<category><![CDATA[small AI models]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3001763</guid>
 
-					<description><![CDATA[Microsoft launched several new &#8220;open&#8221; AI models on Wednesday, the most capable of which is competitive with OpenAI&#8217;s o3-mini on at least one benchmark. All of the new pemissively licensed models — Phi 4 mini reasoning, Phi 4 reasoning, and Phi 4 reasoning plus — are &#8220;reasoning&#8221; models, meaning they&#8217;re able to spend more time [&#8230;]]]></description>
+					<description><![CDATA[Microsoft on Wednesday launched several new &#8220;open&#8221; AI models, the most capable of which is competitive with OpenAI&#8217;s o3-mini on at least one benchmark. As it says on the tin, all of the new permissively licensed models — Phi 4 mini reasoning, Phi 4 reasoning, and Phi 4 reasoning plus — are &#8220;reasoning&#8221; models, meaning [&#8230;]]]></description>
 		
 		
 		
@@ -201,10 +221,10 @@
 		<pubDate>Wed, 30 Apr 2025 22:45:18 +0000</pubDate>
 				<category><![CDATA[Startups]]></category>
 		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[evergreens]]></category>
 		<category><![CDATA[Layoffs]]></category>
 		<category><![CDATA[tech layoffs]]></category>
 		<category><![CDATA[TechCrunch 2023 Recap]]></category>
+		<category><![CDATA[evergreens]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2607662</guid>
 
 					<description><![CDATA[A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.]]></description>
@@ -347,25 +367,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3001310</guid>
 
 					<description><![CDATA[Two alleged victims came forward claiming they received a spyware notification from Apple. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Gruve.ai promises software-like margins for AI tech consulting, disrupting decades-old Industry</title>
-		<link>https://techcrunch.com/2025/04/30/gruve-ai-promises-software-like-margins-for-ai-tech-consulting-disrupting-decades-old-industry/</link>
-		
-		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Wed, 30 Apr 2025 17:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Accenture]]></category>
-		<category><![CDATA[it services]]></category>
-		<category><![CDATA[mayfield fund]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3001300</guid>
-
-					<description><![CDATA[Companies of all sizes are recognizing the game-changing possibilities of AI. Despite the excitement about the new technology, most of their pilot projects don&#8217;t make it into production. Gruve.ai, a startup founded by the team behind Rahi Systems aims to help enterprises get AI solutions out of testing phase and into real-world application by using [&#8230;]]]></description>
 		
 		
 		
