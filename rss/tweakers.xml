@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 01 May 2025 09:31:03 +0200</pubDate>
-        <lastBuildDate>Thu, 01 May 2025 09:31:03 +0200</lastBuildDate>
+        <pubDate>Thu, 01 May 2025 10:36:01 +0200</pubDate>
+        <lastBuildDate>Thu, 01 May 2025 10:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,6 +18,26 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
+            <title>Firmware-update - Nintendo Switch 20.0.0</title>
+            <link>https://tweakers.net/downloads/72514/nintendo-switch-2000.html</link>
+            <description>Nintendo heeft nieuwe firmware uitgebracht voor de Switch-console. De firmware draagt versienummer 20.0 en is geschikt voor zowel de originele als de Switch 2, die op 2 juni beschikbaar zal komen. Bijwerken kan vanuit de systeeminstellingen in het apparaat zelf worden gedaan. In versie 20.0 heeft Nintendo onder meer virtuele gamecards toegevoegd, is er GameShare waarmee spellen met andere Nintendo Switch 2 apparaten kunnen worden gedeeld, is er gegevensoverdracht naar de Switch 2, en zijn sommige pictogrammen bijgewerkt Versie 20.0.0 (uitgebracht op 30 april 2025)</description>
+            <author>Bart van Klaveren</author>
+            <category>Firmware</category>
+            <comments>https://tweakers.net/downloads/72514/nintendo-switch-2000.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72514</guid>
+            <pubDate>Thu, 01 May 2025 10:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Nintendo beperkt manier om digitale Switch-games tegelijkertijd te spelen&#039;</title>
+            <link>https://tweakers.net/nieuws/234514/nintendo-beperkt-manier-om-digitale-switch-games-tegelijkertijd-te-spelen.html</link>
+            <description>Nintendo beperkt met zijn nieuwe virtuele gamecards een manier om dezelfde digitale game gelijktijdig op twee consoles te spelen. Dat stellen diverse gamers. Met de virtuele gamecards kan een aangeschafte game maar door één persoon tegelijkertijd gespeeld worden.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / Gaming / Consoles</category>
+            <comments>https://tweakers.net/nieuws/234514/nintendo-beperkt-manier-om-digitale-switch-games-tegelijkertijd-te-spelen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234514</guid>
+            <pubDate>Thu, 01 May 2025 09:56:23 +0200</pubDate>
+        </item>
+        <item>
             <title>Software-update - RoboForm 9.6.8</title>
             <link>https://tweakers.net/downloads/72510/roboform-968.html</link>
             <description>Versie 9.6.8 van RoboForm is uitgekomen. Dit programma is ruim twintig jaar geleden ontstaan als een hulpmiddel bij het invullen van formulieren en is inmiddels doorgegroeid naar een complete wachtwoordmanager. Het programma is beschikbaar voor Windows, Linux, macOS, Android en iOS, en als plug-in voor de bekendste webbrowsers. Het programma is gratis te gebruiken, maar wel met enkele beperkingen. Naast het veilig opslaan van wachtwoorden en passkeys, kan het ook sterke wachtwoorden genereren en waarschuwen als een wachtwoord voorkomt in een lijst met gelekte wachtwoorden. In deze uitgave zijn de volgende veranderingen doorgevoerd: Changes in version 9.6.8:</description>
@@ -28,12 +48,12 @@
             <pubDate>Thu, 01 May 2025 09:00:00 +0200</pubDate>
         </item>
         <item>
-            <title>Groot-Brittannië onderzoekt omkoping rond Nederlands Microsoft-datacenter</title>
-            <link>https://tweakers.net/nieuws/234512/groot-brittannie-onderzoekt-omkoping-rond-nederlands-microsoft-datacenter.html</link>
+            <title>Verenigd Koninkrijk onderzoekt omkoping rond Nederlands Microsoft-datacenter</title>
+            <link>https://tweakers.net/nieuws/234512/verenigd-koninkrijk-onderzoekt-omkoping-rond-nederlands-microsoft-datacenter.html</link>
             <description>Het Britse Serious Fraud Office onderzoekt mogelijke omkoping rondom de bouw van een datacenter van Microsoft in Nederland. Als onderdeel daarvan zijn vijf locaties onderzocht en zijn drie arrestaties verricht.</description>
             <author>Eveline Meijer</author>
             <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/234512/groot-brittannie-onderzoekt-omkoping-rond-nederlands-microsoft-datacenter.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/234512/verenigd-koninkrijk-onderzoekt-omkoping-rond-nederlands-microsoft-datacenter.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234512</guid>
             <pubDate>Thu, 01 May 2025 08:46:50 +0200</pubDate>
         </item>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/downloads/72492/mame-0277.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72492</guid>
             <pubDate>Wed, 30 Apr 2025 07:40:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;EA schrapt onaangekondigde Titanfall-game en schrapt honderden banen&#039;</title>
-            <link>https://tweakers.net/nieuws/234466/ea-schrapt-onaangekondigde-titanfall-game-en-schrapt-honderden-banen.html</link>
-            <description>Electronic Arts trekt de stekker uit een onaangekondigde Titanfall-game, meldt persbureau Bloomberg op basis van ingewijden. Ook is de uitgever van plan om 300 tot 400 banen te schrappen, waarvan 100 bij Titanfall-ontwikkelaar Respawn Entertainment.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/234466/ea-schrapt-onaangekondigde-titanfall-game-en-schrapt-honderden-banen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234466</guid>
-            <pubDate>Wed, 30 Apr 2025 07:32:45 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - AdwCleaner 8.5.1</title>
-            <link>https://tweakers.net/downloads/72182/adwcleaner-851.html</link>
-            <description>Malwarebytes heeft AdwCleaner versie 8.5.1 uitgebracht. Dit programma is bedoeld voor het verwijderen van malware, zoals toolbars die aan webbrowsers worden toegevoegd en zogenaamde hijackers, die onder meer de startpagina en zoekmachine aanpassen. Ondersteuning is aanwezig voor Internet Explorer, Mozilla Firefox en Google Chrome. Nadat de scan is uitgevoerd, kun je zelf bepalen wat er verwijderd moet worden. In deze uitgave zijn de volgende veranderingen en verbeteringen doorgevoerd: Changes</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72182/adwcleaner-851.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72182</guid>
-            <pubDate>Tue, 29 Apr 2025 22:22:28 +0200</pubDate>
         </item>
     </channel>
 </rss>
