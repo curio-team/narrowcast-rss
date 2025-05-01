@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 01 May 2025 10:31:34 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 May 2025 12:23:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Google is reportedly showing ads in chats with some third-party AI chatbots</title>
+		<link>https://techcrunch.com/2025/05/01/google-is-reportedly-showing-ads-in-chats-with-some-third-party-ai-chatbots/</link>
+		
+		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
+		<pubDate>Thu, 01 May 2025 12:23:09 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI search]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[search ads]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3001837</guid>
+
+					<description><![CDATA[Google&#8217;s AdSense advertising network started supporting ads inside users&#8217; chats with some third-party AI chatbots earlier this year, Bloomberg reported. The company is rolling out the feature following tests with AI search startups iAsk and Liner, the report said, citing anonymous sources familiar with the matter. “AdSense for Search is available for websites that want [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>WhatsApp now has more than 3 billion users a month</title>
 		<link>https://techcrunch.com/2025/05/01/whatsapp-now-has-more-than-3-billion-users/</link>
 		
@@ -348,25 +365,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3001291</guid>
 
 					<description><![CDATA[Meta has updated the privacy policy for its AI glasses, Ray-Ban Meta, giving the tech giant more power over what data it can store and use to train its AI models. The company emailed Ray-Ban Meta owners on Tuesday with a notice that AI features will now be enabled on the glasses by default, according [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple notifies new victims of spyware attacks across the world</title>
-		<link>https://techcrunch.com/2025/04/30/apple-notifies-new-victims-of-spyware-attacks-across-the-world/</link>
-		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
-		<pubDate>Wed, 30 Apr 2025 18:01:17 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[hacking]]></category>
-		<category><![CDATA[Spyware]]></category>
-		<category><![CDATA[surveillance]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3001310</guid>
-
-					<description><![CDATA[Two alleged victims came forward claiming they received a spyware notification from Apple. ]]></description>
 		
 		
 		

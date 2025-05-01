@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 01 May 2025 13:31:03 +0200</pubDate>
-        <lastBuildDate>Thu, 01 May 2025 13:31:03 +0200</lastBuildDate>
+        <pubDate>Thu, 01 May 2025 14:41:02 +0200</pubDate>
+        <lastBuildDate>Thu, 01 May 2025 14:41:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,46 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>.Deals - De beste elektronicadeals van week 18 2025</title>
+            <link>https://tweakers.net/plan/4402/de-beste-elektronicadeals-van-week-18-2025.html</link>
+            <description>De interessante prijsdalingen, cashbackacties, kortingscodes en comboaanbiedingen van week 17 van 2025, geselecteerd door het Pricewatch-team.</description>
+            <author>Tweakers Pricewatch</author>
+            <category>.deals</category>
+            <comments>https://tweakers.net/plan/4402/de-beste-elektronicadeals-van-week-18-2025.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/plan/4402</guid>
+            <pubDate>Thu, 01 May 2025 14:35:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gerucht: dunne Samsung Galaxy S25 Edge komt eind deze maand uit voor 1249 euro</title>
+            <link>https://tweakers.net/nieuws/234538/gerucht-dunne-samsung-galaxy-s25-edge-komt-eind-deze-maand-uit-voor-1249-euro.html</link>
+            <description>De dunne en lichte Samsung Galaxy S25 Edge komt eind deze maand uit voor 1249 euro, zo vermeldt WinFuture. De site vermeldt een release in Duitsland, wat het waarschijnlijk maakt dat de telefoon ook in Nederland zal verschijnen.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/234538/gerucht-dunne-samsung-galaxy-s25-edge-komt-eind-deze-maand-uit-voor-1249-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234538</guid>
+            <pubDate>Thu, 01 May 2025 14:03:02 +0200</pubDate>
+        </item>
+        <item>
+            <title>Microsoft verwacht dat AI-capaciteitsproblemen ook na juni voortduren</title>
+            <link>https://tweakers.net/nieuws/234530/microsoft-verwacht-dat-ai-capaciteitsproblemen-ook-na-juni-voortduren.html</link>
+            <description>De omzet en winst van Microsoft groeien nog altijd hard, mede dankzij zijn investeringen in AI. Maar de vraag naar Microsofts AI-diensten groeit zo hard, dat het bedrijf tegen capaciteitsproblemen aanloopt. Dat zegt het bedrijf bij de presentatie van zijn kwartaalcijfers.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/234530/microsoft-verwacht-dat-ai-capaciteitsproblemen-ook-na-juni-voortduren.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234530</guid>
+            <pubDate>Thu, 01 May 2025 13:58:45 +0200</pubDate>
+        </item>
+        <item>
+            <title>Windows RDP accepteert oude wachtwoorden, Microsoft vindt dat geen lek</title>
+            <link>https://tweakers.net/nieuws/234526/windows-rdp-accepteert-oude-wachtwoorden-microsoft-vindt-dat-geen-lek.html</link>
+            <description>Microsoft Windows Remote Desktop Protocol accepteert oude, veranderde wachtwoorden van gebruikers. Het bedrijf vindt dat geen lek, omdat het inloggen mogelijk maakt als een machine lang niet is gebruikt en niet online kan gaan.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Computers / Besturingssystemen</category>
+            <comments>https://tweakers.net/nieuws/234526/windows-rdp-accepteert-oude-wachtwoorden-microsoft-vindt-dat-geen-lek.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234526</guid>
+            <pubDate>Thu, 01 May 2025 13:41:13 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Umbraco CMS 15.4.0</title>
             <link>https://tweakers.net/downloads/72516/umbraco-cms-1540.html</link>
@@ -376,46 +416,6 @@
             <comments>https://tweakers.net/nieuws/234480/openai-draait-update-gpt-4o-terug-vanwege-vleierig-en-irritant-gedrag.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234480</guid>
             <pubDate>Wed, 30 Apr 2025 12:32:46 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Mozilla Thunderbird 138.0</title>
-            <link>https://tweakers.net/downloads/72496/mozilla-thunderbird-1380.html</link>
-            <description>De Mozilla Foundation heeft versie 138.0 van Thunderbird uitgebracht. Thunderbird is een opensourceclient voor e-mail en nieuwsgroepen met ondersteuning voor verschillende mail- en newsaccounts. Verder zijn er een spamfilter, spellingscontrole, kalender en adresboek, en heeft het een aanpasbaar uiterlijk. Thunderbird is beschikbaar in twee verschillende versies, die beide als stabiel worden aangeduid. De eerste wordt vaker voorzien van nieuwe functionaliteit en wordt als Release-versie aangeboden; de andere, de Extra Support Release-versie, wordt alleen van bugfixes en stabiliteitsverbeteringen voorzien. In deze uitgave zijn de volgende verbeteringen aangebracht: What’s New</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72496/mozilla-thunderbird-1380.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72496</guid>
-            <pubDate>Wed, 30 Apr 2025 12:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nintendo Switch-update bereidt originele console voor op komst Switch 2</title>
-            <link>https://tweakers.net/nieuws/234478/nintendo-switch-update-bereidt-originele-console-voor-op-komst-switch-2.html</link>
-            <description>Een nieuwe Nintendo Switch-update bereidt de handheldconsole voor op de komst van de Switch 2, die op 5 juni verschijnt. Softwareversie 20.0.0 voegt onder meer iconen toe aan het startmenu voor de eerder aangekondigde functies Virtual Game Card en GameShare.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / Gaming / Consoles</category>
-            <comments>https://tweakers.net/nieuws/234478/nintendo-switch-update-bereidt-originele-console-voor-op-komst-switch-2.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234478</guid>
-            <pubDate>Wed, 30 Apr 2025 11:53:46 +0200</pubDate>
-        </item>
-        <item>
-            <title>Bunq maakt handelen in cryptovaluta mogelijk via app</title>
-            <link>https://tweakers.net/nieuws/234476/bunq-maakt-handelen-in-cryptovaluta-mogelijk-via-app.html</link>
-            <description>Bunq-gebruikers in onder meer Nederland en België kunnen voortaan handelen in meer dan driehonderd cryptovaluta, waaronder bitcoin, ether en Solana. De online bank is hiervoor een samenwerking aangegaan met het Amerikaanse cryptovalutahandelsplatform Kraken.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/234476/bunq-maakt-handelen-in-cryptovaluta-mogelijk-via-app.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234476</guid>
-            <pubDate>Wed, 30 Apr 2025 11:09:39 +0200</pubDate>
-        </item>
-        <item>
-            <title>OnePlus brengt 13T-smartphone niet uit in Europa</title>
-            <link>https://tweakers.net/nieuws/234474/oneplus-brengt-13t-smartphone-niet-uit-in-europa.html</link>
-            <description>OnePlus heeft geen plannen om zijn nieuwe 13T-smartphone uit te brengen in Europa en Noord-Amerika, bevestigt de fabrikant aan The Verge. Het toestel kwam vorige week uit voor de Chinese markt en komt ook naar India als OnePlus 13S.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/234474/oneplus-brengt-13t-smartphone-niet-uit-in-europa.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234474</guid>
-            <pubDate>Wed, 30 Apr 2025 10:39:27 +0200</pubDate>
         </item>
     </channel>
 </rss>
