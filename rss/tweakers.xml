@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 01 May 2025 10:36:01 +0200</pubDate>
-        <lastBuildDate>Thu, 01 May 2025 10:36:01 +0200</lastBuildDate>
+        <pubDate>Thu, 01 May 2025 11:31:02 +0200</pubDate>
+        <lastBuildDate>Thu, 01 May 2025 11:31:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Rechter VS: Apple mag geen commissie meer rekenen op aankopen buiten App Store</title>
+            <link>https://tweakers.net/nieuws/234516/rechter-vs-apple-mag-geen-commissie-meer-rekenen-op-aankopen-buiten-app-store.html</link>
+            <description>Apple mag in de VS geen commissie meer vragen over aankopen die buiten de App Store worden gedaan. Dat heeft een Amerikaanse rechter bepaald. Epic Games, die de zaak aanspande, belooft daarop Fortnite terug te brengen naar de Amerikaanse App Store.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/234516/rechter-vs-apple-mag-geen-commissie-meer-rekenen-op-aankopen-buiten-app-store.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234516</guid>
+            <pubDate>Thu, 01 May 2025 10:42:05 +0200</pubDate>
+        </item>
         <item>
             <title>Firmware-update - Nintendo Switch 20.0.0</title>
             <link>https://tweakers.net/downloads/72514/nintendo-switch-2000.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/plan/4398/hoe-bevalt-de-homevolt-thuisbatterij-van-tibber-na-vijf-maanden.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/plan/4398</guid>
             <pubDate>Wed, 30 Apr 2025 08:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - MAME 0.277</title>
-            <link>https://tweakers.net/downloads/72492/mame-0277.html</link>
-            <description>Versie 0.277 van MAME is uitgekomen. MAME staat voor Multiple Arcade Machine Emulator en is een programma waarmee het mogelijk is om een groot aantal klassieke arcadespellen te spelen. Ook emuleert het een groot aantal oude computers, zoals de Commodore 64, Atari 2600, Gameboy en ZX Spectrum via de inmiddels geïntegreerde MESS, wat staat voor Multi Emulator Super System. De uitgebreide lijst met veranderingen die in deze uitgave zijn aangebracht staat hier; de releasenotes kunnen hieronder worden gevonden. MAME 0.277:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72492/mame-0277.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72492</guid>
-            <pubDate>Wed, 30 Apr 2025 07:40:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
