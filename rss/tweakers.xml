@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 01 May 2025 16:31:02 +0200</pubDate>
-        <lastBuildDate>Thu, 01 May 2025 16:31:02 +0200</lastBuildDate>
+        <pubDate>Fri, 02 May 2025 09:31:01 +0200</pubDate>
+        <lastBuildDate>Fri, 02 May 2025 09:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,106 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - OpenZFS 2.3.2</title>
+            <link>https://tweakers.net/downloads/72526/openzfs-232.html</link>
+            <description>Het opensource zfs-bestandssysteem werd oorspronkelijk door Sun ontwikkeld voor Solaris, maar in 2013 heeft een aantal ontwikkelaars OpenZFS opgericht om de verdere ontwikkeling te waarborgen. Het bestandssysteem wordt momenteel officieel ondersteund op Linux en FreeBSD. Het bevat onder andere methodes om datacorruptie in zowel de data als de metadata te voorkomen, biedt dataredundantie via RAID-Z en bespaart ruimte door de data transparant te comprimeren. Voor meer informatie verwijzen we jullie door naar de OpenZFS-website. De ontwikkelaars hebben versie 2.3.2 uitgebracht en hierin zijn de volgende veranderingen en verbeteringen aangebracht: Supported Platforms</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72526/openzfs-232.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72526</guid>
+            <pubDate>Fri, 02 May 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nieuwe Microsoft-accounts worden standaard wachtwoordloos</title>
+            <link>https://tweakers.net/nieuws/234564/nieuwe-microsoft-accounts-worden-standaard-wachtwoordloos.html</link>
+            <description>Microsoft gaat nieuwe accounts voortaan standaard vragen om wachtwoordloze inlogmethoden te gebruiken, zoals passkeys. Het bedrijf wil daarmee afstappen van &#039;minder veilige&#039; wachtwoorden. Microsoft kwam eerder dit jaar al met een nieuw inlogscherm, dat beter werkt met die inlogopties.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/234564/nieuwe-microsoft-accounts-worden-standaard-wachtwoordloos.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234564</guid>
+            <pubDate>Fri, 02 May 2025 08:53:26 +0200</pubDate>
+        </item>
+        <item>
+            <title>Epic Games komt met alternatieve betaalmethode voor iOS-apps</title>
+            <link>https://tweakers.net/nieuws/234562/epic-games-komt-met-alternatieve-betaalmethode-voor-ios-apps.html</link>
+            <description>Epic Games komt in juni met een alternatief voor Apples in-app aankopen op iOS, in de vorm van Epic Games Store-webshops. Ontwikkelaars kunnen via die webshops aankopen aanbieden buiten de apps om, waardoor ze minder commissie hoeven te betalen aan Apple.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Software</category>
+            <comments>https://tweakers.net/nieuws/234562/epic-games-komt-met-alternatieve-betaalmethode-voor-ios-apps.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234562</guid>
+            <pubDate>Fri, 02 May 2025 08:02:15 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Zigbee2MQTT 2.3.0</title>
+            <link>https://tweakers.net/downloads/72524/zigbee2mqtt-230.html</link>
+            <description>Versie 2.3.0 van Zigbee2MQTT is uitgekomen. Zigbee2MQTT maakt het mogelijk om Zigbee-apparaten aan te sturen zonder gebruik te hoeven maken van de gateway of bridge van de fabrikant. Dit doet het door van MQTT gebruik te maken, waardoor het eenvoudig te integreren is in smarthomesoftware, zoals bijvoorbeeld Home Assistant, Homey of Domoticz. De changelog voor deze uitgave kan hieronder worden gevonden. Notes</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72524/zigbee2mqtt-230.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72524</guid>
+            <pubDate>Fri, 02 May 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Round-up - ASUS, MSI en BTO met RTX 5090 - De allersnelste (en duurste) laptops</title>
+            <link>https://tweakers.net/reviews/13120/asus-msi-en-bto-met-rtx-5090-de-allersnelste-en-duurste-laptops.html</link>
+            <description>Als geld geen rol speelt, kies je uit deze gamebeesten: BTO 18X1590, ASUS SCAR 18 of MSI Titan 18. Ze hebben alle drie een RTX 5090, maar welke is de beste?</description>
+            <author>Jelle Stuip</author>
+            <category>Round-up / Computers / Laptops</category>
+            <comments>https://tweakers.net/reviews/13120/9/asus-msi-en-bto-met-rtx-5090-de-allersnelste-en-duurste-laptops-conclusie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13120</guid>
+            <pubDate>Fri, 02 May 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Meta slaat stemcommando&#039;s gebruikers via Ray-Ban-brillen voortaan standaard op</title>
+            <link>https://tweakers.net/nieuws/234560/meta-slaat-stemcommandos-gebruikers-via-ray-ban-brillen-voortaan-standaard-op.html</link>
+            <description>Meta verandert het privacybeleid voor zijn slimme Ray-Ban-AI-brillen. Zo worden opnames van stemcommando&#039;s voortaan altijd opgeslagen. Tot dusver was daar een opt-outoptie voor. Meta gebruikt stemopnames om zijn AI-modellen te trainen.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Privacy</category>
+            <comments>https://tweakers.net/nieuws/234560/meta-slaat-stemcommandos-gebruikers-via-ray-ban-brillen-voortaan-standaard-op.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234560</guid>
+            <pubDate>Thu, 01 May 2025 21:06:30 +0200</pubDate>
+        </item>
+        <item>
+            <title>Deel medewerkers Polygon is ontslagen na overname</title>
+            <link>https://tweakers.net/nieuws/234558/deel-medewerkers-polygon-is-ontslagen-na-overname.html</link>
+            <description>Het Canadese Valnet neemt de gamejournalistieke website Polygon over voor een onbekend bedrag. Valnet beheert ook andere gamemedia als Game Rant, TheGamer en Hardcore Gamer. Er zijn als gevolg van de overname tenminste twaalf medewerkers van Polygon ontslagen.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/234558/deel-medewerkers-polygon-is-ontslagen-na-overname.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234558</guid>
+            <pubDate>Thu, 01 May 2025 20:06:10 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Veiligheidsadviseur VS Mike Waltz stapt op na lekken oorlogsplannen via Signal&#039;</title>
+            <link>https://tweakers.net/nieuws/234556/veiligheidsadviseur-vs-mike-waltz-stapt-op-na-lekken-oorlogsplannen-via-signal.html</link>
+            <description>De nationale veiligheidsadviseur voor de Amerikaanse regering Michael Waltz stapt naar verluidt op nadat er onlangs oorlogsplannen via Signal geopenbaard werden aan een journalist die daar geen toegang tot zou mogen hebben. Ook een medewerker van Waltz zou opstappen.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Privacy</category>
+            <comments>https://tweakers.net/nieuws/234556/veiligheidsadviseur-vs-mike-waltz-stapt-op-na-lekken-oorlogsplannen-via-signal.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234556</guid>
+            <pubDate>Thu, 01 May 2025 18:53:04 +0200</pubDate>
+        </item>
+        <item>
+            <title>Apple moet alsnog ruim 500 miljoen dollar aan 4G-patenteigenaar betalen</title>
+            <link>https://tweakers.net/nieuws/234554/apple-moet-alsnog-ruim-500-miljoen-dollar-aan-4g-patenteigenaar-betalen.html</link>
+            <description>Apple moet de patenteigenaar Optis Cellular Technology van een Britse rechter alsnog ruim 500 miljoen dollar exclusief rente betalen voor patentinbreuk. De iPhone-maker zou onterecht technologieën gerelateerd aan 4G hebben gebruikt. Apple gaat in hoger beroep.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/234554/apple-moet-alsnog-ruim-500-miljoen-dollar-aan-4g-patenteigenaar-betalen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234554</guid>
+            <pubDate>Thu, 01 May 2025 17:36:36 +0200</pubDate>
+        </item>
+        <item>
+            <title>YouTube test blurren van thumbnails bij seksuele thema&#039;s</title>
+            <link>https://tweakers.net/nieuws/234546/youtube-test-blurren-van-thumbnails-bij-seksuele-themas.html</link>
+            <description>YouTube voert een test uit, waarbij gebruikers bij sommige zoektermen in de resultaten geblurde thumbnails zien. Daarbij gaat het om video&#039;s die wel voldoen aan de richtlijnen, maar die gebruikers alsnog kunnen ervaren als gevoelig. Het zal om seksuele thema&#039;s gaan.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Beeld en geluid / Audio</category>
+            <comments>https://tweakers.net/nieuws/234546/youtube-test-blurren-van-thumbnails-bij-seksuele-themas.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234546</guid>
+            <pubDate>Thu, 01 May 2025 16:43:23 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Tails 6.15</title>
             <link>https://tweakers.net/downloads/72522/tails-615.html</link>
@@ -278,12 +378,12 @@
             <pubDate>Thu, 01 May 2025 08:01:04 +0200</pubDate>
         </item>
         <item>
-            <title>.Adv - Review-recap: dit vindt de community van drie AOC-monitoren</title>
-            <link>https://tweakers.net/plan/4390/review-recap-dit-vindt-de-community-van-drie-aoc-monitoren.html</link>
+            <title>.Adv - Dit vindt de community van drie AOC-monitoren</title>
+            <link>https://tweakers.net/plan/4390/dit-vindt-de-community-van-drie-aoc-monitoren.html</link>
             <description>Enige tijd geleden zochten Tweakers Partners en AOC communityleden die aan de slag wilden gaan met drie monitormodellen van AOC. Dat trio bestond uit de AOC CQ27G4X, AOC U27B3CF en AOC Agon Pro AG326UD. Drie tweakers gingen aan de slag met het eerste model, drie met nummer twee en vier zetten hun tanden in het derde model. Op sommige punten zijn de testers redelijk unaniem in hun oordeel, maar op andere punten lopen hun reviews behoorlijk uiteen.</description>
             <author>Tweakers Partners</author>
             <category>.adv</category>
-            <comments>https://tweakers.net/plan/4390/review-recap-dit-vindt-de-community-van-drie-aoc-monitoren.html#reacties</comments>
+            <comments>https://tweakers.net/plan/4390/dit-vindt-de-community-van-drie-aoc-monitoren.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/plan/4390</guid>
             <pubDate>Thu, 01 May 2025 08:00:00 +0200</pubDate>
         </item>
@@ -316,106 +416,6 @@
             <comments>https://tweakers.net/reviews/13146/europa-wil-af-van-amerikaanse-diensten-maar-hoe-doet-het-dat.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13146</guid>
             <pubDate>Thu, 01 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Video - Stroomadviezen, Duolingo-AI&#039;s en cloudthermostaten - Tweakers Podcast #371</title>
-            <link>https://tweakers.net/video/19878/stroomadviezen-duolingo-ais-en-cloudthermostaten-tweakers-podcast-371.html</link>
-            <description>Deze week praten Wout Funnekotter, Jurian Ubachs, Arnoud Wokke en Olaf Weijers over het advies om minder stroom te gebruiken tussen 16.00u en 21.00u, het AI-experiment op Reddit, de testopstelling voor WiFI 7, de AI-strategie van Duolingo en het stoppen van Nest in Europa.</description>
-            <author>Redactie Tweakers</author>
-            <category>Video / IT Pro / Economie en maatschappij</category>
-            <comments>https://tweakers.net/video/19878/stroomadviezen-duolingo-ais-en-cloudthermostaten-tweakers-podcast-371.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/video/19878</guid>
-            <pubDate>Thu, 01 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Tweakers Podcast #371 -Stroomadviezen, Duolingo-AI&#039;s en cloudthermostaten</title>
-            <link>https://tweakers.net/geek/234488/tweakers-podcast-371-stroomadviezen-duolingo-ais-en-cloudthermostaten.html</link>
-            <description>Deze week praten Wout Funnekotter, Jurian Ubachs, Arnoud Wokke en Olaf Weijers over het advies om minder stroom te gebruiken tussen 16.00u en 21.00u, het AI-experiment op Reddit, de testopstelling voor WiFI 7, de AI-strategie van Duolingo en het stoppen van Nest in Europa.</description>
-            <author>Arnoud Wokke</author>
-            <category>.Geek / Beeld en geluid / Audio</category>
-            <comments>https://tweakers.net/geek/234488/tweakers-podcast-371-stroomadviezen-duolingo-ais-en-cloudthermostaten.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/234488</guid>
-            <pubDate>Thu, 01 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Apple AirPlay-apparaten konden overgenomen worden via lokale netwerken</title>
-            <link>https://tweakers.net/nieuws/234506/apple-airplay-apparaten-konden-overgenomen-worden-via-lokale-netwerken.html</link>
-            <description>Onderzoekers hebben een reeks kwetsbaarheden in Apple AirPlay onthuld. Die maakten het mogelijk om op afstand code te draaien op apparaten met AirPlay, mits die zich op hetzelfde netwerk bevonden. Apple heeft de bugs al gepatcht.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/234506/apple-airplay-apparaten-konden-overgenomen-worden-via-lokale-netwerken.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234506</guid>
-            <pubDate>Wed, 30 Apr 2025 21:00:32 +0200</pubDate>
-        </item>
-        <item>
-            <title>X verloor de afgelopen maanden miljoenen gebruikers in Europa</title>
-            <link>https://tweakers.net/nieuws/234504/x-verloor-de-afgelopen-maanden-miljoenen-gebruikers-in-europa.html</link>
-            <description>X, het voormalige Twitter, verloor de afgelopen vijf maanden ongeveer 10,5 miljoen gebruikers in de Europese Unie. Dat blijkt uit het transparantierapport dat het platform moet publiceren om te voldoen aan de Digital Services Act.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/234504/x-verloor-de-afgelopen-maanden-miljoenen-gebruikers-in-europa.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234504</guid>
-            <pubDate>Wed, 30 Apr 2025 20:02:28 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Proton 10.0-1 bèta</title>
-            <link>https://tweakers.net/downloads/72506/proton-100-1-beta.html</link>
-            <description>Versie 10.0-1 van Proton is uitgekomen, een bètarelease. Proton is een door Valve en met hulp van CodeWeavers ontwikkelde compatibiliteitslaag die bedoeld is om Windows-spellen zo goed mogelijk onder Linux en dan met name op de Steam Deck te laten draaien. Het geheel bestaat uit verschillende softwarebibliotheken en een aangepaste versie van Wine. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changes in Proton version 10.0-1 (beta)</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72506/proton-100-1-beta.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72506</guid>
-            <pubDate>Wed, 30 Apr 2025 19:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>TP-Link brengt Tapo H500-hub voor lokale opslag camerabeelden uit voor 129 euro</title>
-            <link>https://tweakers.net/nieuws/234502/tp-link-brengt-tapo-h500-hub-voor-lokale-opslag-camerabeelden-uit-voor-129-euro.html</link>
-            <description>TP-Link brengt zijn Tapo H500 uit. Het is een soort smarthomehub, waarmee gebruikers de beelden van maximaal zestien TP-Link-beveiligingscamera&#039;s lokaal kunnen opslaan. Het apparaat kost 129 euro, exclusief een losse hdd of ssd.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Beeld en geluid / Smarthome</category>
-            <comments>https://tweakers.net/nieuws/234502/tp-link-brengt-tapo-h500-hub-voor-lokale-opslag-camerabeelden-uit-voor-129-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234502</guid>
-            <pubDate>Wed, 30 Apr 2025 19:18:12 +0200</pubDate>
-        </item>
-        <item>
-            <title>Acer brengt 1080p-monitor met 600Hz-refreshrate in november uit voor 849 euro</title>
-            <link>https://tweakers.net/nieuws/234498/acer-brengt-1080p-monitor-met-600hz-refreshrate-in-november-uit-voor-849-euro.html</link>
-            <description>Acer heeft de adviesprijzen voor twee nieuwe gamingmonitors aangekondigd. Dat gaat onder andere om de Nitro XV240 F6, een 1080p-monitor met 600Hz-refreshrate, die in november verschijnt voor 849 euro. In diezelfde maand verschijnt ook een 4k160-scherm voor 749 euro.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / Monitors</category>
-            <comments>https://tweakers.net/nieuws/234498/acer-brengt-1080p-monitor-met-600hz-refreshrate-in-november-uit-voor-849-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234498</guid>
-            <pubDate>Wed, 30 Apr 2025 18:59:46 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - TeamViewer 15.65.4</title>
-            <link>https://tweakers.net/downloads/72504/teamviewer-15654.html</link>
-            <description>Versie 15.65.4 van TeamViewer is verschenen. Met dit programma kunnen andere computers via een veilige vpn-verbinding op afstand worden beheerd. Die verbinding loopt via de servers van TeamViewer, dus er hoeven geen instellingen op de router aangepast te worden om het allemaal te laten werken. TeamViewer is gratis voor niet-commercieel gebruik en wordt ontwikkeld voor Windows, Linux, macOS, iOS en Android. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: New features</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72504/teamviewer-15654.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72504</guid>
-            <pubDate>Wed, 30 Apr 2025 18:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>TikTok gaat 1 miljard euro investeren in datacenter in Finland</title>
-            <link>https://tweakers.net/nieuws/234500/tiktok-gaat-1-miljard-euro-investeren-in-datacenter-in-finland.html</link>
-            <description>TikTok is van plan om een miljard euro te investeren in de bouw van zijn eerste datacenter in Finland. Dat bevestigde het socialemediaplatform op woensdag. Het bedrijf is van plan om op termijn nog meer Europese datacenters te bouwen.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/234500/tiktok-gaat-1-miljard-euro-investeren-in-datacenter-in-finland.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234500</guid>
-            <pubDate>Wed, 30 Apr 2025 17:32:08 +0200</pubDate>
-        </item>
-        <item>
-            <title>TransIP introduceert nieuwe vps&#039;en die flexibel op- en afgeschaald kunnen worden</title>
-            <link>https://tweakers.net/nieuws/234496/transip-introduceert-nieuwe-vpsen-die-flexibel-op-en-afgeschaald-kunnen-worden.html</link>
-            <description>Nederlandse hostingpartij TransIP introduceert een nieuw vps-platform. Die zijn volgens het bedrijf flexibeler, omdat gebruikers gemakkelijk extra cpu-cores en andere resources kunnen inzetten. Wanneer die niet meer nodig zijn, kunnen ze meteen weer afgeschaald worden.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / IT Pro / Internettoegang</category>
-            <comments>https://tweakers.net/nieuws/234496/transip-introduceert-nieuwe-vpsen-die-flexibel-op-en-afgeschaald-kunnen-worden.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234496</guid>
-            <pubDate>Wed, 30 Apr 2025 16:58:09 +0200</pubDate>
         </item>
     </channel>
 </rss>
