@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 02 May 2025 10:49:49 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 May 2025 12:41:54 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Airbnb is quietly rolling out an AI customer service bot in the US</title>
+		<link>https://techcrunch.com/2025/05/02/airbnb-is-quietly-rolling-out-an-ai-customer-service-bot-in-the-us/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Fri, 02 May 2025 12:41:48 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[ai agent]]></category>
+		<category><![CDATA[Airbnb]]></category>
+		<category><![CDATA[Customer Service]]></category>
+		<category><![CDATA[travel]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3002240</guid>
+
+					<description><![CDATA[Airbnb started rolling out an AI-powered customer service bot in the U.S. last month, CEO Brian Chesky said during the firm&#8217;s first-quarter conference call on Thursday. Chesky said 50% of Airbnb&#8217;s U.S. users are already using the AI bot for customer service, adding that the company plans to roll out the feature to all its [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Apple changes US App Store rules to let apps link to external payment systems</title>
 		<link>https://techcrunch.com/2025/05/02/apple-changes-us-app-store-rules-to-let-apps-redirect-users-to-their-own-websites-for-payments/</link>
 		
@@ -354,24 +373,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3001461</guid>
 
 					<description><![CDATA[Google is expanding access to AI Mode, its experimental feature that allows users to ask complex, multipart questions and follow-ups to dig deeper on a topic directly within Search. The tech giant is also adding more functionality to the feature, including the ability to pick up where you left off on a search. Google launched [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ChatGPT: Everything you need to know about the AI-powered chatbot</title>
-		<link>https://techcrunch.com/2025/05/01/chatgpt-everything-to-know-about-the-ai-chatbot/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers, Cody Corrall, Alyssa Stringer, Kate Park]]></dc:creator>
-		<pubDate>Thu, 01 May 2025 15:32:14 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2607630</guid>
-
-					<description><![CDATA[ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to supercharge productivity through writing essays and code with short text prompts has evolved into a behemoth with 300 million weekly active users. 2024 was a big year for OpenAI, from its partnership [&#8230;]]]></description>
 		
 		
 		

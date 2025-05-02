@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 02 May 2025 13:31:01 +0200</pubDate>
-        <lastBuildDate>Fri, 02 May 2025 13:31:01 +0200</lastBuildDate>
+        <pubDate>Fri, 02 May 2025 14:41:01 +0200</pubDate>
+        <lastBuildDate>Fri, 02 May 2025 14:41:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>.Geek - Ontwikkelaar draait &#039;voor de lol&#039; Linux binnen Excel</title>
+            <link>https://tweakers.net/geek/234582/ontwikkelaar-draait-voor-de-lol-linux-binnen-excel.html</link>
+            <description>Ontwikkelaar NSG650 heeft Linux werkend gekregen in Excel. Dat was mogelijk door het gebruik van een Visual Basic for Applications-macro die een RISC-V-emulator oproept. Het project is beschikbaar op GitHub, al waarschuwt NSG650 dat de implementatie zeer buggy is.</description>
+            <author>Idriz Velghe</author>
+            <category>.Geek / Computers / Software</category>
+            <comments>https://tweakers.net/geek/234582/ontwikkelaar-draait-voor-de-lol-linux-binnen-excel.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/234582</guid>
+            <pubDate>Fri, 02 May 2025 13:52:41 +0200</pubDate>
+        </item>
+        <item>
+            <title>Grand Theft Auto VI is uitgesteld naar volgend jaar, release in mei</title>
+            <link>https://tweakers.net/nieuws/234580/grand-theft-auto-vi-is-uitgesteld-naar-volgend-jaar-release-in-mei.html</link>
+            <description>Grand Theft Auto VI is uitgesteld naar volgend jaar. Dat bevestigt ontwikkelaar Rockstar Games. Het bedrijf zegt meer tijd nodig te hebben om de game op te poetsen. Rockstar deelt wel voor het eerst een concrete releasedatum: 26 mei 2026.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/234580/grand-theft-auto-vi-is-uitgesteld-naar-volgend-jaar-release-in-mei.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234580</guid>
+            <pubDate>Fri, 02 May 2025 13:42:06 +0200</pubDate>
+        </item>
         <item>
             <title>TikTok krijgt AVG-boete van 530 miljoen euro wegens datatransfers naar China</title>
             <link>https://tweakers.net/nieuws/234576/tiktok-krijgt-avg-boete-van-530-miljoen-euro-wegens-datatransfers-naar-china.html</link>
@@ -330,7 +350,7 @@
         <item>
             <title>NCSC waarschuwt voor lopende ddos-aanvallen op Nederlandse organisaties</title>
             <link>https://tweakers.net/nieuws/234528/ncsc-waarschuwt-voor-lopende-ddos-aanvallen-op-nederlandse-organisaties.html</link>
-            <description>Meerdere Nederlandse organisaties zijn deze week het doelwit van grootschalige ddos-aanvallen. Dat stelt het Nationaal Cyber Security Center. Het gaat zowel om publieke als private partijen. Ook Europese organisaties blijken doelwit.</description>
+            <description>Meerdere Nederlandse organisaties zijn deze week het doelwit van grootschalige ddos-aanvallen. Dat stelt het Nationaal Cyber Security Centrum. Het gaat zowel om publieke als private partijen. Ook Europese organisaties blijken doelwit.</description>
             <author>Eveline Meijer</author>
             <category>Nieuws / Computers / Beveiliging en antivirus</category>
             <comments>https://tweakers.net/nieuws/234528/ncsc-waarschuwt-voor-lopende-ddos-aanvallen-op-nederlandse-organisaties.html#reacties</comments>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/234514/nintendo-beperkt-manier-om-digitale-switch-games-tegelijkertijd-te-spelen.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234514</guid>
             <pubDate>Thu, 01 May 2025 09:56:23 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - RoboForm 9.6.8</title>
-            <link>https://tweakers.net/downloads/72510/roboform-968.html</link>
-            <description>Versie 9.6.8 van RoboForm is uitgekomen. Dit programma is ruim twintig jaar geleden ontstaan als een hulpmiddel bij het invullen van formulieren en is inmiddels doorgegroeid naar een complete wachtwoordmanager. Het programma is beschikbaar voor Windows, Linux, macOS, Android en iOS, en als plug-in voor de bekendste webbrowsers. Het programma is gratis te gebruiken, maar wel met enkele beperkingen. Naast het veilig opslaan van wachtwoorden en passkeys, kan het ook sterke wachtwoorden genereren en waarschuwen als een wachtwoord voorkomt in een lijst met gelekte wachtwoorden. In deze uitgave zijn de volgende veranderingen doorgevoerd: Changes in version 9.6.8:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72510/roboform-968.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72510</guid>
-            <pubDate>Thu, 01 May 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Verenigd Koninkrijk onderzoekt omkoping rond Nederlands Microsoft-datacenter</title>
-            <link>https://tweakers.net/nieuws/234512/verenigd-koninkrijk-onderzoekt-omkoping-rond-nederlands-microsoft-datacenter.html</link>
-            <description>Het Britse Serious Fraud Office onderzoekt mogelijke omkoping rondom de bouw van een datacenter van Microsoft in Nederland. Als onderdeel daarvan zijn vijf locaties onderzocht en zijn drie arrestaties verricht.</description>
-            <author>Eveline Meijer</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/234512/verenigd-koninkrijk-onderzoekt-omkoping-rond-nederlands-microsoft-datacenter.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234512</guid>
-            <pubDate>Thu, 01 May 2025 08:46:50 +0200</pubDate>
         </item>
     </channel>
 </rss>
