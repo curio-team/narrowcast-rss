@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 02 May 2025 15:36:01 +0200</pubDate>
-        <lastBuildDate>Fri, 02 May 2025 15:36:01 +0200</lastBuildDate>
+        <pubDate>Fri, 02 May 2025 16:31:01 +0200</pubDate>
+        <lastBuildDate>Fri, 02 May 2025 16:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>G.Skill toont DDR5-2x64GB-geheugenkit met snelheid van 8400MT/s</title>
+            <link>https://tweakers.net/nieuws/234590/g-punt-skill-toont-ddr5-2x64gb-geheugenkit-met-snelheid-van-8400mt-s.html</link>
+            <description>Geheugenfabrikant G.Skill heeft een 128GB-kit van twee DDR5-modules werkend gekregen op een snelheid van 8400MT/s. Dat is zeer snel, gezien de hoge capaciteit. Het is niet duidelijk of de fabrikant vooraf overgeklokte setjes met deze specificaties gaat verkopen.</description>
+            <author>Idriz Velghe</author>
+            <category>Nieuws / Computers / Geheugen intern</category>
+            <comments>https://tweakers.net/nieuws/234590/g-punt-skill-toont-ddr5-2x64gb-geheugenkit-met-snelheid-van-8400mt-s.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234590</guid>
+            <pubDate>Fri, 02 May 2025 16:14:05 +0200</pubDate>
+        </item>
+        <item>
+            <title>Ziggo wil vanaf eind volgend jaar 8Gbit/s-internet aanbieden</title>
+            <link>https://tweakers.net/nieuws/234586/ziggo-wil-vanaf-eind-volgend-jaar-8gbit-s-internet-aanbieden.html</link>
+            <description>Ziggo wil vanaf eind 2026 internetabonnementen met een downloadsnelheid van 8Gbit/s gaan aanbieden. Dat zegt moederbedrijf Liberty Global tijdens de presentatie van haar kwartaalcijfers. Het bedrijf wil ook 2Gbit/s- en 4Gbit/s-abonnementen uitbrengen.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / IT Pro / Internettoegang</category>
+            <comments>https://tweakers.net/nieuws/234586/ziggo-wil-vanaf-eind-volgend-jaar-8gbit-s-internet-aanbieden.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234586</guid>
+            <pubDate>Fri, 02 May 2025 15:41:32 +0200</pubDate>
+        </item>
         <item>
             <title>België voert als tweede EU-land herstelbaarheidsindex in voor onder meer laptops</title>
             <link>https://tweakers.net/nieuws/234584/belgie-voert-als-tweede-eu-land-herstelbaarheidsindex-in-voor-onder-meer-laptops.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/downloads/72518/geforce-game-ready-driver-57628-whql.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72518</guid>
             <pubDate>Thu, 01 May 2025 12:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Rechter: Orange Belgium mag &#039;fiber&#039; en &#039;glasvezel&#039; niet meer noemen in reclames</title>
-            <link>https://tweakers.net/nieuws/234518/rechter-orange-belgium-mag-fiber-en-glasvezel-niet-meer-noemen-in-reclames.html</link>
-            <description>Telecomprovider Orange mag in reclames in België de woorden &#039;fiber&#039; en &#039;glasvezel&#039; niet meer gebruiken. Dat heeft het Antwerpse hof van beroep besloten in een zaak aangespannen door concurrent Proximus. Doet Orange dat toch, dan moet het dwangsommen betalen.</description>
-            <author>Eveline Meijer</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/234518/rechter-orange-belgium-mag-fiber-en-glasvezel-niet-meer-noemen-in-reclames.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234518</guid>
-            <pubDate>Thu, 01 May 2025 11:34:48 +0200</pubDate>
-        </item>
-        <item>
-            <title>Rechter VS: Apple mag geen commissie meer rekenen op aankopen buiten App Store</title>
-            <link>https://tweakers.net/nieuws/234516/rechter-vs-apple-mag-geen-commissie-meer-rekenen-op-aankopen-buiten-app-store.html</link>
-            <description>Apple mag in de VS geen commissie meer vragen over aankopen die buiten de App Store worden gedaan. Dat heeft een Amerikaanse rechter bepaald. Epic Games, die de zaak aanspande, belooft daarop Fortnite terug te brengen naar de Amerikaanse App Store.</description>
-            <author>Eveline Meijer</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/234516/rechter-vs-apple-mag-geen-commissie-meer-rekenen-op-aankopen-buiten-app-store.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234516</guid>
-            <pubDate>Thu, 01 May 2025 10:42:05 +0200</pubDate>
         </item>
     </channel>
 </rss>
