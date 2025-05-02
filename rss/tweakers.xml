@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 02 May 2025 09:31:01 +0200</pubDate>
-        <lastBuildDate>Fri, 02 May 2025 09:31:01 +0200</lastBuildDate>
+        <pubDate>Fri, 02 May 2025 10:36:01 +0200</pubDate>
+        <lastBuildDate>Fri, 02 May 2025 10:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Mozilla Firefox 138.0.1</title>
+            <link>https://tweakers.net/downloads/72528/mozilla-firefox-13801.html</link>
+            <description>Mozilla heeft een update voor versie 138 van zijn webbrowser Firefox uitgebracht. In versie 138 heeft Mozilla onder meer diverse verbeteringen aangebracht in het gebruik van profielen, waarmee bijvoorbeeld werk en privé surfen gescheiden kan worden. Verder is het groeperen van tabbladen, wat in de vorige versie in beperkte mate is geïntroduceerd nu voor bijna iedereen beschikbaar, en is het automatisch invullen van adres- en betalingsinformatie verbeterd. In versie 138.0.1 zijn verder nog de volgende verbeteringen aangebracht: Fixed</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72528/mozilla-firefox-13801.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72528</guid>
+            <pubDate>Fri, 02 May 2025 10:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Intel Panther Lake krijgt dit jaar een sku met 12 cores, meer modellen in 2026&#039;</title>
+            <link>https://tweakers.net/nieuws/234570/intel-panther-lake-krijgt-dit-jaar-een-sku-met-12-cores-meer-modellen-in-2026.html</link>
+            <description>Intel brengt dit jaar zijn eerste Panther Lake-laptopprocessors uit, maar dat gaat om een relatief beperkte release. Het bedrijf komt in eerste instantie met een enkele sku met in totaal twaalf cores, zegt een leaker. Begin 2026 volgen andere varianten.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/234570/intel-panther-lake-krijgt-dit-jaar-een-sku-met-12-cores-meer-modellen-in-2026.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234570</guid>
+            <pubDate>Fri, 02 May 2025 10:14:50 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - OpenZFS 2.3.2</title>
             <link>https://tweakers.net/downloads/72526/openzfs-232.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/downloads/72508/mediainfo-2504.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72508</guid>
             <pubDate>Thu, 01 May 2025 07:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft: &#039;Tot 30 procent van onze nieuwe code is door AI gegenereerd&#039;</title>
-            <link>https://tweakers.net/nieuws/234508/microsoft-tot-30-procent-van-onze-nieuwe-code-is-door-ai-gegenereerd.html</link>
-            <description>Twintig tot dertig procent van alle code in de repositories van Microsoft is door AI gegenereerd. Dat zegt Microsoft-ceo Satya Nadella. &quot;Sommige van onze projecten zijn waarschijnlijk zelfs al helemaal door software geschreven.&quot;</description>
-            <author>Eveline Meijer</author>
-            <category>Nieuws / IT Pro / Software development</category>
-            <comments>https://tweakers.net/nieuws/234508/microsoft-tot-30-procent-van-onze-nieuwe-code-is-door-ai-gegenereerd.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234508</guid>
-            <pubDate>Thu, 01 May 2025 07:25:05 +0200</pubDate>
-        </item>
-        <item>
-            <title>Achtergrond - Europa wil af van Amerikaanse diensten, maar hoe doet het dat?</title>
-            <link>https://tweakers.net/reviews/13146/europa-wil-af-van-amerikaanse-diensten-maar-hoe-doet-het-dat.html</link>
-            <description>Bedrijven en overheden in Europa zijn afhankelijk van Amerikaanse hardware en diensten. Dat lijkt niet zo verstandig meer. Hoe komen we van de VS af?</description>
-            <author>Arnoud Wokke</author>
-            <category>Achtergrond / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/reviews/13146/europa-wil-af-van-amerikaanse-diensten-maar-hoe-doet-het-dat.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13146</guid>
-            <pubDate>Thu, 01 May 2025 06:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
