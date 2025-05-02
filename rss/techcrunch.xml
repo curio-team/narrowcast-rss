@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 02 May 2025 09:16:25 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 May 2025 10:49:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,7 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Apple changes US App Store rules to let apps redirect users to their own websites for payments</title>
+		<title>Apple changes US App Store rules to let apps link to external payment systems</title>
 		<link>https://techcrunch.com/2025/05/02/apple-changes-us-app-store-rules-to-let-apps-redirect-users-to-their-own-websites-for-payments/</link>
 		
 		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
@@ -237,8 +237,8 @@
 		
 		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
 		<pubDate>Thu, 01 May 2025 17:46:40 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[AI]]></category>
 		<category><![CDATA[AI chips]]></category>
 		<category><![CDATA[Anthropic]]></category>
 		<category><![CDATA[nvidia]]></category>
