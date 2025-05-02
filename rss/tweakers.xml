@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 02 May 2025 10:36:01 +0200</pubDate>
-        <lastBuildDate>Fri, 02 May 2025 10:36:01 +0200</lastBuildDate>
+        <pubDate>Fri, 02 May 2025 11:31:02 +0200</pubDate>
+        <lastBuildDate>Fri, 02 May 2025 11:31:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Telecompaper: 14 procent van Nederlandse consumenten heeft Signal op telefoon</title>
+            <link>https://tweakers.net/nieuws/234572/telecompaper-14-procent-van-nederlandse-consumenten-heeft-signal-op-telefoon.html</link>
+            <description>Veertien procent van de consumenten in Nederland heeft Signal op hun telefoon. Dat blijkt uit onderzoek van Telecompaper. De chatdienst is vooral populair onder gebruikers tussen de 35 en 68 jaar oud, terwijl jongeren de app juist minder gebruiken.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / IT Pro / Marktontwikkelingen</category>
+            <comments>https://tweakers.net/nieuws/234572/telecompaper-14-procent-van-nederlandse-consumenten-heeft-signal-op-telefoon.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234572</guid>
+            <pubDate>Fri, 02 May 2025 11:01:54 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Mozilla Firefox 138.0.1</title>
             <link>https://tweakers.net/downloads/72528/mozilla-firefox-13801.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/plan/4390/dit-vindt-de-community-van-drie-aoc-monitoren.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/plan/4390</guid>
             <pubDate>Thu, 01 May 2025 08:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - MediaInfo 25.04</title>
-            <link>https://tweakers.net/downloads/72508/mediainfo-2504.html</link>
-            <description>Versie 25.04 van MediaInfo is uitgekomen, als opvolger van 24.12. Dit programma is bedoeld om te informeren over de eigenschappen van audio- en videobestanden. Het programma geeft uitgebreide informatie over de tags, gebruikte codecs en containers. MediaInfo is beschikbaar voor Windows, Linux en macOS en kan met een grafische gebruikersinterface of via de commandline worden gebruikt. Het programma is geheel naar eigen smaak aan te passen en ook in het Nederlands te gebruiken. Verder zijn er uitgebreide mogelijkheden om de verzamelde informatie te exporteren. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: New:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72508/mediainfo-2504.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72508</guid>
-            <pubDate>Thu, 01 May 2025 07:30:00 +0200</pubDate>
         </item>
     </channel>
 </rss>

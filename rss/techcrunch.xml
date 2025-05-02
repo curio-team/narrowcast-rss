@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 01 May 2025 23:31:02 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 May 2025 09:16:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Apple changes US App Store rules to let apps redirect users to their own websites for payments</title>
+		<link>https://techcrunch.com/2025/05/02/apple-changes-us-app-store-rules-to-let-apps-redirect-users-to-their-own-websites-for-payments/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Fri, 02 May 2025 08:55:29 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[app store]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Epic Games]]></category>
+		<category><![CDATA[Spotify]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3002224</guid>
+
+					<description><![CDATA[Apple has changed its App Store rules in the U.S. to let apps link users to their own websites so they can buy subscriptions or other digital goods. This change comes after a U.S. court ruled in favor of Epic Games in a case against the iPhone maker, ordering the latter not to prohibit apps [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Amazon CEO says 100,000 users now have Alexa+</title>
 		<link>https://techcrunch.com/2025/05/01/amazon-ceo-says-100000-users-now-have-alexa/</link>
 		
@@ -174,7 +193,7 @@
 		<category><![CDATA[science]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3002060</guid>
 
-					<description><![CDATA[FutureHouse, an Eric Schmidt-backed nonprofit that aims to build an &#8220;AI scientist&#8221; within the next decade, has launched its first major product: a platform and API with AI-powered tools designed to support scientific work. Many, many startups are racing to develop AI research tools for the scientific domain, some with massive amounts of VC funding [&#8230;]]]></description>
+					<description><![CDATA[FutureHouse, an Eric Schmidt-backed nonprofit that aims to build an &#8220;AI scientist&#8221; within the next decade, has launched its first major product: a platform and API with AI-powered tools designed to support scientific work. Many, many startups are racing to develop AI research tools for the scientific domain, and some have with massive amounts of [&#8230;]]]></description>
 		
 		
 		
@@ -203,11 +222,11 @@
 		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
 		<pubDate>Thu, 01 May 2025 18:29:58 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[open source]]></category>
 		<category><![CDATA[AI2]]></category>
+		<category><![CDATA[open source]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3001361</guid>
 
-					<description><![CDATA[&#8216;Tis the week for small AI models, it seems. On Thursday, Ai2, the nonprofit AI research institute, released Olmo 2 1B, a 1-billion-parameter model that Ai2 claims beats similarly-sized models from Google, Meta, and Alibaba on several benchmarks. Parameters, sometimes referred to as weights, are the internal components of a model that guide its behavior. [&#8230;]]]></description>
+					<description><![CDATA[&#8216;Tis the week for small AI models, it seems. Nonprofit AI research institute Ai2 on Thursday released Olmo 2 1B, a 1-billion-parameter model that Ai2 claims beats similarly-sized models from Google, Meta and Alibaba on several benchmarks. Parameters, sometimes referred to as weights, are the internal components of a model that guide its behavior. Olmo [&#8230;]]]></description>
 		
 		
 		
@@ -353,22 +372,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2607630</guid>
 
 					<description><![CDATA[ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to supercharge productivity through writing essays and code with short text prompts has evolved into a behemoth with 300 million weekly active users. 2024 was a big year for OpenAI, from its partnership [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tesla&#8217;s board reportedly sought a successor while Musk wheeled around Washington</title>
-		<link>https://techcrunch.com/2025/05/01/teslas-board-reportedly-sought-a-successor-while-musk-wheeled-around-washington/</link>
-		
-		<dc:creator><![CDATA[Connie Loizos, Sean O'Kane]]></dc:creator>
-		<pubDate>Thu, 01 May 2025 15:17:37 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[Tesla]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3001806</guid>
-
-					<description><![CDATA[According to a new, brow-raising WSJ report, Tesla&#8217;s board quietly began searching for Elon Musk&#8217;s potential successor about a month ago, approaching executive search firms as the carmaker faced protests, plummeting sales, and shrinking profits while Musk waded into Washington to slash government spending. Board members reportedly met with Musk to express concerns about his [&#8230;]]]></description>
 		
 		
 		
