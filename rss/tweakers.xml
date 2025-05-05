@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 05 May 2025 11:31:01 +0200</pubDate>
-        <lastBuildDate>Mon, 05 May 2025 11:31:01 +0200</lastBuildDate>
+        <pubDate>Mon, 05 May 2025 12:36:01 +0200</pubDate>
+        <lastBuildDate>Mon, 05 May 2025 12:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>&#039;Nvidia RTX 5060 Ti 8GB is 10 procent trager met PCIe 4.0 dan met PCIe 5.0&#039;</title>
+            <link>https://tweakers.net/nieuws/234620/nvidia-rtx-5060-ti-8gb-is-10-procent-trager-met-pcie-40-dan-met-pcie-50.html</link>
+            <description>De Nvidia GeForce RTX 5060 Ti met 8GB ram is ongeveer 10 procent trager bij het gebruik van een PCIe 4.0-aansluiting, dan bij het gebruik van PCIe 5.0. Dat schrijft ComputerBase. Volgens de website speelt het gebrek aan vram en de lagere doorvoersnelheid van PCIe 4.0 de gpu parten.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/234620/nvidia-rtx-5060-ti-8gb-is-10-procent-trager-met-pcie-40-dan-met-pcie-50.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234620</guid>
+            <pubDate>Mon, 05 May 2025 12:04:19 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Domoticz 2025.1</title>
+            <link>https://tweakers.net/downloads/72558/domoticz-20251.html</link>
+            <description>Domoticz is een veelzijdige applicatie die erop is gericht om als domoticacontroller te dienen voor de aansturing en het uitlezen van componenten. Het kan zijn werk doen op bijvoorbeeld een Raspberry Pi, maar kan ook op een Linux- of Windows-machine worden ingezet. Domoticz kan gebruikt worden met bijvoorbeeld lichtschakelaars, diverse sensors, ledlampen, beveiligingsapparatuur en tal van andere domoticahardware. Daarnaast kan Domoticz overweg met diverse breed gedragen protocollen, waaronder Z-Wave op basis van de opensource-openzwave-library en EnOcean. Kijk voor meer informatie in ons eigen forum. Versie 2025.1 is uitgekomen en hierin zijn de volgende veranderingen en verbeteringen aangebracht: Implemented:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72558/domoticz-20251.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72558</guid>
+            <pubDate>Mon, 05 May 2025 12:00:00 +0200</pubDate>
+        </item>
         <item>
             <title>Nintendo klaagt Genki aan wegens vroegtijdig lekken Switch 2-ontwerp</title>
             <link>https://tweakers.net/nieuws/234622/nintendo-klaagt-genki-aan-wegens-vroegtijdig-lekken-switch-2-ontwerp.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/234568/apple-draaide-vorig-kwartaal-meer-winst-door-gestegen-inkomsten-uit-diensten.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234568</guid>
             <pubDate>Fri, 02 May 2025 15:17:12 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Ontwikkelaar draait &#039;voor de lol&#039; Linux binnen Excel</title>
-            <link>https://tweakers.net/geek/234582/ontwikkelaar-draait-voor-de-lol-linux-binnen-excel.html</link>
-            <description>Ontwikkelaar NSG650 heeft Linux werkend gekregen in Excel. Dat was mogelijk door het gebruik van een Visual Basic for Applications-macro die een RISC-V-emulator oproept. Het project is beschikbaar op GitHub, al waarschuwt NSG650 dat de implementatie zeer buggy is.</description>
-            <author>Idriz Velghe</author>
-            <category>.Geek / Computers / Software</category>
-            <comments>https://tweakers.net/geek/234582/ontwikkelaar-draait-voor-de-lol-linux-binnen-excel.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/234582</guid>
-            <pubDate>Fri, 02 May 2025 13:52:41 +0200</pubDate>
-        </item>
-        <item>
-            <title>Grand Theft Auto VI is uitgesteld naar volgend jaar, release in mei</title>
-            <link>https://tweakers.net/nieuws/234580/grand-theft-auto-vi-is-uitgesteld-naar-volgend-jaar-release-in-mei.html</link>
-            <description>Grand Theft Auto VI is uitgesteld naar volgend jaar. Dat bevestigt ontwikkelaar Rockstar Games. Het bedrijf zegt meer tijd nodig te hebben om de game op te poetsen. Rockstar deelt wel voor het eerst een concrete releasedatum: 26 mei 2026.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/234580/grand-theft-auto-vi-is-uitgesteld-naar-volgend-jaar-release-in-mei.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234580</guid>
-            <pubDate>Fri, 02 May 2025 13:42:06 +0200</pubDate>
         </item>
     </channel>
 </rss>

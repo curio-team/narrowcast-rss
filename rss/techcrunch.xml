@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 05 May 2025 09:13:57 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 05 May 2025 09:59:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>TeleMessage, a modified Signal clone used by US govt. officials, has been hacked</title>
+		<link>https://techcrunch.com/2025/05/05/telemessage-a-modified-signal-clone-used-by-us-govt-officials-has-been-hacked/</link>
+		
+		<dc:creator><![CDATA[Ram Iyer, Ivan Mehta]]></dc:creator>
+		<pubDate>Mon, 05 May 2025 09:59:25 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Mike Waltz]]></category>
+		<category><![CDATA[signal]]></category>
+		<category><![CDATA[TeleMessage]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3002685</guid>
+
+					<description><![CDATA[A hacker has exploited a vulnerability in TeleMessage, which provides modded versions of encrypted messaging apps such as Signal, Telegram and WhatsApp, to extract archived messages and other data relating to U.S. government officials and companies who used the tool, 404 Media reported. TeleMessage came into the spotlight last week after it was reported that [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Apple plans to split iPhone 18 launch into two phases in 2026</title>
 		<link>https://techcrunch.com/2025/05/05/apple-plans-to-split-iphone-18-launch-into-two-phases-in-2026/</link>
 		
@@ -366,25 +383,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3002403</guid>
 
 					<description><![CDATA[Apple and Anthropic are teaming up to build a &#8220;vibe-coding&#8221; software platform that will use generative AI to write, edit, and test code for programmers, Bloomberg reported on Friday. The iPhone maker is planning to roll out the software internally, according to Bloomberg, but hasn&#8217;t decided if it will launch it publicly. The system is [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Uber&#8217;s latest autonomous vehicle partner? Chinese startup Momenta</title>
-		<link>https://techcrunch.com/2025/05/02/ubers-latest-autonomous-vehicle-partner-chinese-startup-momenta/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Fri, 02 May 2025 18:12:15 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[avs]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Momenta]]></category>
-		<category><![CDATA[ridehail]]></category>
-		<category><![CDATA[Uber]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3002390</guid>
-
-					<description><![CDATA[Uber announced Friday yet another autonomous vehicle partnership as it leverages its dominant ride-hail and delivery position while relying on partners to supply the self-driving tech it isn&#8217;t building in-house. Today, the lucky startup is Chinese self-driving firm Momenta. The tie-up comes a day after Uber added Ann Arbor, Michigan-based May Mobility to its roster [&#8230;]]]></description>
 		
 		
 		
