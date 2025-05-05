@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 05 May 2025 15:36:04 +0200</pubDate>
-        <lastBuildDate>Mon, 05 May 2025 15:36:04 +0200</lastBuildDate>
+        <pubDate>Mon, 05 May 2025 16:31:04 +0200</pubDate>
+        <lastBuildDate>Mon, 05 May 2025 16:31:04 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - WinSCP 6.5.1</title>
+            <link>https://tweakers.net/downloads/72560/winscp-651.html</link>
+            <description>Versie 6.5.1 van WinSCP is verschenen. Met dit opensourceprogramma kunnen op een veilige manier bestanden tussen twee computers worden gekopieerd. Het programma ondersteunt ftp, secure ftp en het oudere scp-protocol. WinSCP is niet alleen als een opzichzelfstaand programma beschikbaar, maar ook als plug-in voor de programma&#039;s FAR en Altap Salamander. Hieronder is de changelog voor deze uitgave te vinden. Changes in version 6.5.1:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72560/winscp-651.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72560</guid>
+            <pubDate>Mon, 05 May 2025 15:51:21 +0200</pubDate>
+        </item>
         <item>
             <title>Leaker: Half-Life 3 is volledig speelbaar, wordt nu geoptimaliseerd</title>
             <link>https://tweakers.net/nieuws/234628/leaker-half-life-3-is-volledig-speelbaar-wordt-nu-geoptimaliseerd.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/234592/amazon-verwacht-dit-kwartaal-minder-winst-vanwege-importheffingen.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234592</guid>
             <pubDate>Fri, 02 May 2025 17:15:11 +0200</pubDate>
-        </item>
-        <item>
-            <title>G.Skill toont DDR5-2x64GB-geheugenkit met snelheid van 8400MT/s</title>
-            <link>https://tweakers.net/nieuws/234590/g-punt-skill-toont-ddr5-2x64gb-geheugenkit-met-snelheid-van-8400mt-s.html</link>
-            <description>Geheugenfabrikant G.Skill heeft een 128GB-kit van twee DDR5-modules werkend gekregen op een snelheid van 8400MT/s. Dat is zeer snel, gezien de hoge capaciteit. Het is niet duidelijk of de fabrikant vooraf overgeklokte setjes met deze specificaties gaat verkopen.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Computers / Geheugen intern</category>
-            <comments>https://tweakers.net/nieuws/234590/g-punt-skill-toont-ddr5-2x64gb-geheugenkit-met-snelheid-van-8400mt-s.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234590</guid>
-            <pubDate>Fri, 02 May 2025 16:14:05 +0200</pubDate>
         </item>
     </channel>
 </rss>
