@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 05 May 2025 07:39:27 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 05 May 2025 09:13:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Apple plans to split iPhone 18 launch into two phases in 2026</title>
+		<link>https://techcrunch.com/2025/05/05/apple-plans-to-split-iphone-18-launch-into-two-phases-in-2026/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Mon, 05 May 2025 09:13:52 +0000</pubDate>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[foldable smartphone]]></category>
+		<category><![CDATA[iPhone 18]]></category>
+		<category><![CDATA[iphone air]]></category>
+		<category><![CDATA[Tim Cook]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3002675</guid>
+
+					<description><![CDATA[Apple is planning to split the launch of its iPhone 18 range, expected in 2026, by about half a year, The Information reported, citing supply chain sources. The company is planning to release the Pro versions of the iPhone 18 in fall 2026, and push the release of the less expensive iPhone 18, along with [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Anysphere, which makes Cursor, has reportedly raised $900M at $9B valuation</title>
 		<link>https://techcrunch.com/2025/05/04/cursor-is-reportedly-raising-funds-at-9-billion-valuation-from-thrive-a16z-and-accel/</link>
 		
@@ -365,24 +385,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3002390</guid>
 
 					<description><![CDATA[Uber announced Friday yet another autonomous vehicle partnership as it leverages its dominant ride-hail and delivery position while relying on partners to supply the self-driving tech it isn&#8217;t building in-house. Today, the lucky startup is Chinese self-driving firm Momenta. The tie-up comes a day after Uber added Ann Arbor, Michigan-based May Mobility to its roster [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Dating app Raw exposed users&#8217; location data and personal information</title>
-		<link>https://techcrunch.com/2025/05/02/dating-app-raw-exposed-users-location-data-personal-information/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Fri, 02 May 2025 17:56:04 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[dating app]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[privacy]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3002371</guid>
-
-					<description><![CDATA[The app claims it uses end-to-end encryption, but spilled its users' dating preferences and granular location data to the open web.]]></description>
 		
 		
 		
