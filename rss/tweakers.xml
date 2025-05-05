@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 05 May 2025 14:41:02 +0200</pubDate>
-        <lastBuildDate>Mon, 05 May 2025 14:41:02 +0200</lastBuildDate>
+        <pubDate>Mon, 05 May 2025 15:36:04 +0200</pubDate>
+        <lastBuildDate>Mon, 05 May 2025 15:36:04 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,9 +18,19 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
+            <title>Leaker: Half-Life 3 is volledig speelbaar, wordt nu geoptimaliseerd</title>
+            <link>https://tweakers.net/nieuws/234628/leaker-half-life-3-is-volledig-speelbaar-wordt-nu-geoptimaliseerd.html</link>
+            <description>Valve-insider Tyler McVicker claimt dat Valve een volledig speelbare versie van Half-Life 3 heeft klaarliggen. Het spel zou volgens de leaker geen VR-game zijn en wordt volgens McVicker op dit moment geoptimaliseerd. Er doen al jaren geruchten de ronde over een nieuwe Half-Life-game.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/234628/leaker-half-life-3-is-volledig-speelbaar-wordt-nu-geoptimaliseerd.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234628</guid>
+            <pubDate>Mon, 05 May 2025 14:45:22 +0200</pubDate>
+        </item>
+        <item>
             <title>Microsoft schrapt functies uit Authenticator-app, Edge neemt features over</title>
             <link>https://tweakers.net/nieuws/234626/microsoft-schrapt-functies-uit-authenticator-app-edge-neemt-features-over.html</link>
-            <description>Microsoft trekt deze zomer grotendeels de stekker uit de Microsoft Authenticator-app. Gebruikers kunnen vanaf juni 2025 geen nieuwe wachtwoorden meer opslaan. In juli verdwijnt de Autofill-functie. Vanaf 1 augustus zijn wachtwoorden niet meer via de app beschikbaar, maar via Edge.</description>
+            <description>Microsoft schrapt deze zomer enkele functies uit de Microsoft Authenticator-app. Gebruikers kunnen vanaf juni 2025 geen nieuwe wachtwoorden meer opslaan. In juli verdwijnt de Autofill-functie. Vanaf 1 augustus zijn wachtwoorden niet meer via de app beschikbaar, maar via Edge.</description>
             <author>Jay Stout</author>
             <category>Nieuws / Computers / Software</category>
             <comments>https://tweakers.net/nieuws/234626/microsoft-schrapt-functies-uit-authenticator-app-edge-neemt-features-over.html#reacties</comments>
@@ -70,7 +80,7 @@
         <item>
             <title>Software-update - Tixati 3.34</title>
             <link>https://tweakers.net/downloads/72556/tixati-334.html</link>
-            <description>Versie 3.33 van Tixati is uitgekomen, als opvolger voor versie 3.32. Tixati is een uitgebreide en efficiënte bittorrentclient voor Windows en Linux met ondersteuning voor dht, magnetlinks en RSS-feeds. Het programma geeft uitgebreide informatie over alle aspecten van de download en het in- en uitgaande netwerkverkeer. Downloads zijn beschikbaar voor Windows en Linux en het programma toont geen advertenties. De changelog voor deze uitgave ziet er als volgt uit: Tixati version 3.34</description>
+            <description>Versie 3.34 van Tixati is uitgekomen, als opvolger voor versie 3.33. Tixati is een uitgebreide en efficiënte bittorrentclient voor Windows en Linux met ondersteuning voor dht, magnetlinks en RSS-feeds. Het programma geeft uitgebreide informatie over alle aspecten van de download en het in- en uitgaande netwerkverkeer. Downloads zijn beschikbaar voor Windows en Linux en het programma toont geen advertenties. De changelog voor deze uitgave ziet er als volgt uit: Tixati version 3.34</description>
             <author>Bart van Klaveren</author>
             <category>Software</category>
             <comments>https://tweakers.net/downloads/72556/tixati-334.html#reacties</comments>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/234590/g-punt-skill-toont-ddr5-2x64gb-geheugenkit-met-snelheid-van-8400mt-s.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234590</guid>
             <pubDate>Fri, 02 May 2025 16:14:05 +0200</pubDate>
-        </item>
-        <item>
-            <title>Ziggo wil vanaf eind volgend jaar 8Gbit/s-internet aanbieden</title>
-            <link>https://tweakers.net/nieuws/234586/ziggo-wil-vanaf-eind-volgend-jaar-8gbit-s-internet-aanbieden.html</link>
-            <description>Ziggo wil vanaf eind 2026 internetabonnementen met een downloadsnelheid van 8Gbit/s aanbieden. Dat zegt moederbedrijf Liberty Global tijdens de presentatie van haar kwartaalcijfers. Het bedrijf wil ook 2Gbit/s- en 4Gbit/s-abonnementen uitbrengen.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / IT Pro / Internettoegang</category>
-            <comments>https://tweakers.net/nieuws/234586/ziggo-wil-vanaf-eind-volgend-jaar-8gbit-s-internet-aanbieden.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234586</guid>
-            <pubDate>Fri, 02 May 2025 15:41:32 +0200</pubDate>
         </item>
     </channel>
 </rss>

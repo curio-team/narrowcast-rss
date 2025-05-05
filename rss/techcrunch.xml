@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 05 May 2025 09:59:28 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 05 May 2025 13:31:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Skype shutting down today — these are the best alternatives</title>
+		<link>https://techcrunch.com/2025/05/05/skype-shuts-down-in-may-these-are-the-best-alternatives/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Mon, 05 May 2025 13:31:50 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Skype]]></category>
+		<category><![CDATA[zoom]]></category>
+		<category><![CDATA[video calling]]></category>
+		<category><![CDATA[Microsoft Teams]]></category>
+		<category><![CDATA[google meet]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2975060</guid>
+
+					<description><![CDATA[After 23 years of connecting people around the world, Skype, the popular video-calling service, is shutting down on Monday. Microsoft, the parent company, confirmed that the official sunset date for the service is today, May 5, 2025. Skype users can either migrate all their contacts and chat data to Microsoft Teams, or they can choose [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>TeleMessage, a modified Signal clone used by US govt. officials, has been hacked</title>
 		<link>https://techcrunch.com/2025/05/05/telemessage-a-modified-signal-clone-used-by-us-govt-officials-has-been-hacked/</link>
 		
@@ -39,7 +59,7 @@
 		<category><![CDATA[TeleMessage]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3002685</guid>
 
-					<description><![CDATA[A hacker has exploited a vulnerability in TeleMessage, which provides modded versions of encrypted messaging apps such as Signal, Telegram and WhatsApp, to extract archived messages and other data relating to U.S. government officials and companies who used the tool, 404 Media reported. TeleMessage came into the spotlight last week after it was reported that [&#8230;]]]></description>
+					<description><![CDATA[A hacker has exploited a vulnerability in TeleMessage, which provides modded versions of encrypted messaging apps such as Signal, Telegram, and WhatsApp, to extract archived messages and other data relating to U.S. government officials and companies who used the tool, 404 Media reported. TeleMessage came into the spotlight last week after it was reported that [&#8230;]]]></description>
 		
 		
 		
@@ -364,25 +384,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3002361</guid>
 
 					<description><![CDATA[A recently released Google AI model scores worse on certain safety tests than its predecessor, according to the company&#8217;s internal benchmarking. In a technical report published this week, Google reveals that its Gemini 2.5 Flash model is more likely to generate text that violates its safety guidelines than Gemini 2.0 Flash. On two metrics, &#8220;text-to-text [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple and Anthropic reportedly partner to build an AI coding platform</title>
-		<link>https://techcrunch.com/2025/05/02/apple-and-anthropic-reportedly-partner-to-build-an-ai-coding-platform/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Fri, 02 May 2025 18:49:22 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Apple Intelligence]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3002403</guid>
-
-					<description><![CDATA[Apple and Anthropic are teaming up to build a &#8220;vibe-coding&#8221; software platform that will use generative AI to write, edit, and test code for programmers, Bloomberg reported on Friday. The iPhone maker is planning to roll out the software internally, according to Bloomberg, but hasn&#8217;t decided if it will launch it publicly. The system is [&#8230;]]]></description>
 		
 		
 		
