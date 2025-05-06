@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 06 May 2025 09:45:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 06 May 2025 10:50:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Boosted by defense and Starlink, Orca AI pulls in $72.5M for its autonomous shipping platform</title>
+		<link>https://techcrunch.com/2025/05/06/boosted-by-defense-and-starlink-orca-ai-pulls-in-72-5m-for-its-autonomous-shipping-platform/</link>
+		
+		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
+		<pubDate>Tue, 06 May 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[defense]]></category>
+		<category><![CDATA[orca ai]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3000577</guid>
+
+					<description><![CDATA[The autonomous navigation market — where ships, guided by AI, steer themselves, resulting in fuel and time savings — is projected to sail past $11 billion by 2028. As a result, companies in this space are pushing on an open door. The latest is Orca AI, which closed a Series B funding round of $72.5 million [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>US DoJ wants Google to sell two of its ad products</title>
 		<link>https://techcrunch.com/2025/05/06/us-doj-wants-google-to-sell-two-of-its-ad-products/</link>
 		
@@ -356,28 +373,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3002870</guid>
 
 					<description><![CDATA[YouTube is testing a new two-person Premium subscription plan in select countries, the company confirmed to TechCrunch on Monday. The tier is being piloted in India, France, Hong Kong, and Taiwan. The news was first reported by Money Control. “We&#8217;re experimenting with new ways to provide greater flexibility and value to our YouTube Premium subscribers, [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>GlobalX, airline used for Trump deportations, gets hacked: Report</title>
-		<link>https://techcrunch.com/2025/05/05/globalx-airline-used-for-trump-deportations-gets-hacked-report/</link>
-		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
-		<pubDate>Mon, 05 May 2025 18:45:19 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[anonymous]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[Deportations]]></category>
-		<category><![CDATA[GlobalX]]></category>
-		<category><![CDATA[hackers]]></category>
-		<category><![CDATA[hacktivism]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Trump]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003051</guid>
-
-					<description><![CDATA[Hackers claiming to be part of the hacktivist group Anonymous claimed the data breach. ]]></description>
 		
 		
 		
