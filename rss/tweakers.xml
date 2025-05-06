@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 06 May 2025 10:36:06 +0200</pubDate>
-        <lastBuildDate>Tue, 06 May 2025 10:36:06 +0200</lastBuildDate>
+        <pubDate>Tue, 06 May 2025 11:31:01 +0200</pubDate>
+        <lastBuildDate>Tue, 06 May 2025 11:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>YouTube test Premium-abonnement voor twee personen in vier landen</title>
+            <link>https://tweakers.net/nieuws/234640/youtube-test-premium-abonnement-voor-twee-personen-in-vier-landen.html</link>
+            <description>Google experimenteert met een nieuwe abonnementsvorm voor YouTube Premium die het delen van voordelen tussen twee personen mogelijk maakt. De test vindt momenteel plaats in Frankrijk, Hongkong, India en Taiwan.</description>
+            <author>Andrei Stiru</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/234640/youtube-test-premium-abonnement-voor-twee-personen-in-vier-landen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234640</guid>
+            <pubDate>Tue, 06 May 2025 11:21:06 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - EssentialPIM 12.2.1</title>
+            <link>https://tweakers.net/downloads/72566/essentialpim-1221.html</link>
+            <description>Astonsoft heeft versie 12.2.1 van EssentialPIM uitgebracht. Deze personal information manager maakt het mogelijk om afspraken bij te houden, een adresboek te beheren en e-mails te versturen en ontvangen. Het programma is in diverse talen te gebruiken, waaronder het Nederlands. EssentialPIM is beschikbaar in een standaard- en een pro-uitvoering. De eerste is gratis, maar heeft minder functies. Zo kan er niet met de clouddiensten van bijvoorbeeld Microsoft, Google, Apple of Dropbox worden gesynchroniseerd. Een compleet overzicht van de onderlinge verschillen is op deze pagina te vinden. Uitgebreide informatie over versie 12 zijn op deze pagina te vinden. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: New in EssentialPIM 12.2.1</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72566/essentialpim-1221.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72566</guid>
+            <pubDate>Tue, 06 May 2025 10:45:00 +0200</pubDate>
+        </item>
         <item>
             <title>Deepfake-site MrDeepFakes stopt definitief na juridische druk Nederland en VK</title>
             <link>https://tweakers.net/nieuws/234636/deepfake-site-mrdeepfakes-stopt-definitief-na-juridische-druk-nederland-en-vk.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/234604/google-komt-volgende-week-met-kindvriendelijke-versie-van-gemini-chatbot.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234604</guid>
             <pubDate>Sat, 03 May 2025 10:31:33 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - foobar2000 2.24.4</title>
-            <link>https://tweakers.net/downloads/72534/foobar2000-2244.html</link>
-            <description>Versie 2.24.4 van foobar2000 is uitgekomen. Deze populaire, lichte muziekspeler kan onder andere overweg met mp3, AAC, Ogg Vorbis, FLAC, WAVE en WMA, en beschikt over ondersteuning voor Replay Gain. Verder kan de speler verschillende formaten converteren, heeft het programma uitgebreide mogelijkheden om de tags aan te passen en kan de interface geheel naar eigen hand gezet worden. Daarnaast is het mogelijk om de functionaliteit met behulp van plug-ins verder uit te breiden. Downloads zijn ook beschikbaar voor Android, iOS en macOS, maar die hebben een ander versienummer en uitgaveschema. In deze uitgave zijn enkele kleine problemen verholpen. Changes in version 2.24.4:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72534/foobar2000-2244.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72534</guid>
-            <pubDate>Sat, 03 May 2025 10:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Muziekwinkel Bax Music maakt doorstart</title>
-            <link>https://tweakers.net/nieuws/234602/muziekwinkel-bax-music-maakt-doorstart.html</link>
-            <description>Bax Music maakt een doorstart. De Nederlandse muziekwinkel wordt overgenomen door medeoprichter en voormalig ceo Jochanan Bax, samen met een investeerder. Bax Music werd vorige maand failliet verklaard.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Beeld en geluid / Audio</category>
-            <comments>https://tweakers.net/nieuws/234602/muziekwinkel-bax-music-maakt-doorstart.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234602</guid>
-            <pubDate>Sat, 03 May 2025 09:44:09 +0200</pubDate>
         </item>
     </channel>
 </rss>
