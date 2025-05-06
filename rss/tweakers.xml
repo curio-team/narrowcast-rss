@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 06 May 2025 11:31:01 +0200</pubDate>
-        <lastBuildDate>Tue, 06 May 2025 11:31:01 +0200</lastBuildDate>
+        <pubDate>Tue, 06 May 2025 12:36:01 +0200</pubDate>
+        <lastBuildDate>Tue, 06 May 2025 12:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Justitie VS wil Google dwingen om advertentiediensten te verkopen</title>
+            <link>https://tweakers.net/nieuws/234644/justitie-vs-wil-google-dwingen-om-advertentiediensten-te-verkopen.html</link>
+            <description>Het Amerikaanse ministerie van Justitie wil afdwingen dat Google een aantal van zijn advertentiediensten verkoopt. Het ministerie heeft een strafvoorstel ingediend bij de rechtbank, nadat werd geoordeeld dat Google een illegaal monopolie op de advertentiemarkt heeft.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/234644/justitie-vs-wil-google-dwingen-om-advertentiediensten-te-verkopen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234644</guid>
+            <pubDate>Tue, 06 May 2025 12:31:05 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google lekt per ongeluk details over nieuwe designtaal voor Android</title>
+            <link>https://tweakers.net/nieuws/234642/google-lekt-per-ongeluk-details-over-nieuwe-designtaal-voor-android.html</link>
+            <description>Via een voortijdig gepubliceerde en inmiddels verwijderde blogpost is informatie naar buiten gekomen over Googles nieuwe designtaal voor Android. Material 3 Expressive, zoals het nieuwe design heet, moet de interface toegankelijker maken.</description>
+            <author>Andrei Stiru</author>
+            <category>Nieuws / Computers / Besturingssystemen</category>
+            <comments>https://tweakers.net/nieuws/234642/google-lekt-per-ongeluk-details-over-nieuwe-designtaal-voor-android.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234642</guid>
+            <pubDate>Tue, 06 May 2025 12:24:51 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Syncthing 1.29.6</title>
+            <link>https://tweakers.net/downloads/72568/syncthing-1296.html</link>
+            <description>Versie 1.29.6 van Syncthing is uitgekomen. Syncthing is een opensourceprogramma waarmee bestanden tussen twee computers kunnen worden gesynchroniseerd. Dit gebeurt zonder dat er een centrale server tussen zit, zoals dat wel het geval is bij opslagdiensten als Dropbox, Google Drive, OneDrive en iCloud. De software is onder meer beschikbaar voor Windows, Linux, macOS, BSD en Solaris. Een onofficiële client voor Android kan hier worden gevonden. Ook zijn er packages voor bijvoorbeeld Synology en QNAP. In deze uitgave zijn de volgende verbeteringen aangebracht: New features:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72568/syncthing-1296.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72568</guid>
+            <pubDate>Tue, 06 May 2025 12:15:00 +0200</pubDate>
+        </item>
         <item>
             <title>YouTube test Premium-abonnement voor twee personen in vier landen</title>
             <link>https://tweakers.net/nieuws/234640/youtube-test-premium-abonnement-voor-twee-personen-in-vier-landen.html</link>
@@ -120,7 +150,7 @@
         <item>
             <title>Software-update - WinSCP 6.5.1</title>
             <link>https://tweakers.net/downloads/72560/winscp-651.html</link>
-            <description>Versie 6.5.1 van WinSCP is verschenen. Met dit opensourceprogramma kunnen op een veilige manier bestanden tussen twee computers worden gekopieerd. Het programma ondersteunt ftp, secure ftp en het oudere scp-protocol. WinSCP is niet alleen als een opzichzelfstaand programma beschikbaar, maar ook als plug-in voor de programma&#039;s FAR en Altap Salamander. Hieronder is de changelog voor deze uitgave te vinden. Changes in version 6.5.1:</description>
+            <description>Versie 6.5.1 van WinSCP is verschenen. Met dit opensourceprogramma kunnen op een veilige manier bestanden tussen twee computers worden gekopieerd. Het programma ondersteunt ftp, secure ftp en het oudere scp-protocol. WinSCP is niet alleen als een opzichzelfstaand programma beschikbaar, maar ook als plug-in voor de programma&#039;s FAR Manager en Altap Salamander. Hieronder is de changelog voor deze uitgave te vinden. Changes in version 6.5.1:</description>
             <author>Bart van Klaveren</author>
             <category>Software</category>
             <comments>https://tweakers.net/downloads/72560/winscp-651.html#reacties</comments>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/234608/eerste-esp32-die-5ghz-wifi-ondersteunt-gaat-in-massaproductie.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234608</guid>
             <pubDate>Sat, 03 May 2025 12:42:02 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Matomo 5.3.2</title>
-            <link>https://tweakers.net/downloads/72538/matomo-532.html</link>
-            <description>Versie 5.3.2 van Matomo is uitgekomen. Matomo is een opensource alternatief voor Google Analytics. Het maakt gebruik van PHP en een MySQL-database om zijn werk te doen. De functionaliteit kan eenvoudig worden uitgebreid met plug-ins, waarvan er ruim twintig worden meegeleverd. Natuurlijk kun je deze ook uitzetten als bepaalde functionaliteit niet nodig is. Voor meer informatie over Matomo verwijzen we naar deze pagina. In deze uitgave zijn diverse kleine niet nader genoemde verbeteringen aangebracht die de stabiliteit, beveiliging en prestaties ten goede moeten komen. What’s new in our latest release?</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72538/matomo-532.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72538</guid>
-            <pubDate>Sat, 03 May 2025 12:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Bloomberg: Apple en Anthropic werken aan AI-versie van programmeersoftware Xcode</title>
-            <link>https://tweakers.net/nieuws/234606/bloomberg-apple-en-anthropic-werken-aan-ai-versie-van-programmeersoftware-xcode.html</link>
-            <description>Apple en Anthropic werken samen aan een AI-softwareplatform voor het genereren, bewerken en testen van code. Dat schrijft Bloomberg op basis van gesprekken met ingewijden. Het zou gaan om een nieuwe versie van ontwikkelaarsplatform Xcode.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/234606/bloomberg-apple-en-anthropic-werken-aan-ai-versie-van-programmeersoftware-xcode.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234606</guid>
-            <pubDate>Sat, 03 May 2025 11:23:38 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google komt volgende week met kindvriendelijke versie van Gemini-chatbot</title>
-            <link>https://tweakers.net/nieuws/234604/google-komt-volgende-week-met-kindvriendelijke-versie-van-gemini-chatbot.html</link>
-            <description>Google brengt volgende week een versie van Gemini uit die is bedoeld voor kinderen jonger dan 13 jaar. De kinderversie komt volgens het bedrijf met strengere beperkingen dan de reguliere chatbot.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/234604/google-komt-volgende-week-met-kindvriendelijke-versie-van-gemini-chatbot.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234604</guid>
-            <pubDate>Sat, 03 May 2025 10:31:33 +0200</pubDate>
         </item>
     </channel>
 </rss>
