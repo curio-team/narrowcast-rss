@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 06 May 2025 09:31:02 +0200</pubDate>
-        <lastBuildDate>Tue, 06 May 2025 09:31:02 +0200</lastBuildDate>
+        <pubDate>Tue, 06 May 2025 10:36:06 +0200</pubDate>
+        <lastBuildDate>Tue, 06 May 2025 10:36:06 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Deepfake-site MrDeepFakes stopt definitief na juridische druk Nederland en VK</title>
+            <link>https://tweakers.net/nieuws/234636/deepfake-site-mrdeepfakes-stopt-definitief-na-juridische-druk-nederland-en-vk.html</link>
+            <description>Het platform MrDeepFakes heeft zijn diensten permanent beëindigd. De sluiting volgt na intensieve juridische druk vanuit Nederland en het Verenigd Koninkrijk, waar het maken en verspreiden van deepfakes als wraakporno wordt beschouwd.</description>
+            <author>Andrei Stiru</author>
+            <category>Nieuws / IT Pro / Economie en maatschappij</category>
+            <comments>https://tweakers.net/nieuws/234636/deepfake-site-mrdeepfakes-stopt-definitief-na-juridische-druk-nederland-en-vk.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234636</guid>
+            <pubDate>Tue, 06 May 2025 10:18:13 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Fan Control 224</title>
             <link>https://tweakers.net/downloads/72564/fan-control-224.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/234602/muziekwinkel-bax-music-maakt-doorstart.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234602</guid>
             <pubDate>Sat, 03 May 2025 09:44:09 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - BleachBit 5.0.0</title>
-            <link>https://tweakers.net/downloads/72532/bleachbit-500.html</link>
-            <description>BleachBit is een programma waarmee rommel op de computer kan worden opgeruimd. Het is daarmee vergelijkbaar met CCleaner van Piriform, maar er zijn ook enkele belangrijke verschillen. Ten eerste is BleachBit open source en verder is er naast een Windows-uitvoering ook een versie voor Linux. Het programma kan worden gebruikt in meer dan zestig talen, waaronder het Nederlands. Door toevoeging van winapp2.ini, dat het overigens automatisch zelf ophaalt, kan het programma de sporen van ruim 1700 programma&#039;s opruimen. Naast gewoon verwijderen is er ook de optie om de ruimte die de bestanden in gebruik namen, diverse keren te overschrijven, zodat terughalen onmogelijk wordt. Andrew Ziem heeft versie 5.0.0 uitgebracht en hierin zijn de volgende veranderingen en verbeteringen aangebracht: These are the changes since version 4.6.2:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72532/bleachbit-500.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72532</guid>
-            <pubDate>Sat, 03 May 2025 08:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
