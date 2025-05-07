@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 07 May 2025 12:36:02 +0200</pubDate>
-        <lastBuildDate>Wed, 07 May 2025 12:36:02 +0200</lastBuildDate>
+        <pubDate>Wed, 07 May 2025 13:31:12 +0200</pubDate>
+        <lastBuildDate>Wed, 07 May 2025 13:31:12 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,46 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>AMD&#039;s omzet stijgt door hogere vraag naar cpu&#039;s en AI-chips</title>
+            <link>https://tweakers.net/nieuws/234682/amds-omzet-stijgt-door-hogere-vraag-naar-cpus-en-ai-chips.html</link>
+            <description>AMD draaide het vorige kwartaal een aanzienlijk hogere omzet dan een jaar geleden. Dat bevestigt het bedrijf tijdens de presentatie van zijn kwartaalcijfers. De groei komt onder andere doordat het meer datacenter- en consumentenproducten leverde.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/234682/amds-omzet-stijgt-door-hogere-vraag-naar-cpus-en-ai-chips.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234682</guid>
+            <pubDate>Wed, 07 May 2025 13:14:18 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Lansweeper 12.4.1</title>
+            <link>https://tweakers.net/downloads/72576/lansweeper-1241.html</link>
+            <description>Om de apparaten in je netwerk in kaart te brengen, kun je gebruikmaken van Lansweeper. Dit programma werkt op een Windows-machine en is in staat om de aanwezige software en hardware te inventariseren in het netwerk, zonder dat daarvoor op elke computer een clientprogramma moet worden geïnstalleerd. Alle informatie is vervolgens via een webinterface te raadplegen. Lansweeper is beschikbaar als freeware voor kleine omgevingen, maar voor grotere omgevingen zal betaald moeten worden. Vanaf versie 10.4 wordt standaard de cloudversie geïnstalleerd. Wil je een lokale installatie, dan kun je deze instructies volgen. In de afgelopen paar versies zijn de volgende veranderingen en verbeteringen aangebracht: Lansweeper 12.4.1.2, LsPush 8.4.100.1, LsAgent Windows 12.2.0.1, SQL 1110</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72576/lansweeper-1241.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72576</guid>
+            <pubDate>Wed, 07 May 2025 13:13:06 +0200</pubDate>
+        </item>
+        <item>
+            <title>Samsung publiceert prijzen van tv&#039;s en soundbars voor 2025, S95F vanaf 2599 euro</title>
+            <link>https://tweakers.net/nieuws/234686/samsung-publiceert-prijzen-van-tvs-en-soundbars-voor-2025-s95f-vanaf-2599-euro.html</link>
+            <description>Samsung heeft de prijzen en beschikbaarheid bekendgemaakt van de tv&#039;s en soundbars voor 2025. De Neo QLED 8k-tv&#039;s zijn het duurst en te koop vanaf 3499 euro. Het S95F-4k-oledmodel is verkrijgbaar vanaf 2599 euro.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Beeld en geluid / Televisies</category>
+            <comments>https://tweakers.net/nieuws/234686/samsung-publiceert-prijzen-van-tvs-en-soundbars-voor-2025-s95f-vanaf-2599-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234686</guid>
+            <pubDate>Wed, 07 May 2025 12:56:35 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google brengt eerder dan gepland Gemini 2.5 Pro-model voor ontwikkelaars uit</title>
+            <link>https://tweakers.net/nieuws/234692/google-brengt-eerder-dan-gepland-gemini-25-pro-model-voor-ontwikkelaars-uit.html</link>
+            <description>Google heeft eerder dan het zelf voor ogen had een variant van Gemini 2.5 Pro voor ontwikkelaars uitgebracht. Dat had moeten uitkomen met Google I/O over twee weken, maar de zoekgigant heeft het model nu alvast beschikbaar gemaakt.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Software development</category>
+            <comments>https://tweakers.net/nieuws/234692/google-brengt-eerder-dan-gepland-gemini-25-pro-model-voor-ontwikkelaars-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234692</guid>
+            <pubDate>Wed, 07 May 2025 12:39:05 +0200</pubDate>
+        </item>
         <item>
             <title>Firmware-update - SmartEVSE 3.8.1</title>
             <link>https://tweakers.net/downloads/72574/smartevse-381.html</link>
@@ -376,46 +416,6 @@
             <comments>https://tweakers.net/downloads/72560/winscp-651.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72560</guid>
             <pubDate>Mon, 05 May 2025 15:51:21 +0200</pubDate>
-        </item>
-        <item>
-            <title>Leaker: Half-Life 3 is volledig speelbaar, wordt nu geoptimaliseerd</title>
-            <link>https://tweakers.net/nieuws/234628/leaker-half-life-3-is-volledig-speelbaar-wordt-nu-geoptimaliseerd.html</link>
-            <description>Valve-insider Tyler McVicker claimt dat Valve een volledig speelbare versie van Half-Life 3 heeft klaarliggen. Het spel zou volgens de leaker geen VR-game zijn en wordt volgens McVicker op dit moment geoptimaliseerd. Er doen al jaren geruchten de ronde over een nieuwe Half-Life-game.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/234628/leaker-half-life-3-is-volledig-speelbaar-wordt-nu-geoptimaliseerd.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234628</guid>
-            <pubDate>Mon, 05 May 2025 14:45:22 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft schrapt functies uit Authenticator-app, Edge neemt features over</title>
-            <link>https://tweakers.net/nieuws/234626/microsoft-schrapt-functies-uit-authenticator-app-edge-neemt-features-over.html</link>
-            <description>Microsoft schrapt deze zomer enkele functies uit de Microsoft Authenticator-app. Gebruikers kunnen vanaf juni 2025 geen nieuwe wachtwoorden meer opslaan. In juli verdwijnt de Autofill-functie. Vanaf 1 augustus zijn wachtwoorden niet meer via de app beschikbaar, maar via Edge.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/234626/microsoft-schrapt-functies-uit-authenticator-app-edge-neemt-features-over.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234626</guid>
-            <pubDate>Mon, 05 May 2025 13:59:44 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Microsoft Surface Pro krijgt 12”-scherm en gewijzigd ontwerp; komt op 6 mei&#039;</title>
-            <link>https://tweakers.net/nieuws/234624/microsoft-surface-pro-krijgt-12-inch-scherm-en-gewijzigd-ontwerp-komt-op-6-mei.html</link>
-            <description>Microsoft zal begin mei een nieuwe Surface Pro-tablet introduceren. Het apparaat krijgt volgens WinFuture een 12”-scherm mee en een nieuw ontwerp. De tablet zal een Snapdragon Plus-soc en 16GB-ramgeheugen bevatten. Het is niet duidelijk hoeveel de Surface Pro moet kosten.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Tablets en telefoons / Tablets</category>
-            <comments>https://tweakers.net/nieuws/234624/microsoft-surface-pro-krijgt-12-inch-scherm-en-gewijzigd-ontwerp-komt-op-6-mei.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234624</guid>
-            <pubDate>Mon, 05 May 2025 13:13:46 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Nvidia RTX 5060 Ti 8GB is 10 procent trager met PCIe 4.0 dan met PCIe 5.0&#039;</title>
-            <link>https://tweakers.net/nieuws/234620/nvidia-rtx-5060-ti-8gb-is-10-procent-trager-met-pcie-40-dan-met-pcie-50.html</link>
-            <description>De Nvidia GeForce RTX 5060 Ti met 8GB ram is ongeveer 10 procent trager bij het gebruik van een PCIe 4.0-aansluiting, dan bij het gebruik van PCIe 5.0. Dat schrijft ComputerBase. Volgens de website speelt het gebrek aan vram en de lagere doorvoersnelheid van PCIe 4.0 de gpu parten.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/nieuws/234620/nvidia-rtx-5060-ti-8gb-is-10-procent-trager-met-pcie-40-dan-met-pcie-50.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234620</guid>
-            <pubDate>Mon, 05 May 2025 12:04:19 +0200</pubDate>
         </item>
     </channel>
 </rss>
