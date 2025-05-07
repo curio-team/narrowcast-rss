@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 07 May 2025 13:36:17 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 07 May 2025 14:28:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,74 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>CrowdStrike says it will lay off 500 workers</title>
+		<link>https://techcrunch.com/2025/05/07/crowdstrike-says-it-will-lay-off-500-workers/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 14:25:32 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[CrowdStrike]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[infosec]]></category>
+		<category><![CDATA[Layoffs]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3004147</guid>
+
+					<description><![CDATA[The cybersecurity company said it will lay off 5% of its global workforce. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The web series is back – only this time, they’re TikToks</title>
+		<link>https://techcrunch.com/2025/05/07/the-web-series-is-back-only-this-time-theyre-tiktoks/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 14:23:29 +0000</pubDate>
+				<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[creator economy]]></category>
+		<category><![CDATA[streaming]]></category>
+		<category><![CDATA[TikTok]]></category>
+		<category><![CDATA[trends]]></category>
+		<category><![CDATA[web series]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3004088</guid>
+
+					<description><![CDATA[“Day 25 of starting over my whole entire life,” Raegan Lynch narrates over a short video. “Right now, I’m wandering around the city I just moved to, in a country I’d never seen, all by myself after my relationship ended, and I had to leave my old life behind.” It’s a pretty enticing hook, which [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mistral claims its newest AI model delivers leading performance for the price</title>
+		<link>https://techcrunch.com/2025/05/07/mistral-claims-its-newest-ai-model-delivers-leading-performance-for-the-price/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[mistral]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3004102</guid>
+
+					<description><![CDATA[French AI startup Mistral is releasing a new AI model, Mistral Medium 3, that&#8217;s focused on efficiency without compromising performance. Available in Mistral&#8217;s API priced at $0.40 per million input tokens and $20.80 per million output tokens, Mistral Medium 3 performs &#8220;at or above&#8221; 90% of Anthropic&#8217;s costlier Claude Sonnet 3.7 model on &#8220;benchmarks across [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Spotify&#8217;s latest update gives users more control over their listening experience</title>
+		<link>https://techcrunch.com/2025/05/07/spotifys-latest-update-gives-users-more-control-over-their-listening-experience/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 13:51:31 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3004091</guid>
+
+					<description><![CDATA[Spotify on Wednesday announced an update to its app designed to give users more control over their listening experience and recommendations. The refreshed experience introduces a handful of new features that will roll out gradually to Spotify users and Premium subscribers, including those to help you manage your Queue, your current listening experience, aid with [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Ford hikes Mustang Mach-E price due to Trump&#8217;s tariffs</title>
 		<link>https://techcrunch.com/2025/05/07/ford-hikes-mustang-mach-e-price-due-to-trumps-tariffs/</link>
 		
@@ -316,77 +384,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3003792</guid>
 
 					<description><![CDATA[A team at Hugging Face has released a freely available, cloud-hosted computer-using AI &#8220;agent.&#8221; But be forewarned: It&#8217;s quite sluggish and occasionally makes mistakes. Hugging Face&#8217;s agent, called Open Computer Agent, is accessible via the web and can use a Linux virtual machine preloaded with several applications, including Firefox. Similar to OpenAI&#8217;s Operator, you can [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rivian earnings: EV maker cuts delivery guidance because of Trump&#8217;s tariffs and trade wars</title>
-		<link>https://techcrunch.com/2025/05/06/rivian-earnings-ev-maker-cuts-delivery-guidance-because-of-trumps-tariffs-and-trade-wars/</link>
-		
-		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 21:37:58 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[electric vehicles]]></category>
-		<category><![CDATA[EVs]]></category>
-		<category><![CDATA[Rivian]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003708</guid>
-
-					<description><![CDATA[Rivian said in its earnings report Tuesday it will likely deliver fewer vehicles this year than previously forecasted due to President Trump&#8217;s tariffs and other regulatory changes, making it the latest automaker to be affected by the new administration&#8217;s chaotic economic policies. The company said Tuesday it expects to deliver between 40,000 and 46,000 EVs [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>NSO Group must pay more than $167 million in damages to WhatsApp for spyware campaign</title>
-		<link>https://techcrunch.com/2025/05/06/nso-group-must-pay-more-than-167-million-in-damages-to-whatsapp-for-spyware-campaign/</link>
-		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 21:20:42 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[NSO Group]]></category>
-		<category><![CDATA[Spyware]]></category>
-		<category><![CDATA[surveillance]]></category>
-		<category><![CDATA[WhatsApp]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003826</guid>
-
-					<description><![CDATA[The five-year legal battle between the Meta-owned company and the most notorious spyware maker in the world ends with a huge win for WhatsApp. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Substack launches audio-only livestream feature</title>
-		<link>https://techcrunch.com/2025/05/06/substack-launches-audio-only-livestream-feature/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 20:42:01 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[livestream]]></category>
-		<category><![CDATA[Substack]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003783</guid>
-
-					<description><![CDATA[If you’re a Substack publisher who prefers not to turn on your camera while livestreaming, you’re in luck.&#160; Substack announced on Tuesday that it&#8217;s launching an audio-only livestream feature for publishers who want a lower-pressure way to connect with their followers. This is also ideal for those who wish to remain anonymous.  To use the [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>IBM CEO urges the Trump administration to increase — not cut — federal AI R&#038;D funding</title>
-		<link>https://techcrunch.com/2025/05/06/ibm-ceo-urges-the-trump-administration-to-increase-not-cut-federal-ai-rd-funding/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 20:14:47 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[IBM]]></category>
-		<category><![CDATA[policy]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003611</guid>
-
-					<description><![CDATA[Like many leaders in tech, Arvind Krishna, the CEO of IBM, thinks federal R&#38;D funding for AI and related technologies should be increased — not the other way around. &#8220;We have been an extremely strong advocate — and this is both the company and me personally — on that federally funded R&#38;D should be increased,&#8221; [&#8230;]]]></description>
 		
 		
 		
