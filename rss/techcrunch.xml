@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 07 May 2025 07:47:46 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 07 May 2025 10:20:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,41 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Mitsubishi in talks to source its new EVs for Australia, New Zealand from Foxconn unit</title>
+		<link>https://techcrunch.com/2025/05/07/mitsubishi-in-talks-to-source-its-new-evs-for-australia-new-zealand-from-foxconn-unit/</link>
+		
+		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 10:19:59 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[mitsubishi motors]]></category>
+		<category><![CDATA[Renault-Mitsubishi-Nissan]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3004021</guid>
+
+					<description><![CDATA[Mitsubishi Motors is in talks with Taiwan-based Foxconn's EV division to source an EV model for the Australia and New Zealand markets.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Amazon is working on an AI code generation tool</title>
+		<link>https://techcrunch.com/2025/05/07/amazon-is-working-on-an-ai-code-generating-tool/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 10:01:53 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI agents]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[code generation]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3004023</guid>
+
+					<description><![CDATA[Amazon Web Services is building a new AI-powered code generation tool codenamed &#8220;Kiro,&#8221; Business Insider reported, citing internal documents it had viewed. The tool can use prompts and existing data to generate code in &#8220;near real-time&#8221; by connecting with AI agents, the report said. The tool is said to have web and desktop apps, multimodal [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>OpenAI expects to cut share of revenue it pays Microsoft by 2030</title>
 		<link>https://techcrunch.com/2025/05/07/openai-expects-to-cut-share-of-revenue-it-pays-microsoft-by-2030/</link>
 		
@@ -339,39 +374,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3003326</guid>
 
 					<description><![CDATA[Finom, an Amsterdam-based digital bank for small- and medium-sized businesses, has raised €92.7 million (roughly $105 million) in a growth investment from General Catalyst&#8217;s Customer Value Fund, the company tells TechCrunch exclusively. The capital infusion &#8220;will be used exclusively and only for growth&#8221; and not for operational expenses or product development, Kos Stiskin, Finom’s chairman [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google’s new &#8216;Simplify&#8217; feature for iOS uses AI to make dense text easier to understand </title>
-		<link>https://techcrunch.com/2025/05/06/googles-new-simplify-feature-for-ios-uses-ai-to-make-dense-text-easier-to-understand/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[google app]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003415</guid>
-
-					<description><![CDATA[Google&#8217;s iOS app is getting a new &#8220;Simplify&#8221; feature that uses AI to make complex or technical text on the web easier to understand, all without leaving a web page. Simplify features a prompt refinement approach developed by Google Research and uses Gemini to make complicated text more digestible, without losing key details. Google says [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google debuts an updated Gemini 2.5 Pro AI model ahead of I/O</title>
-		<link>https://techcrunch.com/2025/05/06/google-debuts-an-updated-gemini-2-5-pro-ai-model-ahead-of-i-o/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 15:34:47 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[gemini]]></category>
-		<category><![CDATA[Google]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003489</guid>
-
-					<description><![CDATA[Google on Tuesday announced the launch of Gemini 2.5 Pro Preview (I/O edition), an updated version of its flagship Gemini 2.5 Pro AI model that the company claims tops a number of widely used benchmarks. Gemini 2.5 Pro Preview (I/O edition) is available via the Gemini API and Google&#8217;s Vertex AI and AI Studio platforms, [&#8230;]]]></description>
 		
 		
 		
