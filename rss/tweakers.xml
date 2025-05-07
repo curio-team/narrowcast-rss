@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 07 May 2025 09:31:07 +0200</pubDate>
-        <lastBuildDate>Wed, 07 May 2025 09:31:07 +0200</lastBuildDate>
+        <pubDate>Wed, 07 May 2025 10:36:02 +0200</pubDate>
+        <lastBuildDate>Wed, 07 May 2025 10:36:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Clonezilla 3.2.1-28</title>
+            <link>https://tweakers.net/downloads/72572/clonezilla-321-28.html</link>
+            <description>Clonezilla is een opensourceprogramma waarmee diskimages kunnen worden gemaakt. Het is onder andere mogelijk om back-ups van partities of van de hele harde schijf te maken, of een kopie van een harde schijf: een zogeheten kloon. Clonezilla is daarmee een opensourcevariant van Macrium Reflect en Acronis True Image. Het geheel is gebaseerd op een Debian-distributie en het maakt gebruik van DRBL, Partclone en udpcast. Clonezilla live is bedoeld voor losse computers, terwijl er met Clonezilla server tot wel veertig computers tegelijk van een image voorzien kunnen worden. Met versienummer 3.2.1-28 is een nieuwe stabiele uitgave van Clonezilla verschenen en de changelog van die versie ziet er als volgt uit: Enhancements and changes</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72572/clonezilla-321-28.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72572</guid>
+            <pubDate>Wed, 07 May 2025 10:26:29 +0200</pubDate>
+        </item>
         <item>
             <title>Samsung-bedrijf Harman wil Denon, Marantz en Bowers &amp; Wilkins overnemen</title>
             <link>https://tweakers.net/nieuws/234678/samsung-bedrijf-harman-wil-denon-marantz-en-bowers-en-wilkins-overnemen.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/downloads/72556/tixati-334.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72556</guid>
             <pubDate>Mon, 05 May 2025 10:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - DBeaver 25.0.4</title>
-            <link>https://tweakers.net/downloads/72554/dbeaver-2504.html</link>
-            <description>Versie 25.0.4 van DBeaver is uitgekomen. Met dit programma kunnen databases worden beheerd. Het kan onder andere query&#039;s uitvoeren en data tonen, filteren en bewerken. Er is ondersteuning aanwezig voor de bekende databases, zoals MySQL, Oracle, DB2, SQL Server, PostgreSQL, Firebird en SQLite. Het is verkrijgbaar in een opensource CE-uitvoering en drie verschillende commerciële uitvoeringen. Deze voegen onder meer ondersteuning voor verschillende nosql-databases toe, zoals MongoDB, Apache Cassandra en Apache Hive, en bevatten verder extra plug-ins en jdbc-drivers. De changelog voor deze uitgave ziet er als volgt uit: Changes in DBeaver version 25.0.4:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72554/dbeaver-2504.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72554</guid>
-            <pubDate>Mon, 05 May 2025 09:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>

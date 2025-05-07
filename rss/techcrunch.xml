@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 07 May 2025 01:56:25 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 07 May 2025 07:47:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>OpenAI expects to cut share of revenue it pays Microsoft by 2030</title>
+		<link>https://techcrunch.com/2025/05/07/openai-expects-to-cut-share-of-revenue-it-pays-microsoft-by-2030/</link>
+		
+		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 07:47:42 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[revenue sharing]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3004008</guid>
+
+					<description><![CDATA[OpenAI currently has a deal to share 20% of revenue with Microsoft, but the AI company expects to cut that share to 10% by 2030, The Information reported. ]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Amid Greek tech boom, a prominent seed-stage firm locks down €75 million</title>
 		<link>https://techcrunch.com/2025/05/06/amid-greek-tech-boom-a-prominent-seed-stage-firm-locks-down-e75-million/</link>
 		
@@ -35,14 +52,14 @@
 		<pubDate>Wed, 07 May 2025 06:00:00 +0000</pubDate>
 				<category><![CDATA[TC]]></category>
 		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[venture capital]]></category>
-		<category><![CDATA[StrictlyVC]]></category>
-		<category><![CDATA[Marathon Venture Partners]]></category>
 		<category><![CDATA[Athens]]></category>
+		<category><![CDATA[Marathon Venture Partners]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[StrictlyVC]]></category>
+		<category><![CDATA[venture capital]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3002491</guid>
 
-					<description><![CDATA[Marathon Venture Partners, a venture firm in Athens that prides itself on being &#8220;day one partners to Greek tech partners,&#8221; just closed its newest fund with €75 million in capital commitments, according to partner Panos Papadopoulos. The vehicle brings the firm&#8217;s total assets under management to €175 million &#8212; a meaningful amount for an eight-year-old, [&#8230;]]]></description>
+					<description><![CDATA[Marathon Venture Capital, a venture firm in Athens that prides itself on being &#8220;day one partners to Greek tech partners,&#8221; just closed its newest fund with €75 million in capital commitments, according to partner Panos Papadopoulos. The vehicle brings the firm&#8217;s total assets under management to €175 million &#8212; a meaningful amount for an eight-year-old, [&#8230;]]]></description>
 		
 		
 		
@@ -243,11 +260,11 @@
 		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
 		<pubDate>Tue, 06 May 2025 16:47:34 +0000</pubDate>
 				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[avs]]></category>
-		<category><![CDATA[Pony AI]]></category>
-		<category><![CDATA[robotaxi]]></category>
 		<category><![CDATA[Uber]]></category>
+		<category><![CDATA[avs]]></category>
+		<category><![CDATA[robotaxi]]></category>
 		<category><![CDATA[weride]]></category>
+		<category><![CDATA[Pony AI]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3003539</guid>
 
 					<description><![CDATA[Uber announced its third partnership with a Chinese autonomous vehicle company this week, revealing the ride-hail and delivery giant&#8217;s appetite for global domination in the emerging robotaxi sector. Uber said Tuesday it would work with Guangzhou-based Pony AI, which late last year went public on the Nasdaq at a $5.25 billion valuation, to launch robotaxis [&#8230;]]]></description>
@@ -355,24 +372,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3003489</guid>
 
 					<description><![CDATA[Google on Tuesday announced the launch of Gemini 2.5 Pro Preview (I/O edition), an updated version of its flagship Gemini 2.5 Pro AI model that the company claims tops a number of widely used benchmarks. Gemini 2.5 Pro Preview (I/O edition) is available via the Gemini API and Google&#8217;s Vertex AI and AI Studio platforms, [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Unblocked raises $20M for AI to help devs understand codebases</title>
-		<link>https://techcrunch.com/2025/05/06/unblocked-raises-20-million-for-its-ai-assistant-to-help-devs-understand-legacy-codebases/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI search]]></category>
-		<category><![CDATA[b capital]]></category>
-		<category><![CDATA[coding]]></category>
-		<category><![CDATA[developers]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3002251</guid>
-
-					<description><![CDATA[Every developer has their own unique style of writing code. Despite companies establishing best practices and drawing up documentation, it can be hard for developers to understand someone else&#8217;s codebase. To solve this problem, Dennis Pilarinos built a tool called Unblocked — an AI-powered assistant that answers contextual questions about lines of code. Pilarinos is [&#8230;]]]></description>
 		
 		
 		
