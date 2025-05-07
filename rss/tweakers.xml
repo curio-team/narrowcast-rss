@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 06 May 2025 16:31:01 +0200</pubDate>
-        <lastBuildDate>Tue, 06 May 2025 16:31:01 +0200</lastBuildDate>
+        <pubDate>Wed, 07 May 2025 09:31:07 +0200</pubDate>
+        <lastBuildDate>Wed, 07 May 2025 09:31:07 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,126 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Samsung-bedrijf Harman wil Denon, Marantz en Bowers &amp; Wilkins overnemen</title>
+            <link>https://tweakers.net/nieuws/234678/samsung-bedrijf-harman-wil-denon-marantz-en-bowers-en-wilkins-overnemen.html</link>
+            <description>Harman, een dochterbedrijf van Samsung Electronics, wil de audiomerken van Masimo overnemen. Het gaat om onder meer Denon, Marantz en Bowers &amp; Wilkins. De overname kost Harman 350 miljoen dollar. Masimo wil zich focussen op gezondheidsproducten.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Beeld en geluid / Audio</category>
+            <comments>https://tweakers.net/nieuws/234678/samsung-bedrijf-harman-wil-denon-marantz-en-bowers-en-wilkins-overnemen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234678</guid>
+            <pubDate>Wed, 07 May 2025 09:19:29 +0200</pubDate>
+        </item>
+        <item>
+            <title>Minecraft ondersteunt geen VR meer</title>
+            <link>https://tweakers.net/nieuws/234680/minecraft-ondersteunt-geen-vr-meer.html</link>
+            <description>Minecraft biedt geen officiële ondersteuning voor virtual reality meer. Ontwikkelaar Mojang heeft ondersteuning voor VR-headsets uit de recentste versie van Minecraft Bedrock geschrapt. Het bedrijf zei in oktober al dat die ondersteuning dit jaar op zijn einde zou komen.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/234680/minecraft-ondersteunt-geen-vr-meer.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234680</guid>
+            <pubDate>Wed, 07 May 2025 09:06:02 +0200</pubDate>
+        </item>
+        <item>
+            <title>Microsoft introduceert kleinere en goedkopere Surface Pro en Surface Laptop</title>
+            <link>https://tweakers.net/nieuws/234676/microsoft-introduceert-kleinere-en-goedkopere-surface-pro-en-surface-laptop.html</link>
+            <description>Microsoft komt met kleinere en goedkopere varianten van zijn Surface Pro en Surface Laptop. De twee apparaten krijgen respectievelijk een 12&quot;- en 13&quot;-scherm en beschikken beide over een Snapdragon X-soc. Ze komen beschikbaar vanaf 979 en 1099 euro.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Laptops</category>
+            <comments>https://tweakers.net/nieuws/234676/microsoft-introduceert-kleinere-en-goedkopere-surface-pro-en-surface-laptop.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234676</guid>
+            <pubDate>Wed, 07 May 2025 08:32:24 +0200</pubDate>
+        </item>
+        <item>
+            <title>Firmware-update - Nvidia Shield TV 9.2.1</title>
+            <link>https://tweakers.net/downloads/72570/nvidia-shield-tv-921.html</link>
+            <description>Nvidia heeft een nieuwe versie van de firmware voor de Nvidia Shield TV&#039;s uitgebracht. Deze mediaplayers en consoles zijn gebaseerd op Android TV, waarmee games gestreamd kunnen worden vanaf een computer of GeForce Now, 4k-video&#039;s afgespeeld kunnen worden en verschillende apps gebruikt kunnen worden. De changelog voor deze uitgave laat de volgende verzameling aan veranderingen en verbeteringen zien: Shield Experience Upgrade 9.2.1</description>
+            <author>Bart van Klaveren</author>
+            <category>Firmware</category>
+            <comments>https://tweakers.net/downloads/72570/nvidia-shield-tv-921.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72570</guid>
+            <pubDate>Wed, 07 May 2025 08:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>IKEA en Sonos stoppen met het maken van Symfonisk-speakers</title>
+            <link>https://tweakers.net/nieuws/234674/ikea-en-sonos-stoppen-met-het-maken-van-symfonisk-speakers.html</link>
+            <description>IKEA en Sonos hebben hun samenwerking stopgezet. Dat bevestigt de speakerfabrikant tegenover techwebsite The Verge. De Symfonisk-speakers van de twee bedrijven verdwijnen uit de winkels, hoewel bestaande producten wel software-updates blijven ontvangen.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Beeld en geluid / Speakers</category>
+            <comments>https://tweakers.net/nieuws/234674/ikea-en-sonos-stoppen-met-het-maken-van-symfonisk-speakers.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234674</guid>
+            <pubDate>Wed, 07 May 2025 07:30:44 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - MSI Raider 18 - Deze laptop weet alles uit zijn RTX 5080 te persen</title>
+            <link>https://tweakers.net/reviews/13216/msi-raider-18-deze-laptop-weet-alles-uit-zijn-rtx-5080-te-persen.html</link>
+            <description>Met een Core Ultra 9 285HX-processor en een RTX 5080 aan boord is de MSI Raider op papier een bloedsnelle laptop, maar is hij ook zijn geld waard?</description>
+            <author>Jelle Stuip</author>
+            <category>Review / Computers / Laptops</category>
+            <comments>https://tweakers.net/reviews/13216/6/msi-raider-18-deze-laptop-weet-alles-uit-zijn-rtx-5080-te-persen-conclusie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13216</guid>
+            <pubDate>Wed, 07 May 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Intel verlaagt adviesprijs Core Ultra 7 265K en 265KF met zo&#039;n 25 procent</title>
+            <link>https://tweakers.net/nieuws/234672/intel-verlaagt-adviesprijs-core-ultra-7-265k-en-265kf-met-zon-25-procent.html</link>
+            <description>Intel verlaagt per direct de adviesprijs van de iboxed versies van enkele sku&#039;s van de Core Ultra 7-processors met zo&#039;n 25 procent.  Het is niet duidelijk of de daadwerkelijke prijzen van de processors ook verder omlaag gaan.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/234672/intel-verlaagt-adviesprijs-core-ultra-7-265k-en-265kf-met-zon-25-procent.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234672</guid>
+            <pubDate>Tue, 06 May 2025 21:18:15 +0200</pubDate>
+        </item>
+        <item>
+            <title>Ceo Wikipedia-eigenaar Wikimedia Foundation kondigt vertrek aan</title>
+            <link>https://tweakers.net/nieuws/234670/ceo-wikipedia-eigenaar-wikimedia-foundation-kondigt-vertrek-aan.html</link>
+            <description>Wikimedia Foundation-ceo Maryana Iskander kondigt haar vertrek bij de non-profitorganisatie aan. Ze is sinds 2022 ceo van de organisatie en blijft naar verwachting tot januari van 2026 die rol vervullen.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/234670/ceo-wikipedia-eigenaar-wikimedia-foundation-kondigt-vertrek-aan.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234670</guid>
+            <pubDate>Tue, 06 May 2025 20:58:15 +0200</pubDate>
+        </item>
+        <item>
+            <title>EU geeft VK &#039;uitzonderlijke&#039; verlenging toestemming voor uitwisseling data</title>
+            <link>https://tweakers.net/nieuws/234668/eu-geeft-vk-uitzonderlijke-verlenging-toestemming-voor-uitwisseling-data.html</link>
+            <description>De Europese Unie verleent het Verenigd Koninkrijk zes maanden langer toestemming voor data-uitwisseling met de EU. Het Britse parlement is nog bezig met nieuwe privacywetgeving. Vooralsnog mogen Britse en Europese bedrijven daarom onder de AVG nog data uitwisselen.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/234668/eu-geeft-vk-uitzonderlijke-verlenging-toestemming-voor-uitwisseling-data.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234668</guid>
+            <pubDate>Tue, 06 May 2025 20:08:46 +0200</pubDate>
+        </item>
+        <item>
+            <title>Financial Times: Huawei bouwt complete eigen chipfabriek</title>
+            <link>https://tweakers.net/nieuws/234666/financial-times-huawei-bouwt-complete-eigen-chipfabriek.html</link>
+            <description>Huawei bouwt naar verluidt een complete eigen halfgeleiderproductieketen in een buitenwijk van Shenzhen in China. Het bedrijf kan vanwege exportbeperkingen van de Verenigde Staten geen geavanceerde chips van bijvoorbeeld TSMC kopen.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/234666/financial-times-huawei-bouwt-complete-eigen-chipfabriek.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234666</guid>
+            <pubDate>Tue, 06 May 2025 19:10:19 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nvidia brengt GeForce RTX 5060 op 19 mei uit voor desktops en laptops</title>
+            <link>https://tweakers.net/nieuws/234662/nvidia-brengt-geforce-rtx-5060-op-19-mei-uit-voor-desktops-en-laptops.html</link>
+            <description>Nvidia brengt op 19 mei om 18.00 uur zowel de desktop- als laptopversie van de GeForce RTX 5060 uit. De instapvideokaart uit de 50-serie ondersteunt DLSS 4, waaronder Multi Frame Generation. De kaart kost vrijwel zeker rond de 320 euro.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/234662/nvidia-brengt-geforce-rtx-5060-op-19-mei-uit-voor-desktops-en-laptops.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234662</guid>
+            <pubDate>Tue, 06 May 2025 17:55:56 +0200</pubDate>
+        </item>
+        <item>
+            <title>Microsoft werkt aan AI-agent voor het instellingenmenu van Copilot+-pc&#039;s</title>
+            <link>https://tweakers.net/nieuws/234660/microsoft-werkt-aan-ai-agent-voor-het-instellingenmenu-van-copilot+-pcs.html</link>
+            <description>Microsoft werkt aan een AI-agent die gebruikers kan helpen met het instellingenmenu. De functie moet gebruikers naar de juiste instelling navigeren en ze ook aanpassen, als de gebruiker dat wil. De functie werkt alleen op Copilot+-pc&#039;s.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Computers / Besturingssystemen</category>
+            <comments>https://tweakers.net/nieuws/234660/microsoft-werkt-aan-ai-agent-voor-het-instellingenmenu-van-copilot+-pcs.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234660</guid>
+            <pubDate>Tue, 06 May 2025 16:48:02 +0200</pubDate>
+        </item>
         <item>
             <title>VodafoneZiggo schrapt zo&#039;n 400 banen, ongeveer 6 procent van personeel</title>
             <link>https://tweakers.net/nieuws/234656/vodafoneziggo-schrapt-zon-400-banen-ongeveer-6-procent-van-personeel.html</link>
@@ -296,126 +416,6 @@
             <comments>https://tweakers.net/downloads/72554/dbeaver-2504.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72554</guid>
             <pubDate>Mon, 05 May 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Notepad++ 8.8.1</title>
-            <link>https://tweakers.net/downloads/72552/notepad++-881.html</link>
-            <description>Versie 8.8.1 van Notepad++ is uitgekomen. Deze uitgebreide teksteditor heeft diverse mogelijkheden die vooral voor programmeurs handig zijn, zoals syntaxhighlighting voor onder andere C, C++, Java, HTML, XML en PHP. Ook biedt het programma de mogelijkheid om meer dan één document tegelijk te bewerken of één document op twee verschillende plaatsen te onderhouden. Wie de nieuwste versie wil gebruiken, moet deze zelf downloaden. De ingebouwde updater van Notepad++ biedt updates namelijk pas een week na hun verschijnen aan om eventuele ernstige bugs nog te kunnen oplossen. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Notepad++ v8.8.1 new featurs, regression-fixes &amp; bug-fixes:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72552/notepad++-881.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72552</guid>
-            <pubDate>Mon, 05 May 2025 07:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Best Buy Guide - Beste gamingprocessor</title>
-            <link>https://tweakers.net/best-buy-guide/processors/beste-gaming-processor</link>
-            <description>Wat is de beste gamingprocessor? Op deze pagina vind je ons advies voor een gaming-cpu voor ieder budget op basis van onze eigen benchmarks.</description>
-            <author>Tomas Hochstenbach</author>
-            <category>Best Buy Guide / Computers / Processors</category>
-            <comments>https://tweakers.net/best-buy-guide/processors/beste-gaming-processor#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/best-buy-guide/processors/beste-gaming-processor</guid>
-            <pubDate>Mon, 05 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Best Buy Guide - Beste goedkope processor</title>
-            <link>https://tweakers.net/best-buy-guide/processors/beste-goedkope-processor</link>
-            <description>Wat is de beste goedkope processor? Een budgetprocessor hoeft niet langzaam te zijn. Hier vind je ons advies voor een goedkope cpu op basis van onze benchmarks.</description>
-            <author>Tomas Hochstenbach</author>
-            <category>Best Buy Guide / Computers / Processors</category>
-            <comments>https://tweakers.net/best-buy-guide/processors/beste-goedkope-processor#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/best-buy-guide/processors/beste-goedkope-processor</guid>
-            <pubDate>Mon, 05 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Best Buy Guide - Beste processor voor productiviteit</title>
-            <link>https://tweakers.net/best-buy-guide/processors/beste-productiviteit-processor</link>
-            <description>Wat is de beste processor voor productiviteit? Op deze pagina vind je ons advies voor een snelle allround-cpu op basis van onze eigen benchmarks.</description>
-            <author>Tomas Hochstenbach</author>
-            <category>Best Buy Guide / Computers / Processors</category>
-            <comments>https://tweakers.net/best-buy-guide/processors/beste-productiviteit-processor#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/best-buy-guide/processors/beste-productiviteit-processor</guid>
-            <pubDate>Mon, 05 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Best Buy Guide - Processorbenchmarks - Al onze cpu-testresultaten</title>
-            <link>https://tweakers.net/best-buy-guide/processors/benchmarks</link>
-            <description>Op deze pagina vind je alle processorbenchmarks van courante AMD- en Intel-processors. Bij Tweakers testen we elk jaar verscheidene keren alle cpu&#039;s.</description>
-            <author>Tomas Hochstenbach</author>
-            <category>Best Buy Guide / Computers / Processors</category>
-            <comments>https://tweakers.net/best-buy-guide/processors/benchmarks#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/best-buy-guide/processors/benchmarks</guid>
-            <pubDate>Mon, 05 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - OpenRCT2 0.4.22</title>
-            <link>https://tweakers.net/downloads/72550/openrct2-0422.html</link>
-            <description>Versie 0.4.22 van OpenRCT2 is uitgekomen, de opensourceversie van RollerCoaster Tycoon 2. Het project probeert zo veel mogelijk op het origineel te lijken, maar is in een moderne taal geschreven, wat uitbreidingen en verbeteringen mogelijk maakt. Het is hiermee vergelijkbaar met bijvoorbeeld OpenTTD en OpenRA. Om het te kunnen spelen, is het overigens wel noodzakelijk om het originele spel te hebben, want het heeft onder meer geluidsbestanden en de afbeeldingen nodig. De changelog voor deze uitgave, die de naam &#039;Jump across the English Channel&#039; heeft meegekregen, is hieronder te vinden: New feature:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72550/openrct2-0422.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72550</guid>
-            <pubDate>Sun, 04 May 2025 20:56:25 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Intel Arc Celestial-videokaart bereikt nieuwe stap in ontwikkelproces&#039;</title>
-            <link>https://tweakers.net/nieuws/234618/intel-arc-celestial-videokaart-bereikt-nieuwe-stap-in-ontwikkelproces.html</link>
-            <description>De Intel Arc Celestial-videokaart zou in een nieuwe stap van het ontwikkelproces zijn aanbeland: de  pre-silicon hardware modeling phase. Dat blijkt uit vermoedelijke loopbaaninformatie van Intel-medewerkers. Het is niet duidelijk wanneer de videokaart wordt geïntroduceerd.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/nieuws/234618/intel-arc-celestial-videokaart-bereikt-nieuwe-stap-in-ontwikkelproces.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234618</guid>
-            <pubDate>Sun, 04 May 2025 12:42:30 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - MobaXterm 25.2</title>
-            <link>https://tweakers.net/downloads/72548/mobaxterm-252.html</link>
-            <description>Versie 25.2 van MobaXterm is uitgekomen. Dit veelzijdige programma heeft alles aan boord om een verbinding naar een andere computer op te zetten. Het kan overweg met onder meer SSH, Telnet, RDP, VNC en FTP. Het kan meerdere sessies in tabbladen weergeven en het kan ook als portable app worden gebruikt. MobaXterm is gratis voor thuisgebruik met slechts lichte beperkingen; een licentie voor in een commerciële omgeving kost 49 euro. Daarvoor mag het programma voor altijd worden gebruikt en krijg je ook ondersteuning en updates voor een jaar. De changelog voor deze uitgave ziet er als volgt uit: Improvement:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72548/mobaxterm-252.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72548</guid>
-            <pubDate>Sun, 04 May 2025 12:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Bijna helft Vlaamse bedrijven was vorig jaar slachtoffer van cyberaanval</title>
-            <link>https://tweakers.net/nieuws/234616/bijna-helft-vlaamse-bedrijven-was-vorig-jaar-slachtoffer-van-cyberaanval.html</link>
-            <description>Vorig jaar werd 45,8 procent van Vlaamse bedrijven slachtoffer van een cyberaanval. Dat blijkt uit een studie van de Vlaamse regering. Bij een op de tien bedrijven was zo’n aanval succesvol en werd er schade aangericht. 71 procent van de Vlaamse kmo&#039;s denkt goed beschermd te zijn.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/234616/bijna-helft-vlaamse-bedrijven-was-vorig-jaar-slachtoffer-van-cyberaanval.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234616</guid>
-            <pubDate>Sun, 04 May 2025 11:31:35 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Apple overweegt gespreide release voor iPhone 18-line-up&#039;</title>
-            <link>https://tweakers.net/nieuws/234614/apple-overweegt-gespreide-release-voor-iphone-18-line-up.html</link>
-            <description>Apple wil de iPhone 18-productlijn niet meer op een en hetzelfde moment introduceren. Dat claimt The Information. Het bedrijf zou de duurdere toestellen nog steeds in het najaar willen uitbrengen. Goedkopere modellen moeten in de lente volgen. Apple heeft de geruchten nog niet bevestigd.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/234614/apple-overweegt-gespreide-release-voor-iphone-18-line-up.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234614</guid>
-            <pubDate>Sun, 04 May 2025 10:45:26 +0200</pubDate>
-        </item>
-        <item>
-            <title>Mozilla: we komen in financiële problemen zonder Google-zoekmachinedeal</title>
-            <link>https://tweakers.net/nieuws/234612/mozilla-we-komen-in-financiele-problemen-zonder-google-zoekmachinedeal.html</link>
-            <description>Eric Muhlheim, de financieel directeur van Mozilla, heeft gezegd dat het bedrijf in financiële problemen kan terechtkomen als de zoekmachinedeal tussen Mozilla en Google wordt verboden. Mozilla zou in dat geval zelfs moeite hebben om te blijven voortbestaan.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Computers / Browsers</category>
-            <comments>https://tweakers.net/nieuws/234612/mozilla-we-komen-in-financiele-problemen-zonder-google-zoekmachinedeal.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234612</guid>
-            <pubDate>Sun, 04 May 2025 10:00:54 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Fan Control 223</title>
-            <link>https://tweakers.net/downloads/72546/fan-control-223.html</link>
-            <description>Versie 223 van Fan Control is uitgekomen, versie 222 is wegens een fout teruggetrokken. Met dit programma, dat gebruikmaakt van het opensource Libre Hardware Monitor-project, kunnen de ventilators in de computer worden beheerd en in de gaten worden gehouden. Zo is het onder meer mogelijk om met verschillende profielen en configuraties de computer koel of juist stil te houden. Fan Control kan overweg met de meeste fans en controllers en via een plug-insysteem is dat verder uit te breiden. De changelog voor deze uitgave ziet er als volgt uit: Changelog for version 223:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72546/fan-control-223.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72546</guid>
-            <pubDate>Sun, 04 May 2025 10:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>

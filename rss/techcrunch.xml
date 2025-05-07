@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 06 May 2025 14:35:15 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 07 May 2025 01:56:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,359 +28,351 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Uber Eats comes to Turkey via  $700M Trendyol Go acquisition</title>
-		<link>https://techcrunch.com/2025/05/06/uber-eats-comes-to-turkey-via-700m-trendyol-go-acquisition/</link>
+		<title>Amid Greek tech boom, a prominent seed-stage firm locks down €75 million</title>
+		<link>https://techcrunch.com/2025/05/06/amid-greek-tech-boom-a-prominent-seed-stage-firm-locks-down-e75-million/</link>
 		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 14:24:04 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[trendyol go]]></category>
-		<category><![CDATA[Uber]]></category>
-		<category><![CDATA[Uber Eats]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003444</guid>
+		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 06:00:00 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[venture capital]]></category>
+		<category><![CDATA[StrictlyVC]]></category>
+		<category><![CDATA[Marathon Venture Partners]]></category>
+		<category><![CDATA[Athens]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3002491</guid>
 
-					<description><![CDATA[Uber is expanding its presence in Turkey with its latest acquisition.  The ride-hail and delivery giant has acquired an 85% controlling stake in Trendyol Go, the online meal and grocery delivery business based in Istanbul, for about $700 million in cash. The deal gives Uber instant market share for Uber Eats in the country, where [&#8230;]]]></description>
+					<description><![CDATA[Marathon Venture Partners, a venture firm in Athens that prides itself on being &#8220;day one partners to Greek tech partners,&#8221; just closed its newest fund with €75 million in capital commitments, according to partner Panos Papadopoulos. The vehicle brings the firm&#8217;s total assets under management to €175 million &#8212; a meaningful amount for an eight-year-old, [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Can the Celestiq EV make Cadillac great again? Don’t rule it out</title>
-		<link>https://techcrunch.com/2025/05/06/can-the-celestiq-ev-make-cadillac-great-again-dont-rule-it-out/</link>
+		<title>Hugging Face releases a free Operator-like agentic AI tool</title>
+		<link>https://techcrunch.com/2025/05/06/hugging-face-releases-a-free-operator-like-agentic-ai-tool/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Tue, 06 May 2025 22:00:52 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[agents]]></category>
+		<category><![CDATA[Hugging Face]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3003792</guid>
+
+					<description><![CDATA[A team at Hugging Face has released a freely available, cloud-hosted computer-using AI &#8220;agent.&#8221; But be forewarned: It&#8217;s quite sluggish and occasionally makes mistakes. Hugging Face&#8217;s agent, called Open Computer Agent, is accessible via the web and can use a Linux virtual machine preloaded with several applications, including Firefox. Similar to OpenAI&#8217;s Operator, you can [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Rivian earnings: EV maker cuts delivery guidance because of Trump&#8217;s tariffs and trade wars</title>
+		<link>https://techcrunch.com/2025/05/06/rivian-earnings-ev-maker-cuts-delivery-guidance-because-of-trumps-tariffs-and-trade-wars/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Tue, 06 May 2025 21:37:58 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[Rivian]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3003708</guid>
+
+					<description><![CDATA[Rivian said in its earnings report Tuesday it will likely deliver fewer vehicles this year than previously forecasted due to President Trump&#8217;s tariffs and other regulatory changes, making it the latest automaker to be affected by the new administration&#8217;s chaotic economic policies. The company said Tuesday it expects to deliver between 40,000 and 46,000 EVs [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>NSO Group must pay more than $167 million in damages to WhatsApp for spyware campaign</title>
+		<link>https://techcrunch.com/2025/05/06/nso-group-must-pay-more-than-167-million-in-damages-to-whatsapp-for-spyware-campaign/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Tue, 06 May 2025 21:20:42 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[NSO Group]]></category>
+		<category><![CDATA[Spyware]]></category>
+		<category><![CDATA[surveillance]]></category>
+		<category><![CDATA[WhatsApp]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3003826</guid>
+
+					<description><![CDATA[The five-year legal battle between the Meta-owned company and the most notorious spyware maker in the world ends with a huge win for WhatsApp. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Substack launches audio-only livestream feature</title>
+		<link>https://techcrunch.com/2025/05/06/substack-launches-audio-only-livestream-feature/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Tue, 06 May 2025 20:42:01 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[livestream]]></category>
+		<category><![CDATA[Substack]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3003783</guid>
+
+					<description><![CDATA[If you’re a Substack publisher who prefers not to turn on your camera while livestreaming, you’re in luck.&#160; Substack announced on Tuesday that it&#8217;s launching an audio-only livestream feature for publishers who want a lower-pressure way to connect with their followers. This is also ideal for those who wish to remain anonymous.  To use the [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>IBM CEO urges the Trump administration to increase — not cut — federal AI R&#038;D funding</title>
+		<link>https://techcrunch.com/2025/05/06/ibm-ceo-urges-the-trump-administration-to-increase-not-cut-federal-ai-rd-funding/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Tue, 06 May 2025 20:14:47 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[IBM]]></category>
+		<category><![CDATA[policy]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3003611</guid>
+
+					<description><![CDATA[Like many leaders in tech, Arvind Krishna, the CEO of IBM, thinks federal R&#38;D funding for AI and related technologies should be increased — not the other way around. &#8220;We have been an extremely strong advocate — and this is both the company and me personally — on that federally funded R&#38;D should be increased,&#8221; [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Reddit will tighten verification to keep out human-like AI bots</title>
+		<link>https://techcrunch.com/2025/05/06/reddit-will-tighten-verification-to-keep-out-human-like-ai-bots/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Tue, 06 May 2025 19:47:41 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[ai bots]]></category>
+		<category><![CDATA[Reddit]]></category>
+		<category><![CDATA[social media]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3003697</guid>
+
+					<description><![CDATA[Redditors around the world were scandalized last week after learning that a team of researchers released a swarm of AI-powered, human-impersonating bots on the &#8220;Change My View&#8221; subreddit. The large-scale experiment was designed to explore just how persuasive AI can be. The bots posted over 1,700 comments, adopting personas like abuse survivors or controversial identities [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Patreon&#8217;s app can now accept web payments after US App Store changes</title>
+		<link>https://techcrunch.com/2025/05/06/patreons-app-can-now-accept-web-payments-after-u-s-app-store-changes/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Tue, 06 May 2025 19:22:40 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[app store]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Creators]]></category>
+		<category><![CDATA[Patreon]]></category>
+		<category><![CDATA[payments]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3003595</guid>
+
+					<description><![CDATA[Creator platform Patreon has rolled out an updated version of its app that now allows users to make purchases via the web, in the wake of the Apple-Epic court ruling that forced Apple to allow app developers to include links to alternative forms of payment without being subject to Apple&#8217;s commission. Previously, on version 125.4.1 [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Amazon-owned Zoox issues recall following robotaxi crash</title>
+		<link>https://techcrunch.com/2025/05/06/amazon-owned-zoox-issues-recall-following-robotaxi-crash/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Tue, 06 May 2025 19:06:45 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[autonomous vehicles]]></category>
+		<category><![CDATA[robotaxis]]></category>
+		<category><![CDATA[zoox]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3003619</guid>
+
+					<description><![CDATA[Zoox, the autonomous vehicle company owned by Amazon, paused its driverless testing program for more than a week and issued a voluntary recall of its software following a crash in Las Vegas, according to the company and a filing with federal safety regulators. The April 8 crash, which involved an unoccupied Zoox vehicle and a [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>TechCrunch Sessions: AI welcomes Tanka CEO Kisson Lin to talk AI-native startups</title>
+		<link>https://techcrunch.com/2025/05/06/techcrunch-sessions-ai-welcomes-tanka-ceo-kisson-lin-to-talk-ai-native-startups/</link>
+		
+		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
+		<pubDate>Tue, 06 May 2025 18:55:10 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[TechCrunch Sessions: AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3003264</guid>
+
+					<description><![CDATA[We&#8217;re ecstatic to announce that Kisson Lin, founder and CEO of Tanka, will be joining us at TechCrunch Sessions: AI for a provocative — and instructive — interview titled &#8220;Your Next Co-Founder Will Be AI.&#8221; She&#8217;s among the many excellent speakers joining the event June 5 at UC Berkeley&#8217;s Zellerbach Hall, and there&#8217;s still plenty [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>FutureHouse previews an AI tool for &#8216;data-driven&#8217; biology discovery</title>
+		<link>https://techcrunch.com/2025/05/06/futurehouse-previews-an-ai-tool-for-data-driven-biology-discovery/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Tue, 06 May 2025 17:41:45 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[futurehouse]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3003528</guid>
+
+					<description><![CDATA[FutureHouse, an Eric Schmidt-backed nonprofit that aims to build an &#8220;AI scientist&#8221; within the next decade,&#160;has released a new tool that it claims can help support &#8220;data-driven discovery&#8221; in biology. The new tool comes just a week after FutureHouse launched its API and platform. The tool, called Finch, takes in biology data (primarily in the [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Amazon Kindle&#8217;s iOS app adds new &#8216;Get Book&#8217; button following Apple payments ruling</title>
+		<link>https://techcrunch.com/2025/05/06/amazon-kindles-ios-app-adds-new-get-book-button-following-apple-payments-ruling/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Tue, 06 May 2025 17:34:31 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Kindle]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3003571</guid>
+
+					<description><![CDATA[Thanks to a recent ruling that ordered Apple to stop charging a 27% commission on purchases through iPhone apps, Amazon&#8217;s Kindle iOS app now has a &#8220;Get Book&#8221; button that makes it easier to buy titles. “We regularly make improvements to our apps to help ensure we are providing customers the most convenient experience possible,” Amazon [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Uber turns to Chinese companies to snap up robotaxi market share in Europe, Middle East</title>
+		<link>https://techcrunch.com/2025/05/06/uber-turns-to-chinese-companies-to-snap-up-robotaxi-market-share-in-europe-middle-east/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Tue, 06 May 2025 16:47:34 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[avs]]></category>
+		<category><![CDATA[Pony AI]]></category>
+		<category><![CDATA[robotaxi]]></category>
+		<category><![CDATA[Uber]]></category>
+		<category><![CDATA[weride]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3003539</guid>
+
+					<description><![CDATA[Uber announced its third partnership with a Chinese autonomous vehicle company this week, revealing the ride-hail and delivery giant&#8217;s appetite for global domination in the emerging robotaxi sector. Uber said Tuesday it would work with Guangzhou-based Pony AI, which late last year went public on the Nasdaq at a $5.25 billion valuation, to launch robotaxis [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>What OpenAI&#8217;s restructuring plan means for its corporate future</title>
+		<link>https://techcrunch.com/2025/05/06/what-openais-restructuring-plan-means-for-its-corporate-future/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Tue, 06 May 2025 16:30:08 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3003320</guid>
+
+					<description><![CDATA[OpenAI said on Monday it is pursuing a new restructuring plan after conversations with Delaware&#8217;s and California’s attorneys general, both of whom were closely watching as OpenAI tried to break free of its odd corporate structure. Currently, OpenAI&#8217;s nonprofit board governs the organization&#8217;s for-profit operations. Under the new plan, OpenAI’s for-profit arm will become a [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Can the Cadillac Celestiq EV make GM&#8217;s luxury brand great again? Don’t rule it out</title>
+		<link>https://techcrunch.com/2025/05/06/can-the-cadillac-celestiq-ev-make-gms-luxury-brand-great-again-dont-rule-it-out/</link>
 		
 		<dc:creator><![CDATA[Emme Hall]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 14:16:05 +0000</pubDate>
+		<pubDate>Tue, 06 May 2025 16:27:58 +0000</pubDate>
 				<category><![CDATA[Transportation]]></category>
 		<category><![CDATA[Cadillac]]></category>
 		<category><![CDATA[Celestiq]]></category>
 		<category><![CDATA[EVs]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3003429</guid>
 
-					<description><![CDATA[Nearly three years after unveiling the concept version of its flagship Celestiq EV, Cadillac has finally released the real thing: a $360,000 electric vehicle that oozes luxury and a come-gawk-at-me exterior designed to lure in passersby. But is this bespoke EV enough for Cadillac to regain its position as the “Standard of the World?” I [&#8230;]]]></description>
+					<description><![CDATA[Nearly three years after unveiling the concept version of the flagship Cadillac Celestiq EV, GM has finally released the real thing: a &#8220;mid-$300,000&#8221; electric vehicle that oozes luxury and a come-gawk-at-me exterior designed to lure in passersby. But is this bespoke EV enough for Cadillac to regain its position as the “Standard of the World”? [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Cnaught wants to make carbon credits easy for businesses small and large</title>
-		<link>https://techcrunch.com/2025/05/06/cnaught-wants-to-make-carbon-credits-easy-for-businesses-small-and-large/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 14:15:00 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[sustainability]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[markets]]></category>
-		<category><![CDATA[Bow Capital]]></category>
-		<category><![CDATA[carbon offsets]]></category>
-		<category><![CDATA[carbon credits]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003110</guid>
-
-					<description><![CDATA[Cnaught is a market maker seeking to ease the pain of buying carbon credits for companies without dedicated teams.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Agree.com raises $7.2M to take on Docusign, Bill.com with AI</title>
-		<link>https://techcrunch.com/2025/05/06/agree-com-raises-7-2m-to-take-on-docusign-bill-com-with-ai/</link>
-		
-		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 14:02:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[Pelion]]></category>
-		<category><![CDATA[Agree.com]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003253</guid>
-
-					<description><![CDATA[Agree.com says its AI-powered e-signature platform is different from competitors because it includes invoicing and payment processing. That’s why the company might have a shot at tackling the industry goliath, Docusign.  Because the startup makes its money from transaction fees for any money movement facilitated by its platform, Agree.com has made e-signatures free to all [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Relevance AI raises $24M to help businesses build AI agents</title>
-		<link>https://techcrunch.com/2025/05/06/relevance-ai-raises-24m-series-b-to-help-anyone-build-teams-of-ai-agents/</link>
-		
-		<dc:creator><![CDATA[Kate Park]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI agents]]></category>
-		<category><![CDATA[Relevance AI]]></category>
-		<category><![CDATA[startup]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3002700</guid>
-
-					<description><![CDATA[Individuals may work closely with AI agents as they become increasingly prevalent in the workplace. According to a report by Boston Consulting Group, the market for AI agents is expected to grow at a 45% compound annual growth rate over the next five years. Just like human employees, AI agents could be onboarded to learn [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Instacart launches Fizz, a new app for ordering drinks and snacks for parties</title>
-		<link>https://techcrunch.com/2025/05/06/instacart-launches-fizz-a-new-app-for-ordering-drinks-and-snacks-for-parties/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Instacart]]></category>
-		<category><![CDATA[fizz]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3002771</guid>
-
-					<description><![CDATA[Instacart has launched a new drinks and snack delivery app called Fizz, the company announced on Tuesday. The 21+ app is built for friends and family and is designed to make it easier to stock up for a party or get-together. The host of a party can invite guests into their Fizz cart to allow [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meet Posha, a countertop robot that cooks your meals for you</title>
-		<link>https://techcrunch.com/2025/05/06/meet-posha-a-countertop-robot-that-cooks-your-meals-for-you/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Accel]]></category>
-		<category><![CDATA[Computer Vision]]></category>
-		<category><![CDATA[consumer]]></category>
-		<category><![CDATA[consumer hardware]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3002962</guid>
-
-					<description><![CDATA[In 2017, Raghav Gupta set out to solve a personal problem: he wanted easy access to the home-cooked meals he grew up eating without having to spend time cooking or spend money on takeout or hiring a private chef. He turned to robotics, which led him to found the startup Posha. Posha, a former TechCrunch [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Spotify now shows how many times people listened to podcast episodes</title>
-		<link>https://techcrunch.com/2025/05/06/spotify-now-shows-how-many-times-people-listened-to-podcast-episodes/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Spotify]]></category>
-		<category><![CDATA[podcasts]]></category>
-		<category><![CDATA[music streaming]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003219</guid>
-
-					<description><![CDATA[YouTube continues to dominate the podcasting space, but Spotify is actively working to close the gap. The latest development: a new feature that lets users see how many times an audio-only or video podcast episode has been actively listened to or watched. The streaming giant revealed its new podcast metric called “plays” on Tuesday, making [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Boosted by defense and Starlink, Orca AI pulls in $72.5M for its autonomous shipping platform</title>
-		<link>https://techcrunch.com/2025/05/06/boosted-by-defense-and-starlink-orca-ai-pulls-in-72-5m-for-its-autonomous-shipping-platform/</link>
-		
-		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[defense]]></category>
-		<category><![CDATA[orca ai]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3000577</guid>
-
-					<description><![CDATA[The autonomous navigation market — where ships, guided by AI, steer themselves, resulting in fuel and time savings — is projected to sail past $11 billion by 2028. As a result, companies in this space are pushing on an open door. The latest is Orca AI, which closed a Series B funding round of $72.5 million [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US DoJ wants Google to sell two of its ad products</title>
-		<link>https://techcrunch.com/2025/05/06/us-doj-wants-google-to-sell-two-of-its-ad-products/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 09:45:21 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[advertising technology]]></category>
-		<category><![CDATA[antitrust regulation of big tech]]></category>
-		<category><![CDATA[DoubleClick]]></category>
-		<category><![CDATA[Google]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003391</guid>
-
-					<description><![CDATA[The U.S. Department of Justice is proposing that Google sell two of its advertising products to restore competition in the ad tech space, according to a new filing. The proposal comes after a judge found Google guilty of &#8220;willfully acquiring and maintaining monopoly power&#8221; in the digital ad space last month. The DOJ&#8217;s filing notes [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Blinq lands $25M to further its mission to make business cards passé</title>
-		<link>https://techcrunch.com/2025/05/06/blinq-grabs-25m-series-a-for-its-digital-business-card-platform/</link>
-		
-		<dc:creator><![CDATA[Kate Park]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 09:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[BLiNQ]]></category>
-		<category><![CDATA[digital business card]]></category>
-		<category><![CDATA[paper business card]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3002238</guid>
-
-					<description><![CDATA[It&#8217;s 2025, but business cards are still in vogue — just visit any conference or industry expo and you&#8217;ll end up with a pile that&#8217;s likely to be discarded sooner than later. But as smartphones have become our repositories of information and contacts, people are understandably keen to try out digital alternatives to business cards. [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>DoorDash to buy UK&#8217;s Deliveroo for $3.86B, SevenRooms for $1.2B</title>
-		<link>https://techcrunch.com/2025/05/06/doordash-to-buy-uks-deliveroo-for-3-86b/</link>
-		
-		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 07:59:56 +0000</pubDate>
-				<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[Deliveroo]]></category>
-		<category><![CDATA[DoorDash]]></category>
-		<category><![CDATA[food delivery]]></category>
-		<category><![CDATA[Mergers and Acquisitions]]></category>
-		<category><![CDATA[SevenRooms]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003388</guid>
-
-					<description><![CDATA[DoorDash said on Tuesday it has agreed to buy its U.K. rival Deliveroo for $3.85B, and CRM software startup SevenRooms for $1.2B.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Musk clashes with neighbors in exclusive Austin suburb</title>
-		<link>https://techcrunch.com/2025/05/05/musk-clashes-with-neighbors-in-exclusive-austin-suburb/</link>
-		
-		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 03:02:44 +0000</pubDate>
-				<category><![CDATA[Real estate]]></category>
-		<category><![CDATA[austin]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003352</guid>
-
-					<description><![CDATA[Elon Musk may have a sizable fan base, but residents of the upscale Austin suburb of West Lake Hills, Texas, are unimpressed by their celebrity neighbor, reports the New York Times. Instead, a $6 million home Musk purchased in 2022 has become the center of a battle after his team erected an unauthorized 16-foot chain-link [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Employer.com scoops up another fintech in purchase of MainStreet.com</title>
-		<link>https://techcrunch.com/2025/05/05/employer-com-scoops-up-another-fintech-in-purchase-of-mainstreet-com/</link>
-		
-		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 01:21:47 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Employer.com]]></category>
-		<category><![CDATA[jesse tinsley]]></category>
-		<category><![CDATA[mainstreet.com]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003322</guid>
-
-					<description><![CDATA[Employer.com has acquired MainStreet.com for an undisclosed amount, the latest fintech startup to get snapped up by the workforce management company. In a post on X, Employer.com Chairman and co-founder Jesse Tinsley said the two companies were “merging forces to simplify business back office solutions into one powerhouse platform.” Tinsley confirmed the acquisition to TechCrunch. [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Waymo ramps up robotaxi production at new Arizona factory</title>
-		<link>https://techcrunch.com/2025/05/05/waymo-ramps-up-robotaxi-production-at-new-arizona-factory/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
-		<pubDate>Mon, 05 May 2025 23:31:48 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[autonomous vehicles]]></category>
-		<category><![CDATA[avs]]></category>
-		<category><![CDATA[robotaxis]]></category>
-		<category><![CDATA[Waymo]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003100</guid>
-
-					<description><![CDATA[Waymo has played coy for years about exactly how many Jaguar I-Pace EVs are in its autonomous fleet — a figure that covers vehicles used in testing and commercial robotaxi operations. On Monday, the Alphabet company finally provided a peek at the commercial side of the fleet. Waymo said Monday, as part of a larger [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Uber and WeRide set their robotaxi sights on 15 more cities</title>
-		<link>https://techcrunch.com/2025/05/05/uber-and-weride-set-their-robotaxi-sights-on-15-more-cities/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
-		<pubDate>Mon, 05 May 2025 22:00:03 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[autonomous vehicles]]></category>
-		<category><![CDATA[Uber]]></category>
-		<category><![CDATA[Waymo]]></category>
-		<category><![CDATA[weride]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003242</guid>
-
-					<description><![CDATA[Uber and Chinese autonomous vehicle technology company WeRide plan to expand a commercial robotaxi partnership and bring the service to another 15 cities over the next five years. The expansion comes five months after the two companies launched a commercial&#160;robotaxi service in Abu Dhabi.&#160; The companies said the expansion will include cities in Europe. Under [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>FTC bans hidden fees for live events and short-term rentals, effective May 12</title>
-		<link>https://techcrunch.com/2025/05/05/ftc-bans-hidden-fees-for-live-events-and-short-term-rentals-effective-may-12/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Mon, 05 May 2025 21:17:46 +0000</pubDate>
-				<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[event ticketing]]></category>
-		<category><![CDATA[Federal Trade Commission]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003187</guid>
-
-					<description><![CDATA[The U.S. Federal Trade Commission (FTC) on Monday released new documentation detailing its new &#8220;Rule on Unfair or Deceptive Fees.&#8221; The rule, set to take effect on May 12, prohibits hidden fees for live events, hotels, and short-term rentals. It also bans practices such as &#8220;bait-and-switch pricing&#8221; and any actions that conceal or misrepresent total prices [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>People struggle to get useful health advice from chatbots, study finds</title>
-		<link>https://techcrunch.com/2025/05/05/people-struggle-to-get-useful-health-advice-from-chatbots-study-finds/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Mon, 05 May 2025 21:13:50 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[chatbot]]></category>
-		<category><![CDATA[medicine]]></category>
-		<category><![CDATA[study]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3002719</guid>
-
-					<description><![CDATA[With long waiting lists and rising costs in overburdened healthcare systems, many people are turning to AI-powered chatbots like ChatGPT for medical self-diagnosis. About one in six American adults already use chatbots for health advice at least monthly, according to one recent survey. But placing too much trust in chatbots&#8217; outputs can be risky, in [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>A stealth AI model beat DALL-E and Midjourney on a popular benchmark — its creator just landed $30M</title>
-		<link>https://techcrunch.com/2025/05/05/a-stealth-ai-model-beat-dall-e-and-midjourney-on-a-popular-benchmark-its-creator-just-landed-30m/</link>
-		
-		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
-		<pubDate>Mon, 05 May 2025 21:12:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[image generator]]></category>
-		<category><![CDATA[MidJourney]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[Recraft]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003182</guid>
-
-					<description><![CDATA[Recraft, the startup behind a mysterious image model that beat OpenAI’s DALL-E and Midjourney on a respected industry benchmark last year, has raised a $30 million Series B round led by Accel, it exclusively told TechCrunch.&#160; Other investors in the round include Khosla Ventures and Madrona. Based in San Francisco, Recraft previously raised a $12 [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google accidentally reveals details about its new Android design language, Material 3 Expressive</title>
-		<link>https://techcrunch.com/2025/05/05/google-accidentally-reveals-details-about-its-new-android-design-language-material-3-expressive/</link>
+		<title>Particle brings its AI-powered news reader to the web</title>
+		<link>https://techcrunch.com/2025/05/06/particle-brings-its-ai-powered-news-reader-to-the-web/</link>
 		
 		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Mon, 05 May 2025 21:11:49 +0000</pubDate>
+		<pubDate>Tue, 06 May 2025 16:08:15 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[particle]]></category>
+		<category><![CDATA[Publishing]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3003491</guid>
+
+					<description><![CDATA[Particle, the startup behind an AI-powered newsreader that aims to help publishers, not just steal their work, is bringing its product to the web. On Tuesday, the company announced the launch of the new Particle.news website that connects news consumers with headlines and AI summaries from a variety of sources, plus the ability to delve [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Finom, a challenger bank aimed at SMBs, lands $105M in growth funding from General Catalyst</title>
+		<link>https://techcrunch.com/2025/05/06/finom-a-challenger-bank-aimed-at-smbs-lands-104m-in-growth-funding-from-general-catalyst/</link>
+		
+		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
+		<pubDate>Tue, 06 May 2025 16:00:00 +0000</pubDate>
+				<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[General Catalyst]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Finom]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3003326</guid>
+
+					<description><![CDATA[Finom, an Amsterdam-based digital bank for small- and medium-sized businesses, has raised €92.7 million (roughly $105 million) in a growth investment from General Catalyst&#8217;s Customer Value Fund, the company tells TechCrunch exclusively. The capital infusion &#8220;will be used exclusively and only for growth&#8221; and not for operational expenses or product development, Kos Stiskin, Finom’s chairman [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google’s new &#8216;Simplify&#8217; feature for iOS uses AI to make dense text easier to understand </title>
+		<link>https://techcrunch.com/2025/05/06/googles-new-simplify-feature-for-ios-uses-ai-to-make-dense-text-easier-to-understand/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Tue, 06 May 2025 16:00:00 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Android]]></category>
 		<category><![CDATA[Google]]></category>
-		<category><![CDATA[Material Design]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003159</guid>
+		<category><![CDATA[google app]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3003415</guid>
 
-					<description><![CDATA[Google will unveil a new version of its Android design language at its upcoming Google I/O developer conference, according to an event schedule posted to its website, as well as an accidentally published Google blog post. The I/O session title hints at significant changes in store for Android&#8217;s design system, which will evolve from &#8220;Material [&#8230;]]]></description>
+					<description><![CDATA[Google&#8217;s iOS app is getting a new &#8220;Simplify&#8221; feature that uses AI to make complex or technical text on the web easier to understand, all without leaving a web page. Simplify features a prompt refinement approach developed by Google Research and uses Gemini to make complicated text more digestible, without losing key details. Google says [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google debuts an updated Gemini 2.5 Pro AI model ahead of I/O</title>
+		<link>https://techcrunch.com/2025/05/06/google-debuts-an-updated-gemini-2-5-pro-ai-model-ahead-of-i-o/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Tue, 06 May 2025 15:34:47 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[gemini]]></category>
+		<category><![CDATA[Google]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3003489</guid>
+
+					<description><![CDATA[Google on Tuesday announced the launch of Gemini 2.5 Pro Preview (I/O edition), an updated version of its flagship Gemini 2.5 Pro AI model that the company claims tops a number of widely used benchmarks. Gemini 2.5 Pro Preview (I/O edition) is available via the Gemini API and Google&#8217;s Vertex AI and AI Studio platforms, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Unblocked raises $20M for AI to help devs understand codebases</title>
+		<link>https://techcrunch.com/2025/05/06/unblocked-raises-20-million-for-its-ai-assistant-to-help-devs-understand-legacy-codebases/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Tue, 06 May 2025 15:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI search]]></category>
+		<category><![CDATA[b capital]]></category>
+		<category><![CDATA[coding]]></category>
+		<category><![CDATA[developers]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3002251</guid>
+
+					<description><![CDATA[Every developer has their own unique style of writing code. Despite companies establishing best practices and drawing up documentation, it can be hard for developers to understand someone else&#8217;s codebase. To solve this problem, Dennis Pilarinos built a tool called Unblocked — an AI-powered assistant that answers contextual questions about lines of code. Pilarinos is [&#8230;]]]></description>
 		
 		
 		
