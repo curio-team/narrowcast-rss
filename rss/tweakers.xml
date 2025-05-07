@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 07 May 2025 14:36:07 +0200</pubDate>
-        <lastBuildDate>Wed, 07 May 2025 14:36:07 +0200</lastBuildDate>
+        <pubDate>Wed, 07 May 2025 15:36:01 +0200</pubDate>
+        <lastBuildDate>Wed, 07 May 2025 15:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>ACM laat bedrijven zelf controleren met online tool of ze aan DSA moeten voldoen</title>
+            <link>https://tweakers.net/nieuws/234700/acm-laat-bedrijven-zelf-controleren-met-online-tool-of-ze-aan-dsa-moeten-voldoen.html</link>
+            <description>De ACM heeft de DSA-check gepubliceerd, een voorlichtingstool die bedrijven laat checken of ze aan de Digital Services Act moeten voldoen. De tool bestaat voor webwinkels, marktplaatsen en websites en apps met content die is gemaakt door gebruikers.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/234700/acm-laat-bedrijven-zelf-controleren-met-online-tool-of-ze-aan-dsa-moeten-voldoen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234700</guid>
+            <pubDate>Wed, 07 May 2025 15:11:53 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google geeft eigen Gemini-model betere toegang tot zoekresultaten dan derden</title>
+            <link>https://tweakers.net/nieuws/234698/google-geeft-eigen-gemini-model-betere-toegang-tot-zoekresultaten-dan-derden.html</link>
+            <description>Google geeft aan zijn eigen Gemini-taalmodel meer informatie bij het opvragen van Google Zoeken-informatie dan aan concurrenten die deze gegevens voor hun model opvragen. AI-makers kunnen via Vertex AI informatie uit Zoeken opvragen voor het genereren van antwoorden.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/234698/google-geeft-eigen-gemini-model-betere-toegang-tot-zoekresultaten-dan-derden.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234698</guid>
+            <pubDate>Wed, 07 May 2025 15:03:02 +0200</pubDate>
+        </item>
         <item>
             <title>Electronic Arts onthult deze zomer volgende Battlefield</title>
             <link>https://tweakers.net/nieuws/234694/electronic-arts-onthult-deze-zomer-volgende-battlefield.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/234630/microsoft-is-gestopt-met-skype.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234630</guid>
             <pubDate>Tue, 06 May 2025 07:01:58 +0200</pubDate>
-        </item>
-        <item>
-            <title>Videoreview - De beste Mini-ITX Game PC met Next-Gen hardware!</title>
-            <link>https://tweakers.net/video/19880/de-beste-mini-itx-game-pc-met-next-gen-hardware.html</link>
-            <description>We hebben het mini-ITX-gamesysteem geheel vernieuwd. Daarbij is de videokaart een stuk krachtiger geworden en hebben we een nog compactere behuizing gekozen. Met dit systeem is het mogelijk de nieuwste games op wqhd (1440p) of zelfs 4k te spelen, en dat met een behuizing die ruim 40 procent kleiner is dan de vorige, met een volume van slechts elf liter.</description>
-            <author>Mark van der Kruit</author>
-            <category>Videoreview / Computers / Behuizingen</category>
-            <comments>https://tweakers.net/video/19880/de-beste-mini-itx-game-pc-met-next-gen-hardware.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/video/19880</guid>
-            <pubDate>Tue, 06 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Best Buy Guide - De beste mini-ITX-game-pc</title>
-            <link>https://tweakers.net/best-buy-guide/desktops/beste-mini-itx-game-pc</link>
-            <description>We hebben het mini-ITX-gamesysteem geheel vernieuwd. Daarbij is de videokaart een stuk krachtiger geworden en hebben we een nog compactere behuizing gekozen.</description>
-            <author>Willem de Moor</author>
-            <category>Best Buy Guide / Computers / Behuizingen</category>
-            <comments>https://tweakers.net/best-buy-guide/desktops/beste-mini-itx-game-pc#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/best-buy-guide/desktops/beste-mini-itx-game-pc</guid>
-            <pubDate>Tue, 06 May 2025 06:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>

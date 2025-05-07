@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 07 May 2025 11:53:59 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 07 May 2025 13:36:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,115 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Ford hikes Mustang Mach-E price due to Trump&#8217;s tariffs</title>
+		<link>https://techcrunch.com/2025/05/07/ford-hikes-mustang-mach-e-price-due-to-trumps-tariffs/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 13:27:24 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[Ford]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3004079</guid>
+
+					<description><![CDATA[Ford is raising the price of the all-electric Mustang Mach-E SUV and popular entry-level Maverick pickup by as much as $2,000 due to the import taxes President Donald Trump is placing on vehicles made in Mexico, according to Reuters. Higher prices could make it harder for traditional automakers like Ford to sell their EVs. Ford [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trump admin plans to shutter money-saving Energy Star program</title>
+		<link>https://techcrunch.com/2025/05/07/trump-admin-plans-to-shutter-money-saving-energy-star-program/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 13:20:45 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[energy efficiency]]></category>
+		<category><![CDATA[Energy Star]]></category>
+		<category><![CDATA[epa]]></category>
+		<category><![CDATA[Trump Administration]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3004064</guid>
+
+					<description><![CDATA[The program’s signature yellow labels appear on appliances and electronics for sale throughout the U.S.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Game, Sett, Funding: a startup building AI agents for game development emerges from stealth with $27M</title>
+		<link>https://techcrunch.com/2025/05/07/game-sett-funding-a-startup-building-ai-agents-for-game-development-emerges-from-stealth-with-27m/</link>
+		
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Bessemer Venture Partners]]></category>
+		<category><![CDATA[mobile game development]]></category>
+		<category><![CDATA[ai tools]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3001287</guid>
+
+					<description><![CDATA[Games drove the creation of GPU processors back in the 1990s, so it’s only fitting that artificial intelligence — the technology that GPUs are used to power nowadays — is making its way into nearly every aspect of video game design. In keeping with that trend, on Wednesday a startup called Sett — which is [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>VSCO is launching an AI-powered collaborative moodboard</title>
+		<link>https://techcrunch.com/2025/05/07/vsco-is-launching-an-ai-powered-collaborative-moodboard/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[moodboards]]></category>
+		<category><![CDATA[VSCO]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3003387</guid>
+
+					<description><![CDATA[Photo and video editing platform VSCO has launched an AI-powered collaborative moodboard to expand how its products are used by photographers and artists.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI data startup WisdomAI nabs $23M with a smart way to avoid hallucinations</title>
+		<link>https://techcrunch.com/2025/05/07/ai-data-startup-wisdomai-nabs-23m-with-a-smart-way-to-avoid-hallucinations/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[analytics]]></category>
+		<category><![CDATA[business intelligence]]></category>
+		<category><![CDATA[WisdomAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3003638</guid>
+
+					<description><![CDATA[Rubrik co-founder Soham Mazumdar  has a new data startup called Wisdom AI. It offers an agentic data analyst that works with structured, unstructured, even “dirty” data.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mark Zuckerberg&#8217;s AI ad tool sounds like a social media nightmare</title>
+		<link>https://techcrunch.com/2025/05/07/mark-zuckerbergs-ai-ad-tool-sounds-like-a-social-media-nightmare/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Adtech]]></category>
+		<category><![CDATA[Mark Zuckerberg]]></category>
+		<category><![CDATA[Meta]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3003955</guid>
+
+					<description><![CDATA[Tech executives have long talked about how AI is going to revolutionize the advertising industry. In particularly, Meta CEO Mark Zuckerberg has been quite vocal about how exactly he wants his company to lead the transformation. Speaking onstage at Stripe&#8217;s annual Sessions conference in San Francisco on Tuesday, Zuckerberg laid out his plans to automate [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Breathe lands $21M Series B to predict battery performance</title>
 		<link>https://techcrunch.com/2025/05/07/breathe-lands-21m-series-b-to-predict-battery-performance/</link>
 		
@@ -57,15 +166,15 @@
 		
 		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
 		<pubDate>Wed, 07 May 2025 12:16:00 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[AI]]></category>
+				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Generative AI]]></category>
 		<category><![CDATA[Netflix]]></category>
 		<category><![CDATA[streaming service]]></category>
-		<category><![CDATA[Generative AI]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3003858</guid>
 
-					<description><![CDATA[After hinting at a new AI-powered search experience during its recent earnings call, Netflix officially unveiled the feature at its tech and product event on Wednesday.&#160; This new search experience will utilize OpenAI’s ChatGPT to provide users with a conversational discovery experience. Users can enter their preferences using natural phrases like “I want something funny [&#8230;]]]></description>
+					<description><![CDATA[After hinting at a new AI-powered search experience during its recent earnings call, Netflix officially unveiled the feature at its tech and product event on Wednesday.  This new search experience will utilize OpenAI’s ChatGPT to provide users with a conversational discovery experience. Users can enter their preferences using natural phrases like “I want something funny [&#8230;]]]></description>
 		
 		
 		
@@ -76,14 +185,14 @@
 		
 		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
 		<pubDate>Wed, 07 May 2025 12:15:00 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Apps]]></category>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
 		<category><![CDATA[Netflix]]></category>
-		<category><![CDATA[streaming service]]></category>
 		<category><![CDATA[short form video]]></category>
+		<category><![CDATA[streaming service]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3003771</guid>
 
-					<description><![CDATA[Netflix announced on Wednesday that it’s currently testing a short-form video feature, signaling that even a streaming giant with over 300 million subscribers is concerned about losing viewers’ time spent on mobile to apps like TikTok, YouTube Shorts, and Instagram Reels. The company debuted the feature at its first-ever product and tech event, where it [&#8230;]]]></description>
+					<description><![CDATA[Netflix announced on Wednesday that it’s testing a short-form video feature, signaling that even a streaming giant with over 300 million subscribers is concerned about losing viewers’ time spent on mobile to apps like TikTok, YouTube Shorts, and Instagram Reels. The company debuted the feature at its first-ever product and tech event, where it also [&#8230;]]]></description>
 		
 		
 		
@@ -100,7 +209,7 @@
 		<category><![CDATA[Ulili Onovakpuri]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3004039</guid>
 
-					<description><![CDATA[Kapor Capital’s managing partner Ulili Onovakpuri said yesterday that she is leaving the firm.  Onovakpuri started as a principal at Kapor Capital more than a decade ago, and rose through the ranks to become managing partner, and eventually (with Brian Dixon) took over the reins from the firm’s co-founders Mitch Kapor and Freada Kapor Klein.  [&#8230;]]]></description>
+					<description><![CDATA[Kapor Capital’s managing partner Ulili Onovakpuri said yesterday that she is leaving the firm.&#160; Onovakpuri started as a principal at Kapor Capital more than a decade ago, and rose through the ranks to become managing partner, and eventually (with Brian Dixon) took over the reins from the firm’s co-founders Mitch Kapor and Freada Kapor Klein.&#160; [&#8230;]]]></description>
 		
 		
 		
@@ -278,108 +387,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3003611</guid>
 
 					<description><![CDATA[Like many leaders in tech, Arvind Krishna, the CEO of IBM, thinks federal R&#38;D funding for AI and related technologies should be increased — not the other way around. &#8220;We have been an extremely strong advocate — and this is both the company and me personally — on that federally funded R&#38;D should be increased,&#8221; [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Reddit will tighten verification to keep out human-like AI bots</title>
-		<link>https://techcrunch.com/2025/05/06/reddit-will-tighten-verification-to-keep-out-human-like-ai-bots/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 19:47:41 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[ai bots]]></category>
-		<category><![CDATA[Reddit]]></category>
-		<category><![CDATA[social media]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003697</guid>
-
-					<description><![CDATA[Redditors around the world were scandalized last week after learning that a team of researchers released a swarm of AI-powered, human-impersonating bots on the &#8220;Change My View&#8221; subreddit. The large-scale experiment was designed to explore just how persuasive AI can be. The bots posted over 1,700 comments, adopting personas like abuse survivors or controversial identities [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Patreon&#8217;s app can now accept web payments after US App Store changes</title>
-		<link>https://techcrunch.com/2025/05/06/patreons-app-can-now-accept-web-payments-after-u-s-app-store-changes/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 19:22:40 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[app store]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Creators]]></category>
-		<category><![CDATA[Patreon]]></category>
-		<category><![CDATA[payments]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003595</guid>
-
-					<description><![CDATA[Creator platform Patreon has rolled out an updated version of its app that now allows users to make purchases via the web, in the wake of the Apple-Epic court ruling that forced Apple to allow app developers to include links to alternative forms of payment without being subject to Apple&#8217;s commission. Previously, on version 125.4.1 [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Amazon-owned Zoox issues recall following robotaxi crash</title>
-		<link>https://techcrunch.com/2025/05/06/amazon-owned-zoox-issues-recall-following-robotaxi-crash/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 19:06:45 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[autonomous vehicles]]></category>
-		<category><![CDATA[robotaxis]]></category>
-		<category><![CDATA[zoox]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003619</guid>
-
-					<description><![CDATA[Zoox, the autonomous vehicle company owned by Amazon, paused its driverless testing program for more than a week and issued a voluntary recall of its software following a crash in Las Vegas, according to the company and a filing with federal safety regulators. The April 8 crash, which involved an unoccupied Zoox vehicle and a [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TechCrunch Sessions: AI welcomes Tanka CEO Kisson Lin to talk AI-native startups</title>
-		<link>https://techcrunch.com/2025/05/06/techcrunch-sessions-ai-welcomes-tanka-ceo-kisson-lin-to-talk-ai-native-startups/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 18:55:10 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[TechCrunch Sessions: AI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003264</guid>
-
-					<description><![CDATA[We&#8217;re ecstatic to announce that Kisson Lin, founder and CEO of Tanka, will be joining us at TechCrunch Sessions: AI for a provocative — and instructive — interview titled &#8220;Your Next Co-Founder Will Be AI.&#8221; She&#8217;s among the many excellent speakers joining the event June 5 at UC Berkeley&#8217;s Zellerbach Hall, and there&#8217;s still plenty [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>FutureHouse previews an AI tool for &#8216;data-driven&#8217; biology discovery</title>
-		<link>https://techcrunch.com/2025/05/06/futurehouse-previews-an-ai-tool-for-data-driven-biology-discovery/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 17:41:45 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[futurehouse]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003528</guid>
-
-					<description><![CDATA[FutureHouse, an Eric Schmidt-backed nonprofit that aims to build an &#8220;AI scientist&#8221; within the next decade,&#160;has released a new tool that it claims can help support &#8220;data-driven discovery&#8221; in biology. The new tool comes just a week after FutureHouse launched its API and platform. The tool, called Finch, takes in biology data (primarily in the [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Amazon Kindle&#8217;s iOS app adds new &#8216;Get Book&#8217; button following Apple payments ruling</title>
-		<link>https://techcrunch.com/2025/05/06/amazon-kindles-ios-app-adds-new-get-book-button-following-apple-payments-ruling/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 17:34:31 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Amazon]]></category>
-		<category><![CDATA[Kindle]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003571</guid>
-
-					<description><![CDATA[Thanks to a recent ruling that ordered Apple to stop charging a 27% commission on purchases through iPhone apps, Amazon&#8217;s Kindle iOS app now has a &#8220;Get Book&#8221; button that makes it easier to buy titles. “We regularly make improvements to our apps to help ensure we are providing customers the most convenient experience possible,” Amazon [&#8230;]]]></description>
 		
 		
 		
