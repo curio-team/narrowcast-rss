@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 08 May 2025 12:36:08 +0200</pubDate>
-        <lastBuildDate>Thu, 08 May 2025 12:36:08 +0200</lastBuildDate>
+        <pubDate>Thu, 08 May 2025 13:31:04 +0200</pubDate>
+        <lastBuildDate>Thu, 08 May 2025 13:31:04 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,9 +18,29 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
+            <title>Software-update - Home Assistant Core 2025.5.0</title>
+            <link>https://tweakers.net/downloads/72592/home-assistant-core-202550.html</link>
+            <description>Versie 2025.5.0 van Home Assistant Core is uitgebracht. Home Assistant Core is een opensourceplatform voor home-automation gemaakt in Python 3. Het ondersteunt het detecteren van apparaten zoals Philips Hue, Belkin WeMo-schakelaars, Mr. Coffee-koffiezetapparaten, de slimme schakelaars van IKEA en het MQTT-protocol. Daarnaast kan het waar mogelijk deze apparaten aansturen en automatisering toepassen. Voor meer informatie over Home Assistant verwijzen we naar deze pagina en ons eigen forum. De volledige releasenotes voor deze uitgave zijn hier te vinden. Dit is de aankondiging daaruit: 2025.5: Two Million Strong and Getting Better</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72592/home-assistant-core-202550.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72592</guid>
+            <pubDate>Thu, 08 May 2025 13:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Tweede trailer Grand Theft Auto VI is binnen dag bijna half miljard keer bekeken</title>
+            <link>https://tweakers.net/nieuws/234752/tweede-trailer-grand-theft-auto-vi-is-binnen-dag-bijna-half-miljard-keer-bekeken.html</link>
+            <description>De tweede trailer van Grand Theft Auto VI werd binnen een dag tijd bijna 475 miljoen keer bekeken. Dat stelt maker Rockstar Games, waarbij het zich baseert op views op alle platformen waar de trailer is verschenen.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/234752/tweede-trailer-grand-theft-auto-vi-is-binnen-dag-bijna-half-miljard-keer-bekeken.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234752</guid>
+            <pubDate>Thu, 08 May 2025 12:57:49 +0200</pubDate>
+        </item>
+        <item>
             <title>Nintendo verwacht Switch 2 in eerste jaar 15 miljoen keer te verkopen</title>
             <link>https://tweakers.net/nieuws/234748/nintendo-verwacht-switch-2-in-eerste-jaar-15-miljoen-keer-te-verkopen.html</link>
-            <description>Nintendo verwacht dat het zijn nieuwe Switch 2-console 15 miljoen keer kan verkopen in fiscaal jaar 2026. Het fiscale jaar van Nintendo loopt van 1 april 2025 tot 31 maart 2026. De Nintendo Switch is in zijn gehele levensduur ruim 152 miljoen keer verkocht.</description>
+            <description>Nintendo verwacht dat het zijn fiscale jaar 2026 15 miljoen exemplaren van de nieuwe Switch 2-console gaat verkopen. Het fiscale jaar van Nintendo loopt van 1 april 2025 tot 31 maart 2026. De Nintendo Switch is in zijn gehele levensduur ruim 152 miljoen keer verkocht.</description>
             <author>Eveline Meijer</author>
             <category>Nieuws / Gaming / Consoles</category>
             <comments>https://tweakers.net/nieuws/234748/nintendo-verwacht-switch-2-in-eerste-jaar-15-miljoen-keer-te-verkopen.html#reacties</comments>
@@ -28,12 +48,12 @@
             <pubDate>Thu, 08 May 2025 11:58:17 +0200</pubDate>
         </item>
         <item>
-            <title>Driver-update - AMD Radeon Software Adrenalin Edition 25.6.1</title>
-            <link>https://tweakers.net/downloads/72588/amd-radeon-software-adrenalin-edition-2561.html</link>
+            <title>Driver-update - AMD Radeon Software Adrenalin Edition 25.5.1</title>
+            <link>https://tweakers.net/downloads/72588/amd-radeon-software-adrenalin-edition-2551.html</link>
             <description>AMD heeft een nieuwe versie van zijn Radeon Software Adrenalin Edition-drivers uitgebracht. De drivers zijn geschikt voor de RX 5000-, RX 6000, RX 7000 en RX9000-serie. In versie 25.5.1 heeft AMD onder meer verbeteringen aangebracht voor de spellen Doom: The Dark Ages, F1 25, Ghost of Tsushima, Frostpunk 2, Everspace 2, Fort Solis, Warhammer 40,000: Darktide, The Finals en Influx Redux. Ook zijn er weer diverse problemen verholpen. De complete changelog voor deze uitgave kan hieronder worden gevonden. New Game Support</description>
             <author>Bart van Klaveren</author>
             <category>Driver</category>
-            <comments>https://tweakers.net/downloads/72588/amd-radeon-software-adrenalin-edition-2561.html#reacties</comments>
+            <comments>https://tweakers.net/downloads/72588/amd-radeon-software-adrenalin-edition-2551.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72588</guid>
             <pubDate>Thu, 08 May 2025 11:57:45 +0200</pubDate>
         </item>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/234688/pegasus-maker-is-schuldig-aan-hack-whatsapp-en-moet-168-miljoen-dollar-betalen.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234688</guid>
             <pubDate>Wed, 07 May 2025 11:58:25 +0200</pubDate>
-        </item>
-        <item>
-            <title>Foto&#039;s tonen Xbox-handheld die Microsoft met ASUS maakt</title>
-            <link>https://tweakers.net/nieuws/234690/fotos-tonen-xbox-handheld-die-microsoft-met-asus-maakt.html</link>
-            <description>Er zijn foto&#039;s verschenen van de Xbox-handheld waaraan Microsoft werkt met ASUS. Die komen van keuringsinstantie FCC, die ze vermoedelijk per ongeluk online heeft gezet. Ook zijn er wat specs bekend.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Gaming / Consoles</category>
-            <comments>https://tweakers.net/nieuws/234690/fotos-tonen-xbox-handheld-die-microsoft-met-asus-maakt.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234690</guid>
-            <pubDate>Wed, 07 May 2025 11:50:46 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Clonezilla 3.2.1-28</title>
-            <link>https://tweakers.net/downloads/72572/clonezilla-321-28.html</link>
-            <description>Clonezilla is een opensourceprogramma waarmee diskimages kunnen worden gemaakt. Het is onder andere mogelijk om back-ups van partities of van de hele harde schijf te maken, of een kopie van een harde schijf: een zogeheten kloon. Clonezilla is daarmee een opensourcevariant van Macrium Reflect en Acronis True Image. Het geheel is gebaseerd op een Debian-distributie en het maakt gebruik van DRBL, Partclone en udpcast. Clonezilla live is bedoeld voor losse computers, terwijl er met Clonezilla server tot wel veertig computers tegelijk van een image voorzien kunnen worden. Met versienummer 3.2.1-28 is een nieuwe stabiele uitgave van Clonezilla verschenen en de changelog van die versie ziet er als volgt uit: Enhancements and changes</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72572/clonezilla-321-28.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72572</guid>
-            <pubDate>Wed, 07 May 2025 10:26:29 +0200</pubDate>
         </item>
     </channel>
 </rss>
