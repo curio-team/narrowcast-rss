@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 08 May 2025 09:31:01 +0200</pubDate>
-        <lastBuildDate>Thu, 08 May 2025 09:31:01 +0200</lastBuildDate>
+        <pubDate>Thu, 08 May 2025 10:36:02 +0200</pubDate>
+        <lastBuildDate>Thu, 08 May 2025 10:36:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>UniFi Protect-camera&#039;s van Ubiquiti zijn op afstand over te nemen via lek</title>
+            <link>https://tweakers.net/nieuws/234742/unifi-protect-cameras-van-ubiquiti-zijn-op-afstand-over-te-nemen-via-lek.html</link>
+            <description>De firmware van de UniFi Protect-camera&#039;s bevatten een kritiek lek, waarschuwt maker Ubiquiti. Het gaat om een heapbuffer-overflowfout, die misbruikt kan worden om op afstand eigen code uit te voeren.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/234742/unifi-protect-cameras-van-ubiquiti-zijn-op-afstand-over-te-nemen-via-lek.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234742</guid>
+            <pubDate>Thu, 08 May 2025 10:30:22 +0200</pubDate>
+        </item>
+        <item>
+            <title>Soundcore kondigt Liberty 5-oortjes en open-ear AeroClip aan</title>
+            <link>https://tweakers.net/nieuws/234740/soundcore-kondigt-liberty-5-oortjes-en-open-ear-aeroclip-aan.html</link>
+            <description>Soundcore heeft twee nieuwe oortjes aangekondigd. Het gaat om de Liberty 5, de opvolger van de Liberty 4 en Liberty 4NC, en de AeroClip-clip-on-open-ears. De beide oortjes zijn per direct te koop.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / Beeld en geluid / Oordopjes</category>
+            <comments>https://tweakers.net/nieuws/234740/soundcore-kondigt-liberty-5-oortjes-en-open-ear-aeroclip-aan.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234740</guid>
+            <pubDate>Thu, 08 May 2025 10:24:11 +0200</pubDate>
+        </item>
         <item>
             <title>Ransomwaregroepering LockBit is zelf slachtoffer van hack</title>
             <link>https://tweakers.net/nieuws/234738/ransomwaregroepering-lockbit-is-zelf-slachtoffer-van-hack.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/234676/microsoft-introduceert-kleinere-en-goedkopere-surface-pro-en-surface-laptop.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234676</guid>
             <pubDate>Wed, 07 May 2025 08:32:24 +0200</pubDate>
-        </item>
-        <item>
-            <title>Firmware-update - Nvidia Shield TV 9.2.1</title>
-            <link>https://tweakers.net/downloads/72570/nvidia-shield-tv-921.html</link>
-            <description>Nvidia heeft een nieuwe versie van de firmware voor de Nvidia Shield TV&#039;s uitgebracht. Deze mediaplayers en consoles zijn gebaseerd op Android TV, waarmee games gestreamd kunnen worden vanaf een computer of GeForce Now, 4k-video&#039;s afgespeeld kunnen worden en verschillende apps gebruikt kunnen worden. De changelog voor deze uitgave laat de volgende verzameling aan veranderingen en verbeteringen zien: Shield Experience Upgrade 9.2.1</description>
-            <author>Bart van Klaveren</author>
-            <category>Firmware</category>
-            <comments>https://tweakers.net/downloads/72570/nvidia-shield-tv-921.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72570</guid>
-            <pubDate>Wed, 07 May 2025 08:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>IKEA en Sonos stoppen met het maken van Symfonisk-speakers</title>
-            <link>https://tweakers.net/nieuws/234674/ikea-en-sonos-stoppen-met-het-maken-van-symfonisk-speakers.html</link>
-            <description>IKEA en Sonos hebben hun samenwerking stopgezet. Dat bevestigt de speakerfabrikant tegenover techwebsite The Verge. De Symfonisk-speakers van de twee bedrijven verdwijnen uit de winkels, hoewel bestaande producten wel software-updates blijven ontvangen.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Beeld en geluid / Speakers</category>
-            <comments>https://tweakers.net/nieuws/234674/ikea-en-sonos-stoppen-met-het-maken-van-symfonisk-speakers.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234674</guid>
-            <pubDate>Wed, 07 May 2025 07:30:44 +0200</pubDate>
         </item>
     </channel>
 </rss>
