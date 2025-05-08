@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 07 May 2025 14:28:48 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 08 May 2025 07:25:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,362 +28,369 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>CrowdStrike says it will lay off 500 workers</title>
-		<link>https://techcrunch.com/2025/05/07/crowdstrike-says-it-will-lay-off-500-workers/</link>
+		<title>Instacart CEO Fidji Simo is joining OpenAI</title>
+		<link>https://techcrunch.com/2025/05/07/instacart-ceo-fidji-simo-is-joining-openai/</link>
 		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 14:25:32 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[CrowdStrike]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[infosec]]></category>
-		<category><![CDATA[Layoffs]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3004147</guid>
-
-					<description><![CDATA[The cybersecurity company said it will lay off 5% of its global workforce. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The web series is back – only this time, they’re TikToks</title>
-		<link>https://techcrunch.com/2025/05/07/the-web-series-is-back-only-this-time-theyre-tiktoks/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 14:23:29 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[creator economy]]></category>
-		<category><![CDATA[streaming]]></category>
-		<category><![CDATA[TikTok]]></category>
-		<category><![CDATA[trends]]></category>
-		<category><![CDATA[web series]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3004088</guid>
-
-					<description><![CDATA[“Day 25 of starting over my whole entire life,” Raegan Lynch narrates over a short video. “Right now, I’m wandering around the city I just moved to, in a country I’d never seen, all by myself after my relationship ended, and I had to leave my old life behind.” It’s a pretty enticing hook, which [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mistral claims its newest AI model delivers leading performance for the price</title>
-		<link>https://techcrunch.com/2025/05/07/mistral-claims-its-newest-ai-model-delivers-leading-performance-for-the-price/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 14:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 08 May 2025 06:30:56 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[mistral]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3004102</guid>
+		<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[Fidji Simo]]></category>
+		<category><![CDATA[Instacart]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[people moves]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3004650</guid>
 
-					<description><![CDATA[French AI startup Mistral is releasing a new AI model, Mistral Medium 3, that&#8217;s focused on efficiency without compromising performance. Available in Mistral&#8217;s API priced at $0.40 per million input tokens and $20.80 per million output tokens, Mistral Medium 3 performs &#8220;at or above&#8221; 90% of Anthropic&#8217;s costlier Claude Sonnet 3.7 model on &#8220;benchmarks across [&#8230;]]]></description>
+					<description><![CDATA[Simo, already a board member at OpenAI, will transition out of Instacart over the next few months and join the AI company full-time as Application CEO.]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Spotify&#8217;s latest update gives users more control over their listening experience</title>
-		<link>https://techcrunch.com/2025/05/07/spotifys-latest-update-gives-users-more-control-over-their-listening-experience/</link>
+		<title>Fastino trains AI models on cheap gaming GPUs and just raised $17.5M led by Khosla</title>
+		<link>https://techcrunch.com/2025/05/07/fastino-trains-ai-models-on-cheap-gaming-gpus-and-just-raised-17-5m-led-by-khosla/</link>
 		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 13:51:31 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3004091</guid>
+		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 21:37:38 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Fastino]]></category>
+		<category><![CDATA[Khosla Ventures]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3004557</guid>
 
-					<description><![CDATA[Spotify on Wednesday announced an update to its app designed to give users more control over their listening experience and recommendations. The refreshed experience introduces a handful of new features that will roll out gradually to Spotify users and Premium subscribers, including those to help you manage your Queue, your current listening experience, aid with [&#8230;]]]></description>
+					<description><![CDATA[Tech giants like to boast about trillion-parameter AI models that require massive and expensive GPU clusters. But Fastino is taking a different approach. The Palo Alto-based startup says it has invented a new kind of AI model architecture that’s intentionally small and task-specific. The models are so small they’re trained with low-end gaming GPUs worth [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Ford hikes Mustang Mach-E price due to Trump&#8217;s tariffs</title>
-		<link>https://techcrunch.com/2025/05/07/ford-hikes-mustang-mach-e-price-due-to-trumps-tariffs/</link>
+		<title>Stripe unveils AI foundation model for payments, reveals ‘deeper partnership’ with Nvidia</title>
+		<link>https://techcrunch.com/2025/05/07/stripe-unveils-ai-foundation-model-for-payments-reveals-deeper-partnership-with-nvidia/</link>
+		
+		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 21:31:20 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[payments]]></category>
+		<category><![CDATA[stripe]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3004559</guid>
+
+					<description><![CDATA[Fintech giant Stripe announced Wednesday a slew of new product launches at its annual Stripe Sessions user event. The highlights include a new AI foundation model for payments; stablecoin-powered accounts; a new Orchestration offering, and a recent migration with chip behemoth Nvidia. Stripe’s payments foundation model has been trained on tens of billions of transactions, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>A comprehensive list of 2025 tech layoffs</title>
+		<link>https://techcrunch.com/2025/05/07/tech-layoffs-2025-list/</link>
+		
+		<dc:creator><![CDATA[Cody Corrall, Alyssa Stringer, Kate Park]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 21:26:44 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Layoffs]]></category>
+		<category><![CDATA[tech layoffs]]></category>
+		<category><![CDATA[TechCrunch 2023 Recap]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2607662</guid>
+
+					<description><![CDATA[A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tesla&#8217;s &#8216;Robotaxi&#8217; and &#8216;Cybercab&#8217; trademarks hit roadblocks ahead of June launch</title>
+		<link>https://techcrunch.com/2025/05/07/teslas-robotaxi-and-cybercab-trademarks-hit-roadblocks-ahead-of-june-launch/</link>
 		
 		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 13:27:24 +0000</pubDate>
+		<pubDate>Wed, 07 May 2025 21:15:50 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[autonomous vehicles]]></category>
+		<category><![CDATA[avs]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[robotaxi]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3004397</guid>
+
+					<description><![CDATA[Tesla&#8217;s attempt to trademark the term &#8220;Robotaxi&#8221; in reference to its vehicles has been refused by the U.S. Patent and Trademark Office for being too generic, according to a new filing. Another application by Tesla to trademark the term &#8220;Robotaxi&#8221; for its upcoming ride-hailing service is still under examination by the office. In addition, applications [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI and the FDA are reportedly discussing AI for drug evaluations</title>
+		<link>https://techcrunch.com/2025/05/07/openai-and-the-fda-are-reportedly-discussing-ai-for-drug-evaluations/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 21:09:41 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[fda]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3004516</guid>
+
+					<description><![CDATA[OpenAI has met with officials from the U.S. Food and Drug Administration (FDA) to discuss the agency&#8217;s use of AI to speed up drug evaluations, Wired reported on Wednesday. According to the report, OpenAI and the FDA have discussed a project called cderGPT, which seems to be an AI tool for the Center for Drug [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Papal &#8216;conclave cam&#8217; is slow TV</title>
+		<link>https://techcrunch.com/2025/05/07/the-papal-conclave-cam-is-slow-tv/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 21:07:43 +0000</pubDate>
+				<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Pope]]></category>
+		<category><![CDATA[streaming]]></category>
+		<category><![CDATA[tv]]></category>
+		<category><![CDATA[YouTube]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3004415</guid>
+
+					<description><![CDATA[On YouTube, hundreds of thousands of viewers around the world are staring at an unmoving broadcast of the Sistine Chapel chimney. Occasionally, a seagull will swoop in and perch atop the roof for a few minutes. But for the most part, nothing happens. On Wednesday, the College of Cardinals started the process of picking the [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Delta’s game emulator becomes a Patreon-supported app after US App Store policy changes</title>
+		<link>https://techcrunch.com/2025/05/07/deltas-game-emulator-becomes-a-patreon-supported-app-after-us-app-store-policy-changes/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 20:44:20 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[app store]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[delta app]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3004451</guid>
+
+					<description><![CDATA[A game emulator called Delta is taking advantage of the recent court decision around Apple&#8217;s App Store to support its business by linking to its Patreon membership page. The update, approved Wednesday for release on the U.S. App Store, allows Delta users to join the Delta team&#8217;s Patreon directly from the mobile app, without giving [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Rove, founded by a 22-year-old, is helping Gen Z earn airline miles without credit cards</title>
+		<link>https://techcrunch.com/2025/05/07/rove-founded-by-a-22-year-old-is-helping-gen-z-earn-airline-miles-without-credit-cards/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 20:30:05 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[airline rewards]]></category>
+		<category><![CDATA[GenZ]]></category>
+		<category><![CDATA[travel]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3004485</guid>
+
+					<description><![CDATA[During his junior year study abroad, Max Morganroth, traveled to 30 countries, primarily flying in business and first class. His jet-setting was funded almost entirely by airline points he collected through strategic credit card applications and miles redemptions. Morganroth told TechCrunch that just about everyone he knew was &#8220;begging&#8221; him to teach them how to [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anthropic rolls out an API for AI-powered web search</title>
+		<link>https://techcrunch.com/2025/05/07/anthropic-rolls-out-an-api-for-ai-powered-web-search/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 20:28:34 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3004463</guid>
+
+					<description><![CDATA[Anthropic is launching a new API that allows its Claude AI models to search across the web. Developers using it can build Claude-powered apps that deliver up-to-date info, the company said in a press release published Wednesday. The rollout of the API comes as AI companies look to augment their models in various ways that [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Snap Map reaches new milestone of 400M monthly active users</title>
+		<link>https://techcrunch.com/2025/05/07/snap-map-reaches-new-milestone-of-400m-monthly-active-users/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 20:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Snap]]></category>
+		<category><![CDATA[Snap Map]]></category>
+		<category><![CDATA[Snapchat]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3004167</guid>
+
+					<description><![CDATA[Snapchat announced on Wednesday that Snap Map now has more than 400 million monthly active users, a new milestone for one of the app&#8217;s core features. Launched in 2017, Snap Map was originally a way for users to see their friends&#8217; locations and browse public snaps from around the world. Over time, the feature has [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Lucid Motors&#8217; Gravity SUV dealing with early &#8216;hiccups,&#8217; interim CEO says</title>
+		<link>https://techcrunch.com/2025/05/07/lucid-motors-gravity-suv-dealing-with-early-hiccups-interim-ceo-says/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 19:48:58 +0000</pubDate>
 				<category><![CDATA[Transportation]]></category>
 		<category><![CDATA[electric vehicles]]></category>
 		<category><![CDATA[EVs]]></category>
-		<category><![CDATA[Ford]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3004079</guid>
+		<category><![CDATA[Lucid Motors]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3004333</guid>
 
-					<description><![CDATA[Ford is raising the price of the all-electric Mustang Mach-E SUV and popular entry-level Maverick pickup by as much as $2,000 due to the import taxes President Donald Trump is placing on vehicles made in Mexico, according to Reuters. Higher prices could make it harder for traditional automakers like Ford to sell their EVs. Ford [&#8230;]]]></description>
+					<description><![CDATA[Lucid Motors has been working through some quality &#8220;hiccups&#8221; in the early stages of delivering its long-awaited electric SUV, according to interim CEO Marc Winterhoff. &#8220;It is true that we had some technical issues that we had to overcome around software&#8221; and the Gravity&#8217;s heads-up display, Winterhoff said on a conference call Tuesday. &#8220;There have [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Trump admin plans to shutter money-saving Energy Star program</title>
-		<link>https://techcrunch.com/2025/05/07/trump-admin-plans-to-shutter-money-saving-energy-star-program/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 13:20:45 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[energy efficiency]]></category>
-		<category><![CDATA[Energy Star]]></category>
-		<category><![CDATA[epa]]></category>
-		<category><![CDATA[Trump Administration]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3004064</guid>
-
-					<description><![CDATA[The program’s signature yellow labels appear on appliances and electronics for sale throughout the U.S.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Game, Sett, Funding: a startup building AI agents for game development emerges from stealth with $27M</title>
-		<link>https://techcrunch.com/2025/05/07/game-sett-funding-a-startup-building-ai-agents-for-game-development-emerges-from-stealth-with-27m/</link>
-		
-		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Gaming]]></category>
-		<category><![CDATA[Bessemer Venture Partners]]></category>
-		<category><![CDATA[mobile game development]]></category>
-		<category><![CDATA[ai tools]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3001287</guid>
-
-					<description><![CDATA[Games drove the creation of GPU processors back in the 1990s, so it’s only fitting that artificial intelligence — the technology that GPUs are used to power nowadays — is making its way into nearly every aspect of video game design. In keeping with that trend, on Wednesday a startup called Sett — which is [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>VSCO is launching an AI-powered collaborative moodboard</title>
-		<link>https://techcrunch.com/2025/05/07/vsco-is-launching-an-ai-powered-collaborative-moodboard/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Adobe]]></category>
-		<category><![CDATA[moodboards]]></category>
-		<category><![CDATA[VSCO]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003387</guid>
-
-					<description><![CDATA[Photo and video editing platform VSCO has launched an AI-powered collaborative moodboard to expand how its products are used by photographers and artists.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI data startup WisdomAI nabs $23M with a smart way to avoid hallucinations</title>
-		<link>https://techcrunch.com/2025/05/07/ai-data-startup-wisdomai-nabs-23m-with-a-smart-way-to-avoid-hallucinations/</link>
+		<title>SpaceX’s Starlink has become a big benefactor of Trump’s tariff trade war, leaked memos show</title>
+		<link>https://techcrunch.com/2025/05/07/spacexs-starlink-has-become-a-big-benefactor-of-trumps-tariff-trade-war-leaked-memos-show/</link>
 		
 		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[analytics]]></category>
-		<category><![CDATA[business intelligence]]></category>
-		<category><![CDATA[WisdomAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003638</guid>
+		<pubDate>Wed, 07 May 2025 19:45:09 +0000</pubDate>
+				<category><![CDATA[Space]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[SpaceX]]></category>
+		<category><![CDATA[Starlink]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3004417</guid>
 
-					<description><![CDATA[Rubrik co-founder Soham Mazumdar  has a new data startup called Wisdom AI. It offers an agentic data analyst that works with structured, unstructured, even “dirty” data.]]></description>
+					<description><![CDATA[SpaceX’s satellite internet service, Starlink, is directly benefiting from the Trump administration&#8217;s tariff trade war, according to leaked State Department memos obtained by the Washington Post.   The memos show the U.S. pushing countries to adopt Starlink. Some show that countries believe that doing so could help lubricate their U.S. trade and tariff negotiations. One memo [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Mark Zuckerberg&#8217;s AI ad tool sounds like a social media nightmare</title>
-		<link>https://techcrunch.com/2025/05/07/mark-zuckerbergs-ai-ad-tool-sounds-like-a-social-media-nightmare/</link>
+		<title>Amazon debuts a warehouse robot with a sense of &#8216;touch&#8217;</title>
+		<link>https://techcrunch.com/2025/05/07/amazon-debuts-a-warehouse-robot-with-a-sense-of-touch/</link>
 		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 13:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 18:33:26 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3004329</guid>
+
+					<description><![CDATA[Amazon says that it has developed a new warehouse robot, Vulcan, that can &#8220;feel&#8221; some of the items it touches. The two-armed Vulcan, which can maneuver goods inside the storage compartments Amazon has in its warehouses, uses&#160;force sensors to help it know when it makes contact with an object. One arm rearranges items in a [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New court filing shows that Meta execs agreed that Facebook was losing to TikTok</title>
+		<link>https://techcrunch.com/2025/05/07/new-court-filing-shows-that-meta-execs-agreed-that-facebook-was-losing-to-tiktok/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 18:24:11 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
 		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Adtech]]></category>
-		<category><![CDATA[Mark Zuckerberg]]></category>
+		<category><![CDATA[antitrust]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[FTC]]></category>
+		<category><![CDATA[lawsuit]]></category>
 		<category><![CDATA[Meta]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003955</guid>
+		<category><![CDATA[TikTok]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3004279</guid>
 
-					<description><![CDATA[Tech executives have long talked about how AI is going to revolutionize the advertising industry. In particularly, Meta CEO Mark Zuckerberg has been quite vocal about how exactly he wants his company to lead the transformation. Speaking onstage at Stripe&#8217;s annual Sessions conference in San Francisco on Tuesday, Zuckerberg laid out his plans to automate [&#8230;]]]></description>
+					<description><![CDATA[Meta CEO Mark Zuckerberg, Instagram head Adam Mosseri, and other Meta execs thought that TikTok was beating Meta at its own game. That&#8217;s according to a new filing in the U.S. Federal Trade Commission&#8217;s antitrust lawsuit against the tech giant, published on Monday. The document, dated February 2022, includes conversations among a number of Meta [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Breathe lands $21M Series B to predict battery performance</title>
-		<link>https://techcrunch.com/2025/05/07/breathe-lands-21m-series-b-to-predict-battery-performance/</link>
+		<title>BluSmart investors propose $30M in new funding to revive the Uber rival</title>
+		<link>https://techcrunch.com/2025/05/07/blusmart-investors-propose-resolution-30m-in-new-funding-to-revive-the-uber-rival/</link>
 		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 12:20:00 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Batteries]]></category>
-		<category><![CDATA[Kinnevik]]></category>
-		<category><![CDATA[Software]]></category>
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 18:10:20 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[India]]></category>
 		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[lithium ion batteries]]></category>
-		<category><![CDATA[simulations]]></category>
-		<category><![CDATA[Lowercarbon Capital]]></category>
-		<category><![CDATA[Volvo Cars Tech Fund]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003769</guid>
+		<category><![CDATA[BluSmart]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3003604</guid>
 
-					<description><![CDATA[Breathe has developed a suite of tools that it says helps automakers and others get the most out of their batteries.]]></description>
+					<description><![CDATA[A group of investors are considering a plan to inject another $30 million into BluSmart in a bid to revive the Indian cab-hailing startup, which abruptly halted operations last month, TechCrunch has learned. The proposal from these existing investors has a catch: It&#8217;s contingent on BluSmart co-founder Anmol Singh Jaggi agreeing to resign. The proposed [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Netflix debuts its generative AI-powered search tool</title>
-		<link>https://techcrunch.com/2025/05/07/netflix-debuts-its-generative-ai-powered-search-tool/</link>
+		<title>OpenAI wants to team up with governments to grow AI infrastructure</title>
+		<link>https://techcrunch.com/2025/05/07/openai-wants-to-team-up-with-governments-to-grow-ai-infrastructure/</link>
 		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 12:16:00 +0000</pubDate>
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 17:58:05 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3004137</guid>
+
+					<description><![CDATA[OpenAI is launching a program, OpenAI for Countries, that the company says will enable it to build out the local infrastructure needed to better serve international AI customers. As a part of the new program, OpenAI will partner with governments to assist with efforts like building out data center capacity and customizing OpenAI&#8217;s products, including [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ServiceNow acquires Data.World months after snatching up Moveworks</title>
+		<link>https://techcrunch.com/2025/05/07/servicenow-acquires-data-world-two-months-after-acquiring-moveworks/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 17:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI agents]]></category>
+		<category><![CDATA[data catalog]]></category>
+		<category><![CDATA[data.world]]></category>
+		<category><![CDATA[ServiceNow]]></category>
+		<category><![CDATA[workflow automation]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3004068</guid>
+
+					<description><![CDATA[Enterprise workflow management platform ServiceNow on Wednesday announced its second AI-related acquisition this year. ServiceNow said that it has signed a definitive agreement to acquire Data.World, a cloud-native data catalog and data governance platform. Austin, Texas-based Data.World was founded in 2015 and previously raised more than $130 million in venture financing from firms such as [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple is looking to add AI search engines to Safari</title>
+		<link>https://techcrunch.com/2025/05/07/apple-is-looking-to-add-ai-search-engines-to-safari/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 16:53:37 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Netflix]]></category>
-		<category><![CDATA[streaming service]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003858</guid>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Perplexity]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3004251</guid>
 
-					<description><![CDATA[After hinting at a new AI-powered search experience during its recent earnings call, Netflix officially unveiled the feature at its tech and product event on Wednesday.  This new search experience will utilize OpenAI’s ChatGPT to provide users with a conversational discovery experience. Users can enter their preferences using natural phrases like “I want something funny [&#8230;]]]></description>
+					<description><![CDATA[Apple is looking to add AI search engines from OpenAI, Perplexity, and Anthropic to Safari, Bloomberg reported on Wednesday. Eddy Cue, Apple’s Senior Vice President of Services, made the statement during his testimony in the U.S. Justice Department’s lawsuit against Alphabet. Cue&#8217;s disclosure was part of his testimony regarding Apple and Google’s estimated $20 billion-a-year [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Netflix is getting into short videos with a new vertical feed for mobile</title>
-		<link>https://techcrunch.com/2025/05/07/netflix-is-getting-into-short-videos-with-a-new-vertical-feed-for-mobile/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 12:15:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Netflix]]></category>
-		<category><![CDATA[short form video]]></category>
-		<category><![CDATA[streaming service]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003771</guid>
-
-					<description><![CDATA[Netflix announced on Wednesday that it’s testing a short-form video feature, signaling that even a streaming giant with over 300 million subscribers is concerned about losing viewers’ time spent on mobile to apps like TikTok, YouTube Shorts, and Instagram Reels. The company debuted the feature at its first-ever product and tech event, where it also [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Kapor Capital’s managing partner Ulili Onovakpuri is leaving the firm</title>
-		<link>https://techcrunch.com/2025/05/07/kapor-capitals-managing-partner-ulili-onovakpuri-is-leaving-the-firm/</link>
-		
-		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 11:21:20 +0000</pubDate>
-				<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Kapor Capital]]></category>
-		<category><![CDATA[people moves]]></category>
-		<category><![CDATA[Ulili Onovakpuri]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3004039</guid>
-
-					<description><![CDATA[Kapor Capital’s managing partner Ulili Onovakpuri said yesterday that she is leaving the firm.&#160; Onovakpuri started as a principal at Kapor Capital more than a decade ago, and rose through the ranks to become managing partner, and eventually (with Brian Dixon) took over the reins from the firm’s co-founders Mitch Kapor and Freada Kapor Klein.&#160; [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ox Security lands a fresh $60M to scan for vulnerabilities in code</title>
-		<link>https://techcrunch.com/2025/05/07/ox-security-lands-a-fresh-60m-to-scan-for-vulnerabilities-in-code/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[ox security]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3002500</guid>
-
-					<description><![CDATA[As &#8220;vibe coding&#8221; gains in popularity and tech companies push devs in their employ to embrace generative AI tools, a platform that scans for vulnerabilities in AI-generated code has raised a fresh round of funding. Ox Security, which models risk across both AI- and human-produced code, on Wednesday announced that it closed a $60 million [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mitsubishi in talks to source its new EVs for Australia, New Zealand from Foxconn unit</title>
-		<link>https://techcrunch.com/2025/05/07/mitsubishi-in-talks-to-source-its-new-evs-for-australia-new-zealand-from-foxconn-unit/</link>
-		
-		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 10:19:59 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[electric vehicles]]></category>
-		<category><![CDATA[mitsubishi motors]]></category>
-		<category><![CDATA[Renault-Mitsubishi-Nissan]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3004021</guid>
-
-					<description><![CDATA[Mitsubishi Motors is in talks with Taiwan-based Foxconn's EV division to source an EV model for the Australia and New Zealand markets.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Amazon is working on an AI code generation tool</title>
-		<link>https://techcrunch.com/2025/05/07/amazon-is-working-on-an-ai-code-generating-tool/</link>
+		<title>Figma releases new AI-powered tools for creating sites, app prototypes, and marketing assets</title>
+		<link>https://techcrunch.com/2025/05/07/figma-releases-new-ai-powered-tools-for-creating-sites-app-prototypes-and-marketing-assets/</link>
 		
 		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 10:01:53 +0000</pubDate>
+		<pubDate>Wed, 07 May 2025 16:15:00 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI agents]]></category>
-		<category><![CDATA[Amazon]]></category>
-		<category><![CDATA[AWS]]></category>
-		<category><![CDATA[code generation]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3004023</guid>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Designers]]></category>
+		<category><![CDATA[developers]]></category>
+		<category><![CDATA[Figma]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3004026</guid>
 
-					<description><![CDATA[Amazon Web Services is building a new AI-powered code generation tool codenamed &#8220;Kiro,&#8221; Business Insider reported, citing internal documents it had viewed. The tool can use prompts and existing data to generate code in &#8220;near real-time&#8221; by connecting with AI agents, the report said. The tool is said to have web and desktop apps, multimodal [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI expects to cut share of revenue it pays Microsoft by 2030</title>
-		<link>https://techcrunch.com/2025/05/07/openai-expects-to-cut-share-of-revenue-it-pays-microsoft-by-2030/</link>
-		
-		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 07:47:42 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[revenue sharing]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3004008</guid>
-
-					<description><![CDATA[OpenAI currently has a deal to share 20% of revenue with Microsoft, but the AI company expects to cut that share to 10% by 2030, The Information reported. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Amid Greek tech boom, a prominent seed-stage firm locks down €75 million</title>
-		<link>https://techcrunch.com/2025/05/06/amid-greek-tech-boom-a-prominent-seed-stage-firm-locks-down-e75-million/</link>
-		
-		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 06:00:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Athens]]></category>
-		<category><![CDATA[Marathon Venture Partners]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[StrictlyVC]]></category>
-		<category><![CDATA[venture capital]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3002491</guid>
-
-					<description><![CDATA[Marathon Venture Capital, a venture firm in Athens that prides itself on being &#8220;day one partners to Greek tech partners,&#8221; just closed its newest fund with €75 million in capital commitments, according to partner Panos Papadopoulos. The vehicle brings the firm&#8217;s total assets under management to €175 million &#8212; a meaningful amount for an eight-year-old, [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hugging Face releases a free Operator-like agentic AI tool</title>
-		<link>https://techcrunch.com/2025/05/06/hugging-face-releases-a-free-operator-like-agentic-ai-tool/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 22:00:52 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[agents]]></category>
-		<category><![CDATA[Hugging Face]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3003792</guid>
-
-					<description><![CDATA[A team at Hugging Face has released a freely available, cloud-hosted computer-using AI &#8220;agent.&#8221; But be forewarned: It&#8217;s quite sluggish and occasionally makes mistakes. Hugging Face&#8217;s agent, called Open Computer Agent, is accessible via the web and can use a Linux virtual machine preloaded with several applications, including Firefox. Similar to OpenAI&#8217;s Operator, you can [&#8230;]]]></description>
+					<description><![CDATA[Design company Figma today announced multiple features, including AI-powered site and web app creation, a way for marketers to create assets in bulk, and a new drawing tool. With this launch, the company is taking on other creative solutions such as Canva and Adobe, along with AI-powered website and prototype creators such as WordPress, Wix, [&#8230;]]]></description>
 		
 		
 		
