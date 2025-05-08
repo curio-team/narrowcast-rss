@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 08 May 2025 15:36:02 +0200</pubDate>
-        <lastBuildDate>Thu, 08 May 2025 15:36:02 +0200</lastBuildDate>
+        <pubDate>Thu, 08 May 2025 16:31:01 +0200</pubDate>
+        <lastBuildDate>Thu, 08 May 2025 16:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Directory Opus 13.15</title>
+            <link>https://tweakers.net/downloads/72594/directory-opus-1315.html</link>
+            <description>GPSoftware heeft versie 13.14 van zijn bestandsmanager Directory Opus uitgebracht. Dit programma is in zekere zin vergelijkbaar met Total Commander, maar dan met uitgebreidere mogelijkheden over welke informatie precies moet worden weergegeven en op welke manier. Directory Opus is veelzijdig en extreem configureerbaar, zowel wat functionaliteit als wat uiterlijk betreft. Dat is meteen ook het grootste probleem, want het programma kan zeker op beginnende gebruikers complex overkomen. Het programma kan na registratie 60 dagen worden getest; daarna moet een licentie van 89 Australische dollar worden aangeschaft, wat neerkomt op ongeveer 55 euro. De changelog voor deze uitgave kan hieronder worden gevonden: Preferences</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72594/directory-opus-1315.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72594</guid>
+            <pubDate>Thu, 08 May 2025 16:14:02 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Deals - De beste elektronicadeals van week 19 2025</title>
+            <link>https://tweakers.net/plan/4404/de-beste-elektronicadeals-van-week-19-2025.html</link>
+            <description>De interessante prijsdalingen, cashbackacties, kortingscodes en comboaanbiedingen van week 19 van 2025, geselecteerd door het Pricewatch-team.</description>
+            <author>Tweakers Pricewatch</author>
+            <category>.deals</category>
+            <comments>https://tweakers.net/plan/4404/de-beste-elektronicadeals-van-week-19-2025.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/plan/4404</guid>
+            <pubDate>Thu, 08 May 2025 16:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Sony kondigt op 13 mei nieuwe Xperia 1-smartphone aan</title>
+            <link>https://tweakers.net/nieuws/234770/sony-kondigt-op-13-mei-nieuwe-xperia-1-smartphone-aan.html</link>
+            <description>Sony kondigt volgende week een nieuwe Xperia-smartphone aan, bevestigt het bedrijf. Het Japanse techbedrijf houdt op dinsdag een presentatie op YouTube. Er zijn verder nog weinig details over het toestel bekend.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/234770/sony-kondigt-op-13-mei-nieuwe-xperia-1-smartphone-aan.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234770</guid>
+            <pubDate>Thu, 08 May 2025 15:49:45 +0200</pubDate>
+        </item>
         <item>
             <title>Gerucht: Qualcomm Snapdragon 8 Elite Gen 2-chip krijgt 8 cores en 100Tops-npu</title>
             <link>https://tweakers.net/nieuws/234766/gerucht-qualcomm-snapdragon-8-elite-gen-2-chip-krijgt-8-cores-en-100tops-npu.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/234708/bungie-ontwikkelaars-vormen-nieuwe-playstation-liveservicestudio-teamlfg.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234708</guid>
             <pubDate>Wed, 07 May 2025 16:26:08 +0200</pubDate>
-        </item>
-        <item>
-            <title>EA verdiende nog nooit zoveel aan Sports-games</title>
-            <link>https://tweakers.net/nieuws/234696/ea-verdiende-nog-nooit-zoveel-aan-sports-games.html</link>
-            <description>Electronic Arts verdiende nog niet eerder zoveel met de levering van EA Sports-games dan in boekjaar 2025. Het bedrijf noemt geen exacte aantallen. In totaal verdiende EA bijna 7,5 miljard dollar met de verkoop van games en in-gamecontent.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/234696/ea-verdiende-nog-nooit-zoveel-aan-sports-games.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234696</guid>
-            <pubDate>Wed, 07 May 2025 16:13:23 +0200</pubDate>
-        </item>
-        <item>
-            <title>ASML en gemeente presenteren voorlopig plan voor grote uitbreiding bij Eindhoven</title>
-            <link>https://tweakers.net/nieuws/234706/asml-en-gemeente-presenteren-voorlopig-plan-voor-grote-uitbreiding-bij-eindhoven.html</link>
-            <description>De eerste ASML-werknemers beginnen mogelijk in 2028 al op het nieuwe ASML-terrein op de Brainport Industries Campus bij Eindhoven. Dat zeggen het bedrijf en de gemeente Eindhoven bij de presentatie van een voorlopig ontwerp stedenbouwkundig plan.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/234706/asml-en-gemeente-presenteren-voorlopig-plan-voor-grote-uitbreiding-bij-eindhoven.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234706</guid>
-            <pubDate>Wed, 07 May 2025 15:52:21 +0200</pubDate>
-        </item>
-        <item>
-            <title>ACM laat bedrijven zelf controleren met online tool of ze aan DSA moeten voldoen</title>
-            <link>https://tweakers.net/nieuws/234700/acm-laat-bedrijven-zelf-controleren-met-online-tool-of-ze-aan-dsa-moeten-voldoen.html</link>
-            <description>De ACM heeft de DSA-check gepubliceerd, een voorlichtingstool die bedrijven laat checken of ze aan de Digital Services Act moeten voldoen. De tool bestaat voor webwinkels, marktplaatsen en websites en apps met content die is gemaakt door gebruikers.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/234700/acm-laat-bedrijven-zelf-controleren-met-online-tool-of-ze-aan-dsa-moeten-voldoen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234700</guid>
-            <pubDate>Wed, 07 May 2025 15:11:53 +0200</pubDate>
         </item>
     </channel>
 </rss>
