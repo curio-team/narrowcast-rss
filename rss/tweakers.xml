@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 08 May 2025 13:31:04 +0200</pubDate>
-        <lastBuildDate>Thu, 08 May 2025 13:31:04 +0200</lastBuildDate>
+        <pubDate>Thu, 08 May 2025 14:41:02 +0200</pubDate>
+        <lastBuildDate>Thu, 08 May 2025 14:41:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,56 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Easee wil thuis- en (semi)publieke laadpalen gebruiken voor netstabiliteit</title>
+            <link>https://tweakers.net/nieuws/234684/easee-wil-thuis-en-semipublieke-laadpalen-gebruiken-voor-netstabiliteit.html</link>
+            <description>Easee wil zijn netwerk van 850.000 laadpalen gebruiken om het elektriciteitsnet te stabiliseren. Het gaat om laadpalen die thuis of (semi)publiekelijk gebruikt worden en een 4G-verbinding hebben. Het bedrijf noemt laden buiten piekuren en vehicle-to-grid als voorbeelden.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Beeld en geluid / Cartech</category>
+            <comments>https://tweakers.net/nieuws/234684/easee-wil-thuis-en-semipublieke-laadpalen-gebruiken-voor-netstabiliteit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234684</guid>
+            <pubDate>Thu, 08 May 2025 14:40:11 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gehackte leverancier betaalt losgeld, scholen VS nu individueel afgeperst</title>
+            <link>https://tweakers.net/nieuws/234762/gehackte-leverancier-betaalt-losgeld-scholen-vs-nu-individueel-afgeperst.html</link>
+            <description>PowerSchool, een grote Amerikaanse aanbieder van software en cloudoplossingen voor het onderwijs, betaalde vorig jaar losgeld aan cybercriminelen na een aanval. Nu worden scholen en schooldistricten in Canada en de VS individueel afgeperst.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/234762/gehackte-leverancier-betaalt-losgeld-scholen-vs-nu-individueel-afgeperst.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234762</guid>
+            <pubDate>Thu, 08 May 2025 14:38:19 +0200</pubDate>
+        </item>
+        <item>
+            <title>Youtuber toont vermeende Switch 2-chip: 8 Arm-cores op een aangepaste 8nm-node</title>
+            <link>https://tweakers.net/nieuws/234756/youtuber-toont-vermeende-switch-2-chip-8-arm-cores-op-een-aangepaste-8nm-node.html</link>
+            <description>YouTube-kanaal Geekerwan heeft een vermoedelijk Switch 2-moederbord bemachtigd en onder een microscoop gelegd. Daaruit wordt bevestigd dat de console een Nvidia Tegra T239-soc krijgt, zoals al de verwachting was. De Switch 2 verschijnt op 5 juni.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Gaming / Consoles</category>
+            <comments>https://tweakers.net/nieuws/234756/youtuber-toont-vermeende-switch-2-chip-8-arm-cores-op-een-aangepaste-8nm-node.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234756</guid>
+            <pubDate>Thu, 08 May 2025 14:25:50 +0200</pubDate>
+        </item>
+        <item>
+            <title>Palworld wijzigt gamemechanismen vanwege rechtszaak</title>
+            <link>https://tweakers.net/nieuws/234760/palworld-wijzigt-gamemechanismen-vanwege-rechtszaak.html</link>
+            <description>De game Palworld heeft de afgelopen maanden een paar wijzigingen gehad die het gevolg zijn van de rechtszaak die Nintendo en The Pokémon Company hebben aangespannen. Dat bevestigt maker Pocketpair op X. Ook kondigt het bedrijf een nieuwe wijziging aan.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/234760/palworld-wijzigt-gamemechanismen-vanwege-rechtszaak.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234760</guid>
+            <pubDate>Thu, 08 May 2025 14:04:03 +0200</pubDate>
+        </item>
+        <item>
+            <title>Samsung onthult de Galaxy S25 Edge op 13 mei</title>
+            <link>https://tweakers.net/nieuws/234754/samsung-onthult-de-galaxy-s25-edge-op-13-mei.html</link>
+            <description>Samsung gaat zijn nieuwe Galaxy S25 Edge op 13 mei aankondigen, zo heeft het bedrijf bekendgemaakt. Het bedrijf benadrukt nu al dat de telefoon veel gebruikmaakt van AI, bijvoorbeeld rondom mobiele fotografie.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/234754/samsung-onthult-de-galaxy-s25-edge-op-13-mei.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234754</guid>
+            <pubDate>Thu, 08 May 2025 13:42:34 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Home Assistant Core 2025.5.0</title>
             <link>https://tweakers.net/downloads/72592/home-assistant-core-202550.html</link>
@@ -366,56 +416,6 @@
             <comments>https://tweakers.net/nieuws/234682/amds-omzet-stijgt-door-hogere-vraag-naar-cpus-en-ai-chips.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234682</guid>
             <pubDate>Wed, 07 May 2025 13:14:18 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Lansweeper 12.4.1</title>
-            <link>https://tweakers.net/downloads/72576/lansweeper-1241.html</link>
-            <description>Om de apparaten in je netwerk in kaart te brengen, kun je gebruikmaken van Lansweeper. Dit programma werkt op een Windows-machine en is in staat om de aanwezige software en hardware te inventariseren in het netwerk, zonder dat daarvoor op elke computer een clientprogramma moet worden geïnstalleerd. Alle informatie is vervolgens via een webinterface te raadplegen. Lansweeper is beschikbaar als freeware voor kleine omgevingen, maar voor grotere omgevingen zal betaald moeten worden. Vanaf versie 10.4 wordt standaard de cloudversie geïnstalleerd. Wil je een lokale installatie, dan kun je deze instructies volgen. In de afgelopen paar versies zijn de volgende veranderingen en verbeteringen aangebracht: Lansweeper 12.4.1.2, LsPush 8.4.100.1, LsAgent Windows 12.2.0.1, SQL 1110</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72576/lansweeper-1241.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72576</guid>
-            <pubDate>Wed, 07 May 2025 13:13:06 +0200</pubDate>
-        </item>
-        <item>
-            <title>Samsung publiceert prijzen van tv&#039;s en soundbars voor 2025, S95F vanaf 2599 euro</title>
-            <link>https://tweakers.net/nieuws/234686/samsung-publiceert-prijzen-van-tvs-en-soundbars-voor-2025-s95f-vanaf-2599-euro.html</link>
-            <description>Samsung heeft de prijzen en beschikbaarheid bekendgemaakt van de tv&#039;s en soundbars voor 2025. De Neo QLED 8k-tv&#039;s zijn het duurst en te koop vanaf 3499 euro. Het S95F-4k-oledmodel is verkrijgbaar vanaf 2599 euro.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / Beeld en geluid / Televisies</category>
-            <comments>https://tweakers.net/nieuws/234686/samsung-publiceert-prijzen-van-tvs-en-soundbars-voor-2025-s95f-vanaf-2599-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234686</guid>
-            <pubDate>Wed, 07 May 2025 12:56:35 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google brengt eerder dan gepland Gemini 2.5 Pro-model voor ontwikkelaars uit</title>
-            <link>https://tweakers.net/nieuws/234692/google-brengt-eerder-dan-gepland-gemini-25-pro-model-voor-ontwikkelaars-uit.html</link>
-            <description>Google heeft eerder dan het zelf voor ogen had een variant van Gemini 2.5 Pro voor ontwikkelaars uitgebracht. Dat had moeten uitkomen met Google I/O over twee weken, maar de zoekgigant heeft het model nu alvast beschikbaar gemaakt.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / IT Pro / Software development</category>
-            <comments>https://tweakers.net/nieuws/234692/google-brengt-eerder-dan-gepland-gemini-25-pro-model-voor-ontwikkelaars-uit.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234692</guid>
-            <pubDate>Wed, 07 May 2025 12:39:05 +0200</pubDate>
-        </item>
-        <item>
-            <title>Firmware-update - SmartEVSE 3.8.1</title>
-            <link>https://tweakers.net/downloads/72574/smartevse-381.html</link>
-            <description>Als je zelf een laadpaal voor de elektrische auto in elkaar wilt knutselen, kun je meestal een hoop geld besparen. In dat geval heb je onder meer een controller nodig, bijvoorbeeld de opensource EVSE van fabrikant Stegen. Een randapparaat voor de SmartEVSE-controller is de Sensorbox: dit is een kastje dat de P1-telegrammen van je elektriciteitsmeter vertaalt naar modbusberichten, op basis waarvan de SmartEVSE zijn laadvermogen regelt. Voor diegenen die geen P1-aansluiting op hun elektriciteitsmeter hebben zijn er ook aansluitingen voor CT-klemmen aanwezig op de Sensorbox. Door een goede samenwerking tussen community en fabrikant worden de communityversies na verloop van tijd overgenomen door de fabrikant, als de stabiliteit in de community is bewezen. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Release v3.8.1</description>
-            <author>Bart van Klaveren</author>
-            <category>Firmware</category>
-            <comments>https://tweakers.net/downloads/72574/smartevse-381.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72574</guid>
-            <pubDate>Wed, 07 May 2025 12:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Pegasus-maker is schuldig aan hack WhatsApp en moet 168 miljoen dollar betalen</title>
-            <link>https://tweakers.net/nieuws/234688/pegasus-maker-is-schuldig-aan-hack-whatsapp-en-moet-168-miljoen-dollar-betalen.html</link>
-            <description>NSO Group, de maker van de Pegasus-spyware, is schuldig bevonden aan het hacken van WhatsApp. Een Amerikaanse jury draagt het Israëlische bedrijf daarom op om 168 miljoen dollar aan schadevergoedingen aan Meta te betalen. NSO Group gaat waarschijnlijk in beroep.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/234688/pegasus-maker-is-schuldig-aan-hack-whatsapp-en-moet-168-miljoen-dollar-betalen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234688</guid>
-            <pubDate>Wed, 07 May 2025 11:58:25 +0200</pubDate>
         </item>
     </channel>
 </rss>
