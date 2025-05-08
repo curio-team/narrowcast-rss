@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 08 May 2025 08:27:59 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 08 May 2025 10:07:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Apple tries to delay ruling that bars it from taking a cut on external app payments</title>
+		<link>https://techcrunch.com/2025/05/08/apple-urges-court-to-suspend-ruling-that-bars-it-from-taking-a-cut-on-external-app-payments/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta, Ram Iyer]]></dc:creator>
+		<pubDate>Thu, 08 May 2025 10:02:39 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[app store]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Epic Games]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3004673</guid>
+
+					<description><![CDATA[Apple is trying to delay a court ruling that forces the company to let iOS app developers accept payments via non-Apple systems and avoid paying a cut.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Bosch Ventures is turning its attention to North America with new $270M fund</title>
 		<link>https://techcrunch.com/2025/05/08/bosch-ventures-new-270m-fund-is-turning-its-attention-to-north-america/</link>
 		
@@ -373,24 +391,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3004068</guid>
 
 					<description><![CDATA[Enterprise workflow management platform ServiceNow on Wednesday announced its second AI-related acquisition this year. ServiceNow said that it has signed a definitive agreement to acquire Data.World, a cloud-native data catalog and data governance platform. Austin, Texas-based Data.World was founded in 2015 and previously raised more than $130 million in venture financing from firms such as [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple is looking to add AI search engines to Safari</title>
-		<link>https://techcrunch.com/2025/05/07/apple-is-looking-to-add-ai-search-engines-to-safari/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 16:53:37 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Perplexity]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3004251</guid>
-
-					<description><![CDATA[Apple is looking to add AI search engines from OpenAI, Perplexity, and Anthropic to Safari, Bloomberg reported on Wednesday. Eddy Cue, Apple’s Senior Vice President of Services, made the statement during his testimony in the U.S. Justice Department’s lawsuit against Alphabet. Cue&#8217;s disclosure was part of his testimony regarding Apple and Google’s estimated $20 billion-a-year [&#8230;]]]></description>
 		
 		
 		

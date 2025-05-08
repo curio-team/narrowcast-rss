@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 08 May 2025 11:31:03 +0200</pubDate>
-        <lastBuildDate>Thu, 08 May 2025 11:31:03 +0200</lastBuildDate>
+        <pubDate>Thu, 08 May 2025 12:36:08 +0200</pubDate>
+        <lastBuildDate>Thu, 08 May 2025 12:36:08 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Nintendo verwacht Switch 2 in eerste jaar 15 miljoen keer te verkopen</title>
+            <link>https://tweakers.net/nieuws/234748/nintendo-verwacht-switch-2-in-eerste-jaar-15-miljoen-keer-te-verkopen.html</link>
+            <description>Nintendo verwacht dat het zijn nieuwe Switch 2-console 15 miljoen keer kan verkopen in fiscaal jaar 2026. Het fiscale jaar van Nintendo loopt van 1 april 2025 tot 31 maart 2026. De Nintendo Switch is in zijn gehele levensduur ruim 152 miljoen keer verkocht.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / Gaming / Consoles</category>
+            <comments>https://tweakers.net/nieuws/234748/nintendo-verwacht-switch-2-in-eerste-jaar-15-miljoen-keer-te-verkopen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234748</guid>
+            <pubDate>Thu, 08 May 2025 11:58:17 +0200</pubDate>
+        </item>
+        <item>
+            <title>Driver-update - AMD Radeon Software Adrenalin Edition 25.6.1</title>
+            <link>https://tweakers.net/downloads/72588/amd-radeon-software-adrenalin-edition-2561.html</link>
+            <description>AMD heeft een nieuwe versie van zijn Radeon Software Adrenalin Edition-drivers uitgebracht. De drivers zijn geschikt voor de RX 5000-, RX 6000, RX 7000 en RX9000-serie. In versie 25.5.1 heeft AMD onder meer verbeteringen aangebracht voor de spellen Doom: The Dark Ages, F1 25, Ghost of Tsushima, Frostpunk 2, Everspace 2, Fort Solis, Warhammer 40,000: Darktide, The Finals en Influx Redux. Ook zijn er weer diverse problemen verholpen. De complete changelog voor deze uitgave kan hieronder worden gevonden. New Game Support</description>
+            <author>Bart van Klaveren</author>
+            <category>Driver</category>
+            <comments>https://tweakers.net/downloads/72588/amd-radeon-software-adrenalin-edition-2561.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72588</guid>
+            <pubDate>Thu, 08 May 2025 11:57:45 +0200</pubDate>
+        </item>
         <item>
             <title>Microsoft wint rechtszaak tegen FTC over overname Activision Blizzard</title>
             <link>https://tweakers.net/nieuws/234744/microsoft-wint-rechtszaak-tegen-ftc-over-overname-activision-blizzard.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/downloads/72572/clonezilla-321-28.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72572</guid>
             <pubDate>Wed, 07 May 2025 10:26:29 +0200</pubDate>
-        </item>
-        <item>
-            <title>Samsung-bedrijf Harman wil Denon, Marantz en Bowers &amp; Wilkins overnemen</title>
-            <link>https://tweakers.net/nieuws/234678/samsung-bedrijf-harman-wil-denon-marantz-en-bowers-en-wilkins-overnemen.html</link>
-            <description>Harman, een dochterbedrijf van Samsung Electronics, wil de audiomerken van Masimo overnemen. Het gaat om onder meer Denon, Marantz en Bowers &amp; Wilkins. De overname kost Harman 350 miljoen dollar. Masimo wil zich focussen op gezondheidsproducten.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / Beeld en geluid / Audio</category>
-            <comments>https://tweakers.net/nieuws/234678/samsung-bedrijf-harman-wil-denon-marantz-en-bowers-en-wilkins-overnemen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234678</guid>
-            <pubDate>Wed, 07 May 2025 09:19:29 +0200</pubDate>
-        </item>
-        <item>
-            <title>Minecraft ondersteunt geen VR meer</title>
-            <link>https://tweakers.net/nieuws/234680/minecraft-ondersteunt-geen-vr-meer.html</link>
-            <description>Minecraft biedt geen officiële ondersteuning voor virtual reality meer. Ontwikkelaar Mojang heeft ondersteuning voor VR-headsets uit de recentste versie van Minecraft Bedrock geschrapt. Het bedrijf zei in oktober al dat die ondersteuning dit jaar op zijn einde zou komen.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/234680/minecraft-ondersteunt-geen-vr-meer.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234680</guid>
-            <pubDate>Wed, 07 May 2025 09:06:02 +0200</pubDate>
         </item>
     </channel>
 </rss>
