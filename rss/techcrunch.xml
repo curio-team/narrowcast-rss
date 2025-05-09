@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 09 May 2025 02:24:27 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 09 May 2025 13:20:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,39 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Apple said to be developing new chips for smart glasses, Macs, and more</title>
+		<link>https://techcrunch.com/2025/05/09/apple-said-to-be-developing-new-chips-for-smart-glasses-macs-and-more/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Fri, 09 May 2025 13:20:40 +0000</pubDate>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Apple]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3005167</guid>
+
+					<description><![CDATA[Apple is reportedly developing new chips to drive smart glasses similar to Meta&#8217;s Ray-Ban Meta as well as more powerful Macs and AI servers. Bloomberg&#8217;s Mark Gurman notes that one of the chips is inspired by the Apple Watch&#8217;s low-power processors. Apple aims to put these chips into mass production with TSMC by the end [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Florida bill requiring encryption backdoors for social media accounts has failed</title>
+		<link>https://techcrunch.com/2025/05/09/florida-bill-requiring-encryption-backdoors-for-social-media-accounts-has-failed/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Fri, 09 May 2025 13:15:55 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[encryption]]></category>
+		<category><![CDATA[social media]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3005188</guid>
+
+					<description><![CDATA[The bill would have required social media companies create encryption backdoors to allow access to users' private information.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>This is your last chance to exhibit at TechCrunch Sessions: AI — don’t miss out</title>
 		<link>https://techcrunch.com/2025/05/09/this-is-your-last-chance-to-exhibit-at-techcrunch-sessions-ai-dont-miss-out/</link>
 		
@@ -332,43 +365,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3004751</guid>
 
 					<description><![CDATA[Elon Musk&#8217;s Starlink has received anticipated state approval in India, opening the door to enter the world&#8217;s second-biggest internet market after China —&#160;over three years after SpaceX&#8217;s previous attempt to launch its satellite-based broadband in the country eventually failed. On Wednesday, India&#8217;s Department of Telecommunications gave its nod to Starlink to start working toward its [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Sequoia leads $1.5B tender offer for sales automation startup Clay</title>
-		<link>https://techcrunch.com/2025/05/08/clay-authorizes-employee-tender-at-a-1-5b-valuation-led-by-sequoia/</link>
-		
-		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Thu, 08 May 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[liquidity]]></category>
-		<category><![CDATA[Sequoia]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[sales automation]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3004764</guid>
-
-					<description><![CDATA[It took seven years of hard work for Kareem Amin, co-founder and CEO of sales automation startup Clay, to see the company&#8217;s product finally take off in 2022. Since then, the startup has experienced explosive growth, reached a valuation exceeding a billion dollars, and expanded its employee count from low double digits to over 150. [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI launches a data residency program in Asia</title>
-		<link>https://techcrunch.com/2025/05/08/openai-launches-a-data-residency-program-in-asia/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Thu, 08 May 2025 14:34:37 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3004730</guid>
-
-					<description><![CDATA[OpenAI is introducing a new data residency program in Asia, the company announced Thursday, following the rollout of its data residency program in Europe in February. The new program, which is available for OpenAI&#8217;s ChatGPT Enterprise, ChatGPT Edu, and the OpenAI API, aims to help Asia-based organizations meet local data sovereignty requirements while using the [&#8230;]]]></description>
 		
 		
 		
