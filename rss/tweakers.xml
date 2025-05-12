@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 12 May 2025 13:31:00 +0200</pubDate>
-        <lastBuildDate>Mon, 12 May 2025 13:31:00 +0200</lastBuildDate>
+        <pubDate>Mon, 12 May 2025 14:41:00 +0200</pubDate>
+        <lastBuildDate>Mon, 12 May 2025 14:41:00 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Leaker: Samsung Galaxy Z Fold7 wordt met 3,9mm dunste foldable tot nu toe</title>
+            <link>https://tweakers.net/nieuws/234854/leaker-samsung-galaxy-z-fold7-wordt-met-3-komma-9mm-dunste-foldable-tot-nu-toe.html</link>
+            <description>De Samsung Galaxy Z Fold7 wordt breder en aanzienlijk dunner dan zijn voorganger. Dat blijkt uit afmetingen die zijn gedeeld door de X-gebruiker Ice Universe. De doorgaans goed geïnformeerde leaker zegt ook dat de aankomende smartphone aanzienlijk dunnere schermranden heeft.</description>
+            <author>Idriz Velghe</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/234854/leaker-samsung-galaxy-z-fold7-wordt-met-3-komma-9mm-dunste-foldable-tot-nu-toe.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234854</guid>
+            <pubDate>Mon, 12 May 2025 14:04:37 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Community - In april kwam 45 procent van ons nieuws van tips van lezers</title>
+            <link>https://tweakers.net/reviews/13264/in-april-kwam-45-procent-van-ons-nieuws-van-tips-van-lezers.html</link>
+            <description>In april kwam meer dan 45 procent van ons nieuws tot stand na tips van lezers. In dit artikel zetten we de cijfers uiteen.</description>
+            <author>Tijs Hofmans</author>
+            <category>.Community / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/reviews/13264/in-april-kwam-45-procent-van-ons-nieuws-van-tips-van-lezers.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13264</guid>
+            <pubDate>Mon, 12 May 2025 13:37:00 +0200</pubDate>
+        </item>
         <item>
             <title>Google test functie om bestanden te uploaden in Gemini Deep Research</title>
             <link>https://tweakers.net/nieuws/234852/google-test-functie-om-bestanden-te-uploaden-in-gemini-deep-research.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/234802/rechter-vs-laat-ai-deepfake-van-vermoord-slachtoffer-spreken-tijdens-rechtszaak.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234802</guid>
             <pubDate>Fri, 09 May 2025 14:16:59 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Serato DJ Lite / Pro 3.3.2</title>
-            <link>https://tweakers.net/downloads/72608/serato-dj-lite-pro-332.html</link>
-            <description>Serato heeft versie 3.3.2 van zijn diskjockeysoftware Serato DJ Pro en Serato DJ Lite uitgebracht. Beide programma&#039;s zijn de verdere ontwikkeling van Serato DJ en Serato DJ Intro, die op hun beurt weer de verdere ontwikkeling van Serato Scratch Live en ITCH waren. Een overzicht van de mogelijkheden en de verschillen tussen de Pro- en Lite-versies is op deze pagina te bekijken. De changelog voor Serato DJ Lite is op deze pagina te vinden; dit is de changelog voor Serato DJ Pro: New Features:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72608/serato-dj-lite-pro-332.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72608</guid>
-            <pubDate>Fri, 09 May 2025 13:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>OpenAI test GitHub-toegang voor ChatGPT-agents in nieuwe bèta</title>
-            <link>https://tweakers.net/nieuws/234798/openai-test-github-toegang-voor-chatgpt-agents-in-nieuwe-beta.html</link>
-            <description>OpenAI maakt het met een nieuwe bèta voor ChatGPT&#039;s deep research mogelijk voor AI-agents om direct in GitHub-repository&#039;s te zoeken. De functie wordt in eerste instantie onder Plus-, Pro- en Team-gebruikers getest en moet later voor de abonnementen Enterprise en Edu uitkomen.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/nieuws/234798/openai-test-github-toegang-voor-chatgpt-agents-in-nieuwe-beta.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234798</guid>
-            <pubDate>Fri, 09 May 2025 12:06:41 +0200</pubDate>
         </item>
     </channel>
 </rss>
