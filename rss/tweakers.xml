@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 09 May 2025 16:31:06 +0200</pubDate>
-        <lastBuildDate>Fri, 09 May 2025 16:31:06 +0200</lastBuildDate>
+        <pubDate>Mon, 12 May 2025 09:31:01 +0200</pubDate>
+        <lastBuildDate>Mon, 12 May 2025 09:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,276 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Microsoft Teams krijgt functie die schermopnames blokkeert tijdens meetings</title>
+            <link>https://tweakers.net/nieuws/234842/microsoft-teams-krijgt-functie-die-schermopnames-blokkeert-tijdens-meetings.html</link>
+            <description>Microsoft werkt aan een functie die voorkomt dat gebruikers schermopnames kunnen maken tijdens een vergadering. Dat moet het moeilijker maken om gevoelige informatie te verspreiden. De uitrol gaat naar verwachting van start in juli.</description>
+            <author>Idriz Velghe</author>
+            <category>Nieuws / Computers / Software</category>
+            <comments>https://tweakers.net/nieuws/234842/microsoft-teams-krijgt-functie-die-schermopnames-blokkeert-tijdens-meetings.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234842</guid>
+            <pubDate>Mon, 12 May 2025 09:05:06 +0200</pubDate>
+        </item>
+        <item>
+            <title>Preview - Panasonic introduceert tv-line-up voor 2025 met zes nieuwe modellen</title>
+            <link>https://tweakers.net/reviews/13254/panasonic-introduceert-tv-line-up-voor-2025-met-zes-nieuwe-modellen.html</link>
+            <description>Panasonic presenteert zijn tv-aanbod voor 2025 met zes nieuwe series, waaronder Z95B (oled) en W95B (miniled). De modellen komen in grotere formaten dan voorheen.</description>
+            <author>Sjef Weller</author>
+            <category>Preview / Beeld en geluid / Televisies</category>
+            <comments>https://tweakers.net/reviews/13254/panasonic-introduceert-tv-line-up-voor-2025-met-zes-nieuwe-modellen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13254</guid>
+            <pubDate>Mon, 12 May 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Shotcut 25.05</title>
+            <link>https://tweakers.net/downloads/72626/shotcut-2505.html</link>
+            <description>Shotcut is een uitgebreid opensource en crossplatform videobewerkingsprogramma voor Windows, Linux en macOS. Het maakt gebruik van FFmpeg en heeft daardoor ondersteuning voor de gangbaarste formaten audio en video. De bestanden worden niet geïmporteerd, maar worden in hun originele formaat bewerkt. Het kan overweg met verschillende sporen en binnen een project kan er een mix van formaten en resoluties worden gebruikt. In versie 25.05 zijn de volgende veranderingen en verbeteringen aangebracht: New Features</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72626/shotcut-2505.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72626</guid>
+            <pubDate>Mon, 12 May 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Youtuber: onuitgebrachte Nvidia Titan Ada blijkt efficiënter dan RTX 5090</title>
+            <link>https://tweakers.net/nieuws/234840/youtuber-onuitgebrachte-nvidia-titan-ada-blijkt-efficienter-dan-rtx-5090.html</link>
+            <description>Youtuber der8auer heeft een prototype van Nvidia&#039;s onuitgebrachte Titan Ada-videokaart getest. Eerder verschenen al afbeeldingen van de vermeende RTX 4090 Ti of Titan met een soortgelijke quadslot-gpu-koeler, maar nog nooit met de Titan-merknaam erop.</description>
+            <author>Idriz Velghe</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/234840/youtuber-onuitgebrachte-nvidia-titan-ada-blijkt-efficienter-dan-rtx-5090.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234840</guid>
+            <pubDate>Mon, 12 May 2025 08:42:55 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - RustDesk 1.4.0</title>
+            <link>https://tweakers.net/downloads/72624/rustdesk-140.html</link>
+            <description>Versie 1.4.0 van RustDesk is uitgekomen. RustDesk is een opensource alternatief voor programma&#039;s als TeamViewer en AnyDesk, met de mogelijkheid om een eigen relayserver op te zetten om zo een snellere verbinding te hebben en natuurlijk controle over je eigen data te houden. Installatie-instructies zijn beschikbaar voor Windows, Linux en Synology. De changelog voor deze uitgave kan hieronder worden gevonden. Added</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72624/rustdesk-140.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72624</guid>
+            <pubDate>Mon, 12 May 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - TagScanner 6.1.20</title>
+            <link>https://tweakers.net/downloads/72622/tagscanner-6120.html</link>
+            <description>Versie 6.1.20 van TagScanner is uitgekomen. Met dit programma kan de muziekcollectie worden beheerd en georganiseerd. TagScanner heeft uitgebreide mogelijkheden om zowel bestandsnamen als tags aan te passen en is daarmee vergelijkbaar met programma&#039;s als Tag&amp;Rename en MP3tag. Vrijwel alle bekende en minder bekende formaten worden ondersteund, waaronder mp3, ogg, wma, mp4, flac, ape, aac en wav. Informatie kan handmatig worden ingevoerd, uit de bestandsnaam worden gefilterd of uit een van de vele databases op internet worden getrokken. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 6.1.20:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72622/tagscanner-6120.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72622</guid>
+            <pubDate>Sun, 11 May 2025 16:25:03 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Wacup 1.99.32.21640 bèta</title>
+            <link>https://tweakers.net/downloads/72620/wacup-1993221640-beta.html</link>
+            <description>Wacup, wat kan worden uitgesproken als wake up, staat voor Winamp Community Update Project en is een gratis mediaspeler voor Windows 7 en hoger. Hoewel &#039;Community Project&#039; in de naam anders doet vermoeden is de software gratis en niet opensource. Wacup heeft qua uiterlijk veel weg van Winamp en kan ook overweg met plug-ins uit dat ecosysteem. De software is nog in ontwikkeling en kan als bèta worden gedownload. De changelog voor versie 1.99.32.21640 kan hieronder worden gevonden. Beta Version: 1.99.32.21640 (x64)</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72620/wacup-1993221640-beta.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72620</guid>
+            <pubDate>Sun, 11 May 2025 14:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google schikt voor 1,4 miljard dollar voor verzamelen van gegevens van Texanen</title>
+            <link>https://tweakers.net/nieuws/234838/google-schikt-voor-1-komma-4-miljard-dollar-voor-verzamelen-van-gegevens-van-texanen.html</link>
+            <description>Google heeft een schikking van 1,375 miljard dollar getroffen met Texas. Het bedrijf werd door de Amerikaanse staat beschuldigd voor het onterecht verzamelen van biometrische gegevens van miljoenen Texanen en het volgen van Chrome-gebruikers in de incognitomodus.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/234838/google-schikt-voor-1-komma-4-miljard-dollar-voor-verzamelen-van-gegevens-van-texanen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234838</guid>
+            <pubDate>Sun, 11 May 2025 13:06:09 +0200</pubDate>
+        </item>
+        <item>
+            <title>Firmware-update - Asuswrt-Merlin 3006.102.4</title>
+            <link>https://tweakers.net/downloads/72618/asuswrt-merlin-30061024.html</link>
+            <description>Asus gebruikt voor zijn routers, zoals de RT-AC68 en RT-AX88, een van Tomato afgeleide firmware met de naam Asuswrt. Deze firmware is, op enkele drivers na, opensource, waarbij de gesloten binaries wel meegeleverd worden. Asuswrt-Merlin is op zijn beurt een aangepaste versie van de originele firmware van Asus. Het bevat onder meer bugfixes en kleine verbeteringen, maar probeert toch dicht bij het origineel te blijven, zodat het mogelijk blijft om nieuwe features die Asus introduceert, toe te voegen aan de code. Versie 3006.102.4 is uitgekomen en hierin zijn de volgende veranderingen en verbeteringen aangebracht: Note:</description>
+            <author>Bart van Klaveren</author>
+            <category>Firmware</category>
+            <comments>https://tweakers.net/downloads/72618/asuswrt-merlin-30061024.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72618</guid>
+            <pubDate>Sun, 11 May 2025 12:32:31 +0200</pubDate>
+        </item>
+        <item>
+            <title>Bluetooth 6.1 moet volgen van apparaten moeilijker maken en accuduur verbeteren</title>
+            <link>https://tweakers.net/nieuws/234836/bluetooth-61-moet-volgen-van-apparaten-moeilijker-maken-en-accuduur-verbeteren.html</link>
+            <description>De Bluetooth Special Interest Group heeft Bluetooth 6.1 uitgebracht. Deze versie komt met een functie genaamd randomized resolvable private address, die het voor onbevoegden moeilijker moet maken om bluetoothapparaten voor langere tijd te volgen.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Computers / Software</category>
+            <comments>https://tweakers.net/nieuws/234836/bluetooth-61-moet-volgen-van-apparaten-moeilijker-maken-en-accuduur-verbeteren.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234836</guid>
+            <pubDate>Sun, 11 May 2025 12:02:26 +0200</pubDate>
+        </item>
+        <item>
+            <title>Philips deelt 3d-modellen van reserveonderdelen van zijn producten op Printables</title>
+            <link>https://tweakers.net/nieuws/234834/philips-deelt-3d-modellen-van-reserveonderdelen-van-zijn-producten-op-printables.html</link>
+            <description>Philips gaat onder de naam Fixables gratis 3d-modellen van onderdelen van zijn Personal Health-producten aanbieden. Hierdoor kunnen gebruikers zelf reserveonderdelen 3d-printen. Momenteel biedt de fabrikant nog maar één model aan.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Grafisch ontwerp en 3d visualisatie</category>
+            <comments>https://tweakers.net/nieuws/234834/philips-deelt-3d-modellen-van-reserveonderdelen-van-zijn-producten-op-printables.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234834</guid>
+            <pubDate>Sun, 11 May 2025 10:54:19 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google brengt AI-overzichten boven zoekresultaten uit in Nederland</title>
+            <link>https://tweakers.net/nieuws/234832/google-brengt-ai-overzichten-boven-zoekresultaten-uit-in-nederland.html</link>
+            <description>Google heeft zijn AI-overzichten uitgebracht voor gebruikers in Nederland. Vorig jaar kwamen deze AI-gegenereerde zoekresultaten al beschikbaar voor gebruikers in de Verenigde Staten. Ook in enkele andere EU-landen, waaronder België, werden de AI-overzichten al eerder uitgebracht.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Internet</category>
+            <comments>https://tweakers.net/nieuws/234832/google-brengt-ai-overzichten-boven-zoekresultaten-uit-in-nederland.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234832</guid>
+            <pubDate>Sun, 11 May 2025 09:57:48 +0200</pubDate>
+        </item>
+        <item>
+            <title>Achtergrond - Groot probleem met nieuwe AI-modellen: ze vertellen je meer onzin</title>
+            <link>https://tweakers.net/reviews/13236/groot-probleem-met-nieuwe-ai-modellen-ze-vertellen-je-meer-onzin.html</link>
+            <description>Redeneermodellen van ChatGPT, Gemini en DeepSeek zijn snel populair geworden. Maar ze hebben een probleem: ze hallucineren meer.</description>
+            <author>Arnoud Wokke</author>
+            <category>Achtergrond / IT Pro / Wetenschap</category>
+            <comments>https://tweakers.net/reviews/13236/groot-probleem-met-nieuwe-ai-modellen-ze-vertellen-je-meer-onzin.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13236</guid>
+            <pubDate>Sun, 11 May 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google breidt Gemini Live-functie uit naar Workspace-gebruikers</title>
+            <link>https://tweakers.net/nieuws/234830/google-breidt-gemini-live-functie-uit-naar-workspace-gebruikers.html</link>
+            <description>Google heeft de Gemini Live-functie uitgebreid naar Workspace-gebruikers. Hierdoor kunnen mobiele gebruikers voortaan ook via spraak communiceren met de AI-chatbot. De functie staat standaard ingeschakeld.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / Computers / Software</category>
+            <comments>https://tweakers.net/nieuws/234830/google-breidt-gemini-live-functie-uit-naar-workspace-gebruikers.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234830</guid>
+            <pubDate>Sat, 10 May 2025 13:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Videoreport - Van zand tot smartphone: zo worden chips gemaakt!</title>
+            <link>https://tweakers.net/video/19888/van-zand-tot-smartphone-zo-worden-chips-gemaakt.html</link>
+            <description>Elke dag gebruik je de chips in je telefoon, laptop of gameconsole, maar weet je eigenlijk hoe ze gemaakt worden? In deze video nemen we je mee in het fascinerende productieproces van een chip: van ruwe siliciumwafer tot miljarden piepkleine transistors, met technieken als fotolithografie, etsen en ionenbombardement. Ook ASML komt voorbij, met hun onmisbare rol in de nieuwste generatie chips.</description>
+            <author>Luke van Drie</author>
+            <category>Videoreport / IT Pro / Wetenschap</category>
+            <comments>https://tweakers.net/video/19888/van-zand-tot-smartphone-zo-worden-chips-gemaakt.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/video/19888</guid>
+            <pubDate>Sat, 10 May 2025 13:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Orange Belgium verhoogt prijzen van enkele abonnementen vanaf 22 juni</title>
+            <link>https://tweakers.net/nieuws/234828/orange-belgium-verhoogt-prijzen-van-enkele-abonnementen-vanaf-22-juni.html</link>
+            <description>Orange gaat vanaf 22 juni enkele prijzen van zijn mobiele- en internetabonnementen verhogen. De Belgische telecomprovider voorziet bij deze producten ook meer data voor zijn klanten. Orange claimt dat de prijswijzigingen nodig zijn om te kunnen blijven investeren in het netwerk.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/234828/orange-belgium-verhoogt-prijzen-van-enkele-abonnementen-vanaf-22-juni.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234828</guid>
+            <pubDate>Sat, 10 May 2025 12:31:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Apple moet sideloaden binnen 90 dagen toelaten in Brazilië</title>
+            <link>https://tweakers.net/nieuws/234826/apple-moet-sideloaden-binnen-90-dagen-toelaten-in-brazilie.html</link>
+            <description>Een federale rechter in Brazilië heeft beslist dat Apple het sideloaden van apps alsnog moet toelaten in het land. Het Amerikaanse techbedrijf krijgt hier negentig dagen de tijd voor. Apple was al in beroep gegaan tegen een eerdere soortgelijke beslissing in het land.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/234826/apple-moet-sideloaden-binnen-90-dagen-toelaten-in-brazilie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234826</guid>
+            <pubDate>Sat, 10 May 2025 12:01:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gelekte foto’s en specs Sony WH-1000XM6-hoofdtelefoon duiken op</title>
+            <link>https://tweakers.net/nieuws/234824/gelekte-fotos-en-specs-sony-wh-1000xm6-hoofdtelefoon-duiken-op.html</link>
+            <description>Er zijn foto’s en specificaties van de aankomende Sony WH-1000XM6 opgedoken. De hoofdtelefoon zou een licht gewijzigd ontwerp krijgen, betere specs hebben en kunnen opvouwen. Het apparaat zou op 15 mei worden aangekondigd en moet ongeveer 450 euro kosten.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / Beeld en geluid / Hoofdtelefoons</category>
+            <comments>https://tweakers.net/nieuws/234824/gelekte-fotos-en-specs-sony-wh-1000xm6-hoofdtelefoon-duiken-op.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234824</guid>
+            <pubDate>Sat, 10 May 2025 10:50:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>DeepComputing kondigt nieuw RISC-V-moederbord voor Framework-laptops aan</title>
+            <link>https://tweakers.net/nieuws/234822/deepcomputing-kondigt-nieuw-risc-v-moederbord-voor-framework-laptops-aan.html</link>
+            <description>DeepComputing introduceert een laptopmoederbord met RISC-V-processor voor de Framework Laptop 13: de DC-ROMA RISC-V Mainboard II. Het onderdeel bevat een octacoreprocessor en een 40 Tops-npu. Het moederbord wordt met Ubuntu 24.04 LTS geleverd en kost 407,95 euro.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / Computers / Laptops</category>
+            <comments>https://tweakers.net/nieuws/234822/deepcomputing-kondigt-nieuw-risc-v-moederbord-voor-framework-laptops-aan.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234822</guid>
+            <pubDate>Sat, 10 May 2025 09:53:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Unraid 7.1.2</title>
+            <link>https://tweakers.net/downloads/72616/unraid-712.html</link>
+            <description>Er zijn kort achter elkaar twee updates voor versie 7.1 van Unraid uitgekomen. Met dit besturingssysteem kan een server worden opgezet voor taken als network attached storage, applicatieserver en virtualisatiehost. Het is eenvoudig op te zetten en enorm flexibel met betrekking tot de gebruikte hardware en grootte van de harde schijven. Docker wordt gebruikt om functionaliteit toe te voegen en deze apps worden door een actieve community gevalideerd en onderhouden. Voorheen had Unraid een eenmalige aanschafprijs die afhing van het aantal gebruikte harde schijven en ssd&#039;s. Basic stond tot zes opslagapparaten toe, een pluslicentie maximaal twaalf apparaten en bij pro was dat ongelimiteerd. Dat is echter veranderd en voortaan moet dit jaarlijks worden verlengd om ondersteuning en updates te blijven krijgen. In versie 7.1.1 is een probleem verholpen waardoor bepaalde virtuele machines niet wilden starten en 7.1.2 moet een onder specifieke omstandigheden dataverlies voorkomen. Unraid 7.1.2: Data Safety First</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72616/unraid-712.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72616</guid>
+            <pubDate>Sat, 10 May 2025 09:40:11 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - Clair Obscur: Expedition 33 - Mooi, origineel en ontzettend Frans</title>
+            <link>https://tweakers.net/reviews/13244/clair-obscur-expedition-33-mooi-origineel-en-ontzettend-frans.html</link>
+            <description>Clair Obscur: Expedition 33 is de eerste game van de Franse studio Sandfall. Mede daardoor is het opmerkelijk dat het hier gaat om een van de beste games van 2025.</description>
+            <author>Jurian Ubachs</author>
+            <category>Review / Gaming / Games</category>
+            <comments>https://tweakers.net/reviews/13244/5/clair-obscur-expedition-33-mooi-origineel-en-ontzettend-frans-conclusie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13244</guid>
+            <pubDate>Sat, 10 May 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Windows 11-startmenu krijgt mogelijkheid om apps met een klik te installeren</title>
+            <link>https://tweakers.net/nieuws/234820/windows-11-startmenu-krijgt-mogelijkheid-om-apps-met-een-klik-te-installeren.html</link>
+            <description>Windows 11-gebruikers kunnen binnenkort apps met een klik installeren door ernaar te zoeken via de taakbalk of het startmenu. Microsoft-topman Giorgio Sardo bevestigt dat in een post op X, waar ook een screenshot is te zien.</description>
+            <author>Idriz Velghe</author>
+            <category>Nieuws / Computers / Besturingssystemen</category>
+            <comments>https://tweakers.net/nieuws/234820/windows-11-startmenu-krijgt-mogelijkheid-om-apps-met-een-klik-te-installeren.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234820</guid>
+            <pubDate>Fri, 09 May 2025 20:48:26 +0200</pubDate>
+        </item>
+        <item>
+            <title>Provider DIGI houdt nieuwe ontslagronde, minister ontevreden over vele klachten</title>
+            <link>https://tweakers.net/nieuws/234818/provider-digi-houdt-nieuwe-ontslagronde-minister-ontevreden-over-vele-klachten.html</link>
+            <description>De nieuwe Belgische provider DIGI ontslaat een twintigtal mensen, een tweetal maanden na de vorige ontslagronde. Tegelijkertijd roept de Belgische minister van Digitalisering de telecomoperator op het matje vanwege honderden klachten die zijn binnengekomen bij de ombudsdienst.</description>
+            <author>Idriz Velghe</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/234818/provider-digi-houdt-nieuwe-ontslagronde-minister-ontevreden-over-vele-klachten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234818</guid>
+            <pubDate>Fri, 09 May 2025 20:13:16 +0200</pubDate>
+        </item>
+        <item>
+            <title>VideoCardz: foto bevestigt dat Radeon RX 9060 XT drie monitoraansluitingen heeft</title>
+            <link>https://tweakers.net/nieuws/234816/videocardz-foto-bevestigt-dat-radeon-rx-9060-xt-drie-monitoraansluitingen-heeft.html</link>
+            <description>AMD&#039;s aankomende Radeon RX 9060 XT is beperkt tot drie displayoutputs. Dat zegt VideoCardz op basis van een afbeelding van een Acer-videokaart die op X is verschenen. De RX 9060 XT wordt verwacht tijdens de Computex-beurs in Taipei.</description>
+            <author>Idriz Velghe</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/234816/videocardz-foto-bevestigt-dat-radeon-rx-9060-xt-drie-monitoraansluitingen-heeft.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234816</guid>
+            <pubDate>Fri, 09 May 2025 19:06:50 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - foobar2000 2.24.5</title>
+            <link>https://tweakers.net/downloads/72614/foobar2000-2245.html</link>
+            <description>Versie 2.24.5 van foobar2000 is uitgekomen. Deze populaire, lichte muziekspeler kan onder andere overweg met mp3, AAC, Ogg Vorbis, FLAC, WAVE en WMA, en beschikt over ondersteuning voor Replay Gain. Verder kan de speler verschillende formaten converteren, heeft het programma uitgebreide mogelijkheden om de tags aan te passen en kan de interface geheel naar eigen hand gezet worden. Daarnaast is het mogelijk om de functionaliteit met behulp van plug-ins verder uit te breiden. Downloads zijn ook beschikbaar voor Android, iOS en macOS, maar die hebben een ander versienummer en uitgaveschema. In deze uitgave zijn enkele kleine problemen verholpen. Changes in version 2.24.5:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72614/foobar2000-2245.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72614</guid>
+            <pubDate>Fri, 09 May 2025 18:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Odido past bundels en prijzen voor prepaidsimkaarten aan</title>
+            <link>https://tweakers.net/nieuws/234814/odido-past-bundels-en-prijzen-voor-prepaidsimkaarten-aan.html</link>
+            <description>Odido biedt sinds begin deze week nieuwe bundels voor prepaidsimkaarten aan. Sommige bundels zijn vergelijkbaar met eerdere opties, maar hebben verhoogde prijzen. Het nieuwe aanbod bestaat uit pakketten met zowel ongelimiteerde als beperkte data.</description>
+            <author>Idriz Velghe</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/234814/odido-past-bundels-en-prijzen-voor-prepaidsimkaarten-aan.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234814</guid>
+            <pubDate>Fri, 09 May 2025 17:51:34 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gigabyte onthult &#039;kabelloze&#039; witte moederborden met B850- en X870-chipsets</title>
+            <link>https://tweakers.net/nieuws/234812/gigabyte-onthult-kabelloze-witte-moederborden-met-b850-en-x870-chipsets.html</link>
+            <description>Gigabyte introduceert de X870 Aorus Stealth Ice en B850 Aorus Stealth Ice. Beide ATX-moederborden combineren een wit ontwerp met kabelaansluitingen op de achterkant. Het is niet bekend hoeveel de nieuwe modellen kosten of wanneer ze beschikbaar zullen zijn.</description>
+            <author>Idriz Velghe</author>
+            <category>Nieuws / Computers / Moederborden</category>
+            <comments>https://tweakers.net/nieuws/234812/gigabyte-onthult-kabelloze-witte-moederborden-met-b850-en-x870-chipsets.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234812</guid>
+            <pubDate>Fri, 09 May 2025 17:00:00 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - WinNc 11.2.0.0</title>
             <link>https://tweakers.net/downloads/72612/winnc-11200.html</link>
@@ -146,276 +416,6 @@
             <comments>https://tweakers.net/downloads/72604/calibre-84.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72604</guid>
             <pubDate>Fri, 09 May 2025 10:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google Chrome krijgt lokaal Gemini Nano-model voor opsporen oplichterij</title>
-            <link>https://tweakers.net/nieuws/234792/google-chrome-krijgt-lokaal-gemini-nano-model-voor-opsporen-oplichterij.html</link>
-            <description>Google gebruikt vanaf Chrome 137 voor pc&#039;s het taalmodel Gemini Nano om te helpen bij het herkennen van oplichterij. Het AI-model draait lokaal en maakt onderdeel uit van de functie &#039;Geoptimaliseerde beveiliging&#039; van Safe Browsing voor Chrome.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/234792/google-chrome-krijgt-lokaal-gemini-nano-model-voor-opsporen-oplichterij.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234792</guid>
-            <pubDate>Fri, 09 May 2025 10:13:16 +0200</pubDate>
-        </item>
-        <item>
-            <title>Quicktest - Intel Core Ultra 5 225F en Core Ultra 5 235 - Megazuinig maar ook heel erg traag</title>
-            <link>https://tweakers.net/reviews/13230/intel-core-ultra-5-225f-en-core-ultra-5-235-megazuinig-maar-ook-heel-erg-traag.html</link>
-            <description>Eind 2024 kwam Intel met de eerste drie Core Ultra 200-processors. Inmiddels zijn er ook goedkopere, lager gepositioneerde modellen, zoals deze Core Ultra 5 235 en 225F.</description>
-            <author>Tomas Hochstenbach</author>
-            <category>Quicktest / Computers / Processors</category>
-            <comments>https://tweakers.net/reviews/13230/intel-core-ultra-5-225f-en-core-ultra-5-235-megazuinig-maar-ook-heel-erg-traag.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13230</guid>
-            <pubDate>Fri, 09 May 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - OPNsense 25.1.6</title>
-            <link>https://tweakers.net/downloads/72600/opnsense-2516.html</link>
-            <description>Het pakket OPNsense is een firewall met uitgebreide mogelijkheden. Het is gebaseerd op het besturingssysteem FreeBSD en is oorspronkelijk een fork van m0n0wall en pfSense. Het pakket kan volledig via een webinterface worden ingesteld en heeft onder andere ondersteuning voor mfa, OpenVPN, IPsec, CARP en captive portal. Daarnaast kan het packetfiltering toepassen en beschikt het over een traffic shaper. De ontwikkelaars achter OPNsense hebben de zesde update voor versie 25.1 uitgebracht en de releasenotes voor die uitgave kunnen hieronder worden gevonden. OPNsense 25.1.6 released</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72600/opnsense-2516.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72600</guid>
-            <pubDate>Fri, 09 May 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Toshiba brengt 24TB-nas-hdd niet uit in Europa vanwege &#039;beperkte vraag&#039;</title>
-            <link>https://tweakers.net/nieuws/234790/toshiba-brengt-24tb-nas-hdd-niet-uit-in-europa-vanwege-beperkte-vraag.html</link>
-            <description>Toshiba brengt de harde schijven N300 en N300 Pro van 24TB niet in Europa uit. Volgens de fabrikant is de vraag naar dergelijke grote opslagcapaciteiten voor bijvoorbeeld nas-systemen te klein. De grootste wel verkrijgbare N300-schijf van Toshiba heeft 18TB opslagruimte.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Computers / Interne harde schijven</category>
-            <comments>https://tweakers.net/nieuws/234790/toshiba-brengt-24tb-nas-hdd-niet-uit-in-europa-vanwege-beperkte-vraag.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234790</guid>
-            <pubDate>Fri, 09 May 2025 08:44:38 +0200</pubDate>
-        </item>
-        <item>
-            <title>Paradox kondigt Europa Universalis V aan, start in 1337 en heeft zes Ages</title>
-            <link>https://tweakers.net/nieuws/234788/paradox-kondigt-europa-universalis-v-aan-start-in-1337-en-heeft-zes-ages.html</link>
-            <description>Paradox Interactive kondigt Europa Universalis V officieel aan. De grandstrategygame is al vijf jaar in ontwikkeling en de ontwikkelaar deelt al een jaar ontwikkelaarsblogposts over het &#039;geheime&#039; project. Er is nog geen releasedatum bekendgemaakt.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/234788/paradox-kondigt-europa-universalis-v-aan-start-in-1337-en-heeft-zes-ages.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234788</guid>
-            <pubDate>Fri, 09 May 2025 07:43:41 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Visual Studio Code 1.100.0</title>
-            <link>https://tweakers.net/downloads/72606/visual-studio-code-11000.html</link>
-            <description>Versie 1.100.0 van Visual Studio Code uitgekomen. Een mooi rond nummer, maar niet meer dan de logische opvolger van versie 1.99.0. Deze opensource code-editor heeft ondersteuning voor IntelliSense, debugging, Git en code snippets. Downloads zijn beschikbaar voor Windows, Linux en macOS. Ondersteuning voor de gangbare script- en programmeertalen is aanwezig en het kan daarnaast via extensies uitgebreid worden. Hoewel het alweer even mei is, wordt deze versie nog als de apriluitgave aangeboden. Uitgebreide informatie over deze release is op deze pagina te vinden. Dit is de aankondiging: April 2025 (version 1.100)</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72606/visual-studio-code-11000.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72606</guid>
-            <pubDate>Fri, 09 May 2025 07:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Best Buy Guide - De beste foldable smartphones</title>
-            <link>https://tweakers.net/best-buy-guide/smartphones/beste-vouwbare-smartphone</link>
-            <description>Als je kijkt naar de buitenkant, lijken smartphones tegenwoordig maar saaie dingen: een rechthoek met een scherm erin, dat naar keuze iets groter of kleiner kan zijn. Foldables doorbreken die sleur, want een vouwscherm maakt nieuwe soorten toestellen mogelijk.</description>
-            <author>Dennis de Vries</author>
-            <category>Best Buy Guide / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/best-buy-guide/smartphones/beste-vouwbare-smartphone#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/best-buy-guide/smartphones/beste-vouwbare-smartphone</guid>
-            <pubDate>Fri, 09 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Best Buy Guide - De beste high-end smartphones</title>
-            <link>https://tweakers.net/best-buy-guide/smartphones/beste-high-end-smartphone</link>
-            <description>Als geld geen beperking vormt, zijn er veel mooie smartphones die je kunt overwegen. Wij kiezen de beste toestellen voor je uit.</description>
-            <author>Dennis de Vries</author>
-            <category>Best Buy Guide / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/best-buy-guide/smartphones/beste-high-end-smartphone#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/best-buy-guide/smartphones/beste-high-end-smartphone</guid>
-            <pubDate>Fri, 09 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Best Buy Guide - De beste kleine(re) smartphones</title>
-            <link>https://tweakers.net/best-buy-guide/smartphones/beste-kleine-smartphone</link>
-            <description>Smartphones zijn de afgelopen jaren gemiddeld steeds groter geworden. In deze BBG zoeken we naar het beste toestel dat wél gemakkelijk hanteerbaar is.</description>
-            <author>Dennis de Vries</author>
-            <category>Best Buy Guide / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/best-buy-guide/smartphones/beste-kleine-smartphone#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/best-buy-guide/smartphones/beste-kleine-smartphone</guid>
-            <pubDate>Fri, 09 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Best Buy Guide - De beste smartphones tot 300 euro</title>
-            <link>https://tweakers.net/best-buy-guide/smartphones/beste-goedkope-smartphone</link>
-            <description>Wil je veel smartphone voor weinig geld, dan is de prijsklasse tot 300 euro een sweetspot. Je koopt voor dit bedrag een prima toestel dat voor veel taken voldoet.</description>
-            <author>Dennis de Vries</author>
-            <category>Best Buy Guide / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/best-buy-guide/smartphones/beste-goedkope-smartphone#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/best-buy-guide/smartphones/beste-goedkope-smartphone</guid>
-            <pubDate>Fri, 09 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Best Buy Guide - De beste smartphones tot 600 euro</title>
-            <link>https://tweakers.net/best-buy-guide/smartphones/beste-midrange-smartphone</link>
-            <description>Voor 600 euro koop je een luxe middenklassesmartphone waarmee je de komende jaren vooruit kunt. Wij zoeken de beste modellen voor je uit.</description>
-            <author>Dennis de Vries</author>
-            <category>Best Buy Guide / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/best-buy-guide/smartphones/beste-midrange-smartphone#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/best-buy-guide/smartphones/beste-midrange-smartphone</guid>
-            <pubDate>Fri, 09 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Apple werkt aan chips voor slimme brillen en servers, moeten rond 2027 af zijn&#039;</title>
-            <link>https://tweakers.net/nieuws/234786/apple-werkt-aan-chips-voor-slimme-brillen-en-servers-moeten-rond-2027-af-zijn.html</link>
-            <description>Apple is bezig met het ontwikkelen van chips voor slimme brillen. Dat zeggen ingewijden tegen persbureau Bloomberg. De techgigant werkt ook aan een chip die speciaal is bedoeld voor het draaien van zijn Apple Intelligence-servers. Momenteel worden daarvoor Mac-chips gebruikt.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / Processors</category>
-            <comments>https://tweakers.net/nieuws/234786/apple-werkt-aan-chips-voor-slimme-brillen-en-servers-moeten-rond-2027-af-zijn.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234786</guid>
-            <pubDate>Thu, 08 May 2025 21:16:46 +0200</pubDate>
-        </item>
-        <item>
-            <title>Rockstar: tweede GTA VI-trailer is in-game opgenomen op een PlayStation 5</title>
-            <link>https://tweakers.net/nieuws/234778/rockstar-tweede-gta-vi-trailer-is-in-game-opgenomen-op-een-playstation-5.html</link>
-            <description>De tweede trailer van Grand Theft Auto VI is volledig in-game opgenomen op een gewone PlayStation 5. Dat benadrukt Rockstar Games nogmaals; aan het einde van de trailer stond al vermeld dat die was opgenomen op een PS5.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/234778/rockstar-tweede-gta-vi-trailer-is-in-game-opgenomen-op-een-playstation-5.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234778</guid>
-            <pubDate>Thu, 08 May 2025 20:22:46 +0200</pubDate>
-        </item>
-        <item>
-            <title>Arctic brengt compacte Freezer 8-cpu-koelers uit vanaf 18,49 euro</title>
-            <link>https://tweakers.net/nieuws/234772/arctic-brengt-compacte-freezer-8-cpu-koelers-uit-vanaf-18-komma-49-euro.html</link>
-            <description>Arctic komt met een aantal nieuwe budget-cpu-koelers. Deze komen beschikbaar in een nieuwe Freezer 8-serie en zijn geschikt voor Intel- of AMD-systemen en gebruikmaken van een 100mm-ventilator. Het goedkoopste model kost 18,99 euro.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / Processorkoeling</category>
-            <comments>https://tweakers.net/nieuws/234772/arctic-brengt-compacte-freezer-8-cpu-koelers-uit-vanaf-18-komma-49-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234772</guid>
-            <pubDate>Thu, 08 May 2025 19:25:48 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Total Commander 11.55 RC 1</title>
-            <link>https://tweakers.net/downloads/72598/total-commander-1155-rc-1.html</link>
-            <description>De eerste releasecandidate van Total Commander versie 11.55 is verschenen. Dit programma kan als vervanging voor Windows Verkenner worden gebruikt. Doordat het beeld in tweeën is gesplitst, is het eenvoudig om bestanden te kopiëren, maar het programma kan veel meer. Zo zijn er diverse manieren om bestanden aan te passen, zijn een ingebouwde FTP-client en een multirenametool aanwezig, en is er ondersteuning voor een groot aantal compressieformaten. Verder kan de functionaliteit met plug-ins worden uitgebreid. De complete changelog voor de 11.55-serie is op deze pagina in te zien. De changelog voor deze uitgave kan hieronder worden gevonden: Total Commander 11.55 RC1 is available now!</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72598/total-commander-1155-rc-1.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72598</guid>
-            <pubDate>Thu, 08 May 2025 19:14:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Tinder-moederbedrijf Match Group ontslaat 13 procent van zijn personeel</title>
-            <link>https://tweakers.net/nieuws/234776/tinder-moederbedrijf-match-group-ontslaat-13-procent-van-zijn-personeel.html</link>
-            <description>Match Group, het moederbedrijf van datingapps als Tinder en Hinge, gaat dertien procent van zijn personeel ontslaan. Dat maakte het bedrijf op donderdag bekend. Het gaat om een bezuiniging van ruim 100 miljoen dollar per jaar, zegt nieuwe ceo Spencer Rascoff.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/234776/tinder-moederbedrijf-match-group-ontslaat-13-procent-van-zijn-personeel.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234776</guid>
-            <pubDate>Thu, 08 May 2025 18:55:25 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - deCONZ 2.30.2</title>
-            <link>https://tweakers.net/downloads/72596/deconz-2302.html</link>
-            <description>Na een reeks van bèta&#039;s is versie 2.30.2 van deCONZ is uitgekomen. DeCONZ is een Zigbee-gateway ontwikkeld door Dresden Elektronik. Met deze gateway is het mogelijk om Zigbee-apparaten van verschillende fabrikanten aan te sturen door middel van de Phoscon-webapp. De deCONZ-gateway is los te gebruiken, maar ook in combinatie met verschillende domotica-applicaties zoals Home Assistant, Domoticz en openHAB. De software kan alleen gebruikt worden in combinatie met een ConBee-USB-stick of een RaspBee Shield voor de Raspberry Pi. Meer informatie over deCONZ kan op ons forum worden gevonden. De changelog sinds versie 2.29.5 kan hieronder worden gevonden. Version 2.30.2 changes</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72596/deconz-2302.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72596</guid>
-            <pubDate>Thu, 08 May 2025 17:44:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Mafia: The Old Country komt op 8 augustus uit</title>
-            <link>https://tweakers.net/nieuws/234774/mafia-the-old-country-komt-op-8-augustus-uit.html</link>
-            <description>Mafia: The Old Country komt op 8 augustus uit. Dat bevestigde ontwikkelaar Hangar 13 op donderdag. Het wordt een prequel van de eerste Mafia-game en speelt zich af aan het begin van de vorige eeuw. Eerder was alleen bekend dat de game &#039;deze zomer&#039; zou verschijnen.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/234774/mafia-the-old-country-komt-op-8-augustus-uit.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234774</guid>
-            <pubDate>Thu, 08 May 2025 17:41:23 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nvidia geeft geen RTX 5060-drivers aan media, reviews mogelijk pas na release</title>
-            <link>https://tweakers.net/nieuws/234758/nvidia-geeft-geen-rtx-5060-drivers-aan-media-reviews-mogelijk-pas-na-release.html</link>
-            <description>Nvidia verstrekt geen drivers voor de RTX 5060 aan de pers voordat die videokaart uitkomt. Dat betekent dat media de videokaart pas kunnen testen zodra de videokaart daadwerkelijk op de markt is, waardoor reviews waarschijnlijk pas later zullen verschijnen.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/nieuws/234758/nvidia-geeft-geen-rtx-5060-drivers-aan-media-reviews-mogelijk-pas-na-release.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234758</guid>
-            <pubDate>Thu, 08 May 2025 16:48:46 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Directory Opus 13.15</title>
-            <link>https://tweakers.net/downloads/72594/directory-opus-1315.html</link>
-            <description>GPSoftware heeft versie 13.14 van zijn bestandsmanager Directory Opus uitgebracht. Dit programma is in zekere zin vergelijkbaar met Total Commander, maar dan met uitgebreidere mogelijkheden over welke informatie precies moet worden weergegeven en op welke manier. Directory Opus is veelzijdig en extreem configureerbaar, zowel wat functionaliteit als wat uiterlijk betreft. Dat is meteen ook het grootste probleem, want het programma kan zeker op beginnende gebruikers complex overkomen. Het programma kan na registratie 60 dagen worden getest; daarna moet een licentie van 89 Australische dollar worden aangeschaft, wat neerkomt op ongeveer 55 euro. De changelog voor deze uitgave kan hieronder worden gevonden: Preferences</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72594/directory-opus-1315.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72594</guid>
-            <pubDate>Thu, 08 May 2025 16:14:02 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Deals - De beste elektronicadeals van week 19 2025</title>
-            <link>https://tweakers.net/plan/4404/de-beste-elektronicadeals-van-week-19-2025.html</link>
-            <description>De interessante prijsdalingen, cashbackacties, kortingscodes en comboaanbiedingen van week 19 van 2025, geselecteerd door het Pricewatch-team.</description>
-            <author>Tweakers Pricewatch</author>
-            <category>.deals</category>
-            <comments>https://tweakers.net/plan/4404/de-beste-elektronicadeals-van-week-19-2025.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/plan/4404</guid>
-            <pubDate>Thu, 08 May 2025 16:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Sony kondigt op 13 mei nieuwe Xperia 1-smartphone aan</title>
-            <link>https://tweakers.net/nieuws/234770/sony-kondigt-op-13-mei-nieuwe-xperia-1-smartphone-aan.html</link>
-            <description>Sony kondigt volgende week een nieuwe Xperia-smartphone aan, bevestigt het bedrijf. Het Japanse techbedrijf houdt op dinsdag een presentatie op YouTube. Er zijn verder nog weinig details over het toestel bekend.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/234770/sony-kondigt-op-13-mei-nieuwe-xperia-1-smartphone-aan.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234770</guid>
-            <pubDate>Thu, 08 May 2025 15:49:45 +0200</pubDate>
-        </item>
-        <item>
-            <title>Gerucht: Qualcomm Snapdragon 8 Elite Gen 2-chip krijgt 8 cores en 100Tops-npu</title>
-            <link>https://tweakers.net/nieuws/234766/gerucht-qualcomm-snapdragon-8-elite-gen-2-chip-krijgt-8-cores-en-100tops-npu.html</link>
-            <description>Qualcomms komende Snapdragon 8 Elite Gen 2-soc voor smartphones wordt mogelijk op TSMC&#039;s N3P-procedé gemaakt. Dat zegt bekende leaker Digital Chat Station. De chip moet daarnaast een snellere npu krijgen met 100Tops aan AI-rekenkracht.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/234766/gerucht-qualcomm-snapdragon-8-elite-gen-2-chip-krijgt-8-cores-en-100tops-npu.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234766</guid>
-            <pubDate>Thu, 08 May 2025 15:28:04 +0200</pubDate>
-        </item>
-        <item>
-            <title>TrendForce: aantal geleverde oledmonitors is met 175 procent toegenomen</title>
-            <link>https://tweakers.net/nieuws/234768/trendforce-aantal-geleverde-oledmonitors-is-met-175-procent-toegenomen.html</link>
-            <description>Het aantal wereldwijd geleverde oledmonitors is in het eerste kwartaal van 2025 met 175 procent toegenomen vergeleken met een jaar eerder. In totaal werden zo&#039;n 507.000 oledschermen geleverd. Naar verwachting neemt dat nog verder toe naar 650.000 stuks in het tweede kwartaal.</description>
-            <author>Eveline Meijer</author>
-            <category>Nieuws / Computers / Monitors</category>
-            <comments>https://tweakers.net/nieuws/234768/trendforce-aantal-geleverde-oledmonitors-is-met-175-procent-toegenomen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234768</guid>
-            <pubDate>Thu, 08 May 2025 15:04:39 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Intel onthult binnenkort nieuwe Arc Pro B60-videokaart met 24GB vram&#039;</title>
-            <link>https://tweakers.net/nieuws/234764/intel-onthult-binnenkort-nieuwe-arc-pro-b60-videokaart-met-24gb-vram.html</link>
-            <description>Intel kondigt later deze maand nieuwe Arc Pro-videokaarten voor workstations aan, zo bevestigt het bedrijf. Volgens bronnen van VideoCardz gaat het om een Arc Pro B60 die beschikt over 24GB aan GDDR6-geheugen.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/nieuws/234764/intel-onthult-binnenkort-nieuwe-arc-pro-b60-videokaart-met-24gb-vram.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234764</guid>
-            <pubDate>Thu, 08 May 2025 14:46:39 +0200</pubDate>
-        </item>
-        <item>
-            <title>Easee wil netwerk van 850.000 laadpalen inzetten voor netstabiliteit</title>
-            <link>https://tweakers.net/nieuws/234684/easee-wil-netwerk-van-850000-laadpalen-inzetten-voor-netstabiliteit.html</link>
-            <description>Easee wil zijn netwerk van 850.000 laadpalen gebruiken om het elektriciteitsnet te stabiliseren. Het gaat om laadpalen die thuis of (semi)publiekelijk gebruikt worden en een 4G-verbinding hebben. Het bedrijf noemt laden buiten piekuren en vehicle-to-grid als voorbeelden.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / Beeld en geluid / Cartech</category>
-            <comments>https://tweakers.net/nieuws/234684/easee-wil-netwerk-van-850000-laadpalen-inzetten-voor-netstabiliteit.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234684</guid>
-            <pubDate>Thu, 08 May 2025 14:40:11 +0200</pubDate>
-        </item>
-        <item>
-            <title>Gehackte leverancier betaalt losgeld, scholen VS nu individueel afgeperst</title>
-            <link>https://tweakers.net/nieuws/234762/gehackte-leverancier-betaalt-losgeld-scholen-vs-nu-individueel-afgeperst.html</link>
-            <description>PowerSchool, een grote Amerikaanse aanbieder van software en cloudoplossingen voor het onderwijs, betaalde vorig jaar losgeld aan cybercriminelen na een aanval. Nu worden scholen en schooldistricten in Canada en de VS individueel afgeperst.</description>
-            <author>Eveline Meijer</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/234762/gehackte-leverancier-betaalt-losgeld-scholen-vs-nu-individueel-afgeperst.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234762</guid>
-            <pubDate>Thu, 08 May 2025 14:38:19 +0200</pubDate>
         </item>
     </channel>
 </rss>
