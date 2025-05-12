@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 12 May 2025 14:41:00 +0200</pubDate>
-        <lastBuildDate>Mon, 12 May 2025 14:41:00 +0200</lastBuildDate>
+        <pubDate>Mon, 12 May 2025 15:36:00 +0200</pubDate>
+        <lastBuildDate>Mon, 12 May 2025 15:36:00 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,56 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - ImageGlass 9.3.0.514</title>
+            <link>https://tweakers.net/downloads/72628/imageglass-930514.html</link>
+            <description>Versie 9.3.0.514 van ImageGlass is uitgekomen. ImageGlass is een klein, snel en eenvoudig opensource programma waarmee afbeeldingen kunnen worden bekeken. Het kan afbeeldingen zonder kwaliteitsverlies roteren en converteren naar een ander formaat, maar voor andere bewerkingen is het afhankelijk van externe software. In versie 9.0, die Moon als koosnaam heeft meegekregen, is onder meer ondersteuning voor .NET 8 en apparaten uitgerust met een Arm-processor toegevoegd. Verder zijn er flinke prestatieverbeteringen waar te nemen en is het uiterlijk in een modern jasje gegoten. De changelog voor deze uitgave kan hieronder worden gevonden.</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72628/imageglass-930514.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72628</guid>
+            <pubDate>Mon, 12 May 2025 15:30:58 +0200</pubDate>
+        </item>
+        <item>
+            <title>Ontwikkelaar deelt fix voor inlogproblemen Outlook in Microsoft 365</title>
+            <link>https://tweakers.net/nieuws/234860/ontwikkelaar-deelt-fix-voor-inlogproblemen-outlook-in-microsoft-365.html</link>
+            <description>Microsoft 365-gebruikers ondervinden al enkele dagen problemen bij het gebruik van Outlook. In dat geval toont het programma een &#039;Access denied&#039;-error. Een ontwikkelaar heeft een fix gedeeld die systeembeheerders kunnen implementeren. Microsoft sprak zich nog niet uit over het probleem.</description>
+            <author>Idriz Velghe</author>
+            <category>Nieuws / Computers / Software</category>
+            <comments>https://tweakers.net/nieuws/234860/ontwikkelaar-deelt-fix-voor-inlogproblemen-outlook-in-microsoft-365.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234860</guid>
+            <pubDate>Mon, 12 May 2025 15:00:41 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - Kingston Fury Renegade G5 - SM2508 op stoom</title>
+            <link>https://tweakers.net/reviews/13226/kingston-fury-renegade-g5-sm2508-op-stoom.html</link>
+            <description>Er is vrij weinig te klagen over de Fury Renegade G5-drives. Ze verslaan in vrijwel alle tests niet alleen de NM1090 PRO-drives, maar ook de Samsungs 9100 PRO&#039;s.</description>
+            <author>Willem de Moor</author>
+            <category>Review / Computers / SSD&#039;s</category>
+            <comments>https://tweakers.net/reviews/13226/11/kingston-fury-renegade-g5-sm2508-op-stoom-conclusie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13226</guid>
+            <pubDate>Mon, 12 May 2025 15:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google brengt nieuwe foto-naar-videotool in mei uit voor Honor 400-serie</title>
+            <link>https://tweakers.net/nieuws/234856/google-brengt-nieuwe-foto-naar-videotool-in-mei-uit-voor-honor-400-serie.html</link>
+            <description>Honor 400-serie smartphones krijgen een nieuwe AI-functie waarmee afbeeldingen kunnen worden omgezet in video&#039;s. De tool is gebaseerd op het recente Veo 2-model van Google. De smartphones en de functie komen in ieder geval op 22 mei uit in China.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/234856/google-brengt-nieuwe-foto-naar-videotool-in-mei-uit-voor-honor-400-serie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234856</guid>
+            <pubDate>Mon, 12 May 2025 14:56:30 +0200</pubDate>
+        </item>
+        <item>
+            <title>Hey Telecom biedt goedkoopste mobiele abonnement niet meer aan na klacht</title>
+            <link>https://tweakers.net/nieuws/234858/hey-telecom-biedt-goedkoopste-mobiele-abonnement-niet-meer-aan-na-klacht.html</link>
+            <description>De Belgische provider Hey Telecom, een dochtermerk van Orange, heeft het goedkoopste abonnement van zijn website gehaald. Dat abonnement was tot 12 mei verkrijgbaar, maar werd verstopt op de website. Voor bestaande abonnees verandert er niets.</description>
+            <author>Idriz Velghe</author>
+            <category>Nieuws / Tablets en telefoons / Sim-only abonnementen</category>
+            <comments>https://tweakers.net/nieuws/234858/hey-telecom-biedt-goedkoopste-mobiele-abonnement-niet-meer-aan-na-klacht.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234858</guid>
+            <pubDate>Mon, 12 May 2025 14:42:41 +0200</pubDate>
+        </item>
         <item>
             <title>Leaker: Samsung Galaxy Z Fold7 wordt met 3,9mm dunste foldable tot nu toe</title>
             <link>https://tweakers.net/nieuws/234854/leaker-samsung-galaxy-z-fold7-wordt-met-3-komma-9mm-dunste-foldable-tot-nu-toe.html</link>
@@ -366,56 +416,6 @@
             <comments>https://tweakers.net/nieuws/234810/kpn-heeft-last-van-storing-met-extra-veilig-internet-van-een-mkb-abonnement.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234810</guid>
             <pubDate>Fri, 09 May 2025 15:50:20 +0200</pubDate>
-        </item>
-        <item>
-            <title>Warner Bros. Discovery heeft 122,3 miljoen abonnees</title>
-            <link>https://tweakers.net/nieuws/234806/warner-bros-discovery-heeft-122-komma-3-miljoen-abonnees.html</link>
-            <description>Warner Bros. Discovery haalde vorig kwartaal ongeveer 5,3 miljoen nieuwe abonnees binnen. Dat merk bestaat uit streamingdiensten zoals (HBO) Max en Discovery+. De teller van het aantal WBD-leden staat sinds eind maart op 122,3 miljoen.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Beeld en geluid / Televisies</category>
-            <comments>https://tweakers.net/nieuws/234806/warner-bros-discovery-heeft-122-komma-3-miljoen-abonnees.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234806</guid>
-            <pubDate>Fri, 09 May 2025 15:29:20 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nintendo kan Switch bricken in VS als gebruiker overeenkomst schendt</title>
-            <link>https://tweakers.net/nieuws/234808/nintendo-kan-switch-bricken-in-vs-als-gebruiker-overeenkomst-schendt.html</link>
-            <description>Nintendo heeft volgens de nieuwe gebruikersvoorwaarden voor een Nintendo-account het recht om bijvoorbeeld een Switch te bricken als de gebruiker deze overeenkomst schendt. De nieuwe regels gelden voor zover bekend alleen in de Verenigde Staten.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Gaming / Consoles</category>
-            <comments>https://tweakers.net/nieuws/234808/nintendo-kan-switch-bricken-in-vs-als-gebruiker-overeenkomst-schendt.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234808</guid>
-            <pubDate>Fri, 09 May 2025 15:18:03 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - ExifToolGUI 6.3.9</title>
-            <link>https://tweakers.net/downloads/72610/exiftoolgui-639.html</link>
-            <description>Versie 6.3.9 van ExifToolGUI is uitgekomen. Dit programma is een voortzetting van de originele ExifToolGUI door Bogdan Hrastnik, waarvan de ontwikkeling stil was komen te liggen. Het is bedoeld om als grafische interface voor ExifTool te dienen, een programma waarmee de metadata van een groot aantal bestandsformaten kan worden beheerd en bewerkt. De changelog voor deze uitgave kan hieronder worden gevonden.</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72610/exiftoolgui-639.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72610</guid>
-            <pubDate>Fri, 09 May 2025 15:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Razer onthult speakerkussen voor gamestoel en draagbare randapparatuur</title>
-            <link>https://tweakers.net/nieuws/234804/razer-onthult-speakerkussen-voor-gamestoel-en-draagbare-randapparatuur.html</link>
-            <description>Razer introduceert een hoofdkussen voor gamestoelen dat tegelijk dienst doet als luidspreker. De fabrikant onthult ook een draadloos toetsenbord en muis die gericht zijn op gebruik onderweg. Razer verwacht de eerste bestellingen vanaf 16 mei te kunnen leveren.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Computers / Toetsenborden</category>
-            <comments>https://tweakers.net/nieuws/234804/razer-onthult-speakerkussen-voor-gamestoel-en-draagbare-randapparatuur.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234804</guid>
-            <pubDate>Fri, 09 May 2025 14:39:06 +0200</pubDate>
-        </item>
-        <item>
-            <title>Rechter VS laat AI-deepfake van vermoord slachtoffer spreken tijdens rechtszaak</title>
-            <link>https://tweakers.net/nieuws/234802/rechter-vs-laat-ai-deepfake-van-vermoord-slachtoffer-spreken-tijdens-rechtszaak.html</link>
-            <description>Een rechter uit de Amerikaanse staat Arizona heeft een AI-versie van een vermoorde man laten &#039;spreken&#039; namens het slachtoffer. Voor zover bekend gebeurde dat nog niet eerder. De AI-toespraak was geen onderdeel van de daadwerkelijke bewijsvoering.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/234802/rechter-vs-laat-ai-deepfake-van-vermoord-slachtoffer-spreken-tijdens-rechtszaak.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234802</guid>
-            <pubDate>Fri, 09 May 2025 14:16:59 +0200</pubDate>
         </item>
     </channel>
 </rss>
