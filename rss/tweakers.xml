@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 13 May 2025 13:31:01 +0200</pubDate>
-        <lastBuildDate>Tue, 13 May 2025 13:31:01 +0200</lastBuildDate>
+        <pubDate>Tue, 13 May 2025 14:41:02 +0200</pubDate>
+        <lastBuildDate>Tue, 13 May 2025 14:41:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,56 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Nederlandse zorgstart-up komt met eigen taalmodel voor &#039;klinisch redeneren&#039;</title>
+            <link>https://tweakers.net/nieuws/234872/nederlandse-zorgstart-up-komt-met-eigen-taalmodel-voor-klinisch-redeneren.html</link>
+            <description>De Nederlandse zorgstart-up Juvoly ontwikkelt een eigen taalmodel om uiteindelijk zorgmedewerkers te assisteren in hun werk. Het model, J1, is gebaseerd op Llama 3.1-8B-Instruct en is getraind op biomedische opensourceliteratuur uit PubMed.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Wetenschap</category>
+            <comments>https://tweakers.net/nieuws/234872/nederlandse-zorgstart-up-komt-met-eigen-taalmodel-voor-klinisch-redeneren.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234872</guid>
+            <pubDate>Tue, 13 May 2025 14:11:53 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - HWiNFO32/64 8.26</title>
+            <link>https://tweakers.net/downloads/72644/hwinfo32-64-826.html</link>
+            <description>Realix heeft versie 8.26 van HWiNFO uitgebracht. Dit programma geeft een overzicht van de hardware in een Windows-pc. Ook kunnen de processor, het geheugen en de harddisk aan enkele eenvoudige prestatietests worden onderworpen. Daarnaast kunnen de waarden van de diverse sensors op het moederbord, de videokaart en de harde schijf worden uitgelezen. Het programma maakt statusrapporten die in tekst-, csv- of XML-formaat kunnen worden gegenereerd. Naast de gratis versie is er ook een pro-versie, die onder meer gebruik in commerciële omgevingen toestaat en het verzamelen van data via de commandline mogelijk maakt. De changelog voor deze uitgave ziet er als volgt uit: Changes in HWiNFO version 8.26:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72644/hwinfo32-64-826.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72644</guid>
+            <pubDate>Tue, 13 May 2025 14:08:15 +0200</pubDate>
+        </item>
+        <item>
+            <title>Sonos komt met audiosetting voor slechthorenden voor Arc Ultra</title>
+            <link>https://tweakers.net/nieuws/234892/sonos-komt-met-audiosetting-voor-slechthorenden-voor-arc-ultra.html</link>
+            <description>Sonos heeft een software-update uitgebracht voor de Arc Ultra-soundbar die de verstaanbaarheid van dialogen in films en series moet verbeteren. Er is ook een setting specifiek voor slechthorenden.</description>
+            <author>Andrei Stiru</author>
+            <category>Nieuws / Beeld en geluid / Soundbars</category>
+            <comments>https://tweakers.net/nieuws/234892/sonos-komt-met-audiosetting-voor-slechthorenden-voor-arc-ultra.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234892</guid>
+            <pubDate>Tue, 13 May 2025 14:06:11 +0200</pubDate>
+        </item>
+        <item>
+            <title>Quicktest - De WD_Black SN8100 2TB: De allersnelste ssd tot nu toe</title>
+            <link>https://tweakers.net/reviews/13246/de-wd_black-sn8100-2tb-de-allersnelste-ssd-tot-nu-toe.html</link>
+            <description>De prestatiekronen volgen elkaar in rap tempo op. De SN8100 2TB-drive van WD_Black/Sandisk is de snelste drive die we tot dusver getest hebben.</description>
+            <author>Willem de Moor</author>
+            <category>Quicktest / Computers / SSD&#039;s</category>
+            <comments>https://tweakers.net/reviews/13246/de-wd_black-sn8100-2tb-de-allersnelste-ssd-tot-nu-toe.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13246</guid>
+            <pubDate>Tue, 13 May 2025 14:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>DJI brengt Mavic 4 Pro-drone met betere camera&#039;s uit vanaf 2099 euro</title>
+            <link>https://tweakers.net/nieuws/234890/dji-brengt-mavic-4-pro-drone-met-betere-cameras-uit-vanaf-2099-euro.html</link>
+            <description>DJI kondigt de Mavic 4 Pro-drone aan voor een adviesprijs vanaf 2099 euro. De drone beschikt net als de voorgangers over drie camera&#039;s en kan topsnelheden van 90km/u behalen. De Mavic 4 Pro wordt geleverd met een vernieuwde RC 2-afstandsbediening met 7&quot;-miniledscherm.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Beeld en geluid / Drones</category>
+            <comments>https://tweakers.net/nieuws/234890/dji-brengt-mavic-4-pro-drone-met-betere-cameras-uit-vanaf-2099-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234890</guid>
+            <pubDate>Tue, 13 May 2025 14:00:00 +0200</pubDate>
+        </item>
         <item>
             <title>Ontwikkelaars vinden aanwijzingen voor volgende gpu-architectuur AMD en Intel</title>
             <link>https://tweakers.net/nieuws/234888/ontwikkelaars-vinden-aanwijzingen-voor-volgende-gpu-architectuur-amd-en-intel.html</link>
@@ -366,56 +416,6 @@
             <comments>https://tweakers.net/downloads/72624/rustdesk-140.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72624</guid>
             <pubDate>Mon, 12 May 2025 07:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - TagScanner 6.1.20</title>
-            <link>https://tweakers.net/downloads/72622/tagscanner-6120.html</link>
-            <description>Versie 6.1.20 van TagScanner is uitgekomen. Met dit programma kan de muziekcollectie worden beheerd en georganiseerd. TagScanner heeft uitgebreide mogelijkheden om zowel bestandsnamen als tags aan te passen en is daarmee vergelijkbaar met programma&#039;s als Tag&amp;Rename en MP3tag. Vrijwel alle bekende en minder bekende formaten worden ondersteund, waaronder mp3, ogg, wma, mp4, flac, ape, aac en wav. Informatie kan handmatig worden ingevoerd, uit de bestandsnaam worden gefilterd of uit een van de vele databases op internet worden getrokken. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 6.1.20:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72622/tagscanner-6120.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72622</guid>
-            <pubDate>Sun, 11 May 2025 16:25:03 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Wacup 1.99.32.21640 bèta</title>
-            <link>https://tweakers.net/downloads/72620/wacup-1993221640-beta.html</link>
-            <description>Wacup, wat kan worden uitgesproken als wake up, staat voor Winamp Community Update Project en is een gratis mediaspeler voor Windows 7 en hoger. Hoewel &#039;Community Project&#039; in de naam anders doet vermoeden is de software gratis en niet opensource. Wacup heeft qua uiterlijk veel weg van Winamp en kan ook overweg met plug-ins uit dat ecosysteem. De software is nog in ontwikkeling en kan als bèta worden gedownload. De changelog voor versie 1.99.32.21640 kan hieronder worden gevonden. Beta Version: 1.99.32.21640 (x64)</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72620/wacup-1993221640-beta.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72620</guid>
-            <pubDate>Sun, 11 May 2025 14:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google schikt voor 1,4 miljard dollar voor verzamelen van gegevens van Texanen</title>
-            <link>https://tweakers.net/nieuws/234838/google-schikt-voor-1-komma-4-miljard-dollar-voor-verzamelen-van-gegevens-van-texanen.html</link>
-            <description>Google heeft een schikking van 1,375 miljard dollar getroffen met Texas. Het bedrijf werd door de Amerikaanse staat beschuldigd voor het onterecht verzamelen van biometrische gegevens van miljoenen Texanen en het volgen van Chrome-gebruikers in de incognitomodus.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/234838/google-schikt-voor-1-komma-4-miljard-dollar-voor-verzamelen-van-gegevens-van-texanen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234838</guid>
-            <pubDate>Sun, 11 May 2025 13:06:09 +0200</pubDate>
-        </item>
-        <item>
-            <title>Firmware-update - Asuswrt-Merlin 3006.102.4</title>
-            <link>https://tweakers.net/downloads/72618/asuswrt-merlin-30061024.html</link>
-            <description>Asus gebruikt voor zijn routers, zoals de RT-AC68 en RT-AX88, een van Tomato afgeleide firmware met de naam Asuswrt. Deze firmware is, op enkele drivers na, opensource, waarbij de gesloten binaries wel meegeleverd worden. Asuswrt-Merlin is op zijn beurt een aangepaste versie van de originele firmware van Asus. Het bevat onder meer bugfixes en kleine verbeteringen, maar probeert toch dicht bij het origineel te blijven, zodat het mogelijk blijft om nieuwe features die Asus introduceert, toe te voegen aan de code. Versie 3006.102.4 is uitgekomen en hierin zijn de volgende veranderingen en verbeteringen aangebracht: Note:</description>
-            <author>Bart van Klaveren</author>
-            <category>Firmware</category>
-            <comments>https://tweakers.net/downloads/72618/asuswrt-merlin-30061024.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72618</guid>
-            <pubDate>Sun, 11 May 2025 12:32:31 +0200</pubDate>
-        </item>
-        <item>
-            <title>Bluetooth 6.1 moet volgen van apparaten moeilijker maken en accuduur verbeteren</title>
-            <link>https://tweakers.net/nieuws/234836/bluetooth-61-moet-volgen-van-apparaten-moeilijker-maken-en-accuduur-verbeteren.html</link>
-            <description>De Bluetooth Special Interest Group heeft Bluetooth 6.1 uitgebracht. Deze versie komt met een functie genaamd randomized resolvable private address, die het voor onbevoegden moeilijker moet maken om bluetoothapparaten voor langere tijd te volgen.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/234836/bluetooth-61-moet-volgen-van-apparaten-moeilijker-maken-en-accuduur-verbeteren.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234836</guid>
-            <pubDate>Sun, 11 May 2025 12:02:26 +0200</pubDate>
         </item>
     </channel>
 </rss>
