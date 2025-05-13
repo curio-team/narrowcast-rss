@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 13 May 2025 11:31:01 +0200</pubDate>
-        <lastBuildDate>Tue, 13 May 2025 11:31:01 +0200</lastBuildDate>
+        <pubDate>Tue, 13 May 2025 12:36:01 +0200</pubDate>
+        <lastBuildDate>Tue, 13 May 2025 12:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Kamera Express introduceert abonnementsmodel voor cameraverhuur</title>
+            <link>https://tweakers.net/nieuws/234886/kamera-express-introduceert-abonnementsmodel-voor-cameraverhuur.html</link>
+            <description>De fotografiespecialist Kamera Express start met een abonnementsservice voor camera-apparatuur. Het bedrijf biedt drie verschillende pakketten aan waarbij fotografen en videomakers tegen een maandelijks bedrag professionele apparatuur kunnen gebruiken.</description>
+            <author>Andrei Stiru</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/234886/kamera-express-introduceert-abonnementsmodel-voor-cameraverhuur.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234886</guid>
+            <pubDate>Tue, 13 May 2025 11:49:56 +0200</pubDate>
+        </item>
         <item>
             <title>.Geek - Prime Video kondigt seizoen twee en drie aan van succesvolle Fallout-serie</title>
             <link>https://tweakers.net/geek/234884/prime-video-kondigt-seizoen-twee-en-drie-aan-van-succesvolle-fallout-serie.html</link>
@@ -88,22 +98,22 @@
             <pubDate>Tue, 13 May 2025 07:30:00 +0200</pubDate>
         </item>
         <item>
-            <title>Videopreview - De allerdunste smartphone ooit - Samsung Galaxy S25 Edge Preview</title>
-            <link>https://tweakers.net/video/19890/de-allerdunste-smartphone-ooit-samsung-galaxy-s25-edge-preview.html</link>
+            <title>Videopreview - De allerdunste Samsung-smartphone ooit - Samsung Galaxy S25 Edge Preview</title>
+            <link>https://tweakers.net/video/19890/de-allerdunste-samsung-smartphone-ooit-samsung-galaxy-s25-edge-preview.html</link>
             <description>Samsung heeft de ultradunne nieuwe Galaxy S25 Edge uit de doeken gedaan. Wij mochten als een van de eersten in Nederland met het toestel spelen en in deze preview zie je onze eerste indrukken. Wat het toestel zo bijzonder maakt, kun je van een afstandje waarschijnlijk niet goed zien, maar merk je direct als je hem vasthoudt: hij is met een dikte van 5,8mm de allerdunste telefoon die je momenteel kunt kopen.</description>
             <author>Mark van der Kruit</author>
             <category>Videopreview / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/video/19890/de-allerdunste-smartphone-ooit-samsung-galaxy-s25-edge-preview.html#reacties</comments>
+            <comments>https://tweakers.net/video/19890/de-allerdunste-samsung-smartphone-ooit-samsung-galaxy-s25-edge-preview.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/video/19890</guid>
             <pubDate>Tue, 13 May 2025 06:00:00 +0200</pubDate>
         </item>
         <item>
-            <title>Preview - Samsung Galaxy S25 Edge - De allerdunste smartphone ooit</title>
-            <link>https://tweakers.net/reviews/13268/samsung-galaxy-s25-edge-de-allerdunste-smartphone-ooit.html</link>
+            <title>Preview - Samsung Galaxy S25 Edge - De allerdunste Samsung-smartphone ooit</title>
+            <link>https://tweakers.net/reviews/13268/samsung-galaxy-s25-edge-de-allerdunste-samsung-smartphone-ooit.html</link>
             <description>Samsung heeft de Galaxy S25 Edge onthult, de allerdunste smartphone ooit gemaakt.</description>
             <author>Dennis de Vries</author>
             <category>Preview / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/reviews/13268/samsung-galaxy-s25-edge-de-allerdunste-smartphone-ooit.html#reacties</comments>
+            <comments>https://tweakers.net/reviews/13268/samsung-galaxy-s25-edge-de-allerdunste-samsung-smartphone-ooit.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13268</guid>
             <pubDate>Tue, 13 May 2025 06:00:00 +0200</pubDate>
         </item>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/234834/philips-deelt-3d-modellen-van-reserveonderdelen-van-zijn-producten-op-printables.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234834</guid>
             <pubDate>Sun, 11 May 2025 10:54:19 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google brengt AI-overzichten boven zoekresultaten uit in Nederland</title>
-            <link>https://tweakers.net/nieuws/234832/google-brengt-ai-overzichten-boven-zoekresultaten-uit-in-nederland.html</link>
-            <description>Google heeft zijn AI-overzichten uitgebracht voor gebruikers in Nederland. Vorig jaar kwamen deze AI-gegenereerde zoekresultaten al beschikbaar voor gebruikers in de Verenigde Staten. Ook in enkele andere EU-landen, waaronder België, werden de AI-overzichten al eerder uitgebracht.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Internet</category>
-            <comments>https://tweakers.net/nieuws/234832/google-brengt-ai-overzichten-boven-zoekresultaten-uit-in-nederland.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234832</guid>
-            <pubDate>Sun, 11 May 2025 09:57:48 +0200</pubDate>
         </item>
     </channel>
 </rss>
