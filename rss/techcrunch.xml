@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 13 May 2025 13:25:32 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 May 2025 14:36:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,18 +28,105 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Spotify updates its AI DJ to let you use voice commands</title>
+		<title>Notion takes on AI-notetakers like Granola with its own transcription feature</title>
+		<link>https://techcrunch.com/2025/05/13/notion-takes-on-ai-notetakers-like-granola-with-its-own-transcription-feature/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Tue, 13 May 2025 14:27:42 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[AI meeting]]></category>
+		<category><![CDATA[AI notetaker]]></category>
+		<category><![CDATA[Notion]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3006349</guid>
+
+					<description><![CDATA[Meeting transcription space is a hot commodity for all productivity suites. Companies like ClickUp and Zoom have added transcription with an AI summary to take on another upstart in this vertical, including Read AI, Zoom’s assistant, Circleback, Granola, or Otter. The latest entrant in the race to build meeting transcription tools is Notion. The company is rolling out an [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Amazon Prime Video in India to get ads starting in June</title>
+		<link>https://techcrunch.com/2025/05/13/amazon-prime-video-in-india-to-get-ads-starting-in-june/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Tue, 13 May 2025 14:17:01 +0000</pubDate>
+				<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Amazon Prime Video]]></category>
+		<category><![CDATA[prime video]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3006348</guid>
+
+					<description><![CDATA[Amazon will bring ads to movies and shows on Prime Video in India starting June 17, over a year after introducing ads in markets including the U.S., U.K., Germany, and Canada. On Tuesday, Amazon emailed Prime members in India to announce the rollout of &#8220;limited advertisements&#8221; on content streaming on Prime Video. Amazon originally announced [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>At TechCrunch All Stage 2025, Rob Biederman will help founders rethink how to scale</title>
+		<link>https://techcrunch.com/2025/05/13/at-techcrunch-all-stage-2025-rob-biederman-will-help-founders-rethink-how-to-scale/</link>
+		
+		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
+		<pubDate>Tue, 13 May 2025 14:06:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TechCrunch All Stage 2025]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3006291</guid>
+
+					<description><![CDATA[If you’re a founder looking to grow your startup, chances are you’re wrestling with more than just product or capital. Talent, scale, and smart execution are the real battlegrounds. That’s exactly what TechCrunch All Stage 2025 is built to address on July 15 at Boston’s SoWa Power Station. See top startup leaders taking the stage [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>GM’s new ‘manganese rich’ battery promises cheaper EVs in 2028</title>
+		<link>https://techcrunch.com/2025/05/13/gms-new-manganese-rich-battery-promises-cheaper-evs-in-2028/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Tue, 13 May 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Climate]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[GM]]></category>
+		<category><![CDATA[lithium ion batteries]]></category>
+		<category><![CDATA[lg energy solution]]></category>
+		<category><![CDATA[battery manufacturing]]></category>
+		<category><![CDATA[critical minerals]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3006206</guid>
+
+					<description><![CDATA[Lithium-manganese-rich (LMR) batteries should slash costs without sacrificing much range.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple announces new accessibility features, including future support for brain implants</title>
+		<link>https://techcrunch.com/2025/05/13/apple-announces-new-accessibility-features-including-future-support-for-brain-implants/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Tue, 13 May 2025 13:54:01 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[accessibility]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3006389</guid>
+
+					<description><![CDATA[Apple on Tuesday announced a range of accessibility features coming to its devices later this year. New Accessibility Nutrition Labels will provide more detailed information for apps and games on the App Store, while a new Braille Access tool will turn the iPhone, iPad, Mac, and Apple Vision Pro into a braille note taker. Additional [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Spotify&#8217;s AI DJ now let you use voice commands to personalize your tunes</title>
 		<link>https://techcrunch.com/2025/05/13/spotifys-ai-dj/</link>
 		
 		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
 		<pubDate>Tue, 13 May 2025 13:00:00 +0000</pubDate>
 				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Spotify]]></category>
-		<category><![CDATA[music streaming]]></category>
 		<category><![CDATA[ai dj]]></category>
+		<category><![CDATA[music streaming]]></category>
+		<category><![CDATA[Spotify]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3006300</guid>
 
-					<description><![CDATA[In a bid to make its AI DJ feel more interactive, Spotify is updating the feature to let users request music or change the mood of a playlist using voice commands. The company is rolling out this feature, supported only in English, in over 60 markets for its premium subscribers. Until now, you could only [&#8230;]]]></description>
+					<description><![CDATA[In a bid to make its AI DJ feel more interactive, Spotify is updating the feature to allow users to request music or change the mood of a playlist using voice commands. The company is rolling out this feature, initially only supported in English, in over 60 markets for its Premium subscribers. Previously, users could [&#8230;]]]></description>
 		
 		
 		
@@ -286,88 +373,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3005605</guid>
 
 					<description><![CDATA[Buzzwords that are stretched to the point of being meaningless are as old as the tech industry itself. The top current one is &#8220;AI agent&#8221; and its variants, like &#8220;agentic.&#8221; So, unsurprisingly, no one really knows what an AI agent is. Even people with software engineering backgrounds who work for Andreessen Horowitz, one of the premier venture [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Congressman is investigating fintech Ramp&#8217;s attempt to win $25M federal contract</title>
-		<link>https://techcrunch.com/2025/05/12/congressman-is-investigating-fintech-ramps-attempt-to-win-25m-federal-contract/</link>
-		
-		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
-		<pubDate>Mon, 12 May 2025 17:58:07 +0000</pubDate>
-				<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Ramp]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3006066</guid>
-
-					<description><![CDATA[Rep. Gerald Connolly, ranking member of the U.S. House Oversight Committee, has initiated an investigation into whether expense management startup Ramp is receiving preferential treatment in its bid for a $25 million government contract. Connolly sent a letter to General Services Administration (GSA) Acting Administrator Stephen Ehikian demanding information and documents related to the GSA’s [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mercury’s CEO formalizes bets on early-stage founders with a $26M fund</title>
-		<link>https://techcrunch.com/2025/05/12/mercurys-ceo-formalizes-bets-on-early-stage-founders-with-a-26m-fund/</link>
-		
-		<dc:creator><![CDATA[Tage Kene-Okafor]]></dc:creator>
-		<pubDate>Mon, 12 May 2025 17:40:38 +0000</pubDate>
-				<category><![CDATA[Venture]]></category>
-		<category><![CDATA[immad akhund]]></category>
-		<category><![CDATA[mercury]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3005972</guid>
-
-					<description><![CDATA[Mercury co-founder and CEO Immad Akhund today announced the launch of a $26 million fund to back early-stage startups, a move that formalizes his extensive history of angel investing. Axios first reported this in February. Akhund has been an active angel investor since 2016, backing over 350 startups at their earliest stages. His portfolio includes [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google launches new initiative to back startups building AI</title>
-		<link>https://techcrunch.com/2025/05/12/google-launches-new-initiative-to-back-startups-building-ai/</link>
-		
-		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
-		<pubDate>Mon, 12 May 2025 17:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Google]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3005236</guid>
-
-					<description><![CDATA[On Monday, Google announced the launch of its AI Futures Fund, a new initiative that seeks to invest in startups that are building with the latest AI tools from Google DeepMind, the company’s AI R&#38;D lab.&#160; The fund will back startups from seed to late stage and will offer varying degrees of support, including allowing [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Saudi prince launches AI venture as Trump, Musk, Altman, and Zuckerberg arrive for conference</title>
-		<link>https://techcrunch.com/2025/05/12/saudi-prince-launches-ai-venture-as-trump-musk-altman-and-zuckerberg-arrive-for-conference/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Mon, 12 May 2025 16:59:30 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[public investment fund]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3005849</guid>
-
-					<description><![CDATA[Saudi Arabia&#8217;s ruler, Mohammed bin Salman, launched an AI company called Humain to bolster the country&#8217;s artificial intelligence sector. The company plans to build out the country&#8217;s AI infrastructure, including the construction of data centers. This news arrives as Elon Musk, Sam Altman, and Mark Zuckerberg are expected to attend a U.S.-Saudi investment forum on [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Sam Altman apparently does not respect olive oil</title>
-		<link>https://techcrunch.com/2025/05/12/sam-altman-apparently-does-not-respect-olive-oil/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Mon, 12 May 2025 16:30:22 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[sam altman]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3005821</guid>
-
-					<description><![CDATA[OpenAI CEO Sam Altman is using his olive oil inefficiently in an &#8220;offense to horticulture,&#8221; the Financial Times humorously reports. For its &#8220;Lunch with the FT&#8221; series, the paper joined Altman in his kitchen. He prepared a garlicky pasta and salad, taking a rare break from his demanding job of advocating for the disruption of [&#8230;]]]></description>
 		
 		
 		

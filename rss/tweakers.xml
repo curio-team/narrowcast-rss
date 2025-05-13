@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 13 May 2025 15:36:00 +0200</pubDate>
-        <lastBuildDate>Tue, 13 May 2025 15:36:00 +0200</lastBuildDate>
+        <pubDate>Tue, 13 May 2025 16:36:01 +0200</pubDate>
+        <lastBuildDate>Tue, 13 May 2025 16:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Red Hat brengt Enterprise Linux 10 officieel uit</title>
+            <link>https://tweakers.net/nieuws/234902/red-hat-brengt-enterprise-linux-10-officieel-uit.html</link>
+            <description>Red Hat maakt Enterprise Linux 10 na een bèta van een half jaar nu beschikbaar voor iedereen. Het besturingssysteem introduceert onder meer de Lightspeed-AI-tool en een verbeterde Image-modus.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Computers / Besturingssystemen</category>
+            <comments>https://tweakers.net/nieuws/234902/red-hat-brengt-enterprise-linux-10-officieel-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234902</guid>
+            <pubDate>Tue, 13 May 2025 16:05:46 +0200</pubDate>
+        </item>
         <item>
             <title>AP wil Nederlandse gemeenten helpen omgaan met privacy inwoners</title>
             <link>https://tweakers.net/nieuws/234900/ap-wil-nederlandse-gemeenten-helpen-omgaan-met-privacy-inwoners.html</link>
@@ -228,12 +238,12 @@
             <pubDate>Mon, 12 May 2025 22:00:00 +0200</pubDate>
         </item>
         <item>
-            <title>Politie: cybercrime nam aanzienlijk af, maar online fraude nam juist toe</title>
-            <link>https://tweakers.net/nieuws/234874/politie-cybercrime-nam-aanzienlijk-af-maar-online-fraude-nam-juist-toe.html</link>
-            <description>De Nederlandse politie merkte in 2024 op dat er een verschuiving van offline naar online criminaliteit plaatsvindt. Het aantal aangiftes van online fraude steeg in dat jaar met ruim twintig procent. Tegelijkertijd nam het aantal aanvallen op ict-doelwitten met ruim veertig procent af.</description>
+            <title>Openbaar Ministerie: cybercrime nam af, maar online fraude nam toe - update</title>
+            <link>https://tweakers.net/nieuws/234874/openbaar-ministerie-cybercrime-nam-af-maar-online-fraude-nam-toe.html</link>
+            <description>Het Nederlandse Openbaar Miniserie merkte in 2024 op dat er een verschuiving van offline naar online criminaliteit plaatsvindt. Het aantal aangiftes van online fraude steeg in dat jaar met ruim twintig procent. Het aantal aanvallen op ict-doelwitten nam echter met ruim veertig procent af.</description>
             <author>Yannick Spinner</author>
             <category>Nieuws / IT Pro / Economie en maatschappij</category>
-            <comments>https://tweakers.net/nieuws/234874/politie-cybercrime-nam-aanzienlijk-af-maar-online-fraude-nam-juist-toe.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/234874/openbaar-ministerie-cybercrime-nam-af-maar-online-fraude-nam-toe.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234874</guid>
             <pubDate>Mon, 12 May 2025 20:53:33 +0200</pubDate>
         </item>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/234844/asus-verwerkt-600-euro-aan-goud-in-rtx-5090-voor-midden-oosten.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234844</guid>
             <pubDate>Mon, 12 May 2025 09:57:02 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft Teams krijgt functie die schermopnames blokkeert tijdens meetings</title>
-            <link>https://tweakers.net/nieuws/234842/microsoft-teams-krijgt-functie-die-schermopnames-blokkeert-tijdens-meetings.html</link>
-            <description>Microsoft werkt aan een functie die voorkomt dat gebruikers schermopnames kunnen maken tijdens een vergadering. Dat moet het moeilijker maken om gevoelige informatie te verspreiden. De uitrol gaat naar verwachting van start in juli.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/234842/microsoft-teams-krijgt-functie-die-schermopnames-blokkeert-tijdens-meetings.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234842</guid>
-            <pubDate>Mon, 12 May 2025 09:05:06 +0200</pubDate>
         </item>
     </channel>
 </rss>
