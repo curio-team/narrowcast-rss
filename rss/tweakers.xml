@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 13 May 2025 14:41:02 +0200</pubDate>
-        <lastBuildDate>Tue, 13 May 2025 14:41:02 +0200</lastBuildDate>
+        <pubDate>Tue, 13 May 2025 15:36:00 +0200</pubDate>
+        <lastBuildDate>Tue, 13 May 2025 15:36:00 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,46 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>AP wil Nederlandse gemeenten helpen omgaan met privacy inwoners</title>
+            <link>https://tweakers.net/nieuws/234900/ap-wil-nederlandse-gemeenten-helpen-omgaan-met-privacy-inwoners.html</link>
+            <description>De Autoriteit Persoonsgegevens gaat op inspectie bij Nederlandse gemeenten om te kijken hoe de overheidsorganen omgaan met de persoonsgegevens en privacy van inwoners. Het is volgens de toezichthouder de bedoeling dat gemeenten hiermee geholpen worden en van elkaar leren.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/234900/ap-wil-nederlandse-gemeenten-helpen-omgaan-met-privacy-inwoners.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234900</guid>
+            <pubDate>Tue, 13 May 2025 15:25:59 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Plan - Wysiwyg-editor beschikbaar als bètafeature - Development-iteratie #311</title>
+            <link>https://tweakers.net/plan/4396/wysiwyg-editor-beschikbaar-als-betafeature-development-iteratie-311.html</link>
+            <description>De afgelopen sprints is er veel werk gedaan om een eerste bruikbare versie van een wysiwyg-editor op te tuigen. Deze komt nu beschikbaar als bètafeature voor frontpagereacties. In dit .plan meer hierover.</description>
+            <author>Sander den Heijer</author>
+            <category>.plan</category>
+            <comments>https://tweakers.net/plan/4396/wysiwyg-editor-beschikbaar-als-betafeature-development-iteratie-311.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/plan/4396</guid>
+            <pubDate>Tue, 13 May 2025 15:20:42 +0200</pubDate>
+        </item>
+        <item>
+            <title>ChatGPT integreert OneDrive en SharePoint-documenten in deep research-functie</title>
+            <link>https://tweakers.net/nieuws/234894/chatgpt-integreert-onedrive-en-sharepoint-documenten-in-deep-research-functie.html</link>
+            <description>Microsoft en OpenAI integreren OneDrive en SharePoint in ChatGPT&#039;s deep research-functie. De nieuwe functionaliteit stelt gebruikers in staat om ChatGPT direct toegang te geven tot hun documenten voor realtimeanalyse.</description>
+            <author>Andrei Stiru</author>
+            <category>Nieuws / Computers / Software</category>
+            <comments>https://tweakers.net/nieuws/234894/chatgpt-integreert-onedrive-en-sharepoint-documenten-in-deep-research-functie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234894</guid>
+            <pubDate>Tue, 13 May 2025 15:00:55 +0200</pubDate>
+        </item>
+        <item>
+            <title>AMD brengt Zen 5-gebaseerde EPYC 4005-cpu&#039;s uit voor socket AM5</title>
+            <link>https://tweakers.net/nieuws/234746/amd-brengt-zen-5-gebaseerde-epyc-4005-cpus-uit-voor-socket-am5.html</link>
+            <description>AMD brengt de EPYC 4005-generatie van serverprocessors voor socket AM5 uit. Ze passen in dezelfde socket als de Ryzen-chips uit de 7000-serie en nieuwer voor consumenten, maar bieden extra features zoals officiële ondersteuning voor ecc-geheugen en serverbesturingssystemen.</description>
+            <author>Tomas Hochstenbach</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/234746/amd-brengt-zen-5-gebaseerde-epyc-4005-cpus-uit-voor-socket-am5.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234746</guid>
+            <pubDate>Tue, 13 May 2025 15:00:00 +0200</pubDate>
+        </item>
         <item>
             <title>Nederlandse zorgstart-up komt met eigen taalmodel voor &#039;klinisch redeneren&#039;</title>
             <link>https://tweakers.net/nieuws/234872/nederlandse-zorgstart-up-komt-met-eigen-taalmodel-voor-klinisch-redeneren.html</link>
@@ -58,7 +98,7 @@
             <pubDate>Tue, 13 May 2025 14:00:00 +0200</pubDate>
         </item>
         <item>
-            <title>DJI brengt Mavic 4 Pro-drone met betere camera&#039;s uit vanaf 2099 euro</title>
+            <title>DJI brengt Mavic 4 Pro-drone met betere camera&#039;s uit vanaf 2099 euro - update</title>
             <link>https://tweakers.net/nieuws/234890/dji-brengt-mavic-4-pro-drone-met-betere-cameras-uit-vanaf-2099-euro.html</link>
             <description>DJI kondigt de Mavic 4 Pro-drone aan voor een adviesprijs vanaf 2099 euro. De drone beschikt net als de voorgangers over drie camera&#039;s en kan topsnelheden van 90km/u behalen. De Mavic 4 Pro wordt geleverd met een vernieuwde RC 2-afstandsbediening met 7&quot;-miniledscherm.</description>
             <author>Yannick Spinner</author>
@@ -376,46 +416,6 @@
             <comments>https://tweakers.net/nieuws/234842/microsoft-teams-krijgt-functie-die-schermopnames-blokkeert-tijdens-meetings.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234842</guid>
             <pubDate>Mon, 12 May 2025 09:05:06 +0200</pubDate>
-        </item>
-        <item>
-            <title>Preview - Panasonic introduceert tv-line-up voor 2025 met zes nieuwe modellen</title>
-            <link>https://tweakers.net/reviews/13254/panasonic-introduceert-tv-line-up-voor-2025-met-zes-nieuwe-modellen.html</link>
-            <description>Panasonic presenteert zijn tv-aanbod voor 2025 met zes nieuwe series, waaronder Z95B (oled) en W95B (miniled). De modellen komen in grotere formaten dan voorheen.</description>
-            <author>Sjef Weller</author>
-            <category>Preview / Beeld en geluid / Televisies</category>
-            <comments>https://tweakers.net/reviews/13254/panasonic-introduceert-tv-line-up-voor-2025-met-zes-nieuwe-modellen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13254</guid>
-            <pubDate>Mon, 12 May 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Shotcut 25.05</title>
-            <link>https://tweakers.net/downloads/72626/shotcut-2505.html</link>
-            <description>Shotcut is een uitgebreid opensource en crossplatform videobewerkingsprogramma voor Windows, Linux en macOS. Het maakt gebruik van FFmpeg en heeft daardoor ondersteuning voor de gangbaarste formaten audio en video. De bestanden worden niet geïmporteerd, maar worden in hun originele formaat bewerkt. Het kan overweg met verschillende sporen en binnen een project kan er een mix van formaten en resoluties worden gebruikt. In versie 25.05 zijn de volgende veranderingen en verbeteringen aangebracht: New Features</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72626/shotcut-2505.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72626</guid>
-            <pubDate>Mon, 12 May 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Youtuber: onuitgebrachte Nvidia Titan Ada blijkt efficiënter dan RTX 5090</title>
-            <link>https://tweakers.net/nieuws/234840/youtuber-onuitgebrachte-nvidia-titan-ada-blijkt-efficienter-dan-rtx-5090.html</link>
-            <description>Youtuber der8auer heeft een prototype van Nvidia&#039;s onuitgebrachte Titan Ada-videokaart getest. Eerder verschenen al afbeeldingen van de vermeende RTX 4090 Ti of Titan met een soortgelijke quadslot-gpu-koeler, maar nog nooit met de Titan-merknaam erop.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/nieuws/234840/youtuber-onuitgebrachte-nvidia-titan-ada-blijkt-efficienter-dan-rtx-5090.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234840</guid>
-            <pubDate>Mon, 12 May 2025 08:42:55 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - RustDesk 1.4.0</title>
-            <link>https://tweakers.net/downloads/72624/rustdesk-140.html</link>
-            <description>Versie 1.4.0 van RustDesk is uitgekomen. RustDesk is een opensource alternatief voor programma&#039;s als TeamViewer en AnyDesk, met de mogelijkheid om een eigen relayserver op te zetten om zo een snellere verbinding te hebben en natuurlijk controle over je eigen data te houden. Installatie-instructies zijn beschikbaar voor Windows, Linux en Synology. De changelog voor deze uitgave kan hieronder worden gevonden. Added</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72624/rustdesk-140.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72624</guid>
-            <pubDate>Mon, 12 May 2025 07:30:00 +0200</pubDate>
         </item>
     </channel>
 </rss>

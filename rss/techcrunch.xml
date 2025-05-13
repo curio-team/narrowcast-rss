@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 13 May 2025 12:26:13 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 May 2025 13:25:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,42 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Spotify updates its AI DJ to let you use voice commands</title>
+		<link>https://techcrunch.com/2025/05/13/spotifys-ai-dj/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Tue, 13 May 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Spotify]]></category>
+		<category><![CDATA[music streaming]]></category>
+		<category><![CDATA[ai dj]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3006300</guid>
+
+					<description><![CDATA[In a bid to make its AI DJ feel more interactive, Spotify is updating the feature to let users request music or change the mood of a playlist using voice commands. The company is rolling out this feature, supported only in English, in over 60 markets for its premium subscribers. Until now, you could only [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Insurtech Bestow lands $120M Series D from Goldman Sachs, Smith Point Capital</title>
+		<link>https://techcrunch.com/2025/05/13/insurtech-bestow-lands-120m-series-d-from-goldman-sachs-smith-point-capital/</link>
+		
+		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
+		<pubDate>Tue, 13 May 2025 12:45:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Goldman Sachs]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[insurtech]]></category>
+		<category><![CDATA[Bestow]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3006251</guid>
+
+					<description><![CDATA[Melbourne O&#8217;Banion co-founded insurtech Bestow with Jonathan Abelmann in 2017 after struggling to secure his own life insurance policy. His goal was to make it easier for people to obtain life insurance and make the process more tech-enabled. Initially, Bestow operated as a direct-to-consumer insurance provider &#8212; selling, underwriting, and servicing life insurance policies. In [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Robinhood grows its footprint in Canada by acquiring WonderFi</title>
 		<link>https://techcrunch.com/2025/05/13/robinhood-grows-its-footprint-in-canada-by-acquiring-wonderfi/</link>
 		
@@ -222,14 +258,14 @@
 		
 			</item>
 		<item>
-		<title>Apple brings emergency satellite features to iPhone 13 with iOS 18.5</title>
+		<title>Apple brings satellite features to iPhone 13 with iOS 18.5</title>
 		<link>https://techcrunch.com/2025/05/12/apple-brings-emergency-satellite-features-to-iphone-13-with-ios-18-5/</link>
 		
 		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
 		<pubDate>Mon, 12 May 2025 18:47:05 +0000</pubDate>
 				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[ios 18.5]]></category>
 		<category><![CDATA[satellite]]></category>
+		<category><![CDATA[ios 18.5]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3006074</guid>
 
 					<description><![CDATA[Apple on Monday released iOS 18.5, which expands emergency satellite capabilities to iPhone 13 owners for the first time. Previously, the satellite features were available to those running an iPhone 14 or later. The emergency satellite system for iPhone is designed to be used at critical times when a cellular signal or Wi-Fi is not [&#8230;]]]></description>
@@ -332,40 +368,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3005821</guid>
 
 					<description><![CDATA[OpenAI CEO Sam Altman is using his olive oil inefficiently in an &#8220;offense to horticulture,&#8221; the Financial Times humorously reports. For its &#8220;Lunch with the FT&#8221; series, the paper joined Altman in his kitchen. He prepared a garlicky pasta and salad, taking a rare break from his demanding job of advocating for the disruption of [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI&#8217;s Stargate project reportedly struggling to get off the ground, thanks to tariffs</title>
-		<link>https://techcrunch.com/2025/05/12/openais-stargate-project-reportedly-struggling-to-get-off-the-ground-thanks-to-tariffs/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Mon, 12 May 2025 15:05:20 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[Softbank]]></category>
-		<category><![CDATA[stargate]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3005820</guid>
-
-					<description><![CDATA[OpenAI&#8217;s ambitious Stargate data center project is facing delays thanks to tariff-related economic uncertainty, reports Bloomberg. Growing market volatility and cheaper AI services have made banks, private equity investors, and asset managers wary of investing in Stargate, an OpenAI-led project that aims to raise up to $500 million for AI infrastructure in the U.S. and [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>GM taps Aurora co-founder for new chief product officer role</title>
-		<link>https://techcrunch.com/2025/05/12/gm-taps-aurora-co-founder-for-new-chief-product-officer-role/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
-		<pubDate>Mon, 12 May 2025 15:02:02 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[GM]]></category>
-		<category><![CDATA[Sterling Anderson]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3005823</guid>
-
-					<description><![CDATA[General Motors has turned to Sterling Anderson, a veteran of the autonomous vehicle industry, to oversee its entire product line of gas-powered and electric vehicles, in a newly created job that will touch nearly every department at the U.S. automaker. The new VP of global product and chief product officer position will cover the entire [&#8230;]]]></description>
 		
 		
 		
