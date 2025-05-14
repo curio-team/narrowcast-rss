@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 14 May 2025 00:20:53 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 14 May 2025 11:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>TensorWave raises $100M to grow its AMD-powered cloud infrastructure</title>
+		<link>https://techcrunch.com/2025/05/14/tensorwave-raises-100m-for-its-amd-powered-ai-cloud/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 14 May 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[amd]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[tensorwave]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3005867</guid>
+
+					<description><![CDATA[TensorWave, a data center provider building facilities primarily with AMD hardware, has raised $100 million as it seeks to further build out its data center infrastructure. The funding round was led by Magnetar and AMD Ventures, and brings the company&#8217;s total capital raised to $146.7 million, according to Crunchbase. Maverick Silicon, Nexus Venture Partners and [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Attend TechCrunch Sessions: AI with this new, limited-time discount</title>
 		<link>https://techcrunch.com/2025/05/13/attend-techcrunch-sessions-ai-with-this-new-limited-time-discount/</link>
 		
@@ -362,23 +381,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3005766</guid>
 
 					<description><![CDATA[At the Android Show, taking place ahead of Google I/O 2025, Google announced that it is adding new device-specific features to its Advanced Protection program, which is designed to protect public figures such as politicians and journalists from different digital threats, with the Android 16 release. The new features include a new way of storing [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google unveils its new Android design language, Material 3 Expressive</title>
-		<link>https://techcrunch.com/2025/05/13/google-unveils-its-new-android-design-language-material-3-expressive/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Tue, 13 May 2025 17:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[material 3 expressive]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3005825</guid>
-
-					<description><![CDATA[Google on Tuesday unveiled its new Android design language, Material 3 Expressive, at the Android Show ahead of Google I/O. The update is designed to make your phone more customizable and fluid, the tech giant says. Material 3 Expressive brings new springy animations that Google says will make your phone feel more fluid. For example, [&#8230;]]]></description>
 		
 		
 		
