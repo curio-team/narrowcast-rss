@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 14 May 2025 14:41:02 +0200</pubDate>
-        <lastBuildDate>Wed, 14 May 2025 14:41:02 +0200</lastBuildDate>
+        <pubDate>Wed, 14 May 2025 15:36:01 +0200</pubDate>
+        <lastBuildDate>Wed, 14 May 2025 15:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,46 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Best Buy Guide - De beste 4k-game-pc</title>
+            <link>https://tweakers.net/best-buy-guide/desktops/beste-4k-game-pc</link>
+            <description>Dit nieuwe 4k-advies is grotendeels gebaseerd op het vorige systeem. Zo raden we nog altijd een RTX 5080-videokaart aan die we combineren met een AMD Ryzen-cpu.</description>
+            <author>Willem de Moor</author>
+            <category>Best Buy Guide / Computers / Pc&#039;s</category>
+            <comments>https://tweakers.net/best-buy-guide/desktops/beste-4k-game-pc#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/best-buy-guide/desktops/beste-4k-game-pc</guid>
+            <pubDate>Wed, 14 May 2025 15:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Videoreview - Dit zit er in de Beste 4K Game PC van dit moment!</title>
+            <link>https://tweakers.net/video/19900/dit-zit-er-in-de-beste-4k-game-pc-van-dit-moment.html</link>
+            <description>In deze video bekijken we de Beste 4K Game PC van 2025! Welke onderdelen maken deze setup zo geschikt voor ultra-high settings en hoge framerates? We testen verschillende configuraties: van de Ryzen 7 7700 tot de krachtige 9800X3D, en de RTX 5080 tot zelfs de monstervideokaart RTX 5090. Hoeveel verschil maken ze voor gamen op 4K, 1440p en zelfs hogere framerates? Ontdek benchmarks, advies en alle tips om jouw ideale game pc samen te stellen.</description>
+            <author>Luke van Drie</author>
+            <category>Videoreview / Computers / Pc&#039;s</category>
+            <comments>https://tweakers.net/video/19900/dit-zit-er-in-de-beste-4k-game-pc-van-dit-moment.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/video/19900</guid>
+            <pubDate>Wed, 14 May 2025 15:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Carl Pei: Nothing Phone 3 verschijnt deze zomer voor rond de 800 pond</title>
+            <link>https://tweakers.net/nieuws/234948/carl-pei-nothing-phone-3-verschijnt-deze-zomer-voor-rond-de-800-pond.html</link>
+            <description>De Nothing Phone 3 kost ongeveer 800 Britse pond, wat omgerekend neerkomt op 950 euro. Nothing-ceo Carl Pei deelt deze prijsindicatie tijdens een showcase. Er is nog geen concrete releasedatum bekendgemaakt, maar het toestel moet deze zomer verschijnen.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/234948/carl-pei-nothing-phone-3-verschijnt-deze-zomer-voor-rond-de-800-pond.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234948</guid>
+            <pubDate>Wed, 14 May 2025 14:56:03 +0200</pubDate>
+        </item>
+        <item>
+            <title>Rechter: Europese Commissie mag sms-verkeer met ceo&#039;s niet zomaar geheimhouden</title>
+            <link>https://tweakers.net/nieuws/234946/rechter-europese-commissie-mag-sms-verkeer-met-ceos-niet-zomaar-geheimhouden.html</link>
+            <description>De Europese Commissie mag het sms-verkeer tussen de president van de EC en ceo&#039;s niet zomaar geheimhouden. Dat zegt het Hof van Justitie van de Europese Unie. Het Hof zegt dat de Commissie onvoldoende heeft toegelicht waarom zij berichten niet zou kunnen delen.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/234946/rechter-europese-commissie-mag-sms-verkeer-met-ceos-niet-zomaar-geheimhouden.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234946</guid>
+            <pubDate>Wed, 14 May 2025 14:44:27 +0200</pubDate>
+        </item>
         <item>
             <title>Sony verkocht 2,3 miljoen PS5’s minder dan een jaar eerder</title>
             <link>https://tweakers.net/nieuws/234944/sony-verkocht-2-komma-3-miljoen-ps5s-minder-dan-een-jaar-eerder.html</link>
@@ -376,46 +416,6 @@
             <comments>https://tweakers.net/downloads/72644/hwinfo32-64-826.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72644</guid>
             <pubDate>Tue, 13 May 2025 14:08:15 +0200</pubDate>
-        </item>
-        <item>
-            <title>Sonos komt met audiosetting voor slechthorenden voor Arc Ultra</title>
-            <link>https://tweakers.net/nieuws/234892/sonos-komt-met-audiosetting-voor-slechthorenden-voor-arc-ultra.html</link>
-            <description>Sonos heeft een software-update uitgebracht voor de Arc Ultra-soundbar die de verstaanbaarheid van dialogen in films en series moet verbeteren. Er is ook een setting specifiek voor slechthorenden.</description>
-            <author>Andrei Stiru</author>
-            <category>Nieuws / Beeld en geluid / Soundbars</category>
-            <comments>https://tweakers.net/nieuws/234892/sonos-komt-met-audiosetting-voor-slechthorenden-voor-arc-ultra.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234892</guid>
-            <pubDate>Tue, 13 May 2025 14:06:11 +0200</pubDate>
-        </item>
-        <item>
-            <title>Quicktest - De WD_Black SN8100 2TB: De allersnelste ssd tot nu toe</title>
-            <link>https://tweakers.net/reviews/13246/de-wd_black-sn8100-2tb-de-allersnelste-ssd-tot-nu-toe.html</link>
-            <description>De prestatiekronen volgen elkaar in rap tempo op. De SN8100 2TB-drive van WD_Black/Sandisk is de snelste drive die we tot dusver getest hebben.</description>
-            <author>Willem de Moor</author>
-            <category>Quicktest / Computers / SSD&#039;s</category>
-            <comments>https://tweakers.net/reviews/13246/de-wd_black-sn8100-2tb-de-allersnelste-ssd-tot-nu-toe.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13246</guid>
-            <pubDate>Tue, 13 May 2025 14:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>DJI brengt Mavic 4 Pro-drone met betere camera&#039;s uit vanaf 2099 euro - update</title>
-            <link>https://tweakers.net/nieuws/234890/dji-brengt-mavic-4-pro-drone-met-betere-cameras-uit-vanaf-2099-euro.html</link>
-            <description>DJI kondigt de Mavic 4 Pro-drone aan voor een adviesprijs vanaf 2099 euro. De drone beschikt net als de voorgangers over drie camera&#039;s en kan topsnelheden van 90km/u behalen. De Mavic 4 Pro wordt geleverd met een vernieuwde RC 2-afstandsbediening met 7&quot;-miniledscherm.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Beeld en geluid / Drones</category>
-            <comments>https://tweakers.net/nieuws/234890/dji-brengt-mavic-4-pro-drone-met-betere-cameras-uit-vanaf-2099-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234890</guid>
-            <pubDate>Tue, 13 May 2025 14:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Ontwikkelaars vinden aanwijzingen voor volgende gpu-architectuur AMD en Intel</title>
-            <link>https://tweakers.net/nieuws/234888/ontwikkelaars-vinden-aanwijzingen-voor-volgende-gpu-architectuur-amd-en-intel.html</link>
-            <description>Ontwikkelaars hebben in opensourcepatches aanwijzingen gevonden voor de toekomstige gpu-architecturen van zowel AMD als Intel. Dataminers Kepler_L2 en x86deadandback delen ze op sociale media.</description>
-            <author>Andrei Stiru</author>
-            <category>Nieuws / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/nieuws/234888/ontwikkelaars-vinden-aanwijzingen-voor-volgende-gpu-architectuur-amd-en-intel.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234888</guid>
-            <pubDate>Tue, 13 May 2025 12:47:44 +0200</pubDate>
         </item>
     </channel>
 </rss>

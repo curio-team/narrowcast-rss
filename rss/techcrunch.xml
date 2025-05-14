@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 14 May 2025 12:11:24 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 14 May 2025 13:27:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,17 +28,41 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Tensor9 helps vendors deploy their software into any environment using digital twins</title>
+		<link>https://techcrunch.com/2025/05/14/tensor9-helps-vendors-deploy-their-software-into-any-environment-using-digital-twins/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Wed, 14 May 2025 13:02:40 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[digital twin]]></category>
+		<category><![CDATA[enterprise startup]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[software deployment]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3006976</guid>
+
+					<description><![CDATA[Enterprises want access to new software and AI tools but can&#8217;t risk sending their sensitive data out to a third-party software-as-a-service (SaaS) providers. Tensor9 looks to help software companies land more enterprise customers by helping them deploy their software directly into a customer&#8217;s tech stack. Tensor9 converts a software vendor&#8217;s code into the format needed [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Databricks to buy open-source database startup Neon for $1B</title>
 		<link>https://techcrunch.com/2025/05/14/databricks-to-buy-open-source-database-startup-neon-for-1b/</link>
 		
 		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
 		<pubDate>Wed, 14 May 2025 12:07:51 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Databricks]]></category>
-		<category><![CDATA[Mergers and Acquisitions]]></category>
+		<category><![CDATA[Enterprise]]></category>
 		<category><![CDATA[neon]]></category>
-		<category><![CDATA[open source database]]></category>
 		<category><![CDATA[postgresql]]></category>
+		<category><![CDATA[Mergers and Acquisitions]]></category>
+		<category><![CDATA[Databricks]]></category>
+		<category><![CDATA[open source database]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3007047</guid>
 
 					<description><![CDATA[Data analytics platform Databricks said on Wednesday that it has agreed to acquire Neon, a startup building an open source alternative to AWS Aurora Postgres, for about $1 billion. Databricks said acquiring Neon&#8217;s tech would let it combine the startup&#8217;s serverless relational database management system with its own data intelligence services to let its customers [&#8230;]]]></description>
@@ -364,25 +388,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3005838</guid>
 
 					<description><![CDATA[During the Android Show leading up to Google I/O, Google on Tuesday offered a brief update on the adoption of the RCS (Rich Communication Services) protocol, an upgrade to SMS that offers high-resolution photos and videos, typing indicators, read receipts, improved group chat, and more. The company shared that the messaging standard now supports over [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google announces new security features for Android for protection against scam and theft</title>
-		<link>https://techcrunch.com/2025/05/13/google-announces-new-security-features-for-android-for-protection-against-scam-and-theft/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Tue, 13 May 2025 17:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[scam]]></category>
-		<category><![CDATA[security]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3005621</guid>
-
-					<description><![CDATA[At the Android Show on Tuesday, ahead of Google I/O, Google announced new security and privacy features for Android. These new features include new protections for calls, screen sharing, messages, device access, and system-level permissions. With these features, Google aims to protect users from falling for a scam, keep their details secure in case a [&#8230;]]]></description>
 		
 		
 		
