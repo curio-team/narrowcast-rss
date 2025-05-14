@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 14 May 2025 11:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 14 May 2025 12:11:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Databricks to buy open-source database startup Neon for $1B</title>
+		<link>https://techcrunch.com/2025/05/14/databricks-to-buy-open-source-database-startup-neon-for-1b/</link>
+		
+		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
+		<pubDate>Wed, 14 May 2025 12:07:51 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Databricks]]></category>
+		<category><![CDATA[Mergers and Acquisitions]]></category>
+		<category><![CDATA[neon]]></category>
+		<category><![CDATA[open source database]]></category>
+		<category><![CDATA[postgresql]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3007047</guid>
+
+					<description><![CDATA[Data analytics platform Databricks said on Wednesday that it has agreed to acquire Neon, a startup building an open source alternative to AWS Aurora Postgres, for about $1 billion. Databricks said acquiring Neon&#8217;s tech would let it combine the startup&#8217;s serverless relational database management system with its own data intelligence services to let its customers [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>TensorWave raises $100M to grow its AMD-powered cloud infrastructure</title>
 		<link>https://techcrunch.com/2025/05/14/tensorwave-raises-100m-for-its-amd-powered-ai-cloud/</link>
 		
@@ -364,23 +383,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3005621</guid>
 
 					<description><![CDATA[At the Android Show on Tuesday, ahead of Google I/O, Google announced new security and privacy features for Android. These new features include new protections for calls, screen sharing, messages, device access, and system-level permissions. With these features, Google aims to protect users from falling for a scam, keep their details secure in case a [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google is adding new device-level features for its Advanced Protection program</title>
-		<link>https://techcrunch.com/2025/05/13/google-is-adding-new-device-level-features-for-its-advanced-protection-program/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Tue, 13 May 2025 17:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[security]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3005766</guid>
-
-					<description><![CDATA[At the Android Show, taking place ahead of Google I/O 2025, Google announced that it is adding new device-specific features to its Advanced Protection program, which is designed to protect public figures such as politicians and journalists from different digital threats, with the Android 16 release. The new features include a new way of storing [&#8230;]]]></description>
 		
 		
 		

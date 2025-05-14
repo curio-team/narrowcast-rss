@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 14 May 2025 13:31:01 +0200</pubDate>
-        <lastBuildDate>Wed, 14 May 2025 13:31:01 +0200</lastBuildDate>
+        <pubDate>Wed, 14 May 2025 14:41:02 +0200</pubDate>
+        <lastBuildDate>Wed, 14 May 2025 14:41:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Sony verkocht 2,3 miljoen PS5’s minder dan een jaar eerder</title>
+            <link>https://tweakers.net/nieuws/234944/sony-verkocht-2-komma-3-miljoen-ps5s-minder-dan-een-jaar-eerder.html</link>
+            <description>Sony heeft in totaal 77,7 miljoen exemplaren verkocht van zijn PlayStation 5-consoles sinds de release van de spelcomputer in november 2020. Daarvan werden er 18,5 miljoen verkocht in het boekjaar 2024, dat eindigde op 31 maart 2025. Dat zijn er 2,3 miljoen minder dan een jaar eerder.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / Gaming / Consoles</category>
+            <comments>https://tweakers.net/nieuws/234944/sony-verkocht-2-komma-3-miljoen-ps5s-minder-dan-een-jaar-eerder.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234944</guid>
+            <pubDate>Wed, 14 May 2025 13:56:26 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Baidu wil in Europa robotaxidiensten aanbieden, eerst in Zwitserland&#039;</title>
+            <link>https://tweakers.net/nieuws/234940/baidu-wil-in-europa-robotaxidiensten-aanbieden-eerst-in-zwitserland.html</link>
+            <description>Baidu wil robotaxidiensten aanbieden in Zwitserland. Daarmee is Zwitserland het eerste Europese land waar de autonome Baidu-taxi&#039;s gaan rondrijden. Dat zeggen bronnen tegen The Wall Street Journal. Uber heeft eveneens plannen voor een Europese robotaxidienst.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Beeld en geluid / Cartech</category>
+            <comments>https://tweakers.net/nieuws/234940/baidu-wil-in-europa-robotaxidiensten-aanbieden-eerst-in-zwitserland.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234940</guid>
+            <pubDate>Wed, 14 May 2025 13:41:42 +0200</pubDate>
+        </item>
         <item>
             <title>Nothing kondigt samenwerking aan met Britse luidsprekerfabrikant KEF</title>
             <link>https://tweakers.net/nieuws/234942/nothing-kondigt-samenwerking-aan-met-britse-luidsprekerfabrikant-kef.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/234888/ontwikkelaars-vinden-aanwijzingen-voor-volgende-gpu-architectuur-amd-en-intel.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234888</guid>
             <pubDate>Tue, 13 May 2025 12:47:44 +0200</pubDate>
-        </item>
-        <item>
-            <title>Kamera Express introduceert abonnementsmodel voor cameraverhuur</title>
-            <link>https://tweakers.net/nieuws/234886/kamera-express-introduceert-abonnementsmodel-voor-cameraverhuur.html</link>
-            <description>De fotografiespecialist Kamera Express start met een abonnementsservice voor camera-apparatuur. Het bedrijf biedt drie verschillende pakketten aan waarbij fotografen en videomakers tegen een maandelijks bedrag professionele apparatuur kunnen gebruiken.</description>
-            <author>Andrei Stiru</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/234886/kamera-express-introduceert-abonnementsmodel-voor-cameraverhuur.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234886</guid>
-            <pubDate>Tue, 13 May 2025 11:49:56 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Prime Video kondigt seizoen twee en drie aan van succesvolle Fallout-serie</title>
-            <link>https://tweakers.net/geek/234884/prime-video-kondigt-seizoen-twee-en-drie-aan-van-succesvolle-fallout-serie.html</link>
-            <description>Het tweede seizoen van Prime Video&#039;s Fallout-serie gaat in december in première. De streamingdienst zegt meteen ook dat de serie een derde seizoen krijgt. Dat bericht de website Variety.</description>
-            <author>Andrei Stiru</author>
-            <category>.Geek / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/geek/234884/prime-video-kondigt-seizoen-twee-en-drie-aan-van-succesvolle-fallout-serie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/234884</guid>
-            <pubDate>Tue, 13 May 2025 10:58:37 +0200</pubDate>
         </item>
     </channel>
 </rss>
