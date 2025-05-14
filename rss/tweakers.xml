@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 13 May 2025 16:36:01 +0200</pubDate>
-        <lastBuildDate>Tue, 13 May 2025 16:36:01 +0200</lastBuildDate>
+        <pubDate>Wed, 14 May 2025 09:31:02 +0200</pubDate>
+        <lastBuildDate>Wed, 14 May 2025 09:31:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,186 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - moOde audio player 9.3.4</title>
+            <link>https://tweakers.net/downloads/72652/moode-audio-player-934.html</link>
+            <description>Versie 9.3.4 van moOde audio player is uitgekomen. Dit programma maakt van een Raspberry Pi een uitgebreid muziekcenter en kan muziekbestanden afspelen die op het lokale netwerk zijn opgeslagen, van internetradiostations en diverse streamingdiensten. De speler kan worden bediend via een webbrowser of mobiel apparaat en er is ondersteuning aanwezig voor een groot aantal dacs, zodat de muziek ook op hoge kwaliteit kan worden afgespeeld. De changelog voor deze uitgave ziet er als volgt uit: moOde audio player 9.3.4</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72652/moode-audio-player-934.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72652</guid>
+            <pubDate>Wed, 14 May 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Belgische provider DIGI biedt nu ook e-sim aan voor mobiel abonnement</title>
+            <link>https://tweakers.net/nieuws/234926/belgische-provider-digi-biedt-nu-ook-e-sim-aan-voor-mobiel-abonnement.html</link>
+            <description>De Belgische provider DIGI biedt naast fysieke simkaarten nu ook e-sim aan. De optie is zichtbaar bij het bestellen van een nieuw abonnement. Andere Belgische providers, zoals Telenet en Proximus, ondersteunen de virtuele versie van de simkaart al langer.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
+            <comments>https://tweakers.net/nieuws/234926/belgische-provider-digi-biedt-nu-ook-e-sim-aan-voor-mobiel-abonnement.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234926</guid>
+            <pubDate>Wed, 14 May 2025 08:52:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>TikTok introduceert AI-tool om foto&#039;s om te zetten naar video&#039;s voor Stories</title>
+            <link>https://tweakers.net/nieuws/234924/tiktok-introduceert-ai-tool-om-fotos-om-te-zetten-naar-videos-voor-stories.html</link>
+            <description>De nieuwe TikTok-tool AI Alive maakt het mogelijk om foto&#039;s om te zetten naar korte video&#039;s door middel van een beschrijvende prompt. De gegenereerde video&#039;s kunnen worden gedeeld via TikTok Stories, waarbij beelden na 24 uur automatisch verdwijnen.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/234924/tiktok-introduceert-ai-tool-om-fotos-om-te-zetten-naar-videos-voor-stories.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234924</guid>
+            <pubDate>Wed, 14 May 2025 08:13:14 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Plan - Kom zelf spreken of draag sprekers aan voor de Tweakers Developers Summit 2025</title>
+            <link>https://tweakers.net/plan/4406/kom-zelf-spreken-of-draag-sprekers-aan-voor-de-tweakers-developers-summit-2025.html</link>
+            <description>Terwijl de zomer nog moet beginnen, wordt bij ons achter de schermen knetterhard gewerkt aan hét techevent van 2025. Op dinsdag 28 oktober 2025 transformeert DeFabrique in Utrecht tot het middelpunt van technologische innovatie, waar developers samenkomen om kennis te delen, te netwerken en geïnspireerd te raken.​ Met een focus op actuele thema&#039;s en interactieve sessies streven we ernaar om deelnemers een unieke en verrijkende ervaring te bieden.</description>
+            <author>Tweakers Partners</author>
+            <category>.plan</category>
+            <comments>https://tweakers.net/plan/4406/kom-zelf-spreken-of-draag-sprekers-aan-voor-de-tweakers-developers-summit-2025.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/plan/4406</guid>
+            <pubDate>Wed, 14 May 2025 08:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Marvel 1943: Rise of Hydra wordt uitgesteld tot &#039;begin 2026&#039;</title>
+            <link>https://tweakers.net/nieuws/234922/marvel-1943-rise-of-hydra-wordt-uitgesteld-tot-begin-2026.html</link>
+            <description>Skydance New Media stelt de release van Marvel 1943: Rise of Hydra uit naar &#039;begin 2026&#039;. De Marvel-game zou aanvankelijk dit jaar nog verschijnen. De ontwikkelaar zegt de extra tijd te gebruiken om de game te polijsten.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/234922/marvel-1943-rise-of-hydra-wordt-uitgesteld-tot-begin-2026.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234922</guid>
+            <pubDate>Wed, 14 May 2025 07:43:01 +0200</pubDate>
+        </item>
+        <item>
+            <title>Firmware-update - Apple iOS 18.5</title>
+            <link>https://tweakers.net/downloads/72636/apple-ios-185.html</link>
+            <description>Apple heeft versie 18.5 van iOS uitgebracht. In iOS 18, dat geschikt is voor alle modellen waarop ook iOS 17 draait, is het onder meer mogelijk het beginscherm aan te passen, is er ondersteuning voor Rich Communication Services, heeft het bedieningspaneel een opfrisbeurt gekregen en is de fotoapp vernieuwd. Verder is er een wachtwoordmanager en kunnen apps worden verborgen of worden afgeschermd. In deze update zijn de volgende veranderingen en verbeteringen aangebracht: Apple iOS 18.5</description>
+            <author>Bart van Klaveren</author>
+            <category>Firmware</category>
+            <comments>https://tweakers.net/downloads/72636/apple-ios-185.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72636</guid>
+            <pubDate>Wed, 14 May 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Microsoft ontslaat 3 procent van werknemers</title>
+            <link>https://tweakers.net/nieuws/234920/microsoft-ontslaat-3-procent-van-werknemers.html</link>
+            <description>Microsoft ontslaat 3 procent van zijn werknemers, zo heeft het bedrijf bekendgemaakt. Het zou daarmee van overbodige managementlagen af willen komen. Het gaat in totaal om zo rond de 6000 banen.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/234920/microsoft-ontslaat-3-procent-van-werknemers.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234920</guid>
+            <pubDate>Tue, 13 May 2025 21:08:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Driver-update - GeForce Game Ready Driver 576.40 WHQL</title>
+            <link>https://tweakers.net/downloads/72650/geforce-game-ready-driver-57640-whql.html</link>
+            <description>Nvidia heeft nieuwe stabiele GeForce-drivers uitgebracht. De drivers dragen versienummer 576.40 en zijn voorzien van een Windows Hardware Quality Labs-certificaat. Ze zijn geschikt voor Windows 10 en hoger, en kunnen worden gebruikt op kaarten gebaseerd op de Maxwell-architectuur of nieuwer. Deze uitgave bevat onder meer verbeteringen voor de spllen DOOM: The Dark Ages en New World: Aeternum, en er zijn enkele problemen verholpen. Game Ready</description>
+            <author>Bart van Klaveren</author>
+            <category>Driver</category>
+            <comments>https://tweakers.net/downloads/72650/geforce-game-ready-driver-57640-whql.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72650</guid>
+            <pubDate>Tue, 13 May 2025 20:54:12 +0200</pubDate>
+        </item>
+        <item>
+            <title>PayPal kan Apple Pay vervangen op Duitse iPhones</title>
+            <link>https://tweakers.net/nieuws/234918/paypal-kan-apple-pay-vervangen-op-duitse-iphones.html</link>
+            <description>PayPal is begonnen met het aanbieden van NFC-betalingen op iPhones in Duitsland. Daarmee kan de dienst Apple Pay vervangen als betaalmiddel in winkels. De dienst werkt niet op Apple Watch-horloges.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/234918/paypal-kan-apple-pay-vervangen-op-duitse-iphones.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234918</guid>
+            <pubDate>Tue, 13 May 2025 20:50:35 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Microsoft laat concepten zien die niet nieuwe Start-menu zijn geworden</title>
+            <link>https://tweakers.net/geek/234914/microsoft-laat-concepten-zien-die-niet-nieuwe-start-menu-zijn-geworden.html</link>
+            <description>Microsoft heeft concepten laten zien die het niet zijn geworden in de ontwikkeling van het nieuwe Start-menu voor Windows 11. Daarbij zijn verschillende lay-outs te zien met onder meer een menu aan de zijkant.</description>
+            <author>Arnoud Wokke</author>
+            <category>.Geek / Computers / Besturingssystemen</category>
+            <comments>https://tweakers.net/geek/234914/microsoft-laat-concepten-zien-die-niet-nieuwe-start-menu-zijn-geworden.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/234914</guid>
+            <pubDate>Tue, 13 May 2025 20:02:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google brengt Gemini naar Android XR, TV, oordopjes en auto&#039;s</title>
+            <link>https://tweakers.net/nieuws/234912/google-brengt-gemini-naar-android-xr-tv-oordopjes-en-autos.html</link>
+            <description>Google gaat zijn AI-dienst Gemini de komende maanden naar vrijwel al zijn software brengen. De assistent komt onder meer in auto&#039;s, in Google TV en in Android XR op de aankomende XR-headset die Google met Samsung maakt.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Beeld en geluid / Mediaspelers</category>
+            <comments>https://tweakers.net/nieuws/234912/google-brengt-gemini-naar-android-xr-tv-oordopjes-en-autos.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234912</guid>
+            <pubDate>Tue, 13 May 2025 19:02:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Android 16 krijgt ander ontwerp en betere accuduur, zegt Google</title>
+            <link>https://tweakers.net/nieuws/234908/android-16-krijgt-ander-ontwerp-en-betere-accuduur-zegt-google.html</link>
+            <description>Android 16 moet telefoons efficiënter maken en dus de accuduur verbeteren, zo claimt Google tegen Tweakers. De zoekgigant kondigde de functies van de nieuwe versie van zijn besturingssysteem dinsdag aan. Er komt onder meer een nieuw ontwerp.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/234908/android-16-krijgt-ander-ontwerp-en-betere-accuduur-zegt-google.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234908</guid>
+            <pubDate>Tue, 13 May 2025 19:01:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google laat wearOS 6 zien met 10 procent betere accuduur en kleurenschema&#039;s</title>
+            <link>https://tweakers.net/nieuws/234910/google-laat-wearos-6-zien-met-10-procent-betere-accuduur-en-kleurenschemas.html</link>
+            <description>Google heeft wearOS 6 aangekondigd, de nieuwe versie van zijn besturingssysteem voor smartwatches. Het besturingssysteem moet 10 procent betere accuduur bieden. Het kleurenschema van de watchface komt bovendien nu terug door het hele systeem.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartwatches</category>
+            <comments>https://tweakers.net/nieuws/234910/google-laat-wearos-6-zien-met-10-procent-betere-accuduur-en-kleurenschemas.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234910</guid>
+            <pubDate>Tue, 13 May 2025 19:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Apple belooft fix voor bug die audioberichten met &#039;&amp;&#039; in transcriptie tegenhoudt</title>
+            <link>https://tweakers.net/nieuws/234916/apple-belooft-fix-voor-bug-die-audioberichten-met-en-in-transcriptie-tegenhoudt.html</link>
+            <description>Apple gaat een bug fiksen in iOS die in de Berichten-app voorkomt dat audioberichten worden afgeleverd als in de transcriptie van audioberichten een ampersand voorkomt. Dat gebeurt in namen van bedrijven, zoals &#039;M&amp;M&#039;s&#039;.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/234916/apple-belooft-fix-voor-bug-die-audioberichten-met-en-in-transcriptie-tegenhoudt.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234916</guid>
+            <pubDate>Tue, 13 May 2025 18:43:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Delta Mobiel introduceert nieuwe abonnementen en stopt met actietarieven</title>
+            <link>https://tweakers.net/nieuws/234898/delta-mobiel-introduceert-nieuwe-abonnementen-en-stopt-met-actietarieven.html</link>
+            <description>De Nederlandse provider Delta heeft nieuwe abonnementen geïntroduceerd. Er komt onder meer een goedkope optie bij met 250MB en in plaats van een abonnement met 3GB zijn er nu opties met 2GB en 4GB.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Sim-only abonnementen</category>
+            <comments>https://tweakers.net/nieuws/234898/delta-mobiel-introduceert-nieuwe-abonnementen-en-stopt-met-actietarieven.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234898</guid>
+            <pubDate>Tue, 13 May 2025 18:13:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Mozilla Firefox 138.0.3</title>
+            <link>https://tweakers.net/downloads/72646/mozilla-firefox-13803.html</link>
+            <description>Mozilla heeft een tweede update voor versie 138 van zijn webbrowser Firefox uitgebracht. In versie 138 heeft Mozilla onder meer diverse verbeteringen aangebracht in het gebruik van profielen, waarmee bijvoorbeeld werk en privé surfen gescheiden kan worden. Verder is het groeperen van tabbladen, wat in de vorige versie in beperkte mate is geïntroduceerd nu voor bijna iedereen beschikbaar, en is het automatisch invullen van adres- en betalingsinformatie verbeterd. In versie 138.0.3 zijn verder nog de volgende verbeteringen aangebracht: Fixed</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72646/mozilla-firefox-13803.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72646</guid>
+            <pubDate>Tue, 13 May 2025 17:51:37 +0200</pubDate>
+        </item>
+        <item>
+            <title>Groningen krijgt mogelijk AI-fabriek</title>
+            <link>https://tweakers.net/nieuws/234904/groningen-krijgt-mogelijk-ai-fabriek.html</link>
+            <description>Groningen krijgt mogelijk een AI-fabriek. De Europese Commissie wil in Europa minstens vijftien van deze AI-fabrieken hebben om zo ontwikkeling op dit gebied te stimuleren, in Nederland stond er tot nu toe nog niet een gepland.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/234904/groningen-krijgt-mogelijk-ai-fabriek.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234904</guid>
+            <pubDate>Tue, 13 May 2025 17:16:50 +0200</pubDate>
+        </item>
+        <item>
+            <title>Pioneer stopt voorgoed met verkoop discspelers</title>
+            <link>https://tweakers.net/nieuws/234906/pioneer-stopt-voorgoed-met-verkoop-discspelers.html</link>
+            <description>Pioneer stopt definitief met de verkoop van optische discspelers zoals blu-rayspelers. Het Japanse techbedrijf bracht al enkele jaren geen nieuwe modellen meer uit en stopt nu ook met de productie van de apparaten.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Beeld en geluid / Blu-ray, DVD en CD</category>
+            <comments>https://tweakers.net/nieuws/234906/pioneer-stopt-voorgoed-met-verkoop-discspelers.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234906</guid>
+            <pubDate>Tue, 13 May 2025 17:12:52 +0200</pubDate>
+        </item>
         <item>
             <title>Red Hat brengt Enterprise Linux 10 officieel uit</title>
             <link>https://tweakers.net/nieuws/234902/red-hat-brengt-enterprise-linux-10-officieel-uit.html</link>
@@ -236,186 +416,6 @@
             <comments>https://tweakers.net/downloads/72638/ucheck-622.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72638</guid>
             <pubDate>Mon, 12 May 2025 22:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Openbaar Ministerie: cybercrime nam af, maar online fraude nam toe - update</title>
-            <link>https://tweakers.net/nieuws/234874/openbaar-ministerie-cybercrime-nam-af-maar-online-fraude-nam-toe.html</link>
-            <description>Het Nederlandse Openbaar Miniserie merkte in 2024 op dat er een verschuiving van offline naar online criminaliteit plaatsvindt. Het aantal aangiftes van online fraude steeg in dat jaar met ruim twintig procent. Het aantal aanvallen op ict-doelwitten nam echter met ruim veertig procent af.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Economie en maatschappij</category>
-            <comments>https://tweakers.net/nieuws/234874/openbaar-ministerie-cybercrime-nam-af-maar-online-fraude-nam-toe.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234874</guid>
-            <pubDate>Mon, 12 May 2025 20:53:33 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - IrfanView 4.72</title>
-            <link>https://tweakers.net/downloads/72632/irfanview-472.html</link>
-            <description>Irfan Skiljan heeft versie 4.72 van IrfanView uitgebracht. Met dit gratis programma kunnen diverse afbeeldingsformaten en audio- en videobestanden worden geopend. Na installatie ondersteunt IrfanView rond de 30 formaten, maar door toevoeging van alle plug-ins kan dit aantal naar bijna negentig worden opgekrikt. De download is alleen in het Engels of Duits te gebruiken, maar door de toevoeging van taalbestanden is het ook mogelijk om het programma Nederlands te laten praten. De changelog voor deze uitgave ziet er als volgt uit: Changes in version 4.72:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72632/irfanview-472.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72632</guid>
-            <pubDate>Mon, 12 May 2025 20:34:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Kagi lijkt Orion-browserport voor Linux op basis van GTK4 te maken</title>
-            <link>https://tweakers.net/nieuws/234870/kagi-lijkt-orion-browserport-voor-linux-op-basis-van-gtk4-te-maken.html</link>
-            <description>Kagi lijkt de GTK4-widgettoolkit voor de grafische interface van de aankomende Orion-port voor Linux te gebruiken. De ontwikkelaars kondigden onlangs aan dat er een port van de browser voor het opensourcebesturingssysteem in ontwikkeling is.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Computers / Besturingssystemen</category>
-            <comments>https://tweakers.net/nieuws/234870/kagi-lijkt-orion-browserport-voor-linux-op-basis-van-gtk4-te-maken.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234870</guid>
-            <pubDate>Mon, 12 May 2025 19:46:03 +0200</pubDate>
-        </item>
-        <item>
-            <title>Gerucht: Apple wil aankomende iPhones duurder maken</title>
-            <link>https://tweakers.net/nieuws/234866/gerucht-apple-wil-aankomende-iphones-duurder-maken.html</link>
-            <description>Apple overweegt naar verluidt een prijsverhoging van de aankomende iPhones. Het bedrijf zou de recente handelsbeperkingen vanuit de Verenigde Staten daarbij nadrukkelijk niet willen vermelden. De volgende iPhone-reeks komt naar alle waarschijnlijkheid in het najaar van 2025 uit.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/234866/gerucht-apple-wil-aankomende-iphones-duurder-maken.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234866</guid>
-            <pubDate>Mon, 12 May 2025 17:53:55 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - IPFire 2.29 - Core Update 194</title>
-            <link>https://tweakers.net/downloads/72630/ipfire-229-core.html</link>
-            <description>IPFire is een opensourcefirewall voor i586-, x86_64- en Arm-systemen. Het bevat onder andere een intrusion detection/prevention system, deelt het netwerk op in zones, doet stateful packet inspection en biedt vpn-mogelijkheden. Voor meer informatie verwijzen we naar deze pagina. De ontwikkelaars hebben versie 2.29 Core Update 194 uitgebracht, een stabiele uitgave voor productiesystemen. De bijbehorende releasenotes zien er als volgt uit: IPFire 2.29 - Core Update 194 released</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72630/ipfire-229-core.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72630</guid>
-            <pubDate>Mon, 12 May 2025 17:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>DigiTimes: Nvidia verhoogde prijzen videokaarten om winstmarge stabiel te houden</title>
-            <link>https://tweakers.net/nieuws/234864/digitimes-nvidia-verhoogde-prijzen-videokaarten-om-winstmarge-stabiel-te-houden.html</link>
-            <description>Nvidia heeft naar verluidt onlangs de prijzen van veel van zijn producten verhoogd en partners toegestaan om hetzelfde te doen. Mogelijk is dit een reactie op de Amerikaanse exportsancties die dit jaar door president Donald Trump werden ingesteld.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/234864/digitimes-nvidia-verhoogde-prijzen-videokaarten-om-winstmarge-stabiel-te-houden.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234864</guid>
-            <pubDate>Mon, 12 May 2025 16:57:11 +0200</pubDate>
-        </item>
-        <item>
-            <title>ACM gaat meer doen tegen hosting illegale content, dark patterns en cloudlock-in</title>
-            <link>https://tweakers.net/nieuws/234862/acm-gaat-meer-doen-tegen-hosting-illegale-content-dark-patterns-en-cloudlock-in.html</link>
-            <description>De Autoriteit Consument en Markt publiceert de speerpunten die de toezichthouder in 2025 wil nastreven. Zo moet er meer handhaving komen tegen online misleiding met nepreviews, het gebruik van dark patterns en het hanteren van computergestuurde consumentenprijzen.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/234862/acm-gaat-meer-doen-tegen-hosting-illegale-content-dark-patterns-en-cloudlock-in.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234862</guid>
-            <pubDate>Mon, 12 May 2025 15:46:37 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - ImageGlass 9.3.0.514</title>
-            <link>https://tweakers.net/downloads/72628/imageglass-930514.html</link>
-            <description>Versie 9.3.0.514 van ImageGlass is uitgekomen. ImageGlass is een klein, snel en eenvoudig opensource programma waarmee afbeeldingen kunnen worden bekeken. Het kan afbeeldingen zonder kwaliteitsverlies roteren en converteren naar een ander formaat, maar voor andere bewerkingen is het afhankelijk van externe software. In versie 9.0, die Moon als koosnaam heeft meegekregen, is onder meer ondersteuning voor .NET 8 en apparaten uitgerust met een Arm-processor toegevoegd. Verder zijn er flinke prestatieverbeteringen waar te nemen en is het uiterlijk in een modern jasje gegoten. De changelog voor deze uitgave kan hieronder worden gevonden.</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72628/imageglass-930514.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72628</guid>
-            <pubDate>Mon, 12 May 2025 15:30:58 +0200</pubDate>
-        </item>
-        <item>
-            <title>Ontwikkelaar deelt fix voor inlogproblemen Outlook in Microsoft 365</title>
-            <link>https://tweakers.net/nieuws/234860/ontwikkelaar-deelt-fix-voor-inlogproblemen-outlook-in-microsoft-365.html</link>
-            <description>Microsoft 365-gebruikers ondervinden al enkele dagen problemen bij het gebruik van Outlook. In dat geval toont het programma een &#039;Access denied&#039;-error. Een ontwikkelaar heeft een fix gedeeld die systeembeheerders kunnen implementeren. Microsoft sprak zich nog niet uit over het probleem.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/234860/ontwikkelaar-deelt-fix-voor-inlogproblemen-outlook-in-microsoft-365.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234860</guid>
-            <pubDate>Mon, 12 May 2025 15:00:41 +0200</pubDate>
-        </item>
-        <item>
-            <title>Review - Kingston Fury Renegade G5 - Supersnel en zuinig, behalve in prijs</title>
-            <link>https://tweakers.net/reviews/13226/kingston-fury-renegade-g5-supersnel-en-zuinig-behalve-in-prijs.html</link>
-            <description>Er is vrij weinig te klagen over de Fury Renegade G5-drives. Ze verslaan in vrijwel alle tests niet alleen de NM1090 PRO-drives, maar ook de Samsungs 9100 PRO&#039;s.</description>
-            <author>Willem de Moor</author>
-            <category>Review / Computers / SSD&#039;s</category>
-            <comments>https://tweakers.net/reviews/13226/11/kingston-fury-renegade-g5-supersnel-en-zuinig-behalve-in-prijs-conclusie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13226</guid>
-            <pubDate>Mon, 12 May 2025 15:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google brengt nieuwe foto-naar-videotool in mei uit voor Honor 400-serie</title>
-            <link>https://tweakers.net/nieuws/234856/google-brengt-nieuwe-foto-naar-videotool-in-mei-uit-voor-honor-400-serie.html</link>
-            <description>Honor 400-serie smartphones krijgen een nieuwe AI-functie waarmee afbeeldingen kunnen worden omgezet in video&#039;s. De tool is gebaseerd op het recente Veo 2-model van Google. De smartphones en de functie komen in ieder geval op 22 mei uit in China.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/234856/google-brengt-nieuwe-foto-naar-videotool-in-mei-uit-voor-honor-400-serie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234856</guid>
-            <pubDate>Mon, 12 May 2025 14:56:30 +0200</pubDate>
-        </item>
-        <item>
-            <title>Hey Telecom biedt goedkoopste mobiele abonnement niet meer aan na klacht</title>
-            <link>https://tweakers.net/nieuws/234858/hey-telecom-biedt-goedkoopste-mobiele-abonnement-niet-meer-aan-na-klacht.html</link>
-            <description>De Belgische provider Hey Telecom, een dochtermerk van Orange, heeft het goedkoopste abonnement van zijn website gehaald. Dat abonnement was tot 12 mei verkrijgbaar, maar werd verstopt op de website. Voor bestaande abonnees verandert er niets.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Tablets en telefoons / Sim-only abonnementen</category>
-            <comments>https://tweakers.net/nieuws/234858/hey-telecom-biedt-goedkoopste-mobiele-abonnement-niet-meer-aan-na-klacht.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234858</guid>
-            <pubDate>Mon, 12 May 2025 14:42:41 +0200</pubDate>
-        </item>
-        <item>
-            <title>Leaker: Samsung Galaxy Z Fold7 wordt met 3,9mm dunste foldable tot nu toe</title>
-            <link>https://tweakers.net/nieuws/234854/leaker-samsung-galaxy-z-fold7-wordt-met-3-komma-9mm-dunste-foldable-tot-nu-toe.html</link>
-            <description>De Samsung Galaxy Z Fold7 wordt breder en aanzienlijk dunner dan zijn voorganger. Dat blijkt uit afmetingen die zijn gedeeld door de X-gebruiker Ice Universe. De doorgaans goed geïnformeerde leaker zegt ook dat de aankomende smartphone aanzienlijk dunnere schermranden heeft.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/234854/leaker-samsung-galaxy-z-fold7-wordt-met-3-komma-9mm-dunste-foldable-tot-nu-toe.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234854</guid>
-            <pubDate>Mon, 12 May 2025 14:04:37 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Community - In april kwam 45 procent van ons nieuws van tips van lezers</title>
-            <link>https://tweakers.net/reviews/13264/in-april-kwam-45-procent-van-ons-nieuws-van-tips-van-lezers.html</link>
-            <description>In april kwam meer dan 45 procent van ons nieuws tot stand na tips van lezers. In dit artikel zetten we de cijfers uiteen.</description>
-            <author>Tijs Hofmans</author>
-            <category>.Community / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/reviews/13264/in-april-kwam-45-procent-van-ons-nieuws-van-tips-van-lezers.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13264</guid>
-            <pubDate>Mon, 12 May 2025 13:37:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google test functie om bestanden te uploaden in Gemini Deep Research</title>
-            <link>https://tweakers.net/nieuws/234852/google-test-functie-om-bestanden-te-uploaden-in-gemini-deep-research.html</link>
-            <description>Google test de mogelijkheid om bestanden te uploaden via Gemini Deep Research. Dat stelt de AI-onderzoekstool in staat om bestanden van gebruikers mee te nemen bij het genereren van onderzoeksrapporten. Tot dusver zoekt de AI-tool hiervoor naar online bronnen.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/234852/google-test-functie-om-bestanden-te-uploaden-in-gemini-deep-research.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234852</guid>
-            <pubDate>Mon, 12 May 2025 12:43:07 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Apple werkt aan grotendeels glazen gekromde iPhone voor 20-jarig jubileum&#039;</title>
-            <link>https://tweakers.net/nieuws/234850/apple-werkt-aan-grotendeels-glazen-gekromde-iphone-voor-20-jarig-jubileum.html</link>
-            <description>Apple brengt in 2027 een gekromde iPhone uit die &#039;grotendeels&#039; van glas is gemaakt. Dat schrijft Bloomberg-journalist Mark Gurman. Het scherm van deze onaangekondigde telefoon zou geen uitsparingen hebben, wat suggereert dat de selfiecamera eronder zit.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/234850/apple-werkt-aan-grotendeels-glazen-gekromde-iphone-voor-20-jarig-jubileum.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234850</guid>
-            <pubDate>Mon, 12 May 2025 11:49:03 +0200</pubDate>
-        </item>
-        <item>
-            <title>Instagram wil dat EU appwinkels dwingt tot leeftijdsverificatie bij downloads</title>
-            <link>https://tweakers.net/nieuws/234848/instagram-wil-dat-eu-appwinkels-dwingt-tot-leeftijdsverificatie-bij-downloads.html</link>
-            <description>Instagram roept de Europese Unie op om appwinkels te dwingen om de leeftijd van gebruikers te verifiëren en ouderlijke toestemming te vragen bij het downloaden van apps. Dat moet minderjarigen beter beschermen tegen ongepaste content.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/234848/instagram-wil-dat-eu-appwinkels-dwingt-tot-leeftijdsverificatie-bij-downloads.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234848</guid>
-            <pubDate>Mon, 12 May 2025 10:49:52 +0200</pubDate>
-        </item>
-        <item>
-            <title>ASUS verwerkt 600 euro aan goud in RTX 5090 voor Midden-Oosten</title>
-            <link>https://tweakers.net/nieuws/234844/asus-verwerkt-600-euro-aan-goud-in-rtx-5090-voor-midden-oosten.html</link>
-            <description>ASUS heeft recent de ROG Astral GeForce RTX 5090 Dhahab OC Edition uitgebracht. De term &#039;Dhahab&#039; verwijst naar het Arabische woord voor goud: de videokaart bevat 6,5 gram 24-karaats goud, met een marktwaarde van ongeveer 600 euro.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/nieuws/234844/asus-verwerkt-600-euro-aan-goud-in-rtx-5090-voor-midden-oosten.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234844</guid>
-            <pubDate>Mon, 12 May 2025 09:57:02 +0200</pubDate>
         </item>
     </channel>
 </rss>
