@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 14 May 2025 11:31:02 +0200</pubDate>
-        <lastBuildDate>Wed, 14 May 2025 11:31:02 +0200</lastBuildDate>
+        <pubDate>Wed, 14 May 2025 12:36:01 +0200</pubDate>
+        <lastBuildDate>Wed, 14 May 2025 12:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Proton voegt Albums toe aan Proton Drive</title>
+            <link>https://tweakers.net/nieuws/234934/proton-voegt-albums-toe-aan-proton-drive.html</link>
+            <description>Proton introduceert Albums voor Proton Drive. De functie bouwt voort op de bestaande fotoback-upmogelijkheden van het bedrijf en laat gebruikers foto&#039;s en video&#039;s ordenen, delen en bekijken &#039;zonder dat dit ten koste gaat van hun privacy&#039;.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / Computers / Officesoftware en suites</category>
+            <comments>https://tweakers.net/nieuws/234934/proton-voegt-albums-toe-aan-proton-drive.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234934</guid>
+            <pubDate>Wed, 14 May 2025 12:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Ziggo stopt in juli met Wifispots</title>
+            <link>https://tweakers.net/nieuws/234936/ziggo-stopt-in-juli-met-wifispots.html</link>
+            <description>Ziggo stopt vanaf 1 juli 2025 met Wifispots. Gebruikers kunnen via die dienst automatisch draadloos verbinding maken met modems van andere Ziggo-klanten. Volgens de provider wordt de dienst steeds minder gebruikt.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / IT Pro / Internet</category>
+            <comments>https://tweakers.net/nieuws/234936/ziggo-stopt-in-juli-met-wifispots.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234936</guid>
+            <pubDate>Wed, 14 May 2025 11:42:33 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Mozilla Thunderbird 138.0.1</title>
             <link>https://tweakers.net/downloads/72654/mozilla-thunderbird-13801.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/downloads/72640/isobuster-56.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72640</guid>
             <pubDate>Tue, 13 May 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>The Information: Google ontwikkelt AI-agent voor softwareontwikkeling</title>
-            <link>https://tweakers.net/nieuws/234880/the-information-google-ontwikkelt-ai-agent-voor-softwareontwikkeling.html</link>
-            <description>Google gaat tijdens zijn jaarlijkse ontwikkelaarsconferentie I/O een reeks nieuwe AI-producten aankondigen, waaronder een AI-agent specifiek gericht op softwareontwikkeling. Dat meldt The Information op basis van gesprekken met bronnen.</description>
-            <author>Andrei Stiru</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/234880/the-information-google-ontwikkelt-ai-agent-voor-softwareontwikkeling.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234880</guid>
-            <pubDate>Tue, 13 May 2025 08:45:34 +0200</pubDate>
-        </item>
-        <item>
-            <title>Sony Xperia 1 VII met Snapdragon 8 Elite te koop voor 1499 euro</title>
-            <link>https://tweakers.net/nieuws/234878/sony-xperia-1-vii-met-snapdragon-8-elite-te-koop-voor-1499-euro.html</link>
-            <description>Sony heeft de Xperia 1 VII aangekondigd, een premiumsmartphone met een adviesprijs van 1499 euro. Dat is 100 euro meer dan zijn voorganger. Het toestel richt zich op het hoogste segment van de smartphonemarkt.</description>
-            <author>Andrei Stiru</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/234878/sony-xperia-1-vii-met-snapdragon-8-elite-te-koop-voor-1499-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234878</guid>
-            <pubDate>Tue, 13 May 2025 08:12:17 +0200</pubDate>
         </item>
     </channel>
 </rss>
