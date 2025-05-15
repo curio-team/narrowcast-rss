@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 15 May 2025 10:57:58 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 15 May 2025 12:17:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,43 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Coinbase says customers&#8217; personal information stolen in data breach</title>
+		<link>https://techcrunch.com/2025/05/15/coinbase-says-customers-personal-information-stolen-in-data-breach/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Thu, 15 May 2025 11:58:30 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[coinbase]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3007554</guid>
+
+					<description><![CDATA[The crypto exchange giant said the hacker bribed contractors and employees in support roles to steal data. 
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trump tells Apple&#8217;s CEO to stop expanding iPhone production in India</title>
+		<link>https://techcrunch.com/2025/05/15/trump-tells-apples-ceo-to-stop-expanding-iphone-production-in-india/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 15 May 2025 11:37:24 +0000</pubDate>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[Tim Cook]]></category>
+		<category><![CDATA[Trump]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3007533</guid>
+
+					<description><![CDATA[Speaking during a business summit in Doha, Trump said he met with Cook and asked him to stop building in India and instead increase production in the US.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>South Korea delays decision on letting Google move hi-res map data overseas</title>
 		<link>https://techcrunch.com/2025/05/15/south-korea-delays-decision-on-letting-google-move-hi-res-map-data-overseas/</link>
 		
@@ -337,39 +374,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&#038;p=3007026</guid>
 
 					<description><![CDATA[Paladin Capital Group&#8217;s Nazo Moosa sat down with Mike Butcher at StrictlyVC London to discuss scaling innovative companies at the intersection of cybersecurity, AI, and resilience. She discussed how she&#8217;s driving purposeful investments that shape a secure and sustainable digital future.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Radiologists aren&#8217;t going anywhere</title>
-		<link>https://techcrunch.com/2025/05/14/radiologists-arent-going-anywhere/</link>
-		
-		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
-		<pubDate>Wed, 14 May 2025 17:28:21 +0000</pubDate>
-				<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3007205</guid>
-
-					<description><![CDATA[Nine years ago, AI pioneer Geoffrey Hinton sent shock waves through medicine by declaring it &#8220;just completely obvious&#8221; that AI would make radiologists extinct in short order. Fast-forward and the specialists &#8212; who do more than analyze images &#8212; are thriving, observes The New York Times. In fact, the field is experiencing explosive growth amid [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SoundCloud backtracks on AI-related terms-of-use updates</title>
-		<link>https://techcrunch.com/2025/05/14/soundcloud-backtracks-on-ai-related-terms-of-use-updates/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 14 May 2025 17:22:53 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[soundcloud]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3007228</guid>
-
-					<description><![CDATA[SoundCloud says it&#8217;s revising its terms after widespread backlash over a clause related to AI model training. Earlier this year, SoundCloud quietly updated its&#160;usage policies, adding wording that many users interpreted as legal cover to allow the company to train AI on audio uploaded to its platform. SoundCloud was quick to assert that it wasn&#8217;t [&#8230;]]]></description>
 		
 		
 		
