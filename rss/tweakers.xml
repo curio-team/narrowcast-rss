@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 15 May 2025 11:31:04 +0200</pubDate>
-        <lastBuildDate>Thu, 15 May 2025 11:31:04 +0200</lastBuildDate>
+        <pubDate>Thu, 15 May 2025 12:36:14 +0200</pubDate>
+        <lastBuildDate>Thu, 15 May 2025 12:36:14 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - PowerISO 9.1</title>
+            <link>https://tweakers.net/downloads/72668/poweriso-91.html</link>
+            <description>Versie 9.1 van PowerISO is uitgekomen. Met dit programma kunnen de gangbaarste floppy-, cd- en dvd-images worden aangemaakt, bewerkt, geconverteerd en als virtueel station aan het systeem worden gekoppeld. Daarnaast kan het cd&#039;s en dvd&#039;s branden en audio-cd&#039;s rippen. De probeerversie wordt als crippleware uitgebracht, wat in dit geval inhoudt dat het niet mogelijk is om images groter dan 300MB aan te maken of aan te passen. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: New Features in version PowerISO 9.1:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72668/poweriso-91.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72668</guid>
+            <pubDate>Thu, 15 May 2025 12:34:29 +0200</pubDate>
+        </item>
+        <item>
+            <title>Odido introduceert mobiel 1Gbit/s-abonnement met onbeperkt data voor 37,50 euro</title>
+            <link>https://tweakers.net/nieuws/234986/odido-introduceert-mobiel-1gbit-s-abonnement-met-onbeperkt-data-voor-37-komma-50-euro.html</link>
+            <description>Odido heeft zonder aankondiging een nieuw Unlimited Snelst-abonnement uitgebracht. Dat is een mobiel abonnement met onbeperkte data en downloadsnelheden &#039;tot 1Gbit/s&#039;. Het abonnement kost 37,50 euro per maand, zonder eventuele klantenkorting.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Tablets en telefoons / Sim-only abonnementen</category>
+            <comments>https://tweakers.net/nieuws/234986/odido-introduceert-mobiel-1gbit-s-abonnement-met-onbeperkt-data-voor-37-komma-50-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234986</guid>
+            <pubDate>Thu, 15 May 2025 11:37:38 +0200</pubDate>
+        </item>
         <item>
             <title>ASUS brengt &#039;kabelloze&#039; RTX 5070 Ti met verwijderbare stroomadapter uit</title>
             <link>https://tweakers.net/nieuws/234982/asus-brengt-kabelloze-rtx-5070-ti-met-verwijderbare-stroomadapter-uit.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/plan/4406/kom-zelf-spreken-of-draag-sprekers-aan-voor-de-tweakers-developers-summit-2025.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/plan/4406</guid>
             <pubDate>Wed, 14 May 2025 08:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Marvel 1943: Rise of Hydra wordt uitgesteld tot &#039;begin 2026&#039;</title>
-            <link>https://tweakers.net/nieuws/234922/marvel-1943-rise-of-hydra-wordt-uitgesteld-tot-begin-2026.html</link>
-            <description>Skydance New Media stelt de release van Marvel 1943: Rise of Hydra uit naar &#039;begin 2026&#039;. De Marvel-game zou aanvankelijk dit jaar nog verschijnen. De ontwikkelaar zegt de extra tijd te gebruiken om de game te polijsten.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/234922/marvel-1943-rise-of-hydra-wordt-uitgesteld-tot-begin-2026.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234922</guid>
-            <pubDate>Wed, 14 May 2025 07:43:01 +0200</pubDate>
-        </item>
-        <item>
-            <title>Firmware-update - Apple iOS 18.5</title>
-            <link>https://tweakers.net/downloads/72636/apple-ios-185.html</link>
-            <description>Apple heeft versie 18.5 van iOS uitgebracht. In iOS 18, dat geschikt is voor alle modellen waarop ook iOS 17 draait, is het onder meer mogelijk het beginscherm aan te passen, is er ondersteuning voor Rich Communication Services, heeft het bedieningspaneel een opfrisbeurt gekregen en is de fotoapp vernieuwd. Verder is er een wachtwoordmanager en kunnen apps worden verborgen of worden afgeschermd. In deze update zijn de volgende veranderingen en verbeteringen aangebracht: Apple iOS 18.5</description>
-            <author>Bart van Klaveren</author>
-            <category>Firmware</category>
-            <comments>https://tweakers.net/downloads/72636/apple-ios-185.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72636</guid>
-            <pubDate>Wed, 14 May 2025 07:30:00 +0200</pubDate>
         </item>
     </channel>
 </rss>

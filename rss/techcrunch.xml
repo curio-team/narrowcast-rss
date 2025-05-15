@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 15 May 2025 08:13:48 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 15 May 2025 10:35:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Hedra, the app used to make talking baby podcasts, raises $32M from a16z</title>
+		<link>https://techcrunch.com/2025/05/15/hedra-the-app-used-to-make-talking-baby-podcasts-raises-32m-from-a16z/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 15 May 2025 10:35:08 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[a16z]]></category>
+		<category><![CDATA[Hedra]]></category>
+		<category><![CDATA[video generation]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3007495</guid>
+
+					<description><![CDATA[Hedra, which offers a video generation and editing suite powered by its Character-3 model, has raised $32M.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Harvey reportedly in discussions to raise $250M at $5B valuation</title>
 		<link>https://techcrunch.com/2025/05/15/harvey-reportedly-in-discussions-to-raise-250m-at-5b-valuation/</link>
 		
@@ -350,23 +368,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3007172</guid>
 
 					<description><![CDATA[OpenAI is moving to publish the results of its internal AI model safety evaluations more regularly in what the outfit is saying is an effort to increase transparency. On Wednesday, OpenAI launched the Safety evaluations hub, a web page showing how the company&#8217;s models score on various tests for harmful content generation, jailbreaks, and hallucinations. [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Stability AI releases an audio-generating model that can run on smartphones</title>
-		<link>https://techcrunch.com/2025/05/14/stability-ai-releases-an-audio-generating-model-that-can-run-on-smartphones/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 14 May 2025 16:05:15 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[ARM]]></category>
-		<category><![CDATA[Stability AI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3007115</guid>
-
-					<description><![CDATA[AI startup Stability AI has released Stable Audio Open Small, a &#8220;stereo&#8221; audio-generating AI model that the company claims is the fastest on the market — and efficient enough to run on smartphones. Stable Audio Open Small is the fruit of a collaboration between Stability AI and Arm, the chipmaker that produces many of the [&#8230;]]]></description>
 		
 		
 		
