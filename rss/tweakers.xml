@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 15 May 2025 12:36:14 +0200</pubDate>
-        <lastBuildDate>Thu, 15 May 2025 12:36:14 +0200</lastBuildDate>
+        <pubDate>Thu, 15 May 2025 13:31:01 +0200</pubDate>
+        <lastBuildDate>Thu, 15 May 2025 13:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>ASUS kondigt 4k-gamingmonitors met glanzende 240Hz-woledpanelen aan</title>
+            <link>https://tweakers.net/nieuws/234988/asus-kondigt-4k-gamingmonitors-met-glanzende-240hz-woledpanelen-aan.html</link>
+            <description>ASUS introduceert verschillende nieuwe 4k-gamingmonitors in de ROG Strix SX32U-serie. Deze beschikken over &#039;glossy&#039; woledpanelen. Beide schermen krijgen een &#039;dualmode&#039;-functie, waarbij gewisseld kan worden tussen native 4k en 1080p met verschillende refreshrates.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Monitors</category>
+            <comments>https://tweakers.net/nieuws/234988/asus-kondigt-4k-gamingmonitors-met-glanzende-240hz-woledpanelen-aan.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/234988</guid>
+            <pubDate>Thu, 15 May 2025 13:05:46 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - PowerISO 9.1</title>
             <link>https://tweakers.net/downloads/72668/poweriso-91.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/234924/tiktok-introduceert-ai-tool-om-fotos-om-te-zetten-naar-videos-voor-stories.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234924</guid>
             <pubDate>Wed, 14 May 2025 08:13:14 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Plan - Kom zelf spreken of draag sprekers aan voor de Tweakers Developers Summit 2025</title>
-            <link>https://tweakers.net/plan/4406/kom-zelf-spreken-of-draag-sprekers-aan-voor-de-tweakers-developers-summit-2025.html</link>
-            <description>Terwijl de zomer nog moet beginnen, wordt bij ons achter de schermen knetterhard gewerkt aan hét techevent van 2025. Op dinsdag 28 oktober 2025 transformeert DeFabrique in Utrecht tot het middelpunt van technologische innovatie, waar developers samenkomen om kennis te delen, te netwerken en geïnspireerd te raken.​ Met een focus op actuele thema&#039;s en interactieve sessies streven we ernaar om deelnemers een unieke en verrijkende ervaring te bieden.</description>
-            <author>Tweakers Partners</author>
-            <category>.plan</category>
-            <comments>https://tweakers.net/plan/4406/kom-zelf-spreken-of-draag-sprekers-aan-voor-de-tweakers-developers-summit-2025.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/plan/4406</guid>
-            <pubDate>Wed, 14 May 2025 08:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>

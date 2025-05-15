@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 15 May 2025 10:35:14 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 15 May 2025 10:57:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>South Korea delays decision on letting Google move hi-res map data overseas</title>
+		<link>https://techcrunch.com/2025/05/15/south-korea-delays-decision-on-letting-google-move-hi-res-map-data-overseas/</link>
+		
+		<dc:creator><![CDATA[Kate Park]]></dc:creator>
+		<pubDate>Thu, 15 May 2025 10:40:27 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[google maps]]></category>
+		<category><![CDATA[map tech]]></category>
+		<category><![CDATA[south korea]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3007483</guid>
+
+					<description><![CDATA[South Korea has once again postponed a decision on whether to approve Google&#8217;s request to transfer high-precision map data on the country&#8217;s geography to its international servers. In February, Google had requested approval from the Korean National Geographic Information Institute to deploy a 1:5,000 scale map on its app in the country and also transfer [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Hedra, the app used to make talking baby podcasts, raises $32M from a16z</title>
 		<link>https://techcrunch.com/2025/05/15/hedra-the-app-used-to-make-talking-baby-podcasts-raises-32m-from-a16z/</link>
 		
@@ -352,22 +370,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3007228</guid>
 
 					<description><![CDATA[SoundCloud says it&#8217;s revising its terms after widespread backlash over a clause related to AI model training. Earlier this year, SoundCloud quietly updated its&#160;usage policies, adding wording that many users interpreted as legal cover to allow the company to train AI on audio uploaded to its platform. SoundCloud was quick to assert that it wasn&#8217;t [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI pledges to publish AI safety test results more often</title>
-		<link>https://techcrunch.com/2025/05/14/openai-pledges-to-publish-ai-safety-test-results-more-often/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 14 May 2025 16:38:40 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Safety]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3007172</guid>
-
-					<description><![CDATA[OpenAI is moving to publish the results of its internal AI model safety evaluations more regularly in what the outfit is saying is an effort to increase transparency. On Wednesday, OpenAI launched the Safety evaluations hub, a web page showing how the company&#8217;s models score on various tests for harmful content generation, jailbreaks, and hallucinations. [&#8230;]]]></description>
 		
 		
 		
