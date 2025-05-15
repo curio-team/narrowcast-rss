@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 15 May 2025 15:36:01 +0200</pubDate>
-        <lastBuildDate>Thu, 15 May 2025 15:36:01 +0200</lastBuildDate>
+        <pubDate>Thu, 15 May 2025 16:31:04 +0200</pubDate>
+        <lastBuildDate>Thu, 15 May 2025 16:31:04 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Total Commander 11.55 RC 2</title>
+            <link>https://tweakers.net/downloads/72670/total-commander-1155-rc-2.html</link>
+            <description>De tweede releasecandidate van Total Commander versie 11.55 is verschenen. Dit programma kan als vervanging voor Windows Verkenner worden gebruikt. Doordat het beeld in tweeën is gesplitst, is het eenvoudig om bestanden te kopiëren, maar het programma kan veel meer. Zo zijn er diverse manieren om bestanden aan te passen, zijn een ingebouwde FTP-client en een multirenametool aanwezig, en is er ondersteuning voor een groot aantal compressieformaten. Verder kan de functionaliteit met plug-ins worden uitgebreid. Meer informatie over de veranderingen die in versie 11.55 zijn aangebracht kunnen op deze pagina worden gevonden; in deze tweede release candidate zijn verder nog de volgende verbeteringen aangebracht: Fixed in Total Commander 11.55 RC 2:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72670/total-commander-1155-rc-2.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72670</guid>
+            <pubDate>Thu, 15 May 2025 16:26:45 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - Fractal Meshify 3 - Met twee maten meten</title>
+            <link>https://tweakers.net/reviews/13238/fractal-meshify-3-met-twee-maten-meten.html</link>
+            <description>Fractal breidt de Meshify-familie uit met dertien nieuwe Meshify 3-varianten, waaronder zowel standaard als XL-modellen in verschillende kleuren.</description>
+            <author>Willem de Moor</author>
+            <category>Review / Computers / Behuizingen</category>
+            <comments>https://tweakers.net/reviews/13238/9/fractal-meshify-3-met-twee-maten-meten-conclusie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13238</guid>
+            <pubDate>Thu, 15 May 2025 16:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Huawei presenteert Fit 4 Series met nieuwe sportmodi en Watch 5</title>
+            <link>https://tweakers.net/nieuws/235000/huawei-presenteert-fit-4-series-met-nieuwe-sportmodi-en-watch-5.html</link>
+            <description>Huawei heeft drie nieuwe smartwatches onthuld tijdens zijn Innovative Product Launch 2025. Het gaat om de Huawei Watch Fit 4, Fit 4 Pro en Watch 5. De horloges zijn per direct te koop. Ook zijn er nieuwe oortjes gepresenteerd, de FreeBuds 6.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / Beeld en geluid / Oordopjes</category>
+            <comments>https://tweakers.net/nieuws/235000/huawei-presenteert-fit-4-series-met-nieuwe-sportmodi-en-watch-5.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235000</guid>
+            <pubDate>Thu, 15 May 2025 16:00:00 +0200</pubDate>
+        </item>
         <item>
             <title>Ubisoft schuift grootste games door naar 2026 en 2027 na &#039;kwaliteitsbesluit&#039;</title>
             <link>https://tweakers.net/nieuws/234998/ubisoft-schuift-grootste-games-door-naar-2026-en-2027-na-kwaliteitsbesluit.html</link>
@@ -48,12 +78,12 @@
             <pubDate>Thu, 15 May 2025 14:50:52 +0200</pubDate>
         </item>
         <item>
-            <title>TikTok riskeert miljardboete door schenden transparantie-eisen EU</title>
-            <link>https://tweakers.net/nieuws/234994/tiktok-riskeert-miljardboete-door-schenden-transparantie-eisen-eu.html</link>
+            <title>EU: TikTok is niet transparant genoeg over advertenties, krijgt mogelijk boete</title>
+            <link>https://tweakers.net/nieuws/234994/eu-tiktok-is-niet-transparant-genoeg-over-advertenties-krijgt-mogelijk-boete.html</link>
             <description>TikTok-moederbedrijf ByteDance overtreedt de Europese Digital Services Act met zijn advertentieoverzicht. Dat oordeelt de Europese Commissie naar aanleiding van een onderzoek. Daarop kan een boete van maximaal zes procent van de jaaromzet van ByteDance liggen.</description>
             <author>Daan van Monsjou</author>
             <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/234994/tiktok-riskeert-miljardboete-door-schenden-transparantie-eisen-eu.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/234994/eu-tiktok-is-niet-transparant-genoeg-over-advertenties-krijgt-mogelijk-boete.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234994</guid>
             <pubDate>Thu, 15 May 2025 14:27:08 +0200</pubDate>
         </item>
@@ -70,7 +100,7 @@
         <item>
             <title>Microsoft schaalt goedkoper 365 premiumaanbod voor non-profits terug</title>
             <link>https://tweakers.net/nieuws/234990/microsoft-schaalt-goedkoper-365-premiumaanbod-voor-non-profits-terug.html</link>
-            <description>Microsoft verkleint het aanbod van zijn goedkopere varianten van Microsoft 365 voor non-profits. De zogenaamde beursedities van Microsoft 365 Business Premium en Office 365 E1 worden per 1 juli uit het aanbod gehaald.</description>
+            <description>Microsoft verkleint het aanbod van zijn goedkopere varianten van Microsoft 365 voor non-profits.  Microsoft 365 Business Premium Beurs en Office 365 E1 Beurs, zoals Microsoft deze edities noemt, worden per 1 juli uit het aanbod gehaald.</description>
             <author>Eveline Meijer</author>
             <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
             <comments>https://tweakers.net/nieuws/234990/microsoft-schaalt-goedkoper-365-premiumaanbod-voor-non-profits-terug.html#reacties</comments>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/234934/proton-voegt-albums-toe-aan-proton-drive.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234934</guid>
             <pubDate>Wed, 14 May 2025 12:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Ziggo stopt in juli met Wifispots</title>
-            <link>https://tweakers.net/nieuws/234936/ziggo-stopt-in-juli-met-wifispots.html</link>
-            <description>Ziggo stopt vanaf 1 juli 2025 met Wifispots. Gebruikers kunnen via die dienst automatisch draadloos verbinding maken met modems van andere Ziggo-klanten. Volgens de provider wordt de dienst steeds minder gebruikt.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / IT Pro / Internet</category>
-            <comments>https://tweakers.net/nieuws/234936/ziggo-stopt-in-juli-met-wifispots.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234936</guid>
-            <pubDate>Wed, 14 May 2025 11:42:33 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Mozilla Thunderbird 138.0.1</title>
-            <link>https://tweakers.net/downloads/72654/mozilla-thunderbird-13801.html</link>
-            <description>De Mozilla Foundation heeft versie 138.0.1 van Thunderbird uitgebracht. Thunderbird is een opensourceclient voor e-mail en nieuwsgroepen met ondersteuning voor verschillende mail- en newsaccounts. Verder zijn er een spamfilter, spellingscontrole, kalender en adresboek, en heeft het een aanpasbaar uiterlijk. Thunderbird is beschikbaar in twee verschillende versies, die beide als stabiel worden aangeduid. De eerste wordt vaker voorzien van nieuwe functionaliteit en wordt als Release-versie aangeboden; de andere, de Extra Support Release-versie, wordt alleen van bugfixes en stabiliteitsverbeteringen voorzien. In deze uitgave zijn de volgende verbeteringen aangebracht: What’s Fixed</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72654/mozilla-thunderbird-13801.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72654</guid>
-            <pubDate>Wed, 14 May 2025 10:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Apple iPad is vanaf herfst niet meer als hub te gebruiken na verplichte update</title>
-            <link>https://tweakers.net/nieuws/234930/apple-ipad-is-vanaf-herfst-niet-meer-als-hub-te-gebruiken-na-verplichte.html</link>
-            <description>Apple stopt &#039;in het najaar van 2025&#039; met de ondersteuning van de oude versie van de Woning-app. Daardoor kunnen iPads definitief niet meer als smarthomehub gebruikt worden en wordt de Woning-app niet langer ondersteund op bepaalde oudere iPhones, iPads, Macs en Apple Watches.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / Tablets en telefoons / Tablets</category>
-            <comments>https://tweakers.net/nieuws/234930/apple-ipad-is-vanaf-herfst-niet-meer-als-hub-te-gebruiken-na-verplichte.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234930</guid>
-            <pubDate>Wed, 14 May 2025 10:27:13 +0200</pubDate>
         </item>
     </channel>
 </rss>
