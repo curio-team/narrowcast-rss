@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 15 May 2025 14:29:34 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 16 May 2025 02:35:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,334 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>xAI blames Grok&#8217;s obsession with white genocide on an &#8216;unauthorized modification&#8217;</title>
+		<link>https://techcrunch.com/2025/05/15/xai-blames-groks-obsession-with-white-genocide-on-an-unauthorized-modification/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Fri, 16 May 2025 01:42:34 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Grok]]></category>
+		<category><![CDATA[xAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3007866</guid>
+
+					<description><![CDATA[xAI blamed an &#8220;unauthorized modification&#8221; for a bug in its AI-powered Grok chatbot that caused Grok to repeatedly refer to &#8220;white genocide in South Africa&#8221; when invoked in certain contexts on X. On Wednesday, Grok began replying to dozens of posts on X with information about white genocide in South Africa, even in response to [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Sam Altman’s goal for ChatGPT to remember &#8216;your whole life’ is both exciting and disturbing</title>
+		<link>https://techcrunch.com/2025/05/15/sam-altmans-goal-for-chatgpt-to-remember-your-whole-life-is-both-exciting-and-disturbing/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Thu, 15 May 2025 23:05:45 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[sam altman]]></category>
+		<category><![CDATA[Sequoia Capital]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3007838</guid>
+
+					<description><![CDATA[OpenAI CEO Sam Altman laid out a big vision for the future of ChatGPT at an AI event hosted by VC firm Sequoia earlier this month.  When asked by one attendee about how ChatGPT can become more personalized, Altman replied that he eventually wants the model to document and remember everything in a person’s life. [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Vibe-coding startup Windsurf launches in-house AI models</title>
+		<link>https://techcrunch.com/2025/05/15/vibe-coding-startup-windsurf-launches-in-house-ai-models/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Thu, 15 May 2025 22:05:43 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Windsurf]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3007721</guid>
+
+					<description><![CDATA[On Thursday, Windsurf, a startup that develops popular AI tools for software engineers, announced the launch of its first family of AI software engineering models, or SWE-1 for short. The startup says it trained its new family of AI models — SWE-1, SWE-1-lite, and SWE-1-mini — to be optimized for the &#8220;entire software engineering process,&#8221; [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Viral outrage over Apple&#8217;s EU payment warnings misses key fact</title>
+		<link>https://techcrunch.com/2025/05/15/viral-outrage-over-apples-eu-payment-warnings-misses-key-fact/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Thu, 15 May 2025 21:41:50 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[developers]]></category>
+		<category><![CDATA[eu]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3007776</guid>
+
+					<description><![CDATA[Apple says the warning messages now appearing next to EU App Store listings that use third-party payment systems are not actually new. According to a number of recent reports, Apple added a warning with a red exclamation mark next to apps that it found were not using its own &#8220;private and secure payment system.&#8221; The [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fake fired Twitter worker ‘Rahul Ligma’ is a real engineer with an AI data startup used by Harvard</title>
+		<link>https://techcrunch.com/2025/05/15/fake-fired-twitter-worker-rahul-ligma-is-a-real-engineer-with-an-ai-data-startup-used-by-harvard/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Thu, 15 May 2025 21:35:07 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Bessemer Venture Partners]]></category>
+		<category><![CDATA[data science tools]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Harvard Business School]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3007773</guid>
+
+					<description><![CDATA[The morning after Elon Musk&#8217;s 2022 acquisition of Twitter (now X), reporters encountered two men with boxes outside the company&#8217;s headquarters. One introduced himself as recently laid-off Twitter engineer &#8220;Rahul Ligma.&#8221;&#160; His real name is Rahul Sonwalkar but the prank went viral. While he never worked for X, he is actually very much a techy. [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Redpoint raises $650M 3 years after its last big early-stage fund</title>
+		<link>https://techcrunch.com/2025/05/15/redpoint-raises-650m-3-years-after-its-last-big-early-stage-fund/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Thu, 15 May 2025 20:42:30 +0000</pubDate>
+				<category><![CDATA[Venture]]></category>
+		<category><![CDATA[early-stage venture capital]]></category>
+		<category><![CDATA[Poolside]]></category>
+		<category><![CDATA[Redpoint Venture Partners]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3007787</guid>
+
+					<description><![CDATA[Redpoint Ventures, a San Francisco-based firm that is about a quarter century old, has raised a $650 million 10th early-stage fund, according to a regulatory filing. Redpoint&#8217;s new fund matches the size of its prior fund, which was raised just under three years ago. In a market where many venture firms are decreasing their capital [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Sprinter Health raises $55M to expand its at-home healthcare service</title>
+		<link>https://techcrunch.com/2025/05/15/sprinter-health-raises-55m-to-expand-its-at-home-healthcare-service/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Thu, 15 May 2025 20:40:48 +0000</pubDate>
+				<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[a16z]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[General Catalyst]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3007568</guid>
+
+					<description><![CDATA[The Series B was led by General Catalyst, with Andreessen Horowitz, Regents of the University of California, Google Ventures, and Accel also investing.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Programmers bore the brunt of Microsoft&#8217;s layoffs in its home state as AI writes up to 30% of its code</title>
+		<link>https://techcrunch.com/2025/05/15/programmers-bore-the-brunt-of-microsofts-layoffs-in-its-home-state-as-ai-writes-up-to-30-of-its-code/</link>
+		
+		<dc:creator><![CDATA[Charles Rollet]]></dc:creator>
+		<pubDate>Thu, 15 May 2025 20:05:56 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Layoffs]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Satya Nadella]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3007774</guid>
+
+					<description><![CDATA[Microsoft's Washington layoffs hit coders hardest as the tech giant embraces AI.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anthropic’s lawyer was forced to apologize after Claude hallucinated a legal citation</title>
+		<link>https://techcrunch.com/2025/05/15/anthropics-lawyer-was-forced-to-apologize-after-claude-hallucinated-a-legal-citation/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Thu, 15 May 2025 19:37:53 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Claude]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3007737</guid>
+
+					<description><![CDATA[A lawyer representing Anthropic admitted to using an erroneous citation created by the company&#8217;s Claude AI chatbot in its ongoing legal battle with music publishers, according to a filing made in a Northern California court on Thursday. Claude hallucinated the citation with &#8220;an inaccurate title and inaccurate authors,&#8221; Anthropic says in the filing, first reported [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fieldstone Bio is building microbes that can sense everything from TNT to arsenic</title>
+		<link>https://techcrunch.com/2025/05/15/fieldstone-bio-is-building-microbes-that-can-sense-everything-from-tnt-to-arsenic/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Thu, 15 May 2025 19:07:32 +0000</pubDate>
+				<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[E14]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[gene editing]]></category>
+		<category><![CDATA[LDV Capital]]></category>
+		<category><![CDATA[microbes]]></category>
+		<category><![CDATA[synthetic biology]]></category>
+		<category><![CDATA[Ubiquity Ventures]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3007708</guid>
+
+					<description><![CDATA[Fieldstone Bio recently raised $5 million in seed funding.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Lucid’s record quarter got a lift from rental sales and company leases</title>
+		<link>https://techcrunch.com/2025/05/15/lucids-record-quarter-got-a-lift-from-rental-sales-and-company-leases/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Thu, 15 May 2025 19:05:52 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[Lucid Motors]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3004727</guid>
+
+					<description><![CDATA[Lucid Motors set a company record for deliveries in the first quarter of 2025, shipping 3,109 EVs to customers in North America, Europe, and Saudi Arabia. It appears that a new company car program and sales to rental fleets helped it get there.&#160; According to a footnote in Lucid Motors’ latest regulatory filing, it sold [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Startups Weekly: A brighter outlook, but don&#8217;t get carried away</title>
+		<link>https://techcrunch.com/2025/05/15/startups-weekly-a-brighter-outlook-but-dont-get-carried-away/</link>
+		
+		<dc:creator><![CDATA[Anna Heim]]></dc:creator>
+		<pubDate>Thu, 15 May 2025 18:29:03 +0000</pubDate>
+				<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[newsletters]]></category>
+		<category><![CDATA[Startups Weekly]]></category>
+		<category><![CDATA[venture capital]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3007061</guid>
+
+					<description><![CDATA[Welcome to Startups Weekly — your weekly recap of everything you can’t miss from the world of startups. Want it in your inbox every Friday? Sign up here. Startup news this week was fairly routine — in a good way: Aside from a minor kerfuffle between Y Combinator and Google, there was no headline-grabbing drama. [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>TikTok rolls out a new meditation feature to help you get off the app and sleep</title>
+		<link>https://techcrunch.com/2025/05/15/tiktok-rolls-out-a-new-meditation-feature-to-help-you-get-off-the-app-and-sleep/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Thu, 15 May 2025 17:30:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[TikTok]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3007631</guid>
+
+					<description><![CDATA[TikTok is launching in-app guided meditation exercises, the social network announced on Thursday. The company began testing the meditation exercises with select teens earlier this year and is now making the feature available to all users on its app. The idea behind the feature is to help users improve their sleep quality and encourage them [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cognichip emerges from stealth with the goal of using generative AI to develop new chips</title>
+		<link>https://techcrunch.com/2025/05/15/cognichip-emerges-from-stealth-with-the-goal-of-using-generative-ai-to-develop-new-chips/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Thu, 15 May 2025 16:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[AI chips]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[chips]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[lux capital]]></category>
+		<category><![CDATA[mayfield]]></category>
+		<category><![CDATA[semiconductor]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3007325</guid>
+
+					<description><![CDATA[Chips are a critical component of the AI industry. But new chips don&#8217;t hit the market with the same speed as new AI models and products. Cognichip has a lofty goal of creating a foundational AI model that can help bring new chips to market faster. San Francisco-based Cognichip is working to build a physics-informed [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google rolls out new AI and accessibility features to Android and Chrome</title>
+		<link>https://techcrunch.com/2025/05/15/google-rolls-out-new-ai-and-accessibility-features-to-android-and-chrome/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Thu, 15 May 2025 16:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[accessibility]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Google]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3007600</guid>
+
+					<description><![CDATA[Google announced on Thursday that it&#8217;s rolling out new AI and accessibility features to Android and Chrome. Most notably, TalkBack, Android’s screen reader, now lets you ask Gemini about what&#8217;s in images and what&#8217;s on your screen. Last year, Google brought Gemini&#8217;s capabilities to TalkBack to give people who are blind or have low vision [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Host a tailored Side Event at All Stage 2025 in Boston</title>
+		<link>https://techcrunch.com/2025/05/15/host-a-tailored-side-event-at-all-stage-2025-in-boston/</link>
+		
+		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
+		<pubDate>Thu, 15 May 2025 15:00:00 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TechCrunch All Stage 2025]]></category>
+		<category><![CDATA[TC All Stage]]></category>
+		<category><![CDATA[TC All Stage 2025]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3007071</guid>
+
+					<description><![CDATA[Looking to make a splash at TechCrunch All Stage 2025? Our Side Events initiative is a fantastic opportunity to engage with Boston&#8217;s tech community in a dynamic and memorable manner. Plus, we&#8217;ll assist in promoting your event at no cost to you! Submit your event here by June 10. Throw your own Side Event at [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Bain bets on Indian domestic work startup Pronto even as rivals face criticism</title>
+		<link>https://techcrunch.com/2025/05/15/bain-bets-on-indian-domestic-work-startup-pronto-even-as-rivals-face-criticism/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Thu, 15 May 2025 15:00:00 +0000</pubDate>
+				<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Bain Capital]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[pronto]]></category>
+		<category><![CDATA[Urban Company]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3007417</guid>
+
+					<description><![CDATA[Pronto, which provides cleaning, laundry and home services within 10 minutes, has raised $2M at a $12.5M valuation.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Threads now lets creators add up to 5 links to profiles, track clicks</title>
+		<link>https://techcrunch.com/2025/05/15/threads-now-lets-creators-add-up-to-5-links-to-profiles-track-clicks/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Thu, 15 May 2025 15:00:00 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[Threads]]></category>
+		<category><![CDATA[Creators]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3007588</guid>
+
+					<description><![CDATA[Instagram Threads is taking on Linktree and other &#8220;link-in-bio&#8221; solutions by introducing a way for creators to use their Threads profile to share links to their other interests and online presences. At launch, the feature will support adding up to five links to a bio, which can connect visitors to the creator&#8217;s blog, newsletter, website, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Apple finally launches next-gen &#8216;CarPlay Ultra&#8217; software, starting with Aston Martin</title>
 		<link>https://techcrunch.com/2025/05/15/apple-finally-launches-next-gen-carplay-ultra-software-starting-with-aston-martin/</link>
 		
@@ -38,24 +366,7 @@
 		<category><![CDATA[apple carplay]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3007577</guid>
 
-					<description><![CDATA[Apple&#8217;s next-generation version of its popular CarPlay infotainment software is finally launching three years after it was first announced. The company said Thursday that this new version of CarPlay &#8212; now known as &#8220;CarPlay Ultra&#8221; &#8212; will start rolling out on new Aston Martin vehicles in the U.S. and Canada, roughly half a year late. [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Sprinter Health raises $55M to expand its at-home healthcare service</title>
-		<link>https://techcrunch.com/2025/05/15/sprinter-health-raises-55m-to-expand-its-at-home-healthcare-service/</link>
-		
-		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Thu, 15 May 2025 14:17:54 +0000</pubDate>
-				<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[a16z]]></category>
-		<category><![CDATA[General Catalyst]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3007568</guid>
-
-					<description><![CDATA[The Series B was led by General Catalyst, with Andreessen Horowitz, Regents of the University of California, Google Ventures, and Accel also investing.]]></description>
+					<description><![CDATA[Apple&#8217;s next-generation version of its popular CarPlay infotainment software is finally launching three years after it was announced. The company said Thursday that this new version of CarPlay &#8212; now known as &#8220;CarPlay Ultra&#8221; &#8212; will start rolling out on new Aston Martin vehicles in the U.S. and Canada, roughly half a year late. While [&#8230;]]]></description>
 		
 		
 		
@@ -75,306 +386,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3007035</guid>
 
 					<description><![CDATA[For years, big tech companies like Amazon and Google have been trying to make virtual try-ons engaging to encourage consumers to shop more online. Startups also tried to solve for inspiration and fit in fashion using AI. A new startup called Doji is now entering this space with an app designed to make apparel try-ons [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Acorns acquires family wealth and digital memory platform EarlyBird</title>
-		<link>https://techcrunch.com/2025/05/15/acorns-acquires-family-wealth-and-digital-memory-platform-earlybird/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Thu, 15 May 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[acorns]]></category>
-		<category><![CDATA[statrups]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3007173</guid>
-
-					<description><![CDATA[Savings and investing startup Acorns has acquired EarlyBird, an investment gifting platform for families, the company told TechCrunch exclusively. The financial terms of the deal were not disclosed. As part of the acquisition, EarlyBird will shut down, and all customer accounts will officially close on June 23. Customers&#8217; funds will be returned to the bank [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Roblox now lets creators sell physical products within their experiences</title>
-		<link>https://techcrunch.com/2025/05/15/roblox-now-lets-creators-sell-physical-products-within-their-experiences/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Thu, 15 May 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[Roblox]]></category>
-		<category><![CDATA[Shopify]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3007291</guid>
-
-					<description><![CDATA[Roblox announced on Thursday that creators can now sell physical merchandise directly within their experiences and games on the platform with the launch of new Commerce APIs. The offering provides creators with a new way to generate revenue beyond the purchases of virtual goods or one-time fees to access specific experiences. The company first began [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Coinbase says customers&#8217; personal information stolen in data breach</title>
-		<link>https://techcrunch.com/2025/05/15/coinbase-says-customers-personal-information-stolen-in-data-breach/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Thu, 15 May 2025 11:58:30 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[coinbase]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[data breach]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3007554</guid>
-
-					<description><![CDATA[The crypto exchange giant said the hacker bribed contractors and employees in support roles to steal data. 
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Trump tells Apple&#8217;s CEO to stop expanding iPhone production in India</title>
-		<link>https://techcrunch.com/2025/05/15/trump-tells-apples-ceo-to-stop-expanding-iphone-production-in-india/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Thu, 15 May 2025 11:37:24 +0000</pubDate>
-				<category><![CDATA[Gadgets]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[India]]></category>
-		<category><![CDATA[Tim Cook]]></category>
-		<category><![CDATA[Trump]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3007533</guid>
-
-					<description><![CDATA[Speaking during a business summit in Doha, Trump said he met with Cook and asked him to stop building in India and instead increase production in the US.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>South Korea delays decision on letting Google move hi-res map data overseas</title>
-		<link>https://techcrunch.com/2025/05/15/south-korea-delays-decision-on-letting-google-move-hi-res-map-data-overseas/</link>
-		
-		<dc:creator><![CDATA[Kate Park]]></dc:creator>
-		<pubDate>Thu, 15 May 2025 10:40:27 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[data centers]]></category>
-		<category><![CDATA[google maps]]></category>
-		<category><![CDATA[map tech]]></category>
-		<category><![CDATA[south korea]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3007483</guid>
-
-					<description><![CDATA[South Korea has once again postponed a decision on whether to approve Google&#8217;s request to transfer high-precision map data on the country&#8217;s geography to its international servers. In February, Google had requested approval from the Korean National Geographic Information Institute to deploy a 1:5,000 scale map on its app in the country and also transfer [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hedra, the app used to make talking baby podcasts, raises $32M from a16z</title>
-		<link>https://techcrunch.com/2025/05/15/hedra-the-app-used-to-make-talking-baby-podcasts-raises-32m-from-a16z/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Thu, 15 May 2025 10:35:08 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[a16z]]></category>
-		<category><![CDATA[Hedra]]></category>
-		<category><![CDATA[video generation]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3007495</guid>
-
-					<description><![CDATA[Hedra, which offers a video generation and editing suite powered by its Character-3 model, has raised $32M.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Harvey reportedly in discussions to raise $250M at $5B valuation</title>
-		<link>https://techcrunch.com/2025/05/15/harvey-reportedly-in-discussions-to-raise-250m-at-5b-valuation/</link>
-		
-		<dc:creator><![CDATA[Ram Iyer, Ivan Mehta]]></dc:creator>
-		<pubDate>Thu, 15 May 2025 08:12:56 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[coatue]]></category>
-		<category><![CDATA[Harvey]]></category>
-		<category><![CDATA[Kleiner Perkins]]></category>
-		<category><![CDATA[legaltech]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[Sequoia Capital]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3007498</guid>
-
-					<description><![CDATA[Harvey AI is in discussions to raise more than $250 million in a funding round led by Kleiner Perkins and Coatue that would value it at $5 billion, Reuters reported]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Billionaire founder of Luminar replaced as CEO following ethics inquiry</title>
-		<link>https://techcrunch.com/2025/05/14/billionaire-founder-of-luminar-replaced-as-ceo-following-ethics-inquiry/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
-		<pubDate>Wed, 14 May 2025 23:14:07 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Austin Russell]]></category>
-		<category><![CDATA[Luminar]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3007458</guid>
-
-					<description><![CDATA[Austin Russell, who became a billionaire after his lidar startup Luminar went public, appears to be out as CEO, according to the company&#8217;s board. Luminar&#8217;s board announced Wednesday — the same day of its first-quarter earnings report — it had replaced Russell and appointed Paul Ricci to the role. Ricci is the former chairman and [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>YouTube introduces an interactive product feed for shoppable TV ads</title>
-		<link>https://techcrunch.com/2025/05/14/youtube-introduces-an-interactive-product-feed-for-shoppable-tv-ads/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Wed, 14 May 2025 21:30:00 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Advertising Tech]]></category>
-		<category><![CDATA[e-commerce]]></category>
-		<category><![CDATA[shopping]]></category>
-		<category><![CDATA[YouTube]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3007240</guid>
-
-					<description><![CDATA[YouTube made its pitch to advertisers on Wednesday, accompanied by a flashy performance from Lady Gaga and special appearances from popular YouTubers like Brittany Broski and MrBeast.&#160; During its Upfront presentation, YouTube executives introduced new ad formats coming to the platform, including an enhanced shoppable connected TV (CTV) offering that includes a new interactive product [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>YouTube targets TV dollars with NFL deal, bingeable &#8216;shows&#8217; from creators</title>
-		<link>https://techcrunch.com/2025/05/14/youtube-targets-tv-dollars-with-nfl-deal-bingeable-shows-from-creators/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Wed, 14 May 2025 21:30:00 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[YouTube]]></category>
-		<category><![CDATA[nfl]]></category>
-		<category><![CDATA[streaming]]></category>
-		<category><![CDATA[Creators]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3007304</guid>
-
-					<description><![CDATA[YouTube announced a range of initiatives designed to attract more TV ad dollars to its platform at Brandcast, its annual Upfront event for advertisers. Notably, the Google-owned video service is expanding its relationship with the NFL and plans to exclusively stream the NFL&#8217;s first Friday game of the 2025-2026 season. It&#8217;s also preparing to pilot [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>YouTube viewers will start seeing ads after ‘peak’ moments in videos</title>
-		<link>https://techcrunch.com/2025/05/14/youtube-viewers-will-start-seeing-ads-after-peak-moments-in-videos/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Wed, 14 May 2025 21:30:00 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[YouTube]]></category>
-		<category><![CDATA[Adtech]]></category>
-		<category><![CDATA[Advertising Tech]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3007322</guid>
-
-					<description><![CDATA[Imagine you’re watching a highly anticipated video from your favorite YouTube creator — perhaps the moment a famous couple finally gets engaged — when an ad pops up immediately after the clip. This is part of YouTube&#8217;s new ad format called &#8220;Peak Points.&#8221; The company revealed the new ad format during its Upfront presentation on [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The latest Apple Maps update will bring out your bougie side</title>
-		<link>https://techcrunch.com/2025/05/14/the-latest-apple-maps-update-will-bring-out-your-bougie-side/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Wed, 14 May 2025 20:55:40 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Apple Maps]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3007408</guid>
-
-					<description><![CDATA[Apple Maps announced a collaboration with the MICHELIN Guide, The Infatuation, and Golf Digest to help users find recommended restaurants and golf courses in their area. Starting in the U.S., users will be able to filter their Maps searches to see restaurants with MICHELIN ratings, which denote exceptional dining experiences. But if you&#8217;re on the [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Netflix adds more live TV to its lineup</title>
-		<link>https://techcrunch.com/2025/05/14/netflix-adds-more-live-tv-to-its-lineup/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Wed, 14 May 2025 20:30:25 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Ads]]></category>
-		<category><![CDATA[Netflix]]></category>
-		<category><![CDATA[streaming]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3007403</guid>
-
-					<description><![CDATA[Netflix is adding more livestreaming content, the company announced at its Upfront presentation on Wednesday. The service, which now reaches over 94 million global monthly active users, has been steadily introducing live TV to its audience with sports content from WWE wrestling, comedy, and awards shows, and other special events (some of which definitely didn&#8217;t [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Waymo recalls 1,200 robotaxis following low-speed collisions with gates and chains</title>
-		<link>https://techcrunch.com/2025/05/14/waymo-recalls-1200-robotaxis-following-low-speed-collisions-with-gates-and-chains/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
-		<pubDate>Wed, 14 May 2025 19:57:55 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Recalls]]></category>
-		<category><![CDATA[robotaxis]]></category>
-		<category><![CDATA[Waymo]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3007353</guid>
-
-					<description><![CDATA[Waymo issued a software recall on 1,200 self-driving vehicles after some of its robotaxis were involved in minor collisions with gates, chains, and other gate-like roadway objects. The software update, which was first reported by Reuters, was conducted late last year, according to documents filed with the National Highway Traffic Safety Administration (NHTSA). The Alphabet-owned [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Grok is unpromptedly telling X users about South African &#8216;white genocide&#8217;</title>
-		<link>https://techcrunch.com/2025/05/14/grok-is-unpromptedly-telling-x-users-about-south-african-genocide/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Wed, 14 May 2025 19:47:01 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[Grok]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3007371</guid>
-
-					<description><![CDATA[Elon Musk&#8217;s AI chatbot Grok appeared to experience a bug on Wednesday that caused it to reply to dozens of posts on X with information about &#8220;white genocide&#8221; in South Africa, even when the user didn&#8217;t ask anything about the subject. The strange responses stem from the X account for Grok, which replies to users [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Foxconn gets nod for $435M project to make more of Apple chips in India, eventually</title>
-		<link>https://techcrunch.com/2025/05/14/foxconn-gets-nod-for-435m-project-to-make-more-of-apple-chips-in-india-eventually/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Wed, 14 May 2025 19:37:15 +0000</pubDate>
-				<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Foxconn]]></category>
-		<category><![CDATA[semiconductor]]></category>
-		<category><![CDATA[HCL Group]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3007254</guid>
-
-					<description><![CDATA[Foxconn, a key manufacturer for Apple, has received an approval from India&#8217;s cabinet to build a new 37 billion Indian rupees ($435 million) semiconductor plant in a joint venture with the country&#8217;s IT giant HCL Group. The deal is the latest move to reduce Apple’s reliance on China and produce more components in India. The [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The Kids Online Safety Act is back, with the potential to change the internet</title>
-		<link>https://techcrunch.com/2025/05/14/the-kids-online-safety-act-is-back-with-the-potential-to-change-the-internet/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Wed, 14 May 2025 19:14:04 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Congress]]></category>
-		<category><![CDATA[Internet]]></category>
-		<category><![CDATA[legislation]]></category>
-		<category><![CDATA[kosa]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3007318</guid>
-
-					<description><![CDATA[The Kids Online Safety Act (KOSA) has been reintroduced into Congress. If passed into law, this bill could impose some of the most significant legislative changes that the internet has seen in the U.S. since the Children&#8217;s Online Privacy Protection Act (COPPA) of 1998. As it currently stands, KOSA would be able to hold social [&#8230;]]]></description>
 		
 		
 		
