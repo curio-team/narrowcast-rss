@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 16 May 2025 12:36:15 +0200</pubDate>
-        <lastBuildDate>Fri, 16 May 2025 12:36:15 +0200</lastBuildDate>
+        <pubDate>Fri, 16 May 2025 13:31:10 +0200</pubDate>
+        <lastBuildDate>Fri, 16 May 2025 13:31:10 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Bose stopt ondersteuning voor Sleep-app voor Sleepbuds-slaapoordopjes</title>
+            <link>https://tweakers.net/nieuws/235040/bose-stopt-ondersteuning-voor-sleep-app-voor-sleepbuds-slaapoordopjes.html</link>
+            <description>Bose trekt deze zomer de stekker uit de app voor zijn Bose Sleepbuds. De oortjes, die bedoeld zijn om tijdens het slapen te dragen, werken dan nog wel. Ook is voor de app geen serververbinding met Bose nodig. De oordopjes werden weinig verkocht.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Beeld en geluid / Oordopjes</category>
+            <comments>https://tweakers.net/nieuws/235040/bose-stopt-ondersteuning-voor-sleep-app-voor-sleepbuds-slaapoordopjes.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235040</guid>
+            <pubDate>Fri, 16 May 2025 13:03:09 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Visual Studio Code 1.100.2</title>
+            <link>https://tweakers.net/downloads/72678/visual-studio-code-11002.html</link>
+            <description>Visual Studio Code is een opensource code-editor met ondersteuning voor IntelliSense, debugging, Git en code snippets. Downloads zijn beschikbaar voor Windows, Linux en macOS. Ondersteuning voor de gangbare script- en programmeertalen is aanwezig en het kan daarnaast via extensies uitgebreid worden. Uitgebreide informatie over versie 1.100 is op deze pagina te vinden. Sinds versie 1.100.0 zijn de volgende veranderingen en verbeteringen aangebracht: Update 1.100.1 addresses this security issue:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72678/visual-studio-code-11002.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72678</guid>
+            <pubDate>Fri, 16 May 2025 13:00:09 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gerucht: AMD brengt Zen 6-apu&#039;s ook Ryzen 9-variant met 12 extra cores uit</title>
+            <link>https://tweakers.net/nieuws/235038/gerucht-amd-brengt-zen-6-apus-ook-ryzen-9-variant-met-12-extra-cores-uit.html</link>
+            <description>AMD brengt zijn komende laptopprocessors mogelijk in twee varianten uit. Het gaat om Ryzen 5- en 7-cpu&#039;s in de Medusa Point-apu-generatie met onder andere 8 RDNA 3.5+-compute-units en voor het eerst ook low-power-cores, naast Ryzen 9-modellen met in totaal 22 cores.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/235038/gerucht-amd-brengt-zen-6-apus-ook-ryzen-9-variant-met-12-extra-cores-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235038</guid>
+            <pubDate>Fri, 16 May 2025 12:44:11 +0200</pubDate>
+        </item>
         <item>
             <title>Aantal Google One-abonnees groeide door Gemini Advanced met 50 procent</title>
             <link>https://tweakers.net/nieuws/235036/aantal-google-one-abonnees-groeide-door-gemini-advanced-met-50-procent.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/downloads/72664/bitwarden-202550.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72664</guid>
             <pubDate>Thu, 15 May 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Microsoft krijgt waarschijnlijk geen EU-boete na loskoppelen Teams en Office&#039;</title>
-            <link>https://tweakers.net/nieuws/234976/microsoft-krijgt-waarschijnlijk-geen-eu-boete-na-loskoppelen-teams-en-office.html</link>
-            <description>Microsoft zal een mogelijk grote boete van de EU afwenden, zeggen ingewijden tegen Reuters. De EU deed onderzoek naar de techgigant wegens oneerlijke concurrentie met de Microsoft Teams-chatdienst. Het bedrijf heeft Teams eerder losgekoppeld van Office en dat lijkt voldoende.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / Officesoftware en suites</category>
-            <comments>https://tweakers.net/nieuws/234976/microsoft-krijgt-waarschijnlijk-geen-eu-boete-na-loskoppelen-teams-en-office.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234976</guid>
-            <pubDate>Thu, 15 May 2025 08:35:44 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Adv - De HP OmniBook Ultra 14 in de praktijk: Het Testpanel stelt technische vragen</title>
-            <link>https://tweakers.net/plan/4408/de-hp-omnibook-ultra-14-in-de-praktijk-het-testpanel-stelt-technische-vragen.html</link>
-            <description>Eind januari zochten HP en Tweakers Partners tien communityleden voor een testpanel dat de gloednieuwe HP OmniBook Ultra 14 op de spreekwoordelijke pijnbank mocht leggen. Met deze laptop wil HP zich onderscheiden door slimme AI-toepassingen, specifieke HP-features zoals HP AI Companion, een geïntegreerde Radeon 880M-gpu met 12 compute-units, en een XDNA 2 neural engine.</description>
-            <author>Tweakers Partners</author>
-            <category>.adv</category>
-            <comments>https://tweakers.net/plan/4408/de-hp-omnibook-ultra-14-in-de-praktijk-het-testpanel-stelt-technische-vragen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/plan/4408</guid>
-            <pubDate>Thu, 15 May 2025 08:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Aantal Netflix-gebruikers met advertentieabonnement is afgelopen jaar verdubbeld</title>
-            <link>https://tweakers.net/nieuws/234974/aantal-netflix-gebruikers-met-advertentieabonnement-is-afgelopen-jaar-verdubbeld.html</link>
-            <description>Het Netflix-abonnement met advertenties blijft snel doorgroeien, zo zegt de streamingdienst. Het abonnement heeft inmiddels 94 miljoen gebruikers. Netflix werkt daarnaast aan nieuwe reclameformats, waaronder ads die verschijnen wanneer je content op de dienst pauzeert.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/234974/aantal-netflix-gebruikers-met-advertentieabonnement-is-afgelopen-jaar-verdubbeld.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234974</guid>
-            <pubDate>Thu, 15 May 2025 07:54:31 +0200</pubDate>
         </item>
     </channel>
 </rss>
