@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 16 May 2025 13:31:10 +0200</pubDate>
-        <lastBuildDate>Fri, 16 May 2025 13:31:10 +0200</lastBuildDate>
+        <pubDate>Fri, 16 May 2025 14:41:01 +0200</pubDate>
+        <lastBuildDate>Fri, 16 May 2025 14:41:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Clonezilla 3.2.2-5</title>
+            <link>https://tweakers.net/downloads/72680/clonezilla-322-5.html</link>
+            <description>Clonezilla is een opensourceprogramma waarmee diskimages kunnen worden gemaakt. Het is onder andere mogelijk om back-ups van partities of van de hele harde schijf te maken, of een kopie van een harde schijf: een zogeheten kloon. Clonezilla is daarmee een opensourcevariant van Macrium Reflect en Acronis True Image. Het geheel is gebaseerd op een Debian-distributie en het maakt gebruik van DRBL, Partclone en udpcast. Clonezilla live is bedoeld voor losse computers, terwijl er met Clonezilla server tot wel veertig computers tegelijk van een image voorzien kunnen worden. Met versienummer 3.2.2-5 is een nieuwe stabiele uitgave van Clonezilla verschenen en de changelog van die versie ziet er als volgt uit: Enhancements and changes</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72680/clonezilla-322-5.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72680</guid>
+            <pubDate>Fri, 16 May 2025 14:35:20 +0200</pubDate>
+        </item>
+        <item>
+            <title>Take-Two: actieve ontwikkeling Grand Theft Auto VI begon in 2020</title>
+            <link>https://tweakers.net/nieuws/235046/take-two-actieve-ontwikkeling-grand-theft-auto-vi-begon-in-2020.html</link>
+            <description>De ontwikkeling van Grand Theft Auto VI ging &#039;serieus van start&#039; in 2020, zegt Take-Two-ceo Strauss Zelnick in de bespreking van de financiële resultaten. De game-uitgever blijft miljarden verliezen.</description>
+            <author>Idriz Velghe</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/235046/take-two-actieve-ontwikkeling-grand-theft-auto-vi-begon-in-2020.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235046</guid>
+            <pubDate>Fri, 16 May 2025 14:24:43 +0200</pubDate>
+        </item>
+        <item>
+            <title>Grok-antwoorden over Zuid-Afrika kwamen door &#039;ongeautoriseerde promptaanpassing&#039;</title>
+            <link>https://tweakers.net/nieuws/235042/grok-antwoorden-over-zuid-afrika-kwamen-door-ongeautoriseerde-promptaanpassing.html</link>
+            <description>Een recent incident waarbij X-chatbot Grok ongerelateerde antwoorden over discriminatie in Zuid-Afrika gaf op prompts kwam volgens xAI door &#039;een ongeautoriseerde aanpassing&#039; aan de antwoordprompt. Het bedrijf zegt niet hoe dat kon en of X-baas Elon Musk daarbij betrokken was.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Internettoegang</category>
+            <comments>https://tweakers.net/nieuws/235042/grok-antwoorden-over-zuid-afrika-kwamen-door-ongeautoriseerde-promptaanpassing.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235042</guid>
+            <pubDate>Fri, 16 May 2025 13:45:22 +0200</pubDate>
+        </item>
         <item>
             <title>Bose stopt ondersteuning voor Sleep-app voor Sleepbuds-slaapoordopjes</title>
             <link>https://tweakers.net/nieuws/235040/bose-stopt-ondersteuning-voor-sleep-app-voor-sleepbuds-slaapoordopjes.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/downloads/72666/affinity-suite-263.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72666</guid>
             <pubDate>Thu, 15 May 2025 10:43:51 +0200</pubDate>
-        </item>
-        <item>
-            <title>Intel hint op komst Arc B770-videokaart op sociale media</title>
-            <link>https://tweakers.net/nieuws/234964/intel-hint-op-komst-arc-b770-videokaart-op-sociale-media.html</link>
-            <description>Intel lijkt de komst van een Arc B770-videokaart te teasen op sociale media. Het bedrijf reageert massaal op gebruikers die daar om vragen met de tekst &#039;stay tuned&#039;. Het zou een hoger gepositioneerde videokaart moeten worden ten opzichte van de huidige B580.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/nieuws/234964/intel-hint-op-komst-arc-b770-videokaart-op-sociale-media.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234964</guid>
-            <pubDate>Thu, 15 May 2025 10:08:29 +0200</pubDate>
-        </item>
-        <item>
-            <title>Valve ontkent hack na datalek 89 miljoen telefoonnummers en verlopen 2fa-codes</title>
-            <link>https://tweakers.net/nieuws/234978/valve-ontkent-hack-na-datalek-89-miljoen-telefoonnummers-en-verlopen-2fa-codes.html</link>
-            <description>Valve heeft gereageerd op een vermeend Steam-datalek. Het bedrijf zegt dat zijn systemen niet gehackt zijn. Onlangs zei een hacker in het bezit te zijn van 89 miljoen Steam-userrecords. Het bleek uiteindelijk om telefoonnummers en oude 2fa-codes te gaan, die per sms verstuurd zijn.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/234978/valve-ontkent-hack-na-datalek-89-miljoen-telefoonnummers-en-verlopen-2fa-codes.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/234978</guid>
-            <pubDate>Thu, 15 May 2025 09:05:47 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Bitwarden 2025.5.0</title>
-            <link>https://tweakers.net/downloads/72664/bitwarden-202550.html</link>
-            <description>Bitwarden is een crossplatform en opensource wachtwoordbeheerdienst die persoonlijke gegevens in een versleutelde digitale kluis opslaat. Het is in de basis gratis te gebruiken en voor een klein bedrag per jaar is er toegang tot diverse extra&#039;s zoals het kunnen opslaan van totp-codes, inloggen met een YubiKey en opslagcapaciteit voor bijlagen. Bitwarden is beschikbaar online, als desktopclient, als mobiele app en als plug-in voor diverse webbrowsers. In versie 2025.5.0 zijn de volgende veranderingen en verbeteringen aangebracht: Password Manager</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72664/bitwarden-202550.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72664</guid>
-            <pubDate>Thu, 15 May 2025 09:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
