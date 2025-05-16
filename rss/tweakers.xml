@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 16 May 2025 10:36:01 +0200</pubDate>
-        <lastBuildDate>Fri, 16 May 2025 10:36:01 +0200</lastBuildDate>
+        <pubDate>Fri, 16 May 2025 11:31:11 +0200</pubDate>
+        <lastBuildDate>Fri, 16 May 2025 11:31:11 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Aantal Google One-abonnees groeide door Gemini Advanced met 50 procent</title>
+            <link>https://tweakers.net/nieuws/235036/aantal-google-one-abonnees-groeide-door-gemini-advanced-met-50-procent.html</link>
+            <description>150 miljoen Google-gebruikers betalen voor een Google One-abonnement. Dat zegt het bedrijf tegen persbureau Reuters. Iets meer dan een jaar geleden lag het aantal abonnees nog op honderd miljoen gebruikers.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Economie en maatschappij</category>
+            <comments>https://tweakers.net/nieuws/235036/aantal-google-one-abonnees-groeide-door-gemini-advanced-met-50-procent.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235036</guid>
+            <pubDate>Fri, 16 May 2025 11:21:49 +0200</pubDate>
+        </item>
+        <item>
+            <title>Hoofdaanklager van ICC heeft geen toegang meer tot Microsoft-mail na sancties VS</title>
+            <link>https://tweakers.net/nieuws/235034/hoofdaanklager-van-icc-heeft-geen-toegang-meer-tot-microsoft-mail-na-sancties-vs.html</link>
+            <description>De hoofdaanklager van het Internationaal Strafhof in Den Haag kan zijn werk amper doen omdat hij geen toegang meer heeft tot zijn Microsoft-e-mail. Dat komt vermoedelijk omdat Microsoft dat stopzette door Amerikaanse sancties tegen het ICC.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Internettoegang</category>
+            <comments>https://tweakers.net/nieuws/235034/hoofdaanklager-van-icc-heeft-geen-toegang-meer-tot-microsoft-mail-na-sancties-vs.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235034</guid>
+            <pubDate>Fri, 16 May 2025 11:09:59 +0200</pubDate>
+        </item>
+        <item>
+            <title>Snapdragon 7 Gen 4 met Wi-Fi 7-ondersteuning kan Stable Diffusion lokaal draaien</title>
+            <link>https://tweakers.net/nieuws/235032/snapdragon-7-gen-4-met-wi-fi-7-ondersteuning-kan-stable-diffusion-lokaal-draaien.html</link>
+            <description>Qualcomm heeft de Snapdragon 7 Gen 4 aangekondigd. De nieuwe mobiele soc is voornamelijk beter in grafische applicaties en in AI. Zo zou de nieuwe soc 30 procent snellere grafische rendering hebben en 65 procent hoger scoren in AI-benchmarks dan het eerdere model.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/235032/snapdragon-7-gen-4-met-wi-fi-7-ondersteuning-kan-stable-diffusion-lokaal-draaien.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235032</guid>
+            <pubDate>Fri, 16 May 2025 11:00:10 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Rust 1.87.0</title>
             <link>https://tweakers.net/downloads/72674/rust-1870.html</link>
@@ -212,7 +242,7 @@
             <link>https://tweakers.net/nieuws/235000/huawei-presenteert-fit-4-series-met-nieuwe-sportmodi-en-watch-5.html</link>
             <description>Huawei heeft drie nieuwe smartwatches onthuld tijdens zijn Innovative Product Launch 2025. Het gaat om de Huawei Watch Fit 4, Fit 4 Pro en Watch 5. De horloges zijn per direct te koop. Ook zijn er nieuwe oortjes gepresenteerd, de FreeBuds 6.</description>
             <author>Eveline Meijer</author>
-            <category>Nieuws / Beeld en geluid / Oordopjes</category>
+            <category>Nieuws / Tablets en telefoons / Smartwatches</category>
             <comments>https://tweakers.net/nieuws/235000/huawei-presenteert-fit-4-series-met-nieuwe-sportmodi-en-watch-5.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235000</guid>
             <pubDate>Thu, 15 May 2025 16:00:00 +0200</pubDate>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/234974/aantal-netflix-gebruikers-met-advertentieabonnement-is-afgelopen-jaar-verdubbeld.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/234974</guid>
             <pubDate>Thu, 15 May 2025 07:54:31 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - PowerToys 0.91.0</title>
-            <link>https://tweakers.net/downloads/72662/powertoys-0910.html</link>
-            <description>Microsoft heeft versie 0.91.0 van PowerToys uitgebracht. De PowerToys zijn een verzameling kleine programma&#039;s voor powerusers. Er waren PowerToys voor Windows 95 en Windows XP, en sinds halverwege 2019 is Microsoft ook bezig met de ontwikkeling van een versie voor Windows 10 en hoger. De PowerToys bestaan onder meer uit Awake, Color Picker, FancyZones, File Explorer Add-ons, Image Resizer, Keyboard Manager, PowerRename, PowerToys Run, Shortcut Guide en de Video Conference Mute. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Highlights</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72662/powertoys-0910.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72662</guid>
-            <pubDate>Thu, 15 May 2025 07:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Video - Android-upgrades, AI-dokters en dunne telefoons - Tweakers Podcast #373</title>
-            <link>https://tweakers.net/video/19902/android-upgrades-ai-dokters-en-dunne-telefoons-tweakers-podcast-373.html</link>
-            <description>Deze week praten Wout Funnekotter, Jurian Ubachs, Arnoud Wokke, Jurian Ubachs en Dennis de Vries over de Samsung Galaxy S25 Edge, Summer Game Fest, AI-overzichten in Google, een AI-model voor artsen en de Android 16-aankondiging.</description>
-            <author>Redactie Tweakers</author>
-            <category>Video / IT Pro / Economie en maatschappij</category>
-            <comments>https://tweakers.net/video/19902/android-upgrades-ai-dokters-en-dunne-telefoons-tweakers-podcast-373.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/video/19902</guid>
-            <pubDate>Thu, 15 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Tweakers Podcast #373 - Android-upgrades, AI-dokters en dunne telefoons</title>
-            <link>https://tweakers.net/geek/234952/tweakers-podcast-373-android-upgrades-ai-dokters-en-dunne-telefoons.html</link>
-            <description>Deze week praten Wout Funnekotter, Jurian Ubachs, Arnoud Wokke, Jurian Ubachs en Dennis de Vries over de Samsung Galaxy S25 Edge, Summer Game Fest, AI-overzichten in Google, een AI-model voor artsen en de Android 16-aankondiging.</description>
-            <author>Arnoud Wokke</author>
-            <category>.Geek / Beeld en geluid / Audio</category>
-            <comments>https://tweakers.net/geek/234952/tweakers-podcast-373-android-upgrades-ai-dokters-en-dunne-telefoons.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/234952</guid>
-            <pubDate>Thu, 15 May 2025 06:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
