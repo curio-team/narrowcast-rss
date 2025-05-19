@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 19 May 2025 13:31:01 +0200</pubDate>
-        <lastBuildDate>Mon, 19 May 2025 13:31:01 +0200</lastBuildDate>
+        <pubDate>Mon, 19 May 2025 14:41:05 +0200</pubDate>
+        <lastBuildDate>Mon, 19 May 2025 14:41:05 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,6 +18,46 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
+            <title>&#039;Gamechat-functie Nintendo Switch 2 krijgt text-to-speech en live-ondertiteling&#039;</title>
+            <link>https://tweakers.net/nieuws/235138/gamechat-functie-nintendo-switch-2-krijgt-text-to-speech-en-live-ondertiteling.html</link>
+            <description>De GameChat-functie van de Nintendo Switch 2 zou ondersteuning hebben voor text-to-speech en live-ondertiteling. Dat blijkt uit beelden die een leaker heeft gedeeld. Het is niet duidelijk of deze functies ook in het Nederlands beschikbaar komen.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / Gaming / Consoles</category>
+            <comments>https://tweakers.net/nieuws/235138/gamechat-functie-nintendo-switch-2-krijgt-text-to-speech-en-live-ondertiteling.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235138</guid>
+            <pubDate>Mon, 19 May 2025 14:40:15 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gigabyte toont X870 Aorus X3D-moederborden met extra koele M.2-slots</title>
+            <link>https://tweakers.net/nieuws/235134/gigabyte-toont-x870-aorus-x3d-moederborden-met-extra-koele-m2-slots.html</link>
+            <description>Gigabyte heeft moederborden uitgebracht voor AMD&#039;s Ryzen X3D-processors met 3D V-Cache. De De X870 Aorus X3D&#039;s hebben extra gekoelde M.2-slots en komen zowel in het zwart als het wit beschikbaar. De borden maken het mogelijk de X3D Turbo Mode in de bios in te schakelen.</description>
+            <author>Willem de Moor</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/235134/gigabyte-toont-x870-aorus-x3d-moederborden-met-extra-koele-m2-slots.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235134</guid>
+            <pubDate>Mon, 19 May 2025 14:39:12 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gigabyte komt ook met &#039;kabelloze&#039; RTX 5090-videokaart, maar dan alleen optisch</title>
+            <link>https://tweakers.net/nieuws/235132/gigabyte-komt-ook-met-kabelloze-rtx-5090-videokaart-maar-dan-alleen-optisch.html</link>
+            <description>Na ASUS introduceert ook Gigabyte een &#039;kabelloze&#039; videokaart in zijn Aorus Stealth-serie. Waar ASUS de 12V-2X6-stroomkabel volledig vervangt door een slotconnector op een bijpassend BTF-moederbord, werkt Gigabyte de kabel simpelweg binnen de videokaart weg naar beneden.</description>
+            <author>Tomas Hochstenbach</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/235132/gigabyte-komt-ook-met-kabelloze-rtx-5090-videokaart-maar-dan-alleen-optisch.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235132</guid>
+            <pubDate>Mon, 19 May 2025 13:58:28 +0200</pubDate>
+        </item>
+        <item>
+            <title>NS stopt vanaf 1 juni met X</title>
+            <link>https://tweakers.net/nieuws/235130/ns-stopt-vanaf-1-juni-met-x.html</link>
+            <description>Het Nederlandse treinvervoersbedrijf NS biedt vanaf 1 juni geen reisinformatie en klantenservice meer aan via X. Volgens de NS gebruiken steeds minder mensen het socialemediaplatform en is de toon op X ook verhard.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/235130/ns-stopt-vanaf-1-juni-met-x.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235130</guid>
+            <pubDate>Mon, 19 May 2025 13:34:36 +0200</pubDate>
+        </item>
+        <item>
             <title>Software-update - Vivaldi 7.4</title>
             <link>https://tweakers.net/downloads/72700/vivaldi-74.html</link>
             <description>Versie 7.4 van de webbrowser Vivaldi is uitgekomen. Vivaldi is een webbrowser die wordt ontwikkeld door voormalige werknemers van Opera. Hij richt zich voornamelijk op powerusers en gebruikers van Opera vóór de overstap op Chromium, hoewel ook deze browser daarop is gebaseerd. Vivaldi heeft uitgebreide mogelijkheden, zoals mousegestures, stapelen van tabbladen, uitgebreide keyboardshortcuts en het maken van aantekeningen op webpagina&#039;s. De browser is gratis en wordt voor Windows, Linux, macOS en Android ontwikkeld, en tegenwoordig ook voor iOS. Hieronder is te vinden wat er in deze uitgave allemaal veranderd is. More control over keyboard shortcuts</description>
@@ -28,9 +68,9 @@
             <pubDate>Mon, 19 May 2025 13:30:00 +0200</pubDate>
         </item>
         <item>
-            <title>HP toont Omnibook 5-laptops met Qualcomm-chips en oledschermen vanaf 799 dollar</title>
+            <title>HP toont OmniBook 5-laptops met Qualcomm-chips en oledschermen vanaf 799 dollar</title>
             <link>https://tweakers.net/nieuws/235112/hp-toont-omnibook-5-laptops-met-qualcomm-chips-en-oledschermen-vanaf-799-dollar.html</link>
-            <description>HP introduceert twee nieuwe Omnibook-laptops, die beide beschikken over een Qualcomm Snapdragon X-soc. Het betreft een 14&quot;- en een 16&quot;-model, die in de komende maanden verschijnen vanaf 799 en 849 dollar.</description>
+            <description>HP introduceert twee nieuwe OmniBook-laptops, die beide beschikken over een Qualcomm Snapdragon X-soc. Het betreft een 14&quot;- en een 16&quot;-model, die in de komende maanden verschijnen vanaf 799 en 849 dollar.</description>
             <author>Daan van Monsjou</author>
             <category>Nieuws / Computers / Laptops</category>
             <comments>https://tweakers.net/nieuws/235112/hp-toont-omnibook-5-laptops-met-qualcomm-chips-en-oledschermen-vanaf-799-dollar.html#reacties</comments>
@@ -120,7 +160,7 @@
         <item>
             <title>Software-update - Tor Browser 14.5.2</title>
             <link>https://tweakers.net/downloads/72698/tor-browser-1452.html</link>
-            <description>Versie 14.5.1 van Tor Browser is uitgekomen. Tor staat voor &#039;The Onion Router&#039; en is een netwerk dat gebruikt kan worden om redelijk anoniem over internet te surfen. Al het TCP-verkeer van gebruikers wordt langs verschillende Tor-routers geleid, waarna het voor de ontvanger vrijwel niet meer mogelijk is om te achterhalen wie de oorspronkelijke verzender was. Binnen het Tor-netwerk is die informatie nog wel aanwezig, zodat antwoorden, uiteraard ook weer via het stelsel van routers, uiteindelijk weer op de juiste plek aankomen. De changelog voor deze uitgave kan hieronder worden gevonden. All Platforms</description>
+            <description>Versie 14.5.2 van Tor Browser is uitgekomen. Tor staat voor &#039;The Onion Router&#039; en is een netwerk dat gebruikt kan worden om redelijk anoniem over internet te surfen. Al het TCP-verkeer van gebruikers wordt langs verschillende Tor-routers geleid, waarna het voor de ontvanger vrijwel niet meer mogelijk is om te achterhalen wie de oorspronkelijke verzender was. Binnen het Tor-netwerk is die informatie nog wel aanwezig, zodat antwoorden, uiteraard ook weer via het stelsel van routers, uiteindelijk weer op de juiste plek aankomen. De changelog voor deze uitgave kan hieronder worden gevonden. All Platforms</description>
             <author>Bart van Klaveren</author>
             <category>Software</category>
             <comments>https://tweakers.net/downloads/72698/tor-browser-1452.html#reacties</comments>
@@ -376,46 +416,6 @@
             <comments>https://tweakers.net/downloads/72684/debian-gnu-linux-1211.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72684</guid>
             <pubDate>Sat, 17 May 2025 14:07:29 +0200</pubDate>
-        </item>
-        <item>
-            <title>VAE en VS willen AI-campus in Abu Dhabi bouwen met datacentercapaciteit van 5GW</title>
-            <link>https://tweakers.net/nieuws/235072/vae-en-vs-willen-ai-campus-in-abu-dhabi-bouwen-met-datacentercapaciteit-van-5gw.html</link>
-            <description>De Verenigde Staten en Verenigde Arabische Emiraten zijn van plan om een AI-campus te bouwen met een capaciteit van 5 gigawatt in Abu Dhabi. De faciliteit moet meer dan 25 vierkante kilometer beslaan, bijna de oppervlakte van Schiphol.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Economie en maatschappij</category>
-            <comments>https://tweakers.net/nieuws/235072/vae-en-vs-willen-ai-campus-in-abu-dhabi-bouwen-met-datacentercapaciteit-van-5gw.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235072</guid>
-            <pubDate>Sat, 17 May 2025 13:51:10 +0200</pubDate>
-        </item>
-        <item>
-            <title>Acer kondigt lichte Swift-laptop aan met matte schermafwerking</title>
-            <link>https://tweakers.net/nieuws/235070/acer-kondigt-lichte-swift-laptop-aan-met-matte-schermafwerking.html</link>
-            <description>Acer heeft nieuwe laptops aangekondigd in de Swift Edge-, Swift Go-, Predator Triton en Predator  Helios-lijnen. Ze ondersteunen allemaal Microsofts Copilot+-AI-functies en het gros krijgt een Intel Lunar Lake-cpu. Eerstgenoemde is de eerste met een matte schermafwerking van Gorilla.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Computers / Laptops</category>
-            <comments>https://tweakers.net/nieuws/235070/acer-kondigt-lichte-swift-laptop-aan-met-matte-schermafwerking.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235070</guid>
-            <pubDate>Sat, 17 May 2025 12:53:42 +0200</pubDate>
-        </item>
-        <item>
-            <title>Fortnite brengt hotfix uit voor scheldende Darth Vader-AI</title>
-            <link>https://tweakers.net/nieuws/235068/fortnite-brengt-hotfix-uit-voor-scheldende-darth-vader-ai.html</link>
-            <description>Fortnite heeft een functie toegevoegd waarmee spelers kunnen praten met een &#039;conversationele AI-chatbot&#039; met de stem van Darth Vader. Online circuleren video&#039;s waarin de AI-versie van de Star Wars-schurk ongepaste dingen zegt. Fortnite heeft daarvoor een hotfix uitgebracht.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/235068/fortnite-brengt-hotfix-uit-voor-scheldende-darth-vader-ai.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235068</guid>
-            <pubDate>Sat, 17 May 2025 11:07:36 +0200</pubDate>
-        </item>
-        <item>
-            <title>OpenAI komt met AI-agent voor schrijven van code</title>
-            <link>https://tweakers.net/nieuws/235066/openai-komt-met-ai-agent-voor-schrijven-van-code.html</link>
-            <description>OpenAI test een AI-agent die programmeertaken van softwareontwikkelaars moet kunnen overnemen. De tool kan verbonden worden met Github-repo&#039;s en kan onder meer code schrijven en pullrequests doen.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Software development</category>
-            <comments>https://tweakers.net/nieuws/235066/openai-komt-met-ai-agent-voor-schrijven-van-code.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235066</guid>
-            <pubDate>Sat, 17 May 2025 10:14:29 +0200</pubDate>
         </item>
     </channel>
 </rss>
