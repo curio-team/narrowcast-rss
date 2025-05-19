@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 19 May 2025 12:36:10 +0200</pubDate>
-        <lastBuildDate>Mon, 19 May 2025 12:36:10 +0200</lastBuildDate>
+        <pubDate>Mon, 19 May 2025 13:31:01 +0200</pubDate>
+        <lastBuildDate>Mon, 19 May 2025 13:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,56 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Vivaldi 7.4</title>
+            <link>https://tweakers.net/downloads/72700/vivaldi-74.html</link>
+            <description>Versie 7.4 van de webbrowser Vivaldi is uitgekomen. Vivaldi is een webbrowser die wordt ontwikkeld door voormalige werknemers van Opera. Hij richt zich voornamelijk op powerusers en gebruikers van Opera vóór de overstap op Chromium, hoewel ook deze browser daarop is gebaseerd. Vivaldi heeft uitgebreide mogelijkheden, zoals mousegestures, stapelen van tabbladen, uitgebreide keyboardshortcuts en het maken van aantekeningen op webpagina&#039;s. De browser is gratis en wordt voor Windows, Linux, macOS en Android ontwikkeld, en tegenwoordig ook voor iOS. Hieronder is te vinden wat er in deze uitgave allemaal veranderd is. More control over keyboard shortcuts</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72700/vivaldi-74.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72700</guid>
+            <pubDate>Mon, 19 May 2025 13:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>HP toont Omnibook 5-laptops met Qualcomm-chips en oledschermen vanaf 799 dollar</title>
+            <link>https://tweakers.net/nieuws/235112/hp-toont-omnibook-5-laptops-met-qualcomm-chips-en-oledschermen-vanaf-799-dollar.html</link>
+            <description>HP introduceert twee nieuwe Omnibook-laptops, die beide beschikken over een Qualcomm Snapdragon X-soc. Het betreft een 14&quot;- en een 16&quot;-model, die in de komende maanden verschijnen vanaf 799 en 849 dollar.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Laptops</category>
+            <comments>https://tweakers.net/nieuws/235112/hp-toont-omnibook-5-laptops-met-qualcomm-chips-en-oledschermen-vanaf-799-dollar.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235112</guid>
+            <pubDate>Mon, 19 May 2025 13:21:53 +0200</pubDate>
+        </item>
+        <item>
+            <title>Intel toont werkende Panther Lake-cpu voor laptops die begin 2026 uitkomt</title>
+            <link>https://tweakers.net/nieuws/235128/intel-toont-werkende-panther-lake-cpu-voor-laptops-die-begin-2026-uitkomt.html</link>
+            <description>Intel heeft voor het eerst een werkende Panther Lake-processor gedemonstreerd. Dat deed de chipfabrikant tegenover Tweakers en andere journalisten in Taipei, waar nu de Computex-beurs plaatsvindt. De eerste laptops met Panther Lake komen pas begin 2026 op de markt.</description>
+            <author>Tomas Hochstenbach</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/235128/intel-toont-werkende-panther-lake-cpu-voor-laptops-die-begin-2026-uitkomt.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235128</guid>
+            <pubDate>Mon, 19 May 2025 12:54:02 +0200</pubDate>
+        </item>
+        <item>
+            <title>Ubisoft: Assassin&#039;s Creed, Far Cry en Rainbow Six worden miljardenfranchises</title>
+            <link>https://tweakers.net/nieuws/235122/ubisoft-assassins-creed-far-cry-en-rainbow-six-worden-miljardenfranchises.html</link>
+            <description>Ubisoft wil van Assassin’s Creed, Rainbow Six en Far Cry miljardenfranchises maken. De games moeten bovendien een &#039;evergreen&#039;-status krijgen. Dat werd verteld tijdens de bespreking van de kwartaalcijfers van het bedrijf. De nieuwe dochteronderneming zal hierbij een cruciale rol spelen.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/235122/ubisoft-assassins-creed-far-cry-en-rainbow-six-worden-miljardenfranchises.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235122</guid>
+            <pubDate>Mon, 19 May 2025 12:48:07 +0200</pubDate>
+        </item>
+        <item>
+            <title>ASUS introduceert 610Hz-monitor met inputlag van 0,8ms</title>
+            <link>https://tweakers.net/nieuws/235124/asus-introduceert-610hz-monitor-met-inputlag-van-0-komma-8ms.html</link>
+            <description>ASUS toont op Computex een lcd-monitor met een refreshrate van 610Hz, voorzien van een 24,1&quot;-TN-paneel met een resolutie van 1920x1080. Het scherm zou een inputlag van 0,8ms bieden en ondersteunt een geavanceerde vorm van motion blur reduction.</description>
+            <author>Friso Weijers</author>
+            <category>Nieuws / Computers / Monitors</category>
+            <comments>https://tweakers.net/nieuws/235124/asus-introduceert-610hz-monitor-met-inputlag-van-0-komma-8ms.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235124</guid>
+            <pubDate>Mon, 19 May 2025 12:45:16 +0200</pubDate>
+        </item>
         <item>
             <title>ASUS toont &#039;gespleten&#039; ROG-toetsenbord en lichte gamingmuis van 48 gram</title>
             <link>https://tweakers.net/nieuws/235092/asus-toont-gespleten-rog-toetsenbord-en-lichte-gamingmuis-van-48-gram.html</link>
@@ -366,56 +416,6 @@
             <comments>https://tweakers.net/nieuws/235066/openai-komt-met-ai-agent-voor-schrijven-van-code.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235066</guid>
             <pubDate>Sat, 17 May 2025 10:14:29 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Apache Tomcat 11.0.7 / 10.1.41 / 9.0.105</title>
-            <link>https://tweakers.net/downloads/72682/apache-tomcat-1107-10141-90105.html</link>
-            <description>Apache Tomcat is een Webcontainer die is ontwikkeld door de Apache Software Foundation. Tomcat voert Jakarta Servlets en Jakarta Pages uit en biedt een HTTP-webomgeving aan waarop Jakarta-code direct kan worden gedraaid. Het Jakarta EE platform is de doorontwikkeling van het Java EE platform. Tomcat 10 en hoger richten zich op Jakarta, terwijl Tomcat 9 en lager zich blijven richten op Java. Voor meer informatie verwijzen we naar deze pagina. De ontwikkelaars hebben updates voor versies 11, 10 en 9 uitgebracht, en details daarvan kunnen hieronder worden gevonden. Tomcat 11.0.7 Released</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72682/apache-tomcat-1107-10141-90105.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72682</guid>
-            <pubDate>Sat, 17 May 2025 08:15:09 +0200</pubDate>
-        </item>
-        <item>
-            <title>Round-up - 13x Radeon RX 9070 XT Mega-round-up - De slimste koop is niet de duurste</title>
-            <link>https://tweakers.net/reviews/13234/13x-radeon-rx-9070-xt-mega-round-up-de-slimste-koop-is-niet-de-duurste.html</link>
-            <description>Maar liefst dertien AMD Radeon RX 9070 XT-videokaarten vergelijken we in deze mega-round-up op koeling, geluidsproductie en prijs-prestatieverhouding.</description>
-            <author>Reinoud Dik</author>
-            <category>Round-up / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/reviews/13234/13/13x-radeon-rx-9070-xt-mega-round-up-de-slimste-koop-is-niet-de-duurste-conclusie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13234</guid>
-            <pubDate>Sat, 17 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Videoreview - AMD RX 9070 XT mega round-up: Wat is de allerbeste?</title>
-            <link>https://tweakers.net/video/19906/amd-rx-9070-xt-mega-round-up-wat-is-de-allerbeste.html</link>
-            <description>In deze video vergelijken we maar liefst 13 AMD Radeon RX 9070 XT-videokaarten van ASRock, ASUS, Gigabyte, Powercolor, Sapphire en XFX. Hoe verhouden ze zich tot elkaar op het gebied van prestaties, koeling, geluidsproductie en stroomverbruik, en misschien wel belangrijker, welke kun je het beste kopen?</description>
-            <author>Mark van der Kruit</author>
-            <category>Videoreview / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/video/19906/amd-rx-9070-xt-mega-round-up-wat-is-de-allerbeste.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/video/19906</guid>
-            <pubDate>Sat, 17 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Preview - Computex 2025: wat kun je verwachten van dé pc-beurs dit jaar?</title>
-            <link>https://tweakers.net/reviews/13262/computex-2025-wat-kun-je-verwachten-van-de-pc-beurs-dit-jaar.html</link>
-            <description>Tweakers is ook dit jaar weer in Taiwan voor Computex, de grootste pc-beurs van het jaar. Wat kun je daarvan verwachten?</description>
-            <author>Daan van Monsjou</author>
-            <category>Preview / Computers / Processors</category>
-            <comments>https://tweakers.net/reviews/13262/computex-2025-wat-kun-je-verwachten-van-de-pc-beurs-dit-jaar.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13262</guid>
-            <pubDate>Sat, 17 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>MSI onthult PortalX-webinterface om rgb-lichteffecten in te stellen</title>
-            <link>https://tweakers.net/nieuws/235064/msi-onthult-portalx-webinterface-om-rgb-lichteffecten-in-te-stellen.html</link>
-            <description>MSI kondigt PortalX aan, een platform waarmee gebruikers via een webinterface de rgb-verlichting van MSI-apparaten kunnen instellen. Tot dusver was daar afzonderlijke software voor nodig. Het is nog niet bekend wanneer PortalX beschikbaar zal zijn.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/nieuws/235064/msi-onthult-portalx-webinterface-om-rgb-lichteffecten-in-te-stellen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235064</guid>
-            <pubDate>Fri, 16 May 2025 20:46:14 +0200</pubDate>
         </item>
     </channel>
 </rss>
