@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 19 May 2025 15:36:06 +0200</pubDate>
-        <lastBuildDate>Mon, 19 May 2025 15:36:06 +0200</lastBuildDate>
+        <pubDate>Mon, 19 May 2025 16:31:05 +0200</pubDate>
+        <lastBuildDate>Mon, 19 May 2025 16:31:05 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,46 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - OPNsense 25.1.7</title>
+            <link>https://tweakers.net/downloads/72702/opnsense-2517.html</link>
+            <description>Het pakket OPNsense is een firewall met uitgebreide mogelijkheden. Het is gebaseerd op het besturingssysteem FreeBSD en is oorspronkelijk een fork van m0n0wall en pfSense. Het pakket kan volledig via een webinterface worden ingesteld en heeft onder andere ondersteuning voor mfa, OpenVPN, IPsec, CARP en captive portal. Daarnaast kan het packetfiltering toepassen en beschikt het over een traffic shaper. De ontwikkelaars achter OPNsense hebben de zevende update voor versie 25.1 uitgebracht en de releasenotes voor die uitgave kunnen hieronder worden gevonden. OPNsense 25.1.7 released</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72702/opnsense-2517.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72702</guid>
+            <pubDate>Mon, 19 May 2025 16:26:54 +0200</pubDate>
+        </item>
+        <item>
+            <title>Preview - Acer Swift Edge 14 AI Preview - Veel hardware binnen 1 kilogram</title>
+            <link>https://tweakers.net/reviews/13292/acer-swift-edge-14-ai-preview-veel-hardware-binnen-1-kilogram.html</link>
+            <description>De Acer Swift Edge 14 is een laptop die minder dan 1kg weegt. Dat zagen we vaker, maar Acer propt er wel erg veel hardware in.</description>
+            <author>Friso Weijers</author>
+            <category>Preview / Computers / Laptops</category>
+            <comments>https://tweakers.net/reviews/13292/acer-swift-edge-14-ai-preview-veel-hardware-binnen-1-kilogram.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13292</guid>
+            <pubDate>Mon, 19 May 2025 16:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Wooting kondigt 60HE v2-toetsenbord aan met 8000Hz-polling rate</title>
+            <link>https://tweakers.net/nieuws/235148/wooting-kondigt-60he-v2-toetsenbord-aan-met-8000hz-polling-rate.html</link>
+            <description>Wooting heeft de Wooting 60HE v2 aangekondigd. Het betreft analoog toetsenbord met een aluminium behuizing en een maximale polling rate van 8000Hz. Hierdoor kan het toetsenbord een latency van 0,125ms halen. Het toetsenbord komt het vierde kwartaal op de markt.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / Computers / Toetsenborden</category>
+            <comments>https://tweakers.net/nieuws/235148/wooting-kondigt-60he-v2-toetsenbord-aan-met-8000hz-polling-rate.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235148</guid>
+            <pubDate>Mon, 19 May 2025 15:59:37 +0200</pubDate>
+        </item>
+        <item>
+            <title>Beelden tonen werking text-to-speechfunctie van Nintendo GameChat - correctie</title>
+            <link>https://tweakers.net/nieuws/235138/beelden-tonen-werking-text-to-speechfunctie-van-nintendo-gamechat-correctie.html</link>
+            <description>Er zijn beelden opgedoken waarop voor het eerst te zien is hoe text-to-speech en live-ondertitels van Nintendo GameChat werken. Uit een video blijkt dat de gebruiker een virtueel toetsenbord kan oproepen waarna het Switch 2-besturingssysteem de ingevoerde tekst naar spraak omzet.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / Gaming / Consoles</category>
+            <comments>https://tweakers.net/nieuws/235138/beelden-tonen-werking-text-to-speechfunctie-van-nintendo-gamechat-correctie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235138</guid>
+            <pubDate>Mon, 19 May 2025 14:40:00 +0200</pubDate>
+        </item>
         <item>
             <title>Gigabyte toont X870 Aorus X3D-moederborden met extra koele M.2-slots</title>
             <link>https://tweakers.net/nieuws/235134/gigabyte-toont-x870-aorus-x3d-moederborden-met-extra-koele-m2-slots.html</link>
@@ -180,7 +220,7 @@
         <item>
             <title>Qualcomm werkt aan zijn eerste cpu&#039;s en AI-chips voor datacenters</title>
             <link>https://tweakers.net/nieuws/235110/qualcomm-werkt-aan-zijn-eerste-cpus-en-ai-chips-voor-datacenters.html</link>
-            <description>Qualcomm gaat cpu&#039;s en AI-chips maken voor in de datacenter. Dat bevestigde ceo Cristiano Amon tijdens zijn keynote op de Computex. Hij deelde nog weinig details over de chips, maar daar moet &#039;binnenkort&#039; verandering in komen.</description>
+            <description>Qualcomm gaat cpu&#039;s en AI-chips maken voor datacenters. Dat bevestigde ceo Cristiano Amon tijdens zijn keynote op de Computex. Hij deelde nog weinig details over de chips, maar daar moet &#039;binnenkort&#039; verandering in komen.</description>
             <author>Daan van Monsjou</author>
             <category>Nieuws / Computers / Processors</category>
             <comments>https://tweakers.net/nieuws/235110/qualcomm-werkt-aan-zijn-eerste-cpus-en-ai-chips-voor-datacenters.html#reacties</comments>
@@ -376,46 +416,6 @@
             <comments>https://tweakers.net/best-buy-guide/desktops/beste-workstation-pc#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/best-buy-guide/desktops/beste-workstation-pc</guid>
             <pubDate>Sun, 18 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Terug in de Tijd #44 - Ruzie over dvd-opvolger, appen op de fiets en Dr. Dre</title>
-            <link>https://tweakers.net/geek/234650/terug-in-de-tijd-44-ruzie-over-dvd-opvolger-appen-op-de-fiets-en-dr-dre.html</link>
-            <description>Op Tweakers verschijnen dagelijks tientallen nieuwsberichten, maar bij het schrijven weten we zelden hoe het afloopt met de producten, technieken en ontwikkelingen die we bespreken. In deze rubriek lezen we oude berichten terug en kijken we hoe het verderging.</description>
-            <author>Redactie Tweakers</author>
-            <category>.Geek / Computers / (Re)Writable media</category>
-            <comments>https://tweakers.net/geek/234650/terug-in-de-tijd-44-ruzie-over-dvd-opvolger-appen-op-de-fiets-en-dr-dre.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/234650</guid>
-            <pubDate>Sun, 18 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Wine 10.8</title>
-            <link>https://tweakers.net/downloads/72686/wine-108.html</link>
-            <description>Er is met versienummer 10.8 een nieuwe ontwikkelbuild van Wine verschenen. Wine is een opensource implementatie van de Windows-api en maakt het mogelijk om DOS- en Windows-programma&#039;s op Linux, FreeBSD, Solaris en macOS te draaien. Een grote groep ontwikkelaars draagt bij aan Wine en er is voor gekozen om elke twee weken een nieuwe zogeheten ontwikkelversie uit te brengen in plaats van te wachten tot er een aantal nieuwe functies klaar is. Een paar keer per jaar verschijnt er een stabiele uitgave. Wine houdt een database bij met hoe goed of slecht applicaties onder Wine werken, al dan niet met behulp van enkele aanpassingen. Deze bevat op het moment van schrijven 29.640 titels, wat er een meer is dan een maand geleden. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: What&#039;s new in this release:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72686/wine-108.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72686</guid>
-            <pubDate>Sat, 17 May 2025 17:41:50 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Debian GNU/Linux 12.11</title>
-            <link>https://tweakers.net/downloads/72684/debian-gnu-linux-1211.html</link>
-            <description>Versie 12.11 van Debian is uitgekomen. Debian is een opensource besturingssysteem, dat zowel voor desktops als servers gebruikt kan worden en waarbij de nadruk op stabiliteit en veiligheid ligt. Het wordt dan ook als basis voor diverse Linux-distributies gebruikt, waaronder Ubuntu en Linux Mint. Versie 12, die als codenaam &#039;Bookworm&#039; meegekregen heeft, zal de komende vijf jaar van updates worden voorzien. Sinds oktober 2022 is het Social Contract van Debian gewijzigd, waardoor de installer nu ook software bevat die niet volledig vrij en opensource is, zoals drivers en firmware-images. De releasenotes voor deze uitgave zijn hieronder te vinden: Updated Debian 12: 12.11 released</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72684/debian-gnu-linux-1211.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72684</guid>
-            <pubDate>Sat, 17 May 2025 14:07:29 +0200</pubDate>
-        </item>
-        <item>
-            <title>VAE en VS willen AI-campus in Abu Dhabi bouwen met datacentercapaciteit van 5GW</title>
-            <link>https://tweakers.net/nieuws/235072/vae-en-vs-willen-ai-campus-in-abu-dhabi-bouwen-met-datacentercapaciteit-van-5gw.html</link>
-            <description>De Verenigde Staten en Verenigde Arabische Emiraten zijn van plan om een AI-campus te bouwen met een capaciteit van 5 gigawatt in Abu Dhabi. De faciliteit moet meer dan 25 vierkante kilometer beslaan, bijna de oppervlakte van Schiphol.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Economie en maatschappij</category>
-            <comments>https://tweakers.net/nieuws/235072/vae-en-vs-willen-ai-campus-in-abu-dhabi-bouwen-met-datacentercapaciteit-van-5gw.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235072</guid>
-            <pubDate>Sat, 17 May 2025 13:51:10 +0200</pubDate>
         </item>
     </channel>
 </rss>
