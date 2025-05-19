@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 19 May 2025 09:31:05 +0200</pubDate>
-        <lastBuildDate>Mon, 19 May 2025 09:31:05 +0200</lastBuildDate>
+        <pubDate>Mon, 19 May 2025 10:36:01 +0200</pubDate>
+        <lastBuildDate>Mon, 19 May 2025 10:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - DBeaver 25.0.5</title>
+            <link>https://tweakers.net/downloads/72696/dbeaver-2505.html</link>
+            <description>Versie 25.0.5 van DBeaver is uitgekomen. Met dit programma kunnen databases worden beheerd. Het kan onder andere query&#039;s uitvoeren en data tonen, filteren en bewerken. Er is ondersteuning aanwezig voor de bekende databases, zoals MySQL, Oracle, DB2, SQL Server, PostgreSQL, Firebird en SQLite. Het is verkrijgbaar in een opensource CE-uitvoering en drie verschillende commerciële uitvoeringen. Deze voegen onder meer ondersteuning voor verschillende nosql-databases toe, zoals MongoDB, Apache Cassandra en Apache Hive, en bevatten verder extra plug-ins en jdbc-drivers. De changelog voor deze uitgave ziet er als volgt uit: Changes in DBeaver version 25.0.5:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72696/dbeaver-2505.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72696</guid>
+            <pubDate>Mon, 19 May 2025 10:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gurman: &#039;Apple-topman Federighi hield grote AI-investeringen jarenlang tegen&#039;</title>
+            <link>https://tweakers.net/nieuws/235108/gurman-apple-topman-federighi-hield-grote-ai-investeringen-jarenlang-tegen.html</link>
+            <description>Apple-topman Craig Federighi was terughoudend om grote investeringen in AI te doen. Dat stelt Mark Gurman in een nieuwsbrief waarin hij de AI-ontwikkeling bij Apple schetst. AI-topman John Giannandrea dacht dan weer dat Apple-klanten geen AI-chatbots wilden gebruiken.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/235108/gurman-apple-topman-federighi-hield-grote-ai-investeringen-jarenlang-tegen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235108</guid>
+            <pubDate>Mon, 19 May 2025 10:23:13 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - FreeCAD 1.0.1</title>
             <link>https://tweakers.net/downloads/72694/freecad-101.html</link>
@@ -350,7 +370,7 @@
         <item>
             <title>Digital Foundry: Switch 2-soc heeft zes keer meer cudacores dan Switch 1</title>
             <link>https://tweakers.net/nieuws/235044/digital-foundry-switch-2-soc-heeft-zes-keer-meer-cudacores-dan-switch-1.html</link>
-            <description>De processor van de Nintendo Switch 2 is een speciaal voor die console ontworpen soc die acht ARM Cortex A78C-cores en bijna zes keer zoveel cudacores dan de originele Switch-chip heeft. Dat stelt Digital Foundry, dat de specificaties van de processor zegt te hebben uitgeplozen.</description>
+            <description>De processor van de Nintendo Switch 2 is een speciaal voor die console ontworpen soc die acht ARM Cortex A78C-cores en bijna zes keer zoveel cudacores als de originele Switch-chip heeft. Dat stelt Digital Foundry, dat de specificaties van de processor zegt te hebben uitgeplozen.</description>
             <author>Tijs Hofmans</author>
             <category>Nieuws / Gaming / Consoles</category>
             <comments>https://tweakers.net/nieuws/235044/digital-foundry-switch-2-soc-heeft-zes-keer-meer-cudacores-dan-switch-1.html#reacties</comments>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/235040/bose-stopt-ondersteuning-voor-sleep-app-voor-sleepbuds-slaapoordopjes.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235040</guid>
             <pubDate>Fri, 16 May 2025 13:03:09 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Visual Studio Code 1.100.2</title>
-            <link>https://tweakers.net/downloads/72678/visual-studio-code-11002.html</link>
-            <description>Visual Studio Code is een opensource code-editor met ondersteuning voor IntelliSense, debugging, Git en code snippets. Downloads zijn beschikbaar voor Windows, Linux en macOS. Ondersteuning voor de gangbare script- en programmeertalen is aanwezig en het kan daarnaast via extensies uitgebreid worden. Uitgebreide informatie over versie 1.100 is op deze pagina te vinden. Sinds versie 1.100.0 zijn de volgende veranderingen en verbeteringen aangebracht: Update 1.100.1 addresses this security issue:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72678/visual-studio-code-11002.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72678</guid>
-            <pubDate>Fri, 16 May 2025 13:00:09 +0200</pubDate>
-        </item>
-        <item>
-            <title>AMD brengt Ryzen 9-variant van Zen 6-apu&#039;s met 12 extra cores uit</title>
-            <link>https://tweakers.net/nieuws/235038/amd-brengt-ryzen-9-variant-van-zen-6-apus-met-12-extra-cores-uit.html</link>
-            <description>AMD brengt zijn komende laptopprocessors mogelijk in twee varianten uit. Het gaat om Ryzen 5- en 7-cpu&#039;s in de Medusa Point-apu-generatie met onder andere 8 RDNA 3.5+-compute-units en voor het eerst ook low-power-cores, naast Ryzen 9-modellen met in totaal 22 cores.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Processors</category>
-            <comments>https://tweakers.net/nieuws/235038/amd-brengt-ryzen-9-variant-van-zen-6-apus-met-12-extra-cores-uit.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235038</guid>
-            <pubDate>Fri, 16 May 2025 12:44:11 +0200</pubDate>
         </item>
     </channel>
 </rss>
