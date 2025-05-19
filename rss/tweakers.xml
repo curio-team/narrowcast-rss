@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 19 May 2025 11:31:05 +0200</pubDate>
-        <lastBuildDate>Mon, 19 May 2025 11:31:05 +0200</lastBuildDate>
+        <pubDate>Mon, 19 May 2025 12:36:10 +0200</pubDate>
+        <lastBuildDate>Mon, 19 May 2025 12:36:10 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,86 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>ASUS toont &#039;gespleten&#039; ROG-toetsenbord en lichte gamingmuis van 48 gram</title>
+            <link>https://tweakers.net/nieuws/235092/asus-toont-gespleten-rog-toetsenbord-en-lichte-gamingmuis-van-48-gram.html</link>
+            <description>ASUS heeft zijn nieuwste ROG-randapparatuur getoond tijdens de Computex. Het eerste &#039;split-keyboard&#039; van het bedrijf is de ROG Falcata, een toetsenbord dat in twee helften gedeeld is. De Harpe II Ace- heeft een gewicht van 48 gram en is onder andere bedoeld voor e-sports.</description>
+            <author>Willem de Moor</author>
+            <category>Nieuws / Computers / Toetsenborden</category>
+            <comments>https://tweakers.net/nieuws/235092/asus-toont-gespleten-rog-toetsenbord-en-lichte-gamingmuis-van-48-gram.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235092</guid>
+            <pubDate>Mon, 19 May 2025 12:34:03 +0200</pubDate>
+        </item>
+        <item>
+            <title>Intel Arc Pro B60 krijgt 24GB vram en komt ook beschikbaar als dual-gpu-variant</title>
+            <link>https://tweakers.net/nieuws/235090/intel-arc-pro-b60-krijgt-24gb-vram-en-komt-ook-beschikbaar-als-dual-gpu-variant.html</link>
+            <description>Intel heeft tijdens de Computex twee nieuwe Arc Pro-videokaarten aangekondigd, waaronder de Arc Pro B60. Deze workstationvideokaart heeft 24GB vram en komt ook beschikbaar op kaarten met twee gpu&#039;s. De kaart is vanaf het derde kwartaal beschikbaar in oem-systemen.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/235090/intel-arc-pro-b60-krijgt-24gb-vram-en-komt-ook-beschikbaar-als-dual-gpu-variant.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235090</guid>
+            <pubDate>Mon, 19 May 2025 12:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>ASUS geeft extern videokaartdock BTF-ondersteuning en upgrade naar Thunderbolt 5</title>
+            <link>https://tweakers.net/nieuws/235098/asus-geeft-extern-videokaartdock-btf-ondersteuning-en-upgrade-naar-thunderbolt-5.html</link>
+            <description>ASUS toont op Computex de derde generatie van zijn XG Station-dock voor videokaarten. Het XG Station 3 gaat gebruikmaken van Thunderbolt 5, dat met 80Gbit/s in beide richtingen dubbel zoveel bandbreedte biedt als Thunderbolt 3 en 4, dat het XG Station 2 uit 2017 nog gebruikte.</description>
+            <author>Tomas Hochstenbach</author>
+            <category>Nieuws / Computers / Overige randapparatuur</category>
+            <comments>https://tweakers.net/nieuws/235098/asus-geeft-extern-videokaartdock-btf-ondersteuning-en-upgrade-naar-thunderbolt-5.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235098</guid>
+            <pubDate>Mon, 19 May 2025 12:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>ASUS maakt weer stille Noctua-editie van GeForce RTX 5080</title>
+            <link>https://tweakers.net/nieuws/235096/asus-maakt-weer-stille-noctua-editie-van-geforce-rtx-5080.html</link>
+            <description>ASUS zet zijn samenwerking met koelerfabrikant Noctua voort met een extra stille editie van de GeForce RTX 5080. Voor de nieuwe kaart maken de fabrikanten de overstap naar een triple-fan-ontwerp, waarbij bovendien een nog niet verkrijgbare opvolger van de NF-A12x25 wordt gebruikt.</description>
+            <author>Tomas Hochstenbach</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/235096/asus-maakt-weer-stille-noctua-editie-van-geforce-rtx-5080.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235096</guid>
+            <pubDate>Mon, 19 May 2025 12:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>ASUS toont ook RTX 5090-videokaart met nieuwe afneembare BTF-connector</title>
+            <link>https://tweakers.net/nieuws/235094/asus-toont-ook-rtx-5090-videokaart-met-nieuwe-afneembare-btf-connector.html</link>
+            <description>ASUS toont op Computex een GeForce RTX 5090-videokaart met de nieuwe, afneembare connector voor de &#039;kabelloze&#039; stroomtoevoer. Het gaat om een aangepaste versie van de bestaande ROG Astral, het topmodel van de fabrikant.</description>
+            <author>Tomas Hochstenbach</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/235094/asus-toont-ook-rtx-5090-videokaart-met-nieuwe-afneembare-btf-connector.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235094</guid>
+            <pubDate>Mon, 19 May 2025 12:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Tor Browser 14.5.2</title>
+            <link>https://tweakers.net/downloads/72698/tor-browser-1452.html</link>
+            <description>Versie 14.5.1 van Tor Browser is uitgekomen. Tor staat voor &#039;The Onion Router&#039; en is een netwerk dat gebruikt kan worden om redelijk anoniem over internet te surfen. Al het TCP-verkeer van gebruikers wordt langs verschillende Tor-routers geleid, waarna het voor de ontvanger vrijwel niet meer mogelijk is om te achterhalen wie de oorspronkelijke verzender was. Binnen het Tor-netwerk is die informatie nog wel aanwezig, zodat antwoorden, uiteraard ook weer via het stelsel van routers, uiteindelijk weer op de juiste plek aankomen. De changelog voor deze uitgave kan hieronder worden gevonden. All Platforms</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72698/tor-browser-1452.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72698</guid>
+            <pubDate>Mon, 19 May 2025 12:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nieuwe Chromium-functie blokkeert opstarten van Chrome met adminrechten</title>
+            <link>https://tweakers.net/nieuws/235118/nieuwe-chromium-functie-blokkeert-opstarten-van-chrome-met-adminrechten.html</link>
+            <description>Een Microsoft-ontwikkelaar heeft een nieuwe functie aan het Chromium-project toegevoegd die ervoor kan zorgen dat Google Chrome in de toekomst automatisch herstart zodra de browser plots met adminrechten wordt gedraaid. Deze beveiligingsfunctie zit sinds 2019 in Microsoft Edge.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / Computers / Browsers</category>
+            <comments>https://tweakers.net/nieuws/235118/nieuwe-chromium-functie-blokkeert-opstarten-van-chrome-met-adminrechten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235118</guid>
+            <pubDate>Mon, 19 May 2025 11:49:42 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nvidia Blackwell Ultra GB300 met 288GB vram verschijnt in derde kwartaal</title>
+            <link>https://tweakers.net/nieuws/235106/nvidia-blackwell-ultra-gb300-met-288gb-vram-verschijnt-in-derde-kwartaal.html</link>
+            <description>Nvidia&#039;s Blackwell Ultra GB300-chip voor datacenters verschijnt in het derde kwartaal van dit jaar, zo bevestigde het bedrijf tijdens Computex 2025. Het betreft een verbeterde versie van de GB200 die vorig jaar werd aangekondigd, met meer vram en betere prestaties.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/235106/nvidia-blackwell-ultra-gb300-met-288gb-vram-verschijnt-in-derde-kwartaal.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235106</guid>
+            <pubDate>Mon, 19 May 2025 11:35:43 +0200</pubDate>
+        </item>
         <item>
             <title>Qualcomm werkt aan zijn eerste cpu&#039;s en AI-chips voor datacenters</title>
             <link>https://tweakers.net/nieuws/235110/qualcomm-werkt-aan-zijn-eerste-cpus-en-ai-chips-voor-datacenters.html</link>
@@ -336,86 +416,6 @@
             <comments>https://tweakers.net/nieuws/235064/msi-onthult-portalx-webinterface-om-rgb-lichteffecten-in-te-stellen.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235064</guid>
             <pubDate>Fri, 16 May 2025 20:46:14 +0200</pubDate>
-        </item>
-        <item>
-            <title>Epic Games: Apple blokkeert toegang tot Fortnite in de VS en in de EU</title>
-            <link>https://tweakers.net/nieuws/235062/epic-games-apple-blokkeert-toegang-tot-fortnite-in-de-vs-en-in-de-eu.html</link>
-            <description>Epic Games kan Fortnite niet beschikbaar maken op iOS. Volgens de game-uitgeverij heeft Apple het spel geblokkeerd, zowel op de Amerikaanse App Store als de eigen Epic Games Store voor iOS in de EU.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/235062/epic-games-apple-blokkeert-toegang-tot-fortnite-in-de-vs-en-in-de-eu.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235062</guid>
-            <pubDate>Fri, 16 May 2025 20:27:35 +0200</pubDate>
-        </item>
-        <item>
-            <title>Vision-taalmodellen begrijpen &#039;geen&#039; niet, risico&#039;s voor medische toepassingen</title>
-            <link>https://tweakers.net/nieuws/235060/vision-taalmodellen-begrijpen-geen-niet-risicos-voor-medische-toepassingen.html</link>
-            <description>Een studie van MIT onthult dat vision-language-modellen slecht omgaan met woorden zoals &#039;niet&#039; en &#039;geen&#039;. Dat kan leiden tot ernstige fouten in toepassingen zoals medische diagnoses. Het fenomeen is te wijten aan de trainingsdata, die voornamelijk positieve bijschriften bevat.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / IT Pro / Wetenschap</category>
-            <comments>https://tweakers.net/nieuws/235060/vision-taalmodellen-begrijpen-geen-niet-risicos-voor-medische-toepassingen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235060</guid>
-            <pubDate>Fri, 16 May 2025 19:45:47 +0200</pubDate>
-        </item>
-        <item>
-            <title>Intel Arc Pro B60-videokaart verschijnt op website van MaxSun</title>
-            <link>https://tweakers.net/nieuws/235058/intel-arc-pro-b60-videokaart-verschijnt-op-website-van-maxsun.html</link>
-            <description>De Chinese fabrikant heeft een productcategorie voor de Arc Pro B60 op zijn website geplaatst. Dat is een onaangekondigde Intel-videokaart, die waarschijnlijk tijdens de Computex-beurs wordt onthuld. De fabrikant bevestigde begin mei dat er nieuwe Arc Pro-gpu&#039;s op komst zijn.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/nieuws/235058/intel-arc-pro-b60-videokaart-verschijnt-op-website-van-maxsun.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235058</guid>
-            <pubDate>Fri, 16 May 2025 18:59:26 +0200</pubDate>
-        </item>
-        <item>
-            <title>Mercury Research: gemiddelde verkoopprijs AMD-desktopchips overtreft Intel</title>
-            <link>https://tweakers.net/nieuws/235056/mercury-research-gemiddelde-verkoopprijs-amd-desktopchips-overtreft-intel.html</link>
-            <description>De gemiddelde verkoopprijs van AMD&#039;s desktopprocessors is voor &#039;de eerste keer ooit&#039; hoger dan die van Intel. Dat beweert Mercury Research. AMD blijkt gemiddeld gesproken ook meer verdiend te hebben aan laptop- en serverchips.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Computers / Processors</category>
-            <comments>https://tweakers.net/nieuws/235056/mercury-research-gemiddelde-verkoopprijs-amd-desktopchips-overtreft-intel.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235056</guid>
-            <pubDate>Fri, 16 May 2025 17:55:58 +0200</pubDate>
-        </item>
-        <item>
-            <title>Xiaomi brengt eigen smartphone-soc Xring O1 eind mei uit</title>
-            <link>https://tweakers.net/nieuws/235054/xiaomi-brengt-eigen-smartphone-soc-xring-o1-eind-mei-uit.html</link>
-            <description>Xiaomi brengt later deze maand de Xring O1 uit. Dat is de eerste zelfontwikkelde smartphone-soc van de Chinese fabrikant. De chip wordt naar verluidt gemaakt door TSMC en zou acht Arm-cores bevatten. Xiaomi deelt nog geen specificaties.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Computers / Processors</category>
-            <comments>https://tweakers.net/nieuws/235054/xiaomi-brengt-eigen-smartphone-soc-xring-o1-eind-mei-uit.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235054</guid>
-            <pubDate>Fri, 16 May 2025 16:43:33 +0200</pubDate>
-        </item>
-        <item>
-            <title>Financial Times: Nvidia wil onderzoekscentrum openen in Shanghai</title>
-            <link>https://tweakers.net/nieuws/235048/financial-times-nvidia-wil-onderzoekscentrum-openen-in-shanghai.html</link>
-            <description>Nvidia wil een onderzoekscentrum openen in de Chinese stad Shanghai, meldt de Financial Times. De chipontwerper zou dat doen om zijn aanwezigheid te versterken in China, waar de verkoop van AI-chips is ingezakt als gevolg van strengere Amerikaanse exportregels.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/235048/financial-times-nvidia-wil-onderzoekscentrum-openen-in-shanghai.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235048</guid>
-            <pubDate>Fri, 16 May 2025 15:18:35 +0200</pubDate>
-        </item>
-        <item>
-            <title>Digital Foundry: Switch 2-soc heeft zes keer meer cudacores dan Switch 1</title>
-            <link>https://tweakers.net/nieuws/235044/digital-foundry-switch-2-soc-heeft-zes-keer-meer-cudacores-dan-switch-1.html</link>
-            <description>De processor van de Nintendo Switch 2 is een speciaal voor die console ontworpen soc die acht ARM Cortex A78C-cores en bijna zes keer zoveel cudacores als de originele Switch-chip heeft. Dat stelt Digital Foundry, dat de specificaties van de processor zegt te hebben uitgeplozen.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Gaming / Consoles</category>
-            <comments>https://tweakers.net/nieuws/235044/digital-foundry-switch-2-soc-heeft-zes-keer-meer-cudacores-dan-switch-1.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235044</guid>
-            <pubDate>Fri, 16 May 2025 15:05:15 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Clonezilla 3.2.2-5</title>
-            <link>https://tweakers.net/downloads/72680/clonezilla-322-5.html</link>
-            <description>Clonezilla is een opensourceprogramma waarmee diskimages kunnen worden gemaakt. Het is onder andere mogelijk om back-ups van partities of van de hele harde schijf te maken, of een kopie van een harde schijf: een zogeheten kloon. Clonezilla is daarmee een opensourcevariant van Macrium Reflect en Acronis True Image. Het geheel is gebaseerd op een Debian-distributie en het maakt gebruik van DRBL, Partclone en udpcast. Clonezilla live is bedoeld voor losse computers, terwijl er met Clonezilla server tot wel veertig computers tegelijk van een image voorzien kunnen worden. Met versienummer 3.2.2-5 is een nieuwe stabiele uitgave van Clonezilla verschenen en de changelog van die versie ziet er als volgt uit: Enhancements and changes</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72680/clonezilla-322-5.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72680</guid>
-            <pubDate>Fri, 16 May 2025 14:35:20 +0200</pubDate>
         </item>
     </channel>
 </rss>
