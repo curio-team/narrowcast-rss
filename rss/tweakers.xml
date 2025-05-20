@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 20 May 2025 14:41:02 +0200</pubDate>
-        <lastBuildDate>Tue, 20 May 2025 14:41:02 +0200</lastBuildDate>
+        <pubDate>Tue, 20 May 2025 15:36:02 +0200</pubDate>
+        <lastBuildDate>Tue, 20 May 2025 15:36:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,46 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Techbedrijven moeten meldingen van Nederlandse stichting met voorrang behandelen</title>
+            <link>https://tweakers.net/nieuws/235218/techbedrijven-moeten-meldingen-van-nederlandse-stichting-met-voorrang-behandelen.html</link>
+            <description>Techbedrijven zullen meldingen van de Nederlandse stichting Offlimits met voorrang moeten gaan behandelen. Toezichthouder ACM heeft Offlimits onder de Digital Services Act aangewezen als &#039;betrouwbare flagger&#039;, waardoor meldingen van de stichting een andere status krijgen.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/235218/techbedrijven-moeten-meldingen-van-nederlandse-stichting-met-voorrang-behandelen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235218</guid>
+            <pubDate>Tue, 20 May 2025 15:07:40 +0200</pubDate>
+        </item>
+        <item>
+            <title>NZXT voegt 420mm-model toe aan Kraken Elite-aio-koelers en vernieuwt Plus-serie</title>
+            <link>https://tweakers.net/nieuws/235228/nzxt-voegt-420mm-model-toe-aan-kraken-elite-aio-koelers-en-vernieuwt-plus-serie.html</link>
+            <description>NZXT brengt een Elite-model uit in de Kraken-lijn van aio-koelers met een radiator van 420mm. Ook komt NZXT met nieuwe versies van de Kraken Plus-aio-koelers die &#039;betere prestaties&#039; en een nieuwe pomp hebben.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Waterkoeling</category>
+            <comments>https://tweakers.net/nieuws/235228/nzxt-voegt-420mm-model-toe-aan-kraken-elite-aio-koelers-en-vernieuwt-plus-serie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235228</guid>
+            <pubDate>Tue, 20 May 2025 15:07:20 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Community - Q&amp;A met Dennis de Vries - Vraag de smartphoneredacteur alles over telefoons</title>
+            <link>https://tweakers.net/reviews/12926/q-en-a-met-dennis-de-vries-vraag-de-smartphoneredacteur-alles-over-telefoons.html</link>
+            <description>Smartphoneredacteur Dennis de Vries beantwoordt je vragen over telefoons, fotografie en retrohandhelds. Dinsdag tussen 15.00 en 17.00 uur staat hij voor je klaar.</description>
+            <author>Dennis de Vries</author>
+            <category>.Community / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/reviews/12926/q-en-a-met-dennis-de-vries-vraag-de-smartphoneredacteur-alles-over-telefoons.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/12926</guid>
+            <pubDate>Tue, 20 May 2025 15:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Browser Vivaldi brengt site-specifieke sneltoetsen</title>
+            <link>https://tweakers.net/nieuws/235220/browser-vivaldi-brengt-site-specifieke-sneltoetsen.html</link>
+            <description>De op Chromium gebaseerde browser Vivaldi krijgt met de 7.4-upgrade de mogelijkheid om sneltoetsen per site te maken. Daardoor werken sneltoetsen op Tweakers bijvoorbeeld anders dan in Google Docs.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Computers / Browsers</category>
+            <comments>https://tweakers.net/nieuws/235220/browser-vivaldi-brengt-site-specifieke-sneltoetsen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235220</guid>
+            <pubDate>Tue, 20 May 2025 14:46:47 +0200</pubDate>
+        </item>
         <item>
             <title>IOS-gebruikers kunnen Google Translate instellen als standaard vertaalapp</title>
             <link>https://tweakers.net/nieuws/235216/ios-gebruikers-kunnen-google-translate-instellen-als-standaard-vertaalapp.html</link>
@@ -152,7 +192,7 @@
             <link>https://tweakers.net/nieuws/235200/nieuwe-asus-nuc-in-rog-lijn-heeft-rtx-5080-gpu-en-arrow-lake-soc.html</link>
             <description>ASUS introduceert twee nieuwe versies van zijn NUC 15 uit. De NUC 15 Performance en de ROG NUC zijn technisch gezien hetzelfde apparaat, met verschil in de de behuizing en gpu. De apparaten hebben een gpu uit de RTX 5000-serie aan boord en beschikken over een iets krachtigere Arrow Lake-processor.</description>
             <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Pc&#039;s</category>
+            <category>Nieuws / </category>
             <comments>https://tweakers.net/nieuws/235200/nieuwe-asus-nuc-in-rog-lijn-heeft-rtx-5080-gpu-en-arrow-lake-soc.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235200</guid>
             <pubDate>Tue, 20 May 2025 10:18:42 +0200</pubDate>
@@ -282,7 +322,7 @@
             <link>https://tweakers.net/nieuws/235170/asus-toont-nieuwe-tuf-gaming-t500-desktops-met-rtx-5060ti-en-laptopprocessor.html</link>
             <description>ASUS heeft tijdens de Computex-beurs de TUF Gaming T500 getoond. Dat zijn kant-en-klare desktops die voor gaming bedoeld zijn, maar gebruikmaken van laptopprocessors van Intel. De computers hebben daarentegen wel een volwaardige RTX-gpu, maximaal een 5060Ti-model.</description>
             <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Pc&#039;s</category>
+            <category>Nieuws / </category>
             <comments>https://tweakers.net/nieuws/235170/asus-toont-nieuwe-tuf-gaming-t500-desktops-met-rtx-5060ti-en-laptopprocessor.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235170</guid>
             <pubDate>Mon, 19 May 2025 20:24:13 +0200</pubDate>
@@ -372,50 +412,10 @@
             <link>https://tweakers.net/nieuws/235136/asus-brengt-tuf-a14-en-a16-gaminglaptops-ook-met-rtx-50-gpus-uit.html</link>
             <description>ASUS brengt drie nieuwe laptops in de TUF Gaming-serie met daarin een RTX-50-kaart. Het gaat om twee nieuwe versies van de A-modellen waar nu een RTX 5060 of 5070-gpu in zit en een F-model met daarin die laatste gpu. In de F16 zit een Ryzen 7 350-soc.</description>
             <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Laptops</category>
+            <category>Nieuws / </category>
             <comments>https://tweakers.net/nieuws/235136/asus-brengt-tuf-a14-en-a16-gaminglaptops-ook-met-rtx-50-gpus-uit.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235136</guid>
             <pubDate>Mon, 19 May 2025 17:53:50 +0200</pubDate>
-        </item>
-        <item>
-            <title>Hackers stelen data van honderdduizenden Britten die om rechtsbijstand vroegen</title>
-            <link>https://tweakers.net/nieuws/235164/hackers-stelen-data-van-honderdduizenden-britten-die-om-rechtsbijstand-vroegen.html</link>
-            <description>Hackers hebben data gestolen van honderdduizenden Britten die juridische bijstand hebben aangevraagd bij een overheidsorgaan. Het gaat onder meer om persoonsgegevens, informatie crimineel verleden en financiële gegevens.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/235164/hackers-stelen-data-van-honderdduizenden-britten-die-om-rechtsbijstand-vroegen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235164</guid>
-            <pubDate>Mon, 19 May 2025 17:22:43 +0200</pubDate>
-        </item>
-        <item>
-            <title>Gigabyte AI TOP Atom krijgt Nvidia GB10-chip met 20 Arm-cores en Blackwell-gpu</title>
-            <link>https://tweakers.net/nieuws/235160/gigabyte-ai-top-atom-krijgt-nvidia-gb10-chip-met-20-arm-cores-en-blackwell-gpu.html</link>
-            <description>Gigabyte heeft tijdens Computex zijn AI TOP Atom-mini-pc aangekondigd. Het is een aangepaste versie van de DGX Spark-mini-pc die Nvidia eerder dit jaar presenteerde. In deze pc zit een Nvidia GB10-chip waarop een Arm-cpu is gecombineerd met een Blackwell-gpu.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / Pc&#039;s</category>
-            <comments>https://tweakers.net/nieuws/235160/gigabyte-ai-top-atom-krijgt-nvidia-gb10-chip-met-20-arm-cores-en-blackwell-gpu.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235160</guid>
-            <pubDate>Mon, 19 May 2025 16:51:34 +0200</pubDate>
-        </item>
-        <item>
-            <title>Aantal Nederlandse laadpalen groeit minder snel, &#039;mogelijk op termijn stagnatie&#039;</title>
-            <link>https://tweakers.net/nieuws/235156/aantal-nederlandse-laadpalen-groeit-minder-snel-mogelijk-op-termijn-stagnatie.html</link>
-            <description>Het aantal Nederlandse laadpunten is in 2024 met 25 procent gestegen, blijkt uit cijfers van de NAL. Dat is 5 procentpunt minder dan een jaar eerder, terwijl de NAL destijds zei dat de groei juist moet toenemen. De organisatie vreest nu voor &#039;stagnatie op den duur&#039;.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / Beeld en geluid / Cartech</category>
-            <comments>https://tweakers.net/nieuws/235156/aantal-nederlandse-laadpalen-groeit-minder-snel-mogelijk-op-termijn-stagnatie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235156</guid>
-            <pubDate>Mon, 19 May 2025 16:41:26 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - OPNsense 25.1.7</title>
-            <link>https://tweakers.net/downloads/72702/opnsense-2517.html</link>
-            <description>Het pakket OPNsense is een firewall met uitgebreide mogelijkheden. Het is gebaseerd op het besturingssysteem FreeBSD en is oorspronkelijk een fork van m0n0wall en pfSense. Het pakket kan volledig via een webinterface worden ingesteld en heeft onder andere ondersteuning voor mfa, OpenVPN, IPsec, CARP en captive portal. Daarnaast kan het packetfiltering toepassen en beschikt het over een traffic shaper. De ontwikkelaars achter OPNsense hebben de zevende update voor versie 25.1 uitgebracht en de releasenotes voor die uitgave kunnen hieronder worden gevonden. OPNsense 25.1.7 released</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72702/opnsense-2517.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72702</guid>
-            <pubDate>Mon, 19 May 2025 16:26:54 +0200</pubDate>
         </item>
     </channel>
 </rss>
