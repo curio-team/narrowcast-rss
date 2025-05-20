@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 20 May 2025 09:31:06 +0200</pubDate>
-        <lastBuildDate>Tue, 20 May 2025 09:31:06 +0200</lastBuildDate>
+        <pubDate>Tue, 20 May 2025 10:36:01 +0200</pubDate>
+        <lastBuildDate>Tue, 20 May 2025 10:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Driver-update - GeForce Game Ready Driver 576.52 WHQL</title>
+            <link>https://tweakers.net/downloads/72710/geforce-game-ready-driver-57652-whql.html</link>
+            <description>Nvidia heeft nieuwe stabiele GeForce-drivers uitgebracht. De drivers dragen versienummer 576.52 en zijn voorzien van een Windows Hardware Quality Labs-certificaat. Ze zijn geschikt voor Windows 10 en hoger, en kunnen worden gebruikt op kaarten gebaseerd op de Maxwell-architectuur of nieuwer. Deze uitgave bevat onder meer ondersteuning voor de nieuwe GeForce RTX 5060, en zijn er weer enkele problemen verholpen. Gaming Technology</description>
+            <author>Bart van Klaveren</author>
+            <category>Driver</category>
+            <comments>https://tweakers.net/downloads/72710/geforce-game-ready-driver-57652-whql.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72710</guid>
+            <pubDate>Tue, 20 May 2025 10:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nieuwe ASUS NUC in ROG-lijn heeft RTX 5080-gpu en Arrow Lake-soc</title>
+            <link>https://tweakers.net/nieuws/235200/nieuwe-asus-nuc-in-rog-lijn-heeft-rtx-5080-gpu-en-arrow-lake-soc.html</link>
+            <description>ASUS introduceert twee nieuwe versies van zijn NUC 15 uit. De NUC 15 Performance en de ROG NUC zijn technisch gezien hetzelfde apparaat, met verschil in de de behuizing en gpu. De apparaten hebben een gpu uit de RTX 5000-serie aan boord en beschikken over een iets krachtigere Arrow Lake-processor.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Pc&#039;s</category>
+            <comments>https://tweakers.net/nieuws/235200/nieuwe-asus-nuc-in-rog-lijn-heeft-rtx-5080-gpu-en-arrow-lake-soc.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235200</guid>
+            <pubDate>Tue, 20 May 2025 10:18:42 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Paint.NET 5.1.8</title>
             <link>https://tweakers.net/downloads/72706/paint-punt-net-518.html</link>
@@ -48,12 +68,12 @@
             <pubDate>Tue, 20 May 2025 08:00:00 +0200</pubDate>
         </item>
         <item>
-            <title>F1 TV ondersteunt nu multiview op smartphones met Android</title>
-            <link>https://tweakers.net/nieuws/235188/f1-tv-ondersteunt-nu-multiview-op-smartphones-met-android.html</link>
+            <title>F1 TV ondersteunt nu multiview en hdr op smartphones met Android</title>
+            <link>https://tweakers.net/nieuws/235188/f1-tv-ondersteunt-nu-multiview-en-hdr-op-smartphones-met-android.html</link>
             <description>F1 TV heeft versie 3.0.37-SP134.3.1 van zijn Android-app uitgebracht met ondersteuning voor multiview, waarmee gebruikers meerdere videostreams tegelijk kunnen bekijken. De functie is voorlopig alleen beschikbaar op smartphones met Android 14 of nieuwer.</description>
             <author>Andrei Stiru</author>
             <category>Nieuws / Beeld en geluid / TV en home cinema</category>
-            <comments>https://tweakers.net/nieuws/235188/f1-tv-ondersteunt-nu-multiview-op-smartphones-met-android.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/235188/f1-tv-ondersteunt-nu-multiview-en-hdr-op-smartphones-met-android.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235188</guid>
             <pubDate>Tue, 20 May 2025 07:48:14 +0200</pubDate>
         </item>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/235092/asus-toont-gespleten-rog-toetsenbord-en-lichte-gamingmuis-van-48-gram.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235092</guid>
             <pubDate>Mon, 19 May 2025 12:34:03 +0200</pubDate>
-        </item>
-        <item>
-            <title>Intel Arc Pro B60 krijgt 24GB vram en komt ook beschikbaar als dual-gpu-variant</title>
-            <link>https://tweakers.net/nieuws/235090/intel-arc-pro-b60-krijgt-24gb-vram-en-komt-ook-beschikbaar-als-dual-gpu-variant.html</link>
-            <description>Intel heeft tijdens de Computex twee nieuwe Arc Pro-videokaarten aangekondigd, waaronder de Arc Pro B60. Deze workstationvideokaart heeft 24GB vram en komt ook beschikbaar op kaarten met twee gpu&#039;s. De kaart is vanaf het derde kwartaal beschikbaar in oem-systemen.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/nieuws/235090/intel-arc-pro-b60-krijgt-24gb-vram-en-komt-ook-beschikbaar-als-dual-gpu-variant.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235090</guid>
-            <pubDate>Mon, 19 May 2025 12:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>ASUS geeft extern videokaartdock BTF-ondersteuning en upgrade naar Thunderbolt 5</title>
-            <link>https://tweakers.net/nieuws/235098/asus-geeft-extern-videokaartdock-btf-ondersteuning-en-upgrade-naar-thunderbolt-5.html</link>
-            <description>ASUS toont op Computex de derde generatie van zijn XG Station-dock voor videokaarten. Het XG Station 3 gaat gebruikmaken van Thunderbolt 5, dat met 80Gbit/s in beide richtingen dubbel zoveel bandbreedte biedt als Thunderbolt 3 en 4, dat het XG Station 2 uit 2017 nog gebruikte.</description>
-            <author>Tomas Hochstenbach</author>
-            <category>Nieuws / Computers / Overige randapparatuur</category>
-            <comments>https://tweakers.net/nieuws/235098/asus-geeft-extern-videokaartdock-btf-ondersteuning-en-upgrade-naar-thunderbolt-5.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235098</guid>
-            <pubDate>Mon, 19 May 2025 12:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
