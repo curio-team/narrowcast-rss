@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 20 May 2025 07:13:18 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 20 May 2025 11:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Affiniti&#8217;s 20- and 22-year-old founders raise $17M led by SignalFire just 6 months after an $11M seed</title>
+		<link>https://techcrunch.com/2025/05/20/affinitis-20-and-22-year-old-founders-raise-17m-led-by-signalfire-just-6-months-after-an-11m-seed/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Tue, 20 May 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[smb]]></category>
+		<category><![CDATA[signalfire]]></category>
+		<category><![CDATA[expense management]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3009055</guid>
+
+					<description><![CDATA[Affiniti founders Aaron Bai and Sahil Phadnis are building the kind of expense management software for main street small businesses that tech startups have enjoyed for years.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Monzo&#8217;s pivot from cool to corporate: &#8216;freshness is not about gimmicks&#8217;</title>
 		<link>https://techcrunch.com/2025/05/19/monzos-pivot-from-cool-to-corporate-freshness-is-not-about-gimmicks/</link>
 		
@@ -369,26 +389,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3008126</guid>
 
 					<description><![CDATA[Microsoft is launching new APIs for Edge, its web browser, to let developers incorporate AI functionality into web apps using models built into Edge. Unveiled at Build 2025, the AI APIs mirror some of the functionality in Google Chrome, which also offers &#8220;built-in AI&#8221; that developers can tap to power their web applications. Microsoft&#8217;s move [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>GitHub, Microsoft embrace Anthropic&#8217;s spec for connecting AI models to data sources</title>
-		<link>https://techcrunch.com/2025/05/19/github-microsoft-embrace-anthropics-spec-for-connecting-ai-models-to-data-sources/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Mon, 19 May 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[GitHub]]></category>
-		<category><![CDATA[mcp]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Microsoft Build]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3008191</guid>
-
-					<description><![CDATA[GitHub and Microsoft, GitHub&#8217;s corporate parent, are joining the steering committee for MCP, Anthropic’s standard for connecting AI models to the systems where data resides. The announcement, which was made at Microsoft&#8217;s Build 2025 conference on Monday, comes as MCP gains steam in the AI industry. Earlier this year, both OpenAI and Google said they [&#8230;]]]></description>
 		
 		
 		

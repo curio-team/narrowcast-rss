@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 20 May 2025 12:36:01 +0200</pubDate>
-        <lastBuildDate>Tue, 20 May 2025 12:36:01 +0200</lastBuildDate>
+        <pubDate>Tue, 20 May 2025 13:31:02 +0200</pubDate>
+        <lastBuildDate>Tue, 20 May 2025 13:31:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>MSI Claw A8 heeft een Ryzen Z2 Extreme-processor</title>
+            <link>https://tweakers.net/nieuws/235212/msi-claw-a8-heeft-een-ryzen-z2-extreme-processor.html</link>
+            <description>MSI brengt een nieuwe versie van zijn Claw 8-handheld uit met een Ryzen-processor van AMD. Het gaat specifiek om een Ryzen Z2 Extreme. Nog niet alle specificaties zijn bekend, maar de nieuwe Claw krijgt in ieder geval een groter scherm.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Gaming / Consoles</category>
+            <comments>https://tweakers.net/nieuws/235212/msi-claw-a8-heeft-een-ryzen-z2-extreme-processor.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235212</guid>
+            <pubDate>Tue, 20 May 2025 13:22:05 +0200</pubDate>
+        </item>
+        <item>
+            <title>Preview - Cooler Master toont V4-koelers met 3d-heatpipes</title>
+            <link>https://tweakers.net/reviews/13302/cooler-master-toont-v4-koelers-met-3d-heatpipes.html</link>
+            <description>Cooler Master belooft de koelermarkt met zijn nieuwe 3d-heatpipes op zijn kop te zetten. De eerste koeler die er gebruik van maakt, de V4, zou de prestaties van een 240mm-waterkoeler bieden voor 40 euro.</description>
+            <author>Willem de Moor</author>
+            <category>Preview / Computers / Processorkoeling</category>
+            <comments>https://tweakers.net/reviews/13302/cooler-master-toont-v4-koelers-met-3d-heatpipes.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13302</guid>
+            <pubDate>Tue, 20 May 2025 13:05:38 +0200</pubDate>
+        </item>
+        <item>
+            <title>Realme introduceert GT 7 met een vanafprijs van 650 euro</title>
+            <link>https://tweakers.net/nieuws/235208/realme-introduceert-gt-7-met-een-vanafprijs-van-650-euro.html</link>
+            <description>Realme heeft de prijzen bekendgemaakt van zijn nieuwe GT 7-serie, die vanaf 27 mei verkrijgbaar is. Het goedkoopste model kost 650 euro. De toestellen maken gebruik van grafeen in het koelingssysteem en krijgen een accu van 7000mAh.</description>
+            <author>Andrei Stiru</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/235208/realme-introduceert-gt-7-met-een-vanafprijs-van-650-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235208</guid>
+            <pubDate>Tue, 20 May 2025 13:04:47 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Q-Dir 12.21</title>
             <link>https://tweakers.net/downloads/72708/q-dir-1221.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/235132/gigabyte-komt-ook-met-kabelloze-rtx-5090-videokaart-maar-dan-alleen-optisch.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235132</guid>
             <pubDate>Mon, 19 May 2025 13:58:28 +0200</pubDate>
-        </item>
-        <item>
-            <title>NS stopt vanaf 1 juni met X</title>
-            <link>https://tweakers.net/nieuws/235130/ns-stopt-vanaf-1-juni-met-x.html</link>
-            <description>Het Nederlandse treinvervoersbedrijf NS biedt vanaf 1 juni geen reisinformatie en klantenservice meer aan via X. Volgens de NS gebruiken steeds minder mensen het socialemediaplatform en is de toon op X ook verhard.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/235130/ns-stopt-vanaf-1-juni-met-x.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235130</guid>
-            <pubDate>Mon, 19 May 2025 13:34:36 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Vivaldi 7.4</title>
-            <link>https://tweakers.net/downloads/72700/vivaldi-74.html</link>
-            <description>Versie 7.4 van de webbrowser Vivaldi is uitgekomen. Vivaldi is een webbrowser die wordt ontwikkeld door voormalige werknemers van Opera. Hij richt zich voornamelijk op powerusers en gebruikers van Opera vóór de overstap op Chromium, hoewel ook deze browser daarop is gebaseerd. Vivaldi heeft uitgebreide mogelijkheden, zoals mousegestures, stapelen van tabbladen, uitgebreide keyboardshortcuts en het maken van aantekeningen op webpagina&#039;s. De browser is gratis en wordt voor Windows, Linux, macOS en Android ontwikkeld, en tegenwoordig ook voor iOS. Hieronder is te vinden wat er in deze uitgave allemaal veranderd is. More control over keyboard shortcuts</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72700/vivaldi-74.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72700</guid>
-            <pubDate>Mon, 19 May 2025 13:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>HP toont OmniBook 5-laptops met Qualcomm-chips en oledschermen vanaf 799 dollar</title>
-            <link>https://tweakers.net/nieuws/235112/hp-toont-omnibook-5-laptops-met-qualcomm-chips-en-oledschermen-vanaf-799-dollar.html</link>
-            <description>HP introduceert twee nieuwe OmniBook-laptops, die beide beschikken over een Qualcomm Snapdragon X-soc. Het betreft een 14&quot;- en een 16&quot;-model, die in de komende maanden verschijnen vanaf 799 en 849 dollar.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / Laptops</category>
-            <comments>https://tweakers.net/nieuws/235112/hp-toont-omnibook-5-laptops-met-qualcomm-chips-en-oledschermen-vanaf-799-dollar.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235112</guid>
-            <pubDate>Mon, 19 May 2025 13:21:53 +0200</pubDate>
         </item>
     </channel>
 </rss>
