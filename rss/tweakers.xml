@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 20 May 2025 15:36:02 +0200</pubDate>
-        <lastBuildDate>Tue, 20 May 2025 15:36:02 +0200</lastBuildDate>
+        <pubDate>Tue, 20 May 2025 16:31:02 +0200</pubDate>
+        <lastBuildDate>Tue, 20 May 2025 16:31:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,46 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Firmware-update - Asustor ADM 4.3.3.RH61</title>
+            <link>https://tweakers.net/downloads/72712/asustor-adm-433rh61.html</link>
+            <description>Asustor heeft een nieuwe versie van Asustor Data Master uitgebracht, de beheersoftware voor al zijn nasproducten. Voor meer informatie over ADM verwijzen we naar deze pagina. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Important Notes:</description>
+            <author>Bart van Klaveren</author>
+            <category>Firmware</category>
+            <comments>https://tweakers.net/downloads/72712/asustor-adm-433rh61.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72712</guid>
+            <pubDate>Tue, 20 May 2025 15:57:23 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nederlandse ING Bank heeft storing waardoor klanten geen geld kunnen overmaken</title>
+            <link>https://tweakers.net/nieuws/235236/nederlandse-ing-bank-heeft-storing-waardoor-klanten-geen-geld-kunnen-overmaken.html</link>
+            <description>De Nederlandse ING Bank heeft last van een storing, waardoor veel klanten geen geld kunnen overmaken en de app niet kunnen raadplegen. Het is onbekend wat de oorzaak is en hoe lang het nog kan gaan duren.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Internet</category>
+            <comments>https://tweakers.net/nieuws/235236/nederlandse-ing-bank-heeft-storing-waardoor-klanten-geen-geld-kunnen-overmaken.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235236</guid>
+            <pubDate>Tue, 20 May 2025 15:56:51 +0200</pubDate>
+        </item>
+        <item>
+            <title>Corsairs Makr 75-toetsenbord is modulair met hot-swappable pcb</title>
+            <link>https://tweakers.net/nieuws/235226/corsairs-makr-75-toetsenbord-is-modulair-met-hot-swappable-pcb.html</link>
+            <description>Corsair heeft tijdens techbeurs Computex een modulair toetsenbord aangekondigd. Het Makr 75-model heeft een aluminium behuizing, gasket mounting en een dempingssysteem van acht lagen. Het toetsenbord kan worden aangepast door gebruikers.</description>
+            <author>Andrei Stiru</author>
+            <category>Nieuws / Computers / Toetsenborden</category>
+            <comments>https://tweakers.net/nieuws/235226/corsairs-makr-75-toetsenbord-is-modulair-met-hot-swappable-pcb.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235226</guid>
+            <pubDate>Tue, 20 May 2025 15:47:59 +0200</pubDate>
+        </item>
+        <item>
+            <title>ASUS toont ook Radeon RX 9070 XT in BTF-lijn met verwijderbare stroomadapter</title>
+            <link>https://tweakers.net/nieuws/235232/asus-toont-ook-radeon-rx-9070-xt-in-btf-lijn-met-verwijderbare-stroomadapter.html</link>
+            <description>ASUS heeft voor het eerst een Radeon-gpu getoond die geschikt voor gebruik met &#039;kabelloze&#039; moederborden. De TUF Gaming Radeon RX 9070 XT BTF is de eerste AMD-kaart van ASUS met de GC-Hpwr-adapter die het bedrijf eerder dit jaar introduceerde.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/235232/asus-toont-ook-radeon-rx-9070-xt-in-btf-lijn-met-verwijderbare-stroomadapter.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235232</guid>
+            <pubDate>Tue, 20 May 2025 15:42:11 +0200</pubDate>
+        </item>
         <item>
             <title>Techbedrijven moeten meldingen van Nederlandse stichting met voorrang behandelen</title>
             <link>https://tweakers.net/nieuws/235218/techbedrijven-moeten-meldingen-van-nederlandse-stichting-met-voorrang-behandelen.html</link>
@@ -118,12 +158,12 @@
             <pubDate>Tue, 20 May 2025 13:22:05 +0200</pubDate>
         </item>
         <item>
-            <title>Preview - Cooler Master toont V4-koelers met 3d-heatpipes</title>
-            <link>https://tweakers.net/reviews/13302/cooler-master-toont-v4-koelers-met-3d-heatpipes.html</link>
+            <title>Preview - Cooler Masters V4-koeler met 3d-heatpipes: high-end performance voor budgetprijs</title>
+            <link>https://tweakers.net/reviews/13302/cooler-masters-v4-koeler-met-3d-heatpipes-high-end-performance-voor-budgetprijs.html</link>
             <description>Cooler Master belooft de koelermarkt met zijn nieuwe 3d-heatpipes op zijn kop te zetten. De eerste koeler die er gebruik van maakt, de V4, zou de prestaties van een 240mm-waterkoeler bieden voor 40 euro.</description>
             <author>Willem de Moor</author>
             <category>Preview / Computers / Processorkoeling</category>
-            <comments>https://tweakers.net/reviews/13302/cooler-master-toont-v4-koelers-met-3d-heatpipes.html#reacties</comments>
+            <comments>https://tweakers.net/reviews/13302/cooler-masters-v4-koeler-met-3d-heatpipes-high-end-performance-voor-budgetprijs.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13302</guid>
             <pubDate>Tue, 20 May 2025 13:05:38 +0200</pubDate>
         </item>
@@ -376,46 +416,6 @@
             <comments>https://tweakers.net/reviews/13298/4/anno-117-pax-romana-bouwen-handelen-en-vechten-op-zijn-romeins-voorlopige-conclusie.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13298</guid>
             <pubDate>Mon, 19 May 2025 18:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Beheerders kunnen Microsoft 365-agents voortaan ook op interne data trainen</title>
-            <link>https://tweakers.net/nieuws/235162/beheerders-kunnen-microsoft-365-agents-voortaan-ook-op-interne-data-trainen.html</link>
-            <description>Microsoft laat bedrijven hun agents voortaan ook trainen op interne datasets. Dat heet Copilot Tuning; bedrijfsgegevens blijven daarbij in een Microsoft 365-omgeving staan. Ook wordt het mogelijk meerdere agents in Copilot Studio samen te laten werken.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Software development</category>
-            <comments>https://tweakers.net/nieuws/235162/beheerders-kunnen-microsoft-365-agents-voortaan-ook-op-interne-data-trainen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235162</guid>
-            <pubDate>Mon, 19 May 2025 18:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>GitHub krijgt ondersteuning voor Copilot-agents</title>
-            <link>https://tweakers.net/nieuws/235154/github-krijgt-ondersteuning-voor-copilot-agents.html</link>
-            <description>GitHub krijgt ondersteuning voor zogenaamde &#039;agents&#039;. Dat zijn chatbots die semi-geautomatiseerd taken kunnen uitvoeren. Op die manier kan Copilot zelfstandig GitHub-issues oplossen in een aparte omgeving. Ontwikkelaars kunnen die via push doorvoeren.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Software development</category>
-            <comments>https://tweakers.net/nieuws/235154/github-krijgt-ondersteuning-voor-copilot-agents.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235154</guid>
-            <pubDate>Mon, 19 May 2025 18:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft maakt volledige Windows Subsystem for Linux-broncode open source</title>
-            <link>https://tweakers.net/nieuws/235150/microsoft-maakt-volledige-windows-subsystem-for-linux-broncode-open-source.html</link>
-            <description>Microsoft maakt het Windows Subsystem for Linux opensource beschikbaar. Het gaat om de volledige broncode van versie 2.5.7, de recentste versie van WSL. Daarvan zijn sommige onderdelen al beschikbaar onder een MIT-licentie, maar het wordt nu mogelijk om zelf WSL als build te maken en overal pullrequests op te doen. Lxcore.sys wordt niet opensource.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Besturingssystemen</category>
-            <comments>https://tweakers.net/nieuws/235150/microsoft-maakt-volledige-windows-subsystem-for-linux-broncode-open-source.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235150</guid>
-            <pubDate>Mon, 19 May 2025 18:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>ASUS brengt TUF A14- en A16-gaminglaptops ook met RTX 50-gpu&#039;s uit</title>
-            <link>https://tweakers.net/nieuws/235136/asus-brengt-tuf-a14-en-a16-gaminglaptops-ook-met-rtx-50-gpus-uit.html</link>
-            <description>ASUS brengt drie nieuwe laptops in de TUF Gaming-serie met daarin een RTX-50-kaart. Het gaat om twee nieuwe versies van de A-modellen waar nu een RTX 5060 of 5070-gpu in zit en een F-model met daarin die laatste gpu. In de F16 zit een Ryzen 7 350-soc.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / </category>
-            <comments>https://tweakers.net/nieuws/235136/asus-brengt-tuf-a14-en-a16-gaminglaptops-ook-met-rtx-50-gpus-uit.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235136</guid>
-            <pubDate>Mon, 19 May 2025 17:53:50 +0200</pubDate>
         </item>
     </channel>
 </rss>
