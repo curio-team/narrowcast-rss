@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 20 May 2025 11:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 20 May 2025 12:30:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,54 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>OpenAI’s Codex is part of a new cohort of agentic coding tools</title>
+		<link>https://techcrunch.com/2025/05/20/openais-codex-is-part-of-a-new-cohort-of-agentic-coding-tools/</link>
+		
+		<dc:creator><![CDATA[Russell Brandom]]></dc:creator>
+		<pubDate>Tue, 20 May 2025 12:30:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[vibe coding]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3008364</guid>
+
+					<description><![CDATA[Last Friday, OpenAI introduced a new coding system called Codex, designed to perform complex programming tasks from natural language commands. Codex moves OpenAI into a new cohort of agentic coding tools that is just beginning to take shape. From GitHub’s early Copilot to contemporary tools like Cursor and Windsurf, most AI coding assistants operate as [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Gravitee, a platform that helps companies manage APIs, raises $60M</title>
+		<link>https://techcrunch.com/2025/05/20/gravitee-a-platform-that-helps-companies-manage-apis-raises-60m/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Gravitee]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3006449</guid>
+
+					<description><![CDATA[Gravitee, a platform designed to help companies manage their APIs and other digital traffic pipelines, has raised $60 million in a Series C funding round led by Sixth Street Growth with participation from Riverside Acceleration Capital and Albion VC. The new capital, which brings Gravitee&#8217;s total raised to just over $125 million, will be used [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>In a good sign for consumer internet startups, Creator Ventures raises $45M</title>
+		<link>https://techcrunch.com/2025/05/20/in-a-good-sign-for-consumer-internet-startups-creator-ventures-raises-45m/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[creator ventures]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3008928</guid>
+
+					<description><![CDATA[&#8220;I&#8217;ve got a pretty wild story to tell you,&#8221; the early YouTube star Caspar Lee says in a TikTok. He goes on to tell the story of how a startup founder slid into his LinkedIn DMs with a pitch about an eco-friendly deodorant called Wild. He ignored the message at first, but his cousin Sasha [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Affiniti&#8217;s 20- and 22-year-old founders raise $17M led by SignalFire just 6 months after an $11M seed</title>
 		<link>https://techcrunch.com/2025/05/20/affinitis-20-and-22-year-old-founders-raise-17m-led-by-signalfire-just-6-months-after-an-11m-seed/</link>
 		
@@ -337,58 +385,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3007932</guid>
 
 					<description><![CDATA[Can AI speed up aspects of the scientific process? Microsoft appears to think so. At the company&#8217;s Build 2025 conference on Monday, Microsoft announced Microsoft Discovery, a platform that taps agentic AI to &#8220;transform the [scientific] discovery process,&#8221; according to a press release provided to TechCrunch. Microsoft Discovery is &#8220;extensible,&#8221; Microsoft says, and can handle [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>It&#8217;ll soon be free to publish apps to the Microsoft Store</title>
-		<link>https://techcrunch.com/2025/05/19/itll-soon-be-free-to-publish-apps-to-the-microsoft-store/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Mon, 19 May 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Microsoft Build]]></category>
-		<category><![CDATA[microsoft store]]></category>
-		<category><![CDATA[Windows]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3007958</guid>
-
-					<description><![CDATA[Microsoft is getting rid of developer onboarding fees for the Microsoft Store on Windows, the digital distribution platform for its flagship operating system, the company announced Monday during its Build 2025 conference. Starting June 2025, individual developers will be able to sign up and publish apps to the Microsoft Store without having to pay to [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>NLWeb is Microsoft&#8217;s project to bring more chatbots to web pages</title>
-		<link>https://techcrunch.com/2025/05/19/nlweb-is-microsofts-project-to-bring-more-chatbots-to-webpages/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Mon, 19 May 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[chatbots]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Microsoft Build]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3007977</guid>
-
-					<description><![CDATA[As part of an effort to make building AI-powered chatbots on the web simpler, Microsoft is launching an open project called NLWeb. Announced at Build 2025, NLWeb lets websites provide a &#8220;conversational interface&#8221; — i.e. a text field and a submission button — for their users with a few lines of code, the AI model [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Devs can now tap Microsoft Edge to power AI web apps</title>
-		<link>https://techcrunch.com/2025/05/19/devs-can-now-tap-microsoft-edge-to-power-ai-web-apps/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Mon, 19 May 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Microsoft Build]]></category>
-		<category><![CDATA[Microsoft Edge]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3008126</guid>
-
-					<description><![CDATA[Microsoft is launching new APIs for Edge, its web browser, to let developers incorporate AI functionality into web apps using models built into Edge. Unveiled at Build 2025, the AI APIs mirror some of the functionality in Google Chrome, which also offers &#8220;built-in AI&#8221; that developers can tap to power their web applications. Microsoft&#8217;s move [&#8230;]]]></description>
 		
 		
 		
