@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 21 May 2025 11:02:43 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 May 2025 13:34:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,42 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Coinbase says its data breach affects at least 69,000 customers</title>
+		<link>https://techcrunch.com/2025/05/21/coinbase-says-its-data-breach-affects-at-least-69000-customers/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Wed, 21 May 2025 13:03:10 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[coinbase]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3010172</guid>
+
+					<description><![CDATA[The crypto giant said the unauthorized access to customer data dates back to late December 2024.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apollo for Reddit dev Christian Selig to join Digg as an advisor</title>
+		<link>https://techcrunch.com/2025/05/21/apollo-for-reddit-dev-christian-selig-to-join-digg-as-an-advisor/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Wed, 21 May 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Digg]]></category>
+		<category><![CDATA[christian selig]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3009807</guid>
+
+					<description><![CDATA[Christian Selig, the iOS developer who ran the beloved third-party Reddit client Apollo, is joining the new iteration of Digg as an advisor. Earlier this year, Digg&#8217;s original founder Kevin Rose and Reddit co-founder Alexis Ohanian acquired what was left of Digg in an attempt to revitalize what was formerly known as &#8220;the internet&#8217;s homepage.&#8221; [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Uber Freight bets big on AI tools to grow its business</title>
 		<link>https://techcrunch.com/2025/05/21/uber-freight-bets-big-on-ai-tools-to-grow-its-business/</link>
 		
@@ -347,44 +383,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3008465</guid>
 
 					<description><![CDATA[At the Google I/O 2025 developer conference, Google launched Stitch, an AI-powered tool to help design web and mobile app front ends by generating the necessary UI elements and code. Stitch can be prompted to create app UIs with a few words or even an image, providing HTML and CSS markup for the designs it [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Meet is getting real-time speech translation</title>
-		<link>https://techcrunch.com/2025/05/20/google-meet-is-getting-real-time-speech-translation/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Tue, 20 May 2025 17:45:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Google I/O]]></category>
-		<category><![CDATA[google meet]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3008701</guid>
-
-					<description><![CDATA[Google announced at Google I/O 2025 that it&#8217;s bringing real-time speech translation to Google Meet. The feature leverages a large language audio model from Google DeepMind to allow for a natural, free-flowing conversation with someone in a different language, Google says. Speech translation in Meet translates spoken words into the listener&#8217;s preferred language in real [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Android Studio adds &#8216;agentic AI&#8217; with Journeys feature, Agent Mode</title>
-		<link>https://techcrunch.com/2025/05/20/android-studio-adds-agentic-ai-with-journeys-feature-agent-mode/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Tue, 20 May 2025 17:45:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[Google I/O]]></category>
-		<category><![CDATA[developers]]></category>
-		<category><![CDATA[android apps]]></category>
-		<category><![CDATA[android studio]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3008773</guid>
-
-					<description><![CDATA[Android Studio, the integrated development environment (IDE) for Android app developers, is getting an AI upgrade, Google announced at its developer conference, Google I/O 2025, on Tuesday. In addition to the rollout of the latest Gemini 2.5 Pro model, Android Studio is gaining a new &#8220;agentic AI&#8221; capability called Journeys and will soon introduce an [&#8230;]]]></description>
 		
 		
 		

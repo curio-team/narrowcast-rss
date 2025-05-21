@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 21 May 2025 14:41:00 +0200</pubDate>
-        <lastBuildDate>Wed, 21 May 2025 14:41:00 +0200</lastBuildDate>
+        <pubDate>Wed, 21 May 2025 15:36:04 +0200</pubDate>
+        <lastBuildDate>Wed, 21 May 2025 15:36:04 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,9 +18,39 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
+            <title>Software-update - UCheck 6.3.0</title>
+            <link>https://tweakers.net/downloads/72728/ucheck-630.html</link>
+            <description>Adlice Software heeft versie 6.3.0 van UCheck uitgebracht. Met dit programma kan de software op de computer up-to-date worden gehouden. Met de gratis uitvoering moet een scan handmatig uitgevoerd worden. De betaalde uitvoering kan dat periodiek automatisch doen en deze kan de ondersteunde programma&#039;s ook installeren als die nog niet op de computer aanwezig zijn. Het programma zelf heeft ondersteuning voor 265 programma&#039;s en via zogenaamde communityupdates zijn dat er vele duizenden meer. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 6.3.0:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72728/ucheck-630.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72728</guid>
+            <pubDate>Wed, 21 May 2025 15:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Sony brengt 3,5 jaar oude Android TV 12-update naar tv&#039;s uit 2021</title>
+            <link>https://tweakers.net/nieuws/235304/sony-brengt-3-komma-5-jaar-oude-android-tv-12-update-naar-tvs-uit-2021.html</link>
+            <description>Sony heeft een update voor zijn tv&#039;s uit 2021 uitgebracht, die het Android TV-besturingssysteem bijwerkt naar versie 12. De tv&#039;s kwamen oorspronkelijk met Android TV 10. Android TV 12 kwam eind 2021 uit.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Beeld en geluid / Televisies</category>
+            <comments>https://tweakers.net/nieuws/235304/sony-brengt-3-komma-5-jaar-oude-android-tv-12-update-naar-tvs-uit-2021.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235304</guid>
+            <pubDate>Wed, 21 May 2025 14:59:55 +0200</pubDate>
+        </item>
+        <item>
+            <title>SteelSeries introduceert tweede generatie Rival 3-gamingmuizen</title>
+            <link>https://tweakers.net/nieuws/235302/steelseries-introduceert-tweede-generatie-rival-3-gamingmuizen.html</link>
+            <description>SteelSeries brengt nieuwe versies uit van zijn Rival 3-gamingmuizen uit 2020. De Rival 3 Gen 2 is beschikbaar in een draadloze en bedrade uitvoering. Het draadloze model kost 60 euro, terwijl het bedrade model 40 euro kost.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / Computers / Muizen</category>
+            <comments>https://tweakers.net/nieuws/235302/steelseries-introduceert-tweede-generatie-rival-3-gamingmuizen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235302</guid>
+            <pubDate>Wed, 21 May 2025 14:46:09 +0200</pubDate>
+        </item>
+        <item>
             <title>MSI presenteert mini-ITX-moederborden met X870-, B850- en B860-chipsets</title>
             <link>https://tweakers.net/nieuws/235300/msi-presenteert-mini-itx-moederborden-met-x870-b850-en-b860-chipsets.html</link>
-            <description>MSI heeft drie witte mini-ITX-moederborden aangekondigd voor AMD- en Intel-processors. Het zijn de eerste mini-ITX-moederborden van de fabrikant. Het is nog niet bekend wanneer de producten uit gaan komen en wat de prijzen zullen zijn.</description>
+            <description>MSI heeft drie witte mini-ITX-moederborden aangekondigd voor AMD- en Intel-processors. Het zijn de eerste mini-ITX-moederborden met de X870-, B850- en B860-chipsets van de fabrikant. Het is nog niet bekend wanneer de producten uit gaan komen en wat de prijzen zullen zijn.</description>
             <author>Hayte Hugo</author>
             <category>Nieuws / Computers / Moederborden</category>
             <comments>https://tweakers.net/nieuws/235300/msi-presenteert-mini-itx-moederborden-met-x870-b850-en-b860-chipsets.html#reacties</comments>
@@ -38,12 +68,12 @@
             <pubDate>Wed, 21 May 2025 13:44:18 +0200</pubDate>
         </item>
         <item>
-            <title>.Geek - Tweakers op Computex: snelle docks, naakte kaarten en monitor met 4-stackpaneel</title>
-            <link>https://tweakers.net/geek/235296/tweakers-op-computex-snelle-docks-naakte-kaarten-en-monitor-met-4-stackpaneel.html</link>
+            <title>.Geek - Tweakers op Computex: snelle docks, naakte kaarten en glanzende woledpanelen</title>
+            <link>https://tweakers.net/geek/235296/tweakers-op-computex-snelle-docks-naakte-kaarten-en-glanzende-woledpanelen.html</link>
             <description>Tweakers is aanwezig op de Computex-beurs in Taipei. Daar konden onze redacteuren de eerste dagen al de tofste nieuwe techproducten bekijken. Zo zagen we videokaarten met 48GB aan vram, koelers met 3d-heatpipes en glanzende woledpanelen.</description>
             <author>Jasper Janssen</author>
             <category>.Geek / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/geek/235296/tweakers-op-computex-snelle-docks-naakte-kaarten-en-monitor-met-4-stackpaneel.html#reacties</comments>
+            <comments>https://tweakers.net/geek/235296/tweakers-op-computex-snelle-docks-naakte-kaarten-en-glanzende-woledpanelen.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/geek/235296</guid>
             <pubDate>Wed, 21 May 2025 13:37:00 +0200</pubDate>
         </item>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/downloads/72716/asustor-adm-500rhj2.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72716</guid>
             <pubDate>Tue, 20 May 2025 19:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Voorgestelde EU-regel maakt pakketjes uit China 2 euro duurder</title>
-            <link>https://tweakers.net/nieuws/235248/voorgestelde-eu-regel-maakt-pakketjes-uit-china-2-euro-duurder.html</link>
-            <description>De Europese Unie krijgt mogelijk een importheffing van 2 euro per pakket op pakketten die afkomstig zijn van buiten de EU. Dat gaat vooral Nederlanders en Belgen treffen, want die kopen het meeste in China.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/235248/voorgestelde-eu-regel-maakt-pakketjes-uit-china-2-euro-duurder.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235248</guid>
-            <pubDate>Tue, 20 May 2025 18:24:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Elgato brengt softwareversie van Stream Deck uit</title>
-            <link>https://tweakers.net/nieuws/235246/elgato-brengt-softwareversie-van-stream-deck-uit.html</link>
-            <description>Elgato, een dochtermerk van Corsair, brengt een virtuele versie van de Stream Deck uit, zijn apparaat met sneltoetsen. De virtuele versie is er vooralsnog alleen voor klanten die een fysieke versie of bepaalde producten van Corsair bezitten.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Computers / Toetsenborden</category>
-            <comments>https://tweakers.net/nieuws/235246/elgato-brengt-softwareversie-van-stream-deck-uit.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235246</guid>
-            <pubDate>Tue, 20 May 2025 17:48:19 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Macrium Reflect X 10.0.8576</title>
-            <link>https://tweakers.net/downloads/72714/macrium-reflect-x-1008576.html</link>
-            <description>Paramount Software heeft een nieuwe versie van Macrium Reflect X uitgebracht. Met dit programma kan een diskimage van een partitie of complete harde schijf worden gemaakt. Hiermee kan een beschadigde Windows-installatie worden hersteld, maar het is ook mogelijk om de diskimage aan het systeem te koppelen en er zo individuele bestanden eruit te halen. Voorheen was er ook een gratis uitvoering, maar Paramount Software is daar eind december 2023 mee gestopt. Een licentie kost 42 euro per jaar. De laatste gratis uitgave kan hier nog worden gedownload. Hieronder is de changelog voor deze uitgave te vinden. Updating To This Release</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72714/macrium-reflect-x-1008576.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72714</guid>
-            <pubDate>Tue, 20 May 2025 17:30:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
