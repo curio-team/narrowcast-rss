@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 21 May 2025 11:31:02 +0200</pubDate>
-        <lastBuildDate>Wed, 21 May 2025 11:31:02 +0200</lastBuildDate>
+        <pubDate>Wed, 21 May 2025 12:36:03 +0200</pubDate>
+        <lastBuildDate>Wed, 21 May 2025 12:36:03 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,66 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Mozilla Thunderbird 138.0.2</title>
+            <link>https://tweakers.net/downloads/72724/mozilla-thunderbird-13802.html</link>
+            <description>De Mozilla Foundation heeft versie 138.0.2 van Thunderbird uitgebracht. Thunderbird is een opensourceclient voor e-mail en nieuwsgroepen met ondersteuning voor verschillende mail- en newsaccounts. Verder zijn er een spamfilter, spellingscontrole, kalender en adresboek, en heeft het een aanpasbaar uiterlijk. Thunderbird is beschikbaar in twee verschillende versies, die beide als stabiel worden aangeduid. De eerste wordt vaker voorzien van nieuwe functionaliteit en wordt als Release-versie aangeboden; de andere, de Extra Support Release-versie, wordt alleen van bugfixes en stabiliteitsverbeteringen voorzien. In deze uitgave zijn de volgende verbeteringen aangebracht: What’s Fixed</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72724/mozilla-thunderbird-13802.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72724</guid>
+            <pubDate>Wed, 21 May 2025 12:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Preview - Noctua gaat aio-waterkoelers maken, met en zonder pomp</title>
+            <link>https://tweakers.net/reviews/13308/noctua-gaat-aio-waterkoelers-maken-met-en-zonder-pomp.html</link>
+            <description>Noctua staat bekend om zijn luchtkoelers, maar de Oostenrijkse fabrikant gaat nu ook waterkoelers maken.</description>
+            <author>Willem de Moor</author>
+            <category>Preview / Computers / Waterkoeling</category>
+            <comments>https://tweakers.net/reviews/13308/2/noctua-gaat-aio-waterkoelers-maken-met-en-zonder-pomp-traditionele-aio-koelers-met-stille-noctua-snufjes.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13308</guid>
+            <pubDate>Wed, 21 May 2025 12:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Videopreview - Wat maakt de eerste waterkoelers van Noctua anders dan alle andere?</title>
+            <link>https://tweakers.net/video/19908/wat-maakt-de-eerste-waterkoelers-van-noctua-anders-dan-alle-andere.html</link>
+            <description>Je kent Noctua van de forse, degelijke en helaas ook vaak erg prijzige luchtkoelers… Maar op Computex toont de Oostenrijkse fabrikant zijn eerste waterkoelers. Wat doet Noctua anders dan de rest? Voor de toekomst werkt Noctua zelfs aan een totaal ander concept voor vloeistofkoeling, dat helemaal geen pomp nodig heeft.</description>
+            <author>Luke van Drie</author>
+            <category>Videopreview / Computers / Basiscomponenten</category>
+            <comments>https://tweakers.net/video/19908/wat-maakt-de-eerste-waterkoelers-van-noctua-anders-dan-alle-andere.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/video/19908</guid>
+            <pubDate>Wed, 21 May 2025 12:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>ASUS ProArt RTX 5080 heeft houtfinish en plek voor Gen5-ssd</title>
+            <link>https://tweakers.net/nieuws/235290/asus-proart-rtx-5080-heeft-houtfinish-en-plek-voor-gen5-ssd.html</link>
+            <description>ASUS heeft een RTX 5080-gpu gemaakt die een deels houten afwerking heeft en waarin plek is voor een M.2-ssd. Ook zit er een USB-C-aansluiting op de kaart om bijvoorbeeld een mobiele monitor direct op de kaart aan te sluiten.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/235290/asus-proart-rtx-5080-heeft-houtfinish-en-plek-voor-gen5-ssd.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235290</guid>
+            <pubDate>Wed, 21 May 2025 11:56:21 +0200</pubDate>
+        </item>
+        <item>
+            <title>Have I Been Pwned brengt 2.0-versie uit van datalekzoekmachine</title>
+            <link>https://tweakers.net/nieuws/235286/have-i-been-pwned-brengt-20-versie-uit-van-datalekzoekmachine.html</link>
+            <description>Have I Been Pwned 2.0 is uitgebracht, meldt oprichter Troy Hunt. De website van de datalekzoekmachine is vernieuwd en biedt een verbeterde zoekfunctie. Ook is er een nieuw centraal dashboard om meldingen te ontvangen over datalekken.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/235286/have-i-been-pwned-brengt-20-versie-uit-van-datalekzoekmachine.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235286</guid>
+            <pubDate>Wed, 21 May 2025 11:47:27 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - MSI brengt RTX 5000-gpu&#039;s met retro Twin Frozr- en Cyclone-koelers met lcd uit</title>
+            <link>https://tweakers.net/geek/235288/msi-brengt-rtx-5000-gpus-met-retro-twin-frozr-en-cyclone-koelers-met-lcd-uit.html</link>
+            <description>Voor menige tweaker zullen MSI&#039;s Twin Frozr- en Cyclone-videokaarten nog altijd een warm plekje in het hart hebben. De fabrikant brengt nu twee nieuwe versies van de videokaart op de markt, maar dan in een modern RTX 5000-jasje inclusief een ingebouwde display.</description>
+            <author>Tijs Hofmans</author>
+            <category>.Geek / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/geek/235288/msi-brengt-rtx-5000-gpus-met-retro-twin-frozr-en-cyclone-koelers-met-lcd-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/235288</guid>
+            <pubDate>Wed, 21 May 2025 11:37:58 +0200</pubDate>
+        </item>
         <item>
             <title>Maxsun brengt eerste Intel Arc B60-kaart met dubbele gpu met 48GB vram uit</title>
             <link>https://tweakers.net/nieuws/235282/maxsun-brengt-eerste-intel-arc-b60-kaart-met-dubbele-gpu-met-48gb-vram-uit.html</link>
@@ -248,12 +308,12 @@
             <pubDate>Tue, 20 May 2025 19:33:08 +0200</pubDate>
         </item>
         <item>
-            <title>Google Meet krijgt realtime-vertalingen</title>
-            <link>https://tweakers.net/nieuws/235252/google-meet-krijgt-realtime-vertalingen.html</link>
-            <description>Google Meet krijgt realtime-vertalingen. Daarbij gaat de software vertalingen geven van spraak in de taal van de ontvanger. Voorlopig gaat het nog om vertalingen tussen Spaans en Engels, meer talen volgen.</description>
+            <title>Google Meet krijgt realtimevertalingen</title>
+            <link>https://tweakers.net/nieuws/235252/google-meet-krijgt-realtimevertalingen.html</link>
+            <description>Google Meet krijgt realtimevertalingen. Daarbij gaat de software vertalingen geven van spraak in de taal van de ontvanger. Voorlopig gaat het nog om vertalingen tussen Spaans en Engels, meer talen volgen.</description>
             <author>Arnoud Wokke</author>
             <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/235252/google-meet-krijgt-realtime-vertalingen.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/235252/google-meet-krijgt-realtimevertalingen.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235252</guid>
             <pubDate>Tue, 20 May 2025 19:20:52 +0200</pubDate>
         </item>
@@ -356,66 +416,6 @@
             <comments>https://tweakers.net/nieuws/235226/corsairs-makr-75-toetsenbord-is-modulair-met-hot-swappable-pcb.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235226</guid>
             <pubDate>Tue, 20 May 2025 15:47:59 +0200</pubDate>
-        </item>
-        <item>
-            <title>ASUS toont ook Radeon RX 9070 XT in BTF-lijn met verwijderbare stroomadapter</title>
-            <link>https://tweakers.net/nieuws/235232/asus-toont-ook-radeon-rx-9070-xt-in-btf-lijn-met-verwijderbare-stroomadapter.html</link>
-            <description>ASUS heeft voor het eerst een Radeon-gpu getoond die geschikt voor gebruik met &#039;kabelloze&#039; moederborden. De TUF Gaming Radeon RX 9070 XT BTF is de eerste AMD-kaart van ASUS met de GC-Hpwr-adapter die het bedrijf eerder dit jaar introduceerde.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/nieuws/235232/asus-toont-ook-radeon-rx-9070-xt-in-btf-lijn-met-verwijderbare-stroomadapter.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235232</guid>
-            <pubDate>Tue, 20 May 2025 15:42:11 +0200</pubDate>
-        </item>
-        <item>
-            <title>Techbedrijven moeten meldingen van Nederlandse stichting met voorrang behandelen</title>
-            <link>https://tweakers.net/nieuws/235218/techbedrijven-moeten-meldingen-van-nederlandse-stichting-met-voorrang-behandelen.html</link>
-            <description>Techbedrijven zullen meldingen van de Nederlandse stichting Offlimits met voorrang moeten gaan behandelen. Toezichthouder ACM heeft Offlimits onder de Digital Services Act aangewezen als &#039;betrouwbare flagger&#039;, waardoor meldingen van de stichting een andere status krijgen.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/235218/techbedrijven-moeten-meldingen-van-nederlandse-stichting-met-voorrang-behandelen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235218</guid>
-            <pubDate>Tue, 20 May 2025 15:07:40 +0200</pubDate>
-        </item>
-        <item>
-            <title>NZXT voegt 420mm-model toe aan Kraken Elite-aio-koelers en vernieuwt Plus-serie</title>
-            <link>https://tweakers.net/nieuws/235228/nzxt-voegt-420mm-model-toe-aan-kraken-elite-aio-koelers-en-vernieuwt-plus-serie.html</link>
-            <description>NZXT brengt een Elite-model uit in de Kraken-lijn van aio-koelers met een radiator van 420mm. Ook komt NZXT met nieuwe versies van de Kraken Plus-aio-koelers die &#039;betere prestaties&#039; en een nieuwe pomp hebben.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / </category>
-            <comments>https://tweakers.net/nieuws/235228/nzxt-voegt-420mm-model-toe-aan-kraken-elite-aio-koelers-en-vernieuwt-plus-serie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235228</guid>
-            <pubDate>Tue, 20 May 2025 15:07:20 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Community - Q&amp;A met Dennis de Vries - Vraag de smartphoneredacteur alles over telefoons</title>
-            <link>https://tweakers.net/reviews/12926/q-en-a-met-dennis-de-vries-vraag-de-smartphoneredacteur-alles-over-telefoons.html</link>
-            <description>Smartphoneredacteur Dennis de Vries beantwoordt je vragen over telefoons, fotografie en retrohandhelds. Dinsdag tussen 15.00 en 17.00 uur staat hij voor je klaar.</description>
-            <author>Dennis de Vries</author>
-            <category>.Community / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/reviews/12926/q-en-a-met-dennis-de-vries-vraag-de-smartphoneredacteur-alles-over-telefoons.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/12926</guid>
-            <pubDate>Tue, 20 May 2025 15:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Browser Vivaldi brengt site-specifieke sneltoetsen</title>
-            <link>https://tweakers.net/nieuws/235220/browser-vivaldi-brengt-site-specifieke-sneltoetsen.html</link>
-            <description>De op Chromium gebaseerde browser Vivaldi krijgt met de 7.4-upgrade de mogelijkheid om sneltoetsen per site te maken. Daardoor werken sneltoetsen op Tweakers bijvoorbeeld anders dan in Google Docs.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Computers / Browsers</category>
-            <comments>https://tweakers.net/nieuws/235220/browser-vivaldi-brengt-site-specifieke-sneltoetsen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235220</guid>
-            <pubDate>Tue, 20 May 2025 14:46:47 +0200</pubDate>
-        </item>
-        <item>
-            <title>IOS-gebruikers kunnen Google Translate instellen als standaard vertaalapp</title>
-            <link>https://tweakers.net/nieuws/235216/ios-gebruikers-kunnen-google-translate-instellen-als-standaard-vertaalapp.html</link>
-            <description>Apple heeft met iOS en iPadOS 18.4 de mogelijkheid toegevoegd om alternatieve vertaalapplicaties als standaard in te stellen. Google is de eerste ontwikkelaar die hier gebruik van maakt met een update van Google Translate.</description>
-            <author>Andrei Stiru</author>
-            <category>Nieuws / Computers / Besturingssystemen</category>
-            <comments>https://tweakers.net/nieuws/235216/ios-gebruikers-kunnen-google-translate-instellen-als-standaard-vertaalapp.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235216</guid>
-            <pubDate>Tue, 20 May 2025 14:33:07 +0200</pubDate>
         </item>
     </channel>
 </rss>
