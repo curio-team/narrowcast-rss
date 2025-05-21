@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 21 May 2025 09:31:01 +0200</pubDate>
-        <lastBuildDate>Wed, 21 May 2025 09:31:01 +0200</lastBuildDate>
+        <pubDate>Wed, 21 May 2025 10:36:03 +0200</pubDate>
+        <lastBuildDate>Wed, 21 May 2025 10:36:03 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,46 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Sublime Text 4 build 4200</title>
+            <link>https://tweakers.net/downloads/72722/sublime-text-4-build-4200.html</link>
+            <description>Sublime Text is een uitgebreide teksteditor die vooral programmeurs zal aanspreken. In de lange lijst mogelijkheden treffen we onder andere een minimap aan, de mogelijkheid om verschillende secties in een tekst te selecteren, die dan tegelijk bewerkt kunnen worden, syntaxhighlighting met ondersteuning voor meer dan veertig talen, en de mogelijkheid om van macro&#039;s en op Python gebaseerde plug-ins gebruik te maken. Sublime Text is beschikbaar voor Windows, Linux en macOS. Een licentie kost 99 dollar per gebruiker voor een periode van drie jaar. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: New Features and Improvements</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72722/sublime-text-4-build-4200.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72722</guid>
+            <pubDate>Wed, 21 May 2025 10:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>MSI toont eerste moederbord voor Ryzen X3D met kabelloos ontwerp</title>
+            <link>https://tweakers.net/nieuws/235280/msi-toont-eerste-moederbord-voor-ryzen-x3d-met-kabelloos-ontwerp.html</link>
+            <description>MSI heeft voor het eerst een moederbord met X870-chipset gemaakt dat binnen de kabelloze Project Zero-serie valt. De MAG X870E Tomahawk is het eerste moederbord voor AMD&#039;s Ryzen X3D-processors waar de kabels aan de achterkant van de kast kunnen worden weggewerkt.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Moederborden</category>
+            <comments>https://tweakers.net/nieuws/235280/msi-toont-eerste-moederbord-voor-ryzen-x3d-met-kabelloos-ontwerp.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235280</guid>
+            <pubDate>Wed, 21 May 2025 10:28:36 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google rolt eerste Android 16 QPR1-bèta uit met Material 3 Expressive-ontwerp</title>
+            <link>https://tweakers.net/nieuws/235278/google-rolt-eerste-android-16-qpr1-beta-uit-met-material-3-expressive-ontwerp.html</link>
+            <description>Google rolt de eerste QPR1-bètaversie uit van Android 16 voor Pixel-smartphones. QPR1 Beta 1 bevat onder andere het nieuwe Material 3 Expressive, een groot herontwerp van het besturingssysteem.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/235278/google-rolt-eerste-android-16-qpr1-beta-uit-met-material-3-expressive-ontwerp.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235278</guid>
+            <pubDate>Wed, 21 May 2025 10:20:45 +0200</pubDate>
+        </item>
+        <item>
+            <title>ASUS en Gigabyte voorzien gamingmonitors van Google TV</title>
+            <link>https://tweakers.net/nieuws/235244/asus-en-gigabyte-voorzien-gamingmonitors-van-google-tv.html</link>
+            <description>ASUS en Gigabyte presenteren op Computex gamingmonitors met Google TV. De M27QS van Gigabyte is een 27&quot; lcd-monitor; bij de ROG Strix XG34WCDMTG van ASUS gaat het om een oledultrawide van 34&quot;. Beide schermen moeten deze zomer uitkomen.</description>
+            <author>Friso Weijers</author>
+            <category>Nieuws / Computers / Monitors</category>
+            <comments>https://tweakers.net/nieuws/235244/asus-en-gigabyte-voorzien-gamingmonitors-van-google-tv.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235244</guid>
+            <pubDate>Wed, 21 May 2025 09:36:25 +0200</pubDate>
+        </item>
         <item>
             <title>Teufel introduceert modulaire opensource bluetoothspeaker MYND</title>
             <link>https://tweakers.net/nieuws/235276/teufel-introduceert-modulaire-opensource-bluetoothspeaker-mynd.html</link>
@@ -376,46 +416,6 @@
             <comments>https://tweakers.net/nieuws/235214/corsair-frame-5000d-is-groter-dan-4000d-en-heeft-geperforeerde-moederbordmount.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235214</guid>
             <pubDate>Tue, 20 May 2025 13:58:28 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google brengt NotebookLM-app uit voor iOS en Android</title>
-            <link>https://tweakers.net/nieuws/235222/google-brengt-notebooklm-app-uit-voor-ios-en-android.html</link>
-            <description>Google heeft een app uitgebracht voor NotebookLM. De AI-dienst was tot nu toe alleen bruikbaar via de browser. De app is uitgekomen voor iOS en Android en maakt het onder meer mogelijk websites en pdf&#039;s direct als bron binnen NotebookLM te gebruiken.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/235222/google-brengt-notebooklm-app-uit-voor-ios-en-android.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235222</guid>
-            <pubDate>Tue, 20 May 2025 13:56:30 +0200</pubDate>
-        </item>
-        <item>
-            <title>MSI Claw A8 heeft een Ryzen Z2 Extreme-processor</title>
-            <link>https://tweakers.net/nieuws/235212/msi-claw-a8-heeft-een-ryzen-z2-extreme-processor.html</link>
-            <description>MSI brengt een nieuwe versie van zijn Claw 8-handheld uit met een Ryzen-processor van AMD. Het gaat specifiek om een Ryzen Z2 Extreme. Nog niet alle specificaties zijn bekend, maar de nieuwe Claw krijgt in ieder geval een groter scherm.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Gaming / Consoles</category>
-            <comments>https://tweakers.net/nieuws/235212/msi-claw-a8-heeft-een-ryzen-z2-extreme-processor.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235212</guid>
-            <pubDate>Tue, 20 May 2025 13:22:05 +0200</pubDate>
-        </item>
-        <item>
-            <title>Preview - Cooler Masters V4-koeler met 3d-heatpipes: high-end performance voor budgetprijs</title>
-            <link>https://tweakers.net/reviews/13302/cooler-masters-v4-koeler-met-3d-heatpipes-high-end-performance-voor-budgetprijs.html</link>
-            <description>Cooler Master belooft de koelermarkt met zijn nieuwe 3d-heatpipes op zijn kop te zetten. De eerste koeler die er gebruik van maakt, de V4, zou de prestaties van een 240mm-waterkoeler bieden voor 40 euro.</description>
-            <author>Willem de Moor</author>
-            <category>Preview / Computers / Processorkoeling</category>
-            <comments>https://tweakers.net/reviews/13302/cooler-masters-v4-koeler-met-3d-heatpipes-high-end-performance-voor-budgetprijs.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13302</guid>
-            <pubDate>Tue, 20 May 2025 13:05:38 +0200</pubDate>
-        </item>
-        <item>
-            <title>Realme introduceert GT 7 met een vanafprijs van 650 euro</title>
-            <link>https://tweakers.net/nieuws/235208/realme-introduceert-gt-7-met-een-vanafprijs-van-650-euro.html</link>
-            <description>Realme heeft de prijzen bekendgemaakt van zijn nieuwe GT 7-serie, die vanaf 27 mei verkrijgbaar is. Het goedkoopste model kost 650 euro. De toestellen maken gebruik van grafeen in het koelingssysteem en krijgen een accu van 7000mAh.</description>
-            <author>Andrei Stiru</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/235208/realme-introduceert-gt-7-met-een-vanafprijs-van-650-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235208</guid>
-            <pubDate>Tue, 20 May 2025 13:04:47 +0200</pubDate>
         </item>
     </channel>
 </rss>
