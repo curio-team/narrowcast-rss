@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 21 May 2025 05:36:09 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 May 2025 11:02:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Uber Freight bets big on AI tools to grow its business</title>
+		<link>https://techcrunch.com/2025/05/21/uber-freight-bets-big-on-ai-tools-to-grow-its-business/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Wed, 21 May 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Uber]]></category>
+		<category><![CDATA[uber freight]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3010038</guid>
+
+					<description><![CDATA[Three years ago, as the pandemic caused chaos for companies big and small, Colgate-Palmolive’s chief supply chain officer Luciano Sieber orchestrated a “logistics blitz.”&#160; The result gave Sieber a better understanding of how Colgate-Palmolive moves its products around the world. But it stuck Sieber with another problem: too much data.&#160; About a year ago, Sieber [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Fortnite returns to the US App Store after a five-year gap</title>
 		<link>https://techcrunch.com/2025/05/20/fortnite-returns-to-the-us-app-store-after-a-five-year-gap/</link>
 		
@@ -366,24 +385,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3008773</guid>
 
 					<description><![CDATA[Android Studio, the integrated development environment (IDE) for Android app developers, is getting an AI upgrade, Google announced at its developer conference, Google I/O 2025, on Tuesday. In addition to the rollout of the latest Gemini 2.5 Pro model, Android Studio is gaining a new &#8220;agentic AI&#8221; capability called Journeys and will soon introduce an [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Veo 3 can generate videos — and soundtracks to go along with them</title>
-		<link>https://techcrunch.com/2025/05/20/googles-veo-3-can-generate-videos-and-soundtracks-to-go-along-with-them/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 20 May 2025 17:45:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[Google I/O]]></category>
-		<category><![CDATA[google veo]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3008867</guid>
-
-					<description><![CDATA[Google&#8217;s latest video-generating AI model, Veo 3, can create audio to go along with the clips that it generates. On Tuesday during the Google I/O 2025 developer conference, Google unveiled Veo 3, which the company claims can generate sound effects, background noises, and even dialogue to accompany the videos it creates. Veo 3 also improves [&#8230;]]]></description>
 		
 		
 		

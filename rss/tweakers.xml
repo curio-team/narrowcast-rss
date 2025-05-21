@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 21 May 2025 12:36:03 +0200</pubDate>
-        <lastBuildDate>Wed, 21 May 2025 12:36:03 +0200</lastBuildDate>
+        <pubDate>Wed, 21 May 2025 13:31:03 +0200</pubDate>
+        <lastBuildDate>Wed, 21 May 2025 13:31:03 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - AlmaLinux 9.6</title>
+            <link>https://tweakers.net/downloads/72726/almalinux-96.html</link>
+            <description>De AlmaLinux OS Foundation heeft versie 9.6 van AlmaLinux uitgebracht. AlmaLinux is net als Rocky Linux een van de nieuwkomers die in het gat is gesprongen dat CentOS heeft achtergelaten. Het OS is voornamelijk bedoeld om voor servertaken ingezet te worden en versie 8 is gebaseerd op Red Hat Enterprise Linux 8, waar versie 9 RHEL 9 als basis heeft. Door het grote aantal sponsors lijkt AlmaLinux een blijvertje te zijn. De releasenotes voor deze uitgave kunnen hier worden gevonden; dit zijn de releasenotes voor deze uitgave: Release Notes and More Information</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72726/almalinux-96.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72726</guid>
+            <pubDate>Wed, 21 May 2025 13:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Be quiet toont nieuwe waterkoeler en podium op Computex</title>
+            <link>https://tweakers.net/nieuws/235294/be-quiet-toont-nieuwe-waterkoeler-en-podium-op-computex.html</link>
+            <description>Be quiet heeft op de Computex minder nieuwe producten laten zien dan het wilde, maar bracht wel een nieuwe voeding en een nieuwe koeler mee. Ook liet het Duitse bedrijf een standaard voor de Light Base 900-behuizing zien, die de kast mooier moet laten uitkomen.</description>
+            <author>Willem de Moor</author>
+            <category>Nieuws / Computers / Voedingen</category>
+            <comments>https://tweakers.net/nieuws/235294/be-quiet-toont-nieuwe-waterkoeler-en-podium-op-computex.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235294</guid>
+            <pubDate>Wed, 21 May 2025 13:01:15 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Mozilla Thunderbird 138.0.2</title>
             <link>https://tweakers.net/downloads/72724/mozilla-thunderbird-13802.html</link>
@@ -122,7 +142,7 @@
             <link>https://tweakers.net/nieuws/235280/msi-toont-zijn-eerste-moederbord-met-am5-socket-met-kabelloos-ontwerp.html</link>
             <description>MSI heeft voor het eerst een moederbord met X870-chipset gemaakt dat binnen de kabelloze Project Zero-serie valt. De MAG X870E Tomahawk is het eerste moederbord voor socs op AMD&#039;s AM5-socket waar de kabels aan de achterkant van de kast kunnen worden weggewerkt.</description>
             <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Moederborden</category>
+            <category>Nieuws / </category>
             <comments>https://tweakers.net/nieuws/235280/msi-toont-zijn-eerste-moederbord-met-am5-socket-met-kabelloos-ontwerp.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235280</guid>
             <pubDate>Wed, 21 May 2025 10:28:36 +0200</pubDate>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/downloads/72712/asustor-adm-433rh61.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72712</guid>
             <pubDate>Tue, 20 May 2025 15:57:23 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nederlandse ING Bank heeft storing waardoor klanten geen geld kunnen overmaken</title>
-            <link>https://tweakers.net/nieuws/235236/nederlandse-ing-bank-heeft-storing-waardoor-klanten-geen-geld-kunnen-overmaken.html</link>
-            <description>De Nederlandse ING Bank heeft last van een storing, waardoor veel klanten geen geld kunnen overmaken en de app niet kunnen raadplegen. Het is onbekend wat de oorzaak is en hoe lang het nog kan gaan duren.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / IT Pro / Internet</category>
-            <comments>https://tweakers.net/nieuws/235236/nederlandse-ing-bank-heeft-storing-waardoor-klanten-geen-geld-kunnen-overmaken.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235236</guid>
-            <pubDate>Tue, 20 May 2025 15:56:51 +0200</pubDate>
-        </item>
-        <item>
-            <title>Corsairs Makr 75-toetsenbord is modulair met hot-swappable pcb</title>
-            <link>https://tweakers.net/nieuws/235226/corsairs-makr-75-toetsenbord-is-modulair-met-hot-swappable-pcb.html</link>
-            <description>Corsair heeft tijdens techbeurs Computex een modulair toetsenbord aangekondigd. Het Makr 75-model heeft een aluminium behuizing, gasket mounting en een dempingssysteem van acht lagen. Het toetsenbord kan worden aangepast door gebruikers.</description>
-            <author>Andrei Stiru</author>
-            <category>Nieuws / Computers / Toetsenborden</category>
-            <comments>https://tweakers.net/nieuws/235226/corsairs-makr-75-toetsenbord-is-modulair-met-hot-swappable-pcb.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235226</guid>
-            <pubDate>Tue, 20 May 2025 15:47:59 +0200</pubDate>
         </item>
     </channel>
 </rss>
