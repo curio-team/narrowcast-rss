@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 21 May 2025 10:36:03 +0200</pubDate>
-        <lastBuildDate>Wed, 21 May 2025 10:36:03 +0200</lastBuildDate>
+        <pubDate>Wed, 21 May 2025 11:31:02 +0200</pubDate>
+        <lastBuildDate>Wed, 21 May 2025 11:31:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,6 +18,36 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
+            <title>Maxsun brengt eerste Intel Arc B60-kaart met dubbele gpu met 48GB vram uit</title>
+            <link>https://tweakers.net/nieuws/235282/maxsun-brengt-eerste-intel-arc-b60-kaart-met-dubbele-gpu-met-48gb-vram-uit.html</link>
+            <description>De Chinese fabrikant Maxsun heeft een Intel Arc B60-videokaart aangekondigd met daarin twee gpu&#039;s en in totaal 48GB aan vram. Vorige week verscheen die kaart al online, maar nu toont het bedrijf die kaart officieel.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/235282/maxsun-brengt-eerste-intel-arc-b60-kaart-met-dubbele-gpu-met-48gb-vram-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235282</guid>
+            <pubDate>Wed, 21 May 2025 11:01:02 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Netflix kondigt Clash of Clans-animatieserie aan</title>
+            <link>https://tweakers.net/geek/235272/netflix-kondigt-clash-of-clans-animatieserie-aan.html</link>
+            <description>Netflix werkt aan een animatieserie gebaseerd op de mobiele game Clash of Clans. De serie gaat over een &#039;Barbarian die een groep buitenbeentjes moet verzamelen om hun dorp te verdedigen&#039;. De serie bevindt zich in pre-productie.</description>
+            <author>Sabine Schults</author>
+            <category>.Geek / Gaming / Games</category>
+            <comments>https://tweakers.net/geek/235272/netflix-kondigt-clash-of-clans-animatieserie-aan.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/235272</guid>
+            <pubDate>Wed, 21 May 2025 10:57:16 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gigabyte presenteert Gaming A16 Pro- en A18-gaminglaptops</title>
+            <link>https://tweakers.net/nieuws/235238/gigabyte-presenteert-gaming-a16-pro-en-a18-gaminglaptops.html</link>
+            <description>Gigabyte toont op Computex twee toevoegingen aan zijn line-up van gaminglaptops, voorzien van Nvidia GeForce RTX 50-serie videokaarten. Ten opzichte van de eerder aangekondigde modellen zijn de Gaming A16 Pro- en Gaming A18-laptops minder hoog gepositioneerd.</description>
+            <author>Friso Weijers</author>
+            <category>Nieuws / Computers / Laptops</category>
+            <comments>https://tweakers.net/nieuws/235238/gigabyte-presenteert-gaming-a16-pro-en-a18-gaminglaptops.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235238</guid>
+            <pubDate>Wed, 21 May 2025 10:38:46 +0200</pubDate>
+        </item>
+        <item>
             <title>Software-update - Sublime Text 4 build 4200</title>
             <link>https://tweakers.net/downloads/72722/sublime-text-4-build-4200.html</link>
             <description>Sublime Text is een uitgebreide teksteditor die vooral programmeurs zal aanspreken. In de lange lijst mogelijkheden treffen we onder andere een minimap aan, de mogelijkheid om verschillende secties in een tekst te selecteren, die dan tegelijk bewerkt kunnen worden, syntaxhighlighting met ondersteuning voor meer dan veertig talen, en de mogelijkheid om van macro&#039;s en op Python gebaseerde plug-ins gebruik te maken. Sublime Text is beschikbaar voor Windows, Linux en macOS. Een licentie kost 99 dollar per gebruiker voor een periode van drie jaar. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: New Features and Improvements</description>
@@ -28,12 +58,12 @@
             <pubDate>Wed, 21 May 2025 10:30:00 +0200</pubDate>
         </item>
         <item>
-            <title>MSI toont eerste moederbord voor Ryzen X3D met kabelloos ontwerp</title>
-            <link>https://tweakers.net/nieuws/235280/msi-toont-eerste-moederbord-voor-ryzen-x3d-met-kabelloos-ontwerp.html</link>
-            <description>MSI heeft voor het eerst een moederbord met X870-chipset gemaakt dat binnen de kabelloze Project Zero-serie valt. De MAG X870E Tomahawk is het eerste moederbord voor AMD&#039;s Ryzen X3D-processors waar de kabels aan de achterkant van de kast kunnen worden weggewerkt.</description>
+            <title>MSI toont zijn eerste moederbord met AM5-socket met kabelloos ontwerp</title>
+            <link>https://tweakers.net/nieuws/235280/msi-toont-zijn-eerste-moederbord-met-am5-socket-met-kabelloos-ontwerp.html</link>
+            <description>MSI heeft voor het eerst een moederbord met X870-chipset gemaakt dat binnen de kabelloze Project Zero-serie valt. De MAG X870E Tomahawk is het eerste moederbord voor socs op AMD&#039;s AM5-socket waar de kabels aan de achterkant van de kast kunnen worden weggewerkt.</description>
             <author>Tijs Hofmans</author>
             <category>Nieuws / Computers / Moederborden</category>
-            <comments>https://tweakers.net/nieuws/235280/msi-toont-eerste-moederbord-voor-ryzen-x3d-met-kabelloos-ontwerp.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/235280/msi-toont-zijn-eerste-moederbord-met-am5-socket-met-kabelloos-ontwerp.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235280</guid>
             <pubDate>Wed, 21 May 2025 10:28:36 +0200</pubDate>
         </item>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/235216/ios-gebruikers-kunnen-google-translate-instellen-als-standaard-vertaalapp.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235216</guid>
             <pubDate>Tue, 20 May 2025 14:33:07 +0200</pubDate>
-        </item>
-        <item>
-            <title>HXi Shift-voedingen van Corsair hebben geïntegreerde aansluiting voor iCUE Link</title>
-            <link>https://tweakers.net/nieuws/235224/hxi-shift-voedingen-van-corsair-hebben-geintegreerde-aansluiting-voor-icue-link.html</link>
-            <description>Corsair gaat voedingen uitbrengen waar gebruikers fans met een iCUE Link-aansluiting direct op kunnen aansluiten. Er kunnen maximaal 24 apparaten worden verbonden aan de HXi Shift-psu, die beschikbaar komt met maximaal 1500W vermogen.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Voedingen</category>
-            <comments>https://tweakers.net/nieuws/235224/hxi-shift-voedingen-van-corsair-hebben-geintegreerde-aansluiting-voor-icue-link.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235224</guid>
-            <pubDate>Tue, 20 May 2025 14:26:46 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft lost BitLocker-problemen Windows 10 op met spoedpatch</title>
-            <link>https://tweakers.net/nieuws/235210/microsoft-lost-bitlocker-problemen-windows-10-op-met-spoedpatch.html</link>
-            <description>Microsoft heeft een spoedpatch uitgebracht die een ernstig probleem met BitLocker verhelpt op Windows 10-systemen met recente Intel-processors. De patch is bedoeld voor apparaten met Intel Trusted Execution Technology die vastlopen na een eerdere beveiligingsupdate.</description>
-            <author>Andrei Stiru</author>
-            <category>Nieuws / Computers / Besturingssystemen</category>
-            <comments>https://tweakers.net/nieuws/235210/microsoft-lost-bitlocker-problemen-windows-10-op-met-spoedpatch.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235210</guid>
-            <pubDate>Tue, 20 May 2025 14:02:14 +0200</pubDate>
-        </item>
-        <item>
-            <title>Corsair Frame 5000D is groter dan 4000D en heeft geperforeerde moederbordmount</title>
-            <link>https://tweakers.net/nieuws/235214/corsair-frame-5000d-is-groter-dan-4000d-en-heeft-geperforeerde-moederbordmount.html</link>
-            <description>Corsair komt met een nieuwe versie van de modulaire Frame-behuizing, de Frame 5000D. Dit model is aanzienlijk groter dan het vorige en heeft ondersteuning voor &#039;kabelloze&#039; moederborden. Daarnaast brengt het bedrijf de Frame 4500X en de Air 5400 uit.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Behuizingen</category>
-            <comments>https://tweakers.net/nieuws/235214/corsair-frame-5000d-is-groter-dan-4000d-en-heeft-geperforeerde-moederbordmount.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235214</guid>
-            <pubDate>Tue, 20 May 2025 13:58:28 +0200</pubDate>
         </item>
     </channel>
 </rss>
