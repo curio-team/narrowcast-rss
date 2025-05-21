@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 20 May 2025 16:31:02 +0200</pubDate>
-        <lastBuildDate>Tue, 20 May 2025 16:31:02 +0200</lastBuildDate>
+        <pubDate>Wed, 21 May 2025 09:31:01 +0200</pubDate>
+        <lastBuildDate>Wed, 21 May 2025 09:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,9 +18,249 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
+            <title>Teufel introduceert modulaire opensource bluetoothspeaker MYND</title>
+            <link>https://tweakers.net/nieuws/235276/teufel-introduceert-modulaire-opensource-bluetoothspeaker-mynd.html</link>
+            <description>De Duitse audiofabrikant Teufel introduceert een nieuwe modulaire opensource bluetoothspeaker. Diverse onderdelen van de MYND-luidspreker kunnen worden vervangen. Ook zijn de schakelschema&#039;s en 3D-modellen openbaar gemaakt.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / Beeld en geluid / Speakers</category>
+            <comments>https://tweakers.net/nieuws/235276/teufel-introduceert-modulaire-opensource-bluetoothspeaker-mynd.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235276</guid>
+            <pubDate>Wed, 21 May 2025 09:22:11 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Tails 6.15.1</title>
+            <link>https://tweakers.net/downloads/72720/tails-6151.html</link>
+            <description>Tails staat voor &#039;The amnesic incognito live system&#039; en is een live Linux-distributie die zich richt op privacy en anonimiteit. Als basis maakt het gebruik van Debian GNU/Linux en het voegt daaraan een Gnome-omgeving met Tor, Tor Browser, Pidgin, Thunderbird, Electrum, LibreOffice, GPG en KeePassXC toe. Voor meer informatie verwijzen we naar deze pagina. Versie 6 is op Debian 12 gebaseerd en heeft Gnome 43 als desktopomgeving. In versie 6.15.1 zijn de volgende veranderingen en verbeteringen aangebracht: Changes and updates</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72720/tails-6151.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72720</guid>
+            <pubDate>Wed, 21 May 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Fortnite is weer beschikbaar in Apple App Store in de Verenigde Staten</title>
+            <link>https://tweakers.net/nieuws/235274/fortnite-is-weer-beschikbaar-in-apple-app-store-in-de-verenigde-staten.html</link>
+            <description>Fortnite is na bijna vijf jaar weer beschikbaar in de Amerikaanse App Store van Apple. De populaire battleroyalegame werd in 2020 door Apple uit de appwinkel verwijderd en keerde jarenlang niet terug door een juridisch conflict tussen Apple en Fortnite-maker Epic Games.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/235274/fortnite-is-weer-beschikbaar-in-apple-app-store-in-de-verenigde-staten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235274</guid>
+            <pubDate>Wed, 21 May 2025 08:28:12 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - EssentialPIM 12.2.2</title>
+            <link>https://tweakers.net/downloads/72718/essentialpim-1222.html</link>
+            <description>Astonsoft heeft versie 12.2.2 van EssentialPIM uitgebracht. Deze personal information manager maakt het mogelijk om afspraken bij te houden, een adresboek te beheren en e-mails te versturen en ontvangen. Het programma is in diverse talen te gebruiken, waaronder het Nederlands. EssentialPIM is beschikbaar in een standaard- en een pro-uitvoering. De eerste is gratis, maar heeft minder functies. Zo kan er niet met de clouddiensten van bijvoorbeeld Microsoft, Google, Apple of Dropbox worden gesynchroniseerd. Een compleet overzicht van de onderlinge verschillen is op deze pagina te vinden. Uitgebreide informatie over versie 12 zijn op deze pagina te vinden. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: What’s New &amp; Improved in Version 12.2.2:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72718/essentialpim-1222.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72718</guid>
+            <pubDate>Wed, 21 May 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>AMD kondigt Radeon AI PRO R9700 aan: een zakelijke RX 9070 XT met 32GB vram</title>
+            <link>https://tweakers.net/nieuws/235270/amd-kondigt-radeon-ai-pro-r9700-aan-een-zakelijke-rx-9070-xt-met-32gb-vram.html</link>
+            <description>AMD heeft zijn Radeon AI PRO R9700-videokaart aangekondigd tijdens de Computex. Het gaat in feite om een zakelijke variant van de Radeon RX 9070 XT, die is voorzien van dubbel zoveel geheugen. De release vindt in juli plaats.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/235270/amd-kondigt-radeon-ai-pro-r9700-aan-een-zakelijke-rx-9070-xt-met-32gb-vram.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235270</guid>
+            <pubDate>Wed, 21 May 2025 06:01:28 +0200</pubDate>
+        </item>
+        <item>
+            <title>FSR 4-upscalingtechniek van AMD krijgt dit jaar AI-framegeneration en meer</title>
+            <link>https://tweakers.net/nieuws/235196/fsr-4-upscalingtechniek-van-amd-krijgt-dit-jaar-ai-framegeneration-en-meer.html</link>
+            <description>AMD geeft zijn FSR4-upscalingtechniek binnenkort een upgrade. Deze nieuwe versie, die de codenaam Redstone krijgt, krijgt onder andere framegeneration op basis van AI en moet beter presteren bij het gebruik van raytracing. FSR Redstone verschijnt in de tweede helft van dit jaar.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/235196/fsr-4-upscalingtechniek-van-amd-krijgt-dit-jaar-ai-framegeneration-en-meer.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235196</guid>
+            <pubDate>Wed, 21 May 2025 05:35:07 +0200</pubDate>
+        </item>
+        <item>
+            <title>AMD voorziet Threadripper 9000-cpu&#039;s van maximaal 96 Zen 5-cores</title>
+            <link>https://tweakers.net/nieuws/235268/amd-voorziet-threadripper-9000-cpus-van-maximaal-96-zen-5-cores.html</link>
+            <description>AMD komt met nieuwe Threadripper 9000-processors. Deze zijn gebaseerd op de Zen 5-architectuur die het bedrijf ook al gebruikt in zijn Ryzen 9000- en EPYC Turin-cpu&#039;s. De chips komen beschikbaar met maximaal 96 cores en verschijnen in juli.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/235268/amd-voorziet-threadripper-9000-cpus-van-maximaal-96-zen-5-cores.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235268</guid>
+            <pubDate>Wed, 21 May 2025 05:06:38 +0200</pubDate>
+        </item>
+        <item>
+            <title>AMD brengt Radeon RX 9060 XT-videokaart op 5 juni uit vanaf 320 euro</title>
+            <link>https://tweakers.net/nieuws/235192/amd-brengt-radeon-rx-9060-xt-videokaart-op-5-juni-uit-vanaf-320-euro.html</link>
+            <description>AMD heeft de Radeon RX 9060 XT aangekondigd. Het is een midrangevideokaart op basis van de RDNA4-architectuur, die eerder dit jaar zijn debuut maakte in de RX 9070-serie. De kaart komt op 5 juni uit in varianten met 8GB en 16GB vram, respectievelijk vanaf omgerekend 320 en 374 euro.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/235192/amd-brengt-radeon-rx-9060-xt-videokaart-op-5-juni-uit-vanaf-320-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235192</guid>
+            <pubDate>Wed, 21 May 2025 05:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Video - Google toont nieuwste AI-ontwikkelingen - Tweakers Update</title>
+            <link>https://tweakers.net/video/19910/google-toont-nieuwste-ai-ontwikkelingen-tweakers.html</link>
+            <description>Google heeft op ontwikkelaarsconferentie I/O laten zien welke stappen het bedrijf heeft gezet op het gebied van AI. Zo kwam Gemini aan bod, maar ook Veo en Flow. Ook was er ruimte voor hardware met slimme brillen met Android XR, en videobellen in 3D met Google Beam.</description>
+            <author>Mark van der Kruit</author>
+            <category>Video / IT Pro / Internet</category>
+            <comments>https://tweakers.net/video/19910/google-toont-nieuwste-ai-ontwikkelingen-tweakers.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/video/19910</guid>
+            <pubDate>Tue, 20 May 2025 23:10:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google toont demo van interface op slimme bril met Android XR</title>
+            <link>https://tweakers.net/nieuws/235266/google-toont-demo-van-interface-op-slimme-bril-met-android-xr.html</link>
+            <description>Google heeft een demonstratie getoond van een slimme bril met Android XR. Met een speaker, camera, luidspreker en scherm heeft het prototype veel weg van een doorontwikkeling van Google Glass van meer dan tien jaar geleden.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Gaming / VR-brillen</category>
+            <comments>https://tweakers.net/nieuws/235266/google-toont-demo-van-interface-op-slimme-bril-met-android-xr.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235266</guid>
+            <pubDate>Tue, 20 May 2025 21:03:29 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google Veo 3 kan video&#039;s met geluid en spraak produceren</title>
+            <link>https://tweakers.net/nieuws/235264/google-veo-3-kan-videos-met-geluid-en-spraak-produceren.html</link>
+            <description>Google Veo 3 kan naast video ook audio en spraak produceren, zo heeft het zoekbedrijf aangekondigd. Vorige versies konden alleen video maken. Bovendien snapt het AI-model natuurwetten beter.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Fotografie en video</category>
+            <comments>https://tweakers.net/nieuws/235264/google-veo-3-kan-videos-met-geluid-en-spraak-produceren.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235264</guid>
+            <pubDate>Tue, 20 May 2025 20:43:11 +0200</pubDate>
+        </item>
+        <item>
+            <title>Chrome krijgt Google Gemini-integratie</title>
+            <link>https://tweakers.net/nieuws/235262/chrome-krijgt-google-gemini-integratie.html</link>
+            <description>Google-browser Chrome krijgt integratie met Googles eigen AI-chatbot Gemini. Zo kunnen gebruikers dingen gaan vragen aan de chatbot die daarbij de context van de internetpagina meeneemt in het antwoord.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Computers / Browsers</category>
+            <comments>https://tweakers.net/nieuws/235262/chrome-krijgt-google-gemini-integratie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235262</guid>
+            <pubDate>Tue, 20 May 2025 20:27:27 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google demonstreert functie om online kleding te proberen</title>
+            <link>https://tweakers.net/nieuws/235260/google-demonstreert-functie-om-online-kleding-te-proberen.html</link>
+            <description>Google heeft een functie binnen Shopping getoond, waarmee gebruikers kleding virtueel kunnen passen. Op basis van een foto en kennis over het materiaal en de kleur schat de software in hoe de kleding zal vallen.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Internet</category>
+            <comments>https://tweakers.net/nieuws/235260/google-demonstreert-functie-om-online-kleding-te-proberen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235260</guid>
+            <pubDate>Tue, 20 May 2025 20:15:47 +0200</pubDate>
+        </item>
+        <item>
+            <title>AI-modus in Google Zoeken krijgt koppeling met Gmail en Deep Search</title>
+            <link>https://tweakers.net/nieuws/235258/ai-modus-in-google-zoeken-krijgt-koppeling-met-gmail-en-deep-search.html</link>
+            <description>De AI-modus in Google Zoeken krijgt een koppeling met Gmail en krijgt de mogelijkheid voor Deep Search. Dat heeft Google aangekondigd in de keynote van zijn ontwikkelaarsconferentie I/O. De AI-modus is nog niet beschikbaar in Nederland en België.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Internet</category>
+            <comments>https://tweakers.net/nieuws/235258/ai-modus-in-google-zoeken-krijgt-koppeling-met-gmail-en-deep-search.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235258</guid>
+            <pubDate>Tue, 20 May 2025 20:15:40 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gemini 2.5 Pro krijgt Deep Think-functie</title>
+            <link>https://tweakers.net/nieuws/235256/gemini-25-pro-krijgt-deep-think-functie.html</link>
+            <description>Gemini 2.5 Pro van Google krijgt een Deep Think-functie. Die moet betere antwoorden mogelijk maken. Eerst gaat het bedrijf de functie testen om te bepalen of er veiligheidsrisico&#039;s zitten aan het beschikbaar maken van Deep Think.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Internet</category>
+            <comments>https://tweakers.net/nieuws/235256/gemini-25-pro-krijgt-deep-think-functie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235256</guid>
+            <pubDate>Tue, 20 May 2025 19:45:02 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gmail gaat privé-info en toon gebruiker gebruiken in AI-antwoorden</title>
+            <link>https://tweakers.net/nieuws/235254/gmail-gaat-prive-info-en-toon-gebruiker-gebruiken-in-ai-antwoorden.html</link>
+            <description>Gmail krijgt een functie om gepersonaliseerde antwoorden op mails te formuleren. Daardoor moet de software informatie uit onder meer Drive en Sheets kunnen gebruiken om een antwoord te formuleren met het taalgebruik dat de gebruiker zelf ook zou hebben.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Computers / Operating systems</category>
+            <comments>https://tweakers.net/nieuws/235254/gmail-gaat-prive-info-en-toon-gebruiker-gebruiken-in-ai-antwoorden.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235254</guid>
+            <pubDate>Tue, 20 May 2025 19:33:08 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google Meet krijgt realtime-vertalingen</title>
+            <link>https://tweakers.net/nieuws/235252/google-meet-krijgt-realtime-vertalingen.html</link>
+            <description>Google Meet krijgt realtime-vertalingen. Daarbij gaat de software vertalingen geven van spraak in de taal van de ontvanger. Voorlopig gaat het nog om vertalingen tussen Spaans en Engels, meer talen volgen.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Computers / Software</category>
+            <comments>https://tweakers.net/nieuws/235252/google-meet-krijgt-realtime-vertalingen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235252</guid>
+            <pubDate>Tue, 20 May 2025 19:20:52 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google kondigt 3D-videobelapparaten aan</title>
+            <link>https://tweakers.net/nieuws/235250/google-kondigt-3d-videobelapparaten-aan.html</link>
+            <description>Google heeft een 3D-videobelplatform aangekondigd onder de naam Beam. HP gaat de eerste apparaten maken met de technologie. Beam gebruikt zes camera&#039;s in het frame van een beeldscherm om een 3D-beeld te maken.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Beeld en geluid / Televisies</category>
+            <comments>https://tweakers.net/nieuws/235250/google-kondigt-3d-videobelapparaten-aan.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235250</guid>
+            <pubDate>Tue, 20 May 2025 19:15:48 +0200</pubDate>
+        </item>
+        <item>
+            <title>Firmware-update - Asustor ADM 5.0.0.RHJ2</title>
+            <link>https://tweakers.net/downloads/72716/asustor-adm-500rhj2.html</link>
+            <description>Asustor heeft een nieuwe versie van Asustor Data Master versie 5.0 uitgebracht, de beheersoftware voor al zijn nasproducten. Voor meer informatie over ADM 5 verwijzen we naar deze pagina. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Important Notes:</description>
+            <author>Bart van Klaveren</author>
+            <category>Firmware</category>
+            <comments>https://tweakers.net/downloads/72716/asustor-adm-500rhj2.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72716</guid>
+            <pubDate>Tue, 20 May 2025 19:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Voorgestelde EU-regel maakt pakketjes uit China 2 euro duurder</title>
+            <link>https://tweakers.net/nieuws/235248/voorgestelde-eu-regel-maakt-pakketjes-uit-china-2-euro-duurder.html</link>
+            <description>De Europese Unie krijgt mogelijk een importheffing van 2 euro per pakket op pakketten die afkomstig zijn van buiten de EU. Dat gaat vooral Nederlanders en Belgen treffen, want die kopen het meeste in China.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/235248/voorgestelde-eu-regel-maakt-pakketjes-uit-china-2-euro-duurder.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235248</guid>
+            <pubDate>Tue, 20 May 2025 18:24:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Elgato brengt softwareversie van Stream Deck uit</title>
+            <link>https://tweakers.net/nieuws/235246/elgato-brengt-softwareversie-van-stream-deck-uit.html</link>
+            <description>Elgato, een dochtermerk van Corsair, brengt een virtuele versie van de Stream Deck uit, zijn apparaat met sneltoetsen. De virtuele versie is er vooralsnog alleen voor klanten die een fysieke versie of bepaalde producten van Corsair bezitten.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Computers / Toetsenborden</category>
+            <comments>https://tweakers.net/nieuws/235246/elgato-brengt-softwareversie-van-stream-deck-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235246</guid>
+            <pubDate>Tue, 20 May 2025 17:48:19 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Macrium Reflect X 10.0.8576</title>
+            <link>https://tweakers.net/downloads/72714/macrium-reflect-x-1008576.html</link>
+            <description>Paramount Software heeft een nieuwe versie van Macrium Reflect X uitgebracht. Met dit programma kan een diskimage van een partitie of complete harde schijf worden gemaakt. Hiermee kan een beschadigde Windows-installatie worden hersteld, maar het is ook mogelijk om de diskimage aan het systeem te koppelen en er zo individuele bestanden eruit te halen. Voorheen was er ook een gratis uitvoering, maar Paramount Software is daar eind december 2023 mee gestopt. Een licentie kost 42 euro per jaar. De laatste gratis uitgave kan hier nog worden gedownload. Hieronder is de changelog voor deze uitgave te vinden. Updating To This Release</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72714/macrium-reflect-x-1008576.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72714</guid>
+            <pubDate>Tue, 20 May 2025 17:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Intel onderzoekt of het netwerkafdeling kan verkopen</title>
+            <link>https://tweakers.net/nieuws/235230/intel-onderzoekt-of-het-netwerkafdeling-kan-verkopen.html</link>
+            <description>Intel onderzoekt of het zijn divisie dat onder meer chips maakt voor in telecomapparatuur kan verkopen. Het bedrijf ziet het onderdeel niet langer als cruciaal en wil er daarom van af. De omzet van de divisie was vorig jaar 5,8 miljard dollar.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/235230/intel-onderzoekt-of-het-netwerkafdeling-kan-verkopen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235230</guid>
+            <pubDate>Tue, 20 May 2025 16:45:44 +0200</pubDate>
+        </item>
+        <item>
+            <title>MSI brengt Mpower-moederbord voor overklokkers uit met AMD-chipset</title>
+            <link>https://tweakers.net/nieuws/235234/msi-brengt-mpower-moederbord-voor-overklokkers-uit-met-amd-chipset.html</link>
+            <description>MSI heeft een nieuwe versie van zijn MPower-moederbord aangekondigd dat met AMD&#039;s Ryzen-processors werkt. Het mini-ATX-moederbord voor overklokkers was voorheen alleen beschikbaar met een Intel-chipset, maar komt er nu ook met AMD&#039;s B850E-chipset voor AM5-processors.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Moederborden</category>
+            <comments>https://tweakers.net/nieuws/235234/msi-brengt-mpower-moederbord-voor-overklokkers-uit-met-amd-chipset.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235234</guid>
+            <pubDate>Tue, 20 May 2025 16:44:49 +0200</pubDate>
+        </item>
+        <item>
             <title>Firmware-update - Asustor ADM 4.3.3.RH61</title>
             <link>https://tweakers.net/downloads/72712/asustor-adm-433rh61.html</link>
-            <description>Asustor heeft een nieuwe versie van Asustor Data Master uitgebracht, de beheersoftware voor al zijn nasproducten. Voor meer informatie over ADM verwijzen we naar deze pagina. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Important Notes:</description>
+            <description>Asustor heeft een nieuwe versie van Asustor Data Master 4.3 uitgebracht, de beheersoftware voor al zijn nasproducten. Voor meer informatie over ADM 4.3 verwijzen we naar deze pagina. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Important Notes:</description>
             <author>Bart van Klaveren</author>
             <category>Firmware</category>
             <comments>https://tweakers.net/downloads/72712/asustor-adm-433rh61.html#reacties</comments>
@@ -72,7 +312,7 @@
             <link>https://tweakers.net/nieuws/235228/nzxt-voegt-420mm-model-toe-aan-kraken-elite-aio-koelers-en-vernieuwt-plus-serie.html</link>
             <description>NZXT brengt een Elite-model uit in de Kraken-lijn van aio-koelers met een radiator van 420mm. Ook komt NZXT met nieuwe versies van de Kraken Plus-aio-koelers die &#039;betere prestaties&#039; en een nieuwe pomp hebben.</description>
             <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Waterkoeling</category>
+            <category>Nieuws / </category>
             <comments>https://tweakers.net/nieuws/235228/nzxt-voegt-420mm-model-toe-aan-kraken-elite-aio-koelers-en-vernieuwt-plus-serie.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235228</guid>
             <pubDate>Tue, 20 May 2025 15:07:20 +0200</pubDate>
@@ -176,246 +416,6 @@
             <comments>https://tweakers.net/nieuws/235208/realme-introduceert-gt-7-met-een-vanafprijs-van-650-euro.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235208</guid>
             <pubDate>Tue, 20 May 2025 13:04:47 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Q-Dir 12.21</title>
-            <link>https://tweakers.net/downloads/72708/q-dir-1221.html</link>
-            <description>Software OK heeft versie 12.21 van de gratis filemanager Q-Dir uitgebracht. Het ziet er een beetje uit als Windows Verkenner, maar dan met vier schermen, waardoor het eenvoudig is om bestanden te verplaatsen, beheren of bekijken. Dit verklaart ook meteen de naam: de Q staat voor quad. De download is ongeveer een megabyte groot en het programma is in verschillende talen te gebruiken, waaronder in het Nederlands. De changelog sinds versie 12.18 ziet er als volgt uit: New in version 12.21:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72708/q-dir-1221.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72708</guid>
-            <pubDate>Tue, 20 May 2025 12:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Recycling van EV-accu&#039;s stijgt met vijftig procent in Nederland</title>
-            <link>https://tweakers.net/nieuws/235206/recycling-van-ev-accus-stijgt-met-vijftig-procent-in-nederland.html</link>
-            <description>Het volume van gerecyclede accu&#039;s uit elektrische auto&#039;s in Nederland steeg in 2024 met vijftig procent. Dat blijkt uit cijfers van Auto Recycling Nederland. Zowel het aantal aangeboden accu’s als het percentage dat effectief werd gerecycled, zijn gestegen.</description>
-            <author>Andrei Stiru</author>
-            <category>Nieuws / IT Pro / Marktontwikkelingen</category>
-            <comments>https://tweakers.net/nieuws/235206/recycling-van-ev-accus-stijgt-met-vijftig-procent-in-nederland.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235206</guid>
-            <pubDate>Tue, 20 May 2025 11:19:56 +0200</pubDate>
-        </item>
-        <item>
-            <title>Achtergrond - Overzicht: al het Computex-nieuws per categorie verzameld</title>
-            <link>https://tweakers.net/reviews/13304/overzicht-al-het-computex-nieuws-per-categorie-verzameld.html</link>
-            <description>In dit artikel vind je al onze berichtgeving terug over Computex in 2025</description>
-            <author>Tijs Hofmans</author>
-            <category>Achtergrond / Computers / Processors</category>
-            <comments>https://tweakers.net/reviews/13304/overzicht-al-het-computex-nieuws-per-categorie-verzameld.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13304</guid>
-            <pubDate>Tue, 20 May 2025 11:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Huawei brengt eerste laptops met eigen HarmonyOS uit</title>
-            <link>https://tweakers.net/nieuws/235202/huawei-brengt-eerste-laptops-met-eigen-harmonyos-uit.html</link>
-            <description>Huawei heeft twee nieuwe laptopmodellen geïntroduceerd die draaien op het eigen HarmonyOS 5-besturingssysteem. Dit zijn de eerste laptops van het bedrijf die op het nieuwe besturingssysteem draaien.</description>
-            <author>Andrei Stiru</author>
-            <category>Nieuws / Computers / Laptops</category>
-            <comments>https://tweakers.net/nieuws/235202/huawei-brengt-eerste-laptops-met-eigen-harmonyos-uit.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235202</guid>
-            <pubDate>Tue, 20 May 2025 10:52:49 +0200</pubDate>
-        </item>
-        <item>
-            <title>Driver-update - GeForce Game Ready Driver 576.52 WHQL</title>
-            <link>https://tweakers.net/downloads/72710/geforce-game-ready-driver-57652-whql.html</link>
-            <description>Nvidia heeft nieuwe stabiele GeForce-drivers uitgebracht. De drivers dragen versienummer 576.52 en zijn voorzien van een Windows Hardware Quality Labs-certificaat. Ze zijn geschikt voor Windows 10 en hoger, en kunnen worden gebruikt op kaarten gebaseerd op de Maxwell-architectuur of nieuwer. Deze uitgave bevat onder meer ondersteuning voor de nieuwe GeForce RTX 5060, en zijn er weer enkele problemen verholpen. Gaming Technology</description>
-            <author>Bart van Klaveren</author>
-            <category>Driver</category>
-            <comments>https://tweakers.net/downloads/72710/geforce-game-ready-driver-57652-whql.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72710</guid>
-            <pubDate>Tue, 20 May 2025 10:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nieuwe ASUS NUC in ROG-lijn heeft RTX 5080-gpu en Arrow Lake-soc</title>
-            <link>https://tweakers.net/nieuws/235200/nieuwe-asus-nuc-in-rog-lijn-heeft-rtx-5080-gpu-en-arrow-lake-soc.html</link>
-            <description>ASUS introduceert twee nieuwe versies van zijn NUC 15 uit. De NUC 15 Performance en de ROG NUC zijn technisch gezien hetzelfde apparaat, met verschil in de de behuizing en gpu. De apparaten hebben een gpu uit de RTX 5000-serie aan boord en beschikken over een iets krachtigere Arrow Lake-processor.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / </category>
-            <comments>https://tweakers.net/nieuws/235200/nieuwe-asus-nuc-in-rog-lijn-heeft-rtx-5080-gpu-en-arrow-lake-soc.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235200</guid>
-            <pubDate>Tue, 20 May 2025 10:18:42 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Paint.NET 5.1.8</title>
-            <link>https://tweakers.net/downloads/72706/paint-punt-net-518.html</link>
-            <description>Versie 5.1.8 van Paint.NET is uitgekomen. Dit teken- en beeldbewerkingsprogramma slaat een brug tussen het met Windows meegeleverde Paint en dure maar zeer uitgebreide programma&#039;s als Adobe Photoshop en Corel Photo Paint. Het programma is via de website van de maker op te halen, maar kan voor een kleine vergoeding ook via de Windows Store worden verkregen. Versie 5.1 heeft onder meer compleet kleurbeheer, ondersteuning voor hdr- en widecolorgamutschermen, en alle effecten worden nu door de grafische kaart aangestuurd en niet door de processor. In deze update zijn verder nog de volgende veranderingen en verbeteringen aangebracht: Changes since 5.1.7:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72706/paint-punt-net-518.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72706</guid>
-            <pubDate>Tue, 20 May 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Omrop Fryslân onderschept gegevens door ontbrekende domeinnaam Dantumadiel</title>
-            <link>https://tweakers.net/nieuws/235194/omrop-fryslan-onderschept-gegevens-door-ontbrekende-domeinnaam-dantumadiel.html</link>
-            <description>Een onderzoek van Omrop Fryslân heeft aangetoond dat de gemeente Dantumadiel jarenlang gevoelige informatie van inwoners heeft blootgesteld door het niet huren van een .nl-domein. De omroep kon de domeinnaam makkelijk zelf huren.</description>
-            <author>Andrei Stiru</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/235194/omrop-fryslan-onderschept-gegevens-door-ontbrekende-domeinnaam-dantumadiel.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235194</guid>
-            <pubDate>Tue, 20 May 2025 08:46:30 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Adv - E-bike-testevent in Amsterdam: communitytest Tenways CG0800S en CGO009</title>
-            <link>https://tweakers.net/plan/4410/e-bike-testevent-in-amsterdam-communitytest-tenways-cg0800s-en-cgo009.html</link>
-            <description>Begin april organiseerde Tweakers Partners samen met Tenways een kick-off-event in Amsterdam. 10 tweakers crosten, gezeten op een Tenways CGO800S of een Tenways CGO009, tijdens een speurtocht door Amsterdam, als eerste kennismaking met de twee citybikes. Na afloop kregen alle communityleden een fiets naar keuze thuisgestuurd om hem een aantal weken te testen. De belangrijkste ervaringen hebben we voor jullie verzameld.</description>
-            <author>Tweakers Partners</author>
-            <category>.adv</category>
-            <comments>https://tweakers.net/plan/4410/e-bike-testevent-in-amsterdam-communitytest-tenways-cg0800s-en-cgo009.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/plan/4410</guid>
-            <pubDate>Tue, 20 May 2025 08:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>F1 TV ondersteunt nu multiview en hdr op smartphones met Android</title>
-            <link>https://tweakers.net/nieuws/235188/f1-tv-ondersteunt-nu-multiview-en-hdr-op-smartphones-met-android.html</link>
-            <description>F1 TV heeft versie 3.0.37-SP134.3.1 van zijn Android-app uitgebracht met ondersteuning voor multiview, waarmee gebruikers meerdere videostreams tegelijk kunnen bekijken. De functie is voorlopig alleen beschikbaar op smartphones met Android 14 of nieuwer.</description>
-            <author>Andrei Stiru</author>
-            <category>Nieuws / Beeld en geluid / TV en home cinema</category>
-            <comments>https://tweakers.net/nieuws/235188/f1-tv-ondersteunt-nu-multiview-en-hdr-op-smartphones-met-android.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235188</guid>
-            <pubDate>Tue, 20 May 2025 07:48:14 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - PowerToys 0.91.1</title>
-            <link>https://tweakers.net/downloads/72704/powertoys-0911.html</link>
-            <description>Microsoft heeft een update voor versie 0.91.0 van PowerToys uitgebracht. De PowerToys zijn een verzameling kleine programma&#039;s voor powerusers. Er waren PowerToys voor Windows 95 en Windows XP, en sinds halverwege 2019 is Microsoft ook bezig met de ontwikkeling van een versie voor Windows 10 en hoger. De PowerToys bestaan onder meer uit Awake, Color Picker, FancyZones, File Explorer Add-ons, Image Resizer, Keyboard Manager, PowerRename, PowerToys Run, Shortcut Guide en de Video Conference Mute. In deze uitgave zijn de volgende verbeteringen aangebracht: Highlights</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72704/powertoys-0911.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72704</guid>
-            <pubDate>Tue, 20 May 2025 07:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>MediaTek werkt aan zijn eerste 2nm-chip en belooft tape-out in september</title>
-            <link>https://tweakers.net/nieuws/235184/mediatek-werkt-aan-zijn-eerste-2nm-chip-en-belooft-tape-out-in-september.html</link>
-            <description>MediaTek ontwikkelt zijn eerste &#039;2nm&#039;-chip in samenwerking met TSMC. Dat bevestigde ceo Rick Tsai op de Computex in Taiwan. De topman deelde tijdens zijn keynote weinig details over de chip in kwestie, maar zei wel dat de tape-out in september moet plaatsvinden.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / Processors</category>
-            <comments>https://tweakers.net/nieuws/235184/mediatek-werkt-aan-zijn-eerste-2nm-chip-en-belooft-tape-out-in-september.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235184</guid>
-            <pubDate>Tue, 20 May 2025 07:23:33 +0200</pubDate>
-        </item>
-        <item>
-            <title>Slachtoffers van digitale misdaad worden voortaan thuis bezocht door politie</title>
-            <link>https://tweakers.net/nieuws/235186/slachtoffers-van-digitale-misdaad-worden-voortaan-thuis-bezocht-door-politie.html</link>
-            <description>De Nederlandse politie reageert vanaf 19 mei in het hele land met een thuisbezoek op meldingen van digitale criminaliteit, vergelijkbaar met de aanpak bij traditionele misdrijven. Deze werkwijze liep sinds 2023 als pilot in Oost-Nederland.</description>
-            <author>Andrei Stiru</author>
-            <category>Nieuws / IT Pro / Economie en maatschappij</category>
-            <comments>https://tweakers.net/nieuws/235186/slachtoffers-van-digitale-misdaad-worden-voortaan-thuis-bezocht-door-politie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235186</guid>
-            <pubDate>Tue, 20 May 2025 07:14:17 +0200</pubDate>
-        </item>
-        <item>
-            <title>Review - NZXT H3 Flow - De kleinste uit de H-serie</title>
-            <link>https://tweakers.net/reviews/13288/nzxt-h3-flow-de-kleinste-uit-de-h-serie.html</link>
-            <description>Met een adviesprijs van 80 euro is de H3 Flow redelijk budgetvriendelijk geprijsd. Hij voelt niet echt als een budgetkast en presteert ook wat beter.</description>
-            <author>Willem de Moor</author>
-            <category>Review / Computers / Behuizingen</category>
-            <comments>https://tweakers.net/reviews/13288/8/nzxt-h3-flow-de-kleinste-uit-de-h-serie-conclusie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13288</guid>
-            <pubDate>Tue, 20 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Review - NZXT H9 Flow - De grootste uit de H-serie</title>
-            <link>https://tweakers.net/reviews/13282/nzxt-h9-flow-de-grootste-uit-de-h-serie.html</link>
-            <description>De H9 Flow kent drie versies, de eenvoudigste voor 180 euro. Het is de grootste NZXT-kast, die eigenlijk op je bureau hoort, gezien de twee glazen panelen.</description>
-            <author>Willem de Moor</author>
-            <category>Review / Computers / Behuizingen</category>
-            <comments>https://tweakers.net/reviews/13282/8/nzxt-h9-flow-de-grootste-uit-de-h-serie-conclusie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13282</guid>
-            <pubDate>Tue, 20 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft brengt opensource teksteditor voor in PowerShell genaamd Edit uit</title>
-            <link>https://tweakers.net/nieuws/235180/microsoft-brengt-opensource-teksteditor-voor-in-powershell-genaamd-edit-uit.html</link>
-            <description>Microsoft heeft een tekstverwerker voor de command line uitgebracht. Edit is bedoeld voor Windows en kan worden gebruikt in de Terminal, vergelijkbaar met editors zoals Nano of vim. Het programma is opensource beschikbaar.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Software development</category>
-            <comments>https://tweakers.net/nieuws/235180/microsoft-brengt-opensource-teksteditor-voor-in-powershell-genaamd-edit-uit.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235180</guid>
-            <pubDate>Mon, 19 May 2025 20:55:32 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Documentairemakers delen trailer over oprichting van Python door Nederlander</title>
-            <link>https://tweakers.net/geek/235176/documentairemakers-delen-trailer-over-oprichting-van-python-door-nederlander.html</link>
-            <description>Er komt een documentaire over de oprichting van Python. YouTube-kanaal CultRepo heeft een eerste trailer van de documentaire online gezet, waarin veel Nederlandse ontwikkelaars zoals Guido van Rossum te zien zijn. Hij is de informaticus die Python ontwierp.</description>
-            <author>Tijs Hofmans</author>
-            <category>.Geek / IT Pro / Software development</category>
-            <comments>https://tweakers.net/geek/235176/documentairemakers-delen-trailer-over-oprichting-van-python-door-nederlander.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/235176</guid>
-            <pubDate>Mon, 19 May 2025 20:42:53 +0200</pubDate>
-        </item>
-        <item>
-            <title>GOG laat gebruikers accounts via authenticatie-apps beveiligen</title>
-            <link>https://tweakers.net/nieuws/235172/gog-laat-gebruikers-accounts-via-authenticatie-apps-beveiligen.html</link>
-            <description>Gamewinkel GOG voegt bescherming via multifactorauthenticatieapps toe aan accounts. Het is vooralsnog alleen mogelijk authenticatie-apps te gebruiken en geen hardwaresleutels.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/235172/gog-laat-gebruikers-accounts-via-authenticatie-apps-beveiligen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235172</guid>
-            <pubDate>Mon, 19 May 2025 20:29:47 +0200</pubDate>
-        </item>
-        <item>
-            <title>ASUS toont nieuwe TUF Gaming T500-desktops met RTX 5060Ti en laptopprocessor</title>
-            <link>https://tweakers.net/nieuws/235170/asus-toont-nieuwe-tuf-gaming-t500-desktops-met-rtx-5060ti-en-laptopprocessor.html</link>
-            <description>ASUS heeft tijdens de Computex-beurs de TUF Gaming T500 getoond. Dat zijn kant-en-klare desktops die voor gaming bedoeld zijn, maar gebruikmaken van laptopprocessors van Intel. De computers hebben daarentegen wel een volwaardige RTX-gpu, maximaal een 5060Ti-model.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / </category>
-            <comments>https://tweakers.net/nieuws/235170/asus-toont-nieuwe-tuf-gaming-t500-desktops-met-rtx-5060ti-en-laptopprocessor.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235170</guid>
-            <pubDate>Mon, 19 May 2025 20:24:13 +0200</pubDate>
-        </item>
-        <item>
-            <title>ASUS toont ROG Strix GS-gamingrouter met acht 2,5Gbit-ethernetpoorten</title>
-            <link>https://tweakers.net/nieuws/235168/asus-toont-rog-strix-gs-gamingrouter-met-acht-2-komma-5gbit-ethernetpoorten.html</link>
-            <description>ASUS heeft een router getoond onder het Strix-merk die op zowel de 2,4-, 5- als 6GHz-band werkt. De ROG Strix GS BE18000 heeft acht ethernetpoorten voor 2,5Gbit-verbindingen. De kosten en releasedatum van het apparaat zijn niet bekend.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Modems en routers</category>
-            <comments>https://tweakers.net/nieuws/235168/asus-toont-rog-strix-gs-gamingrouter-met-acht-2-komma-5gbit-ethernetpoorten.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235168</guid>
-            <pubDate>Mon, 19 May 2025 19:50:12 +0200</pubDate>
-        </item>
-        <item>
-            <title>Gigabyte toont Aorus AI Box-egpu met externe RTX 5090</title>
-            <link>https://tweakers.net/nieuws/235166/gigabyte-toont-aorus-ai-box-egpu-met-externe-rtx-5090.html</link>
-            <description>Gigabyte heeft de Aorus AI Box getoond, een externe gpu met een Thunderbolt 5-aansluiting. In tegenstelling tot de meeste egpu&#039;s is de AI Box niet bedoeld om de interne kaart te wisselen. Het apparaat en de kaart die erin zitten, worden met water gekoeld.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/nieuws/235166/gigabyte-toont-aorus-ai-box-egpu-met-externe-rtx-5090.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235166</guid>
-            <pubDate>Mon, 19 May 2025 19:11:44 +0200</pubDate>
-        </item>
-        <item>
-            <title>Gigabyte toont eerste oledmonitor met 4-stackpaneel voor hogere helderheid</title>
-            <link>https://tweakers.net/nieuws/235126/gigabyte-toont-eerste-oledmonitor-met-4-stackpaneel-voor-hogere-helderheid.html</link>
-            <description>Gigabyte laat op Computex de MO27Q28G zien, de eerste oledmonitor op basis van een Meta 3.0-woledpaneel. Het 27&quot;-scherm met 2560x1440-pixelresolutie haalt daardoor een piekhelderheid van 1500cd/m². De monitor moet in het derde kwartaal uitkomen.</description>
-            <author>Friso Weijers</author>
-            <category>Nieuws / Computers / Monitors</category>
-            <comments>https://tweakers.net/nieuws/235126/gigabyte-toont-eerste-oledmonitor-met-4-stackpaneel-voor-hogere-helderheid.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235126</guid>
-            <pubDate>Mon, 19 May 2025 18:49:38 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nvidia introduceert RTX PRO-servers met acht gpu&#039;s en 768GB GDDR7-geheugen</title>
-            <link>https://tweakers.net/nieuws/235146/nvidia-introduceert-rtx-pro-servers-met-acht-gpus-en-768gb-gddr7-geheugen.html</link>
-            <description>Nvidia werkt aan nieuwe RTX PRO-servers voor enterprisedoeleinden. Deze servers zijn elk uitgerust met maximaal acht gpu&#039;s op basis van de Blackwell-architectuur en hebben samen bijna 800GB aan gezamenlijk GDDR7-geheugen.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/235146/nvidia-introduceert-rtx-pro-servers-met-acht-gpus-en-768gb-gddr7-geheugen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235146</guid>
-            <pubDate>Mon, 19 May 2025 18:47:49 +0200</pubDate>
-        </item>
-        <item>
-            <title>Preview - Anno 117: Pax Romana - Bouwen, handelen en vechten op zijn Romeins</title>
-            <link>https://tweakers.net/reviews/13298/anno-117-pax-romana-bouwen-handelen-en-vechten-op-zijn-romeins.html</link>
-            <description>De nieuwste Anno-game speelt zich af tijdens het Romeinse Rijk. Als gouverneur van je eigen eiland begin je aan de strijd om totale heerschappij.</description>
-            <author>Jurian Ubachs</author>
-            <category>Preview / Gaming / Games</category>
-            <comments>https://tweakers.net/reviews/13298/4/anno-117-pax-romana-bouwen-handelen-en-vechten-op-zijn-romeins-voorlopige-conclusie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13298</guid>
-            <pubDate>Mon, 19 May 2025 18:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
