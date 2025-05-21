@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 21 May 2025 15:36:04 +0200</pubDate>
-        <lastBuildDate>Wed, 21 May 2025 15:36:04 +0200</lastBuildDate>
+        <pubDate>Wed, 21 May 2025 16:31:04 +0200</pubDate>
+        <lastBuildDate>Wed, 21 May 2025 16:31:04 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,6 +18,46 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
+            <title>Software-update - Total Commander 11.55 RC 3</title>
+            <link>https://tweakers.net/downloads/72730/total-commander-1155-rc-3.html</link>
+            <description>De derde releasecandidate van Total Commander versie 11.55 is verschenen. Dit programma kan als vervanging voor Windows Verkenner worden gebruikt. Doordat het beeld in tweeën is gesplitst, is het eenvoudig om bestanden te kopiëren, maar het programma kan veel meer. Zo zijn er diverse manieren om bestanden aan te passen, zijn een ingebouwde FTP-client en een multirenametool aanwezig, en is er ondersteuning voor een groot aantal compressieformaten. Verder kan de functionaliteit met plug-ins worden uitgebreid. Meer informatie over de veranderingen die in versie 11.55 zijn aangebracht kunnen op deze pagina worden gevonden; in deze derde release candidate zijn verder nog de volgende verbeteringen aangebracht: Added:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72730/total-commander-1155-rc-3.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72730</guid>
+            <pubDate>Wed, 21 May 2025 16:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - GeForce RTX 5060 - Zelfs Nvidia wil geen test van deze gpu</title>
+            <link>https://tweakers.net/reviews/13274/geforce-rtx-5060-zelfs-nvidia-wil-geen-test-van-deze-gpu.html</link>
+            <description>De RTX 5060 is de nieuwe instapper van de 50-serie die volgens Nvidia 324 euro moet kosten. We vergelijken de nieuwe GeForce met zijn voorgangers en de concurrentie.</description>
+            <author>Reinoud Dik</author>
+            <category>Review / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/reviews/13274/17/geforce-rtx-5060-zelfs-nvidia-wil-geen-test-van-deze-gpu-conclusie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13274</guid>
+            <pubDate>Wed, 21 May 2025 16:10:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Corsair kondigt lcd-module voor aio&#039;s en omgedraaide argb-casefans aan</title>
+            <link>https://tweakers.net/nieuws/235310/corsair-kondigt-lcd-module-voor-aios-en-omgedraaide-argb-casefans-aan.html</link>
+            <description>Corsair heeft de RS-R-argb-fans aangekondigd met omgedraaide airflow, die bedoeld zijn voor bijvoorbeeld &#039;vissenkom&#039;-behuizingen. Daarnaast kondigde het bedrijf een module voor aio&#039;s aan, om lcd-loze aio&#039;s van een scherm te voorzien.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Computers / Processorkoeling</category>
+            <comments>https://tweakers.net/nieuws/235310/corsair-kondigt-lcd-module-voor-aios-en-omgedraaide-argb-casefans-aan.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235310</guid>
+            <pubDate>Wed, 21 May 2025 16:09:06 +0200</pubDate>
+        </item>
+        <item>
+            <title>Logitech brengt G522 Lightspeed-gamingheadset in juni uit voor 170 euro</title>
+            <link>https://tweakers.net/nieuws/235306/logitech-brengt-g522-lightspeed-gamingheadset-in-juni-uit-voor-170-euro.html</link>
+            <description>Logitech kondigt de G522 Lightspeed-gamingheadset aan. De draadloze koptelefoon heeft een afneembare boommicrofoon met ledindicator en is voorzien van Lightsync-rgb-verlichting met acht instelbare zones. De G522 Lightspeed kost 170 euro en is vanaf 16 juni verkrijgbaar.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / Gaming / Gaming headsets</category>
+            <comments>https://tweakers.net/nieuws/235306/logitech-brengt-g522-lightspeed-gamingheadset-in-juni-uit-voor-170-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235306</guid>
+            <pubDate>Wed, 21 May 2025 15:47:24 +0200</pubDate>
+        </item>
+        <item>
             <title>Software-update - UCheck 6.3.0</title>
             <link>https://tweakers.net/downloads/72728/ucheck-630.html</link>
             <description>Adlice Software heeft versie 6.3.0 van UCheck uitgebracht. Met dit programma kan de software op de computer up-to-date worden gehouden. Met de gratis uitvoering moet een scan handmatig uitgevoerd worden. De betaalde uitvoering kan dat periodiek automatisch doen en deze kan de ondersteunde programma&#039;s ook installeren als die nog niet op de computer aanwezig zijn. Het programma zelf heeft ondersteuning voor 265 programma&#039;s en via zogenaamde communityupdates zijn dat er vele duizenden meer. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 6.3.0:</description>
@@ -28,7 +68,7 @@
             <pubDate>Wed, 21 May 2025 15:00:00 +0200</pubDate>
         </item>
         <item>
-            <title>Sony brengt 3,5 jaar oude Android TV 12-update naar tv&#039;s uit 2021</title>
+            <title>Sony brengt 3,5 jaar oude Android TV 12-update naar tv&#039;s uit 2021 - update</title>
             <link>https://tweakers.net/nieuws/235304/sony-brengt-3-komma-5-jaar-oude-android-tv-12-update-naar-tvs-uit-2021.html</link>
             <description>Sony heeft een update voor zijn tv&#039;s uit 2021 uitgebracht, die het Android TV-besturingssysteem bijwerkt naar versie 12. De tv&#039;s kwamen oorspronkelijk met Android TV 10. Android TV 12 kwam eind 2021 uit.</description>
             <author>Hayte Hugo</author>
@@ -376,46 +416,6 @@
             <comments>https://tweakers.net/nieuws/235256/gemini-25-pro-krijgt-deep-think-functie.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235256</guid>
             <pubDate>Tue, 20 May 2025 19:45:02 +0200</pubDate>
-        </item>
-        <item>
-            <title>Gmail gaat privé-info en toon gebruiker gebruiken in AI-antwoorden</title>
-            <link>https://tweakers.net/nieuws/235254/gmail-gaat-prive-info-en-toon-gebruiker-gebruiken-in-ai-antwoorden.html</link>
-            <description>Gmail krijgt een functie om gepersonaliseerde antwoorden op mails te formuleren. Daardoor moet de software informatie uit onder meer Drive en Sheets kunnen gebruiken om een antwoord te formuleren met het taalgebruik dat de gebruiker zelf ook zou hebben.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Computers / Operating systems</category>
-            <comments>https://tweakers.net/nieuws/235254/gmail-gaat-prive-info-en-toon-gebruiker-gebruiken-in-ai-antwoorden.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235254</guid>
-            <pubDate>Tue, 20 May 2025 19:33:08 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google Meet krijgt realtimevertalingen</title>
-            <link>https://tweakers.net/nieuws/235252/google-meet-krijgt-realtimevertalingen.html</link>
-            <description>Google Meet krijgt realtimevertalingen. Daarbij gaat de software vertalingen geven van spraak in de taal van de ontvanger. Voorlopig gaat het nog om vertalingen tussen Spaans en Engels, meer talen volgen.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/235252/google-meet-krijgt-realtimevertalingen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235252</guid>
-            <pubDate>Tue, 20 May 2025 19:20:52 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google kondigt 3D-videobelapparaten aan</title>
-            <link>https://tweakers.net/nieuws/235250/google-kondigt-3d-videobelapparaten-aan.html</link>
-            <description>Google heeft een 3D-videobelplatform aangekondigd onder de naam Beam. HP gaat de eerste apparaten maken met de technologie. Beam gebruikt zes camera&#039;s in het frame van een beeldscherm om een 3D-beeld te maken.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Beeld en geluid / Televisies</category>
-            <comments>https://tweakers.net/nieuws/235250/google-kondigt-3d-videobelapparaten-aan.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235250</guid>
-            <pubDate>Tue, 20 May 2025 19:15:48 +0200</pubDate>
-        </item>
-        <item>
-            <title>Firmware-update - Asustor ADM 5.0.0.RHJ2</title>
-            <link>https://tweakers.net/downloads/72716/asustor-adm-500rhj2.html</link>
-            <description>Asustor heeft een nieuwe versie van Asustor Data Master versie 5.0 uitgebracht, de beheersoftware voor al zijn nasproducten. Voor meer informatie over ADM 5 verwijzen we naar deze pagina. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Important Notes:</description>
-            <author>Bart van Klaveren</author>
-            <category>Firmware</category>
-            <comments>https://tweakers.net/downloads/72716/asustor-adm-500rhj2.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72716</guid>
-            <pubDate>Tue, 20 May 2025 19:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
