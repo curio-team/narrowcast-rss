@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 22 May 2025 12:36:02 +0200</pubDate>
-        <lastBuildDate>Thu, 22 May 2025 12:36:02 +0200</lastBuildDate>
+        <pubDate>Thu, 22 May 2025 13:31:05 +0200</pubDate>
+        <lastBuildDate>Thu, 22 May 2025 13:31:05 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Simpel biedt vanaf 26 mei e-sims aan als vervanging voor fysieke simkaarten</title>
+            <link>https://tweakers.net/nieuws/235350/simpel-biedt-vanaf-26-mei-e-sims-aan-als-vervanging-voor-fysieke-simkaarten.html</link>
+            <description>De Nederlandse provider Simpel biedt vanaf 26 mei ondersteuning voor e-sim. De virtuele simkaart is echter alleen beschikbaar als vervanging van de huidige fysieke simkaart. Aan het gebruik van een e-sim zijn geen extra kosten verbonden.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
+            <comments>https://tweakers.net/nieuws/235350/simpel-biedt-vanaf-26-mei-e-sims-aan-als-vervanging-voor-fysieke-simkaarten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235350</guid>
+            <pubDate>Thu, 22 May 2025 13:16:10 +0200</pubDate>
+        </item>
+        <item>
+            <title>Phanteks toont 140mm-versie van T30-fan, framefans en waterkoeler met scherm</title>
+            <link>https://tweakers.net/nieuws/235348/phanteks-toont-140mm-versie-van-t30-fan-framefans-en-waterkoeler-met-scherm.html</link>
+            <description>Phanteks heeft tijdens Computex een nieuwe versie van zijn T30-fan gepresenteerd. Het gaat om een 140mm-versie, waaraan zes jaar is gewerkt. Ook toont het bedrijf zijn nieuwe X30-framefans en de Glacier One 360M25-lcd-waterkoeler.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / Computers / Ventilators</category>
+            <comments>https://tweakers.net/nieuws/235348/phanteks-toont-140mm-versie-van-t30-fan-framefans-en-waterkoeler-met-scherm.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235348</guid>
+            <pubDate>Thu, 22 May 2025 12:36:54 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Visual Studio 2022 17.14.1</title>
             <link>https://tweakers.net/downloads/72742/visual-studio-2022-17141.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/235300/msi-presenteert-mini-itx-moederborden-met-x870-b850-en-b860-chipsets.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235300</guid>
             <pubDate>Wed, 21 May 2025 14:28:28 +0200</pubDate>
-        </item>
-        <item>
-            <title>Zotac toont Zone-gaminghandheld met Manjaro Linux en Ryzen AI 9 HX 370</title>
-            <link>https://tweakers.net/nieuws/235292/zotac-toont-zone-gaminghandheld-met-manjaro-linux-en-ryzen-ai-9-hx-370.html</link>
-            <description>Zotac toont op de Computex-beurs in Taiwan een prototype van een nieuwe Zone-gaminghandheld. Het nieuwe model wordt aangedreven door een AMD Ryzen AI 9 HX 370-apu en wordt geleverd met een aangepaste versie van Manjaro Linux in plaats van Windows.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / Gaming / Consoles</category>
-            <comments>https://tweakers.net/nieuws/235292/zotac-toont-zone-gaminghandheld-met-manjaro-linux-en-ryzen-ai-9-hx-370.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235292</guid>
-            <pubDate>Wed, 21 May 2025 13:44:18 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Tweakers op Computex: snelle docks, naakte kaarten en glanzende woledpanelen</title>
-            <link>https://tweakers.net/geek/235296/tweakers-op-computex-snelle-docks-naakte-kaarten-en-glanzende-woledpanelen.html</link>
-            <description>Tweakers is aanwezig op de Computex-beurs in Taipei. Daar konden onze redacteuren de eerste dagen al de tofste nieuwe techproducten bekijken. Zo zagen we videokaarten met 48GB aan vram, koelers met 3d-heatpipes en glanzende woledpanelen.</description>
-            <author>Jasper Janssen</author>
-            <category>.Geek / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/geek/235296/tweakers-op-computex-snelle-docks-naakte-kaarten-en-glanzende-woledpanelen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/235296</guid>
-            <pubDate>Wed, 21 May 2025 13:37:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
