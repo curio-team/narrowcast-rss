@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 22 May 2025 15:36:05 +0200</pubDate>
-        <lastBuildDate>Thu, 22 May 2025 15:36:05 +0200</lastBuildDate>
+        <pubDate>Thu, 22 May 2025 16:31:10 +0200</pubDate>
+        <lastBuildDate>Thu, 22 May 2025 16:31:10 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>.Geek - Tweakers op Computex: retro-gpu&#039;s, bizarre casemods en monitor met 4-stackpaneel</title>
+            <link>https://tweakers.net/geek/235314/tweakers-op-computex-retro-gpus-bizarre-casemods-en-monitor-met-4-stackpaneel.html</link>
+            <description>Tweakers is aanwezig op de Computex-beurs in Taipei. Na alle keynotes konden we de beursvloer op, waar we onder andere retro-gpu&#039;s en enkele bizarre casemods zagen, zoals een wijntap in een behuizing. En we spotten Sapphire, dat naast videokaarten ook moederborden gaat verkopen.</description>
+            <author>Jasper Janssen</author>
+            <category>.Geek / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/geek/235314/tweakers-op-computex-retro-gpus-bizarre-casemods-en-monitor-met-4-stackpaneel.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/235314</guid>
+            <pubDate>Thu, 22 May 2025 16:26:57 +0200</pubDate>
+        </item>
+        <item>
+            <title>Preview - Dit zijn alle nieuwe oledmonitors van Computex - Feller en sneller dan ooit</title>
+            <link>https://tweakers.net/reviews/13306/dit-zijn-alle-nieuwe-oledmonitors-van-computex-feller-en-sneller-dan-ooit.html</link>
+            <description>Tijdens Computex 2025 zijn vele nieuwe oledmonitors gepresenteerd. In dit artikel nemen we je mee langs alle introducties.</description>
+            <author>Friso Weijers</author>
+            <category>Preview / Computers / Monitors</category>
+            <comments>https://tweakers.net/reviews/13306/dit-zijn-alle-nieuwe-oledmonitors-van-computex-feller-en-sneller-dan-ooit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13306</guid>
+            <pubDate>Thu, 22 May 2025 16:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;OpenAI wil apparaat van Jony Ive eind volgend jaar uitbrengen&#039;</title>
+            <link>https://tweakers.net/nieuws/235362/openai-wil-apparaat-van-jony-ive-eind-volgend-jaar-uitbrengen.html</link>
+            <description>OpenAI wil het apparaat dat het samen maakt met oud-Apple-ontwerper Jony Ive eind volgend jaar uitbrengen, zo heeft directeur Sam Altman tegen personeel gezegd. Het is geen smartphone en geen bril, maar wat het wel is, blijft onduidelijk.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Beeld en geluid / Gadgets</category>
+            <comments>https://tweakers.net/nieuws/235362/openai-wil-apparaat-van-jony-ive-eind-volgend-jaar-uitbrengen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235362</guid>
+            <pubDate>Thu, 22 May 2025 15:46:23 +0200</pubDate>
+        </item>
         <item>
             <title>Telegram boekte naar verluidt voor het eerst half miljard dollar winst</title>
             <link>https://tweakers.net/nieuws/235360/telegram-boekte-naar-verluidt-voor-het-eerst-half-miljard-dollar-winst.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/downloads/72730/total-commander-1155-rc-3.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72730</guid>
             <pubDate>Wed, 21 May 2025 16:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Review - GeForce RTX 5060 - Zelfs Nvidia wil geen test van deze gpu</title>
-            <link>https://tweakers.net/reviews/13274/geforce-rtx-5060-zelfs-nvidia-wil-geen-test-van-deze-gpu.html</link>
-            <description>De RTX 5060 is de nieuwe instapper van de 50-serie die volgens Nvidia 324 euro moet kosten. We vergelijken de nieuwe GeForce met zijn voorgangers en de concurrentie.</description>
-            <author>Reinoud Dik</author>
-            <category>Review / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/reviews/13274/17/geforce-rtx-5060-zelfs-nvidia-wil-geen-test-van-deze-gpu-conclusie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13274</guid>
-            <pubDate>Wed, 21 May 2025 16:10:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Corsair kondigt lcd-module voor aio&#039;s en omgedraaide argb-casefans aan</title>
-            <link>https://tweakers.net/nieuws/235310/corsair-kondigt-lcd-module-voor-aios-en-omgedraaide-argb-casefans-aan.html</link>
-            <description>Corsair heeft de RS-R-argb-fans aangekondigd met omgedraaide airflow, die bedoeld zijn voor bijvoorbeeld &#039;vissenkom&#039;-behuizingen. Daarnaast kondigde het bedrijf een module voor aio&#039;s aan, om lcd-loze aio&#039;s van een scherm te voorzien.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / Computers / Waterkoeling accessoires</category>
-            <comments>https://tweakers.net/nieuws/235310/corsair-kondigt-lcd-module-voor-aios-en-omgedraaide-argb-casefans-aan.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235310</guid>
-            <pubDate>Wed, 21 May 2025 16:09:06 +0200</pubDate>
-        </item>
-        <item>
-            <title>Logitech brengt G522 Lightspeed-gamingheadset in juni uit voor 170 euro</title>
-            <link>https://tweakers.net/nieuws/235306/logitech-brengt-g522-lightspeed-gamingheadset-in-juni-uit-voor-170-euro.html</link>
-            <description>Logitech kondigt de G522 Lightspeed-gamingheadset aan. De draadloze koptelefoon heeft een afneembare boommicrofoon met ledindicator en is voorzien van Lightsync-rgb-verlichting met acht instelbare zones. De G522 Lightspeed kost 170 euro en is vanaf 16 juni verkrijgbaar.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / Gaming / Gaming headsets</category>
-            <comments>https://tweakers.net/nieuws/235306/logitech-brengt-g522-lightspeed-gamingheadset-in-juni-uit-voor-170-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235306</guid>
-            <pubDate>Wed, 21 May 2025 15:47:24 +0200</pubDate>
         </item>
     </channel>
 </rss>
