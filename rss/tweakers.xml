@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 22 May 2025 10:36:10 +0200</pubDate>
-        <lastBuildDate>Thu, 22 May 2025 10:36:10 +0200</lastBuildDate>
+        <pubDate>Thu, 22 May 2025 11:31:04 +0200</pubDate>
+        <lastBuildDate>Thu, 22 May 2025 11:31:04 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>.Geek - Nintendo besloot in 2018 al dat Mario Kart World geen Mario Kart 9 zou heten</title>
+            <link>https://tweakers.net/geek/235346/nintendo-besloot-in-2018-al-dat-mario-kart-world-geen-mario-kart-9-zou-heten.html</link>
+            <description>De komende game Mario Kart World voor de Nintendo Switch 2 is het negende spel in de Mario Kart-serie. Toch heet het spel geen Mario Kart 9. Die keuze werd al vroeg in de ontwikkeling van het spel gemaakt, die al in 2018 van start ging, vertelt producer Kosuke Yabuki.</description>
+            <author>Eveline Meijer</author>
+            <category>.Geek / Gaming / Games</category>
+            <comments>https://tweakers.net/geek/235346/nintendo-besloot-in-2018-al-dat-mario-kart-world-geen-mario-kart-9-zou-heten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/235346</guid>
+            <pubDate>Thu, 22 May 2025 11:26:18 +0200</pubDate>
+        </item>
+        <item>
+            <title>Marshall introduceert eerste eigen tv-soundbar voor 1000 euro</title>
+            <link>https://tweakers.net/nieuws/235344/marshall-introduceert-eerste-eigen-tv-soundbar-voor-1000-euro.html</link>
+            <description>Audiobedrijf Marshall heeft zijn eerste eigen soundbar geïntroduceerd. Het gaat om de Heston 120, met Dolby Atmos en DTS:X. De soundbar verschijnt op 3 juni, maar is nu al te reserveren. Het apparaat kost 1000 euro.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / Beeld en geluid / Soundbars</category>
+            <comments>https://tweakers.net/nieuws/235344/marshall-introduceert-eerste-eigen-tv-soundbar-voor-1000-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235344</guid>
+            <pubDate>Thu, 22 May 2025 10:43:11 +0200</pubDate>
+        </item>
         <item>
             <title>Achtergrond - Overzicht: al het Computex-nieuws per categorie verzameld</title>
             <link>https://tweakers.net/reviews/13304/overzicht-al-het-computex-nieuws-per-categorie-verzameld.html</link>
@@ -58,9 +78,9 @@
             <pubDate>Thu, 22 May 2025 09:00:00 +0200</pubDate>
         </item>
         <item>
-            <title>Odido heeft last van storing, klanten hebben geen mobiel bereik</title>
+            <title>Odido heeft last van storing, klanten hebben geen mobiel bereik - update</title>
             <link>https://tweakers.net/nieuws/235336/odido-heeft-last-van-storing-klanten-hebben-geen-mobiel-bereik.html</link>
-            <description>De Nederlandse provider Odido heeft last van een storing, waardoor klanten geen mobiel bereik hebben. Ook dochterondernemingen Simpel en Ben zijn getroffen, omdat zij gebruikmaken van hetzelfde netwerk, bevestigt een woordvoerder van Odido tegenover Tweakers.</description>
+            <description>Provider Odido had vanochtend last van een storing het zuiden van Nederland, waardoor klanten geen mobiel bereik hadden. Ook dochterondernemingen Simpel en Ben waren getroffen, omdat zij gebruikmaken van hetzelfde netwerk. De storing is inmiddels verholpen.</description>
             <author>Eveline Meijer</author>
             <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
             <comments>https://tweakers.net/nieuws/235336/odido-heeft-last-van-storing-klanten-hebben-geen-mobiel-bereik.html#reacties</comments>
@@ -88,12 +108,12 @@
             <pubDate>Thu, 22 May 2025 08:04:23 +0200</pubDate>
         </item>
         <item>
-            <title>.Actie - Breek met Ziggo de Kooi van Faraday: realiseer overal stabiele wifi &amp; win € 400</title>
-            <link>https://tweakers.net/plan/4412/breek-met-ziggo-de-kooi-van-faraday-realiseer-overal-stabiele-wifi-en-win-400-euro.html</link>
+            <title>.Actie - Breek met Ziggo de Kooi van Faraday: realiseer stabiele wifi en win 400 euro</title>
+            <link>https://tweakers.net/plan/4412/breek-met-ziggo-de-kooi-van-faraday-realiseer-stabiele-wifi-en-win-400-euro.html</link>
             <description>Iedere tweaker kent het wel: lastige situaties bij vrienden of kennissen waardoor de wifi-verbinding allesbehalve stabiel is. Denk aan een net verbouwde badkamer waarbij tegels over tegels zijn geplakt. Of aan die oom die overal aquariums heeft staan, en die gameroom die toch wel heel goed blijkt geïsoleerd. De meeste tweakers weten echter dat snelheid alleen niet het hele verhaal is; betrouwbare wifi draait ook om wat er fysiek in huis gebeurt.</description>
             <author>Tweakers Partners</author>
             <category>.actie</category>
-            <comments>https://tweakers.net/plan/4412/breek-met-ziggo-de-kooi-van-faraday-realiseer-overal-stabiele-wifi-en-win-400-euro.html#reacties</comments>
+            <comments>https://tweakers.net/plan/4412/breek-met-ziggo-de-kooi-van-faraday-realiseer-stabiele-wifi-en-win-400-euro.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/plan/4412</guid>
             <pubDate>Thu, 22 May 2025 08:00:00 +0200</pubDate>
         </item>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/235294/be-quiet-toont-nieuwe-waterkoeler-en-podium-op-computex.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235294</guid>
             <pubDate>Wed, 21 May 2025 13:01:15 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Mozilla Thunderbird 138.0.2</title>
-            <link>https://tweakers.net/downloads/72724/mozilla-thunderbird-13802.html</link>
-            <description>De Mozilla Foundation heeft versie 138.0.2 van Thunderbird uitgebracht. Thunderbird is een opensourceclient voor e-mail en nieuwsgroepen met ondersteuning voor verschillende mail- en newsaccounts. Verder zijn er een spamfilter, spellingscontrole, kalender en adresboek, en heeft het een aanpasbaar uiterlijk. Thunderbird is beschikbaar in twee verschillende versies, die beide als stabiel worden aangeduid. De eerste wordt vaker voorzien van nieuwe functionaliteit en wordt als Release-versie aangeboden; de andere, de Extra Support Release-versie, wordt alleen van bugfixes en stabiliteitsverbeteringen voorzien. In deze uitgave zijn de volgende verbeteringen aangebracht: What’s Fixed</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72724/mozilla-thunderbird-13802.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72724</guid>
-            <pubDate>Wed, 21 May 2025 12:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Preview - Noctua gaat aio-waterkoelers maken, met en zonder pomp</title>
-            <link>https://tweakers.net/reviews/13308/noctua-gaat-aio-waterkoelers-maken-met-en-zonder-pomp.html</link>
-            <description>Noctua staat bekend om zijn luchtkoelers, maar de Oostenrijkse fabrikant gaat nu ook waterkoelers maken.</description>
-            <author>Willem de Moor</author>
-            <category>Preview / Computers / Waterkoeling</category>
-            <comments>https://tweakers.net/reviews/13308/2/noctua-gaat-aio-waterkoelers-maken-met-en-zonder-pomp-traditionele-aio-koelers-met-stille-noctua-snufjes.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13308</guid>
-            <pubDate>Wed, 21 May 2025 12:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
