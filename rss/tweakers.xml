@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 22 May 2025 13:31:05 +0200</pubDate>
-        <lastBuildDate>Thu, 22 May 2025 13:31:05 +0200</lastBuildDate>
+        <pubDate>Thu, 22 May 2025 14:41:02 +0200</pubDate>
+        <lastBuildDate>Thu, 22 May 2025 14:41:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,22 +18,42 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
-            <title>Simpel biedt vanaf 26 mei e-sims aan als vervanging voor fysieke simkaarten</title>
-            <link>https://tweakers.net/nieuws/235350/simpel-biedt-vanaf-26-mei-e-sims-aan-als-vervanging-voor-fysieke-simkaarten.html</link>
+            <title>Microsoft zette diensten aan Internationaal Strafhof niet stop</title>
+            <link>https://tweakers.net/nieuws/235354/microsoft-zette-diensten-aan-internationaal-strafhof-niet-stop.html</link>
+            <description>Microsoft heeft zijn diensten aan het Internationaal Strafhof niet stopgezet, zo claimt het bedrijf. De hoofdaanklager van het ICC is overgegaan op het Zwitserse Proton Mail. De Amerikaanse regering-Trump kondigde sancties aan tegen Kahn en het ICC.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Computers / Officesoftware en suites</category>
+            <comments>https://tweakers.net/nieuws/235354/microsoft-zette-diensten-aan-internationaal-strafhof-niet-stop.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235354</guid>
+            <pubDate>Thu, 22 May 2025 14:40:51 +0200</pubDate>
+        </item>
+        <item>
+            <title>Desktopapp van Signal voorkomt dat Microsoft Recall screenshots kan nemen</title>
+            <link>https://tweakers.net/nieuws/235352/desktopapp-van-signal-voorkomt-dat-microsoft-recall-screenshots-kan-nemen.html</link>
+            <description>De desktopapp van Signal op Windows heeft een nieuwe beveiligingsfunctie genaamd &#039;Screen security&#039; gekregen, die voorkomt dat er screenshots worden gemaakt van Signal-gesprekken. De instelling staat automatisch aan op Windows 11 vanwege Microsoft Recall.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / IT Pro / Privacy</category>
+            <comments>https://tweakers.net/nieuws/235352/desktopapp-van-signal-voorkomt-dat-microsoft-recall-screenshots-kan-nemen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235352</guid>
+            <pubDate>Thu, 22 May 2025 14:08:50 +0200</pubDate>
+        </item>
+        <item>
+            <title>Simpel biedt vanaf 26 mei e-sim aan als vervanging voor fysieke simkaarten</title>
+            <link>https://tweakers.net/nieuws/235350/simpel-biedt-vanaf-26-mei-e-sim-aan-als-vervanging-voor-fysieke-simkaarten.html</link>
             <description>De Nederlandse provider Simpel biedt vanaf 26 mei ondersteuning voor e-sim. De virtuele simkaart is echter alleen beschikbaar als vervanging van de huidige fysieke simkaart. Aan het gebruik van een e-sim zijn geen extra kosten verbonden.</description>
             <author>Eveline Meijer</author>
             <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
-            <comments>https://tweakers.net/nieuws/235350/simpel-biedt-vanaf-26-mei-e-sims-aan-als-vervanging-voor-fysieke-simkaarten.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/235350/simpel-biedt-vanaf-26-mei-e-sim-aan-als-vervanging-voor-fysieke-simkaarten.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235350</guid>
             <pubDate>Thu, 22 May 2025 13:16:10 +0200</pubDate>
         </item>
         <item>
-            <title>Phanteks toont 140mm-versie van T30-fan, framefans en waterkoeler met scherm</title>
-            <link>https://tweakers.net/nieuws/235348/phanteks-toont-140mm-versie-van-t30-fan-framefans-en-waterkoeler-met-scherm.html</link>
-            <description>Phanteks heeft tijdens Computex een nieuwe versie van zijn T30-fan gepresenteerd. Het gaat om een 140mm-versie, waaraan zes jaar is gewerkt. Ook toont het bedrijf zijn nieuwe X30-framefans en de Glacier One 360M25-lcd-waterkoeler.</description>
+            <title>Phanteks toont waterkoeler met 720p-lcd-scherm</title>
+            <link>https://tweakers.net/nieuws/235348/phanteks-toont-waterkoeler-met-720p-lcd-scherm.html</link>
+            <description>Phanteks heeft tijdens Computex zijn nieuwe Glacier One 360M25-lcd-waterkoeler getoond. Dit is een waterkoeler met een lcd-scherm ter grootte van een smartphone. Ook toont het bedrijf een nieuwe 140mm-versie van zijn T30-fan en nieuwe X30-framefans.</description>
             <author>Eveline Meijer</author>
             <category>Nieuws / Computers / Ventilators</category>
-            <comments>https://tweakers.net/nieuws/235348/phanteks-toont-140mm-versie-van-t30-fan-framefans-en-waterkoeler-met-scherm.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/235348/phanteks-toont-waterkoeler-met-720p-lcd-scherm.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235348</guid>
             <pubDate>Thu, 22 May 2025 12:36:54 +0200</pubDate>
         </item>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/235304/sony-brengt-3-komma-5-jaar-oude-android-tv-12-update-naar-tvs-uit-2020.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235304</guid>
             <pubDate>Wed, 21 May 2025 14:59:55 +0200</pubDate>
-        </item>
-        <item>
-            <title>SteelSeries introduceert tweede generatie Rival 3-gamingmuizen</title>
-            <link>https://tweakers.net/nieuws/235302/steelseries-introduceert-tweede-generatie-rival-3-gamingmuizen.html</link>
-            <description>SteelSeries brengt nieuwe versies uit van zijn Rival 3-gamingmuizen uit 2020. De Rival 3 Gen 2 is beschikbaar in een draadloze en bedrade uitvoering. Het draadloze model kost 60 euro, terwijl het bedrade model 40 euro kost.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / Computers / Muizen</category>
-            <comments>https://tweakers.net/nieuws/235302/steelseries-introduceert-tweede-generatie-rival-3-gamingmuizen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235302</guid>
-            <pubDate>Wed, 21 May 2025 14:46:09 +0200</pubDate>
-        </item>
-        <item>
-            <title>MSI presenteert mini-ITX-moederborden met X870-, B850- en B860-chipsets</title>
-            <link>https://tweakers.net/nieuws/235300/msi-presenteert-mini-itx-moederborden-met-x870-b850-en-b860-chipsets.html</link>
-            <description>MSI heeft drie witte mini-ITX-moederborden aangekondigd voor AMD- en Intel-processors. Het zijn de eerste mini-ITX-moederborden met de X870-, B850- en B860-chipsets van de fabrikant. Het is nog niet bekend wanneer de producten uit gaan komen en wat de prijzen zullen zijn.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / </category>
-            <comments>https://tweakers.net/nieuws/235300/msi-presenteert-mini-itx-moederborden-met-x870-b850-en-b860-chipsets.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235300</guid>
-            <pubDate>Wed, 21 May 2025 14:28:28 +0200</pubDate>
         </item>
     </channel>
 </rss>
