@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 22 May 2025 09:31:04 +0200</pubDate>
-        <lastBuildDate>Thu, 22 May 2025 09:31:04 +0200</lastBuildDate>
+        <pubDate>Thu, 22 May 2025 10:36:10 +0200</pubDate>
+        <lastBuildDate>Thu, 22 May 2025 10:36:10 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Achtergrond - Overzicht: al het Computex-nieuws per categorie verzameld</title>
+            <link>https://tweakers.net/reviews/13304/overzicht-al-het-computex-nieuws-per-categorie-verzameld.html</link>
+            <description>In dit artikel vind je al onze berichtgeving terug over Computex in 2025</description>
+            <author>Tijs Hofmans</author>
+            <category>Achtergrond / Computers / Processors</category>
+            <comments>https://tweakers.net/reviews/13304/overzicht-al-het-computex-nieuws-per-categorie-verzameld.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13304</guid>
+            <pubDate>Thu, 22 May 2025 10:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Microsoft en Europol verstoren infostealernetwerk Lumma Stealer</title>
+            <link>https://tweakers.net/nieuws/235342/microsoft-en-europol-verstoren-infostealernetwerk-lumma-stealer.html</link>
+            <description>Europol en Microsoft hebben het netwerk van infostealer Lumma Stealer weten te verstoren. Daarmee is de communicatie tussen de tool en zijn slachtoffers ontwricht. Ook zijn 1300 domeinen in beslag genomen of overgezet naar Microsoft.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/235342/microsoft-en-europol-verstoren-infostealernetwerk-lumma-stealer.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235342</guid>
+            <pubDate>Thu, 22 May 2025 09:53:31 +0200</pubDate>
+        </item>
         <item>
             <title>Bloomberg: Apple gaat AI-modellen openstellen voor externe ontwikkelaars</title>
             <link>https://tweakers.net/nieuws/235338/bloomberg-apple-gaat-ai-modellen-openstellen-voor-externe-ontwikkelaars.html</link>
@@ -168,12 +188,12 @@
             <pubDate>Wed, 21 May 2025 20:17:56 +0200</pubDate>
         </item>
         <item>
-            <title>OpenAI wil ex-Apple-ontwerper Jony Ives start-up kopen voor 6,5 miljard dollar</title>
-            <link>https://tweakers.net/nieuws/235328/openai-wil-ex-apple-ontwerper-jony-ives-start-up-kopen-voor-6-komma-5-miljard-dollar.html</link>
+            <title>OpenAI wil bedrijf van ex-Apple-ontwerper Jony Ive kopen voor 6,5 miljard dollar</title>
+            <link>https://tweakers.net/nieuws/235328/openai-wil-bedrijf-van-ex-apple-ontwerper-jony-ive-kopen-voor-6-komma-5-miljard-dollar.html</link>
             <description>OpenAI wil io overnemen, een start-up die vorig jaar door Jony Ive is opgericht. Met de overname krijgt OpenAI een eigen hardwaretak voor het produceren van AI-producten. Ive en het io-team gaan ook werken aan de interface van ChatGPT.</description>
             <author>Hayte Hugo</author>
             <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/235328/openai-wil-ex-apple-ontwerper-jony-ives-start-up-kopen-voor-6-komma-5-miljard-dollar.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/235328/openai-wil-bedrijf-van-ex-apple-ontwerper-jony-ive-kopen-voor-6-komma-5-miljard-dollar.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235328</guid>
             <pubDate>Wed, 21 May 2025 19:53:23 +0200</pubDate>
         </item>
@@ -282,7 +302,7 @@
             <link>https://tweakers.net/nieuws/235310/corsair-kondigt-lcd-module-voor-aios-en-omgedraaide-argb-casefans-aan.html</link>
             <description>Corsair heeft de RS-R-argb-fans aangekondigd met omgedraaide airflow, die bedoeld zijn voor bijvoorbeeld &#039;vissenkom&#039;-behuizingen. Daarnaast kondigde het bedrijf een module voor aio&#039;s aan, om lcd-loze aio&#039;s van een scherm te voorzien.</description>
             <author>Hayte Hugo</author>
-            <category>Nieuws / Computers / Processorkoeling</category>
+            <category>Nieuws / Computers / Waterkoeling accessoires</category>
             <comments>https://tweakers.net/nieuws/235310/corsair-kondigt-lcd-module-voor-aios-en-omgedraaide-argb-casefans-aan.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235310</guid>
             <pubDate>Wed, 21 May 2025 16:09:06 +0200</pubDate>
@@ -332,7 +352,7 @@
             <link>https://tweakers.net/nieuws/235300/msi-presenteert-mini-itx-moederborden-met-x870-b850-en-b860-chipsets.html</link>
             <description>MSI heeft drie witte mini-ITX-moederborden aangekondigd voor AMD- en Intel-processors. Het zijn de eerste mini-ITX-moederborden met de X870-, B850- en B860-chipsets van de fabrikant. Het is nog niet bekend wanneer de producten uit gaan komen en wat de prijzen zullen zijn.</description>
             <author>Hayte Hugo</author>
-            <category>Nieuws / Computers / Moederborden</category>
+            <category>Nieuws / </category>
             <comments>https://tweakers.net/nieuws/235300/msi-presenteert-mini-itx-moederborden-met-x870-b850-en-b860-chipsets.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235300</guid>
             <pubDate>Wed, 21 May 2025 14:28:28 +0200</pubDate>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/reviews/13308/2/noctua-gaat-aio-waterkoelers-maken-met-en-zonder-pomp-traditionele-aio-koelers-met-stille-noctua-snufjes.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13308</guid>
             <pubDate>Wed, 21 May 2025 12:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Videopreview - Wat maakt de eerste waterkoelers van Noctua anders dan alle andere?</title>
-            <link>https://tweakers.net/video/19908/wat-maakt-de-eerste-waterkoelers-van-noctua-anders-dan-alle-andere.html</link>
-            <description>Je kent Noctua van de forse, degelijke en helaas ook vaak erg prijzige luchtkoelers… Maar op Computex toont de Oostenrijkse fabrikant zijn eerste waterkoelers. Wat doet Noctua anders dan de rest? Voor de toekomst werkt Noctua zelfs aan een totaal ander concept voor vloeistofkoeling, dat helemaal geen pomp nodig heeft.</description>
-            <author>Luke van Drie</author>
-            <category>Videopreview / Computers / Basiscomponenten</category>
-            <comments>https://tweakers.net/video/19908/wat-maakt-de-eerste-waterkoelers-van-noctua-anders-dan-alle-andere.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/video/19908</guid>
-            <pubDate>Wed, 21 May 2025 12:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>ASUS ProArt RTX 5080 heeft houtfinish en plek voor Gen5-ssd</title>
-            <link>https://tweakers.net/nieuws/235290/asus-proart-rtx-5080-heeft-houtfinish-en-plek-voor-gen5-ssd.html</link>
-            <description>ASUS heeft een RTX 5080-gpu gemaakt die een deels houten afwerking heeft en waarin plek is voor een M.2-ssd. Ook zit er een USB-C-aansluiting op de kaart om bijvoorbeeld een mobiele monitor direct op de kaart aan te sluiten.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/nieuws/235290/asus-proart-rtx-5080-heeft-houtfinish-en-plek-voor-gen5-ssd.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235290</guid>
-            <pubDate>Wed, 21 May 2025 11:56:21 +0200</pubDate>
         </item>
     </channel>
 </rss>
