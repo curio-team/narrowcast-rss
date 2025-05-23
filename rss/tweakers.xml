@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 23 May 2025 10:36:01 +0200</pubDate>
-        <lastBuildDate>Fri, 23 May 2025 10:36:01 +0200</lastBuildDate>
+        <pubDate>Fri, 23 May 2025 11:31:00 +0200</pubDate>
+        <lastBuildDate>Fri, 23 May 2025 11:31:00 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Sharkoon brengt deze zomer ATX- en mATX-behuizingen met stoffen afwerking uit</title>
+            <link>https://tweakers.net/nieuws/235404/sharkoon-brengt-deze-zomer-atx-en-matx-behuizingen-met-stoffen-afwerking-uit.html</link>
+            <description>Sharkoon heeft op de Computex-beurs meerdere nieuwe kasten aangekondigd. Het gaat om een ATX- en een micro-ATX-kast, en een behuizing met een meshfrontpaneel. Alle behuizingen verschijnen deze zomer.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Behuizingen</category>
+            <comments>https://tweakers.net/nieuws/235404/sharkoon-brengt-deze-zomer-atx-en-matx-behuizingen-met-stoffen-afwerking-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235404</guid>
+            <pubDate>Fri, 23 May 2025 11:21:06 +0200</pubDate>
+        </item>
         <item>
             <title>ASUS en Gigabyte laten micro-ATX-moederborden met AM5-sockets zien</title>
             <link>https://tweakers.net/nieuws/235398/asus-en-gigabyte-laten-micro-atx-moederborden-met-am5-sockets-zien.html</link>
@@ -40,7 +50,7 @@
         <item>
             <title>.Geek - Bandai Namco en A24 werken aan liveactionfilm over Elden Ring</title>
             <link>https://tweakers.net/geek/235408/bandai-namco-en-a24-werken-aan-liveactionfilm-over-elden-ring.html</link>
-            <description>Bandai Namco werkt samen met filmproducent A24 aan een film over Elden Ring. De film wordt geregisseerd en geschreven door Alex Garland, die ook Ex Machine maakte. Game of Thrones-schrijver George R. R. Martin is als producent betrokken.</description>
+            <description>Bandai Namco werkt samen met filmproducent A24 aan een film over Elden Ring. De film wordt geregisseerd en geschreven door Alex Garland, die ook Ex Machina maakte. Game of Thrones-schrijver George R. R. Martin is als producent betrokken.</description>
             <author>Tijs Hofmans</author>
             <category>.Geek / Gaming / Games</category>
             <comments>https://tweakers.net/geek/235408/bandai-namco-en-a24-werken-aan-liveactionfilm-over-elden-ring.html#reacties</comments>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/downloads/72740/fan-control-225.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72740</guid>
             <pubDate>Thu, 22 May 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Odido heeft last van storing, klanten hebben geen mobiel bereik - update</title>
-            <link>https://tweakers.net/nieuws/235336/odido-heeft-last-van-storing-klanten-hebben-geen-mobiel-bereik.html</link>
-            <description>Provider Odido had vanochtend last van een storing het zuiden van Nederland, waardoor klanten geen mobiel bereik hadden. Ook dochterondernemingen Simpel en Ben waren getroffen, omdat zij gebruikmaken van hetzelfde netwerk. De storing is inmiddels verholpen.</description>
-            <author>Eveline Meijer</author>
-            <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
-            <comments>https://tweakers.net/nieuws/235336/odido-heeft-last-van-storing-klanten-hebben-geen-mobiel-bereik.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235336</guid>
-            <pubDate>Thu, 22 May 2025 08:33:03 +0200</pubDate>
         </item>
     </channel>
 </rss>
