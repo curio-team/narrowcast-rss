@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 23 May 2025 12:36:06 +0200</pubDate>
-        <lastBuildDate>Fri, 23 May 2025 12:36:06 +0200</lastBuildDate>
+        <pubDate>Fri, 23 May 2025 13:31:01 +0200</pubDate>
+        <lastBuildDate>Fri, 23 May 2025 13:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -20,7 +20,7 @@
         <item>
             <title>Software-update - Everything 1.4.1.1027</title>
             <link>https://tweakers.net/downloads/72752/everything-1411027.html</link>
-            <description>Everything is een klein en gratis programma dat alle mappen en bestanden op een Windows-computer indexeert en met uitgebreide zoekcriteria kan het snel elk willekeurig bestand of map op de computer lokaliseren. Initieel slaat het alleen de bestandsnaam op, maar het kan ook op inhoud zoeken. Het indexeren van een verse Windows-installatie, die ongeveer 120.000 bestanden bevat, gebeurt in nog geen seconde. Het gebruikt dan slechts 14MB werkgeheugen en neemt zo&#039;n 9MB ruimte op de harde schijf in beslag. Het programma is ook te gebruiken in combinatie met bijvoorbeeld Total Commander. De changelog voor deze uitgave ziet er als volgt uit: Changes in version 1.4.1.1027</description>
+            <description>Everything is een klein en gratis programma dat alle mappen en bestanden op een Windows-computer indexeert en met uitgebreide zoekcriteria kan het snel elk willekeurig bestand of map op de computer lokaliseren. Initieel slaat het alleen de bestandsnaam op, maar het kan ook op inhoud zoeken. Het indexeren van een verse Windows-installatie, die ongeveer 120.000 bestanden bevat, gebeurt in nog geen seconde. Het gebruikt dan slechts 14MB werkgeheugen en neemt zo&#039;n 9MB ruimte op de harde schijf in beslag. Het programma is ook te gebruiken in combinatie met bijvoorbeeld Total Commander en Directory Opus. De changelog voor deze uitgave ziet er als volgt uit: Changes in version 1.4.1.1027</description>
             <author>Bart van Klaveren</author>
             <category>Software</category>
             <comments>https://tweakers.net/downloads/72752/everything-1411027.html#reacties</comments>
@@ -86,16 +86,6 @@
             <comments>https://tweakers.net/geek/235408/bandai-namco-en-a24-werken-aan-liveactionfilm-over-elden-ring.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/geek/235408</guid>
             <pubDate>Fri, 23 May 2025 09:09:11 +0200</pubDate>
-        </item>
-        <item>
-            <title>Firmware-update - Ubiquiti AmpliFi 4.0.3</title>
-            <link>https://tweakers.net/downloads/72750/ubiquiti-amplifi-403.html</link>
-            <description>Ubiquiti heeft voor zijn routers uit het AmpliFi High Density WiFi System kort geleden nieuwe firmware uitgebracht. Dit is een wifisysteem dat werkt met één router en eventueel een of meer satellieten, waarmee het een meshwifisysteem vormt. Het systeem is gericht op een makkelijke installatie van een volledig dekkend wifinetwerk thuis, zonder dat daarvoor diepgaande netwerkkennis nodig is. De router is voorzien van een klein touchscreen en kan tot in de details ingesteld worden via een iOS- of Android-app. De changelog voor versie 4.0.3 kan hieronder worden gevonden. Changes in version 4.0.3:</description>
-            <author>Bart van Klaveren</author>
-            <category>Firmware</category>
-            <comments>https://tweakers.net/downloads/72750/ubiquiti-amplifi-403.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72750</guid>
-            <pubDate>Fri, 23 May 2025 09:00:00 +0200</pubDate>
         </item>
         <item>
             <title>Enexis biedt tijdelijk 30 cent per kWh om PV-installaties terug te schakelen</title>
@@ -416,6 +406,16 @@
             <comments>https://tweakers.net/reviews/13304/overzicht-al-het-computex-nieuws-per-categorie-verzameld.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13304</guid>
             <pubDate>Thu, 22 May 2025 10:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Microsoft en Europol verstoren infostealernetwerk Lumma Stealer</title>
+            <link>https://tweakers.net/nieuws/235342/microsoft-en-europol-verstoren-infostealernetwerk-lumma-stealer.html</link>
+            <description>Europol en Microsoft hebben het netwerk van infostealer Lumma Stealer weten te verstoren. Daarmee is de communicatie tussen de tool en zijn slachtoffers ontwricht. Ook zijn 1300 domeinen in beslag genomen of overgezet naar Microsoft.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/235342/microsoft-en-europol-verstoren-infostealernetwerk-lumma-stealer.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235342</guid>
+            <pubDate>Thu, 22 May 2025 09:53:31 +0200</pubDate>
         </item>
     </channel>
 </rss>
