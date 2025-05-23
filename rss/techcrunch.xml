@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 23 May 2025 10:34:27 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 23 May 2025 13:37:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,37 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Apple could launch AI-powered smart glasses in 2026</title>
+		<link>https://techcrunch.com/2025/05/23/apple-could-launch-ai-powered-smart-glasses-in-2026/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Fri, 23 May 2025 13:37:07 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Apple]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3011320</guid>
+
+					<description><![CDATA[Apple is reportedly looking to release a pair of smart glasses by the end of next year in a bid to compete with Meta’s AI-powered glasses, the Ray-Ban Meta. Apple’s wearable will have all the components one would expect in smart glasses, including a camera and microphone, and will have the ability to analyze what&#8217;s [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trump threatens 25% tariffs on iPhones made outside the US</title>
+		<link>https://techcrunch.com/2025/05/23/trump-threatens-25-tariffs-on-iphones-made-outside-the-us/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Fri, 23 May 2025 13:21:11 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Trump]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3011319</guid>
+
+					<description><![CDATA[President Trump lashed out at Apple on Friday, threatening the company with a 25% tariff on iPhones unless it moves production to the U.S. &#8220;I have long ago informed Tim Cook of Apple that I expect their iPhone’s [sic] that will be sold in the United States of America will be manufactured and built in [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Mysterious hacking group Careto was run by the Spanish government, sources say</title>
 		<link>https://techcrunch.com/2025/05/23/mysterious-hacking-group-careto-was-run-by-the-spanish-government-sources-say/</link>
 		
@@ -350,44 +381,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3010900</guid>
 
 					<description><![CDATA[The team behind Vercel&#8217;s V0, an AI-powered platform for web creation, has developed an AI model it claims excels at certain website development tasks. Available through an API, the model, called &#8220;v0-1.0-md,&#8221; can be prompted with text or images, and was &#8220;optimized for front-end and full-stack web development,&#8221; the Vercel team says. Currently in beta, [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>RevenueCat raises $50M as it expands beyond mobile app monetization</title>
-		<link>https://techcrunch.com/2025/05/22/revenuecat-raises-50m-as-it-expands-beyond-mobile-app-monetization/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Thu, 22 May 2025 15:35:36 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Bain Capital]]></category>
-		<category><![CDATA[in-app purchase]]></category>
-		<category><![CDATA[RevenueCat]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3010331</guid>
-
-					<description><![CDATA[Key to the company's growth are the next products RevenueCat has on its roadmap, the company's founder says.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The wild story of how gut health AI toilet startup Throne raised $4M led by Moxxie </title>
-		<link>https://techcrunch.com/2025/05/22/the-wild-story-of-how-gut-health-ai-toilet-startup-throne-raised-4m-led-by-moxxie/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Thu, 22 May 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[toilets]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[Computer Vision]]></category>
-		<category><![CDATA[gut health]]></category>
-		<category><![CDATA[Moxxie Ventures]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3010354</guid>
-
-					<description><![CDATA[The tale of how smart toilet startup Throne landed its seed round is so full of serendipities, one could almost believe it was orchestrated by the hand of Fortuna, Roman goddess of providence. Throne is an Austin-based company working on an AI-powered toilet device for consumers. It uses computer vision (cameras pointing in the bowl [&#8230;]]]></description>
 		
 		
 		
