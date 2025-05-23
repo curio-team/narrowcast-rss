@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 22 May 2025 16:31:10 +0200</pubDate>
-        <lastBuildDate>Thu, 22 May 2025 16:31:10 +0200</lastBuildDate>
+        <pubDate>Fri, 23 May 2025 09:31:01 +0200</pubDate>
+        <lastBuildDate>Fri, 23 May 2025 09:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,216 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Home Assistant stopt ondersteuning van 32bit-, Core- en Supervised-installaties</title>
+            <link>https://tweakers.net/nieuws/235400/home-assistant-stopt-ondersteuning-van-32bit-core-en-supervised-installaties.html</link>
+            <description>Home Assistant is in de toekomst alleen nog te gebruiken op 64bit-systemen. 32bit-systemen, waaronder oude Raspberry Pi&#039;s zoals de Pi 2, worden niet meer ondersteund. Ook zijn de Home Assistant Core- en Supervised-installatiemethoden over enige tijd niet meer mogelijk.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Beeld en geluid / Smarthome</category>
+            <comments>https://tweakers.net/nieuws/235400/home-assistant-stopt-ondersteuning-van-32bit-core-en-supervised-installaties.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235400</guid>
+            <pubDate>Fri, 23 May 2025 09:24:19 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Bandai Namco en A24 werken aan liveactionfilm over Elden Ring</title>
+            <link>https://tweakers.net/geek/235408/bandai-namco-en-a24-werken-aan-liveactionfilm-over-elden-ring.html</link>
+            <description>Bandai Namco werkt samen met filmproducent A24 aan een film over Elden Ring. De film wordt geregisseerd en geschreven door Alex Garland, die ook Ex Machine maakte. Game of Thrones-schrijver George R. R. Martin is als producent betrokken.</description>
+            <author>Tijs Hofmans</author>
+            <category>.Geek / Gaming / Games</category>
+            <comments>https://tweakers.net/geek/235408/bandai-namco-en-a24-werken-aan-liveactionfilm-over-elden-ring.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/235408</guid>
+            <pubDate>Fri, 23 May 2025 09:09:11 +0200</pubDate>
+        </item>
+        <item>
+            <title>Firmware-update - Ubiquiti AmpliFi 4.0.3</title>
+            <link>https://tweakers.net/downloads/72750/ubiquiti-amplifi-403.html</link>
+            <description>Ubiquiti heeft voor zijn routers uit het AmpliFi High Density WiFi System kort geleden nieuwe firmware uitgebracht. Dit is een wifisysteem dat werkt met één router en eventueel een of meer satellieten, waarmee het een meshwifisysteem vormt. Het systeem is gericht op een makkelijke installatie van een volledig dekkend wifinetwerk thuis, zonder dat daarvoor diepgaande netwerkkennis nodig is. De router is voorzien van een klein touchscreen en kan tot in de details ingesteld worden via een iOS- of Android-app. De changelog voor versie 4.0.3 kan hieronder worden gevonden. Changes in version 4.0.3:</description>
+            <author>Bart van Klaveren</author>
+            <category>Firmware</category>
+            <comments>https://tweakers.net/downloads/72750/ubiquiti-amplifi-403.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72750</guid>
+            <pubDate>Fri, 23 May 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Enexis biedt tijdelijk 30 cent per kWh om PV-installaties terug te schakelen</title>
+            <link>https://tweakers.net/nieuws/235392/enexis-biedt-tijdelijk-30-cent-per-kwh-om-pv-installaties-terug-te-schakelen.html</link>
+            <description>Netbeheerder Enexis start een project waarbij het zonnepanelenbezitters vraagt hun PV-installaties uit te zetten of terug te schakelen in ruil voor geld. De beheerder start een pilot rondom Helmond en Waalwijk met Zonnedimmer en biedt 30 cent per kilowattuur.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Beeld en geluid / Smarthome</category>
+            <comments>https://tweakers.net/nieuws/235392/enexis-biedt-tijdelijk-30-cent-per-kwh-om-pv-installaties-terug-te-schakelen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235392</guid>
+            <pubDate>Fri, 23 May 2025 08:30:51 +0200</pubDate>
+        </item>
+        <item>
+            <title>Rol van Nederland bij Sky ECC-cryptotelefoonoperatie was groter dan gedacht</title>
+            <link>https://tweakers.net/nieuws/235390/rol-van-nederland-bij-sky-ecc-cryptotelefoonoperatie-was-groter-dan-gedacht.html</link>
+            <description>Nederland had een grotere rol bij de operatie tegen cryptotelefoonbedrijf Sky ECC dan aanvankelijk gedacht, stellen de Volkskrant en NRC op basis van nieuwe documenten. Daaruit blijkt dat de hack op initiatief van het Nederlandse Openbaar Ministerie plaatsvond, wat gevolgen kan hebben voor strafzaken.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/235390/rol-van-nederland-bij-sky-ecc-cryptotelefoonoperatie-was-groter-dan-gedacht.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235390</guid>
+            <pubDate>Fri, 23 May 2025 08:07:23 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - RouterOS 7.19</title>
+            <link>https://tweakers.net/downloads/72748/routeros-719.html</link>
+            <description>MikroTik heeft versie 7.19 van RouterOS uitgebracht, een besturingssysteem dat zich richt op het uitvoeren van routertaken en meer. Denk daarbij natuurlijk aan het routeren van netwerkverkeer, maar ook aan bandbreedtemanagement, een firewall, het aansturen van draadlozeaccesspoints, een hotspotgateway en een vpn-server. Het kan zowel op de hardware van MikroTik als op x86- of virtuele machines zijn werk doen. Voor het gebruik is een licentie nodig, die bij de aankoop van MikroTik-hardware is inbegrepen. De changelog voor deze uitgave kan hieronder worden gevonden. What&#039;s new in 7.19:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72748/routeros-719.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72748</guid>
+            <pubDate>Fri, 23 May 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Crucials nieuwe T710-ssd heeft kleinere heatsink dankzij 6nm-controller</title>
+            <link>https://tweakers.net/nieuws/235388/crucials-nieuwe-t710-ssd-heeft-kleinere-heatsink-dankzij-6nm-controller.html</link>
+            <description>Crucial heeft een nieuwe PCIe Gen5-ssd aangekondigd. De drive is aangedreven door Silicon Motions SM2508-controller en moet aanmerkelijk koeler zijn dan zijn eerdere Gen5-drives met E26-controller van Phison.</description>
+            <author>Willem de Moor</author>
+            <category>Nieuws / Computers / SSD&#039;s</category>
+            <comments>https://tweakers.net/nieuws/235388/crucials-nieuwe-t710-ssd-heeft-kleinere-heatsink-dankzij-6nm-controller.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235388</guid>
+            <pubDate>Fri, 23 May 2025 07:13:41 +0200</pubDate>
+        </item>
+        <item>
+            <title>Chieftec gaat ook cpu-luchtkoelers maken</title>
+            <link>https://tweakers.net/nieuws/235386/chieftec-gaat-ook-cpu-luchtkoelers-maken.html</link>
+            <description>Chieftec is bekend van onder meer behuizingen en in iets mindere mate van zijn voedingen en waterkoelers. Op de beurs liet het bedrijf echter twee prototypes van luchtkoelers zien, die het momenteel ontwikkelt</description>
+            <author>Willem de Moor</author>
+            <category>Nieuws / Computers / Processorkoeling</category>
+            <comments>https://tweakers.net/nieuws/235386/chieftec-gaat-ook-cpu-luchtkoelers-maken.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235386</guid>
+            <pubDate>Fri, 23 May 2025 03:56:27 +0200</pubDate>
+        </item>
+        <item>
+            <title>Mozilla stopt met Fakespot en Pocket</title>
+            <link>https://tweakers.net/nieuws/235384/mozilla-stopt-met-fakespot-en-pocket.html</link>
+            <description>Mozilla stopt met Fakespot en Pocket. Beide diensten biedt het bedrijf aan na overnames. Fakespot is sinds twee jaar van Mozilla, Pocket hoort bij de browserbouwer sinds 2017 en is een dienst om artikelen te bewaren om later te lezen.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Computers / Browsers</category>
+            <comments>https://tweakers.net/nieuws/235384/mozilla-stopt-met-fakespot-en-pocket.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235384</guid>
+            <pubDate>Thu, 22 May 2025 21:14:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - eM Client 10.3.2040</title>
+            <link>https://tweakers.net/downloads/72746/em-client-1032040.html</link>
+            <description>Versie 10.3.2040 van eM Client is uitgebracht. Deze e-mailclient is beschikbaar voor Windows, macOS, Android en iOS. Het programma heeft ook een kalender, er kunnen taken en notities worden bijgehouden en er kan worden gechat via Google Talk, Jabber en via het XMPP-protocol. Het programma is gratis voor privégebruik, maar voor extra mogelijkheden of bij gebruik van meer dan twee accounts wordt wel een vergoeding gevraagd. Uitgebreide informatie over versie 10 is op deze pagina te vinden; de changelog voor deze uitgave kan hieronder worden gevonden. Changes in eM Client version 10.3.2040.0</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72746/em-client-1032040.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72746</guid>
+            <pubDate>Thu, 22 May 2025 21:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Spotify ziet &#039;significante toename&#039; in aantal abonnees door links vanuit iOS-app</title>
+            <link>https://tweakers.net/nieuws/235380/spotify-ziet-significante-toename-in-aantal-abonnees-door-links-vanuit-ios-app.html</link>
+            <description>Spotify zegt dat er een significante toename is van het aantal iOS-gebruikers dat een abonnement neemt. De Zweedse streamingdienst noemt geen cijfers. Spotify mag sinds kort in de VS linken naar de abonnementen op de eigen site binnen de app.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Beeld en geluid / Audio</category>
+            <comments>https://tweakers.net/nieuws/235380/spotify-ziet-significante-toename-in-aantal-abonnees-door-links-vanuit-ios-app.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235380</guid>
+            <pubDate>Thu, 22 May 2025 20:53:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Anthropic brengt Claude 4 uit</title>
+            <link>https://tweakers.net/nieuws/235382/anthropic-brengt-claude-4-uit.html</link>
+            <description>Anthropic heeft Claude 4 aangekondigd. Dat bestaat vooralsnog uit twee AI-modellen, Opus en Sonnet. Bovendien komt Claude Code om te programmeren openbaar beschikbaar. Dat was tot nu toe niet het geval.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Internet</category>
+            <comments>https://tweakers.net/nieuws/235382/anthropic-brengt-claude-4-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235382</guid>
+            <pubDate>Thu, 22 May 2025 20:05:16 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nothing Phone (1) krijgt geen Android 16</title>
+            <link>https://tweakers.net/nieuws/235378/nothing-phone-1-krijgt-geen-android-16.html</link>
+            <description>De Nothing Phone (1) krijgt geen Android 16, zo heeft de fabrikant bevestigd. De fabrikant beloofde bij release drie Android-upgrades en die heeft de telefoon ook gehad. Wel blijven er voorlopig beveiligingsupdates komen.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/235378/nothing-phone-1-krijgt-geen-android-16.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235378</guid>
+            <pubDate>Thu, 22 May 2025 19:57:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - ExifTool 13.30</title>
+            <link>https://tweakers.net/downloads/72744/exiftool-1330.html</link>
+            <description>Phil Harvey heeft versie 13.30 van ExifTool uitgebracht. ExifTool is een gratis crossplatformprogramma waarmee de metadata van een groot aantal bestanden kan worden beheerd en bewerkt. Het werkt vanaf de commandline, maar er zijn oplossingen van derden beschikbaar waardoor het ook met een grafische gebruikersinterface kan worden gebruikt. Met enige regelmaat verschijnen er nieuwe versies, maar de meeste uitgaven worden onder de bètavlag beschikbaar gesteld, ondanks dat deze als stabiel kunnen worden beschouwd. Versie 13.30 is echter een stabiele uitgave en sinds versie 13.28 zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 13.30:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72744/exiftool-1330.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72744</guid>
+            <pubDate>Thu, 22 May 2025 19:34:12 +0200</pubDate>
+        </item>
+        <item>
+            <title>Switchbot brengt eerste slot uit met 3d-gezichtsherkenning</title>
+            <link>https://tweakers.net/nieuws/235376/switchbot-brengt-eerste-slot-uit-met-3d-gezichtsherkenning.html</link>
+            <description>Switchbot heeft zijn eerste slimme slot uitgebracht met 3d-gezichtsherkenning. Net als Face ID op iPhones maakt het gebruik van tienduizenden punten met een infraroodprojector om een gebruiker te herkennen.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Beeld en geluid / Bediening</category>
+            <comments>https://tweakers.net/nieuws/235376/switchbot-brengt-eerste-slot-uit-met-3d-gezichtsherkenning.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235376</guid>
+            <pubDate>Thu, 22 May 2025 19:07:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Endgame Gear voorziet zijn gamingmuizen van nieuwe, aangepaste sensors</title>
+            <link>https://tweakers.net/nieuws/235374/endgame-gear-voorziet-zijn-gamingmuizen-van-nieuwe-aangepaste-sensors.html</link>
+            <description>Endgame Gear toonde nieuwe versies van zijn gamingmuizen tijdens de Computex. Deze V2-varianten krijgen een aangepaste PixArt PAW3950-sensor, waarmee bijvoorbeeld de dpi nauwkeuriger kan worden ingesteld. De muizen verschijnen in het tweede en derde kwartaal.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Muizen</category>
+            <comments>https://tweakers.net/nieuws/235374/endgame-gear-voorziet-zijn-gamingmuizen-van-nieuwe-aangepaste-sensors.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235374</guid>
+            <pubDate>Thu, 22 May 2025 18:51:29 +0200</pubDate>
+        </item>
+        <item>
+            <title>Amazon begint met AI-podcasts over productpagina&#039;s</title>
+            <link>https://tweakers.net/nieuws/235372/amazon-begint-met-ai-podcasts-over-productpaginas.html</link>
+            <description>Amazon is begonnen met het testen van AI-podcasts over productpagina&#039;s. De overzichten zijn niet gepersonaliseerd, maar vatten wel productinformatie, gebruikersreviews en informatie van het internet samen in een paar minuten.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Beeld en geluid / Audio</category>
+            <comments>https://tweakers.net/nieuws/235372/amazon-begint-met-ai-podcasts-over-productpaginas.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235372</guid>
+            <pubDate>Thu, 22 May 2025 18:39:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Intel Arc B770-videokaart komt er toch, release gepland voor later dit jaar&#039;</title>
+            <link>https://tweakers.net/nieuws/235366/intel-arc-b770-videokaart-komt-er-toch-release-gepland-voor-later-dit-jaar.html</link>
+            <description>Intel werkt aan een Arc B770-videokaart op basis van de Battlemage-architectuur. Dat heeft Tweakers bij meerdere bronnen kunnen bevestigen tijdens de Computex. Tot nu toe heeft Intel alleen lager gepositioneerde B570- en B580-videokaarten met deze architectuur uitgebracht.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/235366/intel-arc-b770-videokaart-komt-er-toch-release-gepland-voor-later-dit-jaar.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235366</guid>
+            <pubDate>Thu, 22 May 2025 17:43:57 +0200</pubDate>
+        </item>
+        <item>
+            <title>Xiaomi kondigt socs aan voor high-end smartphones en voor smartwatches</title>
+            <link>https://tweakers.net/nieuws/235370/xiaomi-kondigt-socs-aan-voor-high-end-smartphones-en-voor-smartwatches.html</link>
+            <description>Xiaomi heeft twee eigen socs aangekondigd. De Xring O1 komt in een telefoon en moet de concurrentie aangaan met Qualcomm Snapdragon 8 Elite, de T1 komt in smartwatches en heeft voor het eerst een eigen 4G-modem.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/235370/xiaomi-kondigt-socs-aan-voor-high-end-smartphones-en-voor-smartwatches.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235370</guid>
+            <pubDate>Thu, 22 May 2025 17:10:20 +0200</pubDate>
+        </item>
+        <item>
+            <title>Microsoft blokkeert mails van medewerkers met woord &#039;Gaza&#039;</title>
+            <link>https://tweakers.net/nieuws/235364/microsoft-blokkeert-mails-van-medewerkers-met-woord-gaza.html</link>
+            <description>Microsoft heeft mails geblokkeerd die woorden als &#039;Gaza&#039; en &#039;Palestina&#039; bevatten. Diezelfde blokkade is er niet voor het woord &#039;Israël&#039;. Volgens Microsoft krijgen medewerkers ongewenst e-mails over politiek.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/235364/microsoft-blokkeert-mails-van-medewerkers-met-woord-gaza.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235364</guid>
+            <pubDate>Thu, 22 May 2025 16:52:51 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gigabyte M27UP-monitor is verkrijgbaar in zwart en wit</title>
+            <link>https://tweakers.net/nieuws/235368/gigabyte-m27up-monitor-is-verkrijgbaar-in-zwart-en-wit.html</link>
+            <description>Gigabyte laat op Computex een nieuwe 4k-ips-monitor van 27&quot; zien die naar keuze verkrijgbaar is met een zwarte of witte behuizing. Het 165Hz-scherm beschikt ook over dualmode, waarmee hij op een 320Hz-refreshrate kan werken bij een full-hd-resolutie.</description>
+            <author>Friso Weijers</author>
+            <category>Nieuws / Computers / Monitors</category>
+            <comments>https://tweakers.net/nieuws/235368/gigabyte-m27up-monitor-is-verkrijgbaar-in-zwart-en-wit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235368</guid>
+            <pubDate>Thu, 22 May 2025 16:46:53 +0200</pubDate>
+        </item>
         <item>
             <title>.Geek - Tweakers op Computex: retro-gpu&#039;s, bizarre casemods en monitor met 4-stackpaneel</title>
             <link>https://tweakers.net/geek/235314/tweakers-op-computex-retro-gpus-bizarre-casemods-en-monitor-met-4-stackpaneel.html</link>
@@ -108,12 +318,12 @@
             <pubDate>Thu, 22 May 2025 12:36:54 +0200</pubDate>
         </item>
         <item>
-            <title>Software-update - Visual Studio 2022 17.14.1</title>
-            <link>https://tweakers.net/downloads/72742/visual-studio-2022-17141.html</link>
-            <description>Microsoft heeft een update voor versie 17.14 van Visual Studio 2022 uitgebracht. Deze populaire programmeerontwikkelomgeving, verkrijgbaar in de smaken Community, Professional en Enterprise, beschikt over handige opties om het programmeren in onder meer Visual C++, Visual Basic, C#, F# en Python gemakkelijker te maken. De nieuwe versie is volledig 64bit en heeft een vereenvoudigde gebruikersinterface. Uitgebreide informatie over versie 17.14 is op deze pagina van Microsoft te vinden; in deze uitgave zijn verder nog de volgende verbeteringen aangebracht: Top bug fixes from the community</description>
+            <title>Software-update - Visual Studio 2022 17.14.2</title>
+            <link>https://tweakers.net/downloads/72742/visual-studio-2022-17142.html</link>
+            <description>Microsoft heeft kort achter elkaar twee updates voor versie 17.14 van Visual Studio 2022 uitgebracht. Deze populaire programmeerontwikkelomgeving, verkrijgbaar in de smaken Community, Professional en Enterprise, beschikt over handige opties om het programmeren in onder meer Visual C++, Visual Basic, C#, F# en Python gemakkelijker te maken. De nieuwe versie is volledig 64bit en heeft een vereenvoudigde gebruikersinterface. Uitgebreide informatie over versie 17.14 is op deze pagina van Microsoft te vinden; in deze uitgave zijn verder nog de volgende verbeteringen aangebracht: Fixed in version 17.14.2</description>
             <author>Bart van Klaveren</author>
             <category>Software</category>
-            <comments>https://tweakers.net/downloads/72742/visual-studio-2022-17141.html#reacties</comments>
+            <comments>https://tweakers.net/downloads/72742/visual-studio-2022-17142.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72742</guid>
             <pubDate>Thu, 22 May 2025 12:35:36 +0200</pubDate>
         </item>
@@ -206,216 +416,6 @@
             <comments>https://tweakers.net/nieuws/235334/vanhelsing-ransomwaregroep-deelt-broncode-van-ransomware-op-forum.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235334</guid>
             <pubDate>Thu, 22 May 2025 08:25:52 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft voorziet Windows 11 van Mac-achtige Handoff-functie</title>
-            <link>https://tweakers.net/nieuws/235332/microsoft-voorziet-windows-11-van-mac-achtige-handoff-functie.html</link>
-            <description>Windows 11 krijgt een nieuwe functie die vrij veel lijkt op de Handoff-functie op Mac. Het gaat om Cross Device Resume, waarmee apps naadloos synchroniseren tussen Android en pc. Wanneer de functie beschikbaar wordt, is onbekend.</description>
-            <author>Eveline Meijer</author>
-            <category>Nieuws / Computers / Besturingssystemen</category>
-            <comments>https://tweakers.net/nieuws/235332/microsoft-voorziet-windows-11-van-mac-achtige-handoff-functie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235332</guid>
-            <pubDate>Thu, 22 May 2025 08:04:23 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Actie - Breek met Ziggo de Kooi van Faraday: realiseer stabiele wifi en win 400 euro</title>
-            <link>https://tweakers.net/plan/4412/breek-met-ziggo-de-kooi-van-faraday-realiseer-stabiele-wifi-en-win-400-euro.html</link>
-            <description>Iedere tweaker kent het wel: lastige situaties bij vrienden of kennissen waardoor de wifi-verbinding allesbehalve stabiel is. Denk aan een net verbouwde badkamer waarbij tegels over tegels zijn geplakt. Of aan die oom die overal aquariums heeft staan, en die gameroom die toch wel heel goed blijkt geïsoleerd. De meeste tweakers weten echter dat snelheid alleen niet het hele verhaal is; betrouwbare wifi draait ook om wat er fysiek in huis gebeurt.</description>
-            <author>Tweakers Partners</author>
-            <category>.actie</category>
-            <comments>https://tweakers.net/plan/4412/breek-met-ziggo-de-kooi-van-faraday-realiseer-stabiele-wifi-en-win-400-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/plan/4412</guid>
-            <pubDate>Thu, 22 May 2025 08:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Wizfile 3.13</title>
-            <link>https://tweakers.net/downloads/72738/wizfile-313.html</link>
-            <description>Wizfile is een klein programma dat alle mappen en bestanden op een Windows-computer indexeert. In tegenstelling tot bijvoorbeeld Everything wordt de informatie niet in een database opgeslagen, maar in het werkgeheugen bewaard. Via uitgebreide zoekcriteria kan het snel elk willekeurig bestand of map op de computer lokaliseren. Het programma is gratis voor thuisgebruik, maar toont wel een donatieknop. Voor commercieel gebruik wordt een vergoeding gevraagd. Sinds versie 3.11 zijn de volgende veranderingen en verbeteringen aangebracht: Changes in WizFile version 3.13:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72738/wizfile-313.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72738</guid>
-            <pubDate>Thu, 22 May 2025 07:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Best Buy Guide - Beste allround tablets</title>
-            <link>https://tweakers.net/best-buy-guide/tablets/beste-allround-tablet</link>
-            <description>In deze BBG vind je tablets voor alle soorten gebruik. Wij kijken naar de mix van beeldkwaliteit, prestaties, accuduur en wegen de prijs-kwaliteitverhouding zwaar mee.</description>
-            <author>Dennis de Vries</author>
-            <category>Best Buy Guide / Tablets en telefoons / Tablets</category>
-            <comments>https://tweakers.net/best-buy-guide/tablets/beste-allround-tablet#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/best-buy-guide/tablets/beste-allround-tablet</guid>
-            <pubDate>Thu, 22 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Best Buy Guide - Beste tablets voor entertainment</title>
-            <link>https://tweakers.net/best-buy-guide/tablets/beste-tablet-voor-film-en-video</link>
-            <description>We zoeken in deze BBG de beste tablet voor het kijken naar films en tv of het spelen van games. Daarvoor moeten beeld en geluid uiteraard helemaal oké zijn.</description>
-            <author>Dennis de Vries</author>
-            <category>Best Buy Guide / Tablets en telefoons / Tablets</category>
-            <comments>https://tweakers.net/best-buy-guide/tablets/beste-tablet-voor-film-en-video#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/best-buy-guide/tablets/beste-tablet-voor-film-en-video</guid>
-            <pubDate>Thu, 22 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Best Buy Guide - Beste tablets voor kinderen</title>
-            <link>https://tweakers.net/best-buy-guide/tablets/beste-tablet-voor-kinderen</link>
-            <description>De beste tablet voor kinderen moet goede (educatieve) software hebben, een veilige en makkelijke kindermodus, tegen een stootje kunnen en goed beveiligd zijn.</description>
-            <author>Dennis de Vries</author>
-            <category>Best Buy Guide / Tablets en telefoons / Tablets</category>
-            <comments>https://tweakers.net/best-buy-guide/tablets/beste-tablet-voor-kinderen#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/best-buy-guide/tablets/beste-tablet-voor-kinderen</guid>
-            <pubDate>Thu, 22 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Best Buy Guide - Beste tablets voor productiviteit</title>
-            <link>https://tweakers.net/best-buy-guide/tablets/beste-tablet-voor-werk-en-productiviteit</link>
-            <description>In deze BBG zoeken we de beste tablets voor werkzaamheden. Daarbij zijn systeemprestaties, een goede &#039;desktopmodus&#039; en de beschikbaarheid van accessoires van belang.</description>
-            <author>Dennis de Vries</author>
-            <category>Best Buy Guide / Tablets en telefoons / Tablets</category>
-            <comments>https://tweakers.net/best-buy-guide/tablets/beste-tablet-voor-werk-en-productiviteit#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/best-buy-guide/tablets/beste-tablet-voor-werk-en-productiviteit</guid>
-            <pubDate>Thu, 22 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Video - Tweakers Podcast #374 - Computex-details, AI-angst en Chinese pakketjes</title>
-            <link>https://tweakers.net/video/19916/tweakers-podcast-374-computex-details-ai-angst-en-chinese-pakketjes.html</link>
-            <description>Deze week praten Wout Funnekotter, Jurian Ubachs, Arnoud Wokke en Jelle Stuip over Assassin&#039;s Creed als miljardenfranchise, de EU-heffing op Chinese pakketten, vibecoding met agenten, de Computex-hardwarebeurs en Googles ontwikkelaarsconferentie I/O.</description>
-            <author>Mark van der Kruit</author>
-            <category>Video / Beeld en geluid / Audio</category>
-            <comments>https://tweakers.net/video/19916/tweakers-podcast-374-computex-details-ai-angst-en-chinese-pakketjes.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/video/19916</guid>
-            <pubDate>Thu, 22 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Tweakers Podcast #374 - Computex-details, AI-angst en Chinese pakketjes</title>
-            <link>https://tweakers.net/geek/235308/tweakers-podcast-374-computex-details-ai-angst-en-chinese-pakketjes.html</link>
-            <description>Deze week praten Wout Funnekotter, Jurian Ubachs, Arnoud Wokke en Jelle Stuip over Assassin&#039;s Creed als miljardenfranchise, de EU-heffing op Chinese pakketten, vibecoding met agenten, de Computex-hardwarebeurs en Googles ontwikkelaarsconferentie I/O.</description>
-            <author>Arnoud Wokke</author>
-            <category>.Geek / Beeld en geluid / Audio</category>
-            <comments>https://tweakers.net/geek/235308/tweakers-podcast-374-computex-details-ai-angst-en-chinese-pakketjes.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/235308</guid>
-            <pubDate>Thu, 22 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>MIVD: Russische staatshackers APT28 vielen Nederland aan om hulp aan Oekraïne</title>
-            <link>https://tweakers.net/nieuws/235330/mivd-russische-staatshackers-apt28-vielen-nederland-aan-om-hulp-aan-oekraine.html</link>
-            <description>De Russische staatshackersgroep APT28 voerde cyberspionage uit in Nederland vanwege de Nederlandse hulp aan Oekraïne. Onder meer de krijgsmacht, ministeries en het bedrijfsleven zijn direct of indirect doelwit geweest.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/235330/mivd-russische-staatshackers-apt28-vielen-nederland-aan-om-hulp-aan-oekraine.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235330</guid>
-            <pubDate>Wed, 21 May 2025 21:11:43 +0200</pubDate>
-        </item>
-        <item>
-            <title>Sony stopt met loyaliteitsprogramma Playstation Stars</title>
-            <link>https://tweakers.net/nieuws/235324/sony-stopt-met-loyaliteitsprogramma-playstation-stars.html</link>
-            <description>Sony stopt met het PlayStation Stars-loyaliteitsprogramma. Met het programma kunnen spelers punten verdienen en korting krijgen op games en software. De punten zijn nog tot november 2026 in te wisselen.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / Gaming / Consoles</category>
-            <comments>https://tweakers.net/nieuws/235324/sony-stopt-met-loyaliteitsprogramma-playstation-stars.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235324</guid>
-            <pubDate>Wed, 21 May 2025 20:17:56 +0200</pubDate>
-        </item>
-        <item>
-            <title>OpenAI wil bedrijf van ex-Apple-ontwerper Jony Ive kopen voor 6,5 miljard dollar</title>
-            <link>https://tweakers.net/nieuws/235328/openai-wil-bedrijf-van-ex-apple-ontwerper-jony-ive-kopen-voor-6-komma-5-miljard-dollar.html</link>
-            <description>OpenAI wil io overnemen, een start-up die vorig jaar door Jony Ive is opgericht. Met de overname krijgt OpenAI een eigen hardwaretak voor het produceren van AI-producten. Ive en het io-team gaan ook werken aan de interface van ChatGPT.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/235328/openai-wil-bedrijf-van-ex-apple-ontwerper-jony-ive-kopen-voor-6-komma-5-miljard-dollar.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235328</guid>
-            <pubDate>Wed, 21 May 2025 19:53:23 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Ocenaudio 3.15.0</title>
-            <link>https://tweakers.net/downloads/72734/ocenaudio-3150.html</link>
-            <description>Versie 3.15.0 van Ocenaudio is uitgekomen. Dit gratis geluidsbewerkingsprogramma is van Braziliaanse bodem en heeft versies voor Windows, Linux en macOS. Het heeft uitgebreide mogelijkheden, zoals ondersteuning voor vst-plug-ins en het uitvoeren van een bewerking op verschillende plekken in een bestand tegelijk. Het openen en opslaan van bestanden gebeurt op de achtergrond, zodat het programma beschikbaar blijft. Verder is er een spectrumanalyzer aanwezig en het programma gaat zeer efficiënt om met geheugen. Het vergelijkbare Audacity heeft nog meer mogelijkheden en daardoor is Ocenaudio, zeker voor de beginnende gebruiker, net wat makkelijker te gebruiken. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 3.15.0:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72734/ocenaudio-3150.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72734</guid>
-            <pubDate>Wed, 21 May 2025 19:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nederlands kabinet wil dat ouders van kindvloggers ontheffing moeten aanvragen</title>
-            <link>https://tweakers.net/nieuws/235322/nederlands-kabinet-wil-dat-ouders-van-kindvloggers-ontheffing-moeten-aanvragen.html</link>
-            <description>De Nederlandse staatssecretaris van Sociale Zaken wil dat de ouders van kindvloggers een ontheffing moeten aanvragen als er geld verdiend wordt met die vlogs. Zo moet er beter toezicht komen op misstanden.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/235322/nederlands-kabinet-wil-dat-ouders-van-kindvloggers-ontheffing-moeten-aanvragen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235322</guid>
-            <pubDate>Wed, 21 May 2025 19:12:58 +0200</pubDate>
-        </item>
-        <item>
-            <title>Video - AMD-hardware op de Computex: RX 9060 XT en Threadripper 9000</title>
-            <link>https://tweakers.net/video/19914/amd-hardware-op-de-computex-rx-9060-xt-en-threadripper-9000.html</link>
-            <description>AMD hield op woensdag de allerlaatste keynote van de Computex en pakte uit met meer dan alleen AI. Het chipbedrijf kwam met nieuwe videokaarten voor gamers, Threadripper-cpu’s met 96 cores en nog veel meer.</description>
-            <author>Luke van Drie</author>
-            <category>Video / Computers / Processors</category>
-            <comments>https://tweakers.net/video/19914/amd-hardware-op-de-computex-rx-9060-xt-en-threadripper-9000.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/video/19914</guid>
-            <pubDate>Wed, 21 May 2025 19:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Sapphire gaat AMD-moederborden verkopen in Europa en toont kabelloze videokaart</title>
-            <link>https://tweakers.net/nieuws/235326/sapphire-gaat-amd-moederborden-verkopen-in-europa-en-toont-kabelloze-videokaart.html</link>
-            <description>Sapphire gaat moederborden verkopen in Europa. Het bedrijf maakt de producten al langer voor de Chinese markt, maar gaat ze vanaf deze zomer ook in Europa verkopen. Sapphire maakt alleen AMD-producten. Verder kondigt Sapphire een kabelloze videokaart aan.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / Computers / Moederborden</category>
-            <comments>https://tweakers.net/nieuws/235326/sapphire-gaat-amd-moederborden-verkopen-in-europa-en-toont-kabelloze-videokaart.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235326</guid>
-            <pubDate>Wed, 21 May 2025 18:43:16 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Media Player Classic - Home Cinema 2.4.3</title>
-            <link>https://tweakers.net/downloads/72732/media-player-classic-home-cinema-243.html</link>
-            <description>In juli 2017 is versie 1.7.13 van Media Player Classic - Home Cinema uitgekomen en gaven de ontwikkelaars aan dat zij verder geen nieuwe versies meer uit zouden brengen. De broncode is echter opensource en een ontwikkelaar die onder de naam clsid bij de website Doom9 bekendstaat en zelf lange tijd bij mpc-hc betrokken was, brengt nu af en toe nieuwe, &#039;onofficiële&#039; versies uit. Deze bevatten voornamelijk kleine verbeteringen en ook worden altijd de laatste versies van de LAV Filters en MediaInfo meegeleverd. Versie 2.4.3 is uitgekomen en hierin zijn de volgende veranderingen en verbeteringen aangebracht: Updates:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72732/media-player-classic-home-cinema-243.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72732</guid>
-            <pubDate>Wed, 21 May 2025 18:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Senua&#039;s Saga: Hellblade II krijgt deze zomer Enhanced-versie, komt ook naar PS5</title>
-            <link>https://tweakers.net/nieuws/235318/senuas-saga-hellblade-ii-krijgt-deze-zomer-enhanced-versie-komt-ook-naar-ps5.html</link>
-            <description>Senua&#039;s Saga: Hellblade II verschijnt deze zomer voor de PlayStation 5 &#039;met nieuwe functies&#039;. Deze functies komen ook als een gratis update naar de Xbox Series- en pc-versies van de game. De game kwam in mei vorig jaar uit voor Windows-pc&#039;s en Xbox Series-consoles.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/235318/senuas-saga-hellblade-ii-krijgt-deze-zomer-enhanced-versie-komt-ook-naar-ps5.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235318</guid>
-            <pubDate>Wed, 21 May 2025 17:59:54 +0200</pubDate>
-        </item>
-        <item>
-            <title>NXP wil Nijmeegse chipfabriek voor 2036 sluiten</title>
-            <link>https://tweakers.net/nieuws/235320/nxp-wil-nijmeegse-chipfabriek-voor-2036-sluiten.html</link>
-            <description>Chipfabrikant NXP wil de fabriek in Nijmegen sluiten. Het is niet bekend wanneer, al spreekt het bedrijf over een periode van tien jaar. De fabriek zou dus voor 2036 sluiten. In de fabriek wordt nu met 200mm-wafers gewerkt, terwijl het bedrijf wil overstappen op 300mm-wafers.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / Computers / Processors</category>
-            <comments>https://tweakers.net/nieuws/235320/nxp-wil-nijmeegse-chipfabriek-voor-2036-sluiten.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235320</guid>
-            <pubDate>Wed, 21 May 2025 17:43:47 +0200</pubDate>
-        </item>
-        <item>
-            <title>Transport Fever 3 verschijnt in 2026 op pc, PlayStation 5 en Xbox Series</title>
-            <link>https://tweakers.net/nieuws/235316/transport-fever-3-verschijnt-in-2026-op-pc-playstation-5-en-xbox-series.html</link>
-            <description>Ontwikkelaar Urban Games heeft Transport Fever 3 aangekondigd, een opvolger van Transport Fever 2 die in 2019 verscheen. Urban Games zegt dat het spel &#039;groter&#039; wordt en verbeterde tutorials en offshore industrieën krijgt, maar geeft nog niet veel details over wat er nieuw is.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/235316/transport-fever-3-verschijnt-in-2026-op-pc-playstation-5-en-xbox-series.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235316</guid>
-            <pubDate>Wed, 21 May 2025 17:19:24 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Total Commander 11.55 RC 3</title>
-            <link>https://tweakers.net/downloads/72730/total-commander-1155-rc-3.html</link>
-            <description>De derde releasecandidate van Total Commander versie 11.55 is verschenen. Dit programma kan als vervanging voor Windows Verkenner worden gebruikt. Doordat het beeld in tweeën is gesplitst, is het eenvoudig om bestanden te kopiëren, maar het programma kan veel meer. Zo zijn er diverse manieren om bestanden aan te passen, zijn een ingebouwde FTP-client en een multirenametool aanwezig, en is er ondersteuning voor een groot aantal compressieformaten. Verder kan de functionaliteit met plug-ins worden uitgebreid. Meer informatie over de veranderingen die in versie 11.55 zijn aangebracht kunnen op deze pagina worden gevonden; in deze derde release candidate zijn verder nog de volgende verbeteringen aangebracht: Added:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72730/total-commander-1155-rc-3.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72730</guid>
-            <pubDate>Wed, 21 May 2025 16:30:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
