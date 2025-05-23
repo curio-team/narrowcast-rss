@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 23 May 2025 13:31:01 +0200</pubDate>
-        <lastBuildDate>Fri, 23 May 2025 13:31:01 +0200</lastBuildDate>
+        <pubDate>Fri, 23 May 2025 14:41:01 +0200</pubDate>
+        <lastBuildDate>Fri, 23 May 2025 14:41:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>ASUS onthult workstationmoederborden voor socket AM5 en sTR5X, 3000W-voeding</title>
+            <link>https://tweakers.net/nieuws/235410/asus-onthult-workstationmoederborden-voor-socket-am5-en-str5x-3000w-voeding.html</link>
+            <description>ASUS presenteert op de Computex-beurs workstationmoederborden voor Ryzen-processors met AMD socket AM5 en Threadripper-cpu&#039;s op basis van sTR5X. De fabrikant kondigt ook een 3000W-voeding met 80 Plus Platinum-certificering aan voor workstations.</description>
+            <author>Idriz Velghe</author>
+            <category>Nieuws / Computers / Moederborden</category>
+            <comments>https://tweakers.net/nieuws/235410/asus-onthult-workstationmoederborden-voor-socket-am5-en-str5x-3000w-voeding.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235410</guid>
+            <pubDate>Fri, 23 May 2025 14:12:48 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Sigil 2.5.0</title>
+            <link>https://tweakers.net/downloads/72754/sigil-250.html</link>
+            <description>Versie 2.5.0 van Sigil is uitgekomen. Sigil is een opensource e-bookeditor met uitgebreide mogelijkheden die ontwikkeld wordt voor Windows, Linux en macOS. Het programma kan zowel epub- als HTML-bestanden importeren, inclusief opmaak en afbeeldingen. Er is volledige ondersteuning aanwezig voor zowel epub 2 als epub 3. Het kan verder een inhoudsopgave met verscheidene niveaus genereren en de epubsyntax direct bewerken in de code view. De changelog voor deze uitgave kan hieronder worden gevonden. New Features</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72754/sigil-250.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72754</guid>
+            <pubDate>Fri, 23 May 2025 14:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nieuwsblog: Computex verslaan doen we vanuit Taiwan én Amsterdam</title>
+            <link>https://tweakers.net/nieuws/235412/nieuwsblog-computex-verslaan-doen-we-vanuit-taiwan-en-amsterdam.html</link>
+            <description>Je hoefde de frontpage deze week niet lang open te hebben staan om te zien dat we weer midden in flink beursgeweld zitten. De Computex-beurs in Taiwan is weer bezig en Tweakers zit daar bovenop - zowel in Taipei als op onze redactie in Amsterdam. Hoe verslaan we zo&#039;n beurs eigenlijk?</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Overige componenten</category>
+            <comments>https://tweakers.net/nieuws/235412/nieuwsblog-computex-verslaan-doen-we-vanuit-taiwan-en-amsterdam.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235412</guid>
+            <pubDate>Fri, 23 May 2025 13:37:00 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Everything 1.4.1.1027</title>
             <link>https://tweakers.net/downloads/72752/everything-1411027.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/geek/235346/nintendo-besloot-in-2018-al-dat-mario-kart-world-geen-mario-kart-9-zou-heten.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/geek/235346</guid>
             <pubDate>Thu, 22 May 2025 11:26:18 +0200</pubDate>
-        </item>
-        <item>
-            <title>Marshall introduceert eerste eigen tv-soundbar voor 1000 euro</title>
-            <link>https://tweakers.net/nieuws/235344/marshall-introduceert-eerste-eigen-tv-soundbar-voor-1000-euro.html</link>
-            <description>Audiobedrijf Marshall heeft zijn eerste eigen soundbar geïntroduceerd. Het gaat om de Heston 120, met Dolby Atmos en DTS:X. De soundbar verschijnt op 3 juni, maar is nu al te reserveren. Het apparaat kost 1000 euro.</description>
-            <author>Eveline Meijer</author>
-            <category>Nieuws / Beeld en geluid / Soundbars</category>
-            <comments>https://tweakers.net/nieuws/235344/marshall-introduceert-eerste-eigen-tv-soundbar-voor-1000-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235344</guid>
-            <pubDate>Thu, 22 May 2025 10:43:11 +0200</pubDate>
-        </item>
-        <item>
-            <title>Achtergrond - Overzicht: al het Computex-nieuws per categorie verzameld</title>
-            <link>https://tweakers.net/reviews/13304/overzicht-al-het-computex-nieuws-per-categorie-verzameld.html</link>
-            <description>In dit artikel vind je al onze berichtgeving terug over Computex in 2025</description>
-            <author>Tijs Hofmans</author>
-            <category>Achtergrond / Computers / Processors</category>
-            <comments>https://tweakers.net/reviews/13304/overzicht-al-het-computex-nieuws-per-categorie-verzameld.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13304</guid>
-            <pubDate>Thu, 22 May 2025 10:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft en Europol verstoren infostealernetwerk Lumma Stealer</title>
-            <link>https://tweakers.net/nieuws/235342/microsoft-en-europol-verstoren-infostealernetwerk-lumma-stealer.html</link>
-            <description>Europol en Microsoft hebben het netwerk van infostealer Lumma Stealer weten te verstoren. Daarmee is de communicatie tussen de tool en zijn slachtoffers ontwricht. Ook zijn 1300 domeinen in beslag genomen of overgezet naar Microsoft.</description>
-            <author>Eveline Meijer</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/235342/microsoft-en-europol-verstoren-infostealernetwerk-lumma-stealer.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235342</guid>
-            <pubDate>Thu, 22 May 2025 09:53:31 +0200</pubDate>
         </item>
     </channel>
 </rss>
