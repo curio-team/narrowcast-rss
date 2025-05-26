@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 26 May 2025 10:41:00 +0200</pubDate>
-        <lastBuildDate>Mon, 26 May 2025 10:41:00 +0200</lastBuildDate>
+        <pubDate>Mon, 26 May 2025 11:41:01 +0200</pubDate>
+        <lastBuildDate>Mon, 26 May 2025 11:41:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Beelden onthullen drie nieuwe DJI-drones en actiecamera met ingebouwd display</title>
+            <link>https://tweakers.net/nieuws/235476/beelden-onthullen-drie-nieuwe-dji-drones-en-actiecamera-met-ingebouwd-display.html</link>
+            <description>Er zijn nieuwe beelden van de vermeende DJI Mini 5 Pro, DJI Avata 3 en DJI Neo 2 opgedoken. Dronefabrikant DJI zou volgens FCC-documenten ook aan een nieuwe Osmo Nano-actiecamera werken. Het bedrijf heeft de geruchten nog niet bevestigd.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / Beeld en geluid / Drones</category>
+            <comments>https://tweakers.net/nieuws/235476/beelden-onthullen-drie-nieuwe-dji-drones-en-actiecamera-met-ingebouwd-display.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235476</guid>
+            <pubDate>Mon, 26 May 2025 11:35:49 +0200</pubDate>
+        </item>
         <item>
             <title>Achtergrond - Overzicht: al het Computex-nieuws per categorie verzameld</title>
             <link>https://tweakers.net/reviews/13304/overzicht-al-het-computex-nieuws-per-categorie-verzameld.html</link>
@@ -58,12 +68,12 @@
             <pubDate>Mon, 26 May 2025 08:16:50 +0200</pubDate>
         </item>
         <item>
-            <title>.Adv - Zo onderscheiden Huawei Watch Fit 4, Watch Fit 4 Pro, Watch 5 en FreeBuds 6 zich</title>
-            <link>https://tweakers.net/plan/4418/zo-onderscheiden-huawei-watch-fit-4-watch-fit-4-pro-watch-5-en-freebuds-6-zich.html</link>
+            <title>.Adv - Dit is Huawei&#039;s nieuwste Watch 5 met E-Sim, Watch 4 series en Freebuds 6</title>
+            <link>https://tweakers.net/plan/4418/dit-is-huaweis-nieuwste-watch-5-met-e-sim-watch-4-series-en-freebuds-6.html</link>
             <description>Huawei heeft recent een reeks nieuwe producten aangekondigd in de wearable- en audiocategorie. Het bedrijf komt met twee varianten van zijn fitnesshorloge – de Huawei Watch Fit 4 Pro en de reguliere Watch Fit 4, een nieuwe high-end smartwatch – de Huawei Watch 5, en de nieuwe draadloze oordopjes Huawei FreeBuds 6. In dit artikel zetten we de belangrijkste vernieuwingen en specificaties op een rij.</description>
             <author>Tweakers Partners</author>
             <category>.adv</category>
-            <comments>https://tweakers.net/plan/4418/zo-onderscheiden-huawei-watch-fit-4-watch-fit-4-pro-watch-5-en-freebuds-6-zich.html#reacties</comments>
+            <comments>https://tweakers.net/plan/4418/dit-is-huaweis-nieuwste-watch-5-met-e-sim-watch-4-series-en-freebuds-6.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/plan/4418</guid>
             <pubDate>Mon, 26 May 2025 08:00:00 +0200</pubDate>
         </item>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/235420/wooting-ontwikkelt-hotswappable-losse-draaiknop.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235420</guid>
             <pubDate>Fri, 23 May 2025 16:33:07 +0200</pubDate>
-        </item>
-        <item>
-            <title>Politie haalt meer dan 300 botnets offline in strijd tegen ransomware</title>
-            <link>https://tweakers.net/nieuws/235418/politie-haalt-meer-dan-300-botnets-offline-in-strijd-tegen-ransomware.html</link>
-            <description>De politie heeft afgelopen week in samenwerking met internationale opsporingsdiensten meer dan driehonderd botnets offline gehaald. Cybercriminelen zetten die vaak in om ransomware-aanvallen uit te voeren. De ordediensten hebben ook cryptovaluta in beslag genomen en arrestatiebevelen uitgevaardigd tegen twintig personen.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/235418/politie-haalt-meer-dan-300-botnets-offline-in-strijd-tegen-ransomware.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235418</guid>
-            <pubDate>Fri, 23 May 2025 16:17:23 +0200</pubDate>
         </item>
     </channel>
 </rss>
