@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 23 May 2025 14:20:00 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 25 May 2025 22:23:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,68 +28,67 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>At TechCrunch Sessions: AI, Artemis Seaford and Ion Stoica confront the ethical crisis — when AI crosses the line</title>
-		<link>https://techcrunch.com/2025/05/23/when-ai-crosses-the-line-artemis-seaford-and-ion-stoica-confront-the-ethical-crisis-at-techcrunch-sessions-ai/</link>
+		<title>Tesla opened Cybertruck trade-ins, and the numbers aren’t pretty</title>
+		<link>https://techcrunch.com/2025/05/25/tesla-opened-cybertruck-trade-ins-and-the-numbers-arent-pretty/</link>
 		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Fri, 23 May 2025 14:20:00 +0000</pubDate>
+		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
+		<pubDate>Sun, 25 May 2025 22:20:18 +0000</pubDate>
 				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Security]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Cybertruck]]></category>
+		<category><![CDATA[resale]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3011668</guid>
+
+					<description><![CDATA[Per Inside EVs, Cybertruck owners are now allowed by Tesla to trade in their cars for the first time since they hit the market – but they&#8217;ll incur a heavy hit in the process. CarGurus recently showed depreciation rates of up to 45%. Meanwhile, Business Insider talked this past week with two owners who shared [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>From LLMs to hallucinations, here&#8217;s a simple guide to common AI terms</title>
+		<link>https://techcrunch.com/2025/05/25/from-llms-to-hallucinations-heres-a-simple-guide-to-common-ai-terms/</link>
+		
+		<dc:creator><![CDATA[Natasha Lomas, Romain Dillet, Kyle Wiggers]]></dc:creator>
+		<pubDate>Sun, 25 May 2025 20:50:44 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<category><![CDATA[Glossary]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2973217</guid>
+
+					<description><![CDATA[We thought it would be helpful to put together a glossary with definitions of some of the most important words and phrases that we use in our articles.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Why Intempus thinks robots should have a human physiological state</title>
+		<link>https://techcrunch.com/2025/05/25/why-intempus-thinks-robots-should-have-a-human-physiological-state/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Sun, 25 May 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
 		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[TechCrunch Sessions: AI]]></category>
-		<category><![CDATA[TC Sessions: AI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3011270</guid>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Peter Thiel]]></category>
+		<category><![CDATA[robotics]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[humanoid robots]]></category>
+		<category><![CDATA[world AI models]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3011215</guid>
 
-					<description><![CDATA[As generative AI becomes faster, cheaper, and more convincing, the ethical stakes are no longer theoretical. What happens when the tools to deceive become widely accessible? And how do we build systems that are powerful — but safe enough to trust? At TechCrunch Sessions: AI, taking place June 5 at UC Berkeley’s Zellerbach Hall, Artemis [&#8230;]]]></description>
+					<description><![CDATA[Teddy Warner, 19, has always been interested in robotics. His family was in the industry, and he says he &#8220;grew up&#8221; working in a machinist shop while in high school. Now Warner is building a robotics company of his own, Intempus, that looks to make robots a bit more human. Intempus is building tech to [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>X continues to suffer bugs following Thursday outage</title>
-		<link>https://techcrunch.com/2025/05/23/x-continues-to-suffer-bugs-following-thursday-outage/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Fri, 23 May 2025 14:16:19 +0000</pubDate>
-				<category><![CDATA[Social]]></category>
-		<category><![CDATA[Outage]]></category>
-		<category><![CDATA[social media]]></category>
-		<category><![CDATA[X]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3011348</guid>
-
-					<description><![CDATA[For over 24 hours, many X users, including this reporter, have been experiencing issues with the site&#8217;s basic functionality. Some messages won&#8217;t load, timelines won&#8217;t update, and certain posts can&#8217;t be seen without a webpage refresh (or several). The trouble started Thursday afternoon, according to Downdetector, a crowdsourced platform for flagging web outages. Beginning at [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Founders First: Iliana Quinonez of Google Cloud on AI agents, infrastructure, and democratization at TechCrunch Sessions: AI</title>
-		<link>https://techcrunch.com/2025/05/23/founders-first-iliana-quinonez-of-google-cloud-on-ai-agents-infrastructure-and-democratization-at-techcrunch-sessions-ai/</link>
+		<title>48 hours left: What you won’t want to miss at the 20th TechCrunch Disrupt in October</title>
+		<link>https://techcrunch.com/2025/05/25/48-hours-left-what-you-wont-want-to-miss-at-the-20th-techcrunch-disrupt-in-october/</link>
 		
 		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Fri, 23 May 2025 14:15:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[google cloud]]></category>
-		<category><![CDATA[TechCrunch Sessions: AI]]></category>
-		<category><![CDATA[TC Sessions: AI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3011254</guid>
-
-					<description><![CDATA[In the startup world, access to cutting-edge tools isn’t the biggest obstacle — it’s knowing how to wield them with precision. At TechCrunch Sessions: AI, taking place on June 5 at UC Berkeley’s Zellerbach Hall, we’re digging into the frameworks and decisions that determine whether an AI startup can scale — or stall. We’re excited [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tick tock: Just 3 days left to save up to $900 on your TechCrunch Disrupt 2025 pass</title>
-		<link>https://techcrunch.com/2025/05/23/tick-tock-just-3-days-left-to-save-up-to-900-on-your-techcrunch-disrupt-2025-pass/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Fri, 23 May 2025 14:00:00 +0000</pubDate>
+		<pubDate>Sun, 25 May 2025 14:00:00 +0000</pubDate>
 				<category><![CDATA[TC]]></category>
 		<category><![CDATA[Startups]]></category>
 		<category><![CDATA[Space]]></category>
@@ -100,301 +99,306 @@
 		<category><![CDATA[Media & Entertainment]]></category>
 		<category><![CDATA[AI]]></category>
 		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[TechCrunch Disrupt]]></category>
+		<category><![CDATA[TechCrunch Disrupt 2025]]></category>
+		<category><![CDATA[Disrupt 2025]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3011643</guid>
+
+					<description><![CDATA[​​There are just 48 hours left to save up to $900 on your ticket to TechCrunch Disrupt 2025 — and get 90% off the second. After May 25 at 11:59 p.m. PT, Early Bird pricing vanishes — along with your best chance to join 10,000 of tech’s most forward-thinking minds for less. But forget the [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Last 24 hours: TechCrunch Disrupt 2025 Early Bird Deals will fly away after today</title>
+		<link>https://techcrunch.com/2025/05/25/last-24-hours-techcrunch-disrupt-2025-early-bird-deals-will-fly-away-after-today/</link>
+		
+		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
+		<pubDate>Sun, 25 May 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[Space]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
 		<category><![CDATA[Robotics]]></category>
 		<category><![CDATA[Fundraising]]></category>
 		<category><![CDATA[TechCrunch Disrupt]]></category>
 		<category><![CDATA[TechCrunch Disrupt 2025]]></category>
 		<category><![CDATA[Disrupt 2025]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3011288</guid>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3011658</guid>
 
-					<description><![CDATA[Time’s almost up — save big before prices jump in 3 days!&#160; You’ve got until May 25 at 11:59 p.m. PT to save up to $900 on individual tickets to TechCrunch Disrupt 2025. Or double your impact — grab one Early Bird pass and get another for your +1 at 90% off. These deals will [&#8230;]]]></description>
+					<description><![CDATA[Just 24 hours left to lock in Early Bird pricing for TechCrunch Disrupt 2025 — happening October 27–29 at Moscone West in San Francisco. Save up to $900 on your pass, or bring someone brilliant with you for 90% off their ticket. This deal ends tonight at 11:59 p.m. PT. Grab your Early Bird discount [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Apple could launch AI-powered smart glasses in 2026</title>
-		<link>https://techcrunch.com/2025/05/23/apple-could-launch-ai-powered-smart-glasses-in-2026/</link>
+		<title>Why a new anti-revenge porn law has free speech experts alarmed </title>
+		<link>https://techcrunch.com/2025/05/24/why-a-new-anti-revenge-porn-law-has-free-speech-experts-alarmed/</link>
 		
-		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
-		<pubDate>Fri, 23 May 2025 13:37:07 +0000</pubDate>
-				<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Apple]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3011320</guid>
-
-					<description><![CDATA[Apple is reportedly looking to release a pair of smart glasses by the end of next year in a bid to compete with Meta’s AI-powered glasses, the Ray-Ban Meta. Apple’s wearable will have all the components one would expect in smart glasses, including a camera and microphone, and will have the ability to analyze what&#8217;s [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Trump threatens 25% tariffs on iPhones made outside the US</title>
-		<link>https://techcrunch.com/2025/05/23/trump-threatens-25-tariffs-on-iphones-made-outside-the-us/</link>
-		
-		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
-		<pubDate>Fri, 23 May 2025 13:21:11 +0000</pubDate>
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Sat, 24 May 2025 18:39:30 +0000</pubDate>
 				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[censorship]]></category>
+		<category><![CDATA[revenge porn]]></category>
+		<category><![CDATA[deepfakes]]></category>
 		<category><![CDATA[Trump]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3011319</guid>
+		<category><![CDATA[take it down act]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3011612</guid>
 
-					<description><![CDATA[President Trump lashed out at Apple on Friday, threatening the company with a 25% tariff on iPhones unless it moves production to the U.S. &#8220;I have long ago informed Tim Cook of Apple that I expect their iPhone’s [sic] that will be sold in the United States of America will be manufactured and built in [&#8230;]]]></description>
+					<description><![CDATA[The newly signed Take It Down Act makes it illegal to publish nonconsensual explicit images – real or AI-generated – and gives platforms just 48 hours to comply with a victim’s takedown request or face liability. While widely praised as a long-overdue win for victims, experts warn its vague language, lax standards for verifying claims, and tight compliance window could pave the way for overreach, censorship of legitimate content, and even surveillance. ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Mysterious hacking group Careto was run by the Spanish government, sources say</title>
-		<link>https://techcrunch.com/2025/05/23/mysterious-hacking-group-careto-was-run-by-the-spanish-government-sources-say/</link>
+		<title>Week in Review: Notorious hacking group tied to the Spanish government</title>
+		<link>https://techcrunch.com/2025/05/24/notorious-hacking-group-tied-to-the-spanish-government/</link>
 		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
-		<pubDate>Fri, 23 May 2025 10:00:00 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[hackers]]></category>
-		<category><![CDATA[hacking]]></category>
-		<category><![CDATA[spain]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[cuba]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[Kaspersky]]></category>
-		<category><![CDATA[infosec]]></category>
-		<category><![CDATA[Careto]]></category>
-		<category><![CDATA[The Mask]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3009679</guid>
-
-					<description><![CDATA[The elusive hacking group Careto was never publicly linked to a specific government, but TechCrunch has learned researchers concluded privately that the Spanish government was behind the group. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>After Klarna, Zoom&#8217;s CEO also uses an AI avatar on quarterly call</title>
-		<link>https://techcrunch.com/2025/05/22/after-klarna-zooms-ceo-also-uses-an-ai-avatar-on-quarterly-call/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Fri, 23 May 2025 06:34:16 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[AI meetings]]></category>
-		<category><![CDATA[earnings call]]></category>
+		<dc:creator><![CDATA[Karyne Levy]]></dc:creator>
+		<pubDate>Sat, 24 May 2025 17:05:00 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[Google]]></category>
 		<category><![CDATA[Klarna]]></category>
-		<category><![CDATA[zoom]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3011302</guid>
-
-					<description><![CDATA[After Klarna CEO, Zoom's CEO opts to use AI avatar for initial comments during the earnings call]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic CEO claims AI models hallucinate less than humans</title>
-		<link>https://techcrunch.com/2025/05/22/anthropic-ceo-claims-ai-models-hallucinate-less-than-humans/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Thu, 22 May 2025 22:48:21 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
+		<category><![CDATA[OpenAI]]></category>
 		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Claude]]></category>
-		<category><![CDATA[dario amodei]]></category>
-		<category><![CDATA[hallucinations]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3011201</guid>
+		<category><![CDATA[TechCrunch Week in Review]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3011557</guid>
 
-					<description><![CDATA[Anthropic CEO Dario Amodei believes today&#8217;s AI models hallucinate, or make things up and present them as if they&#8217;re true, at a lower rate than humans do, he said during a press briefing at Anthropic&#8217;s first developer event, Code with Claude, in San Francisco on Thursday. Amodei said all this in the midst of a [&#8230;]]]></description>
+					<description><![CDATA[Welcome back to Week in Review! Tons of news from this week for you, including a hacking group that&#8217;s linked to the Spanish government; CEOs using AI avatars to deliver company earnings; Pocket shutting down — or is it?; and much more. Let&#8217;s get to it!  More than 10 years in the making: Kaspersky first [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Hinge Health pops 17%, but joins growing ranks of down-round IPOs</title>
-		<link>https://techcrunch.com/2025/05/22/hinge-health-pops-17-but-joins-growing-ranks-of-down-round-ipos/</link>
+		<title>Naukri exposed recruiter email addresses, researcher says</title>
+		<link>https://techcrunch.com/2025/05/23/naukri-exposed-recruiter-email-addresses-researcher-says/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Sat, 24 May 2025 02:30:00 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[InfoEdge]]></category>
+		<category><![CDATA[Naukri.com]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3011382</guid>
+
+					<description><![CDATA[The recruiter website fixed the email address exposure earlier this week.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Khosla Ventures among VCs experimenting with AI-infused roll-ups of mature companies</title>
+		<link>https://techcrunch.com/2025/05/23/khosla-ventures-among-vcs-experimenting-with-ai-infused-roll-ups-of-mature-companies/</link>
 		
 		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Thu, 22 May 2025 21:58:33 +0000</pubDate>
-				<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[Hinge Health]]></category>
-		<category><![CDATA[insight partner]]></category>
-		<category><![CDATA[IPO]]></category>
-		<category><![CDATA[Sword Health]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3011241</guid>
-
-					<description><![CDATA[Hinge Health, a digital physical therapy company, closed its first day of trading on the New York Stock Exchange on Thursday at $37.56, up about 17% over the $32 IPO price it set the previous day. That’s a good first-day result. But even with the pop, Hinge’s public valuation is significantly less than its last [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Klarna CEO and Sutter Hill take victory lap after Jony Ive&#8217;s OpenAI deal</title>
-		<link>https://techcrunch.com/2025/05/22/klarna-ceo-and-sutter-hill-take-victory-lap-after-jony-ives-openai-deal/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Thu, 22 May 2025 21:34:21 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[jony ive]]></category>
-		<category><![CDATA[OpenAI fund]]></category>
-		<category><![CDATA[Sebastian Siemiatkowski]]></category>
-		<category><![CDATA[sutter hill ventures]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3011208</guid>
-
-					<description><![CDATA[Hours after Sam Altman and Jony Ive announced on Wednesday that OpenAI was buying Ive’s company, io, in an all-stock transaction valued at $6.5 billion, Klarna CEO Sebastian Siemiatkowski posted a surprising message on X.  Siemiatkowski&#8217;s family investment office, Flat Capital, had bought shares in io six months earlier, he said. Since this is an [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Bluesky will begin verifying &#8216;notable&#8217; users</title>
-		<link>https://techcrunch.com/2025/05/22/bluesky-will-begin-verifying-notable-users/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Thu, 22 May 2025 21:28:56 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Bluesky]]></category>
-		<category><![CDATA[social media]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3011203</guid>
-
-					<description><![CDATA[Bluesky on Thursday quietly opened the doors to those who want to become verified on its social networking service. In a post published by the Bluesky Safety account, the company announced that &#8220;notable and authentic&#8221; accounts can now apply for verification through a new online form. Plus, organizations can request to become a Trusted Verifier [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic&#8217;s latest flagship AI sure seems to love using the &#8216;cyclone&#8217; emoji</title>
-		<link>https://techcrunch.com/2025/05/22/anthropics-latest-flagship-ai-sure-seems-to-love-using-the-cyclone-emoji/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Thu, 22 May 2025 20:12:15 +0000</pubDate>
+		<pubDate>Fri, 23 May 2025 21:58:44 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Claude]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3011122</guid>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[accounting]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[General Catalyst]]></category>
+		<category><![CDATA[Khosla Ventures]]></category>
+		<category><![CDATA[Private Equity]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3011635</guid>
 
-					<description><![CDATA[Anthropic&#8217;s new flagship AI model, Claude Opus 4, is a strong programmer and writer, the company claims. When talking to itself, it&#8217;s also a prolific emoji user. That&#8217;s according to a technical report Anthropic released on Thursday, a part of which investigates how Opus 4 behaves in &#8220;open-ended self-interaction&#8221; — i.e. essentially having a chat [&#8230;]]]></description>
+					<description><![CDATA[Venture capitalists have always focused on investing in companies that leverage technology to either disrupt established industries or create entirely new business categories. But some VCs are starting to flip the script on their investing styles. Rather than funding startups, they are acquiring mature businesses — such as call centers, accounting firms, and other professional [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Tinder CEO to step down in July</title>
-		<link>https://techcrunch.com/2025/05/22/tinder-ceo-to-step-down-in-july/</link>
+		<title>Zoox issues second robotaxi software recall in a month following collision </title>
+		<link>https://techcrunch.com/2025/05/23/zoox-issues-second-robotaxi-software-recall-in-a-month-following-collision/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Fri, 23 May 2025 20:36:30 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Recalls]]></category>
+		<category><![CDATA[robotaxi]]></category>
+		<category><![CDATA[zoox]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3011609</guid>
+
+					<description><![CDATA[Amazon-owned autonomous vehicle company Zoox has issued its second voluntary software recall in a month, following a collision between one of its robotaxis and an e-scooter rider in San Francisco on May 8. The latest incident involved an unoccupied Zoox vehicle operating at low speed, which the company says was struck by the e-scooter after [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Landa promised real estate investing for $5. Now it&#8217;s gone dark.</title>
+		<link>https://techcrunch.com/2025/05/23/landa-promised-real-estate-investing-for-5-now-its-gone-dark/</link>
+		
+		<dc:creator><![CDATA[Mary Ann Azevedo, Sean O'Kane]]></dc:creator>
+		<pubDate>Fri, 23 May 2025 19:22:46 +0000</pubDate>
+				<category><![CDATA[Real estate]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Landa]]></category>
+		<category><![CDATA[NFX]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3011514</guid>
+
+					<description><![CDATA[The idea of becoming a real estate investor for as little as $5 may seem too good to be true. And for many users of Landa, a proptech company that promised just that &#8212; it has been. Landa emerged from stealth in August 2022, announcing a total of $33 million in funding and a pledge [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>What is Mistral AI? Everything to know about the OpenAI competitor</title>
+		<link>https://techcrunch.com/2025/05/23/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/</link>
+		
+		<dc:creator><![CDATA[Anna Heim]]></dc:creator>
+		<pubDate>Fri, 23 May 2025 19:16:22 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2970347</guid>
+
+					<description><![CDATA[Mistral AI, the French company behind AI assistant Le Chat and several foundational models, is officially regarded as one of France’s most promising tech startups and is arguably the only European company that could compete with OpenAI. But compared to its $6 billion valuation, its global market share is still relatively low.&#160; However, the recent [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple CEO reportedly urged Texas&#8217; governor to ditch online child safety bill</title>
+		<link>https://techcrunch.com/2025/05/23/apple-ceo-reportedly-urged-texas-governor-to-ditch-online-child-safety-bill/</link>
 		
 		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
-		<pubDate>Thu, 22 May 2025 19:21:36 +0000</pubDate>
-				<category><![CDATA[Social]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Match]]></category>
-		<category><![CDATA[Tinder]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3011131</guid>
+		<pubDate>Fri, 23 May 2025 19:11:12 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[online child safety]]></category>
+		<category><![CDATA[Tim Cook]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3011571</guid>
 
-					<description><![CDATA[Faye Iosotaluno, the CEO of Tinder, will step down from her role in July, according to a post she published on LinkedIn.&#160; Iosotaluno served less than two years in the role and spent nearly eight years overall at the company, which is owned by Match Group. In her post, she said she was “especially proud [&#8230;]]]></description>
+					<description><![CDATA[Apple CEO Tim Cook reportedly called Texas Gov. Greg Abbott to make changes to or veto a newly passed law in the state that would require the company to verify the ages of device owners, according to The Wall Street Journal. Abbott has yet to sign the bill. But Apple, alongside Google, has been working [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Senate votes to revoke California’s ability to set air pollution standards</title>
-		<link>https://techcrunch.com/2025/05/22/senate-votes-to-revoke-californias-ability-to-set-air-pollution-standards/</link>
+		<title>Kesha is now a startup founder</title>
+		<link>https://techcrunch.com/2025/05/23/kesha-is-now-a-startup-founder/</link>
 		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Thu, 22 May 2025 18:40:06 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[air pollution]]></category>
-		<category><![CDATA[california]]></category>
-		<category><![CDATA[electric vehicles]]></category>
-		<category><![CDATA[U.S. Senate]]></category>
-		<category><![CDATA[zero emissions]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3011066</guid>
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Fri, 23 May 2025 19:09:58 +0000</pubDate>
+				<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[kesha]]></category>
+		<category><![CDATA[Music]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3011442</guid>
 
-					<description><![CDATA[The state was to require increasing sales of zero-emissions cars and passenger trucks starting in 2026.]]></description>
+					<description><![CDATA[Kesha may have taken the dollar sign out of her name, but now, the singer is thinking about money again &#8212; not for herself, but to fund the seed round of her new startup, Smash. According to Kesha&#8217;s Instagram post, Smash will be a &#8220;community-based platform to connect and protect music creators,&#8221; which aligns with [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>A safety institute advised against releasing an early version of Anthropic&#8217;s Claude Opus 4 AI model</title>
-		<link>https://techcrunch.com/2025/05/22/a-safety-institute-advised-against-releasing-an-early-version-of-anthropics-claude-opus-4-ai-model/</link>
+		<title>Marjorie Taylor Greene picked a fight with Grok</title>
+		<link>https://techcrunch.com/2025/05/23/marjorie-taylor-greene-picked-a-fight-with-grok/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Fri, 23 May 2025 18:09:15 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Grok]]></category>
+		<category><![CDATA[Marjorie Taylor Greene]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3011497</guid>
+
+					<description><![CDATA[Last week, Elon Musk&#8217;s AI chatbot Grok experienced a &#8220;bug&#8221; that made it tell users about the &#8220;white genocide&#8221; conspiracy theory in South Africa, even when prompted with questions that had nothing to do with the topic … and soon after, Grok expressed skepticism over the Holocaust death toll, which it chalked up to a &#8220;programming [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>TechCrunch Mobility: Uber Freight’s AI bet, Tesla’s robotaxi caveat, and Nikola’s trucks hit the auction block</title>
+		<link>https://techcrunch.com/2025/05/23/techcrunch-mobility-uber-freights-ai-bet-teslas-robotaxi-caveat-and-nikolas-trucks-hit-the-auction-block/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Fri, 23 May 2025 17:45:00 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Nikola]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<category><![CDATA[uber freight]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3011428</guid>
+
+					<description><![CDATA[Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation. Sign up here for free — just click TechCrunch Mobility! For those U.S.-based readers out there, enjoy the long Memorial Day weekend, and if you’re on the road, expect it to be crowded. AAA projects 45.1 million [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI upgrades the AI model powering its Operator agent</title>
+		<link>https://techcrunch.com/2025/05/23/openai-upgrades-the-ai-model-powering-its-operator-agent/</link>
 		
 		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Thu, 22 May 2025 18:32:47 +0000</pubDate>
+		<pubDate>Fri, 23 May 2025 17:43:33 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Claude]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3010952</guid>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[operator]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3011480</guid>
 
-					<description><![CDATA[A third-party research institute that Anthropic partnered with to test one of its new flagship AI models, Claude Opus 4, recommended against deploying an early version of the model due to its tendency to &#8220;scheme&#8221; and deceive. According to a safety report Anthropic published Thursday, the institute, Apollo Research, conducted tests to see in which [&#8230;]]]></description>
+					<description><![CDATA[OpenAI is updating the AI model powering&#160;Operator, its AI agent that can autonomously browse the web and use certain software within a cloud-hosted virtual machine to fulfill users&#8217; requests. Soon, Operator will use a model based on o3, one of the latest in OpenAI&#8217;s o series of &#8220;reasoning&#8221; models. Previously, Operator relied on a custom [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Microsoft says Lumma password stealer malware found on 394,000 Windows PCs</title>
-		<link>https://techcrunch.com/2025/05/22/microsoft-says-lumma-password-stealer-malware-found-on-394000-windows-pcs/</link>
+		<title>Startups Weekly: Cutting through Google I/O noise</title>
+		<link>https://techcrunch.com/2025/05/23/startups-weekly-cutting-through-google-i-o-noise/</link>
 		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Thu, 22 May 2025 18:09:11 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[justice department]]></category>
-		<category><![CDATA[malware]]></category>
+		<dc:creator><![CDATA[Anna Heim]]></dc:creator>
+		<pubDate>Fri, 23 May 2025 17:05:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[venture capital]]></category>
+		<category><![CDATA[newsletters]]></category>
+		<category><![CDATA[Startups Weekly]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3011046</guid>
+
+					<description><![CDATA[Google I/O didn't stop startups from taking their chances and announcing some big deals this week. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft says its Aurora AI can accurately predict air quality, typhoons, and more</title>
+		<link>https://techcrunch.com/2025/05/23/microsoft-says-its-aurora-ai-can-accurately-predict-air-quality-typhoons-and-more/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Fri, 23 May 2025 17:00:03 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Microsoft]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3011053</guid>
+		<category><![CDATA[weather]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3011401</guid>
 
-					<description><![CDATA[Microsoft and law enforcement announced a coordinated takedown of the Lumma pasword-stealing malware.]]></description>
+					<description><![CDATA[One of Microsoft&#8217;s latest AI models can accurately predict air quality, hurricanes, typhoons, and other weather-related phenomena, the company claims. In a paper published in the journal Nature and an accompanying blog post this week, Microsoft detailed Aurora, which the tech giant says can forecast atmospheric events with greater precision and speed than traditional meteorological [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Mozilla is shutting down read-it-later app Pocket</title>
-		<link>https://techcrunch.com/2025/05/22/mozilla-is-shutting-down-read-it-later-app-pocket/</link>
+		<title>Discord seeks to solve a problem that it created</title>
+		<link>https://techcrunch.com/2025/05/23/discord-seeks-to-solve-a-problem-that-it-created/</link>
 		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Thu, 22 May 2025 18:06:21 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Mozilla]]></category>
-		<category><![CDATA[pocket]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3011040</guid>
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Fri, 23 May 2025 16:14:25 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[discord]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3011393</guid>
 
-					<description><![CDATA[Mozilla announced on Thursday that it&#8217;s shutting down Pocket, a read-it-later app it acquired in 2017, on July 8. The company is also shutting down Fakespot, its browser extension that helps users identify unreliable reviews. &#8220;Pocket has helped millions save articles and discover stories worth reading,&#8221; Mozilla said in a blog post. &#8220;But the way [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic&#8217;s new AI model turns to blackmail when engineers try to take it offline</title>
-		<link>https://techcrunch.com/2025/05/22/anthropics-new-ai-model-turns-to-blackmail-when-engineers-try-to-take-it-offline/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Thu, 22 May 2025 17:47:45 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3010999</guid>
-
-					<description><![CDATA[Anthropic&#8217;s newly launched Claude Opus 4 model frequently tries to blackmail developers when they threaten to replace it with a new AI system and give it sensitive information about the engineers responsible for the decision, the company said in a safety report released Thursday. During pre-release testing, Anthropic asked Claude Opus 4 to act as [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Open social web browser Surf makes it easier for anyone to build custom feeds</title>
-		<link>https://techcrunch.com/2025/05/22/open-social-web-browser-surf-makes-it-easier-for-anyone-to-build-custom-feeds/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Thu, 22 May 2025 17:39:58 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Bluesky]]></category>
-		<category><![CDATA[flipboard]]></category>
-		<category><![CDATA[social feeds]]></category>
-		<category><![CDATA[social media]]></category>
-		<category><![CDATA[surf]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3010937</guid>
-
-					<description><![CDATA[With Starter Sets, Surf is simplifying the process of building those custom feeds, personalizing them, and even publishing them off-platform, if you choose.]]></description>
+					<description><![CDATA[Discord is entering its second decade as a company and is seeking to go public. Along the way, it&#8217;s changed the way that online communities interact, turning groups that may have previously existed as forums or message boards into multi-channel instant message servers. Now, everything finds a home on Discord, whether it&#8217;s an AI platform [&#8230;]]]></description>
 		
 		
 		
