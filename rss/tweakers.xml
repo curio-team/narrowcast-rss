@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 26 May 2025 09:36:01 +0200</pubDate>
-        <lastBuildDate>Mon, 26 May 2025 09:36:01 +0200</lastBuildDate>
+        <pubDate>Mon, 26 May 2025 10:41:00 +0200</pubDate>
+        <lastBuildDate>Mon, 26 May 2025 10:41:00 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Achtergrond - Overzicht: al het Computex-nieuws per categorie verzameld</title>
+            <link>https://tweakers.net/reviews/13304/overzicht-al-het-computex-nieuws-per-categorie-verzameld.html</link>
+            <description>In dit artikel vind je al onze berichtgeving terug over Computex in 2025</description>
+            <author>Tijs Hofmans</author>
+            <category>Achtergrond / Computers / Processors</category>
+            <comments>https://tweakers.net/reviews/13304/overzicht-al-het-computex-nieuws-per-categorie-verzameld.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13304</guid>
+            <pubDate>Mon, 26 May 2025 10:25:29 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Google wil meerjarige samenwerking met TSMC rond Tensor-chips&#039;</title>
+            <link>https://tweakers.net/nieuws/235474/google-wil-meerjarige-samenwerking-met-tsmc-rond-tensor-chips.html</link>
+            <description>Enkele bestuursleden van Google zouden begin dit jaar naar het hoofdkwartier van TSMC in Taiwan zijn afgereisd om een meerjarige samenwerking tussen de twee bedrijven te bespreken. Het samenwerkingsverband zou over de Tensor-chips gaan en minstens drie tot vijf jaar duren.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/235474/google-wil-meerjarige-samenwerking-met-tsmc-rond-tensor-chips.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235474</guid>
+            <pubDate>Mon, 26 May 2025 10:21:47 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Samsung wil vanaf 2028 glazen substraten in chips gebruiken&#039;</title>
+            <link>https://tweakers.net/nieuws/235472/samsung-wil-vanaf-2028-glazen-substraten-in-chips-gebruiken.html</link>
+            <description>Samsung zou vanaf 2028 glazen substraten willen gebruiken in zijn chips. Het bedrijf wil hiermee naar verluidt inspelen op de toenemende vraag naar geavanceerde AI-chips. Het productieproces zou afwijken van de industrienorm om een snellere implementatie mogelijk te maken.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/235472/samsung-wil-vanaf-2028-glazen-substraten-in-chips-gebruiken.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235472</guid>
+            <pubDate>Mon, 26 May 2025 09:45:15 +0200</pubDate>
+        </item>
         <item>
             <title>OpenAI&#039;s taalmodellen blijven actief ondanks commando&#039;s om te stoppen</title>
             <link>https://tweakers.net/nieuws/235468/openais-taalmodellen-blijven-actief-ondanks-commandos-om-te-stoppen.html</link>
@@ -50,7 +80,7 @@
         <item>
             <title>Zotac toont drie mini-pc&#039;s, waaronder een met Ryzen AI Max-cpu met forse igpu</title>
             <link>https://tweakers.net/nieuws/235466/zotac-toont-drie-mini-pcs-waaronder-een-met-ryzen-ai-max-cpu-met-forse-igpu.html</link>
-            <description>Zotac heeft tijdens de Computex drie nieuwe mini-pc&#039;s aangekondigd. Een daarvan heeft een Ryzen AI Max-processor met een krachtige AMD Radeon 8050S-igpu. De andere twee mini-computers zijn uitgerust met een desktop-gpu van Nvidia.</description>
+            <description>Zotac heeft tijdens Computex drie nieuwe mini-pc&#039;s aangekondigd. Een daarvan heeft een Ryzen AI Max-processor met een krachtige AMD Radeon 8050S-igpu. De andere twee mini-computers zijn uitgerust met een desktop-gpu van Nvidia.</description>
             <author>Kevin Krikhaar</author>
             <category>Nieuws / Computers / Pc&#039;s</category>
             <comments>https://tweakers.net/nieuws/235466/zotac-toont-drie-mini-pcs-waaronder-een-met-ryzen-ai-max-cpu-met-forse-igpu.html#reacties</comments>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/235418/politie-haalt-meer-dan-300-botnets-offline-in-strijd-tegen-ransomware.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235418</guid>
             <pubDate>Fri, 23 May 2025 16:17:23 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Final Cut Pro 11.1.1</title>
-            <link>https://tweakers.net/downloads/72756/final-cut-pro-1111.html</link>
-            <description>Apple heeft versie 11.1.1 van zijn videobewerkingsprogramma Final Cut Pro uitgebracht. In versie 11 treffen we onder meer een nieuwe functie aan met de naam Magnetic Mask, waarmee objecten kunnen worden geselecteerd. Verder is er Transcribe to Captions voor het automatisch genereren van ondertiteling en kunnen er ook projecten met ruimtelijke video van bijvoorbeeld de Apple Vision Pro worden geïmporteerd en bewerkt. Sinds versie 11.0.1 zijn de volgende veranderingen en verbeteringen aangebracht:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72756/final-cut-pro-1111.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72756</guid>
-            <pubDate>Fri, 23 May 2025 15:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Nvidia RTX 5080 Super krijgt meer en sneller vram, verbruikt minstens 400 watt&#039;</title>
-            <link>https://tweakers.net/nieuws/235414/nvidia-rtx-5080-super-krijgt-meer-en-sneller-vram-verbruikt-minstens-400-watt.html</link>
-            <description>Nvidia werkt volgens een leaker aan een GeForce RTX 5080 Super. Deze Super-variant zou meer videogeheugen hebben, dat bovendien sneller is dan dat van de gewone RTX 5080. De nieuwe gpu verbruikt naar verluidt ook flink wat meer stroom.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/nieuws/235414/nvidia-rtx-5080-super-krijgt-meer-en-sneller-vram-verbruikt-minstens-400-watt.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235414</guid>
-            <pubDate>Fri, 23 May 2025 15:12:43 +0200</pubDate>
-        </item>
-        <item>
-            <title>ASUS onthult workstationmoederborden voor socket AM5 en sTR5X, 3000W-voeding</title>
-            <link>https://tweakers.net/nieuws/235410/asus-onthult-workstationmoederborden-voor-socket-am5-en-str5x-3000w-voeding.html</link>
-            <description>ASUS presenteert op de Computex-beurs workstationmoederborden voor Ryzen-processors met AMD socket AM5 en Threadripper-cpu&#039;s op basis van sTR5X. De fabrikant kondigt ook een 3000W-voeding met 80 Plus Platinum-certificering aan voor workstations.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Computers / Moederborden</category>
-            <comments>https://tweakers.net/nieuws/235410/asus-onthult-workstationmoederborden-voor-socket-am5-en-str5x-3000w-voeding.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235410</guid>
-            <pubDate>Fri, 23 May 2025 14:12:48 +0200</pubDate>
         </item>
     </channel>
 </rss>
