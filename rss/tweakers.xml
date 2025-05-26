@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 26 May 2025 14:41:01 +0200</pubDate>
-        <lastBuildDate>Mon, 26 May 2025 14:41:01 +0200</lastBuildDate>
+        <pubDate>Mon, 26 May 2025 15:36:01 +0200</pubDate>
+        <lastBuildDate>Mon, 26 May 2025 15:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,12 +18,32 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
-            <title>Nederlandse artsen: geef kinderen telefoon vanaf 14 jaar, sociale media vanaf 16</title>
-            <link>https://tweakers.net/nieuws/235484/nederlandse-artsen-geef-kinderen-telefoon-vanaf-14-jaar-sociale-media-vanaf-16.html</link>
+            <title>Software-update - Linux Kernel 6.15</title>
+            <link>https://tweakers.net/downloads/72770/linux-kernel-615.html</link>
+            <description>Linus Torvalds heeft versie 6.15 van de Linux Kernel vrijgegeven. De kernel is het hart van het besturingssysteem en zit, simpel gezegd, als laag tussen de hardware en de applicaties in. De nieuwe uitgave bevat de gebruikelijke hoeveelheid aan verbeteringen. Meer informatie kan bij 9to5Linux en OMG Ubuntu worden gevonden. Linux 6.15 Released</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72770/linux-kernel-615.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72770</guid>
+            <pubDate>Mon, 26 May 2025 15:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google Pixel 10 lekt uit tijdens filmen reclamefilmpje</title>
+            <link>https://tweakers.net/nieuws/235486/google-pixel-10-lekt-uit-tijdens-filmen-reclamefilmpje.html</link>
+            <description>Een fotograaf heeft de Google Pixel 10 gespot toen hij zag dat een crew een reclamefilmpje aan het maken was over de telefoon. Google kondigt de Pixel 10 naar verwachting over ongeveer drie maanden aan.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/235486/google-pixel-10-lekt-uit-tijdens-filmen-reclamefilmpje.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235486</guid>
+            <pubDate>Mon, 26 May 2025 14:58:11 +0200</pubDate>
+        </item>
+        <item>
+            <title>Ruim 1400 artsen vragen kabinet om leeftijdsgrens voor smartphones</title>
+            <link>https://tweakers.net/nieuws/235484/ruim-1400-artsen-vragen-kabinet-om-leeftijdsgrens-voor-smartphones.html</link>
             <description>Een groep van ruim 1400 Nederlandse artsen heeft het kabinet opgeroepen om leeftijdsgrenzen in te stellen voor het gebruik van een smartphone en sociale media door kinderen. Een smartphone zou pas toegestaan moeten zijn vanaf 14 jaar, sociale media vanaf 16 jaar.</description>
             <author>Arnoud Wokke</author>
             <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/235484/nederlandse-artsen-geef-kinderen-telefoon-vanaf-14-jaar-sociale-media-vanaf-16.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/235484/ruim-1400-artsen-vragen-kabinet-om-leeftijdsgrens-voor-smartphones.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235484</guid>
             <pubDate>Mon, 26 May 2025 14:09:44 +0200</pubDate>
         </item>
@@ -98,7 +118,7 @@
             <pubDate>Mon, 26 May 2025 08:16:50 +0200</pubDate>
         </item>
         <item>
-            <title>.Adv - Dit is Huawei&#039;s nieuwste Watch 5 met E-Sim, Watch 4 series en Freebuds 6</title>
+            <title>.Adv - Dit is Huawei&#039;s nieuwste Watch 5 met e-sim, Watch 4 series en Freebuds 6</title>
             <link>https://tweakers.net/plan/4418/dit-is-huaweis-nieuwste-watch-5-met-e-sim-watch-4-series-en-freebuds-6.html</link>
             <description>Huawei heeft recent een reeks nieuwe producten aangekondigd in de wearable- en audiocategorie. Het bedrijf komt met twee varianten van zijn fitnesshorloge – de Huawei Watch Fit 4 Pro en de reguliere Watch Fit 4, een nieuwe high-end smartwatch – de Huawei Watch 5, en de nieuwe draadloze oordopjes Huawei FreeBuds 6. In dit artikel zetten we de belangrijkste vernieuwingen en specificaties op een rij.</description>
             <author>Tweakers Partners</author>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/235430/asrock-onthult-eerste-overklokmoederbord-voor-amd-processors.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235430</guid>
             <pubDate>Fri, 23 May 2025 19:09:54 +0200</pubDate>
-        </item>
-        <item>
-            <title>Lian Li toont kasten met fans in glazen frontpaneel en &#039;volledig draadloze&#039; fans</title>
-            <link>https://tweakers.net/nieuws/235428/lian-li-toont-kasten-met-fans-in-glazen-frontpaneel-en-volledig-draadloze-fans.html</link>
-            <description>Lian Li toont op Computex verschillende innovaties rond ventilators. Enerzijds heeft de fabrikant fans verwerkt in het glazen frontpaneel van verschillende kasten. Anderzijds showt de ceo twee gekoppelde fans, die dankzij een accu voor een korte tijd volledig draadloos werken.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Computers / Behuizingen</category>
-            <comments>https://tweakers.net/nieuws/235428/lian-li-toont-kasten-met-fans-in-glazen-frontpaneel-en-volledig-draadloze-fans.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235428</guid>
-            <pubDate>Fri, 23 May 2025 17:59:28 +0200</pubDate>
-        </item>
-        <item>
-            <title>Arctic brengt na lange tijd nieuwe behuizing uit, nadruk op koeling en gemak</title>
-            <link>https://tweakers.net/nieuws/235426/arctic-brengt-na-lange-tijd-nieuwe-behuizing-uit-nadruk-op-koeling-en-gemak.html</link>
-            <description>Arctic toont op Computex de Xtender-behuizing, de eerste pc-kast in jaren van het Duitse merk. De midtower moet uitblinken op het gebied van koelprestaties en installatiegemak. De Xtender verschijnt in zwart en wit en is over ongeveer een maand beschikbaar.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Computers / Behuizingen</category>
-            <comments>https://tweakers.net/nieuws/235426/arctic-brengt-na-lange-tijd-nieuwe-behuizing-uit-nadruk-op-koeling-en-gemak.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235426</guid>
-            <pubDate>Fri, 23 May 2025 17:17:03 +0200</pubDate>
         </item>
     </channel>
 </rss>
