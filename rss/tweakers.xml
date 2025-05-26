@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 26 May 2025 12:36:01 +0200</pubDate>
-        <lastBuildDate>Mon, 26 May 2025 12:36:01 +0200</lastBuildDate>
+        <pubDate>Mon, 26 May 2025 13:31:00 +0200</pubDate>
+        <lastBuildDate>Mon, 26 May 2025 13:31:00 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,12 +18,32 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
-            <title>&#039;DJI Mini 5 Pro verschijnt in september met 1&quot;-sensor en verbeterde koeling&#039;</title>
-            <link>https://tweakers.net/nieuws/235476/dji-mini-5-pro-verschijnt-in-september-met-1-inch-sensor-en-verbeterde-koeling.html</link>
-            <description>Er zijn nieuwe beelden van de vermeende DJI Mini 5 Pro, DJI Avata 3 en DJI Neo 2 opgedoken. Dronefabrikant DJI zou volgens FCC-documenten ook aan een nieuwe Osmo Nano-actiecamera werken. Het bedrijf heeft de geruchten nog niet bevestigd.</description>
+            <title>Software-update - DietPi 9.13</title>
+            <link>https://tweakers.net/downloads/72768/dietpi-913.html</link>
+            <description>DietPi is een lichtgewicht besturingssysteem voor zogenaamde singleboardcomputers. Het is op Debian gebaseerd en geoptimaliseerd om maximale prestaties uit de kleine computers te halen. DietPi heeft daarnaast ook een groot aantal ready-to-run applicaties die kunnen worden geïnstalleerd. Hoewel de naam anders doet vermoeden is het niet alleen geschikt voor Raspberry Pi&#039;s, maar ook prima te gebruiken op hardware van bijvoorbeeld Odroid, Orange Rock en Pine. Versie 9.12 is uitgekomen en hier zijn de volgende verbeteringen in aangebracht: Overview</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72768/dietpi-913.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72768</guid>
+            <pubDate>Mon, 26 May 2025 13:23:58 +0200</pubDate>
+        </item>
+        <item>
+            <title>Bloomberg: Apple geeft tvOS en watchOS ook nieuwe interface</title>
+            <link>https://tweakers.net/nieuws/235480/bloomberg-apple-geeft-tvos-en-watchos-ook-nieuwe-interface.html</link>
+            <description>Apple zal dit jaar niet enkel de interface van iOS 19, iPadOS 19 en macOS 16 in een nieuw jasje steken. Het bedrijf zal ook de interface van tvOS, watchOS en, in beperkte mate, visionOS onder handen nemen. Dat schrijft Bloomberg-journalist Mark Gurman in zijn wekelijkse nieuwsbrief.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / Tablets en telefoons / Smartwatches</category>
+            <comments>https://tweakers.net/nieuws/235480/bloomberg-apple-geeft-tvos-en-watchos-ook-nieuwe-interface.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235480</guid>
+            <pubDate>Mon, 26 May 2025 12:43:20 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;DJI Mini 5 Pro beschikt over 1&quot;-sensor en verbeterde koeling&#039;</title>
+            <link>https://tweakers.net/nieuws/235476/dji-mini-5-pro-beschikt-over-1-inch-sensor-en-verbeterde-koeling.html</link>
+            <description>Er zijn nieuwe details van de vermoedelijke DJI Mini 5 Pro opgedoken. Het apparaat zou een 1&quot;-camerasensor en een verbeterde koeling krijgen. Uit uitgelekt materiaal blijkt ook dat DJI aan een Avata 3- en Neo 2-drone werkt en een Osmo Nano-actiecamera ontwikkelt.</description>
             <author>Jay Stout</author>
             <category>Nieuws / Beeld en geluid / Drones</category>
-            <comments>https://tweakers.net/nieuws/235476/dji-mini-5-pro-verschijnt-in-september-met-1-inch-sensor-en-verbeterde-koeling.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/235476/dji-mini-5-pro-beschikt-over-1-inch-sensor-en-verbeterde-koeling.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235476</guid>
             <pubDate>Mon, 26 May 2025 11:35:49 +0200</pubDate>
         </item>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/235422/lynk+-is-systeem-voor-custom-cpu-en-gpu-waterkoeling-zonder-gedoe.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235422</guid>
             <pubDate>Fri, 23 May 2025 17:05:58 +0200</pubDate>
-        </item>
-        <item>
-            <title>Firmware-update - SteamOS 3.7.8</title>
-            <link>https://tweakers.net/downloads/72758/steamos-378.html</link>
-            <description>Valve heeft nieuwe firmware voor de Steam Deck uitgebracht. Deze draagbare spelcomputer is sinds februari 2022 op de markt en draait een door Valve ontwikkelde Linuxdistributie genaamd SteamOS. Door middel van Proton kan het Windows applicaties en spellen draaien. De update draagt versienummer 3.7.8 en bijwerken kan door op de Steam-knop te drukken en dan in System op Check for updates te klikken. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: General</description>
-            <author>Bart van Klaveren</author>
-            <category>Firmware</category>
-            <comments>https://tweakers.net/downloads/72758/steamos-378.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72758</guid>
-            <pubDate>Fri, 23 May 2025 17:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Wooting ontwikkelt hotswappable losse draaiknop</title>
-            <link>https://tweakers.net/nieuws/235420/wooting-ontwikkelt-hotswappable-losse-draaiknop.html</link>
-            <description>Tijdens de Computex heeft Wooting een prototype van een rotaryencoder getoond. Anders dan bij andere toetsenborden met een rotary kun je deze knop hotswappen en in plaats van een switch in een keyboard plaatsen.</description>
-            <author>Willem de Moor</author>
-            <category>Nieuws / Computers / Toetsenborden</category>
-            <comments>https://tweakers.net/nieuws/235420/wooting-ontwikkelt-hotswappable-losse-draaiknop.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235420</guid>
-            <pubDate>Fri, 23 May 2025 16:33:07 +0200</pubDate>
         </item>
     </channel>
 </rss>
