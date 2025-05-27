@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 27 May 2025 12:36:02 +0200</pubDate>
-        <lastBuildDate>Tue, 27 May 2025 12:36:02 +0200</lastBuildDate>
+        <pubDate>Tue, 27 May 2025 13:31:07 +0200</pubDate>
+        <lastBuildDate>Tue, 27 May 2025 13:31:07 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Rabobank-klanten kunnen door storing geen geld overmaken via app of browser</title>
+            <link>https://tweakers.net/nieuws/235528/rabobank-klanten-kunnen-door-storing-geen-geld-overmaken-via-app-of-browser.html</link>
+            <description>Rabobank-klanten kunnen door een storing geen geld overmaken via de app of browser. De bank bevestigt dat er een &#039;technisch probleem&#039; is waardoor transacties niet ondertekend kunnen worden. De storing begon rond 10.45 uur dinsdagochtend.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/235528/rabobank-klanten-kunnen-door-storing-geen-geld-overmaken-via-app-of-browser.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235528</guid>
+            <pubDate>Tue, 27 May 2025 12:50:03 +0200</pubDate>
+        </item>
         <item>
             <title>Chinese versie RedMagic 10S Pro heeft standaard ingebouwde Windows-emulator</title>
             <link>https://tweakers.net/nieuws/235522/chinese-versie-redmagic-10s-pro-heeft-standaard-ingebouwde-windows-emulator.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/235462/start-up-van-gabe-newell-verwacht-dat-eerste-hersenchip-dit-jaar-klaar-is.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235462</guid>
             <pubDate>Sun, 25 May 2025 11:22:17 +0200</pubDate>
-        </item>
-        <item>
-            <title>HKC laat miniledmonitor zien met meer dan 9000 dimmingzones</title>
-            <link>https://tweakers.net/nieuws/235456/hkc-laat-miniledmonitor-zien-met-meer-dan-9000-dimmingzones.html</link>
-            <description>HKC laat op Computex een miniledmonitor zien met meer dan 9000 onafhankelijk dimbare zones. Het VA-scherm van 32&quot; heeft een 4k-resolutie. HKC zegt het scherm deze zomer te willen uitbrengen, maar het is niet helemaal duidelijk of hij ook naar Europa komt.</description>
-            <author>Friso Weijers</author>
-            <category>Nieuws / Computers / Monitors</category>
-            <comments>https://tweakers.net/nieuws/235456/hkc-laat-miniledmonitor-zien-met-meer-dan-9000-dimmingzones.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235456</guid>
-            <pubDate>Sun, 25 May 2025 11:15:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
