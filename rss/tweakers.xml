@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 27 May 2025 09:31:02 +0200</pubDate>
-        <lastBuildDate>Tue, 27 May 2025 09:31:02 +0200</lastBuildDate>
+        <pubDate>Tue, 27 May 2025 10:36:00 +0200</pubDate>
+        <lastBuildDate>Tue, 27 May 2025 10:36:00 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - RouterOS 7.19.1</title>
+            <link>https://tweakers.net/downloads/72786/routeros-7191.html</link>
+            <description>MikroTik heeft versie 7.19.1 van RouterOS uitgebracht, een besturingssysteem dat zich richt op het uitvoeren van routertaken en meer. Denk daarbij natuurlijk aan het routeren van netwerkverkeer, maar ook aan bandbreedtemanagement, een firewall, het aansturen van draadlozeaccesspoints, een hotspotgateway en een vpn-server. Het kan zowel op de hardware van MikroTik als op x86- of virtuele machines zijn werk doen. Voor het gebruik is een licentie nodig, die bij de aankoop van MikroTik-hardware is inbegrepen. De changelog voor deze uitgave kan hieronder worden gevonden. What&#039;s new in 7.19.1:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72786/routeros-7191.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72786</guid>
+            <pubDate>Tue, 27 May 2025 10:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Deze Macintosh-replica is 6 centimeter hoog en draait op Raspberry Pi Pico</title>
+            <link>https://tweakers.net/geek/235518/deze-macintosh-replica-is-6-centimeter-hoog-en-draait-op-raspberry-pi-pico.html</link>
+            <description>Webwinkel 1-Bit Rainbow verkoopt een werkende Macintosh-replica van slechts 6 centimeter hoog. De Pico-mac-nano gebruikt een Raspberry Pi Pico-microcontroller om het originele systeem te emuleren en ondersteunt moderne USB-randapparatuur.</description>
+            <author>Andrei Stiru</author>
+            <category>.Geek / Computers / Pc&#039;s</category>
+            <comments>https://tweakers.net/geek/235518/deze-macintosh-replica-is-6-centimeter-hoog-en-draait-op-raspberry-pi-pico.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/235518</guid>
+            <pubDate>Tue, 27 May 2025 10:23:59 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Vaultwarden 1.34.1</title>
             <link>https://tweakers.net/downloads/72782/vaultwarden-1341.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/reviews/13286/7/samsung-oled-s95f-matte-oled-is-daglicht-de-baas-conclusie.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13286</guid>
             <pubDate>Sun, 25 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Videoreview - Superheldere QD-OLED met uniek mat scherm - Samsung S95F</title>
-            <link>https://tweakers.net/video/19920/superheldere-qd-oled-met-uniek-mat-scherm-samsung-s95f.html</link>
-            <description>Samsungs nieuwe topklasse S95F oledtelevisie lijkt met zijn dunne scherm en externe one connect box in eerste instantie als twee druppels water op zijn voorganger, maar schijn bedriegt. Dankzij een nieuw, veel helderder oledpaneel en verbeterde beeldverwerking zet deze tv een grote stap vooruit ten opzichte van de S95D van vorig jaar.</description>
-            <author>Mark van der Kruit</author>
-            <category>Videoreview / Beeld en geluid / Televisies</category>
-            <comments>https://tweakers.net/video/19920/superheldere-qd-oled-met-uniek-mat-scherm-samsung-s95f.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/video/19920</guid>
-            <pubDate>Sun, 25 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;540Hz-woledpaneel gaat later dit jaar in productie&#039;</title>
-            <link>https://tweakers.net/nieuws/235394/540hz-woledpaneel-gaat-later-dit-jaar-in-productie.html</link>
-            <description>LG Display introduceert later dit jaar een 540Hz-woledpaneel, zo schrijft TFTCentral op basis van informatie van ASUS. Deze fabrikant zou met dit paneel een scherm willen uitbrengen, maar bevestigt dat niet aan Tweakers. Bij odm CTX spotten we het nieuwe paneel al wel.</description>
-            <author>Friso Weijers</author>
-            <category>Nieuws / Computers / Monitors</category>
-            <comments>https://tweakers.net/nieuws/235394/540hz-woledpaneel-gaat-later-dit-jaar-in-productie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235394</guid>
-            <pubDate>Sat, 24 May 2025 15:26:19 +0200</pubDate>
         </item>
     </channel>
 </rss>
