@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 27 May 2025 10:36:00 +0200</pubDate>
-        <lastBuildDate>Tue, 27 May 2025 10:36:00 +0200</lastBuildDate>
+        <pubDate>Tue, 27 May 2025 11:31:01 +0200</pubDate>
+        <lastBuildDate>Tue, 27 May 2025 11:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Apple rolt Tap to Pay uit in België en zeven andere Europese landen</title>
+            <link>https://tweakers.net/nieuws/235520/apple-rolt-tap-to-pay-uit-in-belgie-en-zeven-andere-europese-landen.html</link>
+            <description>Apple maakt het voortaan mogelijk om in België en zeven andere Europese landen contactloze betalingen via iPhone te ontvangen. Ondernemers kunnen daardoor betalingen accepteren zonder extra betaalterminal. In Nederland is de functie sinds 2022 beschikbaar.</description>
+            <author>Andrei Stiru</author>
+            <category>Nieuws / IT Pro / Economie en maatschappij</category>
+            <comments>https://tweakers.net/nieuws/235520/apple-rolt-tap-to-pay-uit-in-belgie-en-zeven-andere-europese-landen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235520</guid>
+            <pubDate>Tue, 27 May 2025 11:30:33 +0200</pubDate>
+        </item>
+        <item>
+            <title>Russische hackersgroep zat achter hack bij Nederlandse politie</title>
+            <link>https://tweakers.net/nieuws/235526/russische-hackersgroep-zat-achter-hack-bij-nederlandse-politie.html</link>
+            <description>De Russische hackersgroep Laundry Bear zat achter de aanval op de Nederlandse politie vorig jaar. Bij de hack in september vorig jaar maakte de hackersgroep zakelijke contactgegevens van politiemensen buit.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/235526/russische-hackersgroep-zat-achter-hack-bij-nederlandse-politie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235526</guid>
+            <pubDate>Tue, 27 May 2025 11:27:12 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - RouterOS 7.19.1</title>
             <link>https://tweakers.net/downloads/72786/routeros-7191.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/235396/samsung-display-toont-lichter-dunner-en-efficienter-laptopoledpaneel.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235396</guid>
             <pubDate>Sun, 25 May 2025 09:39:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Open-Shell 4.4.196</title>
-            <link>https://tweakers.net/downloads/72766/open-shell-44196.html</link>
-            <description>Versie 4.4.196 van Open-Shell is verschenen. Met dit programma kan het uiterlijk van Windows Verkenner, de startknop en het startmenu in Windows 7, 8, 10 of 11 worden aangepast. In Windows 8 of hoger kan het ook een klassieke startknop en startmenu toevoegen. Het programma is een doorontwikkeling van Classic Shell, waarvan de originele ontwikkelaar eind 2017 aangaf met de verdere ontwikkeling te stoppen. De broncode is toen als open source op GitHub terechtgekomen, waar het programma nu dus als Open-Shell door het leven gaat. De changelog voor deze uitgave ziet er als volgt uit: What&#039;s Changed</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72766/open-shell-44196.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72766</guid>
-            <pubDate>Sun, 25 May 2025 08:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Review - Samsung OLED S95F - Matte oled is daglicht de baas</title>
-            <link>https://tweakers.net/reviews/13286/samsung-oled-s95f-matte-oled-is-daglicht-de-baas.html</link>
-            <description>De Samsung S95F biedt beter beeld, hoge helderheid en een matte afwerking. Met verbeterde AI en een externe One Connect Box onderscheidt hij zich van de S95D.</description>
-            <author>Eric van Ballegoie</author>
-            <category>Review / Beeld en geluid / Televisies</category>
-            <comments>https://tweakers.net/reviews/13286/7/samsung-oled-s95f-matte-oled-is-daglicht-de-baas-conclusie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13286</guid>
-            <pubDate>Sun, 25 May 2025 06:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
