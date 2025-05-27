@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 27 May 2025 14:41:02 +0200</pubDate>
-        <lastBuildDate>Tue, 27 May 2025 14:41:02 +0200</lastBuildDate>
+        <pubDate>Tue, 27 May 2025 15:36:07 +0200</pubDate>
+        <lastBuildDate>Tue, 27 May 2025 15:36:07 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,46 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - AdGuard Home 0.107.62</title>
+            <link>https://tweakers.net/downloads/72790/adguard-home-010762.html</link>
+            <description>AdGuard Home versie 0.107.62 is uitgekomen. Met deze software kan er thuis een DNS-server worden opgezet om zo onder meer advertenties en malware te blokkeren op het hele netwerk, waardoor dat niet langer op elk individueel apparaat nodig is. Het is daarmee dus vergelijkbaar met Pi-hole. AdGuard Home werkt op een machine met Windows, macOS, Linux of FreeBSD, is ook in staat om tegen phishing te beschermen en heeft parental control. Op ons eigen forum kan over het programma worden gediscussieerd. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: AdGuard Home v0.107.62</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72790/adguard-home-010762.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72790</guid>
+            <pubDate>Tue, 27 May 2025 15:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>EU onderzoekt of grote pornosites gebruik door minderjarigen voldoende tegengaan</title>
+            <link>https://tweakers.net/nieuws/235542/eu-onderzoekt-of-grote-pornosites-gebruik-door-minderjarigen-voldoende-tegengaan.html</link>
+            <description>De Europese Commissie onderzoekt of vier grote pornosites er genoeg aan doen om gebruik door minderjarigen tegen te gaan. Het gaat om Pornhub, Stripchat, XNXX en XVideos. De vraag is of de huidige leeftijdsverificatietools van de platforms voldoende werken.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/235542/eu-onderzoekt-of-grote-pornosites-gebruik-door-minderjarigen-voldoende-tegengaan.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235542</guid>
+            <pubDate>Tue, 27 May 2025 15:05:07 +0200</pubDate>
+        </item>
+        <item>
+            <title>Touch Bar-achtige gadget Flexbar krijgt Linux-ondersteuning via AppImage</title>
+            <link>https://tweakers.net/nieuws/235536/touch-bar-achtige-gadget-flexbar-krijgt-linux-ondersteuning-via-appimage.html</link>
+            <description>Het Hongkongse bedrijf Eniac heeft Linux-ondersteuning toegevoegd aan de Flexbar, een via USB aangestuurde Apple Touch Bar-achtige toolbar. De configuratiesoftware is beschikbaar als AppImage-bestand.</description>
+            <author>Andrei Stiru</author>
+            <category>Nieuws / Computers / Randapparatuur</category>
+            <comments>https://tweakers.net/nieuws/235536/touch-bar-achtige-gadget-flexbar-krijgt-linux-ondersteuning-via-appimage.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235536</guid>
+            <pubDate>Tue, 27 May 2025 15:04:17 +0200</pubDate>
+        </item>
+        <item>
+            <title>OnePlus kondigt Pad 3-tablet met groter scherm aan</title>
+            <link>https://tweakers.net/nieuws/235120/oneplus-kondigt-pad-3-tablet-met-groter-scherm-aan.html</link>
+            <description>OnePlus heeft de OnePlus Pad 3 aangekondigd, de opvolger van de Pad 2. OnePlus heeft de tablet net als zijn voorganger voorzien van een aluminium behuizing, al is het beeldscherm met 13,2” wat groter. De OnePlus Pad 3 is vanaf 12 juni te koop vanaf 599 euro.</description>
+            <author>Dennis de Vries</author>
+            <category>Nieuws / Tablets en telefoons / Tablets</category>
+            <comments>https://tweakers.net/nieuws/235120/oneplus-kondigt-pad-3-tablet-met-groter-scherm-aan.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235120</guid>
+            <pubDate>Tue, 27 May 2025 15:00:00 +0200</pubDate>
+        </item>
         <item>
             <title>Browser Company wil Arc-browser &#039;ooit&#039; opensource beschikbaar stellen</title>
             <link>https://tweakers.net/nieuws/235534/browser-company-wil-arc-browser-ooit-opensource-beschikbaar-stellen.html</link>
@@ -376,46 +416,6 @@
             <comments>https://tweakers.net/nieuws/235474/google-wil-meerjarige-samenwerking-met-tsmc-rond-tensor-chips.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235474</guid>
             <pubDate>Mon, 26 May 2025 10:21:47 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Samsung wil vanaf 2028 glazen substraten in chips gebruiken&#039;</title>
-            <link>https://tweakers.net/nieuws/235472/samsung-wil-vanaf-2028-glazen-substraten-in-chips-gebruiken.html</link>
-            <description>Samsung zou vanaf 2028 glazen substraten willen gebruiken in zijn chips. Het bedrijf wil hiermee naar verluidt inspelen op de toenemende vraag naar geavanceerde AI-chips. Het productieproces zou afwijken van de industrienorm om een snellere implementatie mogelijk te maken.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Computers / Processors</category>
-            <comments>https://tweakers.net/nieuws/235472/samsung-wil-vanaf-2028-glazen-substraten-in-chips-gebruiken.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235472</guid>
-            <pubDate>Mon, 26 May 2025 09:45:15 +0200</pubDate>
-        </item>
-        <item>
-            <title>OpenAI&#039;s taalmodellen blijven actief ondanks commando&#039;s om te stoppen</title>
-            <link>https://tweakers.net/nieuws/235468/openais-taalmodellen-blijven-actief-ondanks-commandos-om-te-stoppen.html</link>
-            <description>De o3- en o4-mini-taalmodellen van OpenAI zijn erin geslaagd het uitschakelmechanisme te saboteren, waardoor zij een deactivatie konden voorkomen. De taalmodellen hadden volgens Palisade Research specifieke instructies gekregen om een uitschakeling mogelijk te maken.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / IT Pro / Wetenschap</category>
-            <comments>https://tweakers.net/nieuws/235468/openais-taalmodellen-blijven-actief-ondanks-commandos-om-te-stoppen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235468</guid>
-            <pubDate>Mon, 26 May 2025 08:16:50 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Adv - Dit is Huawei&#039;s nieuwste Watch 5 met e-sim, Watch 4 series en Freebuds 6</title>
-            <link>https://tweakers.net/plan/4418/dit-is-huaweis-nieuwste-watch-5-met-e-sim-watch-4-series-en-freebuds-6.html</link>
-            <description>Huawei heeft recent een reeks nieuwe producten aangekondigd in de wearable- en audiocategorie. Het bedrijf komt met twee varianten van zijn fitnesshorloge – de Huawei Watch Fit 4 Pro en de reguliere Watch Fit 4, een nieuwe high-end smartwatch – de Huawei Watch 5, en de nieuwe draadloze oordopjes Huawei FreeBuds 6. In dit artikel zetten we de belangrijkste vernieuwingen en specificaties op een rij.</description>
-            <author>Tweakers Partners</author>
-            <category>.adv</category>
-            <comments>https://tweakers.net/plan/4418/dit-is-huaweis-nieuwste-watch-5-met-e-sim-watch-4-series-en-freebuds-6.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/plan/4418</guid>
-            <pubDate>Mon, 26 May 2025 08:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Round-up - In-ears vanaf 200 euro - Zeven paar oortjes voor fijnproevers</title>
-            <link>https://tweakers.net/reviews/13300/in-ears-vanaf-200-euro-zeven-paar-oortjes-voor-fijnproevers.html</link>
-            <description>We vergelijken zeven sets premium in-ears van Apple, Bose, Bowers &amp; Wilkins, JBL, Sennheiser, Sony en Technics, met prijskaartjes vanaf 200 euro.</description>
-            <author>Sjef Weller</author>
-            <category>Round-up / Beeld en geluid / Oordopjes</category>
-            <comments>https://tweakers.net/reviews/13300/10/in-ears-vanaf-200-euro-zeven-paar-oortjes-voor-fijnproevers-conclusie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13300</guid>
-            <pubDate>Mon, 26 May 2025 06:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
