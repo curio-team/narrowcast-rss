@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 27 May 2025 11:31:01 +0200</pubDate>
-        <lastBuildDate>Tue, 27 May 2025 11:31:01 +0200</lastBuildDate>
+        <pubDate>Tue, 27 May 2025 12:36:02 +0200</pubDate>
+        <lastBuildDate>Tue, 27 May 2025 12:36:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Chinese versie RedMagic 10S Pro heeft standaard ingebouwde Windows-emulator</title>
+            <link>https://tweakers.net/nieuws/235522/chinese-versie-redmagic-10s-pro-heeft-standaard-ingebouwde-windows-emulator.html</link>
+            <description>De twee varianten van de gamingsmartphone RedMagic 10S Pro bevatten in China een vooraf geïnstalleerde Windows-emulator die games van Steam- en Epic Games kan draaien. Het is niet bekend of de smartphones in Europa uitkomen en of ze standaard over de emulator beschikken.</description>
+            <author>Andrei Stiru</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/235522/chinese-versie-redmagic-10s-pro-heeft-standaard-ingebouwde-windows-emulator.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235522</guid>
+            <pubDate>Tue, 27 May 2025 12:22:22 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - SQL Management Studio 21.0.1</title>
+            <link>https://tweakers.net/downloads/72784/sql-management-studio-2101.html</link>
+            <description>Microsoft heeft kort geleden versie 21.0 van SQL Server Management Studio uitgebracht en inmiddels is er ook een kleine update verschenen. Met SSMS kun je een Microsoft SQL-omgeving beheren, bijvoorbeeld een on-premise SQL Server, maar ook een Azure SQL Data Warehouse in de cloud. Het biedt tools voor de configuratie, monitoring en ingebruikname van de verschillende data-tiercomponenten. Daarnaast kun je queries en scripts in elkaar zetten. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: What&#039;s new in 21.0.1</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72784/sql-management-studio-2101.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72784</guid>
+            <pubDate>Tue, 27 May 2025 12:00:00 +0200</pubDate>
+        </item>
         <item>
             <title>Apple rolt Tap to Pay uit in België en zeven andere Europese landen</title>
             <link>https://tweakers.net/nieuws/235520/apple-rolt-tap-to-pay-uit-in-belgie-en-zeven-andere-europese-landen.html</link>
@@ -70,7 +90,7 @@
         <item>
             <title>WhatsApp hint naar release eerste native iPad-app</title>
             <link>https://tweakers.net/nieuws/235516/whatsapp-hint-naar-release-eerste-native-ipad-app.html</link>
-            <description>WhatsApp heeft voor het eerst gereageerd op verzoeken van gebruikers voor een native iPad-app met een ogenemoji op sociale media. De reactie suggereert dat moederbedrijf Meta mogelijk de tabletversie van WhatsApp zal uitbrengen.</description>
+            <description>WhatsApp heeft voor het eerst gereageerd op verzoeken van gebruikers voor een native iPad-app met een ogenemoji op sociale media. De reactie suggereert dat moederbedrijf Meta mogelijk een tabletversie van WhatsApp zal uitbrengen.</description>
             <author>Andrei Stiru</author>
             <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
             <comments>https://tweakers.net/nieuws/235516/whatsapp-hint-naar-release-eerste-native-ipad-app.html#reacties</comments>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/235456/hkc-laat-miniledmonitor-zien-met-meer-dan-9000-dimmingzones.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235456</guid>
             <pubDate>Sun, 25 May 2025 11:15:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Seasonic maakt voedingen minder diep door verbeterde heatsinktechnologie</title>
-            <link>https://tweakers.net/nieuws/235458/seasonic-maakt-voedingen-minder-diep-door-verbeterde-heatsinktechnologie.html</link>
-            <description>Seasonic werkt aan Prime-voedingen die minder diep zijn dan hun voorgangers. De fabrikant maakt hiervoor gebruik van OptiSink 2.0-heatsinktechnologie, waarmee warmte beter wordt afgevoerd en er dus minder koeling nodig is.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Computers / Voedingen</category>
-            <comments>https://tweakers.net/nieuws/235458/seasonic-maakt-voedingen-minder-diep-door-verbeterde-heatsinktechnologie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235458</guid>
-            <pubDate>Sun, 25 May 2025 10:02:44 +0200</pubDate>
-        </item>
-        <item>
-            <title>Samsung Display toont lichter, dunner en efficiënter laptopoledpaneel</title>
-            <link>https://tweakers.net/nieuws/235396/samsung-display-toont-lichter-dunner-en-efficienter-laptopoledpaneel.html</link>
-            <description>Op Computex toont Samsung Display zijn nieuwe UT One-laptopoledpaneel. Dat is een stuk dunner en lichter dan de bestaande oledpanelen van de fabrikant, en zou ook efficiënter moeten zijn dankzij een variabele refreshrate.</description>
-            <author>Friso Weijers</author>
-            <category>Nieuws / Computers / Laptops</category>
-            <comments>https://tweakers.net/nieuws/235396/samsung-display-toont-lichter-dunner-en-efficienter-laptopoledpaneel.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235396</guid>
-            <pubDate>Sun, 25 May 2025 09:39:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
