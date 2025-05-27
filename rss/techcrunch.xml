@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 27 May 2025 08:01:55 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 27 May 2025 12:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Gridcare thinks more than 100 MW of data center capacity is hiding in the grid</title>
+		<link>https://techcrunch.com/2025/05/27/gridcare-thinks-more-than-100-mw-of-data-center-capacity-is-hiding-in-the-grid/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Tue, 27 May 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[electricity]]></category>
+		<category><![CDATA[Artificial Intelligence (AI)]]></category>
+		<category><![CDATA[temasek]]></category>
+		<category><![CDATA[electrical grid]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3011622</guid>
+
+					<description><![CDATA[Gridcare raised $13.3 million for its data platform that finds underutilized capacity on the electrical grid.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Samsung may invest in $100M round for medical imaging startup Exo</title>
 		<link>https://techcrunch.com/2025/05/27/samsung-may-invest-in-100m-round-for-medical-imaging-startup-exo/</link>
 		
@@ -407,22 +428,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3011514</guid>
 
 					<description><![CDATA[The idea of becoming a real estate investor for as little as $5 may seem too good to be true. And for many users of Landa, a proptech company that promised just that &#8212; it has been. Landa emerged from stealth in August 2022, announcing a total of $33 million in funding and a pledge [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>What is Mistral AI? Everything to know about the OpenAI competitor</title>
-		<link>https://techcrunch.com/2025/05/23/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/</link>
-		
-		<dc:creator><![CDATA[Anna Heim]]></dc:creator>
-		<pubDate>Fri, 23 May 2025 19:16:22 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2970347</guid>
-
-					<description><![CDATA[Mistral AI, the French company behind AI assistant Le Chat and several foundational models, is officially regarded as one of France’s most promising tech startups and is arguably the only European company that could compete with OpenAI. But compared to its $6 billion valuation, its global market share is still relatively low.&#160; However, the recent [&#8230;]]]></description>
 		
 		
 		
