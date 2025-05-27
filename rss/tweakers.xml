@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 27 May 2025 15:36:07 +0200</pubDate>
-        <lastBuildDate>Tue, 27 May 2025 15:36:07 +0200</lastBuildDate>
+        <pubDate>Tue, 27 May 2025 16:31:02 +0200</pubDate>
+        <lastBuildDate>Tue, 27 May 2025 16:31:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>TSMC wil later dit jaar chipontwerpstudio openen in München</title>
+            <link>https://tweakers.net/nieuws/235540/tsmc-wil-later-dit-jaar-chipontwerpstudio-openen-in-munchen.html</link>
+            <description>De Taiwanese chipfabrikant TSMC wil dit jaar een chipontwerpstudio openen in München. Die moet Europese klanten ondersteunen bij het ontwerpen van chips. De studio is de tweede grote recente uitbreiding van TSMC in Duitsland, naast een nieuwe chipfabriek in Dresden.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/235540/tsmc-wil-later-dit-jaar-chipontwerpstudio-openen-in-munchen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235540</guid>
+            <pubDate>Tue, 27 May 2025 16:24:18 +0200</pubDate>
+        </item>
+        <item>
+            <title>OnePlus brengt OnePlus AI in drie fasen uit</title>
+            <link>https://tweakers.net/nieuws/235538/oneplus-brengt-oneplus-ai-in-drie-fasen-uit.html</link>
+            <description>OnePlus wil OnePlus AI in drie fasen uitbrengen. De kunstmatige intelligentie van de Chinese fabrikant komt in eerste instantie voor de OnePlus 13 en nieuwe 13s uit. De laatstgenoemde smartphone komt niet in Europa uit.</description>
+            <author>Dennis de Vries</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/235538/oneplus-brengt-oneplus-ai-in-drie-fasen-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235538</guid>
+            <pubDate>Tue, 27 May 2025 16:10:27 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - AdGuard Home 0.107.62</title>
             <link>https://tweakers.net/downloads/72790/adguard-home-010762.html</link>
@@ -240,7 +260,7 @@
         <item>
             <title>Software-update - SystemRescue 12.01</title>
             <link>https://tweakers.net/downloads/72776/systemrescue-1201.html</link>
-            <description>Versie 12.01 van SystemRescue is uitgekomen. SystemRescue is een zelfstartende Linux-omgeving voor het beheren of repareren van een systeem en gegevens na een crash. Het is bedoeld om op een eenvoudige manier admintaken uit te voeren, zoals het maken en bewerken van de hardeschijfpartities. Het wordt geleverd met diverse programma&#039;s zoals GParted, fsarchiver, bestandssysteemtools, editors, Midnight Commander en netwerktools. Het kan worden gebruikt voor zowel Linux- als Windows-computers en vereist geen installatie, maar dit is wel mogelijk. De kernel ondersteunt alle belangrijke bestandssystemen zoals ext3/ext4, xfs, btrfs, reiserfs, jfs, vfat, ntfs, en netwerkbestandssystemen zoals smb en nfs. De changelog voor deze uitgave ziet er als volgt uit: Changes in version 12.01:</description>
+            <description>Versie 12.01 van SystemRescue is uitgekomen. SystemRescue is een zelfstartende Linux-omgeving voor het beheren of repareren van een systeem en gegevens na een crash. Het is bedoeld om op een eenvoudige manier admintaken uit te voeren, zoals het maken en bewerken van de hardeschijfpartities. Het wordt geleverd met diverse programma&#039;s zoals GParted, fsarchiver, bestandssysteemtools, editors, Midnight Commander en netwerktools. Het kan worden gebruikt voor zowel Linux- als Windows-computers en vereist geen installatie, maar dit is wel mogelijk. De kernel ondersteunt alle belangrijke bestandssystemen zoals ext3/ext4, XFS, Btrfs, ReiserFS, JFS, VFAT, NTFS, en netwerkbestandssystemen zoals SMB en NFS. De changelog voor deze uitgave ziet er als volgt uit: Changes in version 12.01:</description>
             <author>Bart van Klaveren</author>
             <category>Software</category>
             <comments>https://tweakers.net/downloads/72776/systemrescue-1201.html#reacties</comments>
@@ -268,12 +288,12 @@
             <pubDate>Mon, 26 May 2025 18:00:00 +0200</pubDate>
         </item>
         <item>
-            <title>Minisforum kondigt server met mobiele client-cpu Ryzen AI Max+ aan - update</title>
-            <link>https://tweakers.net/nieuws/235504/minisforum-kondigt-server-met-mobiele-client-cpu-ryzen-ai-max+-aan.html</link>
+            <title>Minisforum kondigt server met mobieleclient-cpu Ryzen AI Max+ aan - update</title>
+            <link>https://tweakers.net/nieuws/235504/minisforum-kondigt-server-met-mobieleclient-cpu-ryzen-ai-max+-aan.html</link>
             <description>Minisforum kondigt de MS-S1 Max, een serverworkstation met een AMD Ryzen AI Max+ 395-clientchip. De server is bedoeld voor AI-toepassingen en moet ergens in de tweede helft van 2025 uitkomen. Het bedrijf maakt nog geen exacte releasedatum of adviesprijs bekend.</description>
             <author>Yannick Spinner</author>
             <category>Nieuws / Computers / Servers</category>
-            <comments>https://tweakers.net/nieuws/235504/minisforum-kondigt-server-met-mobiele-client-cpu-ryzen-ai-max+-aan.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/235504/minisforum-kondigt-server-met-mobieleclient-cpu-ryzen-ai-max+-aan.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235504</guid>
             <pubDate>Mon, 26 May 2025 17:43:34 +0200</pubDate>
         </item>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/235476/dji-mini-5-pro-beschikt-over-1-inch-sensor-en-verbeterde-koeling.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235476</guid>
             <pubDate>Mon, 26 May 2025 11:35:49 +0200</pubDate>
-        </item>
-        <item>
-            <title>Achtergrond - Overzicht: al het Computex-nieuws per categorie verzameld</title>
-            <link>https://tweakers.net/reviews/13304/overzicht-al-het-computex-nieuws-per-categorie-verzameld.html</link>
-            <description>In dit artikel vind je al onze berichtgeving terug over Computex in 2025</description>
-            <author>Tijs Hofmans</author>
-            <category>Achtergrond / Computers / Processors</category>
-            <comments>https://tweakers.net/reviews/13304/overzicht-al-het-computex-nieuws-per-categorie-verzameld.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13304</guid>
-            <pubDate>Mon, 26 May 2025 10:25:29 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Google wil meerjarige samenwerking met TSMC rond Tensor-chips&#039;</title>
-            <link>https://tweakers.net/nieuws/235474/google-wil-meerjarige-samenwerking-met-tsmc-rond-tensor-chips.html</link>
-            <description>Enkele bestuursleden van Google zouden begin dit jaar naar het hoofdkwartier van TSMC in Taiwan zijn afgereisd om een meerjarige samenwerking tussen de twee bedrijven te bespreken. Het samenwerkingsverband zou over de Tensor-chips gaan en minstens drie tot vijf jaar duren.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/235474/google-wil-meerjarige-samenwerking-met-tsmc-rond-tensor-chips.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235474</guid>
-            <pubDate>Mon, 26 May 2025 10:21:47 +0200</pubDate>
         </item>
     </channel>
 </rss>
