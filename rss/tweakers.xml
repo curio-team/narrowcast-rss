@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 26 May 2025 16:31:01 +0200</pubDate>
-        <lastBuildDate>Mon, 26 May 2025 16:31:01 +0200</lastBuildDate>
+        <pubDate>Tue, 27 May 2025 09:31:02 +0200</pubDate>
+        <lastBuildDate>Tue, 27 May 2025 09:31:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,146 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Vaultwarden 1.34.1</title>
+            <link>https://tweakers.net/downloads/72782/vaultwarden-1341.html</link>
+            <description>Bitwarden is een wachtwoordmanager die regelmatig op Tweakers voorbijkomt. Het is opensource en heeft ook de mogelijkheid om het op een eigen server te draaien. Ontwikkelaar Daniel García heeft een onofficiële in Rust ontwikkelde implementatie van Bitwarden gemaakt, in eerste instantie onder de naam Bitwarden_rs maar sinds een paar jaar als Vaultwarden. Het gaat alleen om de serverkant van de wachtwoordmanager; voor de clients kan de officiële software van Bitwarden worden gebruikt. Vaultwarden is lichter in gebruik en heeft ook functionaliteit waarvoor bij Bitwarden moet worden betaald, waaronder functionaliteit voor het beheer van wachtwoorden op organisatieniveau. Versie 1.34.0 van Vaultwarden is uitgekomen met meteen een hotfix er achteraan en hier zijn de volgende veranderingen en verbeteringen in aangebracht:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72782/vaultwarden-1341.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72782</guid>
+            <pubDate>Tue, 27 May 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>WhatsApp hint naar release eerste native iPad-app</title>
+            <link>https://tweakers.net/nieuws/235516/whatsapp-hint-naar-release-eerste-native-ipad-app.html</link>
+            <description>WhatsApp heeft voor het eerst gereageerd op verzoeken van gebruikers voor een native iPad-app met een ogenemoji op sociale media. De reactie suggereert dat moederbedrijf Meta mogelijk de tabletversie van WhatsApp zal uitbrengen.</description>
+            <author>Andrei Stiru</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/235516/whatsapp-hint-naar-release-eerste-native-ipad-app.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235516</guid>
+            <pubDate>Tue, 27 May 2025 08:54:10 +0200</pubDate>
+        </item>
+        <item>
+            <title>Reuters: Nvidia komt met goedkopere Blackwell-chip voor Chinese markt</title>
+            <link>https://tweakers.net/nieuws/235514/reuters-nvidia-komt-met-goedkopere-blackwell-chip-voor-chinese-markt.html</link>
+            <description>Nvidia ontwikkelt een betaalbare AI-chip op basis van de Blackwell-architectuur specifiek voor China, met massaproductie gepland vanaf juni. Dat meldt persagentschap Reuters aan de hand van bronnen.</description>
+            <author>Andrei Stiru</author>
+            <category>Nieuws / IT Pro / Economie en maatschappij</category>
+            <comments>https://tweakers.net/nieuws/235514/reuters-nvidia-komt-met-goedkopere-blackwell-chip-voor-chinese-markt.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235514</guid>
+            <pubDate>Tue, 27 May 2025 07:58:29 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Homebrew 4.5.3</title>
+            <link>https://tweakers.net/downloads/72780/homebrew-453.html</link>
+            <description>Homebrew is een pakketbeheerder die wordt bijgehouden door een groep vrijwilligers, waarbij vanuit verschillende &#039;taps&#039; (pakketbronnen) &#039;formula&#039; (softwarepakketen) kunnen worden geïnstalleerd via de terminal. Homebrew begon als een project om een tot dan toe ontbrekende pakketbeheerder aan te bieden op macOS, maar Homebrew biedt al langer ook ondersteuning voor Linux. Inmiddels zijn de Homebrew-repositories op GitHub uitgegroeid tot de grootste qua aantallen bijdragers. Via zogeheten &#039;casks&#039; is het verder mogelijk om apps en lettertypen te installeren en beheren op een macOS-installatie. Versie 4.5.3 is uitgekomen en de changelog daarvan ziet er als volgt uit: What&#039;s Changed</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72780/homebrew-453.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72780</guid>
+            <pubDate>Tue, 27 May 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Meta start met AI-training op Europese gebruikersgegevens</title>
+            <link>https://tweakers.net/nieuws/235512/meta-start-met-ai-training-op-europese-gebruikersgegevens.html</link>
+            <description>Meta begint vandaag met het gebruiken van openbare content van volwassen gebruikers voor de ontwikkeling van AI-modellen in Europa. De Autoriteit Persoonsgegevens waarschuwde gebruikers eerder om tijdig weerstand aan te tekenen tegen deze dataverzameling.</description>
+            <author>Andrei Stiru</author>
+            <category>Nieuws / IT Pro / Privacy</category>
+            <comments>https://tweakers.net/nieuws/235512/meta-start-met-ai-training-op-europese-gebruikersgegevens.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235512</guid>
+            <pubDate>Tue, 27 May 2025 07:23:51 +0200</pubDate>
+        </item>
+        <item>
+            <title>Videoreview - Hij is beter, maar niet op elk vlak - Sony WH-1000XM6 versus XM5</title>
+            <link>https://tweakers.net/video/19926/hij-is-beter-maar-niet-op-elk-vlak-sony-wh-1000xm6-versus-xm5.html</link>
+            <description>De Sony WH-1000XM5 geldt al jarenlang als een van de beste noise cancelling hoofdtelefoons die er is, en toch denkt Sony dat ze het met deze nieuwe WH-1000XM6 nòg beter kunnen doen. Wij voelden hem aan de tand om te kijken wat er allemaal verbeterd is.</description>
+            <author>Mark van der Kruit</author>
+            <category>Videoreview / Beeld en geluid / Hoofdtelefoons</category>
+            <comments>https://tweakers.net/video/19926/hij-is-beter-maar-niet-op-elk-vlak-sony-wh-1000xm6-versus-xm5.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/video/19926</guid>
+            <pubDate>Tue, 27 May 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - CudaText 1.224.0</title>
+            <link>https://tweakers.net/downloads/72778/cudatext-12240.html</link>
+            <description>Versie 1.224.0 van CudaText is uitgekomen. Deze opensource en crossplatform teksteditor is beschikbaar voor Windows, Linux, macOS, BSD en Solaris. Het programma heeft uitgebreide mogelijkheden die met name voor softwareontwikkelaars interessant zijn. Het is ontwikkeld in Object Pascal, start snel en door middel van Python-add-ons kan de functionaliteit verder worden uitgebreid. Het programma wordt actief ontwikkeld en regelmatig verschijnen er nieuwe versies. De changelog sinds versie 1.223.0 ziet er als volgt uit:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72778/cudatext-12240.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72778</guid>
+            <pubDate>Mon, 26 May 2025 21:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Geekbench-listing toont Samsung Galaxy Z Flip7 met voor het eerst Exynos-soc</title>
+            <link>https://tweakers.net/nieuws/235508/geekbench-listing-toont-samsung-galaxy-z-flip7-met-voor-het-eerst-exynos-soc.html</link>
+            <description>Samsung Galaxy Z Flip7 krijgt volgens een Geekbench-listing voor het eerst in de foldableserie van Samsung een Exynos-soc. Het zou om de Exynos 2500 gaan. Eerder verscheen een benchmark van de vermeende Galaxy Z Flip met een Exynos 2400 op hetzelfde platform.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/235508/geekbench-listing-toont-samsung-galaxy-z-flip7-met-voor-het-eerst-exynos-soc.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235508</guid>
+            <pubDate>Mon, 26 May 2025 20:22:57 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - SystemRescue 12.01</title>
+            <link>https://tweakers.net/downloads/72776/systemrescue-1201.html</link>
+            <description>Versie 12.01 van SystemRescue is uitgekomen. SystemRescue is een zelfstartende Linux-omgeving voor het beheren of repareren van een systeem en gegevens na een crash. Het is bedoeld om op een eenvoudige manier admintaken uit te voeren, zoals het maken en bewerken van de hardeschijfpartities. Het wordt geleverd met diverse programma&#039;s zoals GParted, fsarchiver, bestandssysteemtools, editors, Midnight Commander en netwerktools. Het kan worden gebruikt voor zowel Linux- als Windows-computers en vereist geen installatie, maar dit is wel mogelijk. De kernel ondersteunt alle belangrijke bestandssystemen zoals ext3/ext4, xfs, btrfs, reiserfs, jfs, vfat, ntfs, en netwerkbestandssystemen zoals smb en nfs. De changelog voor deze uitgave ziet er als volgt uit: Changes in version 12.01:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72776/systemrescue-1201.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72776</guid>
+            <pubDate>Mon, 26 May 2025 19:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Europese Commissie onderzoekt gevolgen van EU-bewaarplicht metadata</title>
+            <link>https://tweakers.net/nieuws/235506/europese-commissie-onderzoekt-gevolgen-van-eu-bewaarplicht-metadata.html</link>
+            <description>De Europese Commissie onderzoekt wat de gevolgen zouden zijn van nieuwe EU-brede richtlijnen over de bewaarplicht van metadata door providers. Volgens de EC kan het gestructureerd bewaren van deze gegevens helpen bij het bestrijden van criminaliteit.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Privacy</category>
+            <comments>https://tweakers.net/nieuws/235506/europese-commissie-onderzoekt-gevolgen-van-eu-bewaarplicht-metadata.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235506</guid>
+            <pubDate>Mon, 26 May 2025 18:59:18 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - XnView MP 1.9.0</title>
+            <link>https://tweakers.net/downloads/72774/xnview-mp-190.html</link>
+            <description>Versie 1.9.0 van XnView MP is uitgekomen. Met dit programma kunnen afbeeldingen worden bekeken en bewerkt. Het is gratis voor persoonlijk gebruik; voor gebruik in een commerciële omgeving wordt wel een vergoeding gevraagd. MP staat voor Multi Platform, wat betekent dat er versies zijn voor Windows, Linux en macOS, met elk aparte downloads voor 32bit- en 64bit-omgevingen. XnView MP gebruikt dezelfde broncode voor Windows, Linux en macOS; functionaliteit en uiterlijk van de afzonderlijke versies zijn dan ook nagenoeg gelijk. Zo is er onder andere ondersteuning voor unicode, afbeeldingen met full bit depth, een eenvoudigere manier voor vertalingen en een betere database. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: New:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72774/xnview-mp-190.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72774</guid>
+            <pubDate>Mon, 26 May 2025 18:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Minisforum kondigt server met mobiele client-cpu Ryzen AI Max+ aan - update</title>
+            <link>https://tweakers.net/nieuws/235504/minisforum-kondigt-server-met-mobiele-client-cpu-ryzen-ai-max+-aan.html</link>
+            <description>Minisforum kondigt de MS-S1 Max, een serverworkstation met een AMD Ryzen AI Max+ 395-clientchip. De server is bedoeld voor AI-toepassingen en moet ergens in de tweede helft van 2025 uitkomen. Het bedrijf maakt nog geen exacte releasedatum of adviesprijs bekend.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Computers / Servers</category>
+            <comments>https://tweakers.net/nieuws/235504/minisforum-kondigt-server-met-mobiele-client-cpu-ryzen-ai-max+-aan.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235504</guid>
+            <pubDate>Mon, 26 May 2025 17:43:34 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Amazon verwacht dat ontwikkelaars veel meer code schrijven door gebruik AI&#039;</title>
+            <link>https://tweakers.net/nieuws/235500/amazon-verwacht-dat-ontwikkelaars-veel-meer-code-schrijven-door-gebruik-ai.html</link>
+            <description>Managers bij techgigant Amazon zijn afgelopen jaar gaan verwachten dat ontwikkelaars veel meer code opleveren dan voorheen. Zij moeten dat bereiken door AI te integreren in hun werkzaamheden. Zo moet één team met half zoveel mensen dezelfde hoeveelheid code maken.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Internet</category>
+            <comments>https://tweakers.net/nieuws/235500/amazon-verwacht-dat-ontwikkelaars-veel-meer-code-schrijven-door-gebruik-ai.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235500</guid>
+            <pubDate>Mon, 26 May 2025 17:19:17 +0200</pubDate>
+        </item>
+        <item>
+            <title>Adresbalk Firefox laat gebruikers ook acties doorzoeken</title>
+            <link>https://tweakers.net/nieuws/235498/adresbalk-firefox-laat-gebruikers-ook-acties-doorzoeken.html</link>
+            <description>Mozilla Firefox krijgt nieuwe functies in de adresbalk. Behalve het doorzoeken van de geschiedenis kunnen gebruikers nu ook onder meer acties vinden, zoals &#039;downloads bekijken&#039; of &#039;geschiedenis wissen&#039;.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Computers / Browsers</category>
+            <comments>https://tweakers.net/nieuws/235498/adresbalk-firefox-laat-gebruikers-ook-acties-doorzoeken.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235498</guid>
+            <pubDate>Mon, 26 May 2025 16:42:09 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - moOde audio player 9.3.5</title>
             <link>https://tweakers.net/downloads/72772/moode-audio-player-935.html</link>
@@ -90,7 +230,7 @@
         <item>
             <title>Software-update - DietPi 9.13</title>
             <link>https://tweakers.net/downloads/72768/dietpi-913.html</link>
-            <description>DietPi is een lichtgewicht besturingssysteem voor zogenaamde singleboardcomputers. Het is op Debian gebaseerd en geoptimaliseerd om maximale prestaties uit de kleine computers te halen. DietPi heeft daarnaast ook een groot aantal ready-to-run applicaties die kunnen worden geïnstalleerd. Hoewel de naam anders doet vermoeden is het niet alleen geschikt voor Raspberry Pi&#039;s, maar ook prima te gebruiken op hardware van bijvoorbeeld Odroid, Orange Rock en Pine. Versie 9.12 is uitgekomen en hier zijn de volgende verbeteringen in aangebracht: Overview</description>
+            <description>DietPi is een lichtgewicht besturingssysteem voor zogenaamde singleboardcomputers. Het is op Debian gebaseerd en geoptimaliseerd om maximale prestaties uit de kleine computers te halen. DietPi heeft daarnaast ook een groot aantal ready-to-run applicaties die kunnen worden geïnstalleerd. Hoewel de naam anders doet vermoeden is het niet alleen geschikt voor Raspberry Pi&#039;s, maar ook prima te gebruiken op hardware van bijvoorbeeld Odroid, Orange Rock en Pine. Versie 9.13 is uitgekomen en hier zijn de volgende verbeteringen in aangebracht: Overview</description>
             <author>Bart van Klaveren</author>
             <category>Software</category>
             <comments>https://tweakers.net/downloads/72768/dietpi-913.html#reacties</comments>
@@ -276,146 +416,6 @@
             <comments>https://tweakers.net/nieuws/235394/540hz-woledpaneel-gaat-later-dit-jaar-in-productie.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235394</guid>
             <pubDate>Sat, 24 May 2025 15:26:19 +0200</pubDate>
-        </item>
-        <item>
-            <title>Realtek toont 10GbE-netwerkkaart met 1,95W-stroomverbruik</title>
-            <link>https://tweakers.net/nieuws/235454/realtek-toont-10gbe-netwerkkaart-met-1-komma-95w-stroomverbruik.html</link>
-            <description>Realtek heeft een nieuwe 10GbE-netwerkkaart op Computex getoond: de RTL8127. Het onderdeel heeft volgens de fabrikant een stroomverbruik van 1,95W en maakt gebruik van de PCIe 4.0-interface. Het is niet duidelijk hoeveel de Realtek RTL8127 kost en wanneer het op de markt komt.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Computers / Netwerkadapters</category>
-            <comments>https://tweakers.net/nieuws/235454/realtek-toont-10gbe-netwerkkaart-met-1-komma-95w-stroomverbruik.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235454</guid>
-            <pubDate>Sat, 24 May 2025 12:56:39 +0200</pubDate>
-        </item>
-        <item>
-            <title>Fairphone 4 krijgt Android 15-update; Android 14 wordt overgeslagen</title>
-            <link>https://tweakers.net/nieuws/235452/fairphone-4-krijgt-android-15-update-android-14-wordt-overgeslagen.html</link>
-            <description>De Fairphone 4-smartphone zal geen update naar Android 14 krijgen. Dat zegt het Nederlandse Fairphone. De gebruikers van deze smartphone zullen op termijn wel een update naar Android 15 krijgen. Wanneer die verschijnt, is nog niet duidelijk.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/235452/fairphone-4-krijgt-android-15-update-android-14-wordt-overgeslagen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235452</guid>
-            <pubDate>Sat, 24 May 2025 12:10:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Videopreview - De tofste kasten van Computex 2025!</title>
-            <link>https://tweakers.net/video/19924/de-tofste-kasten-van-computex-2025.html</link>
-            <description>De Computex-beurs in Taipeio staat ieder jaar weer bol van de kasten: behuizingen zijn niet alleen de grootste componenten die je koopt voor je build, maar het is misschien ook wel de categorie met de meeste keuze. In deze video hebben we de krenten voor je uit de pap gevist, zodat je een mooi overzicht krijgt van alle nieuwe kasten met al dan niet gebogen glas, uitbundige rgb-verlichting of juist een bijzonder elegant design.</description>
-            <author>Luke van Drie</author>
-            <category>Videopreview / Computers / Behuizingen</category>
-            <comments>https://tweakers.net/video/19924/de-tofste-kasten-van-computex-2025.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/video/19924</guid>
-            <pubDate>Sat, 24 May 2025 12:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Round-up - De tofste kasten van de Computex</title>
-            <link>https://tweakers.net/reviews/13328/de-tofste-kasten-van-de-computex.html</link>
-            <description>De Computex staat ieder jaar weer bol van de kasten: n dit overzicht hebben we de krenten uit de pap voor je gevist, zodat je een mooi overzicht krijgt van alle kasten met glas en rgb krijgt.</description>
-            <author>Willem de Moor</author>
-            <category>Round-up / Computers / Behuizingen</category>
-            <comments>https://tweakers.net/reviews/13328/8/de-tofste-kasten-van-de-computex-phanteks-en-sharkoon.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13328</guid>
-            <pubDate>Sat, 24 May 2025 12:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - SpaceSniffer 2.0.2.5</title>
-            <link>https://tweakers.net/downloads/72760/spacesniffer-2025.html</link>
-            <description>Uderzo Umberto heeft versie 2.0.2.5 van SpaceSniffer uitgebracht. Dit gratis programma kan helpen bij het opruimen van de harde schijf. Het maakt namelijk heel inzichtelijk welke mappen en bestanden de meeste ruimte innemen. Door twee keer op een map te klikken krijg je verdere details over de inhoud. Er kan ook van filters gebruik worden gemaakt om zo naar specifieke bestanden te zoeken. De download is slechts 745kB groot en het programma hoeft niet geïnstalleerd te worden om zijn werk te kunnen doen. Release 2.0.2.5</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72760/spacesniffer-2025.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72760</guid>
-            <pubDate>Sat, 24 May 2025 12:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>FTC stopt met rechtszaak tegen Microsofts overname van Activision</title>
-            <link>https://tweakers.net/nieuws/235440/ftc-stopt-met-rechtszaak-tegen-microsofts-overname-van-activision.html</link>
-            <description>De Federal Trade Commission stopt met de rechtszaak tegen Microsofts overname van Activision Blizzard. De Amerikaanse toezichthouder stelt dat het beter is voor het algemeen belang om de administratieve procedure van de rechtszaak niet voort te zetten.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/235440/ftc-stopt-met-rechtszaak-tegen-microsofts-overname-van-activision.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235440</guid>
-            <pubDate>Sat, 24 May 2025 11:09:06 +0200</pubDate>
-        </item>
-        <item>
-            <title>Thermaltake toont 360mm-aio-waterkoeler met vier schermen</title>
-            <link>https://tweakers.net/nieuws/235450/thermaltake-toont-360mm-aio-waterkoeler-met-vier-schermen.html</link>
-            <description>Thermaltake werkt aan een aio-waterkoeler met vier ingebouwde schermen. Het bedrijf liet deze MineCube 360 Ultra-koeler zien tijdens de Computex. Het bedrijf toonde ook fans met schermen aan de zijkant. Beide producten verschijnen dit jaar nog, maar de prijzen zijn niet bekend.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / Processorkoeling</category>
-            <comments>https://tweakers.net/nieuws/235450/thermaltake-toont-360mm-aio-waterkoeler-met-vier-schermen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235450</guid>
-            <pubDate>Sat, 24 May 2025 10:03:35 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft geeft testversies Paint, Notepad en Knipprogramma meer AI-functies</title>
-            <link>https://tweakers.net/nieuws/235438/microsoft-geeft-testversies-paint-notepad-en-knipprogramma-meer-ai-functies.html</link>
-            <description>Microsoft heeft nieuwe AI-functies aan de bètaversies van Paint, Notepad en het Knipprogramma toegevoegd. Paint krijgt een AI-selectiefunctie, Notepad krijgt een nieuwe AI-schrijffunctie en het Knipprogramma krijgt een functie waarbij AI helpt om nauwkeurige screenshots te maken.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Computers / Besturingssystemen</category>
-            <comments>https://tweakers.net/nieuws/235438/microsoft-geeft-testversies-paint-notepad-en-knipprogramma-meer-ai-functies.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235438</guid>
-            <pubDate>Sat, 24 May 2025 10:02:24 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Firefly III 6.2.15</title>
-            <link>https://tweakers.net/downloads/72764/firefly-iii-6215.html</link>
-            <description>Firefly III is een in PHP geschreven webapplicatie waarmee een overzicht van je financiën kan worden bijgehouden. Het kan de data importeren vanuit csv-bestanden, de bunq-api of de Spectre-api. Voor meer informatie over dit programma verwijzen we naar deze pagina. De ontwikkelaar loopt ook op Tweakers rond en bespreekt zijn applicatie in het grote &#039;Firefly III&#039;-topic. Versie 6.2.13 is uitgekomen en kort daarop ook versies 6.2.14 en 6.2.15. De changelog voor deze uitgaven kan hieronder worden gevonden.</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72764/firefly-iii-6215.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72764</guid>
-            <pubDate>Sat, 24 May 2025 10:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Ducky introduceert stiller mechanisch toetsenbord met 98-procentlay-out</title>
-            <link>https://tweakers.net/nieuws/235416/ducky-introduceert-stiller-mechanisch-toetsenbord-met-98-procentlay-out.html</link>
-            <description>Toetsenbordenmerk Ducky presenteert op de Computex een prototype van zijn stillere mechanische toetsenbord Cushion 98, voorzien van een ingebouwd &#039;kussentje&#039; en eigen switches om het geluid te dempen. Het bord heeft een ongebruikelijke 98-procentlay-out.</description>
-            <author>Friso Weijers</author>
-            <category>Nieuws / Computers / Toetsenborden</category>
-            <comments>https://tweakers.net/nieuws/235416/ducky-introduceert-stiller-mechanisch-toetsenbord-met-98-procentlay-out.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235416</guid>
-            <pubDate>Sat, 24 May 2025 09:39:44 +0200</pubDate>
-        </item>
-        <item>
-            <title>Noctua en Pulsar werken samen aan een muis met ingebouwde ventilator</title>
-            <link>https://tweakers.net/nieuws/235446/noctua-en-pulsar-werken-samen-aan-een-muis-met-ingebouwde-ventilator.html</link>
-            <description>Zuid-Koreaanse muizenfabrikant Pulsar werkt samen met Noctua aan een gamingmuis. Die is voorzien van de traditionele bruine Noctua-kleuren en heeft een ingebouwde ventilator. De muis moet in november verschijnen.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / Muizen</category>
-            <comments>https://tweakers.net/nieuws/235446/noctua-en-pulsar-werken-samen-aan-een-muis-met-ingebouwde-ventilator.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235446</guid>
-            <pubDate>Sat, 24 May 2025 09:15:10 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Gpg4win 4.4.1</title>
-            <link>https://tweakers.net/downloads/72762/gpg4win-441.html</link>
-            <description>Versie 4.4.1 van Gpg4win is uitgekomen. Met dit programma kan een stukje zekerheid aan het versturen van e-mails en bestanden worden toegevoegd. Zo kunnen deze worden versleuteld met OpenPGP of S/MIME. Daarnaast kan aan de hand van een digitale handtekening zowel de integriteit van de bestanden of e-mails, als de afzender worden geverifieerd. Om dit alles te bewerkstelligen maakt Gpg4win gebruik van een aantal externe programma&#039;s zoals GnuPG, Kleopatra, GpgOL en GpgEX. De changelog voor deze uitgave kan hieronder worden gevonden. Kleopatra:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72762/gpg4win-441.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72762</guid>
-            <pubDate>Sat, 24 May 2025 08:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Review - POCO F7 Pro &amp; F7 Ultra - Nog meer hardware voor je geld</title>
-            <link>https://tweakers.net/reviews/13258/poco-f7-pro-en-f7-ultra-nog-meer-hardware-voor-je-geld.html</link>
-            <description>POCO staat bekend om zijn betaalbare maar krachtige telefoons. Hiervan verschijnt deze keer voor het eerst een Ultra-variant.</description>
-            <author>Dennis de Vries</author>
-            <category>Review / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/reviews/13258/8/poco-f7-pro-en-f7-ultra-nog-meer-hardware-voor-je-geld-conclusie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13258</guid>
-            <pubDate>Sat, 24 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>ASUS ontwikkelt manier om aio-waterkoeler draadloos te verbinden met moederbord</title>
-            <link>https://tweakers.net/nieuws/235436/asus-ontwikkelt-manier-om-aio-waterkoeler-draadloos-te-verbinden-met-moederbord.html</link>
-            <description>ASUS werkt aan een techniek om all-in-onewaterkoelers draadloos op een moederbord aan te sluiten. Dat moet een strakker uiterlijk opleveren. De fabrikant demonstreert zijn eerste implementatie op de Computex-beurs.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Computers / Moederborden</category>
-            <comments>https://tweakers.net/nieuws/235436/asus-ontwikkelt-manier-om-aio-waterkoeler-draadloos-te-verbinden-met-moederbord.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235436</guid>
-            <pubDate>Fri, 23 May 2025 20:54:18 +0200</pubDate>
         </item>
     </channel>
 </rss>
