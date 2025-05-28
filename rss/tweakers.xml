@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 28 May 2025 13:31:01 +0200</pubDate>
-        <lastBuildDate>Wed, 28 May 2025 13:31:01 +0200</lastBuildDate>
+        <pubDate>Wed, 28 May 2025 14:41:04 +0200</pubDate>
+        <lastBuildDate>Wed, 28 May 2025 14:41:04 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,46 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Meta reorganiseert AI-afdelingen: productteam voor apps, apart team voor Llama</title>
+            <link>https://tweakers.net/nieuws/235574/meta-reorganiseert-ai-afdelingen-productteam-voor-apps-apart-team-voor-llama.html</link>
+            <description>Meta is van plan om zijn AI-team op te splitsen in twee nieuwe teams, meldt Axios. Het zou gaan om een AI-productteam dat zich richt op AI-functies binnen WhatsApp, Instagram en Facebook, en een AGI-team dat zich richt op de Llama-modellen. Volgens bronnen gaan er geen banen verloren.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/235574/meta-reorganiseert-ai-afdelingen-productteam-voor-apps-apart-team-voor-llama.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235574</guid>
+            <pubDate>Wed, 28 May 2025 14:23:36 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Deals - De beste elektronicadeals van week 22 2025</title>
+            <link>https://tweakers.net/plan/4424/de-beste-elektronicadeals-van-week-22-2025.html</link>
+            <description>De interessante prijsdalingen, cashbackacties, kortingscodes en comboaanbiedingen van week 22 van 2025, geselecteerd door het Pricewatch-team.</description>
+            <author>Tweakers Pricewatch</author>
+            <category>.deals</category>
+            <comments>https://tweakers.net/plan/4424/de-beste-elektronicadeals-van-week-22-2025.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/plan/4424</guid>
+            <pubDate>Wed, 28 May 2025 14:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Belnet zet energiezuiniger BNIX-internetknooppunt in met hogere piekbelasting</title>
+            <link>https://tweakers.net/nieuws/235572/belnet-zet-energiezuiniger-bnix-internetknooppunt-in-met-hogere-piekbelasting.html</link>
+            <description>Belnet start met het gebruik van het vernieuwde internetknooppunt BNIX. De poorten van het knooppunt gebruiken een derde van de stroom vergeleken met voorheen, en het knooppunt kan een hogere datapiekbelasting aan, hoewel niet precies bekend is hoeveel hoger de capaciteit is.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Internettoegang</category>
+            <comments>https://tweakers.net/nieuws/235572/belnet-zet-energiezuiniger-bnix-internetknooppunt-in-met-hogere-piekbelasting.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235572</guid>
+            <pubDate>Wed, 28 May 2025 13:59:41 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Redactieblog #13 - Googelen zonder Gemini, games vibecoden en USB-sticks</title>
+            <link>https://tweakers.net/geek/235496/redactieblog-13-googelen-zonder-gemini-games-vibecoden-en-usb-sticks.html</link>
+            <description>In dit dertiende redactieblog klaagt Hayte over een chatbot in zijn Google-resultaten, vibecodet Arnoud een spelletje in elkaar en ontdekt Dennis dat USB-sticks anno 2025 nog steeds meerwaarde hebben.</description>
+            <author>Redactie Tweakers</author>
+            <category>.Geek / IT Pro / Internet</category>
+            <comments>https://tweakers.net/geek/235496/redactieblog-13-googelen-zonder-gemini-games-vibecoden-en-usb-sticks.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/235496</guid>
+            <pubDate>Wed, 28 May 2025 13:37:00 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Mozilla Thunderbird 139.0</title>
             <link>https://tweakers.net/downloads/72806/mozilla-thunderbird-1390.html</link>
@@ -376,46 +416,6 @@
             <comments>https://tweakers.net/geek/235518/webwinkel-maakt-macintosh-replica-op-basis-van-raspberry-pi-pico.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/geek/235518</guid>
             <pubDate>Tue, 27 May 2025 10:23:59 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Vaultwarden 1.34.1</title>
-            <link>https://tweakers.net/downloads/72782/vaultwarden-1341.html</link>
-            <description>Bitwarden is een wachtwoordmanager die regelmatig op Tweakers voorbijkomt. Het is opensource en heeft ook de mogelijkheid om het op een eigen server te draaien. Ontwikkelaar Daniel García heeft een onofficiële in Rust ontwikkelde implementatie van Bitwarden gemaakt, in eerste instantie onder de naam Bitwarden_rs maar sinds een paar jaar als Vaultwarden. Het gaat alleen om de serverkant van de wachtwoordmanager; voor de clients kan de officiële software van Bitwarden worden gebruikt. Vaultwarden is lichter in gebruik en heeft ook functionaliteit waarvoor bij Bitwarden moet worden betaald, waaronder functionaliteit voor het beheer van wachtwoorden op organisatieniveau. Versie 1.34.0 van Vaultwarden is uitgekomen met meteen een hotfix er achteraan en hier zijn de volgende veranderingen en verbeteringen in aangebracht:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72782/vaultwarden-1341.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72782</guid>
-            <pubDate>Tue, 27 May 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>WhatsApp hint naar release eerste native iPad-app</title>
-            <link>https://tweakers.net/nieuws/235516/whatsapp-hint-naar-release-eerste-native-ipad-app.html</link>
-            <description>WhatsApp heeft voor het eerst gereageerd op verzoeken van gebruikers voor een native iPad-app met een ogenemoji op sociale media. De reactie suggereert dat moederbedrijf Meta mogelijk een tabletversie van WhatsApp zal uitbrengen.</description>
-            <author>Andrei Stiru</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/235516/whatsapp-hint-naar-release-eerste-native-ipad-app.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235516</guid>
-            <pubDate>Tue, 27 May 2025 08:54:10 +0200</pubDate>
-        </item>
-        <item>
-            <title>Reuters: Nvidia komt met goedkopere Blackwell-chip voor Chinese markt</title>
-            <link>https://tweakers.net/nieuws/235514/reuters-nvidia-komt-met-goedkopere-blackwell-chip-voor-chinese-markt.html</link>
-            <description>Nvidia ontwikkelt een betaalbare AI-chip op basis van de Blackwell-architectuur specifiek voor China, met massaproductie gepland vanaf juni. Dat meldt persagentschap Reuters aan de hand van bronnen.</description>
-            <author>Andrei Stiru</author>
-            <category>Nieuws / IT Pro / Economie en maatschappij</category>
-            <comments>https://tweakers.net/nieuws/235514/reuters-nvidia-komt-met-goedkopere-blackwell-chip-voor-chinese-markt.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235514</guid>
-            <pubDate>Tue, 27 May 2025 07:58:29 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Homebrew 4.5.3</title>
-            <link>https://tweakers.net/downloads/72780/homebrew-453.html</link>
-            <description>Homebrew is een pakketbeheerder die wordt bijgehouden door een groep vrijwilligers, waarbij vanuit verschillende &#039;taps&#039; (pakketbronnen) &#039;formula&#039; (softwarepakketen) kunnen worden geïnstalleerd via de terminal. Homebrew begon als een project om een tot dan toe ontbrekende pakketbeheerder aan te bieden op macOS, maar Homebrew biedt al langer ook ondersteuning voor Linux. Inmiddels zijn de Homebrew-repositories op GitHub uitgegroeid tot de grootste qua aantallen bijdragers. Via zogeheten &#039;casks&#039; is het verder mogelijk om apps en lettertypen te installeren en beheren op een macOS-installatie. Versie 4.5.3 is uitgekomen en de changelog daarvan ziet er als volgt uit: What&#039;s Changed</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72780/homebrew-453.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72780</guid>
-            <pubDate>Tue, 27 May 2025 07:30:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
