@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 28 May 2025 12:36:04 +0200</pubDate>
-        <lastBuildDate>Wed, 28 May 2025 12:36:04 +0200</lastBuildDate>
+        <pubDate>Wed, 28 May 2025 13:31:01 +0200</pubDate>
+        <lastBuildDate>Wed, 28 May 2025 13:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,46 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Mozilla Thunderbird 139.0</title>
+            <link>https://tweakers.net/downloads/72806/mozilla-thunderbird-1390.html</link>
+            <description>De Mozilla Foundation heeft versie 138.0 van Thunderbird uitgebracht. Thunderbird is een opensourceclient voor e-mail en nieuwsgroepen met ondersteuning voor verschillende mail- en newsaccounts. Verder zijn er een spamfilter, spellingscontrole, kalender en adresboek, en heeft het een aanpasbaar uiterlijk. Thunderbird is beschikbaar in twee verschillende versies, die beide als stabiel worden aangeduid. De eerste wordt vaker voorzien van nieuwe functionaliteit en wordt als Release-versie aangeboden; de andere, de Extra Support Release-versie, wordt alleen van bugfixes en stabiliteitsverbeteringen voorzien. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: What’s New</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72806/mozilla-thunderbird-1390.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72806</guid>
+            <pubDate>Wed, 28 May 2025 13:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>WordPress zet AI-team op om AI-projecten te versnellen en coördineren</title>
+            <link>https://tweakers.net/nieuws/235570/wordpress-zet-ai-team-op-om-ai-projecten-te-versnellen-en-coordineren.html</link>
+            <description>WordPress richt een nieuw AI-team op om AI-projecten te versnellen en coördineren binnen het platform. Het team hanteert een &#039;plug-in first&#039;-aanpak, waarbij nieuwe AI-functies snel getest en geïmplementeerd kunnen worden, zonder te hoeven wachten op grote software-updates.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/235570/wordpress-zet-ai-team-op-om-ai-projecten-te-versnellen-en-coordineren.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235570</guid>
+            <pubDate>Wed, 28 May 2025 13:22:38 +0200</pubDate>
+        </item>
+        <item>
+            <title>Opera kondigt AI-agentbrowser Neon aan</title>
+            <link>https://tweakers.net/nieuws/235568/opera-kondigt-ai-agentbrowser-neon-aan.html</link>
+            <description>Opera onthult zijn nieuwe &#039;agentbrowser&#039; Neon. Volgens het bedrijf kan Neon de intenties van de gebruiker begrijpen en helpen bij het uitvoeren van taken. Neon is alleen toegankelijk op uitnodiging. Geïnteresseerden kunnen zich inschrijven voor een wachtlijst.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / Computers / Browsers</category>
+            <comments>https://tweakers.net/nieuws/235568/opera-kondigt-ai-agentbrowser-neon-aan.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235568</guid>
+            <pubDate>Wed, 28 May 2025 12:43:15 +0200</pubDate>
+        </item>
+        <item>
+            <title>Samsung brengt bètaversie One UI 8 uit</title>
+            <link>https://tweakers.net/nieuws/235564/samsung-brengt-betaversie-one-ui-8-uit.html</link>
+            <description>Samsung maakt de One UI 8-bèta beschikbaar voor Galaxy-toestellen. De stabiele versie komt deze zomer eerst naar de nieuwe vouwbare toestellen van Samsung en volgt later voor andere apparaten. One UI 8 introduceert onder meer een multimodale AI-agent en een nieuwe interface.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/235564/samsung-brengt-betaversie-one-ui-8-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235564</guid>
+            <pubDate>Wed, 28 May 2025 12:38:03 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Total Commander 11.55 RC 4</title>
             <link>https://tweakers.net/downloads/72804/total-commander-1155-rc-4.html</link>
@@ -376,46 +416,6 @@
             <comments>https://tweakers.net/downloads/72780/homebrew-453.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72780</guid>
             <pubDate>Tue, 27 May 2025 07:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Meta start met AI-training op Europese gebruikersgegevens</title>
-            <link>https://tweakers.net/nieuws/235512/meta-start-met-ai-training-op-europese-gebruikersgegevens.html</link>
-            <description>Meta begint vandaag met het gebruiken van openbare content van volwassen gebruikers voor de ontwikkeling van AI-modellen in Europa. De Autoriteit Persoonsgegevens waarschuwde gebruikers eerder om tijdig bezwaar aan te tekenen tegen deze dataverzameling.</description>
-            <author>Andrei Stiru</author>
-            <category>Nieuws / IT Pro / Privacy</category>
-            <comments>https://tweakers.net/nieuws/235512/meta-start-met-ai-training-op-europese-gebruikersgegevens.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235512</guid>
-            <pubDate>Tue, 27 May 2025 07:23:51 +0200</pubDate>
-        </item>
-        <item>
-            <title>Videoreview - Hij is beter, maar niet op elk vlak - Sony WH-1000XM6 versus XM5</title>
-            <link>https://tweakers.net/video/19926/hij-is-beter-maar-niet-op-elk-vlak-sony-wh-1000xm6-versus-xm5.html</link>
-            <description>De Sony WH-1000XM5 geldt al jarenlang als een van de beste noise cancelling hoofdtelefoons die er is, en toch denkt Sony dat ze het met deze nieuwe WH-1000XM6 nòg beter kunnen doen. Wij voelden hem aan de tand om te kijken wat er allemaal verbeterd is.</description>
-            <author>Mark van der Kruit</author>
-            <category>Videoreview / Beeld en geluid / Hoofdtelefoons</category>
-            <comments>https://tweakers.net/video/19926/hij-is-beter-maar-niet-op-elk-vlak-sony-wh-1000xm6-versus-xm5.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/video/19926</guid>
-            <pubDate>Tue, 27 May 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - CudaText 1.224.0</title>
-            <link>https://tweakers.net/downloads/72778/cudatext-12240.html</link>
-            <description>Versie 1.224.0 van CudaText is uitgekomen. Deze opensource en crossplatform teksteditor is beschikbaar voor Windows, Linux, macOS, BSD en Solaris. Het programma heeft uitgebreide mogelijkheden die met name voor softwareontwikkelaars interessant zijn. Het is ontwikkeld in Object Pascal, start snel en door middel van Python-add-ons kan de functionaliteit verder worden uitgebreid. Het programma wordt actief ontwikkeld en regelmatig verschijnen er nieuwe versies. De changelog sinds versie 1.223.0 ziet er als volgt uit:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72778/cudatext-12240.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72778</guid>
-            <pubDate>Mon, 26 May 2025 21:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Geekbench-listing toont Samsung Galaxy Z Flip7 met voor het eerst Exynos-soc</title>
-            <link>https://tweakers.net/nieuws/235508/geekbench-listing-toont-samsung-galaxy-z-flip7-met-voor-het-eerst-exynos-soc.html</link>
-            <description>Samsung Galaxy Z Flip7 krijgt volgens een Geekbench-listing voor het eerst in de foldableserie van Samsung een Exynos-soc. Het zou om de Exynos 2500 gaan. Eerder verscheen een benchmark van de vermeende Galaxy Z Flip met een Exynos 2400 op hetzelfde platform.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/235508/geekbench-listing-toont-samsung-galaxy-z-flip7-met-voor-het-eerst-exynos-soc.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235508</guid>
-            <pubDate>Mon, 26 May 2025 20:22:57 +0200</pubDate>
         </item>
     </channel>
 </rss>
