@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 28 May 2025 15:36:02 +0200</pubDate>
-        <lastBuildDate>Wed, 28 May 2025 15:36:02 +0200</lastBuildDate>
+        <pubDate>Wed, 28 May 2025 16:36:01 +0200</pubDate>
+        <lastBuildDate>Wed, 28 May 2025 16:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,56 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Pokémon Company brengt Pokémon Legends: Z-A op 16 oktober uit</title>
+            <link>https://tweakers.net/nieuws/235592/pokemon-company-brengt-pokemon-legends-z-a-op-16-oktober-uit.html</link>
+            <description>De Pokémon Company brengt de komende 3d-rpg Pokémon Legends: Z-A op 16 oktober 2025 uit voor de Nintendo Switch en Switch 2. De game speelt zich in de stad Lumiose City af en heeft een realtimegevechtssysteem.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/235592/pokemon-company-brengt-pokemon-legends-z-a-op-16-oktober-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235592</guid>
+            <pubDate>Wed, 28 May 2025 16:33:18 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - CCleaner 6.36</title>
+            <link>https://tweakers.net/downloads/72810/ccleaner-636.html</link>
+            <description>Piriform heeft versie 6.36 van CCleaner uitgebracht. Met dit programma kunnen diverse onderdelen van Windows worden opgeschoond. Hierbij valt te denken aan tijdelijke Windows- en internetbestanden, maar ook aan overbodige rommel van een groot aantal andere programma&#039;s, waaronder Windows Media Player, Google Toolbar, Microsoft Office, Photoshop, WinRAR en ga zo maar door. Bovendien is het aantal programma&#039;s waarvan CCleaner de rommel kan opruimen, eenvoudig uit te breiden met het programma CCEnhancer. Naast opruimen kan CCleaner ook fouten in het register en in snelkoppelingen verhelpen, de lijst met programma&#039;s aanpassen die met Windows starten en is het mogelijk om cookies te beheren. Vanaf deze versie kan ook de algehele conditie van de computer worden getest. Naast een gratis uitvoering is er ook een pro-versie, die onder meer een automatische-updatefunctie biedt. In deze release is een probleem met Windows Defender verholpen. Fixing bugs and other improvements</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72810/ccleaner-636.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72810</guid>
+            <pubDate>Wed, 28 May 2025 16:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Telegram integreert Grok als agent en AI-tool in de berichtendienst</title>
+            <link>https://tweakers.net/nieuws/235588/telegram-integreert-grok-als-agent-en-ai-tool-in-de-berichtendienst.html</link>
+            <description>Telegram en xAI breiden de integratie van de AI-dienst Grok in de berichtendienst verder uit. Grok was al als chatbot beschikbaar, maar kan vanaf deze zomer ook berichten schrijven, afbeeldingen genereren en als agent in inboxen opereren. Daarnaast investeert xAI 300 miljoen dollar in het bedrijf.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/235588/telegram-integreert-grok-als-agent-en-ai-tool-in-de-berichtendienst.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235588</guid>
+            <pubDate>Wed, 28 May 2025 16:13:40 +0200</pubDate>
+        </item>
+        <item>
+            <title>Energiedirect verhoogt terugleververgoeding op 1 juli naar 15 cent per kWh</title>
+            <link>https://tweakers.net/nieuws/235586/energiedirect-verhoogt-terugleververgoeding-op-1-juli-naar-15-cent-per-kwh.html</link>
+            <description>Energiedirect verhoogt de terugleververgoeding voor klanten met zonnepanelen per 1 juli 2025 van 5 naar 15 cent per kWh. De vergoeding geldt voor klanten die op jaarbasis meer stroom terugleveren dan ze verbruiken en is van toepassing op vaste en variabele contracten.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/235586/energiedirect-verhoogt-terugleververgoeding-op-1-juli-naar-15-cent-per-kwh.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235586</guid>
+            <pubDate>Wed, 28 May 2025 16:08:01 +0200</pubDate>
+        </item>
+        <item>
+            <title>Amazon en Stellantis stoppen samenwerking rond SmartCockpit-infotainmentsysteem</title>
+            <link>https://tweakers.net/nieuws/235576/amazon-en-stellantis-stoppen-samenwerking-rond-smartcockpit-infotainmentsysteem.html</link>
+            <description>Amazon en Opel-moederbedrijf Stellantis schalen de samenwerking rondom het SmartCockpit-project af. Andere samenwerkingen tussen de bedrijven blijven bestaan. Het project voor een geavanceerd infotainmentsysteem voor auto&#039;s werd begin 2022 opgezet.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/235576/amazon-en-stellantis-stoppen-samenwerking-rond-smartcockpit-infotainmentsysteem.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235576</guid>
+            <pubDate>Wed, 28 May 2025 15:38:10 +0200</pubDate>
+        </item>
         <item>
             <title>Nederlandse influencers met minder dan 500.000 volgers komen onder mediatoezicht</title>
             <link>https://tweakers.net/nieuws/235580/nederlandse-influencers-met-minder-dan-500000-volgers-komen-onder-mediatoezicht.html</link>
@@ -90,7 +140,7 @@
         <item>
             <title>Software-update - Mozilla Thunderbird 139.0</title>
             <link>https://tweakers.net/downloads/72806/mozilla-thunderbird-1390.html</link>
-            <description>De Mozilla Foundation heeft versie 138.0 van Thunderbird uitgebracht. Thunderbird is een opensourceclient voor e-mail en nieuwsgroepen met ondersteuning voor verschillende mail- en newsaccounts. Verder zijn er een spamfilter, spellingscontrole, kalender en adresboek, en heeft het een aanpasbaar uiterlijk. Thunderbird is beschikbaar in twee verschillende versies, die beide als stabiel worden aangeduid. De eerste wordt vaker voorzien van nieuwe functionaliteit en wordt als Release-versie aangeboden; de andere, de Extra Support Release-versie, wordt alleen van bugfixes en stabiliteitsverbeteringen voorzien. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: What’s New</description>
+            <description>De Mozilla Foundation heeft versie 139.0 van Thunderbird uitgebracht. Thunderbird is een opensourceclient voor e-mail en nieuwsgroepen met ondersteuning voor verschillende mail- en newsaccounts. Verder zijn er een spamfilter, spellingscontrole, kalender en adresboek, en heeft het een aanpasbaar uiterlijk. Thunderbird is beschikbaar in twee verschillende versies, die beide als stabiel worden aangeduid. De eerste wordt vaker voorzien van nieuwe functionaliteit en wordt als Release-versie aangeboden; de andere, de Extra Support Release-versie, wordt alleen van bugfixes en stabiliteitsverbeteringen voorzien. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: What’s New</description>
             <author>Bart van Klaveren</author>
             <category>Software</category>
             <comments>https://tweakers.net/downloads/72806/mozilla-thunderbird-1390.html#reacties</comments>
@@ -366,56 +416,6 @@
             <comments>https://tweakers.net/nieuws/235532/klantendata-adidas-gestolen-via-externe-serviceprovider.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235532</guid>
             <pubDate>Tue, 27 May 2025 14:10:46 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - SyncBackFree 11.3.106.0</title>
-            <link>https://tweakers.net/downloads/72788/syncbackfree-1131060.html</link>
-            <description>2BrightSparks heeft versie 11.3.106.0 van SyncBackFree uitgebracht. Dit programma is de eenvoudigste en daarmee meteen ook de gratis uitvoering van de back-upsoftware die dit bedrijf in de aanbieding heeft. Naast back-ups maken kan SyncBackFree data synchroniseren. Dit kan naar een locatie op dezelfde of een andere schijf, of naar een ander medium, zoals een USB-stick, FTP-server of ziparchief. Naast deze gratis uitvoering zijn er ook SyncBackSE en SyncBackPro, die voor respectievelijk 48 en 65 euro extra functionaliteit bieden. De changelog voor deze uitgave is hieronder te vinden: Fixed:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72788/syncbackfree-1131060.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72788</guid>
-            <pubDate>Tue, 27 May 2025 14:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Rabobank-klanten kunnen door storing geen geld overmaken - update</title>
-            <link>https://tweakers.net/nieuws/235528/rabobank-klanten-kunnen-door-storing-geen-geld-overmaken.html</link>
-            <description>Rabobank-klanten kunnen door een storing geen geld overmaken via de app of browser. De bank bevestigt dat er een &#039;technisch probleem&#039; is waardoor transacties niet ondertekend kunnen worden. De storing begon rond 10.45 uur dinsdagochtend.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/235528/rabobank-klanten-kunnen-door-storing-geen-geld-overmaken.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235528</guid>
-            <pubDate>Tue, 27 May 2025 12:50:03 +0200</pubDate>
-        </item>
-        <item>
-            <title>Chinese versie RedMagic 10S Pro heeft standaard ingebouwde Windows-emulator</title>
-            <link>https://tweakers.net/nieuws/235522/chinese-versie-redmagic-10s-pro-heeft-standaard-ingebouwde-windows-emulator.html</link>
-            <description>De twee varianten van de gamingsmartphone RedMagic 10S Pro bevatten in China een vooraf geïnstalleerde Windows-emulator die games van Steam en Epic Games kan draaien. Het is niet bekend of de smartphones in Europa uitkomen en of ze standaard over de emulator beschikken.</description>
-            <author>Andrei Stiru</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/235522/chinese-versie-redmagic-10s-pro-heeft-standaard-ingebouwde-windows-emulator.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235522</guid>
-            <pubDate>Tue, 27 May 2025 12:22:22 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - SQL Server Management Studio 21.0.1</title>
-            <link>https://tweakers.net/downloads/72784/sql-server-management-studio-2101.html</link>
-            <description>Microsoft heeft kort geleden versie 21.0 van SQL Server Management Studio uitgebracht en inmiddels is er ook een kleine update verschenen. Met SSMS kun je een Microsoft SQL-omgeving beheren, bijvoorbeeld een on-premises SQL Server, maar ook een Azure SQL Data Warehouse in de cloud. Het biedt tools voor de configuratie, monitoring en ingebruikname van de verschillende datatiercomponenten. Daarnaast kun je queries en scripts in elkaar zetten. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: What&#039;s new in 21.0.1</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72784/sql-server-management-studio-2101.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72784</guid>
-            <pubDate>Tue, 27 May 2025 12:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Apple rolt Tap to Pay uit in België en zeven andere Europese landen</title>
-            <link>https://tweakers.net/nieuws/235520/apple-rolt-tap-to-pay-uit-in-belgie-en-zeven-andere-europese-landen.html</link>
-            <description>Apple maakt het voortaan mogelijk om in België en zeven andere Europese landen contactloze betalingen via iPhone te ontvangen. Ondernemers kunnen daardoor betalingen accepteren zonder extra betaalterminal. In Nederland is de functie sinds 2022 beschikbaar.</description>
-            <author>Andrei Stiru</author>
-            <category>Nieuws / IT Pro / Economie en maatschappij</category>
-            <comments>https://tweakers.net/nieuws/235520/apple-rolt-tap-to-pay-uit-in-belgie-en-zeven-andere-europese-landen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235520</guid>
-            <pubDate>Tue, 27 May 2025 11:30:33 +0200</pubDate>
         </item>
     </channel>
 </rss>
