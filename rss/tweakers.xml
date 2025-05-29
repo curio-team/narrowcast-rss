@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 29 May 2025 11:31:01 +0200</pubDate>
-        <lastBuildDate>Thu, 29 May 2025 11:31:01 +0200</lastBuildDate>
+        <pubDate>Thu, 29 May 2025 12:36:05 +0200</pubDate>
+        <lastBuildDate>Thu, 29 May 2025 12:36:05 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,9 +18,39 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
+            <title>Eneco introduceert energiecontract met daltarief midden op de dag</title>
+            <link>https://tweakers.net/nieuws/235622/eneco-introduceert-energiecontract-met-daltarief-midden-op-de-dag.html</link>
+            <description>Eneco introduceert een nieuw energiecontract waarbij gebruikers korting krijgen tijdens daluren. Die daluren zijn tussen 10.00 en 17.00 uur en tussen 22.00 en 05.00 uur. Daarmee wil het bedrijf klanten stimuleren om buiten piekmomenten energie te verbruiken.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/235622/eneco-introduceert-energiecontract-met-daltarief-midden-op-de-dag.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235622</guid>
+            <pubDate>Thu, 29 May 2025 12:20:39 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - DaVinci Resolve 20.0</title>
+            <link>https://tweakers.net/downloads/72822/davinci-resolve-200.html</link>
+            <description>Blackmagic Design heeft versie 20.0 van DaVinci Resolve uitgebracht. DaVinci Resolve is een videobewerkingsprogramma voor Windows, macOS en Linux. Het is beschikbaar in de gratis DaVinci Resolve-uitvoering en het betaalde DaVinci Resolve Studio. Dat laatste beschikt over extra functionaliteit, zoals de mogelijkheid om in hogere resoluties en grotere aantallen frames per seconde te werken en de mogelijkheid om van extra grafische processors en OpenFX-plug-ins gebruik te maken. De verbeteringen die in versie 20.0 zijn aangebracht kun je hieronder vinden: Key New Features</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72822/davinci-resolve-200.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72822</guid>
+            <pubDate>Thu, 29 May 2025 12:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Sandberg kondigt radio aan met ingebouwde powerbank, zonnepaneel en lamp</title>
+            <link>https://tweakers.net/nieuws/235620/sandberg-kondigt-radio-aan-met-ingebouwde-powerbank-zonnepaneel-en-lamp.html</link>
+            <description>Het Deense bedrijf Sandberg heeft een draagbare radio geïntroduceerd, die ook een powerbank en lamp is. Het apparaat is op te laden via een USB-kabel, zonne-energie of met de hand via een slinger aan de achterzijde. Ook kunnen er AAA-batterijen in.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / Beeld en geluid / Audiosets</category>
+            <comments>https://tweakers.net/nieuws/235620/sandberg-kondigt-radio-aan-met-ingebouwde-powerbank-zonnepaneel-en-lamp.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235620</guid>
+            <pubDate>Thu, 29 May 2025 11:45:44 +0200</pubDate>
+        </item>
+        <item>
             <title>Hackers voorzien duizenden ASUS-routers van backdoors die reboot overleven</title>
             <link>https://tweakers.net/nieuws/235618/hackers-voorzien-duizenden-asus-routers-van-backdoors-die-reboot-overleven.html</link>
-            <description>Cybercriminelen voorzien duizenden ASUS-routers van persistente achterdeurtjes. Daardoor blijft de achterdeur ook aanwezig na een herstart van het apparaat en na firmware-updates. De campagne richt zich op routers voor thuisgebruik.</description>
+            <description>Cybercriminelen voorzien duizenden ASUS-routers van persistente achterdeurtjes. Daardoor blijft de achterdeur ook aanwezig na een herstart van het apparaat en na firmware-updates. De campagne richt zich op routers voor thuisgebruik en kleine kantoren.</description>
             <author>Eveline Meijer</author>
             <category>Nieuws / Computers / Beveiliging en antivirus</category>
             <comments>https://tweakers.net/nieuws/235618/hackers-voorzien-duizenden-asus-routers-van-backdoors-die-reboot-overleven.html#reacties</comments>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/235562/delhaize-lost-kassabug-op-waarbij-klanten-tientallen-euros-te-veel-betaalden.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235562</guid>
             <pubDate>Wed, 28 May 2025 11:04:25 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - AlmaLinux OS 10.0</title>
-            <link>https://tweakers.net/downloads/72798/almalinux-os-100.html</link>
-            <description>De AlmaLinux OS Foundation heeft versie 10.0 van AlmaLinux OS uitgebracht. AlmaLinux is net als Rocky Linux een van de nieuwkomers die in het gat is gesprongen dat CentOS heeft achtergelaten. Het OS is voornamelijk bedoeld om voor servertaken ingezet te worden en versie 9 is gebaseerd op Red Hat Enterprise Linux 9, waar versie 10 CentOS Stream 10 code als basis heeft en binary compatible is met RHEL 10. De releasenotes voor deze uitgave kunnen hier worden gevonden; dit is de aankondiging voor deze uitgave: AlmaLinux OS 10.0 Stable Now Available</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72798/almalinux-os-100.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72798</guid>
-            <pubDate>Wed, 28 May 2025 10:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>CBS: Nederland heeft bijna 600.000 elektrische auto&#039;s en 410.000 plug-inhybrides</title>
-            <link>https://tweakers.net/nieuws/235560/cbs-nederland-heeft-bijna-600000-elektrische-autos-en-410000-plug-inhybrides.html</link>
-            <description>Een op de tien personenauto&#039;s in Nederland is een stekkerauto, blijkt uit onderzoek van het Centraal Bureau voor de Statistiek. Aan het einde van het eerste kwartaal van 2025 waren er in Nederland 594.000 volledig elektrische auto&#039;s en 410.000 plug-inhybrides.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / Beeld en geluid / Cartech</category>
-            <comments>https://tweakers.net/nieuws/235560/cbs-nederland-heeft-bijna-600000-elektrische-autos-en-410000-plug-inhybrides.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235560</guid>
-            <pubDate>Wed, 28 May 2025 10:16:54 +0200</pubDate>
-        </item>
-        <item>
-            <title>Bpost start met verkoop van telefonie- en internetabonnementen in postkantoren</title>
-            <link>https://tweakers.net/nieuws/235558/bpost-start-met-verkoop-van-telefonie-en-internetabonnementen-in-postkantoren.html</link>
-            <description>Het Belgische postbedrijf bpost is gestart met de verkoop van telecomabonnementen in een deel van zijn postkantoren. Het gaat om abonnementen van DIGI, Proximus-merk Scarlet en Orange-merk Hey. bpost zou zijn kantoren uiteindelijk willen laten uitgroeien tot servicecenters.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / Tablets en telefoons / Telefoonabonnementen</category>
-            <comments>https://tweakers.net/nieuws/235558/bpost-start-met-verkoop-van-telefonie-en-internetabonnementen-in-postkantoren.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235558</guid>
-            <pubDate>Wed, 28 May 2025 09:32:41 +0200</pubDate>
         </item>
     </channel>
 </rss>
