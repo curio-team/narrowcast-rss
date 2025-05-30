@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 30 May 2025 05:49:32 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 May 2025 10:43:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Google fixes bug that led AI Overviews to say it&#8217;s now 2024</title>
+		<link>https://techcrunch.com/2025/05/30/google-fixes-bug-that-led-ai-overviews-to-say-its-now-2024/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Fri, 30 May 2025 10:43:08 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ai overviews]]></category>
+		<category><![CDATA[Google]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3013438</guid>
+
+					<description><![CDATA[Google has fixed a bug that led AI Overviews to say it's 2024 when it was asked if this year is 2025.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Grammarly secures $1B in nondilutive funding from General Catalyst</title>
 		<link>https://techcrunch.com/2025/05/29/grammarly-secures-1b-in-non-dilutive-funding-from-general-catalyst/</link>
 		
@@ -371,22 +387,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3012949</guid>
 
 					<description><![CDATA[We’re on the final stretch! TechCrunch Sessions: AI kicks off in just seven days. Main stage and breakout sessions feature AI leaders from Google Cloud, Anthropic, OpenAI, Twelve Labs, and more. It’s your moment to connect, learn, and network at high velocity. Now’s the time to move — lock in your ticket and save $300, [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple to change the way it names operating systems, report says</title>
-		<link>https://techcrunch.com/2025/05/29/apple-to-change-the-way-it-names-operating-systems-report-says/</link>
-		
-		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
-		<pubDate>Thu, 29 May 2025 13:46:35 +0000</pubDate>
-				<category><![CDATA[Social]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3013048</guid>
-
-					<description><![CDATA[Apple will reportedly change the way it names its operating systems.]]></description>
 		
 		
 		
