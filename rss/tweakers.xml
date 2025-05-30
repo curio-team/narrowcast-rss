@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 30 May 2025 13:31:01 +0200</pubDate>
-        <lastBuildDate>Fri, 30 May 2025 13:31:01 +0200</lastBuildDate>
+        <pubDate>Fri, 30 May 2025 14:41:02 +0200</pubDate>
+        <lastBuildDate>Fri, 30 May 2025 14:41:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>&#039;Nieuwe socket Intel Nova Lake-S is mogelijk compatibel met bestaande koelers&#039;</title>
+            <link>https://tweakers.net/nieuws/235642/nieuwe-socket-intel-nova-lake-s-is-mogelijk-compatibel-met-bestaande-koelers.html</link>
+            <description>Volgens verzendgegevens lijkt Intel Nova Lake-S hetzelfde formaat van socket te gebruiken als de vorige generaties. Dat suggereert dat de komende productlijn mechanisch compatibel is met bestaande processorkoelers. Intel heeft zelf bevestigd dat Nova Lake uitkomt in 2026.</description>
+            <author>Idriz Velghe</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/235642/nieuwe-socket-intel-nova-lake-s-is-mogelijk-compatibel-met-bestaande-koelers.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235642</guid>
+            <pubDate>Fri, 30 May 2025 14:29:02 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Microsoft werkt niet meer aan eigen handheld, wil Windows 11 gaan gebruiken&#039;</title>
+            <link>https://tweakers.net/nieuws/235638/microsoft-werkt-niet-meer-aan-eigen-handheld-wil-windows-11-gaan-gebruiken.html</link>
+            <description>Microsoft lijkt grotendeels te zijn gestopt met de ontwikkeling van een eigen handheldconsole in de Xbox-lijn. Bronnen melden aan Windows Central dat het bedrijf zich voornamelijk wil richten op de gameprestaties van Windows 11 voor op alternatieve handhelds zoals die van ASUS.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Gaming / Consoles</category>
+            <comments>https://tweakers.net/nieuws/235638/microsoft-werkt-niet-meer-aan-eigen-handheld-wil-windows-11-gaan-gebruiken.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235638</guid>
+            <pubDate>Fri, 30 May 2025 13:56:07 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gigabyte-website noemt AMD Ryzen 9000G-processors voor socket AM5</title>
+            <link>https://tweakers.net/nieuws/235640/gigabyte-website-noemt-amd-ryzen-9000g-processors-voor-socket-am5.html</link>
+            <description>Verschillende supportpagina&#039;s van Gigabyte-moederborden bevatten verwijzingen naar AMD&#039;s Ryzen 9000G-serie processors voor de desktop. Deze onaangekondigde apu&#039;s zijn waarschijnlijk gebaseerd op bestaande laptopchips, zoals de huidige Ryzen 8000G-lijn. Het is niet duidelijk wanneer ze op de markt moeten komen.</description>
+            <author>Idriz Velghe</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/235640/gigabyte-website-noemt-amd-ryzen-9000g-processors-voor-socket-am5.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235640</guid>
+            <pubDate>Fri, 30 May 2025 13:45:38 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - StartAllBack 3.9.9</title>
             <link>https://tweakers.net/downloads/72840/startallback-399.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/downloads/72812/teamviewer-15665.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72812</guid>
             <pubDate>Wed, 28 May 2025 18:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>EU legt geld bij zodat investeerders in Europese techbedrijven investeren</title>
-            <link>https://tweakers.net/nieuws/235600/eu-legt-geld-bij-zodat-investeerders-in-europese-techbedrijven-investeren.html</link>
-            <description>De Europese Unie gaat miljarden euro&#039;s investeren in Europese techbedrijven. Dat geld moet van meer Europese techbedrijven miljardenbedrijven maken. Ook werkt de Unie aan versimpeling van regels van onder meer belastingwetten.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/235600/eu-legt-geld-bij-zodat-investeerders-in-europese-techbedrijven-investeren.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235600</guid>
-            <pubDate>Wed, 28 May 2025 17:54:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Windows Update gaat ook apps en drivers van derden updaten</title>
-            <link>https://tweakers.net/nieuws/235598/windows-update-gaat-ook-apps-en-drivers-van-derden-updaten.html</link>
-            <description>Windows krijgt een manier waarop ontwikkelaars apps en drivers kunnen laten updaten via Windows Update. Microsoft hoopt dat de gebruikservaring daar consistenter van wordt. Bovendien kan het besturingssysteem de updates installeren als de gebruiker de pc niet gebruikt.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Computers / Besturingssystemen</category>
-            <comments>https://tweakers.net/nieuws/235598/windows-update-gaat-ook-apps-en-drivers-van-derden-updaten.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235598</guid>
-            <pubDate>Wed, 28 May 2025 17:07:54 +0200</pubDate>
-        </item>
-        <item>
-            <title>Pokémon Company brengt Pokémon Legends: Z-A op 16 oktober uit</title>
-            <link>https://tweakers.net/nieuws/235592/pokemon-company-brengt-pokemon-legends-z-a-op-16-oktober-uit.html</link>
-            <description>De Pokémon Company brengt de komende 3d-rpg Pokémon Legends: Z-A op 16 oktober 2025 uit voor de Nintendo Switch en Switch 2. De game speelt zich in de stad Lumiose City af en heeft een realtimegevechtssysteem.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/235592/pokemon-company-brengt-pokemon-legends-z-a-op-16-oktober-uit.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235592</guid>
-            <pubDate>Wed, 28 May 2025 16:33:18 +0200</pubDate>
         </item>
     </channel>
 </rss>

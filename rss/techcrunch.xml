@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 30 May 2025 10:43:15 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 May 2025 12:01:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,45 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>US imposes new rules to curb semiconductor design software sales to China</title>
+		<link>https://techcrunch.com/2025/05/30/us-imposes-new-rules-to-curb-semiconductor-design-software-sales-to-china/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta, Ram Iyer]]></dc:creator>
+		<pubDate>Fri, 30 May 2025 12:00:19 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Cadence]]></category>
+		<category><![CDATA[export controls]]></category>
+		<category><![CDATA[semiconductors]]></category>
+		<category><![CDATA[siemens]]></category>
+		<category><![CDATA[Synopsys]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3013453</guid>
+
+					<description><![CDATA[Siemens EDA, Cadence and Synopsys have received notices from the U.S. Commerce Department about new export controls on chip design software to China. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Grocery platform Misfits Market acquires The Rounds to further its mission of reducing food waste</title>
+		<link>https://techcrunch.com/2025/05/30/grocery-platform-misfits-market-acquires-the-rounds-to-further-its-mission-of-reducing-food-waste/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Fri, 30 May 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[food delivery]]></category>
+		<category><![CDATA[Mergers and Acquisitions]]></category>
+		<category><![CDATA[online grocery]]></category>
+		<category><![CDATA[misfits market]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3013288</guid>
+
+					<description><![CDATA[Misfits Market, the online platform that delivers imperfect groceries to help minimize waste, announced the acquisition of household restocking service The Rounds on Friday. As a result of the deal, Misfits Market plans to take on over 250 items from The Rounds’ inventory. This allows the company to diversify into additional categories, such as household [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Google fixes bug that led AI Overviews to say it&#8217;s now 2024</title>
 		<link>https://techcrunch.com/2025/05/30/google-fixes-bug-that-led-ai-overviews-to-say-its-now-2024/</link>
 		
@@ -348,45 +387,6 @@
 
 					<description><![CDATA[Reflecting on 10 years since its launch, the honeypot maker explains why the company did not take on any VC funding.
 ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meta AI now has 1B monthly active users</title>
-		<link>https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Thu, 29 May 2025 14:02:43 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Mark Zuckerberg]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[meta ai]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3013053</guid>
-
-					<description><![CDATA[Meta AI now has one billion monthly active users across its apps, CEO Mark Zuckerberg said at the company’s annual shareholder meeting on Wednesday, as first reported by CNBC. The new milestone doubles the 500 million monthly active users Meta AI had back in September 2024. The “focus for this year is deepening the experience [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>7 days until doors open at TechCrunch Sessions: AI</title>
-		<link>https://techcrunch.com/2025/05/29/7-days-until-doors-open-at-techcrunch-sessions-ai/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Thu, 29 May 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[TechCrunch Sessions: AI]]></category>
-		<category><![CDATA[TC Sessions: AI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3012949</guid>
-
-					<description><![CDATA[We’re on the final stretch! TechCrunch Sessions: AI kicks off in just seven days. Main stage and breakout sessions feature AI leaders from Google Cloud, Anthropic, OpenAI, Twelve Labs, and more. It’s your moment to connect, learn, and network at high velocity. Now’s the time to move — lock in your ticket and save $300, [&#8230;]]]></description>
 		
 		
 		
