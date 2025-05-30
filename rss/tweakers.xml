@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 30 May 2025 15:36:07 +0200</pubDate>
-        <lastBuildDate>Fri, 30 May 2025 15:36:07 +0200</lastBuildDate>
+        <pubDate>Fri, 30 May 2025 16:31:02 +0200</pubDate>
+        <lastBuildDate>Fri, 30 May 2025 16:31:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Google: hackers gebruikten Calendar om geïnfecteerde systemen te beheren</title>
+            <link>https://tweakers.net/nieuws/235646/google-hackers-gebruikten-calendar-om-geinfecteerde-systemen-te-beheren.html</link>
+            <description>Beveiligingsonderzoekers van Google hebben ontdekt dat hackers Calendar gebruikten voor de command-and-control van met malware besmette systemen. De techgigant vermoedt dat de malware afkomstig is van de Chinese hackersgroep APT41. Google heeft maatregelen genomen om soortgelijke aanvallen te voorkomen.</description>
+            <author>Idriz Velghe</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/235646/google-hackers-gebruikten-calendar-om-geinfecteerde-systemen-te-beheren.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235646</guid>
+            <pubDate>Fri, 30 May 2025 15:37:54 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Roboform 9.7.3</title>
             <link>https://tweakers.net/downloads/72842/roboform-973.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/downloads/72814/zettlr-350.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72814</guid>
             <pubDate>Wed, 28 May 2025 19:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Firefox krijgt optionele linkpreviews met AI-samenvattingen</title>
-            <link>https://tweakers.net/nieuws/235604/firefox-krijgt-optionele-linkpreviews-met-ai-samenvattingen.html</link>
-            <description>Mozilla heeft optionele linkpreviews toegevoegd aan Firefox met daarin naast een afbeelding en titel een door AI gemaakte samenvatting van de pagina. De preview werkt alleen door bij het klikken ook op Alt en Shift te drukken.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Computers / Browsers</category>
-            <comments>https://tweakers.net/nieuws/235604/firefox-krijgt-optionele-linkpreviews-met-ai-samenvattingen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235604</guid>
-            <pubDate>Wed, 28 May 2025 19:12:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
