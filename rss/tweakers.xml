@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 29 May 2025 16:31:02 +0200</pubDate>
-        <lastBuildDate>Thu, 29 May 2025 16:31:02 +0200</lastBuildDate>
+        <pubDate>Fri, 30 May 2025 09:31:01 +0200</pubDate>
+        <lastBuildDate>Fri, 30 May 2025 09:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,12 +18,102 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
-            <title>Software-update - Navidrome 0.56.0</title>
-            <link>https://tweakers.net/downloads/72824/navidrome-0560.html</link>
-            <description>Er is een update voor versie 0.56.0 van Navidrome is uitgekomen. De makers noemen Navidrome een personal streaming service: een opensource mediaserver die je persoonlijke muziekcollectie van overal benaderbaar kan maken. Het is snel, gebruikt weinig resources, heeft geen moeite met hele grote collecties en elke gebruiker kan zijn eigen playlists en favorieten aanmaken. Navidrome is compatibel met Subsonic, dus je hebt een grote keuze uit mediaspelers om naar de muziek te luisteren. Downloads en installatie-instructies zijn beschikbaar voor Docker, Windows, Linux, macOS en FreeBSD. De changelog voor deze uitgave kan hieronder worden gevonden.</description>
+            <title>Nvidia brengt native GeForce NOW-app voor Steam Deck uit</title>
+            <link>https://tweakers.net/nieuws/235630/nvidia-brengt-native-geforce-now-app-voor-steam-deck-uit.html</link>
+            <description>Nvidia heeft een aparte GeForce ONE-app uitgebracht voor de Steam Deck. Het gaat om een native app, in plaats van een eerdere tijdelijke oplossing. De app ondersteunt 4K-resoluties op 60fps met DLSS 4 en HDR10, mits het apparaat gedockt is.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Gaming / Consoles</category>
+            <comments>https://tweakers.net/nieuws/235630/nvidia-brengt-native-geforce-now-app-voor-steam-deck-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235630</guid>
+            <pubDate>Fri, 30 May 2025 09:27:33 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Mp3tag 3.30</title>
+            <link>https://tweakers.net/downloads/72832/mp3tag-330.html</link>
+            <description>Florian Heidenreich heeft versie 3.30 van Mp3tag uitgebracht. Met dit programma kunnen de metatags van de gangbaarste muziekformaten worden aangepast. Ondersteuning is aanwezig voor ID3v1, ID3v2.3, ID3v2.4, iTunes MP4, WMA, Vorbis Comments en APE-tags. Verder kunnen de bestandsnamen aan de hand van die tags worden aangepast en kunnen playlists worden gegenereerd. De releasenotes voor deze uitgave zien er als volgt uit: Improvements for Multiple Files with Varying Covers</description>
             <author>Bart van Klaveren</author>
             <category>Software</category>
-            <comments>https://tweakers.net/downloads/72824/navidrome-0560.html#reacties</comments>
+            <comments>https://tweakers.net/downloads/72832/mp3tag-330.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72832</guid>
+            <pubDate>Fri, 30 May 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nieuwe Edge-versie heeft Copilot-integratie in nieuw tabblad als opt-infunctie</title>
+            <link>https://tweakers.net/nieuws/235628/nieuwe-edge-versie-heeft-copilot-integratie-in-nieuw-tabblad-als-opt-infunctie.html</link>
+            <description>Microsoft is begonnen met de uitrol van een nieuwe versie van Edge waarbij de zoekbalk met Bing in een nieuw tabblad kan worden vervangen door Copilot. Het gaat om een opt-infeature die eerder deze maand in bèta uitwam.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Browsers</category>
+            <comments>https://tweakers.net/nieuws/235628/nieuwe-edge-versie-heeft-copilot-integratie-in-nieuw-tabblad-als-opt-infunctie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235628</guid>
+            <pubDate>Fri, 30 May 2025 08:08:01 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - GPU-Z 2.66.0</title>
+            <link>https://tweakers.net/downloads/72830/gpu-z-2660.html</link>
+            <description>Versie 2.66.0 van GPU-Z is uitgekomen. Dit programma kan precies vertellen welke grafische kaart in de pc zit. Zo vermeldt het onder meer fabrikant, model, type, revisie en snelheid van de grafische processor, maar ook de hoeveelheid, type en snelheid van het geheugen. Hoewel de naam en het uiterlijk doen denken aan CPU-Z en PCI-Z, vergelijkbare programma&#039;s voor processors en PCI-devices, zijn die programma&#039;s van andere makers. In deze uitgave zijn de volgende veranderingen en verbeteringen doorgevoerd: Changes in version 2.66.0:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72830/gpu-z-2660.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72830</guid>
+            <pubDate>Fri, 30 May 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Samenwerking tussen X en Telegram voor Grok-integratie is toch nog niet rond</title>
+            <link>https://tweakers.net/nieuws/235626/samenwerking-tussen-x-en-telegram-voor-grok-integratie-is-toch-nog-niet-rond.html</link>
+            <description>Het is nog niet zeker dat Telegram integratie krijgt van X-chatbot Grok. Zowel Telegram-oprichter Pavel Durov als Elon Musk erkennen dat er nog geen deal is getekend.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/235626/samenwerking-tussen-x-en-telegram-voor-grok-integratie-is-toch-nog-niet-rond.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235626</guid>
+            <pubDate>Fri, 30 May 2025 07:22:51 +0200</pubDate>
+        </item>
+        <item>
+            <title>Achtergrond - Rechtszaken bedreigen miljardenstroom van Apples snelst groeiende divisie</title>
+            <link>https://tweakers.net/reviews/13276/rechtszaken-bedreigen-miljardenstroom-van-apples-snelst-groeiende-divisie.html</link>
+            <description>Apples inkomsten uit diensten groeien al jaren, maar staan nu onder druk − door rechtszaken.</description>
+            <author>Arnoud Wokke</author>
+            <category>Achtergrond / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/reviews/13276/rechtszaken-bedreigen-miljardenstroom-van-apples-snelst-groeiende-divisie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13276</guid>
+            <pubDate>Fri, 30 May 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Visual Studio 2022 17.14.3</title>
+            <link>https://tweakers.net/downloads/72836/visual-studio-2022-17143.html</link>
+            <description>Microsoft heeft een update voor versie 17.14 van Visual Studio 2022 uitgebracht. Deze populaire programmeerontwikkelomgeving, verkrijgbaar in de smaken Community, Professional en Enterprise, beschikt over handige opties om het programmeren in onder meer Visual C++, Visual Basic, C#, F# en Python gemakkelijker te maken. De nieuwe versie is volledig 64bit en heeft een vereenvoudigde gebruikersinterface. Uitgebreide informatie over versie 17.14 is op deze pagina van Microsoft te vinden; in deze uitgave zijn verder nog de volgende verbeteringen aangebracht: Fixed in version 17.14.3</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72836/visual-studio-2022-17143.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72836</guid>
+            <pubDate>Thu, 29 May 2025 22:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - pfSense CE 2.8.0</title>
+            <link>https://tweakers.net/downloads/72828/pfsense-ce-280.html</link>
+            <description>Versie 2.8 van de Community Edition van pfSense is uitgekomen. Dit pakket is gebaseerd op het besturingssysteem FreeBSD en richt zich op router- en firewalltaken. Het is verkrijgbaar in de gratis Community Edition en een betaalde Plus-uitvoering, die voorheen als Factory Edition werd aangeboden. Het is in 2004 begonnen als een afsplitsing van m0n0wall vanwege verschillende visies bij de ontwikkelaars en in de loop van de jaren uitgegroeid tot een router- en firewallpakket dat in zowel kleine als zeer grote omgevingen kan worden ingezet. Voor meer informatie verwijzen we naar deze pagina. De releasenotes voor deze uitgave kunnen hieronder worden gevonden.</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72828/pfsense-ce-280.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72828</guid>
+            <pubDate>Thu, 29 May 2025 20:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Tails 6.16</title>
+            <link>https://tweakers.net/downloads/72826/tails-616.html</link>
+            <description>Tails staat voor &#039;The amnesic incognito live system&#039; en is een live Linux-distributie die zich richt op privacy en anonimiteit. Als basis maakt het gebruik van Debian GNU/Linux en het voegt daaraan een Gnome-omgeving met Tor, Tor Browser, Pidgin, Thunderbird, Electrum, LibreOffice, GPG en KeePassXC toe. Voor meer informatie verwijzen we naar deze pagina. Versie 6 is op Debian 12 gebaseerd en heeft Gnome 43 als desktopomgeving. In versie 6.16 zijn de volgende veranderingen en verbeteringen aangebracht: Changes and updates</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72826/tails-616.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72826</guid>
+            <pubDate>Thu, 29 May 2025 18:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Navidrome 0.56.1</title>
+            <link>https://tweakers.net/downloads/72824/navidrome-0561.html</link>
+            <description>Versies 0.56.0 eb 0.56.1 van Navidrome zijn uitgekomen. De makers noemen Navidrome een personal streaming service: een opensource mediaserver die je persoonlijke muziekcollectie van overal benaderbaar kan maken. Het is snel, gebruikt weinig resources, heeft geen moeite met hele grote collecties en elke gebruiker kan zijn eigen playlists en favorieten aanmaken. Navidrome is compatibel met Subsonic, dus je hebt een grote keuze uit mediaspelers om naar de muziek te luisteren. Downloads en installatie-instructies zijn beschikbaar voor Docker, Windows, Linux, macOS en FreeBSD. De changelog voor deze uitgave kan hieronder worden gevonden.</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72824/navidrome-0561.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72824</guid>
             <pubDate>Thu, 29 May 2025 16:00:00 +0200</pubDate>
         </item>
@@ -50,7 +140,7 @@
         <item>
             <title>Eneco introduceert energiecontract met daltarief midden op de dag</title>
             <link>https://tweakers.net/nieuws/235622/eneco-introduceert-energiecontract-met-daltarief-midden-op-de-dag.html</link>
-            <description>Eneco introduceert een nieuw energiecontract waarbij gebruikers korting krijgen tijdens daluren. Die daluren zijn tussen 10.00 en 17.00 uur en tussen 22.00 en 05.00 uur. Daarmee wil het bedrijf klanten stimuleren om buiten piekmomenten energie te verbruiken.</description>
+            <description>Eneco introduceert een nieuw energiecontract waarbij gebruikers korting krijgen tijdens daluren. Die daluren zijn tussen 10.00 en 17.00 uur en tussen 22.00 en 05.00 uur. Daarmee wil het bedrijf klanten stimuleren om buiten piekmomenten stroom te verbruiken.</description>
             <author>Eveline Meijer</author>
             <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
             <comments>https://tweakers.net/nieuws/235622/eneco-introduceert-energiecontract-met-daltarief-midden-op-de-dag.html#reacties</comments>
@@ -78,12 +168,12 @@
             <pubDate>Thu, 29 May 2025 11:45:44 +0200</pubDate>
         </item>
         <item>
-            <title>Hackers voorzien duizenden ASUS-routers van backdoors die reboot overleven</title>
-            <link>https://tweakers.net/nieuws/235618/hackers-voorzien-duizenden-asus-routers-van-backdoors-die-reboot-overleven.html</link>
+            <title>Hackers installeren backdoors op ASUS-routers die firmware-updates overleven</title>
+            <link>https://tweakers.net/nieuws/235618/hackers-installeren-backdoors-op-asus-routers-die-firmware-updates-overleven.html</link>
             <description>Cybercriminelen voorzien duizenden ASUS-routers van persistente achterdeurtjes. Daardoor blijft de achterdeur ook aanwezig na een herstart van het apparaat en na firmware-updates. De campagne richt zich op routers voor thuisgebruik en kleine kantoren.</description>
             <author>Eveline Meijer</author>
             <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/235618/hackers-voorzien-duizenden-asus-routers-van-backdoors-die-reboot-overleven.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/235618/hackers-installeren-backdoors-op-asus-routers-die-firmware-updates-overleven.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235618</guid>
             <pubDate>Thu, 29 May 2025 11:12:34 +0200</pubDate>
         </item>
@@ -148,12 +238,12 @@
             <pubDate>Thu, 29 May 2025 06:00:00 +0200</pubDate>
         </item>
         <item>
-            <title>.Geek - Tweakers Podcast #375 - Pornosites, lora-netwerken en auto-abonnementen</title>
-            <link>https://tweakers.net/geek/235594/tweakers-podcast-375-pornosites-lora-netwerken-en-auto-abonnementen.html</link>
-            <description>Deze week praten Arnoud Wokke, Jurian Ubachs, Jelle Stuip en Tijs Hofmans over lora-netwerken in 2025, een mogelijk verbod op smartphones voor kinderen, abonnementen voor autofuncties en verifictie op pornosites.</description>
+            <title>.Geek - Tweakers Podcast #375 - Pornosites, LoRa-netwerken en autoabonnementen</title>
+            <link>https://tweakers.net/geek/235594/tweakers-podcast-375-pornosites-lora-netwerken-en-autoabonnementen.html</link>
+            <description>Deze week praten Arnoud Wokke, Jurian Ubachs, Jelle Stuip en Tijs Hofmans over LoRa-netwerken in 2025, een mogelijk verbod op smartphones voor kinderen, abonnementen voor autofuncties en verificatie op pornosites.</description>
             <author>Arnoud Wokke</author>
             <category>.Geek / Beeld en geluid / Audio</category>
-            <comments>https://tweakers.net/geek/235594/tweakers-podcast-375-pornosites-lora-netwerken-en-auto-abonnementen.html#reacties</comments>
+            <comments>https://tweakers.net/geek/235594/tweakers-podcast-375-pornosites-lora-netwerken-en-autoabonnementen.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/geek/235594</guid>
             <pubDate>Thu, 29 May 2025 06:00:00 +0200</pubDate>
         </item>
@@ -170,7 +260,7 @@
         <item>
             <title>Google: Instagram-app kan door bug accu leeg laten lopen op Android</title>
             <link>https://tweakers.net/nieuws/235612/google-instagram-app-kan-door-bug-accu-leeg-laten-lopen-op-android.html</link>
-            <description>De Instagram-app voor Android heeft een bug, waardoor die de accu van een smartphone kan leegtrekken. De meest recente versie fixt die bug, zo zegt Google.</description>
+            <description>De Instagram-app voor Android heeft een bug, waardoor die de accu van een smartphone kan leegtrekken. De recentste versie fixt die bug, zo zegt Google.</description>
             <author>Arnoud Wokke</author>
             <category>Nieuws / Tablets en telefoons / Smartphones</category>
             <comments>https://tweakers.net/nieuws/235612/google-instagram-app-kan-door-bug-accu-leeg-laten-lopen-op-android.html#reacties</comments>
@@ -190,7 +280,7 @@
         <item>
             <title>CD Projekt Red: Cyberpunk 2 komt rond 2030 uit</title>
             <link>https://tweakers.net/nieuws/235608/cd-projekt-red-cyberpunk-2-komt-rond-2030-uit.html</link>
-            <description>Cyberpunk 2, de opvolger van Cyberpunk 2077, komt rond 2030 uit, zo zegt ontwikkelaar CD Projekt Red. Dat is ongeveer tien jaar na Cyberpunk 2077, die eind 2020 uitkwam. Cyberpunk 2 zit in de preproductiefase.</description>
+            <description>Cyberpunk 2, de opvolger van Cyberpunk 2077, komt rond 2030 uit, zo zegt ontwikkelaar CD Projekt Red. Dat is ongeveer tien jaar na Cyberpunk 2077, dat eind 2020 uitkwam. Cyberpunk 2 zit in de preproductiefase.</description>
             <author>Arnoud Wokke</author>
             <category>Nieuws / Gaming / Games</category>
             <comments>https://tweakers.net/nieuws/235608/cd-projekt-red-cyberpunk-2-komt-rond-2030-uit.html#reacties</comments>
@@ -326,96 +416,6 @@
             <comments>https://tweakers.net/nieuws/235580/nederlandse-influencers-met-minder-dan-500000-volgers-komen-onder-mediatoezicht.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235580</guid>
             <pubDate>Wed, 28 May 2025 15:02:44 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Camtasia 2025.1.2</title>
-            <link>https://tweakers.net/downloads/72808/camtasia-202512.html</link>
-            <description>TechSmith heeft versie 2025.1.2 van Camtasia uitgebracht. Met dit programma, wat voor Windows en macOS beschikbaar is, kunnen op een eenvoudige manier video&#039;s voor onder meer trainingen en presentaties worden gemaakt. Het kan op aparte sporen de microfoon, de webcam, wat er op het beeldscherm gebeurt, het geluid dat op de computer wordt afgespeeld en de invoer van muis en toetsenbord opnemen. Dit alles kan vervolgens afzonderlijk worden bewerkt en verder kunnen er effecten aan worden toegevoegd om zo professionele video&#039;s te maken. Voor meer informatie verwijzen we naar deze pagina, waar alle mogelijkheden op een rijtje worden gezet. Sinds versie 2025.0.1 zijn de volgende veranderingen en verbeteringen aangebracht:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72808/camtasia-202512.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72808</guid>
-            <pubDate>Wed, 28 May 2025 15:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Apple breidt Self Service Repair-programma uit met recente iPad-modellen</title>
-            <link>https://tweakers.net/nieuws/235578/apple-breidt-self-service-repair-programma-uit-met-recente-ipad-modellen.html</link>
-            <description>Apple voegt iPads toe aan zijn Self Service Repair-programma, waardoor iPad-gebruikers toegang krijgen tot originele onderdelen, reperatiehandleidingen en gereedschap om hun apparaat zelf te repareren.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / Tablets en telefoons / Tablets</category>
-            <comments>https://tweakers.net/nieuws/235578/apple-breidt-self-service-repair-programma-uit-met-recente-ipad-modellen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235578</guid>
-            <pubDate>Wed, 28 May 2025 14:42:02 +0200</pubDate>
-        </item>
-        <item>
-            <title>Meta splitst AI-team op in product- en AGI-divisie om concurrentie bij te houden</title>
-            <link>https://tweakers.net/nieuws/235574/meta-splitst-ai-team-op-in-product-en-agi-divisie-om-concurrentie-bij-te-houden.html</link>
-            <description>Meta is van plan om zijn AI-team op te splitsen in twee nieuwe teams, meldt Axios. Het zou gaan om een AI-productteam dat zich richt op AI-functies binnen WhatsApp, Instagram en Facebook, en een AGI-team dat zich richt op de Llama-modellen. Volgens bronnen gaan er geen banen verloren.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/235574/meta-splitst-ai-team-op-in-product-en-agi-divisie-om-concurrentie-bij-te-houden.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235574</guid>
-            <pubDate>Wed, 28 May 2025 14:23:36 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Deals - De beste elektronicadeals van week 22 2025</title>
-            <link>https://tweakers.net/plan/4424/de-beste-elektronicadeals-van-week-22-2025.html</link>
-            <description>De interessante prijsdalingen, cashbackacties, kortingscodes en comboaanbiedingen van week 22 van 2025, geselecteerd door het Pricewatch-team.</description>
-            <author>Tweakers Pricewatch</author>
-            <category>.deals</category>
-            <comments>https://tweakers.net/plan/4424/de-beste-elektronicadeals-van-week-22-2025.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/plan/4424</guid>
-            <pubDate>Wed, 28 May 2025 14:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Belnet zet energiezuiniger BNIX-internetknooppunt in met hogere piekbelasting</title>
-            <link>https://tweakers.net/nieuws/235572/belnet-zet-energiezuiniger-bnix-internetknooppunt-in-met-hogere-piekbelasting.html</link>
-            <description>Belnet start met het gebruik van het vernieuwde internetknooppunt BNIX. De poorten van het knooppunt gebruiken een derde van de stroom vergeleken met voorheen, en het knooppunt kan een hogere datapiekbelasting aan, hoewel niet precies bekend is hoeveel hoger de capaciteit is.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Internettoegang</category>
-            <comments>https://tweakers.net/nieuws/235572/belnet-zet-energiezuiniger-bnix-internetknooppunt-in-met-hogere-piekbelasting.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235572</guid>
-            <pubDate>Wed, 28 May 2025 13:59:41 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Redactieblog #13 - Googelen zonder Gemini, games vibecoden en USB-sticks</title>
-            <link>https://tweakers.net/geek/235496/redactieblog-13-googelen-zonder-gemini-games-vibecoden-en-usb-sticks.html</link>
-            <description>In dit dertiende redactieblog klaagt Hayte over een chatbot in zijn Google-resultaten, vibecodet Arnoud een spelletje in elkaar en ontdekt Dennis dat USB-sticks anno 2025 nog steeds meerwaarde hebben.</description>
-            <author>Redactie Tweakers</author>
-            <category>.Geek / IT Pro / Internet</category>
-            <comments>https://tweakers.net/geek/235496/redactieblog-13-googelen-zonder-gemini-games-vibecoden-en-usb-sticks.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/235496</guid>
-            <pubDate>Wed, 28 May 2025 13:37:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Mozilla Thunderbird 139.0</title>
-            <link>https://tweakers.net/downloads/72806/mozilla-thunderbird-1390.html</link>
-            <description>De Mozilla Foundation heeft versie 139.0 van Thunderbird uitgebracht. Thunderbird is een opensourceclient voor e-mail en nieuwsgroepen met ondersteuning voor verschillende mail- en newsaccounts. Verder zijn er een spamfilter, spellingscontrole, kalender en adresboek, en heeft het een aanpasbaar uiterlijk. Thunderbird is beschikbaar in twee verschillende versies, die beide als stabiel worden aangeduid. De eerste wordt vaker voorzien van nieuwe functionaliteit en wordt als Release-versie aangeboden; de andere, de Extra Support Release-versie, wordt alleen van bugfixes en stabiliteitsverbeteringen voorzien. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: What’s New</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72806/mozilla-thunderbird-1390.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72806</guid>
-            <pubDate>Wed, 28 May 2025 13:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>WordPress zet AI-team op om AI-projecten te versnellen en coördineren</title>
-            <link>https://tweakers.net/nieuws/235570/wordpress-zet-ai-team-op-om-ai-projecten-te-versnellen-en-coordineren.html</link>
-            <description>WordPress richt een nieuw AI-team op om AI-projecten te versnellen en coördineren binnen het platform. Het team hanteert een &#039;plug-in first&#039;-aanpak, waarbij nieuwe AI-functies snel getest en geïmplementeerd kunnen worden, zonder te hoeven wachten op grote software-updates.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/235570/wordpress-zet-ai-team-op-om-ai-projecten-te-versnellen-en-coordineren.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235570</guid>
-            <pubDate>Wed, 28 May 2025 13:22:38 +0200</pubDate>
-        </item>
-        <item>
-            <title>Opera kondigt AI-agentbrowser Neon aan</title>
-            <link>https://tweakers.net/nieuws/235568/opera-kondigt-ai-agentbrowser-neon-aan.html</link>
-            <description>Opera onthult zijn nieuwe &#039;agentbrowser&#039; Neon. Volgens het bedrijf kan Neon de intenties van de gebruiker begrijpen en helpen bij het uitvoeren van taken. Neon is alleen toegankelijk op uitnodiging. Geïnteresseerden kunnen zich inschrijven voor een wachtlijst.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / Computers / Browsers</category>
-            <comments>https://tweakers.net/nieuws/235568/opera-kondigt-ai-agentbrowser-neon-aan.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235568</guid>
-            <pubDate>Wed, 28 May 2025 12:43:15 +0200</pubDate>
         </item>
     </channel>
 </rss>
