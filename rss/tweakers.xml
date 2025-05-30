@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 30 May 2025 14:41:02 +0200</pubDate>
-        <lastBuildDate>Fri, 30 May 2025 14:41:02 +0200</lastBuildDate>
+        <pubDate>Fri, 30 May 2025 15:36:07 +0200</pubDate>
+        <lastBuildDate>Fri, 30 May 2025 15:36:07 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Roboform 9.7.3</title>
+            <link>https://tweakers.net/downloads/72842/roboform-973.html</link>
+            <description>Versie 9.7.3 van RoboForm is uitgekomen. Dit programma is ruim twintig jaar geleden ontstaan als een hulpmiddel bij het invullen van formulieren en is inmiddels doorgegroeid naar een complete wachtwoordmanager. Het programma is beschikbaar voor Windows, Linux, macOS, Android en iOS, en als plug-in voor de bekendste webbrowsers. Het programma is gratis te gebruiken, maar wel met enkele beperkingen. Naast het veilig opslaan van wachtwoorden en passkeys, kan het ook sterke wachtwoorden genereren en waarschuwen als een wachtwoord voorkomt in een lijst met gelekte wachtwoorden. Sinds versie 9.6.8 zijn de volgende veranderingen doorgevoerd: </description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72842/roboform-973.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72842</guid>
+            <pubDate>Fri, 30 May 2025 15:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Overheid: huurders zijn na stoppen salderingsregeling duurder uit dan eigenaren</title>
+            <link>https://tweakers.net/nieuws/235644/overheid-huurders-zijn-na-stoppen-salderingsregeling-duurder-uit-dan-eigenaren.html</link>
+            <description>De helft van de Nederlandse woningscorporatiehuurders met zonnepanelen is na het afschaffen van de salderingsregeling zo&#039;n 17 euro per maand meer kwijt dan daarvoor. Dat bedrag kan voor andere huurders oplopen tot zo&#039;n 46 euro per maand, blijkt uit onderzoek van de overheid.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Economie en maatschappij</category>
+            <comments>https://tweakers.net/nieuws/235644/overheid-huurders-zijn-na-stoppen-salderingsregeling-duurder-uit-dan-eigenaren.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235644</guid>
+            <pubDate>Fri, 30 May 2025 14:53:24 +0200</pubDate>
+        </item>
         <item>
             <title>&#039;Nieuwe socket Intel Nova Lake-S is mogelijk compatibel met bestaande koelers&#039;</title>
             <link>https://tweakers.net/nieuws/235642/nieuwe-socket-intel-nova-lake-s-is-mogelijk-compatibel-met-bestaande-koelers.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/235604/firefox-krijgt-optionele-linkpreviews-met-ai-samenvattingen.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235604</guid>
             <pubDate>Wed, 28 May 2025 19:12:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Tinder-ceo wil gebruikservaring verbeteren, ook als dat omzet kost</title>
-            <link>https://tweakers.net/nieuws/235602/tinder-ceo-wil-gebruikservaring-verbeteren-ook-als-dat-omzet-kost.html</link>
-            <description>Tinder gaat zijn app herzien, zegt de nieuwe ceo Spencer Rascoff. De gebruikservaring van de app moet beter, zelfs als dat ten koste gaat van omzet op de korte termijn, zo schrijft hij in een memo aan zijn personeel.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/235602/tinder-ceo-wil-gebruikservaring-verbeteren-ook-als-dat-omzet-kost.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235602</guid>
-            <pubDate>Wed, 28 May 2025 18:29:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - TeamViewer 15.66.5</title>
-            <link>https://tweakers.net/downloads/72812/teamviewer-15665.html</link>
-            <description>Versie 15.66.5 van TeamViewer is verschenen. Met dit programma kunnen andere computers via een veilige vpn-verbinding op afstand worden beheerd. Die verbinding loopt via de servers van TeamViewer, dus er hoeven geen instellingen op de router aangepast te worden om het allemaal te laten werken. TeamViewer is gratis voor niet-commercieel gebruik en wordt ontwikkeld voor Windows, Linux, macOS, iOS en Android. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: New features</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72812/teamviewer-15665.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72812</guid>
-            <pubDate>Wed, 28 May 2025 18:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>

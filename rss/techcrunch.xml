@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 30 May 2025 12:01:26 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 May 2025 13:26:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Report: Elon Musk&#8217;s drug use ramped up during the 2024 presidential campaign</title>
+		<link>https://techcrunch.com/2025/05/30/report-elon-musks-drug-use-ramped-up-during-the-2024-presidential-campaign/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Fri, 30 May 2025 13:26:40 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[2024 presidential campaign]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3013479</guid>
+
+					<description><![CDATA[Elon Musk increased his drug taking during the 2024 presidential campaign in which he donated around $270 million to help elect Donald Trump.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>US imposes new rules to curb semiconductor design software sales to China</title>
 		<link>https://techcrunch.com/2025/05/30/us-imposes-new-rules-to-curb-semiconductor-design-software-sales-to-china/</link>
 		
@@ -368,25 +384,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3013047</guid>
 
 					<description><![CDATA[Chinese AI startup DeepSeek&#8217;s newest AI model, an updated version of the company&#8217;s R1 reasoning model, achieves impressive scores on benchmarks for coding, math, and general knowledge, nearly surpassing OpenAI&#8217;s flagship o3. But the upgraded R1, also known as &#8220;R1-0528,&#8221; might also be less willing to answer contentious questions, in particular questions about topics the [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>A decade in, bootstrapped Thinkst Canary reaches $20M in ARR without VC funding</title>
-		<link>https://techcrunch.com/2025/05/29/a-decade-in-bootstrapped-thinkst-canary-reaches-20m-in-arr-without-vc-funding/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Thu, 29 May 2025 14:10:02 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[bootstrapped startup]]></category>
-		<category><![CDATA[canary tokens]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[thinkst]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3012620</guid>
-
-					<description><![CDATA[Reflecting on 10 years since its launch, the honeypot maker explains why the company did not take on any VC funding.
-]]></description>
 		
 		
 		
