@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 02 Jun 2025 10:36:11 +0200</pubDate>
-        <lastBuildDate>Mon, 02 Jun 2025 10:36:11 +0200</lastBuildDate>
+        <pubDate>Mon, 02 Jun 2025 11:31:02 +0200</pubDate>
+        <lastBuildDate>Mon, 02 Jun 2025 11:31:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Leaker: Qualcomm test Snapdragon X2 Elite-variant met 64GB ram</title>
+            <link>https://tweakers.net/nieuws/235688/leaker-qualcomm-test-snapdragon-x2-elite-variant-met-64gb-ram.html</link>
+            <description>Qualcomm zou momenteel tests uitvoeren met een Snapdragon X2 Elite die 64GB ramgeheugen aan boord heeft. De chip zou ook achttien rekenkernen bevatten. Het is niet duidelijk of de geruchten waar zijn en wanneer Qualcomm de chip wil introduceren.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/235688/leaker-qualcomm-test-snapdragon-x2-elite-variant-met-64gb-ram.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235688</guid>
+            <pubDate>Mon, 02 Jun 2025 11:20:02 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Shutter Encoder 19.1</title>
             <link>https://tweakers.net/downloads/72866/shutter-encoder-191.html</link>
@@ -38,12 +48,12 @@
             <pubDate>Mon, 02 Jun 2025 10:13:31 +0200</pubDate>
         </item>
         <item>
-            <title>&#039;Apple noemt volgende macOS-versie naar Lake Tahoe&#039;</title>
-            <link>https://tweakers.net/nieuws/235680/apple-noemt-volgende-macos-versie-naar-lake-tahoe.html</link>
-            <description>Apple zal de volgende versie van het macOS-besturingssysteem macOS Lake Tahoe noemen. Dat schrijft Bloomberg-journalist Mark Gurman. Uit eerdere geruchten moest al blijken dat het Amerikaanse bedrijf de versienummering van het OS naar macOS 26 wil veranderen.</description>
+            <title>&#039;Apple vernoemt volgende macOS-versie naar Lake Tahoe&#039;</title>
+            <link>https://tweakers.net/nieuws/235680/apple-vernoemt-volgende-macos-versie-naar-lake-tahoe.html</link>
+            <description>Apple zal de volgende versie van het macOS-besturingssysteem macOS Tahoe noemen. Dat schrijft Bloomberg-journalist Mark Gurman. Uit eerdere geruchten moest al blijken dat het Amerikaanse bedrijf de versienummering van het OS naar macOS 26 wil veranderen.</description>
             <author>Jay Stout</author>
             <category>Nieuws / Computers / Laptops</category>
-            <comments>https://tweakers.net/nieuws/235680/apple-noemt-volgende-macos-versie-naar-lake-tahoe.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/235680/apple-vernoemt-volgende-macos-versie-naar-lake-tahoe.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235680</guid>
             <pubDate>Mon, 02 Jun 2025 09:22:07 +0200</pubDate>
         </item>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/235640/gigabyte-website-noemt-amd-ryzen-9000g-processors-voor-socket-am5.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235640</guid>
             <pubDate>Fri, 30 May 2025 13:45:38 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - StartAllBack 3.9.9</title>
-            <link>https://tweakers.net/downloads/72840/startallback-399.html</link>
-            <description>Versie 3.9.9 van StartAllBack is uitgekomen. Met dit programma kunnen de vertrouwde startknop, taakbalk, Verkenner en contextmenu&#039;s in Windows 11 worden teruggebracht. Zoals de naam al doet vermoeden, is het van dezelfde maker als StartIsBack++. Een licentie voor het programma kost vijf, negen of twaalf dollar en mag daarvoor op een, twee of drie computers worden gebruikt. Sinds versie 3.9.6 zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 3.9.9</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72840/startallback-399.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72840</guid>
-            <pubDate>Fri, 30 May 2025 13:30:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
