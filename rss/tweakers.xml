@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 02 Jun 2025 14:41:01 +0200</pubDate>
-        <lastBuildDate>Mon, 02 Jun 2025 14:41:01 +0200</lastBuildDate>
+        <pubDate>Mon, 02 Jun 2025 15:36:02 +0200</pubDate>
+        <lastBuildDate>Mon, 02 Jun 2025 15:36:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,46 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Meta wil dat bedrijven ads op Instagram helemaal met AI kunnen maken</title>
+            <link>https://tweakers.net/nieuws/235704/meta-wil-dat-bedrijven-ads-op-instagram-helemaal-met-ai-kunnen-maken.html</link>
+            <description>Meta wil dat bedrijven advertenties op Instagram en Facebook eind volgend jaar helemaal van begin tot einde met kunstmatige intelligentie kunnen genereren. De adverteerder geeft alleen een doel en budget op en AI moet de rest gaan doen.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / E-commerce</category>
+            <comments>https://tweakers.net/nieuws/235704/meta-wil-dat-bedrijven-ads-op-instagram-helemaal-met-ai-kunnen-maken.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235704</guid>
+            <pubDate>Mon, 02 Jun 2025 15:34:54 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Wine 10.9</title>
+            <link>https://tweakers.net/downloads/72872/wine-109.html</link>
+            <description>Er is met versienummer 10.9 een nieuwe ontwikkelbuild van Wine verschenen. Wine is een opensource implementatie van de Windows-api en maakt het mogelijk om DOS- en Windows-programma&#039;s op Linux, FreeBSD, Solaris en macOS te draaien. Een grote groep ontwikkelaars draagt bij aan Wine en er is voor gekozen om elke twee weken een nieuwe zogeheten ontwikkelversie uit te brengen in plaats van te wachten tot er een aantal nieuwe functies klaar is. Een paar keer per jaar verschijnt er een stabiele uitgave. Wine houdt een database bij met hoe goed of slecht applicaties onder Wine werken, al dan niet met behulp van enkele aanpassingen. Deze bevat op het moment van schrijven 29.662 titels, wat er 22 meer zijn dan twee weken geleden. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: What&#039;s new in this release:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72872/wine-109.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72872</guid>
+            <pubDate>Mon, 02 Jun 2025 15:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Microsoft OneDrive geeft apps en websites toegang tot alle bestanden&#039;</title>
+            <link>https://tweakers.net/nieuws/235698/microsoft-onedrive-geeft-apps-en-websites-toegang-tot-alle-bestanden.html</link>
+            <description>Oasis Security heeft een kwetsbaarheid in Microsoft OneDrive ontdekt waardoor apps en websites volledige toegang krijgen tot alle bestanden van een OneDrive-gebruiker. Volgens Oasis Security ligt het gebrek aan een fijnmazige OAuth-implementatie aan de oorzaak van de problemen.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / Computers / Software</category>
+            <comments>https://tweakers.net/nieuws/235698/microsoft-onedrive-geeft-apps-en-websites-toegang-tot-alle-bestanden.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235698</guid>
+            <pubDate>Mon, 02 Jun 2025 14:53:19 +0200</pubDate>
+        </item>
+        <item>
+            <title>Apple gaat in beroep tegen EU-beslissing om notificaties open te stellen</title>
+            <link>https://tweakers.net/nieuws/235702/apple-gaat-in-beroep-tegen-eu-beslissing-om-notificaties-open-te-stellen.html</link>
+            <description>Apple gaat in beroep tegen de maatregelen van de Europese Commissie die Apple ertoe dwingt om onder meer andere bedrijven toegang te geven tot notificaties en een lijst van wifinetwerken. Apple zet door die voor zichzelf te houden concurrentie buitenspel, vindt de Commissie.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/235702/apple-gaat-in-beroep-tegen-eu-beslissing-om-notificaties-open-te-stellen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235702</guid>
+            <pubDate>Mon, 02 Jun 2025 14:52:06 +0200</pubDate>
+        </item>
         <item>
             <title>Gerucht: Samsung ruilt Google Gemini in voor Perplexity AI in Galaxy S26</title>
             <link>https://tweakers.net/nieuws/235694/gerucht-samsung-ruilt-google-gemini-in-voor-perplexity-ai-in-galaxy-s26.html</link>
@@ -376,46 +416,6 @@
             <comments>https://tweakers.net/nieuws/235652/the-witcher-3-krijgt-later-dit-jaar-crossplatform-modondersteuning.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235652</guid>
             <pubDate>Fri, 30 May 2025 20:02:05 +0200</pubDate>
-        </item>
-        <item>
-            <title>Moederbordfabrikant noemt Intel Arrow Lake-S Refresh in datasheet</title>
-            <link>https://tweakers.net/nieuws/235650/moederbordfabrikant-noemt-intel-arrow-lake-s-refresh-in-datasheet.html</link>
-            <description>Moederbordfabrikant BCM Advanced Research vermeldt Intels Arrow Lake-S Refresh in de datasheet van een W880-moederbord. Het is de eerste keer dat deze refresh concreet wordt genoemd door een fabrikant. Intel brengt deze cpu&#039;s naar verwachting eind dit jaar uit.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Computers / Processors</category>
-            <comments>https://tweakers.net/nieuws/235650/moederbordfabrikant-noemt-intel-arrow-lake-s-refresh-in-datasheet.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235650</guid>
-            <pubDate>Fri, 30 May 2025 19:11:42 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Fan Control 226</title>
-            <link>https://tweakers.net/downloads/72846/fan-control-226.html</link>
-            <description>Versie 226 van Fan Control is uitgekomen. Met dit programma kunnen de ventilators in de computer worden beheerd en in de gaten worden gehouden. Zo is het onder meer mogelijk om met verschillende profielen en configuraties de computer koel of juist stil te houden. Fan Control kan overweg met de meeste fans en controllers en via een plug-insysteem is dat verder uit te breiden. Hoewel het gebruikmaakt van het opensource Libre Hardware Monitor-project, wordt het programma zelf als freeware aangeboden. De changelog voor deze uitgave ziet er als volgt uit: Changelog for version 226:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72846/fan-control-226.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72846</guid>
-            <pubDate>Fri, 30 May 2025 18:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nvidia&#039;s gamingafdeling draait recordomzet, die van datacenters tien keer zoveel</title>
-            <link>https://tweakers.net/nieuws/235648/nvidias-gamingafdeling-draait-recordomzet-die-van-datacenters-tien-keer-zoveel.html</link>
-            <description>Nvidia&#039;s Gaming-divisie was afgelopen kwartaal goed voor een recordomzet van 3,76 miljard dollar. Ook de Data Center-afdeling bracht met 39,11 miljard dollar nog nooit zoveel geld in het laatje. De totale omzet is twee derde hoger dan een jaar geleden.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/nieuws/235648/nvidias-gamingafdeling-draait-recordomzet-die-van-datacenters-tien-keer-zoveel.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235648</guid>
-            <pubDate>Fri, 30 May 2025 17:58:34 +0200</pubDate>
-        </item>
-        <item>
-            <title>Motorola onthult Moto G86 Power 5G met 6720mAh-accu</title>
-            <link>https://tweakers.net/nieuws/235632/motorola-onthult-moto-g86-power-5g-met-6720mah-accu.html</link>
-            <description>Motorola kondigt de Moto G86 Power 5G, Moto G86 5G en Moto G56 5G aan. De G86 Power onderscheidt zich van het reguliere model door zijn 6720mAh-accu, terwijl de fabrikant zich met de Moto G56 5G op een lager segment richt.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/235632/motorola-onthult-moto-g86-power-5g-met-6720mah-accu.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235632</guid>
-            <pubDate>Fri, 30 May 2025 17:03:24 +0200</pubDate>
         </item>
     </channel>
 </rss>
