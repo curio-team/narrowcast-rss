@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 02 Jun 2025 13:31:01 +0200</pubDate>
-        <lastBuildDate>Mon, 02 Jun 2025 13:31:01 +0200</lastBuildDate>
+        <pubDate>Mon, 02 Jun 2025 14:41:01 +0200</pubDate>
+        <lastBuildDate>Mon, 02 Jun 2025 14:41:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,6 +18,36 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
+            <title>Gerucht: Samsung ruilt Google Gemini in voor Perplexity AI in Galaxy S26</title>
+            <link>https://tweakers.net/nieuws/235694/gerucht-samsung-ruilt-google-gemini-in-voor-perplexity-ai-in-galaxy-s26.html</link>
+            <description>Samsung ruilt Google Gemini in voor Perplexity AI als standaardassistent in zijn Galaxy S26-serie van telefoons, zo claimt financieel persbureau Bloomberg. Ook zouden beide bedrijven werken aan een AI Agents-app en een besturingssysteem met AI.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/235694/gerucht-samsung-ruilt-google-gemini-in-voor-perplexity-ai-in-galaxy-s26.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235694</guid>
+            <pubDate>Mon, 02 Jun 2025 14:19:34 +0200</pubDate>
+        </item>
+        <item>
+            <title>KPN ondersteunt chatten zonder verzendknop tijdens bellen</title>
+            <link>https://tweakers.net/nieuws/235696/kpn-ondersteunt-chatten-zonder-verzendknop-tijdens-bellen.html</link>
+            <description>De Nederlandse provider KPN begint met de ondersteuning voor realtimetext (rtt), een manier om te chatten waarbij elke letter die een gebruiker typt bij de andere partij meteen op het scherm verschijnt. Dat kan alleen tijdens bellen.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
+            <comments>https://tweakers.net/nieuws/235696/kpn-ondersteunt-chatten-zonder-verzendknop-tijdens-bellen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235696</guid>
+            <pubDate>Mon, 02 Jun 2025 13:59:35 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Sandboxie 5.70.12 / 1.15.12</title>
+            <link>https://tweakers.net/downloads/72870/sandboxie-57012-11512.html</link>
+            <description>Sandboxie is een programma waarmee het mogelijk is om Windows-programma&#039;s in een afgeschermde omgeving te draaien. Op die manier zijn wijzigingen die door de programma&#039;s of webbrowsers worden aangebracht eenvoudig ongedaan te maken en is er bovendien geen risico dat belangrijke onderdelen van het besturingssysteem worden aangetast. Sandboxie kan worden gebruikt op Windows 7 of hoger en is verkrijgbaar in een classic- en een plus-uitvoering. Naast de gratis versie zijn enkele functies alleen beschikbaar voor mensen die het project financieel steunen. Op deze pagina is te vinden welke extra&#039;s de plus-versie biedt. De releasenotes sinds versie 1.15.10 kunnen hieronder worden gevonden.</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72870/sandboxie-57012-11512.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72870</guid>
+            <pubDate>Mon, 02 Jun 2025 13:30:00 +0200</pubDate>
+        </item>
+        <item>
             <title>&#039;Microsoft werkt aan 3d-avatarfunctie voor Copilot&#039;</title>
             <link>https://tweakers.net/nieuws/235692/microsoft-werkt-aan-3d-avatarfunctie-voor-copilot.html</link>
             <description>Microsoft werkt aan een nieuwe Copilot-functie waarmee gebruikers 3d-avatars kunnen maken voor de AI-assistent. De functie bevindt zich nog in een experimentele fase en valt nog niet te gebruiken. Het is niet duidelijk of en wanneer de functie daadwerkelijk uitrolt.</description>
@@ -30,7 +60,7 @@
         <item>
             <title>&#039;TSMC vraagt 30.000 dollar per 2nm-wafer, 45.000 dollar per 1,6nm-wafer&#039;</title>
             <link>https://tweakers.net/nieuws/235690/tsmc-vraagt-30000-dollar-per-2nm-wafer-45000-dollar-per-1-komma-6nm-wafer.html</link>
-            <description>Bedrijven die een 2nm-wafer bij TSMC willen bestellen, zullen hiervoor ongeveer 30.000 dollar moeten neertellen. Dat schrijft de Chinese krant China Times. Een enkele Ångström-wafer, gebaseerd op het 1,6nm-procedé van TSMC, kost naar verluidt 45.000 dollar.</description>
+            <description>Bedrijven die een 2nm-wafer bij TSMC willen bestellen, zullen hiervoor ongeveer 30.000 dollar moeten neertellen. Dat schrijft de Chinese krant China Times. Een enkele 300mm-wafer, geproduceerd op het 1,6nm-procedé van TSMC, kost naar verluidt 45.000 dollar.</description>
             <author>Jay Stout</author>
             <category>Nieuws / Computers / Processors</category>
             <comments>https://tweakers.net/nieuws/235690/tsmc-vraagt-30000-dollar-per-2nm-wafer-45000-dollar-per-1-komma-6nm-wafer.html#reacties</comments>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/235632/motorola-onthult-moto-g86-power-5g-met-6720mah-accu.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235632</guid>
             <pubDate>Fri, 30 May 2025 17:03:24 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google: hackers gebruikten Calendar om geïnfecteerde systemen te beheren</title>
-            <link>https://tweakers.net/nieuws/235646/google-hackers-gebruikten-calendar-om-geinfecteerde-systemen-te-beheren.html</link>
-            <description>Beveiligingsonderzoekers van Google hebben ontdekt dat hackers Calendar gebruikten voor de command-and-control van met malware besmette systemen. De techgigant vermoedt dat de malware afkomstig is van de Chinese hackersgroep APT41. Google heeft maatregelen genomen om soortgelijke aanvallen te voorkomen.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/235646/google-hackers-gebruikten-calendar-om-geinfecteerde-systemen-te-beheren.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235646</guid>
-            <pubDate>Fri, 30 May 2025 15:37:54 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - RoboForm 9.7.3</title>
-            <link>https://tweakers.net/downloads/72842/roboform-973.html</link>
-            <description>Versie 9.7.3 van RoboForm is uitgekomen. Dit programma is ruim twintig jaar geleden ontstaan als een hulpmiddel bij het invullen van formulieren en is inmiddels doorgegroeid naar een complete wachtwoordmanager. Het programma is beschikbaar voor Windows, Linux, macOS, Android en iOS, en als plug-in voor de bekendste webbrowsers. Het programma is gratis te gebruiken, maar wel met enkele beperkingen. Naast het veilig opslaan van wachtwoorden en passkeys, kan het ook sterke wachtwoorden genereren en waarschuwen als een wachtwoord voorkomt in een lijst met gelekte wachtwoorden. Sinds versie 9.6.8 zijn de volgende veranderingen doorgevoerd: </description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72842/roboform-973.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72842</guid>
-            <pubDate>Fri, 30 May 2025 15:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Overheid: huurders zijn na stoppen salderingsregeling duurder uit dan eigenaren</title>
-            <link>https://tweakers.net/nieuws/235644/overheid-huurders-zijn-na-stoppen-salderingsregeling-duurder-uit-dan-eigenaren.html</link>
-            <description>De helft van de Nederlandse woningcorporatiehuurders met zonnepanelen is na het afschaffen van de salderingsregeling zo&#039;n 17 euro per maand meer kwijt dan daarvoor. Dat bedrag kan voor andere huurders oplopen tot zo&#039;n 46 euro per maand, blijkt uit onderzoek van de overheid.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Economie en maatschappij</category>
-            <comments>https://tweakers.net/nieuws/235644/overheid-huurders-zijn-na-stoppen-salderingsregeling-duurder-uit-dan-eigenaren.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235644</guid>
-            <pubDate>Fri, 30 May 2025 14:53:24 +0200</pubDate>
         </item>
     </channel>
 </rss>
