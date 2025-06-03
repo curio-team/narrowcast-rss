@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 03 Jun 2025 13:31:03 +0200</pubDate>
-        <lastBuildDate>Tue, 03 Jun 2025 13:31:03 +0200</lastBuildDate>
+        <pubDate>Tue, 03 Jun 2025 14:41:01 +0200</pubDate>
+        <lastBuildDate>Tue, 03 Jun 2025 14:41:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Elden Ring Nightreign is 3,5 miljoen keer verkocht en krijgt duo-modus</title>
+            <link>https://tweakers.net/nieuws/235746/elden-ring-nightreign-is-3-komma-5-miljoen-keer-verkocht-en-krijgt-duo-modus.html</link>
+            <description>Elden Ring Nightreign is sinds release wereldwijd 3,5 miljoen keer verkocht. Dat meldt ontwikkelaar FromSoftware. De co-opsurvivalgame krijgt binnenkort nieuwe content en een duo-modus, waarbij spelers per twee aan de slag kunnen gaan.</description>
+            <author>Idriz Velghe</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/235746/elden-ring-nightreign-is-3-komma-5-miljoen-keer-verkocht-en-krijgt-duo-modus.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235746</guid>
+            <pubDate>Tue, 03 Jun 2025 14:30:53 +0200</pubDate>
+        </item>
+        <item>
+            <title>Microsoft integreert AI-videomaker op basis van Sora in mobiele Bing-app</title>
+            <link>https://tweakers.net/nieuws/235738/microsoft-integreert-ai-videomaker-op-basis-van-sora-in-mobiele-bing-app.html</link>
+            <description>Microsoft heeft de Bing Video Creator aangekondigd. Daarmee kunnen met tekstprompts video&#039;s door kunstmatige intelligentie gegenereerd worden. De tool wordt aangedreven door Sora van OpenAI en is voorlopig alleen te gebruiken in de mobiele Bing-app.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/235738/microsoft-integreert-ai-videomaker-op-basis-van-sora-in-mobiele-bing-app.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235738</guid>
+            <pubDate>Tue, 03 Jun 2025 14:19:17 +0200</pubDate>
+        </item>
+        <item>
+            <title>AMD Radeon RX 9060 XT is een derde sneller dan voorganger volgens eerste review</title>
+            <link>https://tweakers.net/nieuws/235742/amd-radeon-rx-9060-xt-is-een-derde-sneller-dan-voorganger-volgens-eerste-review.html</link>
+            <description>Een reviewer heeft vroegtijdig testresultaten gedeeld van AMD&#039;s Radeon RX 9060 XT 16GB. Die worden pas op 4 juni verwacht, gevolgd door de officiële releasedatum van 5 juni. De RDNA 4-gpu blijkt een derde sneller dan de RX 7600 XT.</description>
+            <author>Idriz Velghe</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/235742/amd-radeon-rx-9060-xt-is-een-derde-sneller-dan-voorganger-volgens-eerste-review.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235742</guid>
+            <pubDate>Tue, 03 Jun 2025 13:49:42 +0200</pubDate>
+        </item>
         <item>
             <title>Hedin gaat NIO-EV&#039;s verkopen in België maar zegt niks over accuwissels</title>
             <link>https://tweakers.net/nieuws/235732/hedin-gaat-nio-evs-verkopen-in-belgie-maar-zegt-niks-over-accuwissels.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/best-buy-guide/hoofdtelefoons/beste-draadloze-oortjes#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/best-buy-guide/hoofdtelefoons/beste-draadloze-oortjes</guid>
             <pubDate>Mon, 02 Jun 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Zigbee2MQTT 2.4.0</title>
-            <link>https://tweakers.net/downloads/72860/zigbee2mqtt-240.html</link>
-            <description>Versie 2.4.0 van Zigbee2MQTT is uitgekomen. Zigbee2MQTT maakt het mogelijk om Zigbee-apparaten aan te sturen zonder gebruik te hoeven maken van de gateway of bridge van de fabrikant. Dit doet het door van MQTT gebruik te maken, waardoor het eenvoudig te integreren is in smarthomesoftware, zoals bijvoorbeeld Home Assistant, Homey of Domoticz. De changelog voor deze uitgave kan hieronder worden gevonden. Notes</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72860/zigbee2mqtt-240.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72860</guid>
-            <pubDate>Sun, 01 Jun 2025 20:44:18 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Text Editor Pro 32.2.0</title>
-            <link>https://tweakers.net/downloads/72858/text-editor-pro-3220.html</link>
-            <description>Versie 32.0.0 van Text Editor Pro is uitgekomen. Deze gratis, kleine en eenvoudige teksteditor heeft uitgebreide mogelijkheden, die vooral voor softwareontwikkelaars interessant zijn. Zo zijn er syntaxhighlighting voor meer dan vijftig script- en programmeertalen, macro&#039;s en verticale selectieblokken, en kan het programma bestanden vergelijken. Het programma wordt actief ontwikkeld en regelmatig verschijnen er nieuwe versies met kleine verbeteringen. Sinds versie 31.3.1 zijn de volgende veranderingen en verbeteringen aangebracht: Changes in Text Editor Pro version 32.2.0:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72858/text-editor-pro-3220.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72858</guid>
-            <pubDate>Sun, 01 Jun 2025 14:56:23 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google Foto&#039;s krijgt nieuwe editor en delen via QR-code</title>
-            <link>https://tweakers.net/nieuws/235672/google-fotos-krijgt-nieuwe-editor-en-delen-via-qr-code.html</link>
-            <description>Google heeft naar aanleiding van de tiende verjaardag van Google Foto’s het platform van enkele updates voorzien. De ingebouwde editor heeft een nieuwe interface gekregen en gebruikers kunnen nu ook albums via een QR-code delen.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/235672/google-fotos-krijgt-nieuwe-editor-en-delen-via-qr-code.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235672</guid>
-            <pubDate>Sun, 01 Jun 2025 12:47:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
