@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 03 Jun 2025 12:05:23 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 03 Jun 2025 13:30:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,64 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Health giant Kettering still facing disruption weeks after ransomware attack</title>
+		<link>https://techcrunch.com/2025/06/03/health-giant-kettering-still-facing-disruption-weeks-after-ransomware-attack/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Tue, 03 Jun 2025 13:25:14 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[Kettering Health]]></category>
+		<category><![CDATA[medical]]></category>
+		<category><![CDATA[Ohio]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3014329</guid>
+
+					<description><![CDATA[A healthcare giant with dozens of facilities across Ohio is still recovering after shutting down nearly all its operations following a ransomware attack.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Speedata, a chip startup competing with Nvidia, raises a $44M Series B</title>
+		<link>https://techcrunch.com/2025/06/03/speedata-a-chip-startup-competing-with-nvidia-raises-a-44m-series-b/</link>
+		
+		<dc:creator><![CDATA[Kate Park]]></dc:creator>
+		<pubDate>Tue, 03 Jun 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[apu]]></category>
+		<category><![CDATA[data analytics]]></category>
+		<category><![CDATA[Speedata]]></category>
+		<category><![CDATA[Lip-bu Tan]]></category>
+		<category><![CDATA[analytics processing unit]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3013974</guid>
+
+					<description><![CDATA[Speedata, a Tel Aviv-based startup developing an analytics processing unit (APU) designed to accelerate big data analytic and AI workloads, has raised a $44M Series B funding round, bringing its total capital raised to $114M. The Series B round was led by its existing investors, including Walden Catalyst Ventures, 83North, Koch Disruptive Technologies, Pitango First, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Adobe launches beta version of its Photoshop app on Android</title>
+		<link>https://techcrunch.com/2025/06/03/adobe-launches-beta-version-of-its-photoshop-app-on-android/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Tue, 03 Jun 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[photoshop]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3014397</guid>
+
+					<description><![CDATA[Android users can now download Photoshop for mobile. Adobe announced on Tuesday that it&#8217;s releasing the beta version of its Android Photoshop app, four months after the company launched its iPhone app. The app offers a similar set of editing tools as the desktop version, including layering and masking, but is optimized for mobile screens. [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>An early Joby Aviation backer might soon be its biggest distributor in Saudi Arabia</title>
 		<link>https://techcrunch.com/2025/06/03/an-early-joby-aviation-backer-might-soon-be-its-biggest-distributor-in-saudi-arabia/</link>
 		
@@ -328,64 +386,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3014093</guid>
 
 					<description><![CDATA[Microsoft's sustainability goals are imperiled by its push into AI and cloud services.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>IBM acquires data analysis startup Seek AI, opens AI accelerator in NYC</title>
-		<link>https://techcrunch.com/2025/06/02/ibm-acquires-data-analysis-startup-seek-ai-opens-ai-accelerator-in-nyc/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Mon, 02 Jun 2025 18:06:21 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[acquisition]]></category>
-		<category><![CDATA[IBM]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3014170</guid>
-
-					<description><![CDATA[IBM on Monday said that it has acquired Seek AI, an AI platform that allows users to ask questions about enterprise data using natural language, for an undisclosed sum.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Elon Musk&#8217;s xAI reportedly looks to raise $300M in tender offer</title>
-		<link>https://techcrunch.com/2025/06/02/elon-musks-xai-reportedly-looks-to-raise-300m-in-tender-offer/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Mon, 02 Jun 2025 17:50:52 +0000</pubDate>
-				<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[X]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3014091</guid>
-
-					<description><![CDATA[Billionaire Elon Musk's AI startup, xAI, is reportedly launching a $300 million share sale that values the company at $113 billion.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tesla files new &#8216;Robotaxi&#8217; trademark applications after prior attempt stalls</title>
-		<link>https://techcrunch.com/2025/06/02/tesla-files-new-robotaxi-trademark-applications-after-prior-attempt-stalls/</link>
-		
-		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
-		<pubDate>Mon, 02 Jun 2025 17:39:00 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[autonomous vehicles]]></category>
-		<category><![CDATA[avs]]></category>
-		<category><![CDATA[electric vehicles]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[EVs]]></category>
-		<category><![CDATA[robotaxis]]></category>
-		<category><![CDATA[Tesla]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3014147</guid>
-
-					<description><![CDATA[Tesla has filed trademark applications for the term "Tesla Robotaxi," after the company's previous attempts to secure trademarks for its planned self-driving vehicle service hit roadblocks.]]></description>
 		
 		
 		
