@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 04 Jun 2025 14:41:02 +0200</pubDate>
-        <lastBuildDate>Wed, 04 Jun 2025 14:41:02 +0200</lastBuildDate>
+        <pubDate>Wed, 04 Jun 2025 15:36:09 +0200</pubDate>
+        <lastBuildDate>Wed, 04 Jun 2025 15:36:09 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,46 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Gerucht: Fairphone kondigt op 25 juni nieuwe smartphone aan</title>
+            <link>https://tweakers.net/nieuws/235802/gerucht-fairphone-kondigt-op-25-juni-nieuwe-smartphone-aan.html</link>
+            <description>De Fairphone 6 wordt op 25 juni om 9 uur &#039;s ochtends aangekondigd. Dat meldt NieuweMobiel op basis van informatie van retailers. De Nederlandse smartphonefabrikant bracht de Fairphone 5 twee jaar geleden uit.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/235802/gerucht-fairphone-kondigt-op-25-juni-nieuwe-smartphone-aan.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235802</guid>
+            <pubDate>Wed, 04 Jun 2025 15:11:11 +0200</pubDate>
+        </item>
+        <item>
+            <title>Videoreview - Deze instapvideokaart heeft wél 16GB geheugen - AMD RX9060XT Review</title>
+            <link>https://tweakers.net/video/19936/deze-instapvideokaart-heeft-wel-16gb-geheugen-amd-rx9060xt-review.html</link>
+            <description>De Radeon RX 9060 XT is AMD&#039;s directe tegenhanger van de RTX 5060 en 5060 Ti en verslaat die eerste met gemak, maar moet het van die tweede op prijs winnen.</description>
+            <author>Luke van Drie</author>
+            <category>Videoreview / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/video/19936/deze-instapvideokaart-heeft-wel-16gb-geheugen-amd-rx9060xt-review.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/video/19936</guid>
+            <pubDate>Wed, 04 Jun 2025 15:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - Radeon RX 9060 XT 16GB - De geduchte tegenhanger voor Nvidia&#039;s middensegment</title>
+            <link>https://tweakers.net/reviews/13332/radeon-rx-9060-xt-16gb-de-geduchte-tegenhanger-voor-nvidias-middensegment.html</link>
+            <description>De Radeon RX 9060 XT is AMD&#039;s directe tegenhanger van de RTX 5060 en 5060 Ti en verslaat die eerste met gemak, maar moet het van die tweede op prijs winnen.</description>
+            <author>Willem de Moor</author>
+            <category>Review / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/reviews/13332/17/radeon-rx-9060-xt-16gb-de-geduchte-tegenhanger-voor-nvidias-middensegment-conclusie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13332</guid>
+            <pubDate>Wed, 04 Jun 2025 15:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Total Commander 11.55 RC 5</title>
+            <link>https://tweakers.net/downloads/72890/total-commander-1155-rc-5.html</link>
+            <description>De vijfde releasecandidate van Total Commander versie 11.55 is verschenen. Dit programma kan als vervanging voor Windows Verkenner worden gebruikt. Doordat het beeld in tweeën is gesplitst, is het eenvoudig om bestanden te kopiëren, maar het programma kan veel meer. Zo zijn er diverse manieren om bestanden aan te passen, zijn een ingebouwde FTP-client en een multirenametool aanwezig, en is er ondersteuning voor een groot aantal compressieformaten. Verder kan de functionaliteit met plug-ins worden uitgebreid. Meer informatie over de veranderingen die in versie 11.55 zijn aangebracht kunnen op deze pagina worden gevonden; in deze uitgave zijn verder nog de volgende verbeteringen aangebracht: Fixed:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72890/total-commander-1155-rc-5.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72890</guid>
+            <pubDate>Wed, 04 Jun 2025 14:45:05 +0200</pubDate>
+        </item>
         <item>
             <title>SURF test 1,2Tbit/s-glasvezelverbinding tussen Amsterdam en Finland</title>
             <link>https://tweakers.net/nieuws/235792/surf-test-1-komma-2tbit-s-glasvezelverbinding-tussen-amsterdam-en-finland.html</link>
@@ -376,46 +416,6 @@
             <comments>https://tweakers.net/nieuws/235728/eu-gebruikers-kunnen-straks-microsoft-store-verwijderen-in-windows.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235728</guid>
             <pubDate>Tue, 03 Jun 2025 08:26:07 +0200</pubDate>
-        </item>
-        <item>
-            <title>IO Interactive gaat op 6 juni James Bond-game 007 First Light onthullen</title>
-            <link>https://tweakers.net/nieuws/235726/io-interactive-gaat-op-6-juni-james-bond-game-007-first-light-onthullen.html</link>
-            <description>Hitman-ontwikkelaar IO Interactive meldt dat zijn James Bond-game 007 First Light gaat heten. Deze game wordt op 6 juni onthuld, vermoedelijk bij de Summer Game Fest. De ontwikkelaar maakte eind 2020 bekend aan de James Bond-game te werken.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/235726/io-interactive-gaat-op-6-juni-james-bond-game-007-first-light-onthullen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235726</guid>
-            <pubDate>Tue, 03 Jun 2025 07:43:29 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Mozilla Thunderbird 139.0.1</title>
-            <link>https://tweakers.net/downloads/72876/mozilla-thunderbird-13901.html</link>
-            <description>De Mozilla Foundation heeft een update voor versie 139.0 van Thunderbird uitgebracht. Thunderbird is een opensourceclient voor e-mail en nieuwsgroepen met ondersteuning voor verschillende mail- en newsaccounts. Verder zijn er een spamfilter, spellingscontrole, kalender en adresboek, en heeft het een aanpasbaar uiterlijk. Thunderbird is beschikbaar in twee verschillende versies, die beide als stabiel worden aangeduid. De eerste wordt vaker voorzien van nieuwe functionaliteit en wordt als Release-versie aangeboden; de andere, de Extra Support Release-versie, wordt alleen van bugfixes en stabiliteitsverbeteringen voorzien. In deze uitgave zijn de volgende verbeteringen aangebracht: What’s Fixed</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72876/mozilla-thunderbird-13901.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72876</guid>
-            <pubDate>Tue, 03 Jun 2025 07:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Review - Deck of Haunts - Sadisme is soms gewoon heel leuk</title>
-            <link>https://tweakers.net/reviews/13336/deck-of-haunts-sadisme-is-soms-gewoon-heel-leuk.html</link>
-            <description>Deck of Haunts laat spelers een eigen spookhuis managen, waarbij het doel is om alle bezoekers te vermoorden of gillend gek te laten worden. En dat is best leuk!</description>
-            <author>Jurian Ubachs</author>
-            <category>Review / Gaming / Games</category>
-            <comments>https://tweakers.net/reviews/13336/4/deck-of-haunts-sadisme-is-soms-gewoon-heel-leuk-conclusie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13336</guid>
-            <pubDate>Tue, 03 Jun 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Regisseur Star Wars Jedi: Fallen Order gaat D&amp;D-game maken</title>
-            <link>https://tweakers.net/nieuws/235722/regisseur-star-wars-jedi-fallen-order-gaat-d-en-d-game-maken.html</link>
-            <description>De nieuwe gameontwikkelaar Giant Skull gaat een game maken in het Dungeons &amp; Dragons-universum. Giant Skull is de studio van oud-Respawn-medewerkers en hoofd Stig Asmussen was de regisseur bij onder meer Star Wars Jedi: Fallen Order.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/235722/regisseur-star-wars-jedi-fallen-order-gaat-d-en-d-game-maken.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235722</guid>
-            <pubDate>Mon, 02 Jun 2025 21:20:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
