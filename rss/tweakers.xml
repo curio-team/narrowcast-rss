@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 03 Jun 2025 16:36:03 +0200</pubDate>
-        <lastBuildDate>Tue, 03 Jun 2025 16:36:03 +0200</lastBuildDate>
+        <pubDate>Wed, 04 Jun 2025 09:31:01 +0200</pubDate>
+        <lastBuildDate>Wed, 04 Jun 2025 09:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,146 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Python 3.13.4</title>
+            <link>https://tweakers.net/downloads/72888/python-3134.html</link>
+            <description>Python is een objectgeoriënteerde programmeertaal die kan worden gebruikt om eenvoudige tot complexe platformonafhankelijke applicaties te ontwikkelen. Het is in de jaren negentig ontworpen door Guido van Rossum, die destijds in Amsterdam voor het CWI werkte. Guido was als BDFL betrokken bij de ontwikkeling van Python. Hij heeft daarnaast voor Dropbox gewerkt, ging daarna met pensioen en toen dat niet echt beviel, ging hij aan de slag bij Microsoft. De vierde zogenaamde maintenancerelease voor versie 3.13 is uitgekomen en hierin zijn zo&#039;n 300 verbeteringen aangebracht. This is the fourth maintenance release of Python 3.13</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72888/python-3134.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72888</guid>
+            <pubDate>Wed, 04 Jun 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>AWS brengt nieuw bedrijfsonderdeel volledig in EU onder vanwege &#039;soevereiniteit&#039;</title>
+            <link>https://tweakers.net/nieuws/235776/aws-brengt-nieuw-bedrijfsonderdeel-volledig-in-eu-onder-vanwege-soevereiniteit.html</link>
+            <description>Amazon gaat een aantal bedrijfsonderdelen en processen rond AWS volledig in Europa onderbrengen. Zo komt het beheer van Amazon Web Services voor Europa in Duitsland te zitten. Dat gaat zowel de infrastructuur beheren als rootcertificaten uitgeven.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Servers</category>
+            <comments>https://tweakers.net/nieuws/235776/aws-brengt-nieuw-bedrijfsonderdeel-volledig-in-eu-onder-vanwege-soevereiniteit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235776</guid>
+            <pubDate>Wed, 04 Jun 2025 08:36:13 +0200</pubDate>
+        </item>
+        <item>
+            <title>WhatsApp lijkt dichter bij release van gebruikersnamen te komen in nieuwe bèta</title>
+            <link>https://tweakers.net/nieuws/235774/whatsapp-lijkt-dichter-bij-release-van-gebruikersnamen-te-komen-in-nieuwe-beta.html</link>
+            <description>WhatsApp zou dichtbij de release van gebruikersnamen zijn. WABetaInfo heeft screenshots van een vroege versie van die functie waarin te zien is hoe de gebruikersnamen werken. Die mogen bijvoorbeeld maximaal dertig tekens bevatten.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/235774/whatsapp-lijkt-dichter-bij-release-van-gebruikersnamen-te-komen-in-nieuwe-beta.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235774</guid>
+            <pubDate>Wed, 04 Jun 2025 07:35:15 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - VirtualBox 7.1.10</title>
+            <link>https://tweakers.net/downloads/72886/virtualbox-7110.html</link>
+            <description>Oracle heeft versie 7.1.10 van VirtualBox uitgebracht. VirtualBox kan worden gebruikt om andere besturingssystemen als een virtuele machine op een computer te installeren. Daardoor is het mogelijk om verschillende besturingssystemen op dezelfde hardware naast elkaar en tegelijkertijd te gebruiken. VirtualBox is beschikbaar voor Windows, macOS, Linux en Solaris en is in staat om diverse gastbesturingssystemen te draaien. Sinds versie 7.1.6 zijn de volgende veranderingen en verbeteringen aangebracht: VirtualBox 7.1.10</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72886/virtualbox-7110.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72886</guid>
+            <pubDate>Wed, 04 Jun 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Adobe brengt Photoshop-app voor Android in bèta uit</title>
+            <link>https://tweakers.net/nieuws/235772/adobe-brengt-photoshop-app-voor-android-in-beta-uit.html</link>
+            <description>Adobe heeft een bètaversie van zijn mobiele app voor Android uitgebracht. Tijdens de bètaperiode is de app gratis te gebruiken. In de mobiele fotobewerkapp zit onder andere de mogelijkheid om layers te gebruiken.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Software</category>
+            <comments>https://tweakers.net/nieuws/235772/adobe-brengt-photoshop-app-voor-android-in-beta-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235772</guid>
+            <pubDate>Wed, 04 Jun 2025 07:16:33 +0200</pubDate>
+        </item>
+        <item>
+            <title>EA Sports blijft komende jaren F1-games ontwikkelen</title>
+            <link>https://tweakers.net/nieuws/235770/ea-sports-blijft-komende-jaren-f1-games-ontwikkelen.html</link>
+            <description>EA Sports en Formula 1 hebben een nieuwe licentieovereenkomst bereikt voor de ontwikkeling van F1-games. De deal houdt in dat EA de komende twee jaar F1-games ontwikkelt.</description>
+            <author>Idriz Velghe</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/235770/ea-sports-blijft-komende-jaren-f1-games-ontwikkelen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235770</guid>
+            <pubDate>Tue, 03 Jun 2025 21:03:18 +0200</pubDate>
+        </item>
+        <item>
+            <title>MSI onthult compacte Nvidia RTX 5060 Cyclone- en Inspire ITX-videokaarten</title>
+            <link>https://tweakers.net/nieuws/235768/msi-onthult-compacte-nvidia-rtx-5060-cyclone-en-inspire-itx-videokaarten.html</link>
+            <description>MSI onthult twee compacte videokaarten op basis van Nvidia&#039;s RTX 5060. De Cyclone OC bevat een moderne versie van de iconische Cyclone-koeler, terwijl de Inspire ITX een relatief eenvoudige goudkleurige shroud heeft. De fabrikant noemt nog geen prijzen of releasedata.</description>
+            <author>Idriz Velghe</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/235768/msi-onthult-compacte-nvidia-rtx-5060-cyclone-en-inspire-itx-videokaarten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235768</guid>
+            <pubDate>Tue, 03 Jun 2025 20:35:48 +0200</pubDate>
+        </item>
+        <item>
+            <title>Sony kondigt State of Play-presentatie aan voor woensdag 4 juni</title>
+            <link>https://tweakers.net/nieuws/235766/sony-kondigt-state-of-play-presentatie-aan-voor-woensdag-4-juni.html</link>
+            <description>Sony houdt op woensdag 4 juni een State of Play-livestream. Deze vindt plaats om 23.00 uur Nederlandse tijd en zal te zien zijn op YouTube en Twitch.</description>
+            <author>Idriz Velghe</author>
+            <category>Nieuws / Gaming / Consoles</category>
+            <comments>https://tweakers.net/nieuws/235766/sony-kondigt-state-of-play-presentatie-aan-voor-woensdag-4-juni.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235766</guid>
+            <pubDate>Tue, 03 Jun 2025 19:31:23 +0200</pubDate>
+        </item>
+        <item>
+            <title>Epic Games toont techdemo van The Witcher 4 met Unreal Engine 5.6</title>
+            <link>https://tweakers.net/nieuws/235764/epic-games-toont-techdemo-van-the-witcher-4-met-unreal-engine-56.html</link>
+            <description>Epic Games heeft Unreal Engine 5.6 uitgebracht. De nieuwe engine is volgens de ontwikkelaar geschikt voor &#039;grootschalige openwereldgames met levensechte graphics&#039;, die op 60fps draaien op &#039;huidige hardware&#039;. Het bedrijf demonstreert de engine met een techdemo van The Witcher 4.</description>
+            <author>Idriz Velghe</author>
+            <category>Nieuws / Computers / Software</category>
+            <comments>https://tweakers.net/nieuws/235764/epic-games-toont-techdemo-van-the-witcher-4-met-unreal-engine-56.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235764</guid>
+            <pubDate>Tue, 03 Jun 2025 19:06:54 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Pale Moon 33.7.2</title>
+            <link>https://tweakers.net/downloads/72884/pale-moon-3372.html</link>
+            <description>Versie 33.7.0 van Pale Moon is uitgekomen. Deze webbrowser is ooit begonnen als een fork van Mozilla Firefox. Door optimalisaties voor moderne hardware en het weglaten van Accessibility-features en Parental Controls presteerde hij toen een stuk beter. Ook was er een 64bit-versie beschikbaar, ruim voordat Mozilla deze zelf aanbood. Intern werkt het op Goanna, een van Mozilla&#039;s Gecko afgeleide browserengine. De browser is beschikbaar voor Windows, Linux en macOS, en als bèta ook voor FreeBSD. Vanaf versie 30 identificeert de browser zich naar buiten toe weer als een Firefox-browser, wat het eenvoudiger moet maken om oudere browserextensies te gebruiken. De download van Pale Moon is alleen in het Engels; een apart Nederlands taalbestand is beschikbaar. Tegenwoordig is het ook vanuit de Microsoft Store te installeren. Sinds versie 33.7.0 zijn de volgende veranderingen en verbeteringen doorgevoerd: Pale Moon 33.7.2</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72884/pale-moon-3372.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72884</guid>
+            <pubDate>Tue, 03 Jun 2025 18:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Intel-slide noemt Bartlett Lake-cpu&#039;s met 12 P-cores, Wildcat Lake en Nova Lake</title>
+            <link>https://tweakers.net/nieuws/235762/intel-slide-noemt-bartlett-lake-cpus-met-12-p-cores-wildcat-lake-en-nova-lake.html</link>
+            <description>Intel noemt verschillende onaangekondigde en nog niet uitgebrachte processors in een slide voor edgetoepassingen. Deze chips zijn gericht op Time Coordinated Computing, al lijken verschillende productlijnen ook bedoeld voor consumenten.</description>
+            <author>Idriz Velghe</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/235762/intel-slide-noemt-bartlett-lake-cpus-met-12-p-cores-wildcat-lake-en-nova-lake.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235762</guid>
+            <pubDate>Tue, 03 Jun 2025 18:09:36 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Meta had vanaf september inzage in surfgedrag van Android-gebruikers&#039;</title>
+            <link>https://tweakers.net/nieuws/235760/meta-had-vanaf-september-inzage-in-surfgedrag-van-android-gebruikers.html</link>
+            <description>Meta heeft sinds september inzage gehad in het surfgedrag van Android-gebruikers die ingelogd waren op de Facebook- of Instagram-app. Die apps gebruikten een server om het surfgedrag van gebruikers te volgen. Dat werd vervolgens aan de accounts van gebruikers gekoppeld.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/235760/meta-had-vanaf-september-inzage-in-surfgedrag-van-android-gebruikers.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235760</guid>
+            <pubDate>Tue, 03 Jun 2025 17:23:29 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Penpot 2.7.1</title>
+            <link>https://tweakers.net/downloads/72880/penpot-271.html</link>
+            <description>Penpot is een opensource ontwerpprogramma waar programmeurs en grafische ontwikkelaars in kunnen samenwerken. Het is vergelijkbaar met software zoals Figma en Lunacy. Een basisversie kan gratis worden gebruikt en er zijn ook betaalde mogelijkheden met extra functionaliteit en betere ondersteuning. In alle gevallen heb je de mogelijkheid om het zelf te hosten of om van de cloud van Penpot gebruik te maken. Versie 2.7.0 en 2.7.1 van Penpot zijn kort achter elkaar uitgekomen en hierin zijn de volgende verbeteringen aangebracht:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72880/penpot-271.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72880</guid>
+            <pubDate>Tue, 03 Jun 2025 17:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Noord-Koreaanse smartphone neemt elke vijf minuten screenshot voor overheid</title>
+            <link>https://tweakers.net/nieuws/235758/noord-koreaanse-smartphone-neemt-elke-vijf-minuten-screenshot-voor-overheid.html</link>
+            <description>Het Noord-Koreaanse regime neemt verschillende maatregelen om de smartphones van zijn bevolking te censureren. Dat blijkt op basis van een toestel dat eind vorig jaar uit het land werd gesmokkeld en terechtkwam bij de BBC.</description>
+            <author>Idriz Velghe</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/235758/noord-koreaanse-smartphone-neemt-elke-vijf-minuten-screenshot-voor-overheid.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235758</guid>
+            <pubDate>Tue, 03 Jun 2025 16:36:12 +0200</pubDate>
+        </item>
         <item>
             <title>Staatssecretaris voor Digitalisering Zsolt Szabó stapt op na val van kabinet</title>
             <link>https://tweakers.net/nieuws/235740/staatssecretaris-voor-digitalisering-zsolt-szabo-stapt-op-na-val-van-kabinet.html</link>
@@ -138,12 +278,12 @@
             <pubDate>Tue, 03 Jun 2025 09:08:48 +0200</pubDate>
         </item>
         <item>
-            <title>Software-update - The Battle for Wesnoth 1.18.5</title>
-            <link>https://tweakers.net/downloads/72736/the-battle-for-wesnoth-1185.html</link>
+            <title>Software-update - Battle for Wesnoth 1.18.5</title>
+            <link>https://tweakers.net/downloads/72736/battle-for-wesnoth-1185.html</link>
             <description>Er is een nieuwe versie van The Battle for Wesnoth uitgekomen, een ontwikkelversie. The Battle for Wesnoth is een zogeheten turn-based strategiespel, dat zich in een fantasiewereld afspeelt. Het is mogelijk om campaigns tegen de computer te spelen, maar ook om online je krachten te meten tegen andere spelers. Het spel wordt onder de GPL-opensourcelicentie uitgebracht en is voor onder meer Windows, Linux, macOS en iOS beschikbaar. Meer informatie over dit spel kan in deze wiki worden gevonden. Versie 1.18.5 is uitgekomen en hier zijn de volgende veranderingen en verbeteringen in aangebracht: Wesnoth 1.18.5 is out!</description>
             <author>Bart van Klaveren</author>
             <category>Software</category>
-            <comments>https://tweakers.net/downloads/72736/the-battle-for-wesnoth-1185.html#reacties</comments>
+            <comments>https://tweakers.net/downloads/72736/battle-for-wesnoth-1185.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72736</guid>
             <pubDate>Tue, 03 Jun 2025 09:00:00 +0200</pubDate>
         </item>
@@ -228,7 +368,7 @@
             <pubDate>Mon, 02 Jun 2025 19:45:56 +0200</pubDate>
         </item>
         <item>
-            <title>Ook Odido ondersteunt vanaf maandag realtime-chatten tijdens bellen</title>
+            <title>Ook Odido ondersteunt vanaf maandag realtime chatten tijdens bellen</title>
             <link>https://tweakers.net/nieuws/235716/ook-odido-ondersteunt-vanaf-maandag-realtime-chatten-tijdens-bellen.html</link>
             <description>Ondersteuning voor Real Time Text of rtt met een gesprek tussen telefoons op netwerken van verschillende providers komt volgend jaar. Dat zegt de Nederlandse provider Odido, die net als KPN vanaf maandag het protocol ondersteunt.</description>
             <author>Arnoud Wokke</author>
@@ -276,146 +416,6 @@
             <comments>https://tweakers.net/nieuws/235708/bloomberg-instagram-brengt-ipad-app-dit-jaar-uit.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235708</guid>
             <pubDate>Mon, 02 Jun 2025 16:39:14 +0200</pubDate>
-        </item>
-        <item>
-            <title>Outriders-ontwikkelaar People Can Fly schrapt alweer twee games</title>
-            <link>https://tweakers.net/nieuws/235706/outriders-ontwikkelaar-people-can-fly-schrapt-alweer-twee-games.html</link>
-            <description>De Poolse gameontwikkelaar schrapt alweer twee games en ontslaat mensen. In december kondigde de ontwikkelaar ook al aan een game te schrappen en mensen te ontslaan. Er is te weinig geld voor de games.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/235706/outriders-ontwikkelaar-people-can-fly-schrapt-alweer-twee-games.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235706</guid>
-            <pubDate>Mon, 02 Jun 2025 16:07:30 +0200</pubDate>
-        </item>
-        <item>
-            <title>Meta wil dat bedrijven ads op Instagram helemaal met AI kunnen maken</title>
-            <link>https://tweakers.net/nieuws/235704/meta-wil-dat-bedrijven-ads-op-instagram-helemaal-met-ai-kunnen-maken.html</link>
-            <description>Meta wil dat bedrijven advertenties op Instagram en Facebook eind volgend jaar helemaal van begin tot einde met kunstmatige intelligentie kunnen genereren. De adverteerder geeft alleen een doel en budget op en AI moet de rest gaan doen.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / IT Pro / E-commerce</category>
-            <comments>https://tweakers.net/nieuws/235704/meta-wil-dat-bedrijven-ads-op-instagram-helemaal-met-ai-kunnen-maken.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235704</guid>
-            <pubDate>Mon, 02 Jun 2025 15:34:54 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Wine 10.9</title>
-            <link>https://tweakers.net/downloads/72872/wine-109.html</link>
-            <description>Er is met versienummer 10.9 een nieuwe ontwikkelbuild van Wine verschenen. Wine is een opensource implementatie van de Windows-api en maakt het mogelijk om DOS- en Windows-programma&#039;s op Linux, FreeBSD, Solaris en macOS te draaien. Een grote groep ontwikkelaars draagt bij aan Wine en er is voor gekozen om elke twee weken een nieuwe zogeheten ontwikkelversie uit te brengen in plaats van te wachten tot er een aantal nieuwe functies klaar is. Een paar keer per jaar verschijnt er een stabiele uitgave. Wine houdt een database bij met hoe goed of slecht applicaties onder Wine werken, al dan niet met behulp van enkele aanpassingen. Deze bevat op het moment van schrijven 29.662 titels, wat er 22 meer zijn dan twee weken geleden. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: What&#039;s new in this release:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72872/wine-109.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72872</guid>
-            <pubDate>Mon, 02 Jun 2025 15:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Microsoft OneDrive geeft apps en websites toegang tot alle bestanden&#039;</title>
-            <link>https://tweakers.net/nieuws/235698/microsoft-onedrive-geeft-apps-en-websites-toegang-tot-alle-bestanden.html</link>
-            <description>Oasis Security heeft een potentieel privacyrisico in Microsoft OneDrive ontdekt waardoor apps en websites volledige toegang krijgen tot alle bestanden van een OneDrive-gebruiker. De oorzaak ligt volgens Oasis Security bij een niet-fijnmazige implementatie van de OAuth-standaard.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/235698/microsoft-onedrive-geeft-apps-en-websites-toegang-tot-alle-bestanden.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235698</guid>
-            <pubDate>Mon, 02 Jun 2025 14:53:19 +0200</pubDate>
-        </item>
-        <item>
-            <title>Apple gaat in beroep tegen EU-beslissing om notificaties open te stellen</title>
-            <link>https://tweakers.net/nieuws/235702/apple-gaat-in-beroep-tegen-eu-beslissing-om-notificaties-open-te-stellen.html</link>
-            <description>Apple gaat in beroep tegen de maatregelen van de Europese Commissie die Apple ertoe dwingt om onder meer andere bedrijven toegang te geven tot notificaties en een lijst van wifinetwerken. Apple zet door die voor zichzelf te houden concurrentie buitenspel, vindt de Commissie.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/235702/apple-gaat-in-beroep-tegen-eu-beslissing-om-notificaties-open-te-stellen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235702</guid>
-            <pubDate>Mon, 02 Jun 2025 14:52:06 +0200</pubDate>
-        </item>
-        <item>
-            <title>Gerucht: Samsung ruilt Google Gemini in voor Perplexity AI in Galaxy S26</title>
-            <link>https://tweakers.net/nieuws/235694/gerucht-samsung-ruilt-google-gemini-in-voor-perplexity-ai-in-galaxy-s26.html</link>
-            <description>Samsung ruilt Google Gemini in voor Perplexity AI als standaardassistent in zijn Galaxy S26-serie van telefoons, zo claimt financieel persbureau Bloomberg. Ook zouden beide bedrijven werken aan een AI Agents-app en een besturingssysteem met AI.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/235694/gerucht-samsung-ruilt-google-gemini-in-voor-perplexity-ai-in-galaxy-s26.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235694</guid>
-            <pubDate>Mon, 02 Jun 2025 14:19:34 +0200</pubDate>
-        </item>
-        <item>
-            <title>KPN ondersteunt chatten zonder verzendknop tijdens bellen</title>
-            <link>https://tweakers.net/nieuws/235696/kpn-ondersteunt-chatten-zonder-verzendknop-tijdens-bellen.html</link>
-            <description>De Nederlandse provider KPN begint met de ondersteuning voor realtimetext (rtt), een manier om te chatten waarbij elke letter die een gebruiker typt bij de andere partij meteen op het scherm verschijnt. Dat kan alleen tijdens bellen.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
-            <comments>https://tweakers.net/nieuws/235696/kpn-ondersteunt-chatten-zonder-verzendknop-tijdens-bellen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235696</guid>
-            <pubDate>Mon, 02 Jun 2025 13:59:35 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Sandboxie 5.70.12 / 1.15.12</title>
-            <link>https://tweakers.net/downloads/72870/sandboxie-57012-11512.html</link>
-            <description>Sandboxie is een programma waarmee het mogelijk is om Windows-programma&#039;s in een afgeschermde omgeving te draaien. Op die manier zijn wijzigingen die door de programma&#039;s of webbrowsers worden aangebracht eenvoudig ongedaan te maken en is er bovendien geen risico dat belangrijke onderdelen van het besturingssysteem worden aangetast. Sandboxie kan worden gebruikt op Windows 7 of hoger en is verkrijgbaar in een classic- en een plus-uitvoering. Naast de gratis versie zijn enkele functies alleen beschikbaar voor mensen die het project financieel steunen. Op deze pagina is te vinden welke extra&#039;s de plus-versie biedt. De releasenotes sinds versie 1.15.10 kunnen hieronder worden gevonden.</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72870/sandboxie-57012-11512.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72870</guid>
-            <pubDate>Mon, 02 Jun 2025 13:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Microsoft werkt aan 3d-avatarfunctie voor Copilot&#039;</title>
-            <link>https://tweakers.net/nieuws/235692/microsoft-werkt-aan-3d-avatarfunctie-voor-copilot.html</link>
-            <description>Microsoft werkt aan een nieuwe Copilot-functie waarmee gebruikers 3d-avatars kunnen maken voor de AI-assistent. De functie bevindt zich nog in een experimentele fase en valt nog niet te gebruiken. Het is niet duidelijk of en wanneer de functie daadwerkelijk uitrolt.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Computers / Besturingssystemen</category>
-            <comments>https://tweakers.net/nieuws/235692/microsoft-werkt-aan-3d-avatarfunctie-voor-copilot.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235692</guid>
-            <pubDate>Mon, 02 Jun 2025 13:15:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;TSMC vraagt 30.000 dollar per 2nm-wafer, 45.000 dollar per 1,6nm-wafer&#039;</title>
-            <link>https://tweakers.net/nieuws/235690/tsmc-vraagt-30000-dollar-per-2nm-wafer-45000-dollar-per-1-komma-6nm-wafer.html</link>
-            <description>Bedrijven die een 2nm-wafer bij TSMC willen bestellen, zullen hiervoor ongeveer 30.000 dollar moeten neertellen. Dat schrijft de Chinese krant China Times. Een enkele 300mm-wafer, geproduceerd op het 1,6nm-procedé van TSMC, kost naar verluidt 45.000 dollar.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Computers / Processors</category>
-            <comments>https://tweakers.net/nieuws/235690/tsmc-vraagt-30000-dollar-per-2nm-wafer-45000-dollar-per-1-komma-6nm-wafer.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235690</guid>
-            <pubDate>Mon, 02 Jun 2025 12:58:36 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - ShareX 17.1.0</title>
-            <link>https://tweakers.net/downloads/72868/sharex-1710.html</link>
-            <description>Versie 17.1.0 van ShareX is uitgekomen, een bètaversie. Met dit opensourceprogramma kunnen zowel statische als bewegende beelden worden afgevangen, waarna er vervolgens verschillende bewerkingen op los kunnen worden gelaten. Wanneer je tevreden bent met het resultaat kan het worden opgeslagen naar zo&#039;n tachtig bestemmingen, zoals Flickr, Pastebin, Dropbox, Google Drive, OneDrive, Amazon S3 en Streamable. Ook kan de functionaliteit verder uitgebreid worden met zelfgeschreven uploadmodules om ook dit onderdeel naar eigen hand te zetten. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changes in ShareX version 17.1.0:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72868/sharex-1710.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72868</guid>
-            <pubDate>Mon, 02 Jun 2025 12:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Leaker: Qualcomm test Snapdragon X2 Elite-variant met 64GB ram</title>
-            <link>https://tweakers.net/nieuws/235688/leaker-qualcomm-test-snapdragon-x2-elite-variant-met-64gb-ram.html</link>
-            <description>Qualcomm zou momenteel tests uitvoeren met een Snapdragon X2 Elite die 64GB ramgeheugen aan boord heeft. De chip zou ook achttien rekenkernen bevatten. Het is niet duidelijk of de geruchten waar zijn en wanneer Qualcomm de chip wil introduceren.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Computers / Processors</category>
-            <comments>https://tweakers.net/nieuws/235688/leaker-qualcomm-test-snapdragon-x2-elite-variant-met-64gb-ram.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235688</guid>
-            <pubDate>Mon, 02 Jun 2025 11:20:02 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Shutter Encoder 19.1</title>
-            <link>https://tweakers.net/downloads/72866/shutter-encoder-191.html</link>
-            <description>Shutter Encoder is een gratis programma waarmee videobestanden kunnen worden bewerkt en geconverteerd. Het heeft een uitgebreide lijst met mogelijkheden, te lang om hier op te noemen. De video onder dit artikel laat in het kort de belangrijkste zien. Het programma is beschikbaar voor Windows, macOS en Linux, en wordt actief ontwikkeld. Het toont geen advertenties, voegt geen watermerk toe en is ook in het Nederlands te gebruiken. De auteur leeft geheel van donaties. Versie 19.1 is beschikbaar gekomen en sinds versie 18.9 zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 19.1:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72866/shutter-encoder-191.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72866</guid>
-            <pubDate>Mon, 02 Jun 2025 10:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Linux Format Magazine houdt na 25 jaar op te bestaan</title>
-            <link>https://tweakers.net/geek/235684/linux-format-magazine-houdt-na-25-jaar-op-te-bestaan.html</link>
-            <description>Het Britse Linux Format Magazine houdt op te bestaan. Het gespecialiseerde Linux-tijdschrift werd in het jaar 2000 voor het eerst gepubliceerd en kende 329 edities. Het is niet duidelijk waarom de uitgeverij de stekker uit het project trekt.</description>
-            <author>Jay Stout</author>
-            <category>.Geek / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/geek/235684/linux-format-magazine-houdt-na-25-jaar-op-te-bestaan.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/235684</guid>
-            <pubDate>Mon, 02 Jun 2025 10:13:31 +0200</pubDate>
         </item>
     </channel>
 </rss>
