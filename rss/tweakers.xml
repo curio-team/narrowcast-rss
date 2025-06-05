@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 05 Jun 2025 12:36:01 +0200</pubDate>
-        <lastBuildDate>Thu, 05 Jun 2025 12:36:01 +0200</lastBuildDate>
+        <pubDate>Thu, 05 Jun 2025 13:31:06 +0200</pubDate>
+        <lastBuildDate>Thu, 05 Jun 2025 13:31:06 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Rechtspraak stelt AI-strategie vast, ziet kansen voor beperkt gebruik van AI</title>
+            <link>https://tweakers.net/nieuws/235850/rechtspraak-stelt-ai-strategie-vast-ziet-kansen-voor-beperkt-gebruik-van-ai.html</link>
+            <description>De Nederlandse Rechtspraak heeft een strategie vastgesteld voor het gebruik van AI binnen het rechterlijke domein. De Rechtspraak ziet veel potentie in het gebruik van AI, maar wil het vooralsnog alleen inzetten bij laagrisicoprocessen.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/235850/rechtspraak-stelt-ai-strategie-vast-ziet-kansen-voor-beperkt-gebruik-van-ai.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235850</guid>
+            <pubDate>Thu, 05 Jun 2025 13:14:26 +0200</pubDate>
+        </item>
         <item>
             <title>Sony en IO Interactive tonen eerste trailer van James Bond-game 007 First Light</title>
             <link>https://tweakers.net/nieuws/235842/sony-en-io-interactive-tonen-eerste-trailer-van-james-bond-game-007-first-light.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/235782/murena-brengt-e-os-30-uit-met-nieuwe-zoekmachine-en-meer-privacyfuncties.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235782</guid>
             <pubDate>Wed, 04 Jun 2025 13:41:13 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Meme-hit Never Gonna Give You Up is miljard keer beluisterd op Spotify</title>
-            <link>https://tweakers.net/geek/235794/meme-hit-never-gonna-give-you-up-is-miljard-keer-beluisterd-op-spotify.html</link>
-            <description>Rick Astleys megahit Never Gonna Give You Up is één miljard keer beluisterd op Spotify. Vermoedelijk komt dat niet omdat het nummer nou zo&#039;n klassieker is - al is het dat wel - maar vanwege de meme-impact van het nummer. Zonder Rick Astley is er namelijk geen rickroll.</description>
-            <author>Tijs Hofmans</author>
-            <category>.Geek / IT Pro / Internet</category>
-            <comments>https://tweakers.net/geek/235794/meme-hit-never-gonna-give-you-up-is-miljard-keer-beluisterd-op-spotify.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/235794</guid>
-            <pubDate>Wed, 04 Jun 2025 13:16:07 +0200</pubDate>
         </item>
     </channel>
 </rss>
