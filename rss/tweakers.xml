@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 05 Jun 2025 10:36:15 +0200</pubDate>
-        <lastBuildDate>Thu, 05 Jun 2025 10:36:15 +0200</lastBuildDate>
+        <pubDate>Thu, 05 Jun 2025 11:31:05 +0200</pubDate>
+        <lastBuildDate>Thu, 05 Jun 2025 11:31:05 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,46 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Horrorgame Silent Hill f verschijnt op 25 september</title>
+            <link>https://tweakers.net/nieuws/235846/horrorgame-silent-hill-f-verschijnt-op-25-september.html</link>
+            <description>Konami heeft tijdens State of Play aangekondigd dat Silent Hill f op 25 september verschijnt. Het spel speelt zich af in Japan in de jaren zestig. Het spel verschijnt op PlayStation 5, Xbox Series X en S en pc. Het spel is al te reserveren en is vanaf tachtig euro te koop.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/235846/horrorgame-silent-hill-f-verschijnt-op-25-september.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235846</guid>
+            <pubDate>Thu, 05 Jun 2025 11:30:51 +0200</pubDate>
+        </item>
+        <item>
+            <title>VodafoneZiggo verhoogt prijzen met 3,3 procent wegens inflatiecorrectie</title>
+            <link>https://tweakers.net/nieuws/235844/vodafoneziggo-verhoogt-prijzen-met-3-komma-3-procent-wegens-inflatiecorrectie.html</link>
+            <description>VodafoneZiggo verhoogt in Nederland per 1 juli zijn prijzen vanwege een inflatiecorrectie. Die correctie baseert de provider op het inflatiepercentage dat het CBS berekent. In 2024 kwam dat uit op 3,3 procent, wat betekent dat de prijzen met 3,3 procent stijgen.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/235844/vodafoneziggo-verhoogt-prijzen-met-3-komma-3-procent-wegens-inflatiecorrectie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235844</guid>
+            <pubDate>Thu, 05 Jun 2025 11:05:10 +0200</pubDate>
+        </item>
+        <item>
+            <title>Belgische NIO-EV&#039;s krijgen huuraccu&#039;s en accuwisselondersteuning</title>
+            <link>https://tweakers.net/nieuws/235840/belgische-nio-evs-krijgen-huuraccus-en-accuwisselondersteuning.html</link>
+            <description>Autoverkoper Hedin bevestigt aan Tweakers dat NIO-auto&#039;s in België met huuraccu verkocht gaan worden en dat de accu&#039;s gewisseld kunnen worden in de Power Swap Stations. De auto&#039;s worden vanaf september in België verkocht. Prijzen zijn nog niet bekend.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Beeld en geluid / Cartech</category>
+            <comments>https://tweakers.net/nieuws/235840/belgische-nio-evs-krijgen-huuraccus-en-accuwisselondersteuning.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235840</guid>
+            <pubDate>Thu, 05 Jun 2025 11:02:45 +0200</pubDate>
+        </item>
+        <item>
+            <title>Bloodstained: The Scarlet Engagement aangekondigd, game verschijnt in 2026</title>
+            <link>https://tweakers.net/nieuws/235838/bloodstained-the-scarlet-engagement-aangekondigd-game-verschijnt-in-2026.html</link>
+            <description>505 Games en ArtPlay hebben tijdens State of Play de volgende game in de Bloodstained-reeks aangekondigd. Het gaat om The Scarlet Engagement, die in 2026 verschijnt voor PlayStation 5, Xbox Series X en S en pc.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/235838/bloodstained-the-scarlet-engagement-aangekondigd-game-verschijnt-in-2026.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235838</guid>
+            <pubDate>Thu, 05 Jun 2025 10:40:17 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Beyond Compare 5.1.0</title>
             <link>https://tweakers.net/downloads/72904/beyond-compare-510.html</link>
@@ -376,46 +416,6 @@
             <comments>https://tweakers.net/nieuws/235778/pornhub-is-in-frankrijk-niet-bruikbaar-uit-protest-tegen-leeftijdsverificatie.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235778</guid>
             <pubDate>Wed, 04 Jun 2025 11:33:42 +0200</pubDate>
-        </item>
-        <item>
-            <title>ASUS: verwijderen van recente botnetmalware vereist fabrieksreset</title>
-            <link>https://tweakers.net/nieuws/235780/asus-verwijderen-van-recente-botnetmalware-vereist-fabrieksreset.html</link>
-            <description>Een bug in ASUS-routers waarmee een hardnekkig botnet wordt geïnstalleerd, kan worden gerepareerd met een firmware-update, zegt ASUS. Voor al geïnfecteerde routers is het wel nodig om een reset naar de fabrieksinstellingen door te voeren, schrijft het bedrijf in een verklaring.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/235780/asus-verwijderen-van-recente-botnetmalware-vereist-fabrieksreset.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235780</guid>
-            <pubDate>Wed, 04 Jun 2025 09:57:02 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Python 3.13.4</title>
-            <link>https://tweakers.net/downloads/72888/python-3134.html</link>
-            <description>Python is een objectgeoriënteerde programmeertaal die kan worden gebruikt om eenvoudige tot complexe platformonafhankelijke applicaties te ontwikkelen. Het is in de jaren negentig ontworpen door Guido van Rossum, die destijds in Amsterdam voor het CWI werkte. Guido was als BDFL betrokken bij de ontwikkeling van Python. Hij heeft daarnaast voor Dropbox gewerkt, ging daarna met pensioen en toen dat niet echt beviel, ging hij aan de slag bij Microsoft. De vierde zogenaamde maintenancerelease voor versie 3.13 is uitgekomen en hierin zijn zo&#039;n 300 verbeteringen aangebracht. This is the fourth maintenance release of Python 3.13</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72888/python-3134.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72888</guid>
-            <pubDate>Wed, 04 Jun 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>AWS brengt nieuw bedrijfsonderdeel volledig in EU onder vanwege &#039;soevereiniteit&#039;</title>
-            <link>https://tweakers.net/nieuws/235776/aws-brengt-nieuw-bedrijfsonderdeel-volledig-in-eu-onder-vanwege-soevereiniteit.html</link>
-            <description>Amazon gaat een aantal bedrijfsonderdelen en processen rond AWS volledig in Europa onderbrengen. Zo komt het beheer van Amazon Web Services voor Europa in Duitsland te zitten. Dat gaat zowel de infrastructuur beheren als rootcertificaten uitgeven.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Servers</category>
-            <comments>https://tweakers.net/nieuws/235776/aws-brengt-nieuw-bedrijfsonderdeel-volledig-in-eu-onder-vanwege-soevereiniteit.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235776</guid>
-            <pubDate>Wed, 04 Jun 2025 08:36:13 +0200</pubDate>
-        </item>
-        <item>
-            <title>WhatsApp lijkt dichter bij release van gebruikersnamen te komen in nieuwe bèta</title>
-            <link>https://tweakers.net/nieuws/235774/whatsapp-lijkt-dichter-bij-release-van-gebruikersnamen-te-komen-in-nieuwe-beta.html</link>
-            <description>WhatsApp zou dichtbij de release van gebruikersnamen zijn. WABetaInfo heeft screenshots van een vroege versie van die functie waarin te zien is hoe de gebruikersnamen werken. Die mogen bijvoorbeeld maximaal dertig tekens bevatten.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/nieuws/235774/whatsapp-lijkt-dichter-bij-release-van-gebruikersnamen-te-komen-in-nieuwe-beta.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235774</guid>
-            <pubDate>Wed, 04 Jun 2025 07:35:15 +0200</pubDate>
         </item>
     </channel>
 </rss>
