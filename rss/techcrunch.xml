@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 04 Jun 2025 14:15:00 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Jun 2025 05:00:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,355 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Alphabet CEO Sundar Pichai dismisses AI job fears, emphasizes expansion plans</title>
+		<link>https://techcrunch.com/2025/06/04/alphabet-ceo-sundar-pichai-dismisses-ai-job-fears-emphasizes-expansion-plans/</link>
+		
+		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
+		<pubDate>Thu, 05 Jun 2025 04:51:51 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Alphabet]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3015457</guid>
+
+					<description><![CDATA[In a Bloomberg interview Wednesday night in downtown San Francisco, Alphabet CEO Sundar Pichai pushed back against concerns that AI could eventually make half the company&#8217;s 180,000-person workforce redundant. Instead, Pichai stressed the company&#8217;s commitment to growth through at least next year. &#8220;I expect we will grow from our current engineering phase even into next [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>North America takes the bulk of AI VC investments, despite tough political environment</title>
+		<link>https://techcrunch.com/2025/06/04/north-america-takes-the-bulk-of-ai-vc-investments-despite-tough-political-environment/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 05 Jun 2025 01:39:18 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Funding]]></category>
+		<category><![CDATA[VC]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3015412</guid>
+
+					<description><![CDATA[Despite what some experts have characterized as an environment increasingly hostile to AI R&#38;D, North America continues to receive the bulk of AI venture dollars, according to data from investment tracker PitchBook. Between February and May of this year, VCs poured $69.7 billion into North America-based AI and machine learning startups across 1,528 deals. That&#8217;s [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>iOS 19: All the rumored changes Apple could be bringing to its new operating system</title>
+		<link>https://techcrunch.com/2025/06/04/ios-19-all-the-rumored-changes-apple-could-be-bringing-to-its-new-operating-system/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Wed, 04 Jun 2025 21:02:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<category><![CDATA[iOS 19]]></category>
+		<category><![CDATA[wwdc]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3014539</guid>
+
+					<description><![CDATA[As Apple prepares to unveil iOS 19 at WWDC 2025 on Monday, several rumors have surfaced, including a potential new name for the operating system, an entirely new design inspired by the Vision Pro, and more. &#160; Here&#8217;s a roundup of the most notable features rumored to be coming to iOS 19.&#160; New name Sources [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hugging Face says its new robotics model is so efficient it can run on a MacBook</title>
+		<link>https://techcrunch.com/2025/06/04/hugging-face-says-its-new-robotics-model-is-so-efficient-it-can-run-on-a-macbook/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 04 Jun 2025 20:10:30 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[robotics]]></category>
+		<category><![CDATA[Hugging Face]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3015300</guid>
+
+					<description><![CDATA[AI dev platform Hugging Face released an open AI model for robotics called SmolVLA, which the company claims outperforms much larger models for robotics in both virtual and real-world environments.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ransomware gang claims responsibility for Kettering Health hack</title>
+		<link>https://techcrunch.com/2025/06/04/ransomware-gang-claims-responsibility-for-kettering-health-hack/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Wed, 04 Jun 2025 19:07:13 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[medical]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[Kettering Health]]></category>
+		<category><![CDATA[interlock]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3015347</guid>
+
+					<description><![CDATA[A group of cybercriminals known as Interlock is advertising stolen data from Kettering Health, which includes patients’ data.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Reddit sues Anthropic for allegedly not paying for training data</title>
+		<link>https://techcrunch.com/2025/06/04/reddit-sues-anthropic-for-allegedly-not-paying-for-training-data/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Wed, 04 Jun 2025 18:34:06 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Reddit]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3015235</guid>
+
+					<description><![CDATA[Reddit is suing Anthropic for allegedly using the site&#8217;s data to train AI models without a proper licensing agreement, according to a complaint filed in a Northern California court on Wednesday. Reddit claims in the complaint that Anthropic&#8217;s unauthorized use of the site&#8217;s data for commercial purposes was unlawful, and alleges the AI startup violated [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Klarna CEO says company will use humans to offer VIP customer service</title>
+		<link>https://techcrunch.com/2025/06/04/klarna-ceo-says-company-will-use-humans-to-offer-vip-customer-service/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Wed, 04 Jun 2025 18:22:44 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Klarna]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3015187</guid>
+
+					<description><![CDATA[CEO Sebastian Siemiatkowski told the crowd at London SXSW that his company plans to balance employees and AI workers.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Unity CTO Steve Collins steps down after 6 months</title>
+		<link>https://techcrunch.com/2025/06/04/unity-cto-steve-collins-steps-down-after-six-months/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Wed, 04 Jun 2025 17:58:27 +0000</pubDate>
+				<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[scoop]]></category>
+		<category><![CDATA[steve collins]]></category>
+		<category><![CDATA[unity]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3015269</guid>
+
+					<description><![CDATA[Steve Collins, the CTO of the game engine developer Unity, is stepping down.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AMD takes aim at Nvidia&#8217;s AI hardware dominance with Brium acquisition</title>
+		<link>https://techcrunch.com/2025/06/04/amd-takes-aim-at-nvidias-ai-hardware-dominance-with-brium-acquisition/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Wed, 04 Jun 2025 17:54:12 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[amd]]></category>
+		<category><![CDATA[chips]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<category><![CDATA[semiconductors]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3015256</guid>
+
+					<description><![CDATA[Brium is a startup that builds machine learning applications to enable AI inference, the process a trained AI model uses to draw conclusions from new data, across a variety of different hardware options.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Snap launches Lens Studio iOS and web apps for creating AR Lenses with AI and simple tools</title>
+		<link>https://techcrunch.com/2025/06/04/snap-launches-lens-studio-ios-and-web-apps-for-creating-ar-lenses-with-ai-and-simple-tools/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Wed, 04 Jun 2025 17:51:49 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[lens studio]]></category>
+		<category><![CDATA[Snap]]></category>
+		<category><![CDATA[Snapchat]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3015253</guid>
+
+					<description><![CDATA[Snap has launched a stand-alone Lens Studio iOS app and web tool, the company announced on Wednesday. The new tools are designed to make it easier for anyone to create AR Lenses through text prompts and simple editing tools.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>RevenueCat and Paddle team up to help app developers profit from web payments</title>
+		<link>https://techcrunch.com/2025/06/04/revenuecat-and-paddle-team-up-to-help-app-developers-profit-from-web-payments/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 04 Jun 2025 17:33:56 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[app store]]></category>
+		<category><![CDATA[paddle]]></category>
+		<category><![CDATA[payment apps]]></category>
+		<category><![CDATA[RevenueCat]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3015177</guid>
+
+					<description><![CDATA[The companies announced a new integration that allows users to make purchases from developers' apps, whether on web or mobile devices.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Venmo introduces new debit card benefits and payment options as rival Cash App struggles</title>
+		<link>https://techcrunch.com/2025/06/04/venmo-introduces-new-debit-card-benefits-and-payment-options-as-rival-cash-app-struggles/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Wed, 04 Jun 2025 17:16:02 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[peer-to-peer payment]]></category>
+		<category><![CDATA[Venmo]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3015234</guid>
+
+					<description><![CDATA[On Wednesday, Venmo debuted several new debit card benefits and expanded the ability to make payments with retailers such as TikTok Shop and Uber. The updates signal Venmo is trying to become more of a full-service fintech service, not just a peer-to-peer payments app. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ChatGPT introduces meeting recording and connectors for Google Drive, Box, and more</title>
+		<link>https://techcrunch.com/2025/06/04/chatgpt-introduces-meeting-recording-and-connectors-for-google-drive-box-and-more/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Wed, 04 Jun 2025 17:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[mcp]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Meeting recording]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3015070</guid>
+
+					<description><![CDATA[As part of the launch, ChatGPT is gaining connectors for Dropbox, Box, SharePoint, OneDrive, and Google Drive. This allows ChatGPT to look for information across users' own services to answer their questions. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Elon Musk’s introduction to politics</title>
+		<link>https://techcrunch.com/2025/06/04/elon-musks-introduction-to-politics/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Wed, 04 Jun 2025 16:16:08 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<category><![CDATA[Trump Administration]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3015173</guid>
+
+					<description><![CDATA[Elon Musk spent months in government and alongside President Trump. Did his gains outweigh his losses?]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google delays rollout of its &#8216;Ask Photos&#8217; AI search feature</title>
+		<link>https://techcrunch.com/2025/06/04/google-delays-rollout-of-its-ask-photos-ai-search-feature/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Wed, 04 Jun 2025 16:12:38 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Ask Photos]]></category>
+		<category><![CDATA[gemini]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3015169</guid>
+
+					<description><![CDATA[According to Google Photos product manager Jamie Aspinall, Ask Photos isn't up to par when it comes to latency, quality, and user experience. While some users have access to the feature now, he said that a new version will be shipped in about two weeks, which will aim to correct these issues.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Data breach at newspaper giant Lee Enterprises affects 40,000 people</title>
+		<link>https://techcrunch.com/2025/06/04/data-breach-at-newspaper-giant-lee-enterprises-affects-40000-people/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Wed, 04 Jun 2025 15:55:04 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Lee Enterprises]]></category>
+		<category><![CDATA[ransomware attack]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3015167</guid>
+
+					<description><![CDATA[The ransomware attack paralyzed newspaper printing and disrupted operations at media outlets across the country for weeks.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>It&#8217;s layoff &#8216;season&#8217; at Phil Libin&#8217;s Airtime</title>
+		<link>https://techcrunch.com/2025/06/04/its-layoff-season-at-phil-libins-airtime/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 04 Jun 2025 15:29:43 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Airtime]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Layoffs]]></category>
+		<category><![CDATA[mmhmm]]></category>
+		<category><![CDATA[Phil Libin]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3014949</guid>
+
+					<description><![CDATA[Airtime, the video startup from Evernote&#8217;s founder Phil Libin, has laid off dozens of employees, TechCrunch has learned, and Airtime confirmed. According to the company, 25 people were let go from the 58-person team — a change Airtime described as &#8220;bigger than usual.&#8221; While Airtime characterizes the departures as part of its typical seasonal approach [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>3 days left: Claim your spot on the Expo floor at TechCrunch All Stage</title>
+		<link>https://techcrunch.com/2025/06/04/3-days-left-claim-your-spot-on-the-expo-floor-at-techcrunch-all-stage/</link>
+		
+		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
+		<pubDate>Wed, 04 Jun 2025 14:45:00 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[TechCrunch All Stage 2025]]></category>
+		<category><![CDATA[TC All Stage]]></category>
+		<category><![CDATA[TechCrunch All Stage]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3014499</guid>
+
+					<description><![CDATA[Only a few exhibit tables remain for TechCrunch All Stage, happening July 15 in Boston — and with just 3 days left to book your table, time is nearly up to be part of the action. Tables are almost completely sold out, and time is extremely limited to get yours. Where opportunity meets visibility Whether [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>From $5 to financial empowerment: Why Stash co-founder Brandon Krieg is a must-see at TechCrunch All Stage 2025</title>
+		<link>https://techcrunch.com/2025/06/04/from-5-to-financial-empowerment-why-stash-co-founder-brandon-krieg-is-a-must-see-at-techcrunch-all-stage-2025/</link>
+		
+		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
+		<pubDate>Wed, 04 Jun 2025 14:45:00 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[TechCrunch All Stage 2025]]></category>
+		<category><![CDATA[TC All Stage]]></category>
+		<category><![CDATA[TechCrunch All Stage]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3014812</guid>
+
+					<description><![CDATA[Startup life is tough — funding rounds, team building, and managing finances can feel like trying to solve a Rubik’s Cube blindfolded. That’s exactly why TechCrunch All Stage 2025 exists: to give founders like you the tools, tactics, and real talk from those who’ve been through it and built something lasting. If there’s one session [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Final hours for TechCrunch Sessions: AI Trivia Countdown — play now, score 2-for-1 tickets</title>
 		<link>https://techcrunch.com/2025/06/04/final-hours-techcrunch-sessions-ai-trivia-countdown-play-now-score-2-for-1-tickets/</link>
 		
@@ -43,349 +392,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3013830</guid>
 
 					<description><![CDATA[Tonight’s your last shot: Take on the TechCrunch Sessions: AI Trivia Countdown and walk away with two tickets for just $200. The window closes tonight at midnight — go! Think you know AI? Can you name the company that created the AI assistant known as Siri before Apple acquired it? Or the name of Google’s [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TechCrunch Sessions: AI begins tomorrow — today’s your last chance to save on tickets</title>
-		<link>https://techcrunch.com/2025/06/04/techcrunch-sessions-ai-begins-tomorrow-todays-your-last-chance-to-save/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Wed, 04 Jun 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[TechCrunch Sessions: AI]]></category>
-		<category><![CDATA[TC Sessions: AI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3013815</guid>
-
-					<description><![CDATA[Tomorrow, the doors open at UC Berkeley’s Zellerbach Hall. What happens next isn’t just another AI conference — it’s the one you need to be at. TechCrunch Sessions: AI gathers the most influential builders, investors, and researchers in artificial intelligence for a day of clarity in an industry clouded by hype. If you&#8217;re leading a [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Obvio’s stop sign cameras use AI to root out unsafe drivers</title>
-		<link>https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/</link>
-		
-		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
-		<pubDate>Wed, 04 Jun 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Artificial Intelligence (AI)]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[fundraises]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3015072</guid>
-
-					<description><![CDATA[American streets are incredibly dangerous for pedestrians. A San Carlos, California-based startup called Obvio thinks it can change that by installing cameras at stop signs – a solution the founders also say won’t create a panopticon.  That’s a bold claim at a time when other companies like Flock have been criticized for how its license [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mistral releases a vibe coding client, Mistral Code</title>
-		<link>https://techcrunch.com/2025/06/04/mistral-releases-a-vibe-coding-client-mistral-code/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Wed, 04 Jun 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[mistral]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3015115</guid>
-
-					<description><![CDATA[French AI startup Mistral is releasing its own &#8220;vibe coding&#8221; client, Mistral Code, to compete with incumbents like Windsurf, Anysphere&#8217;s Cursor, and GitHub Copilot. Mistral Code, a fork of the open source project Continue, is an AI-powered coding assistant that bundles Mistral&#8217;s models, an &#8220;in-IDE&#8221; assistant, local deployment options, and enterprise tooling into a single [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rosebud lands $6M to scale its interactive AI journaling app</title>
-		<link>https://techcrunch.com/2025/06/04/rosebud-lands-6m-to-scale-its-interactive-ai-journaling-app/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Wed, 04 Jun 2025 13:18:50 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[journaling apps]]></category>
-		<category><![CDATA[rosebud]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3014909</guid>
-
-					<description><![CDATA[Journaling app Rosebud has raised $6 million in seed funding as it seeks to flesh out its app as an AI mentor for self-reflection and personal growth. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Bolttech closes Series C at $147M with a $2.1B valuation to bolster its embedded insurance offerings</title>
-		<link>https://techcrunch.com/2025/06/04/singapore-based-insurtech-bolttech-closes-147m-series-c-at-a-2-1b-valuation/</link>
-		
-		<dc:creator><![CDATA[Kate Park]]></dc:creator>
-		<pubDate>Wed, 04 Jun 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Bolttech]]></category>
-		<category><![CDATA[embedded insurance]]></category>
-		<category><![CDATA[insurtech]]></category>
-		<category><![CDATA[sumitomo]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3014521</guid>
-
-					<description><![CDATA[Singapore-based embedded insurance startup Bolttech has closed a $147 million Series C round of funding at a $2.1 billion valuation. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Uber adds a new type of account with a simpler UI for the elderly</title>
-		<link>https://techcrunch.com/2025/06/04/uber-is-introducing-senior-account-with-a-simpler-app-experince-for-older-users/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Wed, 04 Jun 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Uber]]></category>
-		<category><![CDATA[senior citizens]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3015065</guid>
-
-					<description><![CDATA[Uber today revealed a new type of account, called Senior Accounts, for older users that prioritizes a simpler app experience.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple names 2025 Design Awards winners</title>
-		<link>https://techcrunch.com/2025/06/04/apple-names-2025-design-awards-winners/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Wed, 04 Jun 2025 12:07:44 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[apple design award]]></category>
-		<category><![CDATA[wwdc]]></category>
-		<category><![CDATA[WWDC 2025]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3015059</guid>
-
-					<description><![CDATA[Apple has named 12 apps across six categories for this year's Design Awards.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>One of Africa’s most successful founders is back with a new AI startup and already raised $9M</title>
-		<link>https://techcrunch.com/2025/06/03/one-of-africas-most-successful-founders-is-back-with-a-new-ai-startup-and-already-raised-9m/</link>
-		
-		<dc:creator><![CDATA[Tage Kene-Okafor]]></dc:creator>
-		<pubDate>Wed, 04 Jun 2025 04:30:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Africa]]></category>
-		<category><![CDATA[Expensya]]></category>
-		<category><![CDATA[karim jouini]]></category>
-		<category><![CDATA[thunder code]]></category>
-		<category><![CDATA[tunisia]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3014567</guid>
-
-					<description><![CDATA[In 2023, co-founders Karim Jouini and Jihed Othmani sold their expense management startup Expensya to Swedish procurement software firm Medius in what is widely considered to be one of the largest acquisitions of an African startup. Some sources say the sum was just over $120 million, although deal terms were not disclosed. Success achieved, both [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Windsurf says Anthropic is limiting its direct access to Claude AI models</title>
-		<link>https://techcrunch.com/2025/06/03/windsurf-says-anthropic-is-limiting-its-direct-access-to-claude-ai-models/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Wed, 04 Jun 2025 00:48:43 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[ai models]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Claude]]></category>
-		<category><![CDATA[vibe coding]]></category>
-		<category><![CDATA[Windsurf]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3014995</guid>
-
-					<description><![CDATA[Windsurf, the popular vibe coding startup that&#8217;s reportedly being acquired by OpenAI, says Anthropic significantly reduced its first-party access to its Claude 3.7 Sonnet and Claude 3.5 Sonnet AI models. Windsurf CEO Varun Mohan said in a post on X Tuesday that Anthropic gave Windsurf little notice for this change, and the startup now has [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic&#8217;s AI is writing its own blog — with human oversight</title>
-		<link>https://techcrunch.com/2025/06/03/anthropics-ai-is-writing-its-own-blog-with-human-oversight/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 03 Jun 2025 20:29:26 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Claude]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3014751</guid>
-
-					<description><![CDATA[Anthropic has given its AI a blog. A week ago, Anthropic quietly launched Claude Explains, a new page on its website that&#8217;s generated mostly by the company&#8217;s AI model family, Claude. Populated by posts on technical topics related to various Claude use cases (e.g. &#8220;Simplify complex codebases with Claude&#8221;), the blog is intended to be [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Now Deel is accusing Rippling of spying by ‘impersonating’ a customer</title>
-		<link>https://techcrunch.com/2025/06/03/now-deel-is-accusing-rippling-of-spying-by-impersonating-a-customer/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Tue, 03 Jun 2025 20:04:16 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Deel]]></category>
-		<category><![CDATA[Rippling]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3014843</guid>
-
-					<description><![CDATA[Deel alleges that one of Rippling’s employees "spent six months impersonating a legitimate Deel customer to gain unauthorized access to Deel’s systems to meticulously analyze, record, and copy Deel’s global products and the way Deel does business for Rippling’s own benefit and use.” ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google places another fusion power bet on TAE Technologies</title>
-		<link>https://techcrunch.com/2025/06/03/google-places-another-fusion-power-bet-on-tae-technologies/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Tue, 03 Jun 2025 19:47:50 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[nuclear fusion]]></category>
-		<category><![CDATA[fusion power]]></category>
-		<category><![CDATA[TAE Technologies]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3014882</guid>
-
-					<description><![CDATA[TAE Technologies raised $150 million from investors including Google, Chevron, and others.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The OpenAI board drama is reportedly turning into a movie</title>
-		<link>https://techcrunch.com/2025/06/03/the-openai-board-drama-is-reportedly-turning-into-a-movie/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Tue, 03 Jun 2025 19:16:12 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Movie]]></category>
-		<category><![CDATA[sam altman]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3014862</guid>
-
-					<description><![CDATA[A film that will portray the chaotic time at OpenAI, when co-founder and CEO Sam Altman was fired and rehired within a span of just five days, is reportedly in the works.  According to The Hollywood Reporter, the movie is titled “Artificial,” and it’s in development at Amazon MGM Studios. While details aren’t finalized, sources [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Android chipmaker Qualcomm fixes three zero-days exploited by hackers</title>
-		<link>https://techcrunch.com/2025/06/03/phone-chipmaker-qualcomm-fixes-three-zero-days-exploited-by-hackers/</link>
-		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
-		<pubDate>Tue, 03 Jun 2025 18:59:57 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[Google Threat Analysis Group]]></category>
-		<category><![CDATA[Qualcomm]]></category>
-		<category><![CDATA[Zero-days]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3014848</guid>
-
-					<description><![CDATA[Google's Threat Analysis Group, which investigates government-backed hacks, was credited with the discovery of the zero-days.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Colossal Labs will release the sounds of dire wolves howling &#8216;later this year,&#8217; founder says</title>
-		<link>https://techcrunch.com/2025/06/03/colossal-labs-will-release-the-sounds-of-dire-wolves-howling-later-this-year-founder-says/</link>
-		
-		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
-		<pubDate>Tue, 03 Jun 2025 18:10:36 +0000</pubDate>
-				<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Colossal Labs]]></category>
-		<category><![CDATA[dire wolves]]></category>
-		<category><![CDATA[SXSW]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3014824</guid>
-
-					<description><![CDATA[The company is working on a bio-acoustic project, which will map out the different types of dire wolf howls. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hinge CMO Jackie Jantos hopes to help make Gen Zers less lonely </title>
-		<link>https://techcrunch.com/2025/06/03/hinge-cmo-jackie-jantos-hopes-to-help-make-gen-zers-less-lonely/</link>
-		
-		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
-		<pubDate>Tue, 03 Jun 2025 17:52:10 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[dating apps]]></category>
-		<category><![CDATA[Hinge]]></category>
-		<category><![CDATA[SXSW]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3014800</guid>
-
-					<description><![CDATA[Hinge CMO and President Jackie Jantos chats about how Hinge is marketing itself to a new generation in what has become a listless dating scene. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Reddit now lets you hide content, like posts and comments, from your user profile</title>
-		<link>https://techcrunch.com/2025/06/03/reddit-now-lets-you-hide-content-like-posts-and-comments-from-your-user-profile/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Tue, 03 Jun 2025 17:46:49 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[social media]]></category>
-		<category><![CDATA[privacy]]></category>
-		<category><![CDATA[Reddit]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3014756</guid>
-
-					<description><![CDATA[Reddit says it's rolling out an update that will introduce a "Content and Activity" setting that allows users to decide which content from the subreddits they participate in will appear on their profiles. This includes both their posting and commenting history.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Yoshua Bengio launches LawZero, a nonprofit AI safety lab</title>
-		<link>https://techcrunch.com/2025/06/03/yoshua-bengio-launches-lawzero-a-nonprofit-ai-safety-lab/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Tue, 03 Jun 2025 17:33:49 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Canada]]></category>
-		<category><![CDATA[Quebec]]></category>
-		<category><![CDATA[Yoshua Bengio]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3014767</guid>
-
-					<description><![CDATA[Turing Award winner Yoshua Bengio is launching a nonprofit AI safety lab called LawZero to build safer AI systems, he told the Financial Times on Monday. LawZero raised $30 million in philanthropic contributions from Skype founding engineer Jaan Tallinn, former Google chief Eric Schmidt, Open Philanthropy, and the Future of Life Institute, among others. The [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meta buys a nuclear power plant (more or less)</title>
-		<link>https://techcrunch.com/2025/06/03/meta-buys-a-nuclear-power-plant-more-or-less/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Tue, 03 Jun 2025 16:34:05 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Constellation]]></category>
-		<category><![CDATA[data centers]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[nuclear fission]]></category>
-		<category><![CDATA[nuclear power]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3014666</guid>
-
-					<description><![CDATA[Meta and Constellation Energy said the deal would help keep the Clinton Clean Energy Center running through 2047 without ratepayer support.]]></description>
 		
 		
 		
