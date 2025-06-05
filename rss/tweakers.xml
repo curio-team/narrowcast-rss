@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 05 Jun 2025 15:36:05 +0200</pubDate>
-        <lastBuildDate>Thu, 05 Jun 2025 15:36:05 +0200</lastBuildDate>
+        <pubDate>Thu, 05 Jun 2025 16:31:10 +0200</pubDate>
+        <lastBuildDate>Thu, 05 Jun 2025 16:31:10 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - HWMonitor 1.58</title>
+            <link>https://tweakers.net/downloads/72910/hwmonitor-158.html</link>
+            <description>CPUID, bekend van onder andere CPU-Z, heeft versie 1.58 van HWMonitor uitgebracht. Dit programma is in staat om de waardes uit te lezen van een groot aantal sensors van onder andere moederborden, videokaarten en harde schijven. Informatie zoals temperaturen, spanningen en snelheden van ventilators kunnen dan in een overzichtelijk scherm worden weergegeven. Er is ook een betaalde Pro-versie, die het onder meer mogelijk maakt om andere pc&#039;s in het netwerk in de gaten te houden. In deze uitgave zijn de volgende veranderingen en verbeteringen doorgevoerd: Changes in version 1.58:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72910/hwmonitor-158.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72910</guid>
+            <pubDate>Thu, 05 Jun 2025 16:07:04 +0200</pubDate>
+        </item>
+        <item>
+            <title>Meeste DSA-klachten die ACM ontving gingen over accountbeperking</title>
+            <link>https://tweakers.net/nieuws/235864/meeste-dsa-klachten-die-acm-ontving-gingen-over-accountbeperking.html</link>
+            <description>De meeste klachten die de Autoriteit Consument en Markt in 2024 ontving met betrekking tot de Digital Services Act, gingen over de beperking van accounts. In totaal ontving de toezichthouder 256 DSA-klachten, waarvan grofweg 26 procent over de beperking van accounts ging.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/235864/meeste-dsa-klachten-die-acm-ontving-gingen-over-accountbeperking.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235864</guid>
+            <pubDate>Thu, 05 Jun 2025 15:59:54 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nintendo brengt Switch 2 uit vanaf 470 euro, Mario Kart World vanaf 80 euro</title>
+            <link>https://tweakers.net/nieuws/235866/nintendo-brengt-switch-2-uit-vanaf-470-euro-mario-kart-world-vanaf-80-euro.html</link>
+            <description>De Nintendo Switch 2 en de launchtitel Mario Kart World zijn vanaf 5 juni beschikbaar in onder meer de Benelux. De console is voor een adviesprijs van 470 euro verkrijgbaar. De digitale versie van Mario Kart World kost 80 euro. De bundel van die twee producten kost 510 euro.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/235866/nintendo-brengt-switch-2-uit-vanaf-470-euro-mario-kart-world-vanaf-80-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235866</guid>
+            <pubDate>Thu, 05 Jun 2025 15:43:04 +0200</pubDate>
+        </item>
         <item>
             <title>Klanten Orange en Hey klagen over traag internet, Telenet bevestigt probleem</title>
             <link>https://tweakers.net/nieuws/235862/klanten-orange-en-hey-klagen-over-traag-internet-telenet-bevestigt-probleem.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/downloads/72896/anydesk-955.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72896</guid>
             <pubDate>Wed, 04 Jun 2025 17:28:57 +0200</pubDate>
-        </item>
-        <item>
-            <title>Franse AI-start-up Mistral brengt AI-agent voor programmeren uit</title>
-            <link>https://tweakers.net/nieuws/235812/franse-ai-start-up-mistral-brengt-ai-agent-voor-programmeren-uit.html</link>
-            <description>Het Franse AI-bedrijf Mistral heeft een AI-agent voor programmeren aangekondigd. Deze kan lokaal bij bedrijven worden geïntegreerd, waardoor de code volgens de start-up de servers van de klanten niet verlaat.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Software development</category>
-            <comments>https://tweakers.net/nieuws/235812/franse-ai-start-up-mistral-brengt-ai-agent-voor-programmeren-uit.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235812</guid>
-            <pubDate>Wed, 04 Jun 2025 17:28:08 +0200</pubDate>
-        </item>
-        <item>
-            <title>SteelSeries brengt Arctis Nova 3 Wireless Series-headset voor 110 euro uit</title>
-            <link>https://tweakers.net/nieuws/235808/steelseries-brengt-arctis-nova-3-wireless-series-headset-voor-110-euro-uit.html</link>
-            <description>SteelSeries heeft de Arctis Nova 3 Wireless Series-headsets uitgebracht. De koptelefoons werken draadloos via een 2,4GHz- of Bluetooth 5.3-verbinding. De headsets beschikken over een knop waarmee gebruikers tussen deze modi kunnen wisselen. De headsets kosten 110 euro.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / Gaming / Gaming headsets</category>
-            <comments>https://tweakers.net/nieuws/235808/steelseries-brengt-arctis-nova-3-wireless-series-headset-voor-110-euro-uit.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235808</guid>
-            <pubDate>Wed, 04 Jun 2025 16:46:35 +0200</pubDate>
-        </item>
-        <item>
-            <title>Qualcomm patcht drie zerodays die geheugencorruptie in gpu&#039;s konden veroorzaken</title>
-            <link>https://tweakers.net/nieuws/235784/qualcomm-patcht-drie-zerodays-die-geheugencorruptie-in-gpus-konden-veroorzaken.html</link>
-            <description>Chipmaker Qualcomm heeft maandag patches uitgebracht voor drie actief misbruikte zerodays. Daarmee was het mogelijk het geheugen aan te vallen in socs met Adreno-gpu&#039;s. Het bedrijf werd door beveiligers van Google op de kwetsbaarheden gewezen.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/235784/qualcomm-patcht-drie-zerodays-die-geheugencorruptie-in-gpus-konden-veroorzaken.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235784</guid>
-            <pubDate>Wed, 04 Jun 2025 16:18:18 +0200</pubDate>
         </item>
     </channel>
 </rss>
