@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 05 Jun 2025 11:31:05 +0200</pubDate>
-        <lastBuildDate>Thu, 05 Jun 2025 11:31:05 +0200</lastBuildDate>
+        <pubDate>Thu, 05 Jun 2025 12:36:01 +0200</pubDate>
+        <lastBuildDate>Thu, 05 Jun 2025 12:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Sony en IO Interactive tonen eerste trailer van James Bond-game 007 First Light</title>
+            <link>https://tweakers.net/nieuws/235842/sony-en-io-interactive-tonen-eerste-trailer-van-james-bond-game-007-first-light.html</link>
+            <description>Sony en IO Interactive hebben de eerste trailer van de James Bond-game 007 First Light getoond. De ontwikkelaar geeft op 6 juni meer informatie over de game. IO Interactive maakte eind 2020 bekend aan de James Bond-game te werken.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/235842/sony-en-io-interactive-tonen-eerste-trailer-van-james-bond-game-007-first-light.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235842</guid>
+            <pubDate>Thu, 05 Jun 2025 12:07:03 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Rocky Linux 9.6</title>
+            <link>https://tweakers.net/downloads/72908/rocky-linux-96.html</link>
+            <description>Versie 9.6 van Rocky Linux is uitgekomen. De Linux-distributie is ontstaan als afsplitsing van CentOS, de community edition van Red Hat Enterprise Linux, nadat Red Hat had aangegeven er niet meer verder mee te willen. Rocky Linux is nog steeds gebaseerd op RHEL en heeft ook een migratietool die overstappen makkelijk maakt. De releasenotes voor deze uitgave kunnen hieronder worden gevonden. Rocky Linux 9.6 Available Now</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72908/rocky-linux-96.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72908</guid>
+            <pubDate>Thu, 05 Jun 2025 12:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Sony werkt aan draadloze controller met arcadestick voor vechtgames</title>
+            <link>https://tweakers.net/nieuws/235848/sony-werkt-aan-draadloze-controller-met-arcadestick-voor-vechtgames.html</link>
+            <description>Sony heeft een nieuwe controller onthuld, die speciaal is gemaakt voor vechtspellen. Het gaat om een draadloze controller met een arcadestick, die nu de codenaam Project Defiant draagt. De controller verschijnt ergens in 2026.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / Gaming / Gamecontrollers</category>
+            <comments>https://tweakers.net/nieuws/235848/sony-werkt-aan-draadloze-controller-met-arcadestick-voor-vechtgames.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235848</guid>
+            <pubDate>Thu, 05 Jun 2025 11:57:37 +0200</pubDate>
+        </item>
         <item>
             <title>Horrorgame Silent Hill f verschijnt op 25 september</title>
             <link>https://tweakers.net/nieuws/235846/horrorgame-silent-hill-f-verschijnt-op-25-september.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/geek/235794/meme-hit-never-gonna-give-you-up-is-miljard-keer-beluisterd-op-spotify.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/geek/235794</guid>
             <pubDate>Wed, 04 Jun 2025 13:16:07 +0200</pubDate>
-        </item>
-        <item>
-            <title>ChatGPT brengt AI-agent Codex ook uit voor Plus-abonnees</title>
-            <link>https://tweakers.net/nieuws/235790/chatgpt-brengt-ai-agent-codex-ook-uit-voor-plus-abonnees.html</link>
-            <description>OpenAI&#039;s agent die code kan schrijven is voortaan ook beschikbaar voor Plus-abonnees. OpenAI bracht Codex vorige maand uit.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Software development</category>
-            <comments>https://tweakers.net/nieuws/235790/chatgpt-brengt-ai-agent-codex-ook-uit-voor-plus-abonnees.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235790</guid>
-            <pubDate>Wed, 04 Jun 2025 13:05:46 +0200</pubDate>
-        </item>
-        <item>
-            <title>Demissionair minister Uitermark neemt Digitaliseringsportefeuille over van Szabó</title>
-            <link>https://tweakers.net/nieuws/235786/demissionair-minister-uitermark-neemt-digitaliseringsportefeuille-over-van-szabo.html</link>
-            <description>Demissionair minister van Binnenlandse Zaken Judith Uitermark neemt voorlopig de taken waar van staatssecretaris voor Digitalisering Zsolt Szabó. Die stapte eerder deze week op na de val van het kabinet. Het is nog niet duidelijk of Uitermark verdergaat met de Digitaliseringsstrategie.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/235786/demissionair-minister-uitermark-neemt-digitaliseringsportefeuille-over-van-szabo.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235786</guid>
-            <pubDate>Wed, 04 Jun 2025 12:03:52 +0200</pubDate>
-        </item>
-        <item>
-            <title>Pornhub is in Frankrijk niet bruikbaar uit protest tegen leeftijdsverificatie</title>
-            <link>https://tweakers.net/nieuws/235778/pornhub-is-in-frankrijk-niet-bruikbaar-uit-protest-tegen-leeftijdsverificatie.html</link>
-            <description>Verschillende pornowebsites, waaronder het bekende Pornhub, Youporn en Redtube, zijn vanaf woensdag niet meer te bezoeken in Frankrijk. Het moederbedrijf blokkeert die websites uit protest tegen Franse regels die identificatie van gebruikers verplicht stelt.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Internettoegang</category>
-            <comments>https://tweakers.net/nieuws/235778/pornhub-is-in-frankrijk-niet-bruikbaar-uit-protest-tegen-leeftijdsverificatie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235778</guid>
-            <pubDate>Wed, 04 Jun 2025 11:33:42 +0200</pubDate>
         </item>
     </channel>
 </rss>
