@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 05 Jun 2025 12:17:31 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Jun 2025 13:35:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,120 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Anthropic unveils custom AI models for U.S. national security customers</title>
+		<link>https://techcrunch.com/2025/06/05/anthropic-unveils-custom-ai-models-for-u-s-national-security-customers/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Thu, 05 Jun 2025 13:31:06 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3015504</guid>
+
+					<description><![CDATA[Anthropic says that it has released a new set of AI models tailored for U.S. national security customers. The new models, a custom set of &#8220;Claude Gov&#8221; models, were &#8220;built based on direct feedback from our government customers to address real-world operational needs,&#8221; writes Anthropic in a blog post. Compared to Anthropic&#8217;s consumer- and enterprise-focused [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The founder of DeviantArt is making a $22,000 display for digital art</title>
+		<link>https://techcrunch.com/2025/06/05/the-founder-of-deviantart-is-making-a-22000-display-for-digital-art/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Thu, 05 Jun 2025 13:22:05 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[angelo sotira]]></category>
+		<category><![CDATA[deviantART]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3015158</guid>
+
+					<description><![CDATA[Angelo Sotira started the online digital art platform DeviantArt when he was just a teenager, growing a formative community for millions of artists in the 2000s. Twenty-five years later, Sotira wants to change digital art again, but with a focus on the way it&#8217;s displayed. On Thursday, Sotira revealed his new venture, Layer, a screen [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>X changes its terms to bar training of AI models using its content</title>
+		<link>https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 05 Jun 2025 13:09:55 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[AI data]]></category>
+		<category><![CDATA[AI training data]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3015468</guid>
+
+					<description><![CDATA[Social network X has changed its developer agreement to prevent third parties from using the platform's content to train large language models.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Toma’s AI voice agents have taken off at car dealerships – and attracted funding from a16z</title>
+		<link>https://techcrunch.com/2025/06/05/tomas-ai-voice-agents-have-taken-off-at-car-dealerships-and-attracted-funding-from-a16z/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Thu, 05 Jun 2025 13:00:11 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[AI voice agent]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[toma]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3015492</guid>
+
+					<description><![CDATA[When Monik Pamecha co-founded AI voice startup Toma in early 2024, he hadn’t anticipated spending the summer months sweating in Bible Belt car dealerships. He and co-founder Anthony Krivonos were still focused on banking and healthcare customers when the dealers came knocking.&#160; “They just called us up and said ‘we are drowning in phone calls,’” [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Collibra acquires data access startup Raito</title>
+		<link>https://techcrunch.com/2025/06/05/collibra-acquires-data-access-startup-raito/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Thu, 05 Jun 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[M&A]]></category>
+		<category><![CDATA[collibra]]></category>
+		<category><![CDATA[data governance]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[startup acquisition]]></category>
+		<category><![CDATA[Raito]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3015310</guid>
+
+					<description><![CDATA[Collibra, a data governance platform based in Brussels, is the latest enterprise to acquire a data company in order to expand its offerings in the age of AI. On Thursday, Collibra announced its acquisition Raito, a data access startup founded in 2021. Raito, also located in Brussels, helps companies manage which employees and customers have [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>TechCrunch Sessions: AI launches in Berkeley today — here’s what you’ll miss if you’re not here</title>
+		<link>https://techcrunch.com/2025/06/05/techcrunch-sessions-ai-launches-in-berkeley-today-heres-what-youll-miss-if-youre-not-here/</link>
+		
+		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
+		<pubDate>Thu, 05 Jun 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[TechCrunch Sessions: AI]]></category>
+		<category><![CDATA[TC Sessions: AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3015419</guid>
+
+					<description><![CDATA[Today’s the day! TechCrunch Sessions: AI is lighting up UC Berkeley’s Zellerbach Hall at 8 a.m. PT on the dot. The stage is set, the speakers are ready, and the AI community is gathering for one powerful day of insight, innovation, and momentum. Local to Berkeley and passionate about AI? There’s still time to join [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Phone unlocking firm Cellebrite to acquire mobile testing startup Corellium for $170M</title>
 		<link>https://techcrunch.com/2025/06/05/phone-unlocking-firm-cellebrite-to-acquire-mobile-testing-startup-corellium-for-170m/</link>
 		
@@ -275,122 +389,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3015234</guid>
 
 					<description><![CDATA[On Wednesday, Venmo debuted several new debit card benefits and expanded the ability to make payments with retailers such as TikTok Shop and Uber. The updates signal Venmo is trying to become more of a full-service fintech service, not just a peer-to-peer payments app. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ChatGPT introduces meeting recording and connectors for Google Drive, Box, and more</title>
-		<link>https://techcrunch.com/2025/06/04/chatgpt-introduces-meeting-recording-and-connectors-for-google-drive-box-and-more/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Wed, 04 Jun 2025 17:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[mcp]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[Meeting recording]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3015070</guid>
-
-					<description><![CDATA[As part of the launch, ChatGPT is gaining connectors for Dropbox, Box, SharePoint, OneDrive, and Google Drive. This allows ChatGPT to look for information across users' own services to answer their questions. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Elon Musk’s introduction to politics</title>
-		<link>https://techcrunch.com/2025/06/04/elon-musks-introduction-to-politics/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Wed, 04 Jun 2025 16:16:08 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[Politics]]></category>
-		<category><![CDATA[Tesla]]></category>
-		<category><![CDATA[Trump Administration]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3015173</guid>
-
-					<description><![CDATA[Elon Musk spent months in government and alongside President Trump. Did his gains outweigh his losses?]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google delays rollout of its &#8216;Ask Photos&#8217; AI search feature</title>
-		<link>https://techcrunch.com/2025/06/04/google-delays-rollout-of-its-ask-photos-ai-search-feature/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Wed, 04 Jun 2025 16:12:38 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Ask Photos]]></category>
-		<category><![CDATA[gemini]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3015169</guid>
-
-					<description><![CDATA[According to Google Photos product manager Jamie Aspinall, Ask Photos isn't up to par when it comes to latency, quality, and user experience. While some users have access to the feature now, he said that a new version will be shipped in about two weeks, which will aim to correct these issues.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Data breach at newspaper giant Lee Enterprises affects 40,000 people</title>
-		<link>https://techcrunch.com/2025/06/04/data-breach-at-newspaper-giant-lee-enterprises-affects-40000-people/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Wed, 04 Jun 2025 15:55:04 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Lee Enterprises]]></category>
-		<category><![CDATA[ransomware attack]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3015167</guid>
-
-					<description><![CDATA[The ransomware attack paralyzed newspaper printing and disrupted operations at media outlets across the country for weeks.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>It&#8217;s layoff &#8216;season&#8217; at Phil Libin&#8217;s Airtime</title>
-		<link>https://techcrunch.com/2025/06/04/its-layoff-season-at-phil-libins-airtime/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Wed, 04 Jun 2025 15:29:43 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Layoffs]]></category>
-		<category><![CDATA[Phil Libin]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[Airtime]]></category>
-		<category><![CDATA[mmhmm]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3014949</guid>
-
-					<description><![CDATA[Airtime, the video startup from Evernote&#8217;s founder Phil Libin, has laid off dozens of employees, TechCrunch has learned, and Airtime confirmed. According to the company, 25 people were let go from the 58-person team — a change Airtime described as &#8220;bigger than usual.&#8221; While Airtime characterizes the departures as part of its typical seasonal approach [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>3 days left: Claim your spot on the Expo floor at TechCrunch All Stage</title>
-		<link>https://techcrunch.com/2025/06/04/3-days-left-claim-your-spot-on-the-expo-floor-at-techcrunch-all-stage/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Wed, 04 Jun 2025 14:45:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[TechCrunch All Stage 2025]]></category>
-		<category><![CDATA[TC All Stage]]></category>
-		<category><![CDATA[TechCrunch All Stage]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3014499</guid>
-
-					<description><![CDATA[Only a few exhibit tables remain for TechCrunch All Stage, happening July 15 in Boston — and with just 3 days left to book your table, time is nearly up to be part of the action. Tables are almost completely sold out, and time is extremely limited to get yours. Where opportunity meets visibility Whether [&#8230;]]]></description>
 		
 		
 		

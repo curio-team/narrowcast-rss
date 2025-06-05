@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 05 Jun 2025 14:41:00 +0200</pubDate>
-        <lastBuildDate>Thu, 05 Jun 2025 14:41:00 +0200</lastBuildDate>
+        <pubDate>Thu, 05 Jun 2025 15:36:05 +0200</pubDate>
+        <lastBuildDate>Thu, 05 Jun 2025 15:36:05 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,6 +18,36 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
+            <title>Klanten Orange en Hey klagen over traag internet, Telenet bevestigt probleem</title>
+            <link>https://tweakers.net/nieuws/235862/klanten-orange-en-hey-klagen-over-traag-internet-telenet-bevestigt-probleem.html</link>
+            <description>Een aantal klanten van Orange en Hey klaagt over traag internet over hun vaste verbinding. Zij meten tijdens piekuren een downloadsnelheid van 20Mbit/s en een uploadsnelheid van 2Mbit/s. Een woordvoerder van Telenet bevestigt tegenover Tweakers het probleem.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Internettoegang</category>
+            <comments>https://tweakers.net/nieuws/235862/klanten-orange-en-hey-klagen-over-traag-internet-telenet-bevestigt-probleem.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235862</guid>
+            <pubDate>Thu, 05 Jun 2025 15:23:29 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Deals - De beste elektronicadeals van week 23 2025</title>
+            <link>https://tweakers.net/plan/4434/de-beste-elektronicadeals-van-week-23-2025.html</link>
+            <description>De interessante prijsdalingen, cashbackacties, kortingscodes en comboaanbiedingen van week 23 van 2025, geselecteerd door het Pricewatch-team.</description>
+            <author>Tweakers Pricewatch</author>
+            <category>.deals</category>
+            <comments>https://tweakers.net/plan/4434/de-beste-elektronicadeals-van-week-23-2025.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/plan/4434</guid>
+            <pubDate>Thu, 05 Jun 2025 15:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Europese DNS-resolver DNS4EU die websites kan filteren is beschikbaar</title>
+            <link>https://tweakers.net/nieuws/235858/europese-dns-resolver-dns4eu-die-websites-kan-filteren-is-beschikbaar.html</link>
+            <description>DNS4EU, de DNS-resolver gemaakt op initiatief van de Europese Commissie, is beschikbaar geworden. Het project is bedoeld om Europa minder afhankelijk te laten worden van grote techdiensten. Ook kunnen via de resolver bepaalde websites worden geblokkeerd.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / IT Pro / Internet</category>
+            <comments>https://tweakers.net/nieuws/235858/europese-dns-resolver-dns4eu-die-websites-kan-filteren-is-beschikbaar.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235858</guid>
+            <pubDate>Thu, 05 Jun 2025 14:46:17 +0200</pubDate>
+        </item>
+        <item>
             <title>Cyberpunk 2077 is nu uit voor Switch 2 en ondersteunt Joy-Con 2-muisinput</title>
             <link>https://tweakers.net/nieuws/235860/cyberpunk-2077-is-nu-uit-voor-switch-2-en-ondersteunt-joy-con-2-muisinput.html</link>
             <description>CD Projekt RED brengt Cyberpunk 2077: Ultimate Edition uit voor de Nintendo Switch 2. De game ondersteunt onder meer bewegingsbesturing en muisinput dankzij de Joy-Con 2-controllers. De digitale versie van de Ultimate Edition kost via de Nintendo eShop net geen 70 euro.</description>
@@ -28,12 +58,12 @@
             <pubDate>Thu, 05 Jun 2025 14:11:16 +0200</pubDate>
         </item>
         <item>
-            <title>Review - OnePlus Pad 3 - Krachtpatser zonder franjes</title>
-            <link>https://tweakers.net/reviews/13342/oneplus-pad-3-krachtpatser-zonder-franjes.html</link>
+            <title>Review - OnePlus Pad 3 - Allersnelste Android-tablet met sterke basis</title>
+            <link>https://tweakers.net/reviews/13342/oneplus-pad-3-allersnelste-android-tablet-met-sterke-basis.html</link>
             <description>OnePlus heeft de derde generatie van zijn Pad uitgebracht. Is de extreem krachtige chip genoeg om te overtuigen?</description>
             <author>Dennis de Vries</author>
             <category>Review / Tablets en telefoons / Tablets</category>
-            <comments>https://tweakers.net/reviews/13342/7/oneplus-pad-3-krachtpatser-zonder-franjes-conclusie.html#reacties</comments>
+            <comments>https://tweakers.net/reviews/13342/7/oneplus-pad-3-allersnelste-android-tablet-met-sterke-basis-conclusie.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13342</guid>
             <pubDate>Thu, 05 Jun 2025 14:00:00 +0200</pubDate>
         </item>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/235784/qualcomm-patcht-drie-zerodays-die-geheugencorruptie-in-gpus-konden-veroorzaken.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235784</guid>
             <pubDate>Wed, 04 Jun 2025 16:18:18 +0200</pubDate>
-        </item>
-        <item>
-            <title>Samsung gaat accounts die 24 maanden inactief zijn verwijderen</title>
-            <link>https://tweakers.net/nieuws/235810/samsung-gaat-accounts-die-24-maanden-inactief-zijn-verwijderen.html</link>
-            <description>Samsung gaat vanaf 31 juli 2025 accounts verwijderen waarop ten minste 24 maanden niet is ingelogd. Dat laat het bedrijf weten in een e-mail aan klanten. Verwijderde Samsung-accounts kunnen niet meer worden hersteld.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/nieuws/235810/samsung-gaat-accounts-die-24-maanden-inactief-zijn-verwijderen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235810</guid>
-            <pubDate>Wed, 04 Jun 2025 16:01:51 +0200</pubDate>
-        </item>
-        <item>
-            <title>Beelden van opvolger Hue lichtbalk verschijnen op Amazon</title>
-            <link>https://tweakers.net/nieuws/235796/beelden-van-opvolger-hue-lichtbalk-verschijnen-op-amazon.html</link>
-            <description>Op de Britse versie van Amazon zijn details over de Philips Hue Play Smart Wall Washer verschenen. Het apparaat lijkt een opvolger van de Play-lichtbalk. Hueblog schrijft dat de verwachting is dat het apparaat binnen een tot vier maanden beschikbaar komt.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / Beeld en geluid / Verlichting</category>
-            <comments>https://tweakers.net/nieuws/235796/beelden-van-opvolger-hue-lichtbalk-verschijnen-op-amazon.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235796</guid>
-            <pubDate>Wed, 04 Jun 2025 15:40:46 +0200</pubDate>
-        </item>
-        <item>
-            <title>Gerucht: Fairphone kondigt op 25 juni nieuwe smartphone aan</title>
-            <link>https://tweakers.net/nieuws/235802/gerucht-fairphone-kondigt-op-25-juni-nieuwe-smartphone-aan.html</link>
-            <description>De Fairphone 6 wordt op 25 juni om 9 uur &#039;s ochtends aangekondigd. Dat meldt NieuweMobiel op basis van informatie van retailers. De Nederlandse smartphonefabrikant bracht de Fairphone 5 twee jaar geleden uit.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/235802/gerucht-fairphone-kondigt-op-25-juni-nieuwe-smartphone-aan.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235802</guid>
-            <pubDate>Wed, 04 Jun 2025 15:11:11 +0200</pubDate>
         </item>
     </channel>
 </rss>
