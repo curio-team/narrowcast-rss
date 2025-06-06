@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 06 Jun 2025 12:36:02 +0200</pubDate>
-        <lastBuildDate>Fri, 06 Jun 2025 12:36:02 +0200</lastBuildDate>
+        <pubDate>Fri, 06 Jun 2025 13:31:02 +0200</pubDate>
+        <lastBuildDate>Fri, 06 Jun 2025 13:31:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Black Myth: Wukong komt op 20 augustus uit voor Xbox</title>
+            <link>https://tweakers.net/nieuws/235890/black-myth-wukong-komt-op-20-augustus-uit-voor-xbox.html</link>
+            <description>Black Myth: Wukong komt in augustus ook uit voor de Xbox. De game is vanaf 20 augustus te spelen op de Series X en Series S, zegt de ontwikkelaar.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/235890/black-myth-wukong-komt-op-20-augustus-uit-voor-xbox.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235890</guid>
+            <pubDate>Fri, 06 Jun 2025 12:50:06 +0200</pubDate>
+        </item>
         <item>
             <title>Merknaam voor nieuw Apple-besturingssysteem homeOS verschijnt in registratie</title>
             <link>https://tweakers.net/nieuws/235888/merknaam-voor-nieuw-apple-besturingssysteem-homeos-verschijnt-in-registratie.html</link>
@@ -118,12 +128,12 @@
             <pubDate>Thu, 05 Jun 2025 20:25:33 +0200</pubDate>
         </item>
         <item>
-            <title>ACM bevestigt dat netto betalen voor terugleveren stroom in 2027 mogelijk is</title>
-            <link>https://tweakers.net/nieuws/235826/acm-bevestigt-dat-netto-betalen-voor-terugleveren-stroom-in-2027-mogelijk-is.html</link>
+            <title>ACM bevestigt dat netto betalen voor terugleveren stroom in 2027 kan voorkomen</title>
+            <link>https://tweakers.net/nieuws/235826/acm-bevestigt-dat-netto-betalen-voor-terugleveren-stroom-in-2027-kan-voorkomen.html</link>
             <description>De Autoriteit Consument &amp; Markt kan niet uitsluiten dat het na de afschaffing van de salderingsregeling in 2027 mogelijk is dat mensen met zonnepanelen netto moeten betalen om stroom terug te leveren aan het net. De kans hierop zou echter wel moeten afnemen.</description>
             <author>Redactie Tweakers</author>
             <category>Nieuws / IT Pro / Economie en maatschappij</category>
-            <comments>https://tweakers.net/nieuws/235826/acm-bevestigt-dat-netto-betalen-voor-terugleveren-stroom-in-2027-mogelijk-is.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/235826/acm-bevestigt-dat-netto-betalen-voor-terugleveren-stroom-in-2027-kan-voorkomen.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235826</guid>
             <pubDate>Thu, 05 Jun 2025 19:30:38 +0200</pubDate>
         </item>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/downloads/72906/nintendo-switch-2-firmware-2011.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72906</guid>
             <pubDate>Thu, 05 Jun 2025 09:16:46 +0200</pubDate>
-        </item>
-        <item>
-            <title>OnePlus Pad 3 bevat forse accu en Snapdragon 8 Elite-soc</title>
-            <link>https://tweakers.net/nieuws/235120/oneplus-pad-3-bevat-forse-accu-en-snapdragon-8-elite-soc.html</link>
-            <description>OnePlus heeft de OnePlus Pad 3 aangekondigd, de opvolger van de Pad 2. OnePlus heeft de tablet net als zijn voorganger voorzien van een aluminium behuizing, al is het beeldscherm met 13,2” wat groter. De OnePlus Pad 3 is vanaf 12 juni te koop vanaf 599 euro.</description>
-            <author>Dennis de Vries</author>
-            <category>Nieuws / Tablets en telefoons / Tablets</category>
-            <comments>https://tweakers.net/nieuws/235120/oneplus-pad-3-bevat-forse-accu-en-snapdragon-8-elite-soc.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235120</guid>
-            <pubDate>Thu, 05 Jun 2025 09:05:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
