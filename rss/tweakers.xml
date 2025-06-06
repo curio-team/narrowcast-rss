@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 06 Jun 2025 13:31:02 +0200</pubDate>
-        <lastBuildDate>Fri, 06 Jun 2025 13:31:02 +0200</lastBuildDate>
+        <pubDate>Fri, 06 Jun 2025 14:41:01 +0200</pubDate>
+        <lastBuildDate>Fri, 06 Jun 2025 14:41:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>X verbiedt ontwikkelaars om AI-modellen op posts te trainen in nieuw beleid</title>
+            <link>https://tweakers.net/nieuws/235898/x-verbiedt-ontwikkelaars-om-ai-modellen-op-posts-te-trainen-in-nieuw-beleid.html</link>
+            <description>X heeft zijn overeenkomst voor ontwikkelaars aangepast. Daarin verbiedt het platform bedrijven om hun AI-modellen te trainen of te finetunen met content van X. Hiermee wil het socialemediabedrijf derden mogelijk verplichten om een overeenkomst af te sluiten.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/235898/x-verbiedt-ontwikkelaars-om-ai-modellen-op-posts-te-trainen-in-nieuw-beleid.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235898</guid>
+            <pubDate>Fri, 06 Jun 2025 14:22:02 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nieuwsblog: als de ene collega iets afschiet, moet de rest dat wel volgen</title>
+            <link>https://tweakers.net/nieuws/235894/nieuwsblog-als-de-ene-collega-iets-afschiet-moet-de-rest-dat-wel-volgen.html</link>
+            <description>Ook redacteuren zoals die van Tweakers, die chronisch online zijn, hebben wel eens last van miscommunicatie. Zo kon het deze week gebeuren dat we een bericht publiceerden over WhatsApp dat achteraf gezien misschien overbodig was.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/235894/nieuwsblog-als-de-ene-collega-iets-afschiet-moet-de-rest-dat-wel-volgen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235894</guid>
+            <pubDate>Fri, 06 Jun 2025 14:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Utrecht zette vorig jaar zeven keer cameradrones in bij demonstraties</title>
+            <link>https://tweakers.net/nieuws/235896/utrecht-zette-vorig-jaar-zeven-keer-cameradrones-in-bij-demonstraties.html</link>
+            <description>De gemeente Utrecht heeft bij de in totaal 522 demonstraties in 2024 zeven keer cameradrones ingezet, schrijft burgemeester Sharon Dijksma in een antwoord op raadsvragen. Tijdens een van die protesten is ook een videosurveillance-auto ingezet.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/235896/utrecht-zette-vorig-jaar-zeven-keer-cameradrones-in-bij-demonstraties.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235896</guid>
+            <pubDate>Fri, 06 Jun 2025 14:00:00 +0200</pubDate>
+        </item>
         <item>
             <title>Black Myth: Wukong komt op 20 augustus uit voor Xbox</title>
             <link>https://tweakers.net/nieuws/235890/black-myth-wukong-komt-op-20-augustus-uit-voor-xbox.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/235836/remaster-van-final-fantasy-tactics-verschijnt-op-30-september.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235836</guid>
             <pubDate>Thu, 05 Jun 2025 10:14:18 +0200</pubDate>
-        </item>
-        <item>
-            <title>Astro Bot krijgt volgende maand vijf gratis nieuwe speedrunlevels</title>
-            <link>https://tweakers.net/nieuws/235832/astro-bot-krijgt-volgende-maand-vijf-gratis-nieuwe-speedrunlevels.html</link>
-            <description>Team Asobi brengt volgende maand vijf nieuwe levels uit voor Astro Bot. Het gaat om speedrunlevels in de Vicious Void Galaxy die gratis te spelen zijn. In de dlc gebruiken spelers opnieuw unieke gadgets.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/235832/astro-bot-krijgt-volgende-maand-vijf-gratis-nieuwe-speedrunlevels.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235832</guid>
-            <pubDate>Thu, 05 Jun 2025 09:50:52 +0200</pubDate>
-        </item>
-        <item>
-            <title>Capcom toont trailer van Pragmata, game verschijnt in 2026</title>
-            <link>https://tweakers.net/nieuws/235834/capcom-toont-trailer-van-pragmata-game-verschijnt-in-2026.html</link>
-            <description>Pragmata, een nieuwe sci-fi-game van Capcom, verschijnt in 2026. Dat werd tijdens State of Play van PlayStation aangekondigd, waar ook een trailer van de game verscheen. Pragmata werd in 2020 al aangekondigd en moest in eerste instantie in 2022 verschijnen.</description>
-            <author>Eveline Meijer</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/235834/capcom-toont-trailer-van-pragmata-game-verschijnt-in-2026.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235834</guid>
-            <pubDate>Thu, 05 Jun 2025 09:43:37 +0200</pubDate>
-        </item>
-        <item>
-            <title>Firmware-update - Nintendo Switch 2-firmware 20.1.1</title>
-            <link>https://tweakers.net/downloads/72906/nintendo-switch-2-firmware-2011.html</link>
-            <description>Op donderdag wordt, na lang wachten, de Nintendo Switch 2 geleverd. De console beschikt onder meer over een groter en scherper 7,9&quot;-lcd-paneel, terwijl de dikte gelijk blijft. De Joy-Cons 2 hebben een nieuwe C-knop en grotere SL- en SR-knoppen en joysticks. Op de dag dat het apparaat uit wordt gebracht, heeft Nintendo meteen een software-update uitgebracht. Hieronder lees je precies wat er in de eerste firmwarerelease van de Nintendo Switch 2 nieuw is. Ver. 20.1.1 (Released 5 June 2025) The following features have been added:</description>
-            <author>Tijs Hofmans</author>
-            <category>Firmware</category>
-            <comments>https://tweakers.net/downloads/72906/nintendo-switch-2-firmware-2011.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72906</guid>
-            <pubDate>Thu, 05 Jun 2025 09:16:46 +0200</pubDate>
         </item>
     </channel>
 </rss>
