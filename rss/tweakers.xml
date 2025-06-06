@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 05 Jun 2025 16:31:10 +0200</pubDate>
-        <lastBuildDate>Thu, 05 Jun 2025 16:31:10 +0200</lastBuildDate>
+        <pubDate>Fri, 06 Jun 2025 09:31:00 +0200</pubDate>
+        <lastBuildDate>Fri, 06 Jun 2025 09:31:00 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,126 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Visual Studio 2022 17.14.4</title>
+            <link>https://tweakers.net/downloads/72894/visual-studio-2022-17144.html</link>
+            <description>Microsoft heeft een update voor versie 17.14 van Visual Studio 2022 uitgebracht. Deze populaire programmeerontwikkelomgeving, verkrijgbaar in de smaken Community, Professional en Enterprise, beschikt over handige opties om het programmeren in onder meer Visual C++, Visual Basic, C#, F# en Python gemakkelijker te maken. De nieuwe versie is volledig 64bit en heeft een vereenvoudigde gebruikersinterface. Uitgebreide informatie over versie 17.14 is op deze pagina van Microsoft te vinden; in deze uitgave zijn verder nog de volgende verbeteringen aangebracht: Fixed in version 17.14.4</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72894/visual-studio-2022-17144.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72894</guid>
+            <pubDate>Fri, 06 Jun 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>MagSafe-laders met Qi 2.2 en 45W-laadsnelheid verschijnen in database</title>
+            <link>https://tweakers.net/nieuws/235882/magsafe-laders-met-qi-22-en-45w-laadsnelheid-verschijnen-in-database.html</link>
+            <description>Apple werkt mogelijk aan nieuwe draadloze MagSafe-laders voor de iPhone die 45W aan vermogen kunnen leveren. Ook zouden de laders de Qi 2.2-standaard ondersteunen, blijkt uit documenten in een certificeringsdatabase.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Tablets en telefoons / Opladers</category>
+            <comments>https://tweakers.net/nieuws/235882/magsafe-laders-met-qi-22-en-45w-laadsnelheid-verschijnen-in-database.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235882</guid>
+            <pubDate>Fri, 06 Jun 2025 08:16:58 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Snagit 2025.2.0</title>
+            <link>https://tweakers.net/downloads/72914/snagit-202520.html</link>
+            <description>TechSmith heeft versie 2025.2.0 van Snagit uitgebracht. Met dit programma, dat voor zowel Windows als macOS beschikbaar is, kunnen plaatjes, tekst, bewegende beelden en webpagina&#039;s worden afgevangen en bewerkt. Zo kunnen er effecten als perspectief, spotlight en magnify op worden losgelaten. Verder kunnen ter verduidelijking teksten, pijlen en cirkels worden aangebracht. De screenshots kunnen als afbeeldingen worden opgeslagen of direct in diverse programma&#039;s zoals Word en PowerPoint worden geïmporteerd. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Edit Images from Camtasia</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72914/snagit-202520.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72914</guid>
+            <pubDate>Fri, 06 Jun 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Canonical stopt met codebeheersysteem Bazaar</title>
+            <link>https://tweakers.net/nieuws/235874/canonical-stopt-met-codebeheersysteem-bazaar.html</link>
+            <description>Canonical stopt met Git-alternatief Bazaar. Volgens de Ubuntu-ontwikkelaar is dat systeem voor codebeheer al jaren niet meer relevant en is Git een beter alternatief. Ook de frontend voor Bazaar stopt ermee.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Software development</category>
+            <comments>https://tweakers.net/nieuws/235874/canonical-stopt-met-codebeheersysteem-bazaar.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235874</guid>
+            <pubDate>Fri, 06 Jun 2025 07:28:34 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - F1 25 - Vermaak en spektakel boven realisme</title>
+            <link>https://tweakers.net/reviews/13350/f1-25-vermaak-en-spektakel-boven-realisme.html</link>
+            <description>F1 25 zet op diverse vlakken een stap vooruit, maar blijft om spektakel en vermaak draaien, niet om realisme. Dat is eigenlijk prima.</description>
+            <author>Jurian Ubachs</author>
+            <category>Review / Gaming / Games</category>
+            <comments>https://tweakers.net/reviews/13350/5/f1-25-vermaak-en-spektakel-boven-realisme-conclusie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13350</guid>
+            <pubDate>Fri, 06 Jun 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Russische overheid legt beslag op studio achter Russische versie World of Tanks</title>
+            <link>https://tweakers.net/nieuws/235872/russische-overheid-legt-beslag-op-studio-achter-russische-versie-world-of-tanks.html</link>
+            <description>De Russische overheid legt beslag op de gameontwikkelaar Lesta Games, omdat de eigenaar door een rechter tot extremist is verklaard. De studio maakt de Russische versie van het oorlogsspel World of Tanks. Het is niet duidelijk wat het gevolg is voor de game.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/235872/russische-overheid-legt-beslag-op-studio-achter-russische-versie-world-of-tanks.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235872</guid>
+            <pubDate>Thu, 05 Jun 2025 21:16:09 +0200</pubDate>
+        </item>
+        <item>
+            <title>VideoCardz: Nvidia brengt in de komende weken RTX 5050 met 8GB geheugen uit</title>
+            <link>https://tweakers.net/nieuws/235870/videocardz-nvidia-brengt-in-de-komende-weken-rtx-5050-met-8gb-geheugen-uit.html</link>
+            <description>Nvidia brengt naar verluidt ergens in de komende weken de GeForce RTX 5050 op de markt. De gpu zou 8GB geheugen krijgen en over 2560 CUDA-cores beschikken. Vooralsnog heeft Nvidia de videokaart niet officieel aangekondigd.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/235870/videocardz-nvidia-brengt-in-de-komende-weken-rtx-5050-met-8gb-geheugen-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235870</guid>
+            <pubDate>Thu, 05 Jun 2025 20:48:07 +0200</pubDate>
+        </item>
+        <item>
+            <title>Driver-update - AMD Radeon Software Adrenalin Edition 25.6.1</title>
+            <link>https://tweakers.net/downloads/72912/amd-radeon-software-adrenalin-edition-2561.html</link>
+            <description>AMD heeft een nieuwe versie van zijn Radeon Software Adrenalin Edition-drivers uitgebracht. De drivers zijn geschikt voor de RX 5000-, RX 6000, RX 7000 en RX9000-serie. In versie 25.6.1 heeft AMD onder meer ondersteuning voor de RX 9060 XT en AI PRO R9700 toegevoegd. Verder is de lijst met spellen die van FSR 4 gebruik kunnen maken 14 titels uitgebreid en zijn er weer diverse problemen verholpen. De complete changelog voor deze uitgave kan hieronder worden gevonden. New Product Support</description>
+            <author>Bart van Klaveren</author>
+            <category>Driver</category>
+            <comments>https://tweakers.net/downloads/72912/amd-radeon-software-adrenalin-edition-2561.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72912</guid>
+            <pubDate>Thu, 05 Jun 2025 20:25:33 +0200</pubDate>
+        </item>
+        <item>
+            <title>ACM bevestigt dat netto betalen voor terugleveren stroom in 2027 mogelijk is</title>
+            <link>https://tweakers.net/nieuws/235826/acm-bevestigt-dat-netto-betalen-voor-terugleveren-stroom-in-2027-mogelijk-is.html</link>
+            <description>De Autoriteit Consument &amp; Markt kan niet uitsluiten dat het na de afschaffing van de salderingsregeling in 2027 mogelijk is dat mensen met zonnepanelen netto moeten betalen om stroom terug te leveren aan het net. De kans hierop zou echter wel moeten afnemen.</description>
+            <author>Redactie Tweakers</author>
+            <category>Nieuws / IT Pro / Economie en maatschappij</category>
+            <comments>https://tweakers.net/nieuws/235826/acm-bevestigt-dat-netto-betalen-voor-terugleveren-stroom-in-2027-mogelijk-is.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235826</guid>
+            <pubDate>Thu, 05 Jun 2025 19:30:38 +0200</pubDate>
+        </item>
+        <item>
+            <title>Sony kondigt vechtgame met superhelden Marvel Tōkon: Fighting Souls aan</title>
+            <link>https://tweakers.net/nieuws/235856/sony-kondigt-vechtgame-met-superhelden-marvel-tokon-fighting-souls-aan.html</link>
+            <description>Sony, Marvel en Arc System Works kondigen Marvel Tōkon: Fighting Souls aan voor de PlayStation 5 en de pc. In het spel vechten twee teams van vier superhelden en schurken in tagteam-samenstelling tegen elkaar. De game komt ergens in 2026 uit.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/235856/sony-kondigt-vechtgame-met-superhelden-marvel-tokon-fighting-souls-aan.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235856</guid>
+            <pubDate>Thu, 05 Jun 2025 18:01:07 +0200</pubDate>
+        </item>
+        <item>
+            <title>Achtergrond - Ten dode opgeschreven SD Express maakt door Nintendo kans op comeback</title>
+            <link>https://tweakers.net/reviews/13358/ten-dode-opgeschreven-sd-express-maakt-door-nintendo-kans-op-comeback.html</link>
+            <description>SD Express leek lange tijd ten dode opgeschreven, maar door de Switch 2 komt daar misschien wel verandering in. Wat maakt deze standaard anders?</description>
+            <author>Kevin Krikhaar</author>
+            <category>Achtergrond / Computers / Geheugenkaarten</category>
+            <comments>https://tweakers.net/reviews/13358/ten-dode-opgeschreven-sd-express-maakt-door-nintendo-kans-op-comeback.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13358</guid>
+            <pubDate>Thu, 05 Jun 2025 17:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nothing onthult op 1 juli zijn eerste koptelefoon</title>
+            <link>https://tweakers.net/nieuws/235868/nothing-onthult-op-1-juli-zijn-eerste-koptelefoon.html</link>
+            <description>Nothing onthult op 1 juli zijn eerste koptelefoon. Het bedrijf heeft de naam Nothing Headphone 1 al bekendgemaakt en bracht eerder in-earoortjes uit. De productpresentatie vindt plaats in Londen en begint om 19.00 uur Nederlandse tijd.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / Beeld en geluid / Hoofdtelefoons</category>
+            <comments>https://tweakers.net/nieuws/235868/nothing-onthult-op-1-juli-zijn-eerste-koptelefoon.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235868</guid>
+            <pubDate>Thu, 05 Jun 2025 17:22:45 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - HWMonitor 1.58</title>
             <link>https://tweakers.net/downloads/72910/hwmonitor-158.html</link>
@@ -296,126 +416,6 @@
             <comments>https://tweakers.net/nieuws/235824/zonnepanelen-leveren-vanaf-2027-bijna-niets-meer-op-bij-innova-energie.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235824</guid>
             <pubDate>Thu, 05 Jun 2025 08:31:04 +0200</pubDate>
-        </item>
-        <item>
-            <title>NCTV mag weer internet monitoren door ingang van nieuwe wet</title>
-            <link>https://tweakers.net/nieuws/235822/nctv-mag-weer-internet-monitoren-door-ingang-van-nieuwe-wet.html</link>
-            <description>De Nederlandse NCTV mag het internet weer monitoren, nu de nieuwe Wet coördinatie terrorismebestrijding en nationale veiligheid van kracht is geworden. In 2021 deed de organisatie dit met onder meer nepaccounts op sociale media, maar die bevoegdheid had het niet.</description>
-            <author>Eveline Meijer</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/235822/nctv-mag-weer-internet-monitoren-door-ingang-van-nieuwe-wet.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235822</guid>
-            <pubDate>Thu, 05 Jun 2025 07:46:19 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Unraid 7.1.3</title>
-            <link>https://tweakers.net/downloads/72900/unraid-713.html</link>
-            <description>Versie 7.1.3 van Unraid is uitgekomen. Met dit besturingssysteem kan een server worden opgezet voor taken als network attached storage, applicatieserver en virtualisatiehost. Het is eenvoudig op te zetten en enorm flexibel met betrekking tot de gebruikte hardware en grootte van de harde schijven. Docker wordt gebruikt om functionaliteit toe te voegen en deze apps worden door een actieve community gevalideerd en onderhouden. Voorheen had Unraid een eenmalige aanschafprijs die afhing van het aantal gebruikte harde schijven en ssd&#039;s. Basic stond tot zes opslagapparaten toe, een pluslicentie maximaal twaalf apparaten en bij pro was dat ongelimiteerd. Dat is echter veranderd en voortaan moet dit jaarlijks worden verlengd om ondersteuning en updates te blijven krijgen. In versie 7.1.1 is een probleem verholpen waardoor bepaalde virtuele machines niet wilden starten en 7.1.2 moet een onder specifieke omstandigheden dataverlies voorkomen. Key Improvements</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72900/unraid-713.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72900</guid>
-            <pubDate>Thu, 05 Jun 2025 07:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Tweakers Podcast #376 - Apple-boeken, realtimechats en Nintendo-reviews</title>
-            <link>https://tweakers.net/geek/235806/tweakers-podcast-376-apple-boeken-realtimechats-en-nintendo-reviews.html</link>
-            <description>Deze week praten Arnoud Wokke, Jurian Ubachs en Yannick Spinner over de presentatie van The Witcher 4 en Unreal Engine 5.6, Real Time Text voor chatten tijdens bellen, Apples investeringen in China en de aankomende Nintendo Switch 2-review.</description>
-            <author>Arnoud Wokke</author>
-            <category>.Geek / Beeld en geluid / Audio</category>
-            <comments>https://tweakers.net/geek/235806/tweakers-podcast-376-apple-boeken-realtimechats-en-nintendo-reviews.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/235806</guid>
-            <pubDate>Thu, 05 Jun 2025 07:13:54 +0200</pubDate>
-        </item>
-        <item>
-            <title>Video - Apple-boeken, realtimechats en Nintendo-reviews - Tweakers Podcast #376</title>
-            <link>https://tweakers.net/video/19938/apple-boeken-realtimechats-en-nintendo-reviews-tweakers-podcast-376.html</link>
-            <description>Deze week praten Arnoud Wokke, Jurian Ubachs en Yannick Spinner over de presentatie van The Witcher 4 en Unreal Engine 5.6, Real Time Text voor chatten tijdens bellen, Apples investeringen in China en de aankomende Nintendo Switch 2-review.</description>
-            <author>Redactie Tweakers</author>
-            <category>Video / Gaming / Consoles</category>
-            <comments>https://tweakers.net/video/19938/apple-boeken-realtimechats-en-nintendo-reviews-tweakers-podcast-376.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/video/19938</guid>
-            <pubDate>Thu, 05 Jun 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Shokz belooft beter basgeluid en Dolby Audio met OpenFit 2+</title>
-            <link>https://tweakers.net/nieuws/235800/shokz-belooft-beter-basgeluid-en-dolby-audio-met-openfit-2+.html</link>
-            <description>Sportoortjesfabrikant Shokz brengt donderdag de OpenFit 2+ uit. Deze open-ears met oorhaak zijn bedoeld voor sporters en muziekliefhebbers die willen luisteren zonder zich af te sluiten van de buitenwereld. Daarbij zouden de oortjes meer basgeluid laten horen dan hun voorgangers.</description>
-            <author>Sjef Weller</author>
-            <category>Nieuws / Beeld en geluid / Oordopjes</category>
-            <comments>https://tweakers.net/nieuws/235800/shokz-belooft-beter-basgeluid-en-dolby-audio-met-openfit-2+.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235800</guid>
-            <pubDate>Thu, 05 Jun 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Quicktest - Shokz OpenFit 2 en OpenFit 2+ - Buitenboordoortjes mét bas</title>
-            <link>https://tweakers.net/reviews/13346/shokz-openfit-2-en-openfit-2+-buitenboordoortjes-met-bas.html</link>
-            <description>De Shokz OpenFit 2 en OpenFit 2+ zijn open oortjes met oorhaken, zodat je muziek hoort én je omgeving. Hoe klinken ze in de praktijk? Wij probeerden ze uit.</description>
-            <author>Sjef Weller</author>
-            <category>Quicktest / Beeld en geluid / Oordopjes</category>
-            <comments>https://tweakers.net/reviews/13346/shokz-openfit-2-en-openfit-2+-buitenboordoortjes-met-bas.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13346</guid>
-            <pubDate>Thu, 05 Jun 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - &#039;Amazon werkt aan film over ontslag van Sam Altman bij OpenAI&#039;</title>
-            <link>https://tweakers.net/geek/235820/amazon-werkt-aan-film-over-ontslag-van-sam-altman-bij-openai.html</link>
-            <description>Amazon werkt aan een film over het ontslag van Sam Altman bij OpenAI, dat enkele dagen later al werd teruggedraaid. Dat melden The Hollywood Reporter en Deadline op basis van anonieme bronnen.</description>
-            <author>Kevin Krikhaar</author>
-            <category>.Geek / IT Pro / Economie en maatschappij</category>
-            <comments>https://tweakers.net/geek/235820/amazon-werkt-aan-film-over-ontslag-van-sam-altman-bij-openai.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/235820</guid>
-            <pubDate>Wed, 04 Jun 2025 21:11:41 +0200</pubDate>
-        </item>
-        <item>
-            <title>Samsung teaset Ultra-versie van Galaxy Z Fold</title>
-            <link>https://tweakers.net/nieuws/235818/samsung-teaset-ultra-versie-van-galaxy-z-fold.html</link>
-            <description>Samsung heeft een teaser gepost die hint op de komst van een opvouwbare Galaxy Ultra. De foldable zou AI-functies, een groter scherm en een betere camera krijgen, maar meer informatie wordt er niet gedeeld.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/235818/samsung-teaset-ultra-versie-van-galaxy-z-fold.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235818</guid>
-            <pubDate>Wed, 04 Jun 2025 20:16:45 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Sigil 2.5.2</title>
-            <link>https://tweakers.net/downloads/72898/sigil-252.html</link>
-            <description>Versie 2.5.2 van Sigil is uitgekomen. Sigil is een opensource e-bookeditor met uitgebreide mogelijkheden die ontwikkeld wordt voor Windows, Linux en macOS. Het programma kan zowel epub- als HTML-bestanden importeren, inclusief opmaak en afbeeldingen. Er is volledige ondersteuning aanwezig voor zowel epub 2 als epub 3. Het kan verder een inhoudsopgave met verscheidene niveaus genereren en de epubsyntax direct bewerken in de code view. De changelog sinds versie 2.5.0 kan hieronder worden gevonden.</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72898/sigil-252.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72898</guid>
-            <pubDate>Wed, 04 Jun 2025 19:34:58 +0200</pubDate>
-        </item>
-        <item>
-            <title>Belgische provider DIGI komt met mobiel 5GB-abonnement voor 3 euro per maand</title>
-            <link>https://tweakers.net/nieuws/235816/belgische-provider-digi-komt-met-mobiel-5gb-abonnement-voor-3-euro-per-maand.html</link>
-            <description>De Belgische provider DIGI komt met een mobiel instapabonnement. Voor 3 euro per maand krijgen klanten een databundel van 5GB. Bellen en sms&#039;en zijn niet inbegrepen bij dit abonnement.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
-            <comments>https://tweakers.net/nieuws/235816/belgische-provider-digi-komt-met-mobiel-5gb-abonnement-voor-3-euro-per-maand.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235816</guid>
-            <pubDate>Wed, 04 Jun 2025 18:56:40 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft wil met cybersecurityprogramma EU-landen informeren over dreigingen</title>
-            <link>https://tweakers.net/nieuws/235814/microsoft-wil-met-cybersecurityprogramma-eu-landen-informeren-over-dreigingen.html</link>
-            <description>Microsoft komt met een cybersecurityprogramma voor Europese regeringen. De techreus wil informatie over dreigingen voor de digitale veiligheid gaan delen met deelnemende regeringen, zodat ze zich beter kunnen verdedigen tegen cyberaanvallen.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/235814/microsoft-wil-met-cybersecurityprogramma-eu-landen-informeren-over-dreigingen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235814</guid>
-            <pubDate>Wed, 04 Jun 2025 18:31:55 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - AnyDesk 9.5.5</title>
-            <link>https://tweakers.net/downloads/72896/anydesk-955.html</link>
-            <description>Versie 9.5.5 van AnyDesk voor Windows is uitgekomen. Met dit programma, dat door oud-medewerkers van TeamViewer wordt ontwikkeld, kan een andere computer worden overgenomen om deze op afstand te beheren. Het programma is beschikbaar voor Windows, Linux, FreeBSD, macOS, Android en iOS, al zit niet elk platform op hetzelfde versienummer. Het is gratis voor thuisgebruik; voor commercieel gebruik beginnen de prijzen bij 23 euro per maand. Het maakt dan verder niet uit hoeveel updates er tussentijds uitkomen. De changelog sinds versie 9.5.2 voor Windows ziet er als volgt uit:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72896/anydesk-955.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72896</guid>
-            <pubDate>Wed, 04 Jun 2025 17:28:57 +0200</pubDate>
         </item>
     </channel>
 </rss>
