@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 09 Jun 2025 09:31:00 +0200</pubDate>
-        <lastBuildDate>Mon, 09 Jun 2025 09:31:00 +0200</lastBuildDate>
+        <pubDate>Mon, 09 Jun 2025 10:36:01 +0200</pubDate>
+        <lastBuildDate>Mon, 09 Jun 2025 10:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - PTGui 13.2</title>
+            <link>https://tweakers.net/downloads/72942/ptgui-132.html</link>
+            <description>Een regelmatig besproken stukje software in het Foto &amp; Video Workflow-subforum is PTGui. Dit programma richt zich op het maken en aanpassen van samengestelde beelden. Dat kan een verticaal of horizontaal panorama zijn, maar ook één groot beeld met een enorme resolutie dat samengesteld is uit talloze afzonderlijke opnames. Met een stapel foto&#039;s als invoer kan het programma daarna zelf uitzoeken hoe ze naast elkaar gezet moeten worden. Voor het rekenintensieve deel kan bovendien via OpenCL de gpu worden ingezet om sneller klaar te zijn. De software is beschikbaar is een standaard- en pro-versie; de verschillen tussen beide worden op deze pagina tegen elkaar afgezet. Kort geleden is versie 13.2 uitgekomen en hierin zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 13.2:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72942/ptgui-132.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72942</guid>
+            <pubDate>Mon, 09 Jun 2025 10:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Mozilla trekt op 26 juni stekker uit Orbit-extensie</title>
+            <link>https://tweakers.net/nieuws/235948/mozilla-trekt-op-26-juni-stekker-uit-orbit-extensie.html</link>
+            <description>Mozilla trekt op 26 juni 2025 de stekker uit de gratis browserextensie Orbit. Het bedrijf vertelt niet waarom het stopt met de AI-extensie. Orbit werd begin dit jaar naar het brede publiek uitgerold, nadat er eind vorig jaar eerst een testversie werd geïntroduceerd.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / Computers / Software</category>
+            <comments>https://tweakers.net/nieuws/235948/mozilla-trekt-op-26-juni-stekker-uit-orbit-extensie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235948</guid>
+            <pubDate>Mon, 09 Jun 2025 10:15:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>GOG introduceert One-click Mods voor eenvoudige mod-integratie</title>
+            <link>https://tweakers.net/nieuws/235944/gog-introduceert-one-click-mods-voor-eenvoudige-mod-integratie.html</link>
+            <description>GOG heeft One-click Mods geïntroduceerd. Het betreft een nieuwe feature op het gameplatform waarbij vooraf geselecteerde mods aan de installatiepakketten van games worden toegevoegd. Hierdoor kunnen de mods eenvoudiger worden geactiveerd.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/235944/gog-introduceert-one-click-mods-voor-eenvoudige-mod-integratie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235944</guid>
+            <pubDate>Mon, 09 Jun 2025 09:48:00 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - ScreenToGif 2.41.3</title>
             <link>https://tweakers.net/downloads/72940/screentogif-2413.html</link>
@@ -126,16 +156,6 @@
             <comments>https://tweakers.net/nieuws/235940/apple-ontwerper-achter-lisa-gui-hypercard-en-quickdraw-is-overleden.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235940</guid>
             <pubDate>Sun, 08 Jun 2025 10:53:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - FreeBSD 14.3</title>
-            <link>https://tweakers.net/downloads/72930/freebsd-143.html</link>
-            <description>De leden van het FreeBSD Release Engineering Team hebben versie 14.3 van FreeBSD uitgebracht. FreeBSD is in 1993 ontstaan en wordt als één geheel ontwikkeld, in tegenstelling tot bijvoorbeeld Linux, waarvan de kernel door de ene groep ontwikkelaars wordt onderhouden en bepaalde applicaties weer door anderen. Hierdoor wordt FreeBSD over het algemeen als stabieler en robuuster beschouwd dan diverse andere besturingssystemen. Uitgebreide releasenotes kunnen op deze pagina worden gevonden. Dit zijn in het kort de belangrijkste veranderingen: FreeBSD 14.3-RELEASE Announcement</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72930/freebsd-143.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72930</guid>
-            <pubDate>Sun, 08 Jun 2025 10:30:00 +0200</pubDate>
         </item>
         <item>
             <title>Bambu brengt firmware uit die ook thirdpartyfuncties op P- en A-printers blokt</title>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/235898/x-verbiedt-ontwikkelaars-om-ai-modellen-op-posts-te-trainen-in-nieuw-beleid.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235898</guid>
             <pubDate>Fri, 06 Jun 2025 14:22:02 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nieuwsblog: als de ene collega iets afschiet, moet de rest dat wel volgen</title>
-            <link>https://tweakers.net/nieuws/235894/nieuwsblog-als-de-ene-collega-iets-afschiet-moet-de-rest-dat-wel-volgen.html</link>
-            <description>Ook redacteuren zoals die van Tweakers, die chronisch online zijn, hebben wel eens last van miscommunicatie. Zo kon het deze week gebeuren dat we een bericht publiceerden over WhatsApp dat achteraf gezien misschien overbodig was.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/nieuws/235894/nieuwsblog-als-de-ene-collega-iets-afschiet-moet-de-rest-dat-wel-volgen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235894</guid>
-            <pubDate>Fri, 06 Jun 2025 14:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Utrecht zette vorig jaar zeven keer cameradrones in bij demonstraties</title>
-            <link>https://tweakers.net/nieuws/235896/utrecht-zette-vorig-jaar-zeven-keer-cameradrones-in-bij-demonstraties.html</link>
-            <description>De gemeente Utrecht heeft bij de in totaal 522 demonstraties in 2024 zeven keer cameradrones ingezet, schrijft burgemeester Sharon Dijksma in een antwoord op raadsvragen. Tijdens een van die protesten is ook een videosurveillanceauto ingezet.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/235896/utrecht-zette-vorig-jaar-zeven-keer-cameradrones-in-bij-demonstraties.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235896</guid>
-            <pubDate>Fri, 06 Jun 2025 14:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
