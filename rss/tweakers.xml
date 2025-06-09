@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 09 Jun 2025 13:31:00 +0200</pubDate>
-        <lastBuildDate>Mon, 09 Jun 2025 13:31:00 +0200</lastBuildDate>
+        <pubDate>Mon, 09 Jun 2025 14:41:00 +0200</pubDate>
+        <lastBuildDate>Mon, 09 Jun 2025 14:41:00 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - The Bat! 11.4.2.1</title>
+            <link>https://tweakers.net/downloads/72944/the-bat-11421.html</link>
+            <description>Versie 11.4.2.1 van de e-mailclient The Bat! is uitgekomen. Het programma heeft alles wat je van een moderne e-mailclient mag verwachten, zoals het automatisch kunnen sorteren, beantwoorden of doorsturen van e-mail en het met vertraging kunnen versturen van e-mails. Er zijn diverse e-mailthema&#039;s, waarbij ook van macro&#039;s gebruikgemaakt kan worden. In deze uitgave zijn de volgende veranderingen en verbeteringen doorgevoerd: Improvements</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72944/the-bat-11421.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72944</guid>
+            <pubDate>Mon, 09 Jun 2025 14:20:06 +0200</pubDate>
+        </item>
         <item>
             <title>Beelden van nieuwe Garmin-slaaptrackerarmband duiken op</title>
             <link>https://tweakers.net/nieuws/235958/beelden-van-nieuwe-garmin-slaaptrackerarmband-duiken-op.html</link>
@@ -188,12 +198,12 @@
             <pubDate>Sun, 08 Jun 2025 10:53:00 +0200</pubDate>
         </item>
         <item>
-            <title>Bambu brengt firmware uit die ook thirdpartyfuncties op P- en A-printers blokt</title>
-            <link>https://tweakers.net/nieuws/235934/bambu-brengt-firmware-uit-die-ook-thirdpartyfuncties-op-p-en-a-printers-blokt.html</link>
+            <title>Bambu brengt firmware uit die thirdpartyfuncties op P- en A-printers blokkeert</title>
+            <link>https://tweakers.net/nieuws/235934/bambu-brengt-firmware-uit-die-thirdpartyfuncties-op-p-en-a-printers-blokkeert.html</link>
             <description>Bambu Lab heeft een update voor zijn P- en A-serie van 3d-printers uitgebracht waarmee thirdpartyapplicaties niet meer zijn toegestaan. Het was al bekend dat dat ging gebeuren nadat Bambu dat al had gedaan voor de X-serie.</description>
             <author>Tijs Hofmans</author>
             <category>Nieuws / Computers / Printers</category>
-            <comments>https://tweakers.net/nieuws/235934/bambu-brengt-firmware-uit-die-ook-thirdpartyfuncties-op-p-en-a-printers-blokt.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/235934/bambu-brengt-firmware-uit-die-thirdpartyfuncties-op-p-en-a-printers-blokkeert.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235934</guid>
             <pubDate>Sun, 08 Jun 2025 10:08:00 +0200</pubDate>
         </item>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/235906/samsung-galaxy-watches-krijgen-slaapapneudetectie-in-nederland-en-belgie.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235906</guid>
             <pubDate>Fri, 06 Jun 2025 16:34:22 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft dicht kritiek lek in bedrijfsprocessensoftware Power Automate</title>
-            <link>https://tweakers.net/nieuws/235904/microsoft-dicht-kritiek-lek-in-bedrijfsprocessensoftware-power-automate.html</link>
-            <description>Microsoft heeft een kritiek lek in de desktopversie van zijn bedrijfsprocessensoftware Power Automate gedicht. Het lek maakte het voor hackers mogelijk om zonder toestemming op afstand gevoelige informatie te verzamelen. Daardoor konden zij meer systeemrechten verkrijgen.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/235904/microsoft-dicht-kritiek-lek-in-bedrijfsprocessensoftware-power-automate.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235904</guid>
-            <pubDate>Fri, 06 Jun 2025 16:09:06 +0200</pubDate>
         </item>
     </channel>
 </rss>
