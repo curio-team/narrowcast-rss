@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 10 Jun 2025 11:31:00 +0200</pubDate>
-        <lastBuildDate>Tue, 10 Jun 2025 11:31:00 +0200</lastBuildDate>
+        <pubDate>Tue, 10 Jun 2025 12:36:01 +0200</pubDate>
+        <lastBuildDate>Tue, 10 Jun 2025 12:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>&#039;Meta wil nieuw AI-onderzoekslab starten in jacht op superintelligentie&#039;</title>
+            <link>https://tweakers.net/nieuws/235982/meta-wil-nieuw-ai-onderzoekslab-starten-in-jacht-op-superintelligentie.html</link>
+            <description>Meta wil een nieuw AI-onderzoekslab starten, zo schrijft de New York Times op basis van vier bronnen. Het socialemediabedrijf wil daar onderzoek doen naar superintelligentie: een voorlopig hypothetisch AI-systeem dat meer capaciteiten heeft dan het menselijke brein.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Wetenschap</category>
+            <comments>https://tweakers.net/nieuws/235982/meta-wil-nieuw-ai-onderzoekslab-starten-in-jacht-op-superintelligentie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235982</guid>
+            <pubDate>Tue, 10 Jun 2025 12:23:23 +0200</pubDate>
+        </item>
+        <item>
+            <title>Vervoersbedrijf RMC loopt 217.000 euro schade op door fraude met rfid-laadcodes</title>
+            <link>https://tweakers.net/nieuws/235980/vervoersbedrijf-rmc-loopt-217000-euro-schade-op-door-fraude-met-rfid-laadcodes.html</link>
+            <description>De unieke rfid-codes van de laaddruppels van het Rotterdamse vervoersbedrijf RMC werden duizenden keren gekopieerd en misbruikt. Dat meldt RTL Nieuws. Hierdoor heeft het bedrijf meer dan 200.000 euro schade opgelopen.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/235980/vervoersbedrijf-rmc-loopt-217000-euro-schade-op-door-fraude-met-rfid-laadcodes.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235980</guid>
+            <pubDate>Tue, 10 Jun 2025 12:14:37 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Plan - Nieuwe weergave van prijsoverzicht in Pricewatch - Development-iteratie #313</title>
+            <link>https://tweakers.net/plan/4416/nieuwe-weergave-van-prijsoverzicht-in-pricewatch-development-iteratie-313.html</link>
+            <description>We hebben weer een stap gezet in het vernieuwen van de productpagina&#039;s in de Pricewatch, waarbij onder andere de prijsgrafiek hoger is geplaatst op desktopweergave. Daarnaast zijn diverse verbeteringen doorgevoerd in de wysiwyg-editor naar aanleiding van feedback op de bètafeature.</description>
+            <author>Jelle Mol</author>
+            <category>.plan</category>
+            <comments>https://tweakers.net/plan/4416/nieuwe-weergave-van-prijsoverzicht-in-pricewatch-development-iteratie-313.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/plan/4416</guid>
+            <pubDate>Tue, 10 Jun 2025 11:53:03 +0200</pubDate>
+        </item>
         <item>
             <title>Google repareert bug waarmee het mogelijk was om telefoonnummers te achterhalen</title>
             <link>https://tweakers.net/nieuws/235978/google-repareert-bug-waarmee-het-mogelijk-was-om-telefoonnummers-te-achterhalen.html</link>
@@ -68,12 +98,12 @@
             <pubDate>Tue, 10 Jun 2025 06:00:00 +0200</pubDate>
         </item>
         <item>
-            <title>Video - Nieuw design voor iPhones, iPads en Macs - Tweakers Update WWDC 2025</title>
-            <link>https://tweakers.net/video/19944/nieuw-design-voor-iphones-ipads-en-macs-tweakers-update-wwdc-2025.html</link>
+            <title>Video - Nieuw softwaredesign voor iPhones, iPads en Macs - Tweakers Update WWDC 2025</title>
+            <link>https://tweakers.net/video/19944/nieuw-softwaredesign-voor-iphones-ipads-en-macs-tweakers-update-wwdc-2025.html</link>
             <description>iPhones gaan er anders uitzien, iPads gaan meer werken als gewone computers, Macs kunnen meer doen met Spotlight en de Apple Watch kan je gaan besturen met polsbewegingen. Apple had veel te vertellen tijdens zijn eigen ontwikkelaarsconferentie WWDC, waar het onder meer iOS 26, iPadOS 26, watchOS 26 en macOS 26 Tahoe aankondigde.</description>
             <author>Luke van Drie</author>
             <category>Video / Computers / Software</category>
-            <comments>https://tweakers.net/video/19944/nieuw-design-voor-iphones-ipads-en-macs-tweakers-update-wwdc-2025.html#reacties</comments>
+            <comments>https://tweakers.net/video/19944/nieuw-softwaredesign-voor-iphones-ipads-en-macs-tweakers-update-wwdc-2025.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/video/19944</guid>
             <pubDate>Mon, 09 Jun 2025 23:00:00 +0200</pubDate>
         </item>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/downloads/72926/double-commander-1126.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72926</guid>
             <pubDate>Sat, 07 Jun 2025 19:21:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - OpenRCT2 0.4.23</title>
-            <link>https://tweakers.net/downloads/72924/openrct2-0423.html</link>
-            <description>Versie 0.4.23 van OpenRCT2 is uitgekomen, de opensourceversie van RollerCoaster Tycoon 2. Het project probeert zo veel mogelijk op het origineel te lijken, maar is in een moderne taal geschreven, wat uitbreidingen en verbeteringen mogelijk maakt. Het is hiermee vergelijkbaar met bijvoorbeeld OpenTTD en OpenRA. Om het te kunnen spelen, is het overigens wel noodzakelijk om het originele spel te hebben, want het heeft onder meer geluidsbestanden en de afbeeldingen nodig. De changelog voor deze uitgave, die de naam &#039;Canned Salmon&#039; heeft meegekregen, is hieronder te vinden: New:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72924/openrct2-0423.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72924</guid>
-            <pubDate>Sat, 07 Jun 2025 17:21:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - moOde audio player 9.3.6</title>
-            <link>https://tweakers.net/downloads/72922/moode-audio-player-936.html</link>
-            <description>Versie 9.3.6 van moOde audio player is uitgekomen. Dit programma maakt van een Raspberry Pi een uitgebreid muziekcenter en kan muziekbestanden afspelen die op het lokale netwerk zijn opgeslagen, van internetradiostations en diverse streamingdiensten. De speler kan worden bediend via een webbrowser of mobiel apparaat en er is ondersteuning aanwezig voor een groot aantal dacs, zodat de muziek ook op hoge kwaliteit kan worden afgespeeld. De changelog voor deze uitgave ziet er als volgt uit: moOde audio player 9.3.6</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72922/moode-audio-player-936.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72922</guid>
-            <pubDate>Sat, 07 Jun 2025 15:21:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Patch My PC 5.2.3.0</title>
-            <link>https://tweakers.net/downloads/72920/patch-my-pc-5230.html</link>
-            <description>Versie 5.2.3.0 van Patch My PC is kort geleden uitgekomen. Dit programma kan controleren of de laatste versies van ruim 500 populaire programma&#039;s zijn geïnstalleerd. Daarnaast kan het deze programma&#039;s ook installeren als ze nog niet aanwezig zijn en uiteraard ook weer verwijderen. In versie 5 heeft de gebruikersinterface een opfrisbeurt gekregen en moest het programma nu geïnstalleerd worden, waar het voorheen als portable applicatie gebruikt kon worden, echter is er sinds kort weer een portable versie beschikbaar, die bovendien ook een stuk kleiner is. De changelog voor deze uitgave kan hieronder worden gevonden. Startup Manager</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72920/patch-my-pc-5230.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72920</guid>
-            <pubDate>Sat, 07 Jun 2025 13:21:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
