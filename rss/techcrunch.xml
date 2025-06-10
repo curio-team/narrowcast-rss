@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 10 Jun 2025 12:30:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 10 Jun 2025 13:27:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,17 +28,54 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Tebi, the new startup by Adyen&#8217;s departed cofounder, raises a fresh $30M from Alphabet&#8217;s CapitalG</title>
+		<title>Ongoing cyberattack at US grocery distributor giant UNFI affecting customer orders</title>
+		<link>https://techcrunch.com/2025/06/10/ongoing-cyberattack-at-us-grocery-distributor-giant-unfi-affecting-customer-orders/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Tue, 10 Jun 2025 13:25:00 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[supply chain]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[whole foods]]></category>
+		<category><![CDATA[grocery tech]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3017236</guid>
+
+					<description><![CDATA[United Natural Foods said it is "diligently managing through the cyber incident" that sparked disruption outages.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google’s AI search features are killing traffic to publishers</title>
+		<link>https://techcrunch.com/2025/06/10/googles-ai-overviews-are-killing-traffic-for-publishers/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Tue, 10 Jun 2025 12:57:34 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI chatbots]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[google ai overviews]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3017225</guid>
+
+					<description><![CDATA[Google’s AI Overviews and other AI-powered tools, including chatbots, are devastating traffic for news publishers, per a Wall Street Journal report.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tebi, the new startup by Adyen&#8217;s departed co-founder, raises a fresh €30M from Alphabet&#8217;s CapitalG</title>
 		<link>https://techcrunch.com/2025/06/10/tebi-the-new-startup-by-adyens-departed-cofounder-raises-a-fresh-30m-from-alphabets-capitalg/</link>
 		
 		<dc:creator><![CDATA[Anna Heim]]></dc:creator>
 		<pubDate>Tue, 10 Jun 2025 12:30:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Fintech]]></category>
+				<category><![CDATA[Fintech]]></category>
 		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
 		<category><![CDATA[Adyen]]></category>
-		<category><![CDATA[hospitality industry]]></category>
 		<category><![CDATA[CapitalG]]></category>
+		<category><![CDATA[hospitality industry]]></category>
 		<category><![CDATA[tebi]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3016460</guid>
 
@@ -119,8 +156,8 @@
 		
 			</item>
 		<item>
-		<title>Apple brings back tabs to the Photos app in iOS 26</title>
-		<link>https://techcrunch.com/2025/06/09/apple-brings-back-tabs-to-the-photos-app-in-ios-26/</link>
+		<title>After user backlash, Apple brings back tabs to the Photos app in iOS 26</title>
+		<link>https://techcrunch.com/2025/06/09/after-user-backlash-apple-brings-back-tabs-to-the-photos-app-in-ios-26/</link>
 		
 		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
 		<pubDate>Mon, 09 Jun 2025 19:53:34 +0000</pubDate>
@@ -351,47 +388,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3016825</guid>
 
 					<description><![CDATA[Apple has launched at its WWDC 2025 conference Workout Buddy, an AI workout coach. The AI tool gathers data from both your current workout and your fitness history – including paces, miles logged, activity rings closed, and training load – to coach you through workouts in real time. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Paragon says it canceled contracts with Italy over government&#8217;s refusal to investigate spyware attack on journalist</title>
-		<link>https://techcrunch.com/2025/06/09/paragon-says-it-cancelled-contracts-with-italy-over-governments-refusal-to-investigate-spyware-attack-on-journalist/</link>
-		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
-		<pubDate>Mon, 09 Jun 2025 18:09:58 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[Europe]]></category>
-		<category><![CDATA[Giorgia Meloni]]></category>
-		<category><![CDATA[hacking]]></category>
-		<category><![CDATA[Israel]]></category>
-		<category><![CDATA[Italy]]></category>
-		<category><![CDATA[paragon]]></category>
-		<category><![CDATA[Paragon Solutions]]></category>
-		<category><![CDATA[Spyware]]></category>
-		<category><![CDATA[surveillance]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3016706</guid>
-
-					<description><![CDATA[The Italian government claims that accepting Paragon’s help would have compromised national security and classified information. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple AirPods get new features, including studio-quality audio and a camera remote, at WWDC 2025</title>
-		<link>https://techcrunch.com/2025/06/09/apple-airpods-get-new-features-including-studio-quality-audio-and-a-camera-remote/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Mon, 09 Jun 2025 18:03:42 +0000</pubDate>
-				<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[AirPods]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[wwdc]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3016553</guid>
-
-					<description><![CDATA[Apple's AirPods are getting a couple of new features and gestures, the Cupertino-based tech company announced at its Worldwide Developers Conference (WWDC) on Monday.]]></description>
 		
 		
 		
