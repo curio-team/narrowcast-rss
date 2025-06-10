@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 10 Jun 2025 09:31:01 +0200</pubDate>
-        <lastBuildDate>Tue, 10 Jun 2025 09:31:01 +0200</lastBuildDate>
+        <pubDate>Tue, 10 Jun 2025 10:36:00 +0200</pubDate>
+        <lastBuildDate>Tue, 10 Jun 2025 10:36:00 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Google repareert bug waarmee het mogelijk was om telefoonnummers te achterhalen</title>
+            <link>https://tweakers.net/nieuws/235978/google-repareert-bug-waarmee-het-mogelijk-was-om-telefoonnummers-te-achterhalen.html</link>
+            <description>Google heeft een bug opgelost waardoor het mogelijk was om telefoonnummers van vrijwel iedere Google-gebruiker te achterhalen. De bug deed zich voor bij de pagina waarmee gebruikers hun Google-account kunnen herstellen via een telefoonnummer.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/235978/google-repareert-bug-waarmee-het-mogelijk-was-om-telefoonnummers-te-achterhalen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235978</guid>
+            <pubDate>Tue, 10 Jun 2025 10:25:22 +0200</pubDate>
+        </item>
         <item>
             <title>Ubisoft brengt Anno 117: Pax Romana op 13 november uit voor pc en consoles</title>
             <link>https://tweakers.net/nieuws/235976/ubisoft-brengt-anno-117-pax-romana-op-13-november-uit-voor-pc-en-consoles.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/downloads/72920/patch-my-pc-5230.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72920</guid>
             <pubDate>Sat, 07 Jun 2025 13:21:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Politie krijgt opnieuw uitstel om problemen met C2000-netwerk te verhelpen</title>
-            <link>https://tweakers.net/nieuws/235930/politie-krijgt-opnieuw-uitstel-om-problemen-met-c2000-netwerk-te-verhelpen.html</link>
-            <description>De Nederlandse politie krijgt opnieuw meer tijd van de Arbeidsinspectie om het C2000-communicatienetwerk te verbeteren. De nieuwe deadline ligt volgens NU.nl op 31 oktober 2025. De politie moest de problemen aanvankelijk op 7 juni hebben opgelost.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/235930/politie-krijgt-opnieuw-uitstel-om-problemen-met-c2000-netwerk-te-verhelpen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235930</guid>
-            <pubDate>Sat, 07 Jun 2025 13:10:04 +0200</pubDate>
         </item>
     </channel>
 </rss>
