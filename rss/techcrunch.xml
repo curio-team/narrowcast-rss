@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 09 Jun 2025 22:14:01 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 10 Jun 2025 10:58:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>WWDC 2025: Everything that Apple &#8216;Sherlocked&#8217; this time</title>
+		<link>https://techcrunch.com/2025/06/10/wwdc-2025-everything-that-apple-sherlocked-this-time/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Tue, 10 Jun 2025 10:58:23 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Sherlocked]]></category>
+		<category><![CDATA[wwdc]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3017202</guid>
+
+					<description><![CDATA[Just like every year, Apple has once again built in some features into its operating systems that were previously available through third-party apps.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Still no AI-powered, &#8216;more personalized&#8217; Siri from Apple at WWDC 25</title>
 		<link>https://techcrunch.com/2025/06/09/still-no-ai-powered-more-personalized-siri-from-apple-at-wwdc-25/</link>
 		
@@ -371,22 +388,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3016787</guid>
 
 					<description><![CDATA[The app will soon be able to hold a digital version of your passport, and boarding passes will gain new features.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple brings Apple Intelligence to the iPhone screen at WWDC 2025</title>
-		<link>https://techcrunch.com/2025/06/09/apple-brings-apple-intelligence-to-the-iphone-screen-at-wwdc-2025/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Mon, 09 Jun 2025 17:50:56 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apple Intelligence]]></category>
-		<category><![CDATA[wwdc]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3016757</guid>
-
-					<description><![CDATA[Apple said it's bringing Visual Intelligence, its AI-powered image analysis tech, to the iPhone screen in iOS 26. ]]></description>
 		
 		
 		
