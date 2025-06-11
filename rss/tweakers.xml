@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 11 Jun 2025 12:36:01 +0200</pubDate>
-        <lastBuildDate>Wed, 11 Jun 2025 12:36:01 +0200</lastBuildDate>
+        <pubDate>Wed, 11 Jun 2025 13:31:04 +0200</pubDate>
+        <lastBuildDate>Wed, 11 Jun 2025 13:31:04 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Audacity 3.7.4</title>
+            <link>https://tweakers.net/downloads/72956/audacity-374.html</link>
+            <description>Versie 3.7.4 van Audacity is uitgekomen. Deze opensource audio-editor, die beschikbaar is voor Windows, Linux en macOS, kan geluid opnemen en wav-, aiff-, ogg- en mp3-bestanden importeren en exporteren. Het programma heeft een ongelimiteerde undofunctie en heeft daarnaast een grote verzameling effecten aan boord, zoals fade-in en fade-out, echo, tempowijziging en ruisonderdrukking. Meer effecten kunnen eenvoudig worden toegevoegd, want het programma ondersteunt onder meer Nyquist-, vst- en ladspa-plug-ins. In deze uitgave zijn de volgende verbeteringen aangebracht: Audacity 3.7.4</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72956/audacity-374.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72956</guid>
+            <pubDate>Wed, 11 Jun 2025 13:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>SWAT-achtige shooter Ready or Not komt op 15 juli naar consoles</title>
+            <link>https://tweakers.net/nieuws/236044/swat-achtige-shooter-ready-or-not-komt-op-15-juli-naar-consoles.html</link>
+            <description>De firstpersonshooter Ready or Not komt op 15 juli naar consoles toe. De game verscheen eind 2023 al op Steam en volgt een swatteam in de fictieve stad Los Sueños. Het spel wordt vanaf vijftig euro te koop en is al te reserveren.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/236044/swat-achtige-shooter-ready-or-not-komt-op-15-juli-naar-consoles.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236044</guid>
+            <pubDate>Wed, 11 Jun 2025 12:59:30 +0200</pubDate>
+        </item>
+        <item>
+            <title>Ziggo gaat vanaf 2026 internetdiensten aanbieden op Delta&#039;s glasvezelnetwerk</title>
+            <link>https://tweakers.net/nieuws/236046/ziggo-gaat-vanaf-2026-internetdiensten-aanbieden-op-deltas-glasvezelnetwerk.html</link>
+            <description>Ziggo gaat vastinternetdiensten aanbieden op Delta&#039;s glasvezelnetwerk. Het gaat om ruim 600.000 adressen waar Ziggo geen eigen netwerk heeft. Het is voor het eerst dat Ziggo internetdiensten gaat aanbieden op het netwerk van een concurrerende glasvezelpartij.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / IT Pro / Internettoegang</category>
+            <comments>https://tweakers.net/nieuws/236046/ziggo-gaat-vanaf-2026-internetdiensten-aanbieden-op-deltas-glasvezelnetwerk.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236046</guid>
+            <pubDate>Wed, 11 Jun 2025 12:47:01 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Visual Studio 2022 17.14.5</title>
             <link>https://tweakers.net/downloads/72966/visual-studio-2022-17145.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/235990/deens-ministerie-van-digitalisering-wil-microsoft-inwisselen-voor-linux.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/235990</guid>
             <pubDate>Tue, 10 Jun 2025 14:54:02 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nederland verbiedt bijna alle drones in Den Haag van 18 tot 25 juni om NAVO-top</title>
-            <link>https://tweakers.net/nieuws/235992/nederland-verbiedt-bijna-alle-drones-in-den-haag-van-18-tot-25-juni-om-navo-top.html</link>
-            <description>De Nederlandse overheid verbiedt tijdens de NAVO-top het gebruik van drones in Den Haag en andere steden. Zo geldt er onder meer van 18 tot en met 25 juni een compleet droneverbod in een straal van 16 kilometer rondom Den Haag.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Economie en maatschappij</category>
-            <comments>https://tweakers.net/nieuws/235992/nederland-verbiedt-bijna-alle-drones-in-den-haag-van-18-tot-25-juni-om-navo-top.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235992</guid>
-            <pubDate>Tue, 10 Jun 2025 14:42:54 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - AIMP 5.40 build 2682</title>
-            <link>https://tweakers.net/downloads/72952/aimp-540-build-2682.html</link>
-            <description>Er is een nieuwe versie van AIMP uitgekomen. Deze gratis, lichtgewicht mediaspeler van Russische makelij heeft ondersteuning voor de populairste muziekformaten. Het uiterlijk heeft wat weg van het bekende Winamp en is door middel van skins aan te passen. AIMP heeft een 18-kanaalsequalizer aan boord en ondersteunt plug-ins. Verder kan het programma cd&#039;s rippen, muziekbestanden converteren en tags bewerken. Hieronder is de changelog voor deze uitgave te vinden. New:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72952/aimp-540-build-2682.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72952</guid>
-            <pubDate>Tue, 10 Jun 2025 14:19:29 +0200</pubDate>
-        </item>
-        <item>
-            <title>VK onderzoekt of 4chan gebruikers voldoende beschermt tegen illegale content</title>
-            <link>https://tweakers.net/nieuws/235986/vk-onderzoekt-of-4chan-gebruikers-voldoende-beschermt-tegen-illegale-content.html</link>
-            <description>De Britse telecomtoezichthouder Ofcom is een onderzoek begonnen naar negen online platforms, waaronder het internetforum 4chan. Ofcom wil weten of het platform Britse gebruikers voldoende beschermt tegen illegale content.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/235986/vk-onderzoekt-of-4chan-gebruikers-voldoende-beschermt-tegen-illegale-content.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235986</guid>
-            <pubDate>Tue, 10 Jun 2025 14:04:03 +0200</pubDate>
         </item>
     </channel>
 </rss>
