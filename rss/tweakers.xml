@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 11 Jun 2025 13:31:04 +0200</pubDate>
-        <lastBuildDate>Wed, 11 Jun 2025 13:31:04 +0200</lastBuildDate>
+        <pubDate>Wed, 11 Jun 2025 14:41:01 +0200</pubDate>
+        <lastBuildDate>Wed, 11 Jun 2025 14:41:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,6 +18,46 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
+            <title>Nvidia en Perplexity gaan met Europese bedrijven aan lokale AI-modellen werken</title>
+            <link>https://tweakers.net/nieuws/236054/nvidia-en-perplexity-gaan-met-europese-bedrijven-aan-lokale-ai-modellen-werken.html</link>
+            <description>Nvidia en AI-bedrijf Perplexity gaan met zeker tien AI-bedrijven in Europa en het Midden-Oosten samenwerken om hun AI-technologieën te verfijnen. Zo gaat Nvidia met organisaties in Frankrijk, Duitsland, Italië, Polen, Spanje en Zweden werken aan AI-modellen in lokale talen.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/236054/nvidia-en-perplexity-gaan-met-europese-bedrijven-aan-lokale-ai-modellen-werken.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236054</guid>
+            <pubDate>Wed, 11 Jun 2025 14:36:32 +0200</pubDate>
+        </item>
+        <item>
+            <title>Politie identificeert 126 Nederlandse gebruikers op Cracked.io</title>
+            <link>https://tweakers.net/nieuws/236050/politie-identificeert-126-nederlandse-gebruikers-op-cracked-punt-io.html</link>
+            <description>Team Cybercrime van Zeeland-West-Brabant heeft 126 Nederlandse gebruikers van het cybercrimeplatform Cracked.io geïdentificeerd. De politie heeft per gebruiker strafbare feiten in kaart gebracht. Sommigen zijn eerder veroordeeld of komen voor in lopende onderzoeken.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/236050/politie-identificeert-126-nederlandse-gebruikers-op-cracked-punt-io.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236050</guid>
+            <pubDate>Wed, 11 Jun 2025 14:25:42 +0200</pubDate>
+        </item>
+        <item>
+            <title>Days Gone-studio Bend bevestigt ontslagronde, mogelijk 30 procent van personeel</title>
+            <link>https://tweakers.net/nieuws/236048/days-gone-studio-bend-bevestigt-ontslagronde-mogelijk-30-procent-van-personeel.html</link>
+            <description>Sony-ontwikkelaar Bend Studio bevestigt dat er een ontslagronde heeft plaatsgevonden bij het bedrijf. De ontwikkelaar is recent bekend van Days Gone. Het bedrijf deelt niet hoeveel mensen er moeten vertrekken. Bloomberg zegt dat het om dertig procent van het personeel gaat.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/236048/days-gone-studio-bend-bevestigt-ontslagronde-mogelijk-30-procent-van-personeel.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236048</guid>
+            <pubDate>Wed, 11 Jun 2025 14:08:47 +0200</pubDate>
+        </item>
+        <item>
+            <title>Vivo teaset vouwbare Android-telefoon die compatibel is met Apple Watch</title>
+            <link>https://tweakers.net/nieuws/236052/vivo-teaset-vouwbare-android-telefoon-die-compatibel-is-met-apple-watch.html</link>
+            <description>De Chinese smartphonemaker vivo heeft de eerste details bekendgemaakt over zijn aankomende vouwbare telefoon, de X Fold 5. Volgens productmanager Han Boxiao zal deze Android-telefoon compatibel zijn met de Apple Watch.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/236052/vivo-teaset-vouwbare-android-telefoon-die-compatibel-is-met-apple-watch.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236052</guid>
+            <pubDate>Wed, 11 Jun 2025 13:49:30 +0200</pubDate>
+        </item>
+        <item>
             <title>Software-update - Audacity 3.7.4</title>
             <link>https://tweakers.net/downloads/72956/audacity-374.html</link>
             <description>Versie 3.7.4 van Audacity is uitgekomen. Deze opensource audio-editor, die beschikbaar is voor Windows, Linux en macOS, kan geluid opnemen en wav-, aiff-, ogg- en mp3-bestanden importeren en exporteren. Het programma heeft een ongelimiteerde undofunctie en heeft daarnaast een grote verzameling effecten aan boord, zoals fade-in en fade-out, echo, tempowijziging en ruisonderdrukking. Meer effecten kunnen eenvoudig worden toegevoegd, want het programma ondersteunt onder meer Nyquist-, vst- en ladspa-plug-ins. In deze uitgave zijn de volgende verbeteringen aangebracht: Audacity 3.7.4</description>
@@ -30,7 +70,7 @@
         <item>
             <title>SWAT-achtige shooter Ready or Not komt op 15 juli naar consoles</title>
             <link>https://tweakers.net/nieuws/236044/swat-achtige-shooter-ready-or-not-komt-op-15-juli-naar-consoles.html</link>
-            <description>De firstpersonshooter Ready or Not komt op 15 juli naar consoles toe. De game verscheen eind 2023 al op Steam en volgt een swatteam in de fictieve stad Los Sueños. Het spel wordt vanaf vijftig euro te koop en is al te reserveren.</description>
+            <description>De firstpersonshooter Ready or Not komt op 15 juli naar consoles. De game verscheen eind 2023 al op Steam en volgt een swatteam in de fictieve stad Los Sueños. Het spel kost vijftig euro en is al te reserveren.</description>
             <author>Eveline Meijer</author>
             <category>Nieuws / Gaming / Games</category>
             <comments>https://tweakers.net/nieuws/236044/swat-achtige-shooter-ready-or-not-komt-op-15-juli-naar-consoles.html#reacties</comments>
@@ -228,9 +268,9 @@
             <pubDate>Tue, 10 Jun 2025 21:48:00 +0200</pubDate>
         </item>
         <item>
-            <title>Threads krijgt eigen DM&#039;s los van Instagram</title>
+            <title>Threads krijgt eigen dm&#039;s los van Instagram</title>
             <link>https://tweakers.net/nieuws/236022/threads-krijgt-eigen-dms-los-van-instagram.html</link>
-            <description>Threads krijgt eigen DM&#039;s in een inbox, los van Instagram. Het platform is daar nu mee aan het testen, zo zegt Meta-topman Mark Zuckerberg. Tot nu toe zaten de DM&#039;s van Threads vast aan die van Instagram.</description>
+            <description>Threads krijgt eigen dm&#039;s in een inbox, los van Instagram. Het platform is daar nu mee aan het testen, zo zegt Meta-topman Mark Zuckerberg. Tot nu toe zaten de dm&#039;s van Threads vast aan die van Instagram.</description>
             <author>Arnoud Wokke</author>
             <category>Nieuws / Tablets en telefoons / Smartphones</category>
             <comments>https://tweakers.net/nieuws/236022/threads-krijgt-eigen-dms-los-van-instagram.html#reacties</comments>
@@ -268,9 +308,9 @@
             <pubDate>Tue, 10 Jun 2025 20:25:44 +0200</pubDate>
         </item>
         <item>
-            <title>Leaker toont foto Nothing Phone (3) zonder zichtbare leds aan de achterkant</title>
+            <title>Leaker toont foto Nothing Phone 3 zonder zichtbare leds aan de achterkant</title>
             <link>https://tweakers.net/nieuws/236016/leaker-toont-foto-nothing-phone-3-zonder-zichtbare-leds-aan-de-achterkant.html</link>
-            <description>Een leaker heeft een afbeelding online gezet van wat de Nothing Phone (3) zou zijn. De fabrikant zou voor de derde generatie van zijn duurste telefoon het idee van zijn Glyph-interface met leds aan de achterkant laten varen.</description>
+            <description>Een leaker heeft een afbeelding online gezet van wat de Nothing Phone 3 zou zijn. De fabrikant zou voor de derde generatie van zijn duurste telefoon het idee van zijn Glyph-interface met leds aan de achterkant laten varen.</description>
             <author>Arnoud Wokke</author>
             <category>Nieuws / Tablets en telefoons / Smartphones</category>
             <comments>https://tweakers.net/nieuws/236016/leaker-toont-foto-nothing-phone-3-zonder-zichtbare-leds-aan-de-achterkant.html#reacties</comments>
@@ -348,12 +388,12 @@
             <pubDate>Tue, 10 Jun 2025 17:12:30 +0200</pubDate>
         </item>
         <item>
-            <title>Nintendo kondigt Splatoon-spinoff Raiders aan voor Switch 2</title>
-            <link>https://tweakers.net/nieuws/236008/nintendo-kondigt-splatoon-spinoff-raiders-aan-voor-switch-2.html</link>
-            <description>Nintendo kondigt de Splatoon-spinoff Raiders aan. De game komt exclusief voor de Switch 2 uit. Er is nog geen prijs of releasedatum bekendgemaakt. Verder brengt Nintendo op 12 juni een gratis contentupdate voor Splatoon 3 aan met nieuwe wapens en cosmetics.</description>
+            <title>Nintendo kondigt Splatoon-spin-off Raiders aan voor Switch 2</title>
+            <link>https://tweakers.net/nieuws/236008/nintendo-kondigt-splatoon-spin-off-raiders-aan-voor-switch-2.html</link>
+            <description>Nintendo kondigt de Splatoon-spin-off Raiders aan. De game komt exclusief voor de Switch 2 uit. Er is nog geen prijs of releasedatum bekendgemaakt. Verder brengt Nintendo op 12 juni een gratis contentupdate voor Splatoon 3 aan met nieuwe wapens en cosmetics.</description>
             <author>Yannick Spinner</author>
             <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/236008/nintendo-kondigt-splatoon-spinoff-raiders-aan-voor-switch-2.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/236008/nintendo-kondigt-splatoon-spin-off-raiders-aan-voor-switch-2.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236008</guid>
             <pubDate>Tue, 10 Jun 2025 17:07:52 +0200</pubDate>
         </item>
@@ -376,46 +416,6 @@
             <comments>https://tweakers.net/nieuws/236004/macos-26-tahoe-is-laatste-versie-voor-apple-macs-met-intel-processor.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236004</guid>
             <pubDate>Tue, 10 Jun 2025 16:20:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Kdenlive 25.04.2</title>
-            <link>https://tweakers.net/downloads/72954/kdenlive-25042.html</link>
-            <description>Versie 25.04.2 van Kdenlive is uitgekomen. Kdenlive, een afkorting voor KDE Non-Linear Video Editor, is een geavanceerd, niet-lineair videobewerkingsprogramma en wordt voornamelijk ontworpen voor Linux, maar er zijn ook downloads voor Windows en macOS. Het maakt gebruik van diverse andere opensourceprojecten, zoals FFmpeg en het MLT-videoframework. In deze uitgave treffen we de volgende veranderingen en verbeteringen aan: Changes in version 25.04.2</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72954/kdenlive-25042.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72954</guid>
-            <pubDate>Tue, 10 Jun 2025 16:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Warner Bros. Discovery splitst zich op in twee bedrijven</title>
-            <link>https://tweakers.net/nieuws/235994/warner-bros-discovery-splitst-zich-op-in-twee-bedrijven.html</link>
-            <description>Het mediabedrijf Warner Bros. Discovery splitst zich op in twee losse bedrijven: Streaming &amp; Studios en Global Networks. Het laatstgenoemde bedrijf houdt wel twintig procent van de aandelen voor de streamingpartij. De opsplitsing moet halverwege 2026 afgerond worden.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/235994/warner-bros-discovery-splitst-zich-op-in-twee-bedrijven.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235994</guid>
-            <pubDate>Tue, 10 Jun 2025 15:47:12 +0200</pubDate>
-        </item>
-        <item>
-            <title>Franse Mistral brengt AI-model uit dat in Europese talen kan redeneren</title>
-            <link>https://tweakers.net/nieuws/235996/franse-mistral-brengt-ai-model-uit-dat-in-europese-talen-kan-redeneren.html</link>
-            <description>Het Franse Mistral AI is van plan om zijn eerste redeneermodel uit te brengen. Volgens het bedrijf is dit model gespecialiseerd in het redeneren in Europese talen.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/235996/franse-mistral-brengt-ai-model-uit-dat-in-europese-talen-kan-redeneren.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235996</guid>
-            <pubDate>Tue, 10 Jun 2025 14:59:32 +0200</pubDate>
-        </item>
-        <item>
-            <title>Deens ministerie van Digitalisering wil Microsoft inwisselen voor Linux</title>
-            <link>https://tweakers.net/nieuws/235990/deens-ministerie-van-digitalisering-wil-microsoft-inwisselen-voor-linux.html</link>
-            <description>Het Deense ministerie van Digitalisering gaat het eigen gebruik van Microsoft uitfaseren. Het ministerie wil voor het eind van de herfst overstappen op Linux en LibreOffice gebruiken in plaats van Office 365.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/235990/deens-ministerie-van-digitalisering-wil-microsoft-inwisselen-voor-linux.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235990</guid>
-            <pubDate>Tue, 10 Jun 2025 14:54:02 +0200</pubDate>
         </item>
     </channel>
 </rss>
