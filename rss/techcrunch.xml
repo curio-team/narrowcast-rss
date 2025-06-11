@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 11 Jun 2025 12:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 11 Jun 2025 13:04:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Uptime Industries wants to boost localized AI usage with an &#8216;AI-in-a-box&#8217; called Lemony AI</title>
+		<link>https://techcrunch.com/2025/06/11/uptime-industries-wants-to-boost-localized-ai-usage-with-an-ai-in-a-box-called-lemony-ai/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Wed, 11 Jun 2025 13:03:58 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[AI hardware]]></category>
+		<category><![CDATA[ai infrastructure]]></category>
+		<category><![CDATA[Startups]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3017623</guid>
+
+					<description><![CDATA[The Lemony AI device can run large language models, AI agents and automated workflows locally.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Standard Nuclear emerges from the ashes of a failed startup</title>
 		<link>https://techcrunch.com/2025/06/11/standard-nuclear-emerges-from-the-ashes-of-a-failed-startup/</link>
 		
@@ -360,22 +379,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3017198</guid>
 
 					<description><![CDATA[Mark Zuckerberg said today that Meta's social network Threads is finally testing a separate DM inbox that is separate from your Instagram DM Inbox.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple&#8217;s upgraded AI models underwhelm on performance</title>
-		<link>https://techcrunch.com/2025/06/10/apples-upgraded-ai-models-underwhelm-on-performance/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 10 Jun 2025 15:59:44 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Apple Intelligence]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3017241</guid>
-
-					<description><![CDATA[Apple has announced updates to the AI models that power its suite of Apple Intelligence features across iOS, macOS, and more. But according to the company's own benchmarks, the models underperform older models from rival tech firms including OpenAI. ]]></description>
 		
 		
 		
