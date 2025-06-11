@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 10 Jun 2025 16:31:01 +0200</pubDate>
-        <lastBuildDate>Tue, 10 Jun 2025 16:31:01 +0200</lastBuildDate>
+        <pubDate>Wed, 11 Jun 2025 09:31:04 +0200</pubDate>
+        <lastBuildDate>Wed, 11 Jun 2025 09:31:04 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,246 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - 1Password 8.10.80</title>
+            <link>https://tweakers.net/downloads/72962/1password-81080.html</link>
+            <description>Voor de veiligheid is het beter om voor ieder account een ander en sterk wachtwoord te gebruiken. Als een bepaalde dienst wachtwoorden laat uitlekken, zijn niet al je andere accounts met hetzelfde wachtwoord toegankelijk. Voor het bijhouden van al deze verschillende wachtwoorden zijn wachtwoordmanagers een uitkomst. 1Password is er hier een van en is beschikbaar als webapplicatie, als app op verschillende platforms en als extensie voor de meestgebruikte browsers. Het kan twee weken geprobeerd worden, waarna een licentie moet worden aangeschaft. Voor meer informatie over de mogelijkheden verwijzen we naar deze pagina. In versie 8.10.80 zijn de volgende verbeteringen en bugfixes doorgevoerd. 1Password for Windows 8.10.80</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72962/1password-81080.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72962</guid>
+            <pubDate>Wed, 11 Jun 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Quicktest - HP Omnibook 7 Aero - Ultralichte reispartner met compromissen</title>
+            <link>https://tweakers.net/reviews/13326/hp-omnibook-7-aero-ultralichte-reispartner-met-compromissen.html</link>
+            <description>HP maakt ontzettend lichte laptops in de Aero-lijn. Weet deze fijne reisgenoot te overtuigen, of moet je veel inleveren?</description>
+            <author>Dennis de Vries</author>
+            <category>Quicktest / Computers / Laptops</category>
+            <comments>https://tweakers.net/reviews/13326/hp-omnibook-7-aero-ultralichte-reispartner-met-compromissen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13326</guid>
+            <pubDate>Wed, 11 Jun 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nintendo meldt record: Switch 2 ruim 3,5 miljoen keer verkocht in vier dagen</title>
+            <link>https://tweakers.net/nieuws/236030/nintendo-meldt-record-switch-2-ruim-3-komma-5-miljoen-keer-verkocht-in-vier-dagen.html</link>
+            <description>Nintendo heeft in de eerste vier dagen na de release ruim 3,5 miljoen exemplaren van de Switch 2 verkocht. Het bedrijf sprak eerder de verwachting uit dat de Switch 2 in het eerste jaar 15 miljoen keer verkocht zal worden.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / Gaming / Consoles</category>
+            <comments>https://tweakers.net/nieuws/236030/nintendo-meldt-record-switch-2-ruim-3-komma-5-miljoen-keer-verkocht-in-vier-dagen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236030</guid>
+            <pubDate>Wed, 11 Jun 2025 08:52:46 +0200</pubDate>
+        </item>
+        <item>
+            <title>OpenAI stelt komst openweight taalmodel uit tot later deze zomer</title>
+            <link>https://tweakers.net/nieuws/236028/openai-stelt-komst-openweight-taalmodel-uit-tot-later-deze-zomer.html</link>
+            <description>De release van het volgende open taalmodel van OpenAI wordt uitgesteld. Het taalmodel zou deze maand verschijnen, maar wordt nu later deze zomer uitgebracht, zegt ceo Sam Altman. Wanneer de release precies plaatsvindt, is nog niet bekend.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/236028/openai-stelt-komst-openweight-taalmodel-uit-tot-later-deze-zomer.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236028</guid>
+            <pubDate>Wed, 11 Jun 2025 08:30:22 +0200</pubDate>
+        </item>
+        <item>
+            <title>VanMoof presenteert S6-serie, eerste nieuwe e-bikes sinds doorstart in 2023</title>
+            <link>https://tweakers.net/nieuws/236026/vanmoof-presenteert-s6-serie-eerste-nieuwe-e-bikes-sinds-doorstart-in-2023.html</link>
+            <description>VanMoof heeft een nieuwe serie e-bikes aangekondigd: de S6 serie. Het zijn de eerste nieuwe fietsen van het merk sinds het in 2023 door McLaren Applied werd overgenomen. De serie bestaat uit de S6 en S6 Open.</description>
+            <author>Eveline Meijer</author>
+            <category>Nieuws / Beeld en geluid / Gadgets</category>
+            <comments>https://tweakers.net/nieuws/236026/vanmoof-presenteert-s6-serie-eerste-nieuwe-e-bikes-sinds-doorstart-in-2023.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236026</guid>
+            <pubDate>Wed, 11 Jun 2025 08:02:55 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - XnView MP 1.9.2</title>
+            <link>https://tweakers.net/downloads/72960/xnview-mp-192.html</link>
+            <description>Versie 1.9.2 van XnView MP is uitgekomen. Met dit programma kunnen afbeeldingen worden bekeken en bewerkt. Het is gratis voor persoonlijk gebruik; voor gebruik in een commerciële omgeving wordt wel een vergoeding gevraagd. MP staat voor Multi Platform, wat betekent dat er versies zijn voor Windows, Linux en macOS, met elk aparte downloads voor 32bit- en 64bit-omgevingen. XnView MP gebruikt dezelfde broncode voor Windows, Linux en macOS; functionaliteit en uiterlijk van de afzonderlijke versies zijn dan ook nagenoeg gelijk. Zo is er onder andere ondersteuning voor unicode, afbeeldingen met full bit depth, een eenvoudigere manier voor vertalingen en een betere database. In deze uitgave zijn de volgende verbeteringen aangebracht: New:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72960/xnview-mp-192.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72960</guid>
+            <pubDate>Wed, 11 Jun 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Videoreport - Waar blijven de waterstofauto’s?</title>
+            <link>https://tweakers.net/video/19948/waar-blijven-de-waterstofautos.html</link>
+            <description>De waterstofauto leek lange tijd de ideale opvolger van auto’s op fossiele brandstoffen. Immers: geen schadelijke uitstoot, elektrisch en duurzaam. Toch lijkt dit concept op zijn retour. De verkopen groeien niet meer en de laatste tijd neemt het aantal auto’s zelfs af, terwijl elektrische auto’s ondanks wat stagnatie hard doorgroeien. Hoe dat kan bespreken we in deze video. Ook duiken we nog even in de techniek.</description>
+            <author>Jeroen Horlings</author>
+            <category>Videoreport / IT Pro / Wetenschap</category>
+            <comments>https://tweakers.net/video/19948/waar-blijven-de-waterstofautos.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/video/19948</guid>
+            <pubDate>Wed, 11 Jun 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Achtergrond - Waterstofauto’s waren ooit de toekomst: waarom kozen we toch voor stekkers?</title>
+            <link>https://tweakers.net/reviews/13052/waterstofautos-waren-ooit-de-toekomst-waarom-kozen-we-toch-voor-stekkers.html</link>
+            <description>Er rijden al twaalf jaar waterstofauto’s rond, maar het marktaandeel blijft 0,0 procent. Het aantal neemt zelfs af in plaats van toe. Hoe komt dat?</description>
+            <author>Jeroen Horlings</author>
+            <category>Achtergrond / IT Pro / Wetenschap</category>
+            <comments>https://tweakers.net/reviews/13052/waterstofautos-waren-ooit-de-toekomst-waarom-kozen-we-toch-voor-stekkers.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13052</guid>
+            <pubDate>Wed, 11 Jun 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Mozilla Firefox 139.0.4</title>
+            <link>https://tweakers.net/downloads/72950/mozilla-firefox-13904.html</link>
+            <description>Mozilla heeft een tweede update versie 139 van zijn webbrowser Firefox uitgebracht. In deze uitgave is het onder meer mogelijk om de nieuwe tabpagina van een eigen achtergrond of kleur te voorzien, kan er een preview van een link worden getoond wanneer er op Alt+Shift wordt gedrukt en kan de volledige pagina op Mozilla&#039;s extensiepagina worden vertaald in een taal naar keuze. Sinds versie 139.0 zijn de volgende verbeteringen aangebracht: Mozilla Firefox 139.0.4</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72950/mozilla-firefox-13904.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72950</guid>
+            <pubDate>Tue, 10 Jun 2025 22:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Apple TV krijgt passthrough voor audio</title>
+            <link>https://tweakers.net/nieuws/236024/apple-tv-krijgt-passthrough-voor-audio.html</link>
+            <description>De Apple TV krijgt met de upgrade naar tvOS 26 ondersteuning om audio ongecomprimeerd door te sturen. Passthrough maakt het mogelijk om betere audio te krijgen dan nu met de settopbox mogelijk is.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Beeld en geluid / Mediaspelers</category>
+            <comments>https://tweakers.net/nieuws/236024/apple-tv-krijgt-passthrough-voor-audio.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236024</guid>
+            <pubDate>Tue, 10 Jun 2025 21:48:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Threads krijgt eigen DM&#039;s los van Instagram</title>
+            <link>https://tweakers.net/nieuws/236022/threads-krijgt-eigen-dms-los-van-instagram.html</link>
+            <description>Threads krijgt eigen DM&#039;s in een inbox, los van Instagram. Het platform is daar nu mee aan het testen, zo zegt Meta-topman Mark Zuckerberg. Tot nu toe zaten de DM&#039;s van Threads vast aan die van Instagram.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/236022/threads-krijgt-eigen-dms-los-van-instagram.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236022</guid>
+            <pubDate>Tue, 10 Jun 2025 21:11:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>JBL introduceert nieuwe soundbars met meer vermogen</title>
+            <link>https://tweakers.net/nieuws/236018/jbl-introduceert-nieuwe-soundbars-met-meer-vermogen.html</link>
+            <description>JBL heeft de tweede generatie van zijn serie soundbars geïntroduceerd. De duurste versie, de Bar 1300MK2, heeft een maximaal vermogen van 2470W, veel hoger dan de 1150W van zijn voorganger Bar 1300. Ook de andere modellen hebben een hoger vermogen.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Beeld en geluid / Soundbars</category>
+            <comments>https://tweakers.net/nieuws/236018/jbl-introduceert-nieuwe-soundbars-met-meer-vermogen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236018</guid>
+            <pubDate>Tue, 10 Jun 2025 20:54:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - FreeBSD 14.3</title>
+            <link>https://tweakers.net/downloads/72930/freebsd-143.html</link>
+            <description>De leden van het FreeBSD Release Engineering Team hebben versie 14.3 van FreeBSD uitgebracht. FreeBSD is in 1993 ontstaan en wordt als één geheel ontwikkeld, in tegenstelling tot bijvoorbeeld Linux, waarvan de kernel door de ene groep ontwikkelaars wordt onderhouden en bepaalde applicaties weer door anderen. Hierdoor wordt FreeBSD over het algemeen als stabieler en robuuster beschouwd dan diverse andere besturingssystemen. Uitgebreide releasenotes kunnen op deze pagina worden gevonden. Dit zijn in het kort de belangrijkste veranderingen: FreeBSD 14.3-RELEASE Announcement</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72930/freebsd-143.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72930</guid>
+            <pubDate>Tue, 10 Jun 2025 20:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google brengt Android 16 uit</title>
+            <link>https://tweakers.net/nieuws/235998/google-brengt-android-16-uit.html</link>
+            <description>Google heeft dinsdagavond Android 16 uitgebracht. De nieuwe versie van het besturingssysteem komt eerst alleen uit voor Pixel-telefoons. Wanneer upgrades volgen voor smartphones van andere fabrikanten, is onbekend.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/235998/google-brengt-android-16-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/235998</guid>
+            <pubDate>Tue, 10 Jun 2025 20:25:44 +0200</pubDate>
+        </item>
+        <item>
+            <title>Leaker toont foto Nothing Phone (3) zonder zichtbare leds aan de achterkant</title>
+            <link>https://tweakers.net/nieuws/236016/leaker-toont-foto-nothing-phone-3-zonder-zichtbare-leds-aan-de-achterkant.html</link>
+            <description>Een leaker heeft een afbeelding online gezet van wat de Nothing Phone (3) zou zijn. De fabrikant zou voor de derde generatie van zijn duurste telefoon het idee van zijn Glyph-interface met leds aan de achterkant laten varen.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/236016/leaker-toont-foto-nothing-phone-3-zonder-zichtbare-leds-aan-de-achterkant.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236016</guid>
+            <pubDate>Tue, 10 Jun 2025 20:12:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>NPO-app komt uit voor Titan OS van Philips-televisies</title>
+            <link>https://tweakers.net/nieuws/236020/npo-app-komt-uit-voor-titan-os-van-philips-televisies.html</link>
+            <description>De NPO Start-app komt uit voor Titan OS, het besturingssysteem dat draait op Philips-televisies van TP Vision. De app was tot nu toe nog niet beschikbaar op dat platform, dat in Europa op vijf miljoen televisies staat.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Beeld en geluid / Televisies</category>
+            <comments>https://tweakers.net/nieuws/236020/npo-app-komt-uit-voor-titan-os-van-philips-televisies.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236020</guid>
+            <pubDate>Tue, 10 Jun 2025 19:35:57 +0200</pubDate>
+        </item>
+        <item>
+            <title>Snapchat brengt slimme bril Specs volgend jaar uit</title>
+            <link>https://tweakers.net/nieuws/236000/snapchat-brengt-slimme-bril-specs-volgend-jaar-uit.html</link>
+            <description>Snapchat brengt zijn eerste slimme bril in de Specs-serie voor het grote publiek volgend jaar uit. Afgelopen jaren kwamen de brillen van Snap alleen uit voor ontwikkelaars, maar volgens het bedrijf is de tijd nu rijp voor een publieke release.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Gaming / VR-brillen</category>
+            <comments>https://tweakers.net/nieuws/236000/snapchat-brengt-slimme-bril-specs-volgend-jaar-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236000</guid>
+            <pubDate>Tue, 10 Jun 2025 19:10:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - WinRAR 7.12 bèta 1</title>
+            <link>https://tweakers.net/downloads/72958/winrar-712-beta-1.html</link>
+            <description>RAR Labs heeft de eerste bètarelease van versie 7.12 van zijn archiveringsprogramma&#039;s RAR en WinRAR uitgebracht. Deze populaire compressietools zijn beschikbaar voor diverse besturingssystemen, waaronder Windows, Linux en macOS. De programma&#039;s kunnen overweg met de gangbaarste formaten - waaronder rar, zip, cab, arj, lzh, tar, gz, uue, bz2, jar, iso, 7z en z -, hebben een skinnable interface en ondersteuning voor Zip64- en multivolume cabbestanden. In versie 7.12 zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version WinRAR 7.12 bèta 1:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72958/winrar-712-beta-1.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72958</guid>
+            <pubDate>Tue, 10 Jun 2025 19:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Windows-bètatesters kunnen nieuwe startmenu uitproberen</title>
+            <link>https://tweakers.net/nieuws/236006/windows-betatesters-kunnen-nieuwe-startmenu-uitproberen.html</link>
+            <description>Bètatesters van nieuwe versies van Windows kunnen vanaf deze week het nieuwe startmenu uitproberen, zo heeft Microsoft bekendgemaakt. Dat gebeurt in Preview Build 26200.5641 (KB5060824) .</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Computers / Besturingssystemen</category>
+            <comments>https://tweakers.net/nieuws/236006/windows-betatesters-kunnen-nieuwe-startmenu-uitproberen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236006</guid>
+            <pubDate>Tue, 10 Jun 2025 18:47:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Samsung plaatst eerste beelden van &#039;dunste vouwbare smartphone tot nu toe&#039;</title>
+            <link>https://tweakers.net/nieuws/236012/samsung-plaatst-eerste-beelden-van-dunste-vouwbare-smartphone-tot-nu-toe.html</link>
+            <description>Samsung heeft een teaser geplaatst van de Galaxy Z Fold7, dat volgens de fabrikant de &#039;dunste vouwbare smartphone tot nu toe&#039; is. De vouwbare telefoons van de Zuid-Koreaanse fabrikant waren tot nu toe dikker dan die van veel concurrenten.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/236012/samsung-plaatst-eerste-beelden-van-dunste-vouwbare-smartphone-tot-nu-toe.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236012</guid>
+            <pubDate>Tue, 10 Jun 2025 18:11:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;OpenAI sluit deal met Alphabet voor gebruik Google Cloud&#039;</title>
+            <link>https://tweakers.net/nieuws/236014/openai-sluit-deal-met-alphabet-voor-gebruik-google-cloud.html</link>
+            <description>OpenAI wil volgens Reuters een deal sluiten met Googles moederbedrijf, Alphabet, om clouddiensten van het bedrijf af te nemen. Volgens een van de bronnen van het persbureau is de overeenkomst in mei al gesloten na maandenlange onderhandelingen.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/236014/openai-sluit-deal-met-alphabet-voor-gebruik-google-cloud.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236014</guid>
+            <pubDate>Tue, 10 Jun 2025 17:54:40 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Eigenaar servers Telegram werkt met ander bedrijf voor Russische FSB-dienst&#039;</title>
+            <link>https://tweakers.net/nieuws/236010/eigenaar-servers-telegram-werkt-met-ander-bedrijf-voor-russische-fsb-dienst.html</link>
+            <description>Telegram laat tienduizend van zijn servers beheren door een bedrijf van een man die banden heeft met Russische inlichtingendienst FSB. Daarmee is er voor het eerst een link tussen de chatdienst en de Russische overheid.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/236010/eigenaar-servers-telegram-werkt-met-ander-bedrijf-voor-russische-fsb-dienst.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236010</guid>
+            <pubDate>Tue, 10 Jun 2025 17:12:30 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nintendo kondigt Splatoon-spinoff Raiders aan voor Switch 2</title>
+            <link>https://tweakers.net/nieuws/236008/nintendo-kondigt-splatoon-spinoff-raiders-aan-voor-switch-2.html</link>
+            <description>Nintendo kondigt de Splatoon-spinoff Raiders aan. De game komt exclusief voor de Switch 2 uit. Er is nog geen prijs of releasedatum bekendgemaakt. Verder brengt Nintendo op 12 juni een gratis contentupdate voor Splatoon 3 aan met nieuwe wapens en cosmetics.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/236008/nintendo-kondigt-splatoon-spinoff-raiders-aan-voor-switch-2.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236008</guid>
+            <pubDate>Tue, 10 Jun 2025 17:07:52 +0200</pubDate>
+        </item>
+        <item>
+            <title>Ayaneo onthult Flip 1S DS-handheld met twee schermen en Strix Point-apu</title>
+            <link>https://tweakers.net/nieuws/236002/ayaneo-onthult-flip-1s-ds-handheld-met-twee-schermen-en-strix-point-apu.html</link>
+            <description>Ayaneo heeft zijn Flip 1S DS-handheld onthuld. De draagbare game-pc is een doorontwikkeling van de originele Flip DS, die in mei 2024 uitkwam. Het is nog niet bekend wanneer de handheld uitkomt en hoeveel hij moet kosten.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / Gaming / Consoles</category>
+            <comments>https://tweakers.net/nieuws/236002/ayaneo-onthult-flip-1s-ds-handheld-met-twee-schermen-en-strix-point-apu.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236002</guid>
+            <pubDate>Tue, 10 Jun 2025 16:51:10 +0200</pubDate>
+        </item>
         <item>
             <title>MacOS 26 Tahoe is laatste versie voor Apple Macs met Intel-processor</title>
             <link>https://tweakers.net/nieuws/236004/macos-26-tahoe-is-laatste-versie-voor-apple-macs-met-intel-processor.html</link>
@@ -176,246 +416,6 @@
             <comments>https://tweakers.net/plan/4422/rabobank-wil-duurzaamheid-structureel-integreren-in-it-processen.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/plan/4422</guid>
             <pubDate>Tue, 10 Jun 2025 08:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Quicktest - Aqara Panel Hub S1 Plus - Van potentieel naar teleurstelling</title>
-            <link>https://tweakers.net/reviews/13340/aqara-panel-hub-s1-plus-van-potentieel-naar-teleurstelling.html</link>
-            <description>In deze quicktest bekijken we de Aqara Panel Hub S1 Plus, een wandpaneel met heel mooie specificaties. Een must voor elke smarthomeliefhebber, of toch niet?</description>
-            <author>Olaf Weijers</author>
-            <category>Quicktest / Beeld en geluid / Smarthome accessoires</category>
-            <comments>https://tweakers.net/reviews/13340/aqara-panel-hub-s1-plus-van-potentieel-naar-teleurstelling.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13340</guid>
-            <pubDate>Tue, 10 Jun 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Video - Nieuw softwaredesign voor iPhones, iPads en Macs - Tweakers Update WWDC 2025</title>
-            <link>https://tweakers.net/video/19944/nieuw-softwaredesign-voor-iphones-ipads-en-macs-tweakers-update-wwdc-2025.html</link>
-            <description>iPhones gaan er anders uitzien, iPads gaan meer werken als gewone computers, Macs kunnen meer doen met Spotlight en de Apple Watch kan je gaan besturen met polsbewegingen. Apple had veel te vertellen tijdens zijn eigen ontwikkelaarsconferentie WWDC, waar het onder meer iOS 26, iPadOS 26, watchOS 26 en macOS 26 Tahoe aankondigde.</description>
-            <author>Luke van Drie</author>
-            <category>Video / Computers / Software</category>
-            <comments>https://tweakers.net/video/19944/nieuw-softwaredesign-voor-iphones-ipads-en-macs-tweakers-update-wwdc-2025.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/video/19944</guid>
-            <pubDate>Mon, 09 Jun 2025 23:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Sony VR-controllers gaan werken op Apple Vision Pro-headset</title>
-            <link>https://tweakers.net/nieuws/235968/sony-vr-controllers-gaan-werken-op-apple-vision-pro-headset.html</link>
-            <description>Apple heeft visionOS 26 aangekondigd. Daarmee krijgt de Vision Pro-headset ondersteuning voor input van apparaten van andere bedrijven. Onder meer een stylus van Logitech en de Sony Sense-controllers van de PlayStation VR2 gaan werken met het apparaat.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Gaming / VR-brillen</category>
-            <comments>https://tweakers.net/nieuws/235968/sony-vr-controllers-gaan-werken-op-apple-vision-pro-headset.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235968</guid>
-            <pubDate>Mon, 09 Jun 2025 20:48:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Apple geeft iPads menubalk en nieuwe manier van multitasking</title>
-            <link>https://tweakers.net/nieuws/235972/apple-geeft-ipads-menubalk-en-nieuwe-manier-van-multitasking.html</link>
-            <description>Apple heeft iPadOS 26 aangekondigd. Daarin zit onder meer een menubalk voor apps, een nieuwe manier om apps in vensters te zetten, een Bestanden-app met meer details en Preview om pdf&#039;s te tekenen met een Apple Pencil.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Tablets en telefoons / Tablets</category>
-            <comments>https://tweakers.net/nieuws/235972/apple-geeft-ipads-menubalk-en-nieuwe-manier-van-multitasking.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235972</guid>
-            <pubDate>Mon, 09 Jun 2025 20:38:52 +0200</pubDate>
-        </item>
-        <item>
-            <title>Spotlight op macOS krijgt veel meer functies en sneltoetsen</title>
-            <link>https://tweakers.net/nieuws/235962/spotlight-op-macos-krijgt-veel-meer-functies-en-sneltoetsen.html</link>
-            <description>Apple heeft macOS Tahoe aangekondigd. De nieuwe versie van het besturingssysteem heeft onder meer een aangepaste versie van Spotlight, die gebruik kan maken van sneltoetsen om meer functies te bedienen.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Computers / Besturingssystemen</category>
-            <comments>https://tweakers.net/nieuws/235962/spotlight-op-macos-krijgt-veel-meer-functies-en-sneltoetsen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235962</guid>
-            <pubDate>Mon, 09 Jun 2025 20:23:05 +0200</pubDate>
-        </item>
-        <item>
-            <title>Polsbeweging moet telefoontjes gaan weigeren op Apple Watch</title>
-            <link>https://tweakers.net/nieuws/235964/polsbeweging-moet-telefoontjes-gaan-weigeren-op-apple-watch.html</link>
-            <description>Apple heeft watchOS 26 aangekondigd. De software heeft ondersteuning voor een nieuw gebaar. Een polsbeweging moet telefoontjes gaan weigeren en timers op stil zetten, zo zegt Apple tijdens zijn ontwikkelaarsconferentie.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Tablets en telefoons / Smartwatches</category>
-            <comments>https://tweakers.net/nieuws/235964/polsbeweging-moet-telefoontjes-gaan-weigeren-op-apple-watch.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235964</guid>
-            <pubDate>Mon, 09 Jun 2025 19:55:47 +0200</pubDate>
-        </item>
-        <item>
-            <title>Apple geeft iOS 26 nieuw design</title>
-            <link>https://tweakers.net/nieuws/235960/apple-geeft-ios-26-nieuw-design.html</link>
-            <description>Apple heeft iOS 26 aangekondigd. De opvolger van iOS 18 heeft een nieuw ontwerp met interface-elementen die volgens de fabrikant gemaakt zijn van &#039;vloeibaar glas&#039; met semitransparant ontwerp.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/235960/apple-geeft-ios-26-nieuw-design.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235960</guid>
-            <pubDate>Mon, 09 Jun 2025 19:44:55 +0200</pubDate>
-        </item>
-        <item>
-            <title>Apple Intelligence krijgt dit jaar ondersteuning voor Nederlands</title>
-            <link>https://tweakers.net/nieuws/235970/apple-intelligence-krijgt-dit-jaar-ondersteuning-voor-nederlands.html</link>
-            <description>Apple gaat Nederlands ondersteunen bij zijn AI-functieset Apple Intelligence. Het bedrijf zal ontwikkelaars van derde partijen ook toegang geven tot zijn AI-modellen, zodat zij die kunnen gebruiken in hun eigen software. Dat heet Foundation Models Framework.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / IT Pro / Internet</category>
-            <comments>https://tweakers.net/nieuws/235970/apple-intelligence-krijgt-dit-jaar-ondersteuning-voor-nederlands.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235970</guid>
-            <pubDate>Mon, 09 Jun 2025 19:11:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Apache Tomcat 11.0.8</title>
-            <link>https://tweakers.net/downloads/72948/apache-tomcat-1108.html</link>
-            <description>Apache Tomcat is een Webcontainer die is ontwikkeld door de Apache Software Foundation. Tomcat voert Jakarta Servlets en Jakarta Pages uit en biedt een HTTP-webomgeving aan waarop Jakarta-code direct kan worden gedraaid. Het Jakarta EE-platform is de doorontwikkeling van het Java EE-platform. Tomcat 10 en hoger richten zich op Jakarta, terwijl Tomcat 9 en lager zich blijven richten op Java. Voor meer informatie verwijzen we naar deze pagina. De ontwikkelaars hebben versie 11.0.8 uitgebracht, en details daarvan kunnen hieronder worden gevonden. Tomcat 11.0.8 Released</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72948/apache-tomcat-1108.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72948</guid>
-            <pubDate>Mon, 09 Jun 2025 17:01:20 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Homebrew 4.5.5</title>
-            <link>https://tweakers.net/downloads/72946/homebrew-455.html</link>
-            <description>Homebrew is een pakketbeheerder die wordt bijgehouden door een groep vrijwilligers, waarbij vanuit verschillende &#039;taps&#039; (pakketbronnen) &#039;formula&#039; (softwarepakketen) kunnen worden geïnstalleerd via de terminal. Homebrew begon als een project om een tot dan toe ontbrekende pakketbeheerder aan te bieden op macOS, maar Homebrew biedt al langer ook ondersteuning voor Linux. Inmiddels zijn de Homebrew-repository&#039;s op GitHub uitgegroeid tot de grootste qua aantallen bijdragers. Via zogeheten &#039;casks&#039; is het verder mogelijk om apps en lettertypen te installeren en beheren op een macOS-installatie. Versie 4.5.5 is uitgekomen en de changelog sinds versie 4.5.3 ziet er als volgt uit: Homebrew 4.5.5:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72946/homebrew-455.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72946</guid>
-            <pubDate>Mon, 09 Jun 2025 15:50:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - The Bat! 11.4.2.1</title>
-            <link>https://tweakers.net/downloads/72944/the-bat-11421.html</link>
-            <description>Versie 11.4.2.1 van de e-mailclient The Bat! is uitgekomen. Het programma heeft alles wat je van een moderne e-mailclient mag verwachten, zoals het automatisch kunnen sorteren, beantwoorden of doorsturen van e-mail en het met vertraging kunnen versturen van e-mails. Er zijn diverse e-mailthema&#039;s, waarbij ook van macro&#039;s gebruikgemaakt kan worden. In deze uitgave zijn de volgende veranderingen en verbeteringen doorgevoerd: Improvements</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72944/the-bat-11421.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72944</guid>
-            <pubDate>Mon, 09 Jun 2025 14:20:06 +0200</pubDate>
-        </item>
-        <item>
-            <title>Beelden van nieuwe Garmin-slaaptrackerarmband verschijnen online</title>
-            <link>https://tweakers.net/nieuws/235958/beelden-van-nieuwe-garmin-slaaptrackerarmband-verschijnen-online.html</link>
-            <description>Er zijn beelden van een nieuwe Garmin-slaaptrackerarmband verschenen: de Garmin Index Sleep. De tracker zou over een hartslagmonitor beschikken en zou in staat zijn om bloedzuurstofgehalte te meten. Het is niet duidelijk wanneer Garmin het apparaat op de markt wil brengen.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Tablets en telefoons / Smartwatches</category>
-            <comments>https://tweakers.net/nieuws/235958/beelden-van-nieuwe-garmin-slaaptrackerarmband-verschijnen-online.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235958</guid>
-            <pubDate>Mon, 09 Jun 2025 12:55:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Indiana Jones and the Great Circle: The Order of Giants komt uit op 4 september</title>
-            <link>https://tweakers.net/nieuws/235950/indiana-jones-and-the-great-circle-the-order-of-giants-komt-uit-op-4-september.html</link>
-            <description>Op 4 september 2025 verschijnt er een nieuwe uitbreiding voor Indiana Jones and the Great Circle: The Order of Giants. De uitbreiding bevat een nieuwe verhaallijn, nieuwe puzzels en nieuwe vijanden. De dlc komt beschikbaar voor pc, PlayStation 5- en Xbox Series-consoles.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/235950/indiana-jones-and-the-great-circle-the-order-of-giants-komt-uit-op-4-september.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235950</guid>
-            <pubDate>Mon, 09 Jun 2025 11:48:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Minister Justitie en Veiligheid: eind 2024 werd geofencing getest in NL-Alert</title>
-            <link>https://tweakers.net/nieuws/235946/minister-justitie-en-veiligheid-eind-2024-werd-geofencing-getest-in-nl-alert.html</link>
-            <description>De beheerder van NL-Alert heeft in september 2024 tests uitgevoerd met geofencing. Op basis daarvan is het advies gegeven om deze technologie daadwerkelijk te implementeren. Op dit moment loopt er een traject om ook kleinere geofencinguitzendgebieden mogelijk te maken.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/235946/minister-justitie-en-veiligheid-eind-2024-werd-geofencing-getest-in-nl-alert.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235946</guid>
-            <pubDate>Mon, 09 Jun 2025 10:57:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - PTGui 13.2</title>
-            <link>https://tweakers.net/downloads/72942/ptgui-132.html</link>
-            <description>Een regelmatig besproken stukje software in het Foto &amp; Video Workflow-subforum is PTGui. Dit programma richt zich op het maken en aanpassen van samengestelde beelden. Dat kan een verticaal of horizontaal panorama zijn, maar ook één groot beeld met een enorme resolutie dat samengesteld is uit talloze afzonderlijke opnames. Met een stapel foto&#039;s als invoer kan het programma daarna zelf uitzoeken hoe ze naast elkaar gezet moeten worden. Voor het rekenintensieve deel kan bovendien via OpenCL de gpu worden ingezet om sneller klaar te zijn. De software is beschikbaar is een standaard- en pro-versie; de verschillen tussen beide worden op deze pagina tegen elkaar afgezet. Kort geleden is versie 13.2 uitgekomen en hierin zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 13.2:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72942/ptgui-132.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72942</guid>
-            <pubDate>Mon, 09 Jun 2025 10:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Mozilla trekt op 26 juni stekker uit Orbit-extensie</title>
-            <link>https://tweakers.net/nieuws/235948/mozilla-trekt-op-26-juni-stekker-uit-orbit-extensie.html</link>
-            <description>Mozilla trekt op 26 juni 2025 de stekker uit de gratis browserextensie Orbit. Het bedrijf vertelt niet waarom het stopt met de AI-extensie. Orbit werd begin dit jaar naar het brede publiek uitgerold, nadat er eind vorig jaar eerst een testversie werd geïntroduceerd.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/235948/mozilla-trekt-op-26-juni-stekker-uit-orbit-extensie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235948</guid>
-            <pubDate>Mon, 09 Jun 2025 10:15:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>GOG introduceert One-click Mods voor eenvoudige mod-integratie</title>
-            <link>https://tweakers.net/nieuws/235944/gog-introduceert-one-click-mods-voor-eenvoudige-mod-integratie.html</link>
-            <description>GOG heeft One-click Mods geïntroduceerd. Het betreft een nieuwe feature op het gameplatform waarbij vooraf geselecteerde mods aan de installatiepakketten van games worden toegevoegd. Hierdoor kunnen de mods eenvoudiger worden geactiveerd.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/235944/gog-introduceert-one-click-mods-voor-eenvoudige-mod-integratie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/235944</guid>
-            <pubDate>Mon, 09 Jun 2025 09:48:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - ScreenToGif 2.41.3</title>
-            <link>https://tweakers.net/downloads/72940/screentogif-2413.html</link>
-            <description>Versie 2.41.3 van ScreenToGif is uitgekomen. Met deze opensourceapplicatie kunnen de handelingen op het scherm of de beelden van de webcam worden opgenomen. Het resultaat kan eventueel worden bewerkt met de ingebakken editor en vervolgens worden opgeslagen als gif, apng, video, afbeeldingen, ScreenToGif-projectbestanden of psd. Daarrmee kan het programma bijvoorbeeld goed worden gebruikt voor het maken van korte instructievideo&#039;s. De changelog voor deze uitgave kan hieronder worden gevonden. What&#039;s new?</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72940/screentogif-2413.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72940</guid>
-            <pubDate>Mon, 09 Jun 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - NAPS2 8.2.0</title>
-            <link>https://tweakers.net/downloads/72938/naps2-820.html</link>
-            <description>NAPS2 is een opensource- en crossplatformprogramma om documenten te scannen. Het staat voor Not Another PDF Scanner, maar dat dekt de lading niet helemaal. Het kan niet alleen naar pdf scannen, maar ook naar tiff, jpg en png. Voor het scannen wordt gebruikgemaakt van standaard Twain- of WIA-drivers en voor ocr gebruikt NAPS2 Tesseract. Sinds versie 8.1.4 zijn de volgende veranderingen en verbeteringen aangebracht: Changes in 8.2.0:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72938/naps2-820.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72938</guid>
-            <pubDate>Mon, 09 Jun 2025 07:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Video - Xbox-handheld, Black Ops 7 en Resident Evil 9 op Summer Game Fest</title>
-            <link>https://tweakers.net/video/19942/xbox-handheld-black-ops-7-en-resident-evil-9-op-summer-game-fest.html</link>
-            <description>Summer Game Fest, Future Game Show, een Xbox Showcase…Dit weekend zijn er een gigantische hoeveelheid games aangekondigd. In deze Tweakers Update gooien we ze allemaal op een hoop en nemen de highlights met je door.</description>
-            <author>Mark van der Kruit</author>
-            <category>Video / Gaming / Games</category>
-            <comments>https://tweakers.net/video/19942/xbox-handheld-black-ops-7-en-resident-evil-9-op-summer-game-fest.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/video/19942</guid>
-            <pubDate>Sun, 08 Jun 2025 23:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Usenet Explorer 7.4.4</title>
-            <link>https://tweakers.net/downloads/72936/usenet-explorer-744.html</link>
-            <description>Alex Birj heeft versie 7.4.4 van Usenet Explorer uitgebracht. Met dit programma kunnen bestanden van Usenet worden gedownload. Usenet Explorer kenmerkt zich onder meer door een laag processor- en geheugengebruik en uitgebreide mogelijkheden, wat het voor beginnende gebruikers misschien minder geschikt maakt. In deze uitgave zijn de volgende veranderingen en verbeteringen zijn doorgevoerd: Changes in version 7.4.4</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72936/usenet-explorer-744.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72936</guid>
-            <pubDate>Sun, 08 Jun 2025 20:57:21 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - SciTE 5.5.7</title>
-            <link>https://tweakers.net/downloads/72934/scite-557.html</link>
-            <description>Versie 5.5.7 van SciTE is uitgekomen. Scintilla Text Editor is een opensource en crossplatform teksteditor. Het maakt gebruik van de opensource Scintilla Text Editor-bibliotheek, die van dezelfde makers is. Deze bibliotheek wordt ook door andere programma&#039;s gebruikt, waaronder Notepad++. Downloads zijn beschikbaar voor Windows en Linux, en in Apples appstore kan een commerciële versie voor macOS worden gevonden. Daarnaast is er een standalone-executable die handig op een USB-stick meegenomen kan worden. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Release 5.5.7</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72934/scite-557.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72934</guid>
-            <pubDate>Sun, 08 Jun 2025 14:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Community - Wat verwacht jij van Apples WWDC? - AI, iOS 26 en homeOS</title>
-            <link>https://tweakers.net/reviews/13360/wat-verwacht-jij-van-apples-wwdc-ai-ios-26-en-homeos.html</link>
-            <description>Op maandag organiseert Apple zijn World Wide Developer Conference. Laat ons hier weten wat jij verwacht!</description>
-            <author>Tijs Hofmans</author>
-            <category>.Community / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/reviews/13360/wat-verwacht-jij-van-apples-wwdc-ai-ios-26-en-homeos.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13360</guid>
-            <pubDate>Sun, 08 Jun 2025 13:37:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Directory Opus 13.16</title>
-            <link>https://tweakers.net/downloads/72932/directory-opus-1316.html</link>
-            <description>GPSoftware heeft versie 13.16 van zijn bestandsmanager Directory Opus uitgebracht. Dit programma is in zekere zin vergelijkbaar met Total Commander, maar dan met uitgebreidere mogelijkheden over welke informatie precies moet worden weergegeven en op welke manier. Directory Opus is veelzijdig en extreem configureerbaar, zowel wat functionaliteit als wat uiterlijk betreft. Dat is meteen ook het grootste probleem, want het programma kan zeker op beginnende gebruikers complex overkomen. Het programma kan na registratie 60 dagen worden getest; daarna moet een licentie van 89 Australische dollar worden aangeschaft, wat neerkomt op ongeveer 55 euro. De changelog voor deze uitgave kan hieronder worden gevonden: Compatibility</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72932/directory-opus-1316.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72932</guid>
-            <pubDate>Sun, 08 Jun 2025 12:30:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
