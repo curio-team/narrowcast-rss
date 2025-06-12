@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 12 Jun 2025 13:18:49 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 12 Jun 2025 14:30:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -37,10 +37,10 @@
 		<category><![CDATA[Social]]></category>
 		<category><![CDATA[Startups]]></category>
 		<category><![CDATA[TC]]></category>
-		<category><![CDATA[CRM]]></category>
 		<category><![CDATA[Automattic]]></category>
-		<category><![CDATA[M&A]]></category>
 		<category><![CDATA[clay]]></category>
+		<category><![CDATA[CRM]]></category>
+		<category><![CDATA[M&A]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3017988</guid>
 
 					<description><![CDATA[WordPress.com owner Automattic has added another communication-focused startup to its lineup: relationship-management app Clay.]]></description>
@@ -140,10 +140,10 @@
 		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
 		<pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
 				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Exclusive]]></category>
 		<category><![CDATA[autonomous vehicles]]></category>
-		<category><![CDATA[Waymo]]></category>
+		<category><![CDATA[Exclusive]]></category>
 		<category><![CDATA[robotaxis]]></category>
+		<category><![CDATA[Waymo]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3018178</guid>
 
 					<description><![CDATA[A new analysis done by ride-hailing aggregator Obi shows Waymos cost more especially on shorter trips. They also have longer wait times.]]></description>

@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 12 Jun 2025 15:36:01 +0200</pubDate>
-        <lastBuildDate>Thu, 12 Jun 2025 15:36:01 +0200</lastBuildDate>
+        <pubDate>Thu, 12 Jun 2025 16:36:06 +0200</pubDate>
+        <lastBuildDate>Thu, 12 Jun 2025 16:36:06 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,6 +18,46 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
+            <title>Software-update - OPNsense 25.1.8</title>
+            <link>https://tweakers.net/downloads/72986/opnsense-2518.html</link>
+            <description>Het pakket OPNsense is een firewall met uitgebreide mogelijkheden. Het is gebaseerd op het besturingssysteem FreeBSD en is oorspronkelijk een fork van m0n0wall en pfSense. Het pakket kan volledig via een webinterface worden ingesteld en heeft onder andere ondersteuning voor mfa, OpenVPN, IPsec, CARP en captive portal. Daarnaast kan het packetfiltering toepassen en beschikt het over een traffic shaper. De ontwikkelaars achter OPNsense hebben de achtste update voor versie 25.1 uitgebracht en de releasenotes voor die uitgave kunnen hieronder worden gevonden. OPNsense 25.1.8 released</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72986/opnsense-2518.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72986</guid>
+            <pubDate>Thu, 12 Jun 2025 16:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>VodafoneZiggo gaat vóór bellen controleren of ze klant wel mogen benaderen</title>
+            <link>https://tweakers.net/nieuws/236122/vodafoneziggo-gaat-voor-bellen-controleren-of-ze-klant-wel-mogen-benaderen.html</link>
+            <description>De Nederlandse provider VodafoneZiggo gaat voordat het bedrijf gaat bellen om producten of diensten te verkopen checken of ze die klant wel mogen bellen. Dat ging de afgelopen tijd vaak fout. Bellen voor telemarketing mag alleen na expliciete toestemming van de klant.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/236122/vodafoneziggo-gaat-voor-bellen-controleren-of-ze-klant-wel-mogen-benaderen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236122</guid>
+            <pubDate>Thu, 12 Jun 2025 16:28:08 +0200</pubDate>
+        </item>
+        <item>
+            <title>Motorola brengt update uit voor ondersteuning ultrawideband in Moto Tag</title>
+            <link>https://tweakers.net/nieuws/236114/motorola-brengt-update-uit-voor-ondersteuning-ultrawideband-in-moto-tag.html</link>
+            <description>De Moto Tag heeft ondersteuning gekregen voor ultrawideband, waarmee apparaten preciezer kunnen inschatten waar de tag precies is. De Moto Tag kwam vorig jaar uit, maar de functie stond tot nu toe uit.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphone-accessoires</category>
+            <comments>https://tweakers.net/nieuws/236114/motorola-brengt-update-uit-voor-ondersteuning-ultrawideband-in-moto-tag.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236114</guid>
+            <pubDate>Thu, 12 Jun 2025 16:01:29 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gerucht: Google past Apple MagSafe toe met Pixel 10-functie Pixelsnap</title>
+            <link>https://tweakers.net/nieuws/236100/gerucht-google-past-apple-magsafe-toe-met-pixel-10-functie-pixelsnap.html</link>
+            <description>Google zou onder de naam Pixelsnap magnetische accessoires willen uitbrengen voor zijn Pixel 10-telefoons, claimt Android Authority. Apple doet dat al jaren onder de naam MagSafe en heeft de technologie beschikbaar gesteld, waardoor deze nu al een paar jaar in Qi2 zit.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/236100/gerucht-google-past-apple-magsafe-toe-met-pixel-10-functie-pixelsnap.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236100</guid>
+            <pubDate>Thu, 12 Jun 2025 15:55:39 +0200</pubDate>
+        </item>
+        <item>
             <title>Eerste versie van Ultra Ethernet-standaard van AMD, Intel en Microsoft is uit</title>
             <link>https://tweakers.net/nieuws/236110/eerste-versie-van-ultra-ethernet-standaard-van-amd-intel-en-microsoft-is-uit.html</link>
             <description>Het Ultra Ethernet Consortium heeft de eerste versie van de Ultra Ethernet-standaard uitgebracht. De standaard biedt volgens het consortium een schaalbare en interoperabele oplossing voor alle lagen van de netwerkstack.</description>
@@ -28,12 +68,12 @@
             <pubDate>Thu, 12 Jun 2025 15:28:55 +0200</pubDate>
         </item>
         <item>
-            <title>Nieuwe Intel-gpu met PCI 5.0 x16 verschijnt in registratie, mogelijk Arc B770</title>
-            <link>https://tweakers.net/nieuws/236106/nieuwe-intel-gpu-met-pci-50-x16-verschijnt-in-registratie-mogelijk-arc-b770.html</link>
+            <title>Nieuwe Intel-gpu met PCIe 5.0 x16 verschijnt in registratie, mogelijk Arc B770</title>
+            <link>https://tweakers.net/nieuws/236106/nieuwe-intel-gpu-met-pcie-50-x16-verschijnt-in-registratie-mogelijk-arc-b770.html</link>
             <description>Bij PCI-SIG is een nieuwe videokaart van Intel verschenen. De gpu ondersteunt PCIe 5.0 x16 en heeft een bussnelheid van 32 GT/s. Mogelijk gaat het om de Intel Arc B770 op basis van de Battlemage-architectuur.</description>
             <author>Imre Himmelbauer</author>
             <category>Nieuws / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/nieuws/236106/nieuwe-intel-gpu-met-pci-50-x16-verschijnt-in-registratie-mogelijk-arc-b770.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/236106/nieuwe-intel-gpu-met-pcie-50-x16-verschijnt-in-registratie-mogelijk-arc-b770.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236106</guid>
             <pubDate>Thu, 12 Jun 2025 15:23:46 +0200</pubDate>
         </item>
@@ -376,46 +416,6 @@
             <comments>https://tweakers.net/nieuws/236048/days-gone-studio-bend-bevestigt-ontslagronde-mogelijk-30-procent-van-personeel.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236048</guid>
             <pubDate>Wed, 11 Jun 2025 14:08:47 +0200</pubDate>
-        </item>
-        <item>
-            <title>Vivo teaset vouwbare Android-telefoon die compatibel is met Apple Watch</title>
-            <link>https://tweakers.net/nieuws/236052/vivo-teaset-vouwbare-android-telefoon-die-compatibel-is-met-apple-watch.html</link>
-            <description>De Chinese smartphonemaker vivo heeft de eerste details bekendgemaakt over zijn aankomende vouwbare telefoon, de X Fold 5. Volgens productmanager Han Boxiao zal deze Android-telefoon compatibel zijn met de Apple Watch.</description>
-            <author>Eveline Meijer</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/236052/vivo-teaset-vouwbare-android-telefoon-die-compatibel-is-met-apple-watch.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236052</guid>
-            <pubDate>Wed, 11 Jun 2025 13:49:30 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Audacity 3.7.4</title>
-            <link>https://tweakers.net/downloads/72956/audacity-374.html</link>
-            <description>Versie 3.7.4 van Audacity is uitgekomen. Deze opensource audio-editor, die beschikbaar is voor Windows, Linux en macOS, kan geluid opnemen en wav-, aiff-, ogg- en mp3-bestanden importeren en exporteren. Het programma heeft een ongelimiteerde undofunctie en heeft daarnaast een grote verzameling effecten aan boord, zoals fade-in en fade-out, echo, tempowijziging en ruisonderdrukking. Meer effecten kunnen eenvoudig worden toegevoegd, want het programma ondersteunt onder meer Nyquist-, vst- en ladspa-plug-ins. In deze uitgave zijn de volgende verbeteringen aangebracht: Audacity 3.7.4</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72956/audacity-374.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72956</guid>
-            <pubDate>Wed, 11 Jun 2025 13:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>SWAT-achtige shooter Ready or Not komt op 15 juli naar consoles</title>
-            <link>https://tweakers.net/nieuws/236044/swat-achtige-shooter-ready-or-not-komt-op-15-juli-naar-consoles.html</link>
-            <description>De firstpersonshooter Ready or Not komt op 15 juli naar consoles. De game verscheen eind 2023 al op Steam en volgt een swatteam in de fictieve stad Los Sueños. Het spel kost vijftig euro en is al te reserveren.</description>
-            <author>Eveline Meijer</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/236044/swat-achtige-shooter-ready-or-not-komt-op-15-juli-naar-consoles.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236044</guid>
-            <pubDate>Wed, 11 Jun 2025 12:59:30 +0200</pubDate>
-        </item>
-        <item>
-            <title>Ziggo gaat vanaf 2026 internetdiensten aanbieden op Delta&#039;s glasvezelnetwerk</title>
-            <link>https://tweakers.net/nieuws/236046/ziggo-gaat-vanaf-2026-internetdiensten-aanbieden-op-deltas-glasvezelnetwerk.html</link>
-            <description>Ziggo gaat vastinternetdiensten aanbieden op Delta&#039;s glasvezelnetwerk. Het gaat om ruim 600.000 adressen waar Ziggo geen eigen netwerk heeft. Het is voor het eerst dat Ziggo internetdiensten gaat aanbieden op het netwerk van een concurrerende glasvezelpartij.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / IT Pro / Internettoegang</category>
-            <comments>https://tweakers.net/nieuws/236046/ziggo-gaat-vanaf-2026-internetdiensten-aanbieden-op-deltas-glasvezelnetwerk.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236046</guid>
-            <pubDate>Wed, 11 Jun 2025 12:47:01 +0200</pubDate>
         </item>
     </channel>
 </rss>
