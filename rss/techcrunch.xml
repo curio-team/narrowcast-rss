@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 12 Jun 2025 10:33:24 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 12 Jun 2025 10:55:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,19 +28,36 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Multiverse Computing raises $215M for tech that could radically slim AI costs</title>
+		<title>Meta sues AI &#8216;nudify&#8217; app Crush AI for advertising on its platforms</title>
+		<link>https://techcrunch.com/2025/06/12/meta-sues-ai-nudify-app-crush-ai-for-advertising-on-its-platforms/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Thu, 12 Jun 2025 10:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[content moderation]]></category>
+		<category><![CDATA[Meta]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3018106</guid>
+
+					<description><![CDATA[Meta has sued the maker of a popular AI "nudify" app, Crush AI, that reportedly ran thousands of ads across its platforms. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Multiverse Computing raises $215M for tech that could radically lower AI costs</title>
 		<link>https://techcrunch.com/2025/06/12/multiverse-computing-raises-215m-for-tech-that-could-radically-slim-ai-costs/</link>
 		
 		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
 		<pubDate>Thu, 12 Jun 2025 09:00:00 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
 		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[TC]]></category>
 		<category><![CDATA[LLMs]]></category>
 		<category><![CDATA[multiverse computing]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3018111</guid>
 
-					<description><![CDATA[Spanish startup Multiverse Computing announced that it raised an enormous Series B round on the strength of a technology it calls “CompactifAI.”]]></description>
+					<description><![CDATA[Spanish startup Multiverse Computing said it raised an enormous Series B round on the strength of a technology it calls “CompactifAI.”]]></description>
 		
 		
 		
@@ -182,12 +199,12 @@
 		<pubDate>Wed, 11 Jun 2025 18:36:03 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Security]]></category>
-		<category><![CDATA[Defacement]]></category>
-		<category><![CDATA[Department of Health and Human Services]]></category>
 		<category><![CDATA[hhs]]></category>
+		<category><![CDATA[U.S. government]]></category>
+		<category><![CDATA[Department of Health and Human Services]]></category>
 		<category><![CDATA[In Brief]]></category>
 		<category><![CDATA[Spaim]]></category>
-		<category><![CDATA[U.S. government]]></category>
+		<category><![CDATA[Defacement]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3017954</guid>
 
 					<description><![CDATA[The content of a vaccines information website owned by the U.S. Department of Health and Human Services was swapped with gay-themed spam.]]></description>
@@ -366,24 +383,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3017799</guid>
 
 					<description><![CDATA[The announcement of Collab Capital’s Fund II comes as Black-led and founded funds continue closing sizable funds.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AirPods Pro 3 could be on the way</title>
-		<link>https://techcrunch.com/2025/06/11/airpods-pro-3-could-be-on-the-way/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Wed, 11 Jun 2025 16:19:42 +0000</pubDate>
-				<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[AirPods]]></category>
-		<category><![CDATA[airpods pro 3]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3017801</guid>
-
-					<description><![CDATA[Apple might be releasing the AirPods Pro 3 sooner than you think.]]></description>
 		
 		
 		
