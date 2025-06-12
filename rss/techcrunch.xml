@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 12 Jun 2025 09:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 12 Jun 2025 10:33:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,9 +33,9 @@
 		
 		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
 		<pubDate>Thu, 12 Jun 2025 09:00:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
+				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
+		<category><![CDATA[TC]]></category>
 		<category><![CDATA[LLMs]]></category>
 		<category><![CDATA[multiverse computing]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3018111</guid>

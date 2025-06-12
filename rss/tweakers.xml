@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 12 Jun 2025 11:31:05 +0200</pubDate>
-        <lastBuildDate>Thu, 12 Jun 2025 11:31:05 +0200</lastBuildDate>
+        <pubDate>Thu, 12 Jun 2025 12:36:01 +0200</pubDate>
+        <lastBuildDate>Thu, 12 Jun 2025 12:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,9 +18,19 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
+            <title>PCI-SIG voltooit specificatie voor PCI Express 7.0 met dubbele bandbreedte</title>
+            <link>https://tweakers.net/nieuws/236096/pci-sig-voltooit-specificatie-voor-pci-express-70-met-dubbele-bandbreedte.html</link>
+            <description>De PCI-SIG heeft de nieuwste specificatie van de PCI Express-standaard afgerond. PCIe 7.0 is beschikbaar voor leden van de organisatie achter de standaard en heeft twee keer de bandbreedte van de PCI Express 6.0-standaard. Per lane betekent dat 128GT/s in plaats van 64GT/s.</description>
+            <author>Willem de Moor</author>
+            <category>Nieuws / Computers / SSD&#039;s</category>
+            <comments>https://tweakers.net/nieuws/236096/pci-sig-voltooit-specificatie-voor-pci-express-70-met-dubbele-bandbreedte.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236096</guid>
+            <pubDate>Thu, 12 Jun 2025 11:54:32 +0200</pubDate>
+        </item>
+        <item>
             <title>Google verwijdert ondersteuning voor Pixel-telefoons uit AOSP</title>
             <link>https://tweakers.net/nieuws/236088/google-verwijdert-ondersteuning-voor-pixel-telefoons-uit-aosp.html</link>
-            <description>Google heeft de ondersteuning voor Pixel-telefoons verwijderd uit het Android Open Source Project. Daardoor ondervinden alternatieve OS&#039;en zoals CalyxOS en GrapheneOS naar eigen zeggen problemen. Het is niet bekend waarom Google deze stap heeft gezet.</description>
+            <description>Google heeft de ondersteuning voor Pixel-telefoons verwijderd uit het Android Open Source Project. Daardoor ondervinden alternatieve OS&#039;en, zoals CalyxOS en GrapheneOS, naar eigen zeggen problemen. Het is niet bekend waarom Google deze stap heeft gezet.</description>
             <author>Imre Himmelbauer</author>
             <category>Nieuws / Tablets en telefoons / Smartphones</category>
             <comments>https://tweakers.net/nieuws/236088/google-verwijdert-ondersteuning-voor-pixel-telefoons-uit-aosp.html#reacties</comments>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/reviews/13326/hp-omnibook-7-aero-ultralichte-reispartner-met-compromissen.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13326</guid>
             <pubDate>Wed, 11 Jun 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nintendo meldt record: Switch 2 ruim 3,5 miljoen keer verkocht in vier dagen</title>
-            <link>https://tweakers.net/nieuws/236030/nintendo-meldt-record-switch-2-ruim-3-komma-5-miljoen-keer-verkocht-in-vier-dagen.html</link>
-            <description>Nintendo heeft in de eerste vier dagen na de release ruim 3,5 miljoen exemplaren van de Switch 2 verkocht. Het bedrijf sprak eerder de verwachting uit dat de Switch 2 in het eerste jaar 15 miljoen keer verkocht zal worden.</description>
-            <author>Eveline Meijer</author>
-            <category>Nieuws / Gaming / Consoles</category>
-            <comments>https://tweakers.net/nieuws/236030/nintendo-meldt-record-switch-2-ruim-3-komma-5-miljoen-keer-verkocht-in-vier-dagen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236030</guid>
-            <pubDate>Wed, 11 Jun 2025 08:52:46 +0200</pubDate>
         </item>
     </channel>
 </rss>
