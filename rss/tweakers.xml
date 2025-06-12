@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 12 Jun 2025 09:31:05 +0200</pubDate>
-        <lastBuildDate>Thu, 12 Jun 2025 09:31:05 +0200</lastBuildDate>
+        <pubDate>Thu, 12 Jun 2025 10:36:10 +0200</pubDate>
+        <lastBuildDate>Thu, 12 Jun 2025 10:36:10 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Python 3.13.5</title>
+            <link>https://tweakers.net/downloads/72982/python-3135.html</link>
+            <description>Python is een objectgeoriënteerde programmeertaal die kan worden gebruikt om eenvoudige tot complexe platformonafhankelijke applicaties te ontwikkelen. Het is in de jaren negentig ontworpen door Guido van Rossum, die destijds in Amsterdam voor het CWI werkte. Guido was als BDFL betrokken bij de ontwikkeling van Python. Hij heeft daarnaast voor Dropbox gewerkt, ging daarna met pensioen en toen dat niet echt beviel, ging hij aan de slag bij Microsoft. De vijfde zogenaamde maintenancerelease voor versie 3.13 is uitgekomen en hierin zijn een kleine verzameling verbeteringen aangebracht. This is the fifth maintenance release of Python 3.13</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/72982/python-3135.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/72982</guid>
+            <pubDate>Thu, 12 Jun 2025 10:30:00 +0200</pubDate>
+        </item>
         <item>
             <title>The Browser Company begint met uitrol &#039;AI-browser&#039; naar bètatesters</title>
             <link>https://tweakers.net/nieuws/236086/the-browser-company-begint-met-uitrol-ai-browser-naar-betatesters.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/236028/openai-stelt-komst-openweight-taalmodel-uit-tot-later-deze-zomer.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236028</guid>
             <pubDate>Wed, 11 Jun 2025 08:30:22 +0200</pubDate>
-        </item>
-        <item>
-            <title>VanMoof presenteert S6-serie, eerste nieuwe e-bikes sinds doorstart in 2023</title>
-            <link>https://tweakers.net/nieuws/236026/vanmoof-presenteert-s6-serie-eerste-nieuwe-e-bikes-sinds-doorstart-in-2023.html</link>
-            <description>VanMoof heeft een nieuwe serie e-bikes aangekondigd: de S6 serie. Het zijn de eerste nieuwe fietsen van het merk sinds het in 2023 door McLaren Applied werd overgenomen. De serie bestaat uit de S6 en S6 Open.</description>
-            <author>Eveline Meijer</author>
-            <category>Nieuws / Beeld en geluid / Gadgets</category>
-            <comments>https://tweakers.net/nieuws/236026/vanmoof-presenteert-s6-serie-eerste-nieuwe-e-bikes-sinds-doorstart-in-2023.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236026</guid>
-            <pubDate>Wed, 11 Jun 2025 08:02:55 +0200</pubDate>
         </item>
     </channel>
 </rss>

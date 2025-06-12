@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 12 Jun 2025 07:23:29 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 12 Jun 2025 07:49:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -233,8 +233,8 @@
 		
 		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
 		<pubDate>Wed, 11 Jun 2025 17:59:39 +0000</pubDate>
-				<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[Security]]></category>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Biotech & Health]]></category>
 		<category><![CDATA[23andMe]]></category>
 		<category><![CDATA[cybersecurity]]></category>
 		<category><![CDATA[evergreens]]></category>
