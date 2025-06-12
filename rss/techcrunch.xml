@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 12 Jun 2025 07:49:14 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 12 Jun 2025 09:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Multiverse Computing raises $215M for tech that could radically slim AI costs</title>
+		<link>https://techcrunch.com/2025/06/12/multiverse-computing-raises-215m-for-tech-that-could-radically-slim-ai-costs/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Thu, 12 Jun 2025 09:00:00 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[multiverse computing]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3018111</guid>
+
+					<description><![CDATA[Spanish startup Multiverse Computing announced that it raised an enormous Series B round on the strength of a technology it calls “CompactifAI.”]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Twenty years strong: a love letter to TechCrunch</title>
 		<link>https://techcrunch.com/2025/06/11/twenty-years-strong-a-love-letter-to-techcrunch/</link>
 		
@@ -366,22 +384,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3017801</guid>
 
 					<description><![CDATA[Apple might be releasing the AirPods Pro 3 sooner than you think.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meta&#8217;s V-JEPA 2 model teaches AI to understand its surroundings</title>
-		<link>https://techcrunch.com/2025/06/11/metas-v-jepa-2-model-teaches-ai-to-understand-its-surroundings/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Wed, 11 Jun 2025 15:54:09 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[robotics]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3017761</guid>
-
-					<description><![CDATA[Meta's V-JEPA 2 model is a "world model," referring to AI that is designed to understand its physical surroundings.]]></description>
 		
 		
 		

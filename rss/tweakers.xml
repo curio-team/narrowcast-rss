@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 12 Jun 2025 10:36:10 +0200</pubDate>
-        <lastBuildDate>Thu, 12 Jun 2025 10:36:10 +0200</lastBuildDate>
+        <pubDate>Thu, 12 Jun 2025 11:31:05 +0200</pubDate>
+        <lastBuildDate>Thu, 12 Jun 2025 11:31:05 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Google verwijdert ondersteuning voor Pixel-telefoons uit AOSP</title>
+            <link>https://tweakers.net/nieuws/236088/google-verwijdert-ondersteuning-voor-pixel-telefoons-uit-aosp.html</link>
+            <description>Google heeft de ondersteuning voor Pixel-telefoons verwijderd uit het Android Open Source Project. Daardoor ondervinden alternatieve OS&#039;en zoals CalyxOS en GrapheneOS naar eigen zeggen problemen. Het is niet bekend waarom Google deze stap heeft gezet.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/236088/google-verwijdert-ondersteuning-voor-pixel-telefoons-uit-aosp.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236088</guid>
+            <pubDate>Thu, 12 Jun 2025 11:22:34 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Python 3.13.5</title>
             <link>https://tweakers.net/downloads/72982/python-3135.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/236030/nintendo-meldt-record-switch-2-ruim-3-komma-5-miljoen-keer-verkocht-in-vier-dagen.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236030</guid>
             <pubDate>Wed, 11 Jun 2025 08:52:46 +0200</pubDate>
-        </item>
-        <item>
-            <title>OpenAI stelt komst openweight taalmodel uit tot later deze zomer</title>
-            <link>https://tweakers.net/nieuws/236028/openai-stelt-komst-openweight-taalmodel-uit-tot-later-deze-zomer.html</link>
-            <description>De release van het volgende open taalmodel van OpenAI wordt uitgesteld. Het taalmodel zou deze maand verschijnen, maar wordt nu later deze zomer uitgebracht, zegt ceo Sam Altman. Wanneer de release precies plaatsvindt, is nog niet bekend.</description>
-            <author>Eveline Meijer</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/236028/openai-stelt-komst-openweight-taalmodel-uit-tot-later-deze-zomer.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236028</guid>
-            <pubDate>Wed, 11 Jun 2025 08:30:22 +0200</pubDate>
         </item>
     </channel>
 </rss>
