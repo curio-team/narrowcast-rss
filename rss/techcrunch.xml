@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 13 Jun 2025 12:11:52 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Jun 2025 13:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>11 startups from YC Demo Day that investors are talking about</title>
+		<link>https://techcrunch.com/2025/06/13/11-startups-from-yc-demo-day-that-investors-are-talking-about/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Fri, 13 Jun 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[YC Demo Day]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3018617</guid>
+
+					<description><![CDATA[Here are some of the top startups from Y Combinator's Spring 2025 Demo Day that caught investors' and our attention.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>What to expect at TechCrunch All Stage: One day, countless connections and takeaways</title>
 		<link>https://techcrunch.com/2025/06/13/what-to-expect-at-techcrunch-all-stage-one-day-countless-connections-and-takeaways/</link>
 		
@@ -369,25 +385,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3018206</guid>
 
 					<description><![CDATA[Instagram is finally going to let users rearrange their grid and is testing a way for users to quietly post to their profile without having the content appear in users' feeds.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Conveyor uses AI to automate the painful process of vendor security reviews and RFPs with AI</title>
-		<link>https://techcrunch.com/2025/06/12/conveyor-uses-ai-to-automate-the-painful-process-of-vendor-security-reviews-and-rfps-with-ai/</link>
-		
-		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Thu, 12 Jun 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[compliance]]></category>
-		<category><![CDATA[signalfire]]></category>
-		<category><![CDATA[ai agent]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3018214</guid>
-
-					<description><![CDATA[Conveyor claims that its AI agent can fill out over 90% of customer security questions fully, autonomously, and accurately, saving customers many hours and accelerating their sales process. The 4-year-old startup nabbed a $20 million Series B from SignalFire. ]]></description>
 		
 		
 		
