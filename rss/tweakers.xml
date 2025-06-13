@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 13 Jun 2025 11:31:02 +0200</pubDate>
-        <lastBuildDate>Fri, 13 Jun 2025 11:31:02 +0200</lastBuildDate>
+        <pubDate>Fri, 13 Jun 2025 12:36:02 +0200</pubDate>
+        <lastBuildDate>Fri, 13 Jun 2025 12:36:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>AP verlaagt Kruidvat-boete voor trackingcookies van 600.000 naar 50.000 euro</title>
+            <link>https://tweakers.net/nieuws/236158/ap-verlaagt-kruidvat-boete-voor-trackingcookies-van-600000-naar-50000-euro.html</link>
+            <description>De Autoriteit Persoonsgegevens verlaagt de boete die zij eerder aan Kruidvat gaf voor het plaatsen van trackingcookies van 600.000 euro naar 50.000 euro. Dat komt deels doordat de AP lang deed over het onderzoek en omdat boetes voor vergelijkbare overtredingen lager waren.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Privacy</category>
+            <comments>https://tweakers.net/nieuws/236158/ap-verlaagt-kruidvat-boete-voor-trackingcookies-van-600000-naar-50000-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236158</guid>
+            <pubDate>Fri, 13 Jun 2025 12:17:01 +0200</pubDate>
+        </item>
         <item>
             <title>Mozilla test integratie van Perplexity AI als optionele zoekmachine in Firefox</title>
             <link>https://tweakers.net/nieuws/236154/mozilla-test-integratie-van-perplexity-ai-als-optionele-zoekmachine-in-firefox.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/downloads/72976/total-commander-1155-rc-6.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72976</guid>
             <pubDate>Thu, 12 Jun 2025 07:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Starlink verhoogt prijs Roam Unlimited-abonnement naar 89 euro per maand</title>
-            <link>https://tweakers.net/nieuws/236082/starlink-verhoogt-prijs-roam-unlimited-abonnement-naar-89-euro-per-maand.html</link>
-            <description>Starlink verhoogt de prijs van zijn Roam Unlimited-abonnement naar 89 euro per maand. Dat is een stijging van ongeveer 24 procent. Het bedrijf houdt de prijs van het Roam 50GB-abonnement wel gelijk: dat blijft 40 euro per maand.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / Computers / Netwerkaccessoires</category>
-            <comments>https://tweakers.net/nieuws/236082/starlink-verhoogt-prijs-roam-unlimited-abonnement-naar-89-euro-per-maand.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236082</guid>
-            <pubDate>Thu, 12 Jun 2025 07:26:35 +0200</pubDate>
         </item>
     </channel>
 </rss>
