@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 13 Jun 2025 15:36:00 +0200</pubDate>
-        <lastBuildDate>Fri, 13 Jun 2025 15:36:00 +0200</lastBuildDate>
+        <pubDate>Fri, 13 Jun 2025 16:31:07 +0200</pubDate>
+        <lastBuildDate>Fri, 13 Jun 2025 16:31:07 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>.Geek - Ratchet and Clank: Rift Apart blijkt onontdekte minigame te bevatten</title>
+            <link>https://tweakers.net/geek/236144/ratchet-and-clank-rift-apart-blijkt-onontdekte-minigame-te-bevatten.html</link>
+            <description>Wie dacht dat games tegenwoordig geen mysteries meer kennen zoals vroeger, kan altijd nog terecht bij Ratchet and Clank: Rift Apart. Daar blijkt namelijk een prototype van een minigame in te zitten die nog geen speler heeft gevonden in de vier jaar dat de game uit is.</description>
+            <author>Tijs Hofmans</author>
+            <category>.Geek / Gaming / Games</category>
+            <comments>https://tweakers.net/geek/236144/ratchet-and-clank-rift-apart-blijkt-onontdekte-minigame-te-bevatten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/236144</guid>
+            <pubDate>Fri, 13 Jun 2025 15:40:06 +0200</pubDate>
+        </item>
         <item>
             <title>Onderzoekers stelen tot 50bit/s van air-gapped netwerk via smartwatchmicrofoon</title>
             <link>https://tweakers.net/nieuws/236156/onderzoekers-stelen-tot-50bit-s-van-air-gapped-netwerk-via-smartwatchmicrofoon.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/236088/google-verwijdert-ondersteuning-voor-pixel-telefoons-uit-aosp.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236088</guid>
             <pubDate>Thu, 12 Jun 2025 11:22:34 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Python 3.13.5</title>
-            <link>https://tweakers.net/downloads/72982/python-3135.html</link>
-            <description>Python is een objectgeoriënteerde programmeertaal die kan worden gebruikt om eenvoudige tot complexe platformonafhankelijke applicaties te ontwikkelen. Het is in de jaren negentig ontworpen door Guido van Rossum, die destijds in Amsterdam voor het CWI werkte. Guido was als BDFL betrokken bij de ontwikkeling van Python. Hij heeft daarnaast voor Dropbox gewerkt, ging daarna met pensioen en toen dat niet echt beviel, ging hij aan de slag bij Microsoft. De vijfde zogenaamde maintenancerelease voor versie 3.13 is uitgekomen en hierin zijn een kleine verzameling verbeteringen aangebracht. This is the fifth maintenance release of Python 3.13</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/72982/python-3135.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72982</guid>
-            <pubDate>Thu, 12 Jun 2025 10:30:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
