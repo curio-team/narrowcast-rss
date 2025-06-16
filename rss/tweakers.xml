@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 16 Jun 2025 14:41:01 +0200</pubDate>
-        <lastBuildDate>Mon, 16 Jun 2025 14:41:01 +0200</lastBuildDate>
+        <pubDate>Mon, 16 Jun 2025 15:36:07 +0200</pubDate>
+        <lastBuildDate>Mon, 16 Jun 2025 15:36:07 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>&#039;Agesa-biosupdate verwijst naar niet-aangekondigde AMD Ryzen 7 9700F&#039;</title>
+            <link>https://tweakers.net/nieuws/236220/agesa-biosupdate-verwijst-naar-niet-aangekondigde-amd-ryzen-7-9700f.html</link>
+            <description>ASUS en MSI hebben een nieuwe Agesa-biosupdate uitgebracht die compatibiliteit met een nieuwe cpu toevoegt. Volgens leakers gaat het om de AMD Ryzen 7 9700F: een Zen 5-processor met acht rekenkernen en zonder geïntegreerde gpu. AMD heeft de geruchten niet bevestigd.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/236220/agesa-biosupdate-verwijst-naar-niet-aangekondigde-amd-ryzen-7-9700f.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236220</guid>
+            <pubDate>Mon, 16 Jun 2025 15:25:48 +0200</pubDate>
+        </item>
+        <item>
+            <title>Anker roept in Amerika meer dan een miljoen powerbanks terug om brandgevaar</title>
+            <link>https://tweakers.net/nieuws/236216/anker-roept-in-amerika-meer-dan-een-miljoen-powerbanks-terug-om-brandgevaar.html</link>
+            <description>Anker is in Amerika een terugroepactie gestart voor zijn PowerCore 10000-powerbanks. De fabrikant zegt dat de accu in de powerbank kan oververhitten, wat brandgevaar oplevert. Het gaat in totaal om ongeveer 1.158.000 exemplaren.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/236216/anker-roept-in-amerika-meer-dan-een-miljoen-powerbanks-terug-om-brandgevaar.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236216</guid>
+            <pubDate>Mon, 16 Jun 2025 15:12:36 +0200</pubDate>
+        </item>
         <item>
             <title>Preview - Eerste ssd met Phison E28-controller - Sneller en zuiniger, nauwelijks koeler</title>
             <link>https://tweakers.net/reviews/13366/eerste-ssd-met-phison-e28-controller-sneller-en-zuiniger-nauwelijks-koeler.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/236162/bloomberg-apple-wil-siris-ai-upgrade-begin-2026-uitbrengen.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236162</guid>
             <pubDate>Fri, 13 Jun 2025 15:03:48 +0200</pubDate>
-        </item>
-        <item>
-            <title>Graphite-spyware treft twee Europese journalisten via iOS-lek</title>
-            <link>https://tweakers.net/nieuws/236160/graphite-spyware-treft-twee-europese-journalisten-via-ios-lek.html</link>
-            <description>Twee Europese journalisten zijn eerder dit jaar getroffen door spyware van het Israëlische Paragon. Dat blijkt uit onderzoek van The Citizen Lab. De iPhones van de journalisten werden besmet via een lek in iMessage, dat inmiddels door Apple is gedicht.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/236160/graphite-spyware-treft-twee-europese-journalisten-via-ios-lek.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236160</guid>
-            <pubDate>Fri, 13 Jun 2025 14:01:33 +0200</pubDate>
-        </item>
-        <item>
-            <title>Albert Heijn-filiaal in Almere installeert camera&#039;s met AI-technologie</title>
-            <link>https://tweakers.net/nieuws/236056/albert-heijn-filiaal-in-almere-installeert-cameras-met-ai-technologie.html</link>
-            <description>In een Albert Heijn-filiaal in Almere zijn camera&#039;s geplaatst die voorzien zijn van AI-technologie. De franchisenemer zegt een interne pilot te zijn gestart om te onderzoeken of deze functionaliteiten in de toekomst kunnen worden gebruikt voor het tegengaan van winkeldiefstal.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/236056/albert-heijn-filiaal-in-almere-installeert-cameras-met-ai-technologie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236056</guid>
-            <pubDate>Fri, 13 Jun 2025 13:31:36 +0200</pubDate>
         </item>
     </channel>
 </rss>
