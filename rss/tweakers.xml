@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 16 Jun 2025 12:36:02 +0200</pubDate>
-        <lastBuildDate>Mon, 16 Jun 2025 12:36:02 +0200</lastBuildDate>
+        <pubDate>Mon, 16 Jun 2025 13:31:01 +0200</pubDate>
+        <lastBuildDate>Mon, 16 Jun 2025 13:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Pc-versie Stellar Blade haalt miljoen verkopen op Steam in eerste maand</title>
+            <link>https://tweakers.net/nieuws/236212/pc-versie-stellar-blade-haalt-miljoen-verkopen-op-steam-in-eerste-maand.html</link>
+            <description>De Zuid-Koreaanse ontwikkelaar Shift Up zegt dat Stellar Blade sinds april vorig jaar ongeveer drie miljoen keer over de toonbank is gegaan. De pc-versie kwam op 11 juni van dit jaar uit en zou sindsdien al minstens 1 miljoen keer zijn verkocht.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/236212/pc-versie-stellar-blade-haalt-miljoen-verkopen-op-steam-in-eerste-maand.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236212</guid>
+            <pubDate>Mon, 16 Jun 2025 13:30:36 +0200</pubDate>
+        </item>
+        <item>
+            <title>Ex-ceo koopt 23andMe terug: dna-database onder toezicht non-profit</title>
+            <link>https://tweakers.net/nieuws/236208/ex-ceo-koopt-23andme-terug-dna-database-onder-toezicht-non-profit.html</link>
+            <description>Anne Wojcicki, de oprichter en ex-ceo van 23andMe gaat het failliete Amerikaanse dna-bedrijf opkopen. Wojcicki’s non-profitorganisatie TTAM krijgt alle activa van 23andMe in handen, inclusief de databank met klantgegevens. Het betaalt hiervoor 305 miljoen dollar.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/236208/ex-ceo-koopt-23andme-terug-dna-database-onder-toezicht-non-profit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236208</guid>
+            <pubDate>Mon, 16 Jun 2025 12:37:16 +0200</pubDate>
+        </item>
         <item>
             <title>SteamOS bereikt mijlpaal van 20.000 speelbare games</title>
             <link>https://tweakers.net/nieuws/236206/steamos-bereikt-mijlpaal-van-20000-speelbare-games.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/236154/mozilla-test-integratie-van-perplexity-ai-als-optionele-zoekmachine-in-firefox.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236154</guid>
             <pubDate>Fri, 13 Jun 2025 11:24:32 +0200</pubDate>
-        </item>
-        <item>
-            <title>Proximus verkoopt Flitsmeister en parkeerapp 4411 - update</title>
-            <link>https://tweakers.net/nieuws/236152/proximus-verkoopt-flitsmeister-en-parkeerapp-4411.html</link>
-            <description>Proximus gaat Flitsmeister verkopen. Ook doet de provider parkeerapp 4411 en andere diensten van de hand. Die laatste is opgekocht door Arrive, het bedrijf achter onder andere ParkMobile en EasyPark. Flitsmeister wordt teruggekocht door het management.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Economie en maatschappij</category>
-            <comments>https://tweakers.net/nieuws/236152/proximus-verkoopt-flitsmeister-en-parkeerapp-4411.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236152</guid>
-            <pubDate>Fri, 13 Jun 2025 10:49:26 +0200</pubDate>
-        </item>
-        <item>
-            <title>Driver-update - AMD Radeon Software Adrenalin Edition 25.6.2</title>
-            <link>https://tweakers.net/downloads/72992/amd-radeon-software-adrenalin-edition-2562.html</link>
-            <description>AMD heeft een nieuwe versie van zijn Radeon Software Adrenalin Edition-drivers uitgebracht. De drivers zijn geschikt voor de RX 5000-, RX 6000, RX 7000 en RX9000-serie. In versie 25.6.2 heeft AMD onder meer verbeteringen voor de spellen The Alters en FBC: Firebreak aangebracht. Verder is de lijst met spellen die van FSR 4 gebruik kunnen maken met 14 titels uitgebreid en zijn er weer diverse problemen verholpen. De complete changelog voor deze uitgave kan hieronder worden gevonden. New Game Support</description>
-            <author>Bart van Klaveren</author>
-            <category>Driver</category>
-            <comments>https://tweakers.net/downloads/72992/amd-radeon-software-adrenalin-edition-2562.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/72992</guid>
-            <pubDate>Fri, 13 Jun 2025 10:30:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
