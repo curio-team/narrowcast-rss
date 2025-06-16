@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 16 Jun 2025 15:36:07 +0200</pubDate>
-        <lastBuildDate>Mon, 16 Jun 2025 15:36:07 +0200</lastBuildDate>
+        <pubDate>Mon, 16 Jun 2025 16:36:01 +0200</pubDate>
+        <lastBuildDate>Mon, 16 Jun 2025 16:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Apple moet van rechter alsnog voorwaarden voor datingapps aanpassen</title>
+            <link>https://tweakers.net/nieuws/236232/apple-moet-van-rechter-alsnog-voorwaarden-voor-datingapps-aanpassen.html</link>
+            <description>De rechtbank in Rotterdam concludeert dat de Autoriteit Consument &amp; Markt terecht een boete van 50 miljoen euro heeft opgelegd aan Apple. Het techbedrijf belemmerde datingapps bij het gebruik van alternatieve betaalmethodes en moet zijn beleid nu alsnog aanpassen.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/236232/apple-moet-van-rechter-alsnog-voorwaarden-voor-datingapps-aanpassen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236232</guid>
+            <pubDate>Mon, 16 Jun 2025 16:25:22 +0200</pubDate>
+        </item>
+        <item>
+            <title>WhatsApp voegt advertenties toe aan Status-posts</title>
+            <link>https://tweakers.net/nieuws/236230/whatsapp-voegt-advertenties-toe-aan-status-posts.html</link>
+            <description>WhatsApp gaat advertenties toevoegen aan zijn Status-functie. Er komen geen advertenties in het Chats-tabblad. Verder krijgen kanalen de mogelijkheid om een betaald abonnement aan te bieden voor exclusieve updates.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/236230/whatsapp-voegt-advertenties-toe-aan-status-posts.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236230</guid>
+            <pubDate>Mon, 16 Jun 2025 16:15:26 +0200</pubDate>
+        </item>
+        <item>
+            <title>Wereldwijde Google Cloud-storing kwam door update die onbedoeld nullwaarden had</title>
+            <link>https://tweakers.net/nieuws/236214/wereldwijde-google-cloud-storing-kwam-door-update-die-onbedoeld-nullwaarden-had.html</link>
+            <description>Google laat weten dat de recente wereldwijde storing van het cloudplatform veroorzaakt werd door een update die nullwaarden introduceerde. Hierdoor werkte het systeem voor het controleren van api-verzoeken niet goed en was Googles clouddienst urenlang onbereikbaar.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/236214/wereldwijde-google-cloud-storing-kwam-door-update-die-onbedoeld-nullwaarden-had.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236214</guid>
+            <pubDate>Mon, 16 Jun 2025 15:59:01 +0200</pubDate>
+        </item>
         <item>
             <title>&#039;Agesa-biosupdate verwijst naar niet-aangekondigde AMD Ryzen 7 9700F&#039;</title>
             <link>https://tweakers.net/nieuws/236220/agesa-biosupdate-verwijst-naar-niet-aangekondigde-amd-ryzen-7-9700f.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/236164/onaangekondigde-battlemage-gpus-verschijnen-in-opensource-videodriver.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236164</guid>
             <pubDate>Fri, 13 Jun 2025 16:41:27 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Ratchet and Clank: Rift Apart blijkt onontdekte minigame te bevatten</title>
-            <link>https://tweakers.net/geek/236144/ratchet-and-clank-rift-apart-blijkt-onontdekte-minigame-te-bevatten.html</link>
-            <description>Wie dacht dat games tegenwoordig geen mysteries meer kennen zoals vroeger, kan altijd nog terecht bij Ratchet and Clank: Rift Apart. Daar blijkt namelijk een prototype van een minigame in te zitten die nog geen speler heeft gevonden in de vier jaar dat de game uit is.</description>
-            <author>Tijs Hofmans</author>
-            <category>.Geek / Gaming / Games</category>
-            <comments>https://tweakers.net/geek/236144/ratchet-and-clank-rift-apart-blijkt-onontdekte-minigame-te-bevatten.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/236144</guid>
-            <pubDate>Fri, 13 Jun 2025 15:40:06 +0200</pubDate>
-        </item>
-        <item>
-            <title>Onderzoekers stelen tot 50bit/s van airgapped netwerk via smartwatchmicrofoon</title>
-            <link>https://tweakers.net/nieuws/236156/onderzoekers-stelen-tot-50bit-s-van-airgapped-netwerk-via-smartwatchmicrofoon.html</link>
-            <description>Beveiligingsonderzoekers hebben een manier beschreven om data uit een airgapped omgeving te filtreren met behulp van een smartwatch. Daarmee lukte het door middel van gemanipuleerde ultrasone geluiden tussen de vijf en vijftig bits per seconde af te luisteren van een desktop of laptop.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/236156/onderzoekers-stelen-tot-50bit-s-van-airgapped-netwerk-via-smartwatchmicrofoon.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236156</guid>
-            <pubDate>Fri, 13 Jun 2025 15:31:10 +0200</pubDate>
-        </item>
-        <item>
-            <title>Bloomberg: Apple wil Siri&#039;s AI-upgrade begin 2026 uitbrengen</title>
-            <link>https://tweakers.net/nieuws/236162/bloomberg-apple-wil-siris-ai-upgrade-begin-2026-uitbrengen.html</link>
-            <description>Apple heeft het voorjaar van 2026 als intern releasedoel gekozen voor de langverwachte AI-upgrade van Siri. Dat meldt Bloomberg-journalist Mark Gurman. Apple kondigde de slimmere versie van de virtuele assistent aan in juni 2024. Die liep echter vertraging op.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/236162/bloomberg-apple-wil-siris-ai-upgrade-begin-2026-uitbrengen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236162</guid>
-            <pubDate>Fri, 13 Jun 2025 15:03:48 +0200</pubDate>
         </item>
     </channel>
 </rss>
