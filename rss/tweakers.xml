@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 16 Jun 2025 10:36:01 +0200</pubDate>
-        <lastBuildDate>Mon, 16 Jun 2025 10:36:01 +0200</lastBuildDate>
+        <pubDate>Mon, 16 Jun 2025 11:31:07 +0200</pubDate>
+        <lastBuildDate>Mon, 16 Jun 2025 11:31:07 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>SteamOS bereikt mijlpaal van 20.000 speelbare games</title>
+            <link>https://tweakers.net/nieuws/236206/steamos-bereikt-mijlpaal-van-20000-speelbare-games.html</link>
+            <description>Er zijn sinds half juni meer dan 20.000 speelbare games voor SteamOS en daardoor ook voor de Steam Deck beschikbaar, meldt website GamingOnLinux. Ongeveer een maand geleden waren dat er nog 19.000.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / Gaming / Consoles</category>
+            <comments>https://tweakers.net/nieuws/236206/steamos-bereikt-mijlpaal-van-20000-speelbare-games.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236206</guid>
+            <pubDate>Mon, 16 Jun 2025 10:39:04 +0200</pubDate>
+        </item>
         <item>
             <title>Sleep A30-oortjes herkennen snurken en passen maskeergeluid direct aan</title>
             <link>https://tweakers.net/nieuws/236204/sleep-a30-oortjes-herkennen-snurken-en-passen-maskeergeluid-direct-aan.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/downloads/72992/amd-radeon-software-adrenalin-edition-2562.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/72992</guid>
             <pubDate>Fri, 13 Jun 2025 10:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Ddos-wasstraat NaWas is voortaan via ERA-IX ook vanuit Duitsland te gebruiken</title>
-            <link>https://tweakers.net/nieuws/236140/ddos-wasstraat-nawas-is-voortaan-via-era-ix-ook-vanuit-duitsland-te-gebruiken.html</link>
-            <description>De Nederlandse ddos-beschermingsdienst NaWas is voortaan ook via internetknooppunt ERA-IX bereikbaar. Daarmee kan de &#039;wasstraat&#039; ook vanuit Frankfurt worden gebruikt. Volgens beheerdersorganisatie NBIP maakt dat Europese bedrijven en diensten weerbaarder.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/236140/ddos-wasstraat-nawas-is-voortaan-via-era-ix-ook-vanuit-duitsland-te-gebruiken.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236140</guid>
-            <pubDate>Fri, 13 Jun 2025 09:43:25 +0200</pubDate>
         </item>
     </channel>
 </rss>
