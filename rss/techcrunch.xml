@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 17 Jun 2025 13:34:48 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 17 Jun 2025 14:21:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,102 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Senate GOP bill spares nuclear and geothermal energy while hammering wind and solar</title>
+		<link>https://techcrunch.com/2025/06/17/senate-gop-bill-spares-nuclear-and-geothermal-energy-while-hammering-wind-and-solar/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 14:21:35 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[geothermal energy]]></category>
+		<category><![CDATA[inflation reduction act]]></category>
+		<category><![CDATA[nuclear power]]></category>
+		<category><![CDATA[renewable energy]]></category>
+		<category><![CDATA[republican party]]></category>
+		<category><![CDATA[senate]]></category>
+		<category><![CDATA[Solar Power]]></category>
+		<category><![CDATA[Wind power]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3019407</guid>
+
+					<description><![CDATA[The Senate Finance Committee’s language would take a sledgehammer to some parts of the renewable-friendly Inflation Reduction Act while sparing others. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mastodon updates its terms to prohibit AI model training</title>
+		<link>https://techcrunch.com/2025/06/17/mastodon-updates-its-terms-to-prohibit-ai-model-training/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 14:16:18 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[Mastodon]]></category>
+		<category><![CDATA[model training]]></category>
+		<category><![CDATA[social network]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3019371</guid>
+
+					<description><![CDATA[Social networks are bolstering their terms of service against scrapers and bots that crawl the website to train AI models. Days after Elon Musk-owned X updated its terms to explicitly prohibit AI model training, decentralized social network Mastodon today updated its own rules to bar any kind of model training, as well. &#8220;We explicitly prohibit [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Sword Health nabs $40M at $4B valuation, pushes IPO plans to at least 2028</title>
+		<link>https://techcrunch.com/2025/06/17/sword-health-nabs-40m-at-4b-valuation-pushes-ipo-plans-to-at-least-2028/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 13:58:33 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[General Catalyst]]></category>
+		<category><![CDATA[IPO]]></category>
+		<category><![CDATA[Sword Health]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3019367</guid>
+
+					<description><![CDATA[The digital health startup says it secured the fresh capital to update its valuation and finance acquisitions.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>As grocery shortages persist, UNFI says it&#8217;s recovering from cyberattack</title>
+		<link>https://techcrunch.com/2025/06/17/food-distributor-unfi-says-its-recovering-from-cyberattack-as-grocery-shortages-persist/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 13:55:00 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[unfi]]></category>
+		<category><![CDATA[whole foods]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3019030</guid>
+
+					<description><![CDATA[The ongoing outage is preventing the company from fulfilling and distributing customer orders at scale.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>UK watchdog fines 23andMe over 2023 data breach</title>
+		<link>https://techcrunch.com/2025/06/17/uk-watchdog-fines-23andme-over-2023-data-breach/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 13:45:57 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cyberecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[data protection]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3019384</guid>
+
+					<description><![CDATA[The ICO said over 150,000 U.K. residents had data stolen in the breach.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Amazon is holding Prime Day 2025 on July 8-11</title>
 		<link>https://techcrunch.com/2025/06/17/amazon-is-holding-prime-day-2025-on-july-8-11/</link>
 		
@@ -146,10 +242,10 @@
 		
 		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
 		<pubDate>Tue, 17 Jun 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[NewView Capital]]></category>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
 		<category><![CDATA[Coralogix]]></category>
+		<category><![CDATA[NewView Capital]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3019267</guid>
 
 					<description><![CDATA[Coralogix, an Israeli startup offering a full-stack observability and security platform, has raised $115 million at a pre-money valuation of over $1 billion, almost doubling in three years from its last round in 2022. With the influx of cash, the startup is looking to expand its engineering base in India and develop its AI agent. [&#8230;]]]></description>
@@ -297,97 +393,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3019034</guid>
 
 					<description><![CDATA[Instagram users report that their accounts were banned even though they had not violated the company's terms of service or other policies.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Deadline day: Startup Battlefield 200 applications close at midnight</title>
-		<link>https://techcrunch.com/2025/06/16/deadline-day-startup-battlefield-200-applications-close-at-midnight/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Mon, 16 Jun 2025 18:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Startup Battlefield]]></category>
-		<category><![CDATA[Startup Battlefield 200]]></category>
-		<category><![CDATA[TechCrunch Disrupt 2025]]></category>
-		<category><![CDATA[Disrupt 2025]]></category>
-		<category><![CDATA[SB200]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019129</guid>
-
-					<description><![CDATA[Battle it out in front of 10,000+ startup leaders, investors, and media at TechCrunch Disrupt 2025. It’s your moment to be seen, funded, and remembered — and maybe even walk away with $100,000 in equity-free funding.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Threads is testing spoiler text, Zuckerberg says</title>
-		<link>https://techcrunch.com/2025/06/16/threads-is-testing-spoiler-text-zuckerberg-says/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Mon, 16 Jun 2025 17:54:51 +0000</pubDate>
-				<category><![CDATA[Social]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[social media]]></category>
-		<category><![CDATA[Threads]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019123</guid>
-
-					<description><![CDATA[Threads, Meta's microblogging platform, is testing spoiler text. This is a nice quality-of-life upgrade on the user side, but it also helps Meta by encouraging more conversations about pop culture without people worrying about spoiling others.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Patreon will increase the cut it takes from new creators</title>
-		<link>https://techcrunch.com/2025/06/16/patreon-will-increase-the-cut-it-takes-from-new-creators/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Mon, 16 Jun 2025 16:54:49 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Patreon]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019062</guid>
-
-					<description><![CDATA[Patreon is bumping its take fee from creators from 8% to 10%, but only for new signups.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>As grocery shortages persist, UNFI says it&#8217;s recovering from cyberattack</title>
-		<link>https://techcrunch.com/2025/06/16/food-distributor-unfi-says-its-recovering-from-cyberattack-as-grocery-shortages-persist/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Mon, 16 Jun 2025 15:15:49 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[unfi]]></category>
-		<category><![CDATA[whole foods]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019030</guid>
-
-					<description><![CDATA[UNFI has not yet described the nature of the cyberattack, though it told investors last week that it had shut down its entire network to contain the incident. The ongoing outage is preventing the company from fulfilling and distributing customer orders at scale.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The investor experience at TechCrunch All Stage: One floor, infinite deal flow</title>
-		<link>https://techcrunch.com/2025/06/16/the-investor-experience-at-techcrunch-all-stage-one-floor-infinite-deal-flow/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Mon, 16 Jun 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[TechCrunch All Stage 2025]]></category>
-		<category><![CDATA[TC All Stage]]></category>
-		<category><![CDATA[TechCrunch All Stage]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3018552</guid>
-
-					<description><![CDATA[TechCrunch All Stage isn’t a waiting room for warm intros — it’s a floor full of founders, ideas, and breakout potential. For VCs, it’s a rare chance to skip the filters and meet the future of tech in one place, on one day, with no layers between you and the next standout story. Whether you’re [&#8230;]]]></description>
 		
 		
 		
