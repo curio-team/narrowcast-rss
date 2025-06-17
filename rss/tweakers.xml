@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 17 Jun 2025 14:41:01 +0200</pubDate>
-        <lastBuildDate>Tue, 17 Jun 2025 14:41:01 +0200</lastBuildDate>
+        <pubDate>Tue, 17 Jun 2025 15:36:01 +0200</pubDate>
+        <lastBuildDate>Tue, 17 Jun 2025 15:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>&#039;OpenAI overweegt antitrustzaak tegen Microsoft te starten&#039;</title>
+            <link>https://tweakers.net/nieuws/236278/openai-overweegt-antitrustzaak-tegen-microsoft-te-starten.html</link>
+            <description>Bestuurders van OpenAI hebben in de afgelopen weken gesproken over het starten van een antitrustzaak tegen Microsoft over hun samenwerking. OpenAI ziet het starten van een rechtszaak volgens The Wall Street Journal als een &#039;nucleaire optie&#039; in de onderhandelingen met het bedrijf.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/236278/openai-overweegt-antitrustzaak-tegen-microsoft-te-starten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236278</guid>
+            <pubDate>Tue, 17 Jun 2025 15:23:41 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Intel Nova Lake-S krijgt tot 32 PCIe Gen 5-lanes en DDR5-8000-geheugen&#039;</title>
+            <link>https://tweakers.net/nieuws/236282/intel-nova-lake-s-krijgt-tot-32-pcie-gen-5-lanes-en-ddr5-8000-geheugen.html</link>
+            <description>Intels Nova Lake-desktopprocessors bieden naar verluidt ondersteuning voor 32 PCIe 5.0-lanes, in plaats van de 20 van de vorige generatie, Arrow Lake. Daarnaast zouden de cpu&#039;s standaard DDR5-8000-geheugen ondersteunen.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/236282/intel-nova-lake-s-krijgt-tot-32-pcie-gen-5-lanes-en-ddr5-8000-geheugen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236282</guid>
+            <pubDate>Tue, 17 Jun 2025 15:06:03 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Compatibiliteitsmodus&#039; in iOS 26 geeft hint naar vouwbare iPhone</title>
+            <link>https://tweakers.net/nieuws/236280/compatibiliteitsmodus-in-ios-26-geeft-hint-naar-vouwbare-iphone.html</link>
+            <description>Apps voor Apple&#039;s mobiele besturingssysteem iOS 26 passen zich automatisch aan wanneer er nieuwe hardware verschijnt met een andere schermverhouding. Tot nu toe was dat niet mogelijk binnen de sdk. Dat is een aanwijzing dat Apple werkt aan een iPhone met vouwbaar scherm.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/236280/compatibiliteitsmodus-in-ios-26-geeft-hint-naar-vouwbare-iphone.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236280</guid>
+            <pubDate>Tue, 17 Jun 2025 14:53:36 +0200</pubDate>
+        </item>
         <item>
             <title>Tinder brengt functie voor &#039;double dates&#039; met groepschat volgende maand uit</title>
             <link>https://tweakers.net/nieuws/236274/tinder-brengt-functie-voor-double-dates-met-groepschat-volgende-maand-uit.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/236204/sleep-a30-oortjes-herkennen-snurken-en-passen-maskeergeluid-direct-aan.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236204</guid>
             <pubDate>Mon, 16 Jun 2025 10:16:21 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Rufus 4.9</title>
-            <link>https://tweakers.net/downloads/73010/rufus-49.html</link>
-            <description>Versie 4.9 van Rufus is uitgekomen. Met dit programma kunnen zelfstartende USB-sticks worden gemaakt. Handig bijvoorbeeld om een besturingssysteem te installeren, wat sneller gaat vanaf een USB-stick dan van een cd of dvd, om het bios bij te werken of om een systeem te benaderen dat niet meer wil starten. Er is overigens een groot aantal tooltjes waarmee dit gedaan kan worden, maar Rufus beweert een van de snelste in zijn soort te zijn. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 4.9:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73010/rufus-49.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73010</guid>
-            <pubDate>Mon, 16 Jun 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Taiwan blokkeert AI-chiponderdelen voor Huawei en SMIC met nieuwe zwarte lijst</title>
-            <link>https://tweakers.net/nieuws/236198/taiwan-blokkeert-ai-chiponderdelen-voor-huawei-en-smic-met-nieuwe-zwarte-lijst.html</link>
-            <description>Taiwan heeft Huawei en de Chinese chipfabrikant SMIC op de zwarte lijst gezet. Hierdoor mogen Taiwanese organisaties geen producten of diensten meer verkopen aan deze bedrijven zonder toestemming van de overheid. Het land zou de maatregel invoeren om &#039;veiligheidsredenen&#039;.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/236198/taiwan-blokkeert-ai-chiponderdelen-voor-huawei-en-smic-met-nieuwe-zwarte-lijst.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236198</guid>
-            <pubDate>Mon, 16 Jun 2025 08:25:05 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Adv - Zo zetten Boels, RTL en Funda agentic AI in: recap Agentforce World Tour event</title>
-            <link>https://tweakers.net/plan/4430/zo-zetten-boels-rtl-en-funda-agentic-ai-in-recap-agentforce-world-tour-event.html</link>
-            <description>Onlangs vond in Amsterdam de Agentforce World Tour plaats, een grootschalig evenement van Salesforce met een inspirerende keynote, diverse workshops en uiteenlopende sessies. De rode draad door het programma? Het werken met een geïntegreerd platform dat AI, data, processen en mensen met elkaar verbindt. Tweakers Partners was aanwezig en doet verslag.</description>
-            <author>Tweakers Partners</author>
-            <category>.adv</category>
-            <comments>https://tweakers.net/plan/4430/zo-zetten-boels-rtl-en-funda-agentic-ai-in-recap-agentforce-world-tour-event.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/plan/4430</guid>
-            <pubDate>Mon, 16 Jun 2025 08:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
