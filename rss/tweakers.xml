@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 18 Jun 2025 12:36:00 +0200</pubDate>
-        <lastBuildDate>Wed, 18 Jun 2025 12:36:00 +0200</lastBuildDate>
+        <pubDate>Wed, 18 Jun 2025 13:31:02 +0200</pubDate>
+        <lastBuildDate>Wed, 18 Jun 2025 13:31:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Google brengt Gemini 2.5 Flash-Lite en stabiele versies 2.5 Pro en Flash uit</title>
+            <link>https://tweakers.net/nieuws/236330/google-brengt-gemini-25-flash-lite-en-stabiele-versies-25-pro-en-flash-uit.html</link>
+            <description>Google brengt Gemini 2.5 Flash-Lite in preview uit. Volgens de techreus gaat het om het &#039;snelste en kostenefficiëntste 2.5-model tot nu toe&#039;. De stabiele versies van Gemini 2.5 Pro en Flash zijn nu ook beschikbaar.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / Computers / Software</category>
+            <comments>https://tweakers.net/nieuws/236330/google-brengt-gemini-25-flash-lite-en-stabiele-versies-25-pro-en-flash-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236330</guid>
+            <pubDate>Wed, 18 Jun 2025 13:20:50 +0200</pubDate>
+        </item>
+        <item>
+            <title>Netflix sluit deal met TF1 Group om voor het eerst lineaire tv uit te zenden</title>
+            <link>https://tweakers.net/nieuws/236326/netflix-sluit-deal-met-tf1-group-om-voor-het-eerst-lineaire-tv-uit-te-zenden.html</link>
+            <description>Netflix heeft een deal gesloten met TF1 Group om in Frankrijk lineaire tv uit te zenden. TF1 gaat verschillende tv-shows en grote live sportevenementen uitzenden via de streamingdienst, meldt Financial Times. Ook komt meer dan 30.000 uur content van tv-shows on-demand beschikbaar.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/236326/netflix-sluit-deal-met-tf1-group-om-voor-het-eerst-lineaire-tv-uit-te-zenden.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236326</guid>
+            <pubDate>Wed, 18 Jun 2025 12:59:24 +0200</pubDate>
+        </item>
+        <item>
+            <title>Garmin introduceert fietscomputer Edge MTB voor mountainbikers voor 400 euro</title>
+            <link>https://tweakers.net/nieuws/236328/garmin-introduceert-fietscomputer-edge-mtb-voor-mountainbikers-voor-400-euro.html</link>
+            <description>Garmin kondigt de Edge MTB aan: een fietscomputer voor mountainbikers. De fietscomputer biedt een vijf keer snellere gps-registratie dan gebruikelijk, om gedetailleerdere informatie te tonen bij complexe routes en snelle afdalingen. De Edge MTB kost 400 euro.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / Tablets en telefoons / Navigatie</category>
+            <comments>https://tweakers.net/nieuws/236328/garmin-introduceert-fietscomputer-edge-mtb-voor-mountainbikers-voor-400-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236328</guid>
+            <pubDate>Wed, 18 Jun 2025 12:52:51 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Visual Studio 2022 17.14.6</title>
             <link>https://tweakers.net/downloads/73024/visual-studio-2022-17146.html</link>
@@ -170,7 +200,7 @@
         <item>
             <title>Zorgorganisatie Pluryn meldt datalek door verloren USB-stick</title>
             <link>https://tweakers.net/nieuws/236296/zorgorganisatie-pluryn-meldt-datalek-door-verloren-usb-stick.html</link>
-            <description>De zorgorganisatie Pluryn meldt dat er een datalek heeft plaatsgevonden waarbij mogelijk gevoelige persoonsgegevens van medewerkers en cliënten betrokken zijn. Dit is het gevolg van een verloren USB-stick. Het bedrijf doet nog onderzoek naar het incident.</description>
+            <description>De zorgorganisatie Pluryn meldt dat er een datalek heeft plaatsgevonden waarbij mogelijk gevoelige persoonsgegevens van medewerkers en cliënten betrokken zijn. Dit is het gevolg van het verlies van een USB-stick. Het bedrijf doet nog onderzoek naar het incident.</description>
             <author>Yannick Spinner</author>
             <category>Nieuws / IT Pro / Privacy</category>
             <comments>https://tweakers.net/nieuws/236296/zorgorganisatie-pluryn-meldt-datalek-door-verloren-usb-stick.html#reacties</comments>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/236258/openai-sluit-deal-van-200-miljoen-dollar-met-amerikaanse-ministerie-van-defensie.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236258</guid>
             <pubDate>Tue, 17 Jun 2025 11:23:29 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Git 2.50.0</title>
-            <link>https://tweakers.net/downloads/73014/git-2500.html</link>
-            <description>De ontwikkelaars achter Git hebben versie 2.50.0 van hun software uitgebracht. Met Git kunnen onder andere software- en projectontwikkelaars beheer en versiecontrole over data en broncode uitvoeren. Het programma kan worden gezien als een concurrent voor Subversion of Mercurial. Het heeft onder andere complete branching- en mergingfuncties en wordt onder de GPLv2 uitgegeven. De complete changelog voor deze uitgave is hier te vinden; dit zijn de belangrijkste veranderingen en verbeteringen: UI, Workflows &amp; Features</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73014/git-2500.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73014</guid>
-            <pubDate>Tue, 17 Jun 2025 09:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Oprichter Nexus Mods stapt na 24 jaar op, nieuwe eigenaar is nog onbekend</title>
-            <link>https://tweakers.net/nieuws/236252/oprichter-nexus-mods-stapt-na-24-jaar-op-nieuwe-eigenaar-is-nog-onbekend.html</link>
-            <description>De oprichter en beheerder van Nexus Mods, een populaire website waarop gebruikers mods voor games kunnen aanbieden, heeft het platform verkocht. Wie de nieuwe eigenaar is, is niet bekendgemaakt. De oprichter zegt echter nog wel betrokken te blijven bij de site.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/236252/oprichter-nexus-mods-stapt-na-24-jaar-op-nieuwe-eigenaar-is-nog-onbekend.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236252</guid>
-            <pubDate>Tue, 17 Jun 2025 09:21:35 +0200</pubDate>
-        </item>
-        <item>
-            <title>Duitse politie haalt &#039;oudste nog actieve&#039; darkwebmarktplaats Archetyp offline</title>
-            <link>https://tweakers.net/nieuws/236250/duitse-politie-haalt-oudste-nog-actieve-darkwebmarktplaats-archetyp-offline.html</link>
-            <description>De Duitse politie heeft samen met andere Europese politiediensten, waaronder de Nederlandse, de darkwebmarktplaats Archetyp offline gehaald. Volgens Europol was dat een van de langstbestaande illegale handelsplatforms voor de verkoop van drugs.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/236250/duitse-politie-haalt-oudste-nog-actieve-darkwebmarktplaats-archetyp-offline.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236250</guid>
-            <pubDate>Tue, 17 Jun 2025 08:08:37 +0200</pubDate>
         </item>
     </channel>
 </rss>

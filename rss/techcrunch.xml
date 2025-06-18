@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 18 Jun 2025 10:23:29 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Jun 2025 10:52:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Trump set to delay TikTok ban with yet another extension</title>
+		<link>https://techcrunch.com/2025/06/18/trump-set-to-delay-tiktok-ban-with-yet-another-extension/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Wed, 18 Jun 2025 10:51:52 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[TikTok]]></category>
+		<category><![CDATA[TikTok Ban]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3019827</guid>
+
+					<description><![CDATA[U.S. President Donald Trump will issue another extension to decide the fate of TikTok, pushing it by 90 days, the White House said on Tuesday. ]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Pope Leo makes AI’s threat to humanity a signature issue</title>
 		<link>https://techcrunch.com/2025/06/18/pope-leo-makes-ais-threat-to-humanity-a-signature-issue/</link>
 		
@@ -378,23 +394,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3019428</guid>
 
 					<description><![CDATA[Posts from federated users will be found on the Following tab of the Threads app.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Waymo robotaxis are pushing into even more California cities</title>
-		<link>https://techcrunch.com/2025/06/17/waymo-robotaxis-are-pushing-into-even-more-california-cities/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
-		<pubDate>Tue, 17 Jun 2025 16:30:00 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[autonomous vehicles]]></category>
-		<category><![CDATA[robotaxi]]></category>
-		<category><![CDATA[Waymo]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019427</guid>
-
-					<description><![CDATA[Waymo is expanding its commercial robotaxi service area by another 80 square miles, a move that brings its driverless vehicles into new parts of Los Angeles, Silicon Valley, and the San Francisco Bay Area.]]></description>
 		
 		
 		
