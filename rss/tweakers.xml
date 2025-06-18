@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 18 Jun 2025 13:31:02 +0200</pubDate>
-        <lastBuildDate>Wed, 18 Jun 2025 13:31:02 +0200</lastBuildDate>
+        <pubDate>Wed, 18 Jun 2025 14:41:00 +0200</pubDate>
+        <lastBuildDate>Wed, 18 Jun 2025 14:41:00 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Hyundai-rijders kunnen connectiviteitsdienst Bluelink weer verlengen na storing</title>
+            <link>https://tweakers.net/nieuws/236332/hyundai-rijders-kunnen-connectiviteitsdienst-bluelink-weer-verlengen-na-storing.html</link>
+            <description>Hyundai zegt dat het een bug heeft opgelost, waardoor klanten weer abonnementen op Bluelink kunnen afsluiten. Het was al meer dan een maand niet mogelijk om nieuwe abonnementen af te sluiten of die te heractiveren. Hyundai zegt tegen Tweakers dat dat nu weer kan.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Beeld en geluid / Cartech</category>
+            <comments>https://tweakers.net/nieuws/236332/hyundai-rijders-kunnen-connectiviteitsdienst-bluelink-weer-verlengen-na-storing.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236332</guid>
+            <pubDate>Wed, 18 Jun 2025 14:29:38 +0200</pubDate>
+        </item>
+        <item>
+            <title>YouTube Music stelt functie om songteksten te delen breed beschikbaar</title>
+            <link>https://tweakers.net/nieuws/236340/youtube-music-stelt-functie-om-songteksten-te-delen-breed-beschikbaar.html</link>
+            <description>YouTube Music stelt de functie om songteksten te delen in zijn Android- en iOS-app breed beschikbaar. De functie is in appversie 8.24 te gebruiken voor zowel gebruikers met als zonder betaald abonnement.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/236340/youtube-music-stelt-functie-om-songteksten-te-delen-breed-beschikbaar.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236340</guid>
+            <pubDate>Wed, 18 Jun 2025 14:29:01 +0200</pubDate>
+        </item>
         <item>
             <title>Google brengt Gemini 2.5 Flash-Lite en stabiele versies 2.5 Pro en Flash uit</title>
             <link>https://tweakers.net/nieuws/236330/google-brengt-gemini-25-flash-lite-en-stabiele-versies-25-pro-en-flash-uit.html</link>
@@ -148,12 +168,12 @@
             <pubDate>Wed, 18 Jun 2025 08:33:28 +0200</pubDate>
         </item>
         <item>
-            <title>Bungie stelt extractionshooter Marathon uit, nieuwe releasedatum onbekend</title>
-            <link>https://tweakers.net/nieuws/236306/bungie-stelt-extractionshooter-marathon-uit-nieuwe-releasedatum-onbekend.html</link>
+            <title>Bungie stelt extractionshooter Marathon voor onbepaalde tijd uit</title>
+            <link>https://tweakers.net/nieuws/236306/bungie-stelt-extractionshooter-marathon-voor-onbepaalde-tijd-uit.html</link>
             <description>Bungie stelt zijn extractionshooter Marathon uit. De ontwikkelaar zegt de feedback van spelers van de alfatest ter harte te nemen en extra tijd nodig te hebben om de game te verbeteren. De game stond gepland voor 23 september; een nieuwe releasedatum is nog niet bekendgemaakt.</description>
             <author>Sabine Schults</author>
             <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/236306/bungie-stelt-extractionshooter-marathon-uit-nieuwe-releasedatum-onbekend.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/236306/bungie-stelt-extractionshooter-marathon-voor-onbepaalde-tijd-uit.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236306</guid>
             <pubDate>Wed, 18 Jun 2025 07:28:41 +0200</pubDate>
         </item>
@@ -188,12 +208,12 @@
             <pubDate>Tue, 17 Jun 2025 20:17:41 +0200</pubDate>
         </item>
         <item>
-            <title>Epic Games Store voegt ondersteuning voor Nederlandse taal toe</title>
-            <link>https://tweakers.net/nieuws/236298/epic-games-store-voegt-ondersteuning-voor-nederlandse-taal-toe.html</link>
+            <title>Epic Games Store is voortaan in het Nederlands te gebruiken</title>
+            <link>https://tweakers.net/nieuws/236298/epic-games-store-is-voortaan-in-het-nederlands-te-gebruiken.html</link>
             <description>De Epic Games Store introduceert ondersteuning voor de Nederlandse taal voor de onlinegamewinkel. Het is niet duidelijk of de uitgever Epic Games dezelfde ondersteuning ook voor zijn games zoals Fortnite gaat uitbrengen.</description>
             <author>Yannick Spinner</author>
             <category>Nieuws / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/nieuws/236298/epic-games-store-voegt-ondersteuning-voor-nederlandse-taal-toe.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/236298/epic-games-store-is-voortaan-in-het-nederlands-te-gebruiken.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236298</guid>
             <pubDate>Tue, 17 Jun 2025 19:48:48 +0200</pubDate>
         </item>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/236264/meta-test-functie-om-spoilers-te-verbergen-in-threads.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236264</guid>
             <pubDate>Tue, 17 Jun 2025 11:59:08 +0200</pubDate>
-        </item>
-        <item>
-            <title>Chinees hersenimplantaat van 26mm laat patiënt met gedachten schaken</title>
-            <link>https://tweakers.net/nieuws/236256/chinees-hersenimplantaat-van-26mm-laat-patient-met-gedachten-schaken.html</link>
-            <description>In China is voor het eerst een invasief hersenimplantaat bij een patiënt geïmplanteerd. Daarmee is China na de Verenigde Staten het tweede land waarin een dergelijke breincomputerinterface (bci) klinisch wordt getest.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Wetenschap</category>
-            <comments>https://tweakers.net/nieuws/236256/chinees-hersenimplantaat-van-26mm-laat-patient-met-gedachten-schaken.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236256</guid>
-            <pubDate>Tue, 17 Jun 2025 11:54:24 +0200</pubDate>
-        </item>
-        <item>
-            <title>OpenAI sluit deal van 200 miljoen dollar met Amerikaanse ministerie van Defensie</title>
-            <link>https://tweakers.net/nieuws/236258/openai-sluit-deal-van-200-miljoen-dollar-met-amerikaanse-ministerie-van-defensie.html</link>
-            <description>OpenAI heeft een contract van 200 miljoen dollar gesloten met het Amerikaanse ministerie van Defensie. Het is de eerste samenwerking onder het OpenAI for Government-initiatief, dat als doel heeft om de tools van OpenAI aan te bieden aan overheidsfunctionarissen in de Verenigde Staten.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/236258/openai-sluit-deal-van-200-miljoen-dollar-met-amerikaanse-ministerie-van-defensie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236258</guid>
-            <pubDate>Tue, 17 Jun 2025 11:23:29 +0200</pubDate>
         </item>
     </channel>
 </rss>
