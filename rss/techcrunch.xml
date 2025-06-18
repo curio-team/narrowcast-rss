@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 18 Jun 2025 13:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Jun 2025 14:20:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Hackers steal and destroy millions from Iran&#8217;s largest crypto exchange</title>
+		<link>https://techcrunch.com/2025/06/18/hackers-steal-and-destroy-millions-from-irans-largest-crypto-exchange/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Wed, 18 Jun 2025 14:18:36 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[iran]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3019851</guid>
+
+					<description><![CDATA[It's the latest cyberattack on Iran claimed by a pro-Israeli hacking group since the latest flare up in tensions between the two countries.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Grifin secures $11M to make investing less intimidating for its female user base</title>
 		<link>https://techcrunch.com/2025/06/18/grifin-secures-11-million-to-make-investing-less-intimidating-for-its-female-user-base/</link>
 		
@@ -373,24 +393,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3019455</guid>
 
 					<description><![CDATA[Spend management startup Ramp announced on Tuesday that it raised a $200 million Series E led by its largest investor, Founders Fund.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anysphere launches a $200-a-month Cursor AI coding subscription</title>
-		<link>https://techcrunch.com/2025/06/17/anysphere-launches-a-200-a-month-cursor-ai-coding-subscription/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Tue, 17 Jun 2025 16:45:37 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[cursor]]></category>
-		<category><![CDATA[Anysphere]]></category>
-		<category><![CDATA[ai coding]]></category>
-		<category><![CDATA[vibecoding]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019448</guid>
-
-					<description><![CDATA[Anysphere launched a new $200-a-month subscription plan for its popular AI coding tool, Cursor, the company announced in a blog post on Monday. The new plan, Ultra, offers users 20x more usage on AI models from OpenAI, Anthropic, Google DeepMind, and xAI compared to the company&#8217;s $20-a-month subscription plan, Pro. Anysphere also says Cursor users [&#8230;]]]></description>
 		
 		
 		
