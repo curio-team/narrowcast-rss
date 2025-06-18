@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 18 Jun 2025 10:52:15 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Jun 2025 13:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Grifin secures $11M to make investing less intimidating for its female user base</title>
+		<link>https://techcrunch.com/2025/06/18/grifin-secures-11-million-to-make-investing-less-intimidating-for-its-female-user-base/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Wed, 18 Jun 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Apps]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3019719</guid>
+
+					<description><![CDATA[Investment app Grifin secured a $11 million Series A funding round.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Trump set to delay TikTok ban with yet another extension</title>
 		<link>https://techcrunch.com/2025/06/18/trump-set-to-delay-tiktok-ban-with-yet-another-extension/</link>
 		
@@ -368,32 +384,13 @@
 		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
 		<pubDate>Tue, 17 Jun 2025 16:45:37 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[ai coding]]></category>
-		<category><![CDATA[Anysphere]]></category>
 		<category><![CDATA[cursor]]></category>
+		<category><![CDATA[Anysphere]]></category>
+		<category><![CDATA[ai coding]]></category>
 		<category><![CDATA[vibecoding]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3019448</guid>
 
 					<description><![CDATA[Anysphere launched a new $200-a-month subscription plan for its popular AI coding tool, Cursor, the company announced in a blog post on Monday. The new plan, Ultra, offers users 20x more usage on AI models from OpenAI, Anthropic, Google DeepMind, and xAI compared to the company&#8217;s $20-a-month subscription plan, Pro. Anysphere also says Cursor users [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Threads expands open social web integrations with fediverse feed, user profile search</title>
-		<link>https://techcrunch.com/2025/06/17/threads-expands-open-social-web-integrations-with-fediverse-feed-user-profile-search/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Tue, 17 Jun 2025 16:37:58 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[fediverse]]></category>
-		<category><![CDATA[social media]]></category>
-		<category><![CDATA[Threads]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019428</guid>
-
-					<description><![CDATA[Posts from federated users will be found on the Following tab of the Threads app.]]></description>
 		
 		
 		
