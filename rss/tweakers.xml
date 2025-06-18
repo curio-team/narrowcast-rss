@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 18 Jun 2025 10:36:06 +0200</pubDate>
-        <lastBuildDate>Wed, 18 Jun 2025 10:36:06 +0200</lastBuildDate>
+        <pubDate>Wed, 18 Jun 2025 11:31:00 +0200</pubDate>
+        <lastBuildDate>Wed, 18 Jun 2025 11:31:00 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Homey voegt groeperingsfunctie toe om slimme apparaten tegelijk te bedienen</title>
+            <link>https://tweakers.net/nieuws/236322/homey-voegt-groeperingsfunctie-toe-om-slimme-apparaten-tegelijk-te-bedienen.html</link>
+            <description>Homey maakt het voortaan mogelijk om apparaatgroepen aan te maken. Met de functie kunnen gebruikers vergelijkbare apparaten groeperen en ze tegelijk bedienen. Zo kunnen gebruikers bijvoorbeeld meerdere slimme lampen of slimme stekkers tegelijk in- en uitschakelen.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / Beeld en geluid / Basisstations</category>
+            <comments>https://tweakers.net/nieuws/236322/homey-voegt-groeperingsfunctie-toe-om-slimme-apparaten-tegelijk-te-bedienen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236322</guid>
+            <pubDate>Wed, 18 Jun 2025 11:16:35 +0200</pubDate>
+        </item>
+        <item>
+            <title>Cegeka-ceo Stijn Bijnens wordt nieuwe ceo Proximus Groep</title>
+            <link>https://tweakers.net/nieuws/236318/cegeka-ceo-stijn-bijnens-wordt-nieuwe-ceo-proximus-groep.html</link>
+            <description>Cegeka-topman Stijn Bijnens is benoemd als nieuwe ceo van Proximus Groep. Bijnens neemt vanaf 1 september de leiding van het Belgische telecombedrijf over, nadat de voormalige ceo Guillaume Boutin Proximus onlangs inruilde voor Vodafone.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
+            <comments>https://tweakers.net/nieuws/236318/cegeka-ceo-stijn-bijnens-wordt-nieuwe-ceo-proximus-groep.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236318</guid>
+            <pubDate>Wed, 18 Jun 2025 10:49:54 +0200</pubDate>
+        </item>
+        <item>
+            <title>Voicemod brengt stemvervormer voor consoles in Europa uit voor 60 euro</title>
+            <link>https://tweakers.net/nieuws/236316/voicemod-brengt-stemvervormer-voor-consoles-in-europa-uit-voor-60-euro.html</link>
+            <description>Voicemod maakt de Key-stemvervormer nu ook beschikbaar in Europa. De dongel is onder meer compatibel met de Xbox Series X en S, PlayStation 5 en Nintendo Switch 2. Het apparaatje heeft een adviesprijs van 60 euro.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Gaming / Consoles</category>
+            <comments>https://tweakers.net/nieuws/236316/voicemod-brengt-stemvervormer-voor-consoles-in-europa-uit-voor-60-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236316</guid>
+            <pubDate>Wed, 18 Jun 2025 10:43:44 +0200</pubDate>
+        </item>
         <item>
             <title>Volkswagen onthult zelfrijdende ID. Buzz voor mobiliteitsdiensten zoals Uber</title>
             <link>https://tweakers.net/nieuws/236314/volkswagen-onthult-zelfrijdende-id-buzz-voor-mobiliteitsdiensten-zoals-uber.html</link>
@@ -70,7 +100,7 @@
         <item>
             <title>Bungie stelt extractionshooter Marathon uit, nieuwe releasedatum onbekend</title>
             <link>https://tweakers.net/nieuws/236306/bungie-stelt-extractionshooter-marathon-uit-nieuwe-releasedatum-onbekend.html</link>
-            <description>Bungie stelt zijn extractionshooter Marathon uit. De ontwikkelaar zegt de feedback van spelers van de alfatest ter harte te nemen en extra tijd nodig te hebben om de game te verbeteren. De game stond gepland voor 23 september, een nieuwe releasedatum is nog niet bekendgemaakt.</description>
+            <description>Bungie stelt zijn extractionshooter Marathon uit. De ontwikkelaar zegt de feedback van spelers van de alfatest ter harte te nemen en extra tijd nodig te hebben om de game te verbeteren. De game stond gepland voor 23 september; een nieuwe releasedatum is nog niet bekendgemaakt.</description>
             <author>Sabine Schults</author>
             <category>Nieuws / Gaming / Games</category>
             <comments>https://tweakers.net/nieuws/236306/bungie-stelt-extractionshooter-marathon-uit-nieuwe-releasedatum-onbekend.html#reacties</comments>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/downloads/73012/media-player-classic-black-edition-185.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73012</guid>
             <pubDate>Tue, 17 Jun 2025 07:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Quicktest - MSI Vector 17 - Net niet high-end voor een high-end prijs</title>
-            <link>https://tweakers.net/reviews/13356/msi-vector-17-net-niet-high-end-voor-een-high-end-prijs.html</link>
-            <description>De Vector 17 is een gamelaptop met een RTX 5080-videokaart aan boord, die een stuk goedkoper is dan de echte topmodellen, maar toch nog 3800 euro kost.</description>
-            <author>Jelle Stuip</author>
-            <category>Quicktest / Computers / Laptops</category>
-            <comments>https://tweakers.net/reviews/13356/msi-vector-17-net-niet-high-end-voor-een-high-end-prijs.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13356</guid>
-            <pubDate>Tue, 17 Jun 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>TikTok komt met tool voor bedrijven om plaatjes om te zetten in video&#039;s voor ads</title>
-            <link>https://tweakers.net/nieuws/236248/tiktok-komt-met-tool-voor-bedrijven-om-plaatjes-om-te-zetten-in-videos-voor-ads.html</link>
-            <description>TikTok heeft een nieuwe functie voor adverteerders aangekondigd. Die kunnen nu een foto uploaden van bijvoorbeeld hun product, waarna de tool van TikTok er video&#039;s van vijf seconden van maakt.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / IT Pro / E-commerce</category>
-            <comments>https://tweakers.net/nieuws/236248/tiktok-komt-met-tool-voor-bedrijven-om-plaatjes-om-te-zetten-in-videos-voor-ads.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236248</guid>
-            <pubDate>Mon, 16 Jun 2025 21:10:43 +0200</pubDate>
-        </item>
-        <item>
-            <title>Meta plaatst teaser voor slimme bril van brillenmerk Oakley</title>
-            <link>https://tweakers.net/nieuws/236244/meta-plaatst-teaser-voor-slimme-bril-van-brillenmerk-oakley.html</link>
-            <description>Meta heeft een teaser geplaatst voor een slimme bril van brillenmerk Oakley. Oakley valt onder hetzelfde moederbedrijf als Ray-Ban, dat al twee slimme brillen maakte met het moederbedrijf van Instagram en Facebook.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Beeld en geluid / Gadgets</category>
-            <comments>https://tweakers.net/nieuws/236244/meta-plaatst-teaser-voor-slimme-bril-van-brillenmerk-oakley.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236244</guid>
-            <pubDate>Mon, 16 Jun 2025 20:40:22 +0200</pubDate>
         </item>
     </channel>
 </rss>
