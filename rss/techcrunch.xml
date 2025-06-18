@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 17 Jun 2025 14:21:41 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Jun 2025 06:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,371 +28,374 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Senate GOP bill spares nuclear and geothermal energy while hammering wind and solar</title>
-		<link>https://techcrunch.com/2025/06/17/senate-gop-bill-spares-nuclear-and-geothermal-energy-while-hammering-wind-and-solar/</link>
+		<title>After Shopify bought his last startup, Birk Jernström wants to help developers build one-person unicorns</title>
+		<link>https://techcrunch.com/2025/06/17/after-shopify-bought-his-last-startup-birk-jernstrom-wants-to-help-developers-build-one-person-unicorns/</link>
 		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Tue, 17 Jun 2025 14:21:35 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[geothermal energy]]></category>
-		<category><![CDATA[inflation reduction act]]></category>
-		<category><![CDATA[nuclear power]]></category>
-		<category><![CDATA[renewable energy]]></category>
-		<category><![CDATA[republican party]]></category>
-		<category><![CDATA[senate]]></category>
-		<category><![CDATA[Solar Power]]></category>
-		<category><![CDATA[Wind power]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019407</guid>
-
-					<description><![CDATA[The Senate Finance Committee’s language would take a sledgehammer to some parts of the renewable-friendly Inflation Reduction Act while sparing others. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mastodon updates its terms to prohibit AI model training</title>
-		<link>https://techcrunch.com/2025/06/17/mastodon-updates-its-terms-to-prohibit-ai-model-training/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Tue, 17 Jun 2025 14:16:18 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[App]]></category>
-		<category><![CDATA[Mastodon]]></category>
-		<category><![CDATA[model training]]></category>
-		<category><![CDATA[social network]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019371</guid>
-
-					<description><![CDATA[Social networks are bolstering their terms of service against scrapers and bots that crawl the website to train AI models. Days after Elon Musk-owned X updated its terms to explicitly prohibit AI model training, decentralized social network Mastodon today updated its own rules to bar any kind of model training, as well. &#8220;We explicitly prohibit [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Sword Health nabs $40M at $4B valuation, pushes IPO plans to at least 2028</title>
-		<link>https://techcrunch.com/2025/06/17/sword-health-nabs-40m-at-4b-valuation-pushes-ipo-plans-to-at-least-2028/</link>
-		
-		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Tue, 17 Jun 2025 13:58:33 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Biotech & Health]]></category>
+		<dc:creator><![CDATA[Anna Heim]]></dc:creator>
+		<pubDate>Wed, 18 Jun 2025 06:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
 		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[General Catalyst]]></category>
-		<category><![CDATA[IPO]]></category>
-		<category><![CDATA[Sword Health]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019367</guid>
+		<category><![CDATA[Shopify]]></category>
+		<category><![CDATA[Polar]]></category>
+		<category><![CDATA[Tictail]]></category>
+		<category><![CDATA[low code development]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3019215</guid>
 
-					<description><![CDATA[The digital health startup says it secured the fresh capital to update its valuation and finance acquisitions.]]></description>
+					<description><![CDATA[With Polar as their ‘Merchant of Record’ responsible for handling billing and taxes, developers can sell online products and SaaS subscriptions globally from day one.]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>As grocery shortages persist, UNFI says it&#8217;s recovering from cyberattack</title>
-		<link>https://techcrunch.com/2025/06/17/food-distributor-unfi-says-its-recovering-from-cyberattack-as-grocery-shortages-persist/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Tue, 17 Jun 2025 13:55:00 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[unfi]]></category>
-		<category><![CDATA[whole foods]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019030</guid>
-
-					<description><![CDATA[The ongoing outage is preventing the company from fulfilling and distributing customer orders at scale.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>UK watchdog fines 23andMe over 2023 data breach</title>
-		<link>https://techcrunch.com/2025/06/17/uk-watchdog-fines-23andme-over-2023-data-breach/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Tue, 17 Jun 2025 13:45:57 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cyberecurity]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[data protection]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019384</guid>
-
-					<description><![CDATA[The ICO said over 150,000 U.K. residents had data stolen in the breach.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Amazon is holding Prime Day 2025 on July 8-11</title>
-		<link>https://techcrunch.com/2025/06/17/amazon-is-holding-prime-day-2025-on-july-8-11/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Tue, 17 Jun 2025 13:34:43 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[Amazon]]></category>
-		<category><![CDATA[prime day]]></category>
-		<category><![CDATA[prime day 2025]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019383</guid>
-
-					<description><![CDATA[Amazon has revealed that Prime Day 2025 will take place on July 8-11, extending the annual sale event to four days this year. Amazon notes that consumers will be able to shop for &#8220;pantry staples and snacks for summer gatherings to home-improvement must-haves, back-to-school supplies, health and personal care finds, family-favorite toys, best-selling books, pet [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Two-year-old defense tech Mach Industries confirms $100M raise led by Khosla, Bedrock </title>
-		<link>https://techcrunch.com/2025/06/17/two-year-old-defense-tech-mach-industries-confirms-100m-raise-led-by-khosla-bedrock/</link>
+		<title>Police shut down Cluely&#8217;s party, the &#8216;cheat at everything&#8217; startup</title>
+		<link>https://techcrunch.com/2025/06/17/police-shut-down-cluelys-party-the-cheat-at-everything-startup/</link>
 		
 		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Tue, 17 Jun 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Space]]></category>
-		<category><![CDATA[Khosla Ventures]]></category>
-		<category><![CDATA[Sequoia]]></category>
-		<category><![CDATA[defense tech]]></category>
-		<category><![CDATA[Bedrock Capital]]></category>
-		<category><![CDATA[mach industries]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019243</guid>
-
-					<description><![CDATA[Rising-star defense tech Mach Industries has announced a new $100 million round from Khosla, Bedrock and Sequoia.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Adobe&#8217;s Firefly comes to iOS and Android</title>
-		<link>https://techcrunch.com/2025/06/17/adobe-releases-a-dedicated-firefly-app-for-image-and-video-creation/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Tue, 17 Jun 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Adobe]]></category>
-		<category><![CDATA[Adobe Firefly]]></category>
-		<category><![CDATA[ai images]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019338</guid>
-
-					<description><![CDATA[Adobe is launching its Firefly mobile app on iOS and Android for consumers to create AI-powered media ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Honda dips its toes in cargo delivery micromobility</title>
-		<link>https://techcrunch.com/2025/06/17/honda-dips-its-toes-in-cargo-delivery-micromobility/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Tue, 17 Jun 2025 12:30:00 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Climate]]></category>
-		<category><![CDATA[honda]]></category>
-		<category><![CDATA[e-bike]]></category>
-		<category><![CDATA[logistics]]></category>
-		<category><![CDATA[micromobility]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019231</guid>
-
-					<description><![CDATA[Honda will supply last-mile delivery companies with the Fastport eQuad.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US court denies Apple&#8217;s request to dismiss antitrust case concerning iCloud</title>
-		<link>https://techcrunch.com/2025/06/17/us-court-denies-apples-request-to-dismiss-antitrust-case-concerning-icloud/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Tue, 17 Jun 2025 12:18:20 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[antitrust litigation]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[iCloud]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019351</guid>
-
-					<description><![CDATA[The lawsuit alleges Apple violates competition laws by forcing users of its devices to back up critical files and device settings on iCloud. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Sequoia-backed Crosby launches a new kind of AI-powered law firm</title>
-		<link>https://techcrunch.com/2025/06/17/sequoia-backed-crosby-launches-a-new-kind-of-ai-powered-law-firm/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Tue, 17 Jun 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Sequoia]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[legal services]]></category>
-		<category><![CDATA[legal tech]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019219</guid>
-
-					<description><![CDATA[The tech industry talks a lot about how AI is going to transform work. Legal startup Crosby, which just came out of stealth, is an extreme example.
-
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Observability startup Coralogix becomes a unicorn, eyes India expansion</title>
-		<link>https://techcrunch.com/2025/06/17/observability-startup-coralogix-becomes-a-unicorn-eyes-india-expansion/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Tue, 17 Jun 2025 12:00:00 +0000</pubDate>
+		<pubDate>Tue, 17 Jun 2025 23:09:59 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Coralogix]]></category>
-		<category><![CDATA[NewView Capital]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019267</guid>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[cluely]]></category>
+		<category><![CDATA[san francsisco]]></category>
+		<category><![CDATA[Y Combinator]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3019784</guid>
 
-					<description><![CDATA[Coralogix, an Israeli startup offering a full-stack observability and security platform, has raised $115 million at a pre-money valuation of over $1 billion, almost doubling in three years from its last round in 2022. With the influx of cash, the startup is looking to expand its engineering base in India and develop its AI agent. [&#8230;]]]></description>
+					<description><![CDATA[The latest San Francisco startup culture drama happened on Monday night. And it occurred over “the most legendary party that never happened."]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Prominent global VC Endeavor Catalyst is raising $300M, sources say</title>
-		<link>https://techcrunch.com/2025/06/17/prominent-global-vc-endeavor-catalyst-is-raising-300m-sources-say/</link>
-		
-		<dc:creator><![CDATA[Tage Kene-Okafor]]></dc:creator>
-		<pubDate>Tue, 17 Jun 2025 11:00:48 +0000</pubDate>
-				<category><![CDATA[Venture]]></category>
-		<category><![CDATA[emerging markets]]></category>
-		<category><![CDATA[Endeavor Catalyst]]></category>
-		<category><![CDATA[Endeavor Global]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019276</guid>
-
-					<description><![CDATA[Endeavor Catalyst, the co-investment fund affiliated with global entrepreneurial network Endeavor Global, is raising a new $300 million fund, its fifth and largest fund yet, as it looks to deepen its bet on high-growth startups across Africa, Latin America, the Middle East, and Southeast Asia, TechCrunch has learned. The new fund, according to sources, is [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google to scale up AI-powered fraud detection and security operations in India</title>
-		<link>https://techcrunch.com/2025/06/17/google-to-scale-up-ai-powered-fraud-detection-and-security-operations-in-india/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Tue, 17 Jun 2025 07:01:00 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[Google Play]]></category>
-		<category><![CDATA[Google Messages]]></category>
-		<category><![CDATA[Google Safety Charter]]></category>
-		<category><![CDATA[Google Security Engineering Center]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019119</guid>
-
-					<description><![CDATA[Google has unveiled its Safety Charter in India, which will expand its AI-led developments for fraud detection and combating scams across the country, the company&#8217;s largest market outside the United States. Digital fraud in India is rising. Fraud related to the Indian government&#8217;s instant payment system UPI grew 85% year-over-year to nearly 11 billion Indian [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Spotify&#8217;s Daniel Ek just bet bigger on Helsing, Europe&#8217;s defense tech darling</title>
-		<link>https://techcrunch.com/2025/06/16/spotifys-daniel-ek-just-bet-bigger-on-helsing-europes-defense-tech-darling/</link>
-		
-		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
-		<pubDate>Tue, 17 Jun 2025 06:19:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[daniel ek]]></category>
-		<category><![CDATA[defense tech]]></category>
-		<category><![CDATA[helsing]]></category>
-		<category><![CDATA[Prima Materia]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019337</guid>
-
-					<description><![CDATA[Spotify's Daniel Ek just led a €600 million investment in Helsing, a four-year-old, Munich-based defense tech company that is now valued at €12 billion, according to the Financial Times. The deal makes it one of Europe's most valuable privately held companies; it also highlights Europe's scramble to build its own military muscle as the world grows messier and the U.S. turns inward. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>You can now set up double dates with friends on Tinder </title>
-		<link>https://techcrunch.com/2025/06/16/you-can-now-arrange-a-double-date-with-friends-on-tinder/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Tue, 17 Jun 2025 04:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[online dating]]></category>
-		<category><![CDATA[Tinder]]></category>
-		<category><![CDATA[dating app]]></category>
-		<category><![CDATA[Match Group]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019011</guid>
-
-					<description><![CDATA[Tinder launched a new Double Date feature, which allows users to team up with friends and chat with potential matches together.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The cracks in the OpenAI-Microsoft relationship are reportedly widening</title>
-		<link>https://techcrunch.com/2025/06/16/the-cracks-in-the-openai-microsoft-relationship-are-reportedly-widening/</link>
+		<title>Sam Altman says Meta tried and failed to poach OpenAI&#8217;s talent with $100M offers</title>
+		<link>https://techcrunch.com/2025/06/17/sam-altman-says-meta-tried-and-failed-to-poach-openais-talent-with-100m-offers/</link>
 		
 		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Mon, 16 Jun 2025 22:40:51 +0000</pubDate>
+		<pubDate>Tue, 17 Jun 2025 22:31:28 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[sam altman]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3019740</guid>
+
+					<description><![CDATA[OpenAI CEO Sam Altman said that Meta tried to poach its employees with nine-figure offers, but failed to recruit OpenAI's best people.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI&#8217;s $200M DoD contract could squeeze frenemy Microsoft</title>
+		<link>https://techcrunch.com/2025/06/17/openais-200m-dod-contract-could-squeeze-frenemy-microsoft/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 21:09:34 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[dod]]></category>
 		<category><![CDATA[Microsoft]]></category>
 		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019264</guid>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3019584</guid>
 
-					<description><![CDATA[OpenAI and Microsoft have an increasingly strained relationship, according to a recent WSJ report. ]]></description>
+					<description><![CDATA[The contract could put the model maker in competition with the OpenAI services that Microsoft wants to sell to the DoD.]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Finland warms up the world’s largest sand battery, and the economics look appealing</title>
-		<link>https://techcrunch.com/2025/06/16/finland-warms-up-the-worlds-largest-sand-battery-and-the-economics-look-appealing/</link>
+		<title>EVs dominate the most American-made cars index and it&#8217;s not just because of Tesla</title>
+		<link>https://techcrunch.com/2025/06/17/evs-dominate-the-most-american-made-cars-index-and-its-not-just-because-of-tesla/</link>
 		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Mon, 16 Jun 2025 21:54:29 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[energy storage]]></category>
-		<category><![CDATA[thermal batteries]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019203</guid>
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 20:57:17 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[Kia]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<category><![CDATA[volkswagen]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3019680</guid>
 
-					<description><![CDATA[Pornainen recently turned on a 100 MWh thermal battery filled with ground up soapstone.]]></description>
+					<description><![CDATA[Tesla, Kia, and Volkswagen took six of the top 10 spots in the 2025 American-Made Index, which ranks vehicles built and bought in the U.S. ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Instagram tests a reposts feature</title>
-		<link>https://techcrunch.com/2025/06/16/instagram-tests-a-reposts-feature/</link>
+		<title>Google&#8217;s Gemini panicked when playing Pokémon</title>
+		<link>https://techcrunch.com/2025/06/17/googles-gemini-panicked-when-playing-pokemon/</link>
 		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Mon, 16 Jun 2025 19:04:33 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Instagram]]></category>
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 20:53:19 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Claude]]></category>
+		<category><![CDATA[gemini]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[pokemon]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3019655</guid>
+
+					<description><![CDATA[AI companies are battling to dominate the industry, but sometimes they&#8217;re also battling in Pokémon gyms. As Google and Anthropic both study how their latest AI models navigate early Pokémon games, the results can be as amusing as they are enlightening &#8212; and this time, Google DeepMind has written in a report that Gemini 2.5 [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>A comprehensive list of 2025 tech layoffs</title>
+		<link>https://techcrunch.com/2025/06/17/tech-layoffs-2025-list/</link>
+		
+		<dc:creator><![CDATA[Cody Corrall, Alyssa Stringer, Kate Park]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 20:23:30 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Layoffs]]></category>
+		<category><![CDATA[tech layoffs]]></category>
+		<category><![CDATA[TechCrunch 2023 Recap]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2607662</guid>
+
+					<description><![CDATA[A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Amazon expects to reduce corporate jobs due to AI</title>
+		<link>https://techcrunch.com/2025/06/17/amazon-expects-to-reduce-corporate-jobs-due-to-ai/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 20:21:23 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Andy Jassy]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3019692</guid>
+
+					<description><![CDATA[Amazon CEO Andy Jassy expects that AI automations will both change how people work and change the number of people needed. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Meta is reportedly building AI smart glasses with Prada, too</title>
+		<link>https://techcrunch.com/2025/06/17/meta-is-reportedly-building-ai-smart-glasses-with-prada-too/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 19:38:07 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[AI smart glasses]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[social media]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019184</guid>
+		<category><![CDATA[prada]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3019644</guid>
 
-					<description><![CDATA[Instagram is testing the ability for users to repost posts, the company confirmed to TechCrunch on Monday. ]]></description>
+					<description><![CDATA[Meta is reportedly working on a pair of AI smart glasses with Prada. ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Instagram users complain of mass bans, pointing finger at AI</title>
-		<link>https://techcrunch.com/2025/06/16/instagram-users-complain-of-mass-bans-pointing-finger-at-ai/</link>
+		<title>Tumblr&#8217;s content-filtering systems have been falsely flagging posts as &#8216;mature,&#8217; users blame AI</title>
+		<link>https://techcrunch.com/2025/06/17/tumblrs-content-filtering-systems-have-been-falsely-flagging-posts-as-mature-users-blame-ai/</link>
 		
 		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Mon, 16 Jun 2025 18:44:04 +0000</pubDate>
+		<pubDate>Tue, 17 Jun 2025 19:20:27 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[moderations]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[tumblr]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3019626</guid>
+
+					<description><![CDATA[Tumblr users are complaining that content is being falsely labeled as mature, the latest tech company to grapple with automated flagging and takedowns.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Unlock purpose-driven growth at TechCrunch All Stage, and get $210 off for 6 more days</title>
+		<link>https://techcrunch.com/2025/06/17/unlock-purpose-driven-growth-at-techcrunch-all-stage-and-get-210-off-for-6-more-days/</link>
+		
+		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 18:40:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[TC All Stage]]></category>
+		<category><![CDATA[TechCrunch All Stage]]></category>
+		<category><![CDATA[TechCrunch All Stage 2025]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3019597</guid>
+
+					<description><![CDATA[T-minus 6 days until TechCrunch All Stage ticket prices rise. From now until June 22 at 11:59 p.m. PT, founders save $210 and investors save $200 on passes. Are you ready to push your startup to the next level? Or are you an investor looking to back the next big breakthrough? Join TC All Stage [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Applied Intuition raises $600M as it pushes further into defense</title>
+		<link>https://techcrunch.com/2025/06/17/applied-intuition-raises-600-million-as-it-pushes-further-into-defense/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 17:58:48 +0000</pubDate>
+				<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[fundraising]]></category>
+		<category><![CDATA[defense]]></category>
+		<category><![CDATA[autonomous vehicles]]></category>
+		<category><![CDATA[applied intuition]]></category>
+		<category><![CDATA[dual-use]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3019532</guid>
+
+					<description><![CDATA[The buzzy AI-powered autonomous vehicle software company doubles its valuation from last year -- and then some.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Facebook announces that all videos on its platform will soon be shared as reels</title>
+		<link>https://techcrunch.com/2025/06/17/facebook-announces-that-all-videos-on-its-platform-will-soon-be-shared-as-reels/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 17:56:39 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[reels]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3019526</guid>
+
+					<description><![CDATA[Facebook announced on Tuesday that all videos on its platform will soon be shared as reels, regardless of their length or orientation.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Intel to lay off up to 20% of Intel Foundry workers</title>
+		<link>https://techcrunch.com/2025/06/17/intel-to-layoff-up-to-20-of-intel-foundry-workers/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 17:50:32 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[chips]]></category>
+		<category><![CDATA[Layoffs]]></category>
+		<category><![CDATA[semiconductor]]></category>
+		<category><![CDATA[AI chips]]></category>
+		<category><![CDATA[tech layoffs]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3019546</guid>
+
+					<description><![CDATA[Rumors of these layoffs began back in April as Intel looks to refocus on its core business units and shed additional bloat. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Pro-Israel hacktivist group claims responsibility for alleged Iranian bank hack</title>
+		<link>https://techcrunch.com/2025/06/17/pro-israel-hacktivist-group-claims-responsibility-for-alleged-iranian-bank-hack/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 17:29:11 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[hacktivism]]></category>
+		<category><![CDATA[hacktivist]]></category>
+		<category><![CDATA[iran]]></category>
+		<category><![CDATA[Israel]]></category>
+		<category><![CDATA[Predatory Sparrow]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3019497</guid>
+
+					<description><![CDATA[The apparent cyberattack comes as Israel and Iran engage in a days-long escalating military conflict.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>In just 3 months, Ramp&#8217;s valuation jumped to $16B, up from $13B</title>
+		<link>https://techcrunch.com/2025/06/17/in-just-3-months-ramps-valuation-jumped-to-16b-up-from-13b/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 17:10:57 +0000</pubDate>
+				<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Founders Fund]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Ramp]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3019455</guid>
+
+					<description><![CDATA[Spend management startup Ramp announced on Tuesday that it raised a $200 million Series E led by its largest investor, Founders Fund.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anysphere launches a $200-a-month Cursor AI coding subscription</title>
+		<link>https://techcrunch.com/2025/06/17/anysphere-launches-a-200-a-month-cursor-ai-coding-subscription/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 16:45:37 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ai coding]]></category>
+		<category><![CDATA[Anysphere]]></category>
+		<category><![CDATA[cursor]]></category>
+		<category><![CDATA[vibecoding]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3019448</guid>
+
+					<description><![CDATA[Anysphere launched a new $200-a-month subscription plan for its popular AI coding tool, Cursor, the company announced in a blog post on Monday. The new plan, Ultra, offers users 20x more usage on AI models from OpenAI, Anthropic, Google DeepMind, and xAI compared to the company&#8217;s $20-a-month subscription plan, Pro. Anysphere also says Cursor users [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Threads expands open social web integrations with fediverse feed, user profile search</title>
+		<link>https://techcrunch.com/2025/06/17/threads-expands-open-social-web-integrations-with-fediverse-feed-user-profile-search/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 16:37:58 +0000</pubDate>
 				<category><![CDATA[Apps]]></category>
 		<category><![CDATA[Social]]></category>
 		<category><![CDATA[TC]]></category>
-		<category><![CDATA[Instagram]]></category>
-		<category><![CDATA[Meta]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019034</guid>
+		<category><![CDATA[fediverse]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[Threads]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3019428</guid>
 
-					<description><![CDATA[Instagram users report that their accounts were banned even though they had not violated the company's terms of service or other policies.]]></description>
+					<description><![CDATA[Posts from federated users will be found on the Following tab of the Threads app.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Waymo robotaxis are pushing into even more California cities</title>
+		<link>https://techcrunch.com/2025/06/17/waymo-robotaxis-are-pushing-into-even-more-california-cities/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 16:30:00 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[autonomous vehicles]]></category>
+		<category><![CDATA[robotaxi]]></category>
+		<category><![CDATA[Waymo]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3019427</guid>
+
+					<description><![CDATA[Waymo is expanding its commercial robotaxi service area by another 80 square miles, a move that brings its driverless vehicles into new parts of Los Angeles, Silicon Valley, and the San Francisco Bay Area.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Streaming viewership exceeded cable and broadcast combined for the first time last month, report says</title>
+		<link>https://techcrunch.com/2025/06/17/streaming-viewership-exceeded-cable-and-broadcast-combined-for-the-first-time-last-month-report-says/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 16:26:33 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[streaming]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3019435</guid>
+
+					<description><![CDATA[Last month, streaming services accounted for 44.8% of all television viewership, their largest share to date.]]></description>
 		
 		
 		
