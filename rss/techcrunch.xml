@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 19 Jun 2025 11:27:36 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 19 Jun 2025 11:35:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>SpaceX&#8217;s Starship blows up ahead of 10th test flight</title>
+		<link>https://techcrunch.com/2025/06/19/spacexs-starship-blows-up-ahead-of-10th-test-flight/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Thu, 19 Jun 2025 11:35:52 +0000</pubDate>
+				<category><![CDATA[Space]]></category>
+		<category><![CDATA[SpaceX]]></category>
+		<category><![CDATA[Starship]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3020402</guid>
+
+					<description><![CDATA[It's the latest in a string of setbacks for the mega-rocket, which SpaceX hopes to use to build Starlink and one day go to Mars.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Bluesky briefly suspended JD Vance&#8217;s account after he joined</title>
 		<link>https://techcrunch.com/2025/06/19/bluesky-briefly-suspended-jd-vances-account-after-he-joined/</link>
 		
@@ -369,24 +385,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3019916</guid>
 
 					<description><![CDATA[Zoox says the facility will eventually be able to pump out 10,000 robotaxis per year.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Internet collapses across Iran, say web-monitoring firms</title>
-		<link>https://techcrunch.com/2025/06/18/internet-collapses-across-iran-say-web-monitoring-firms/</link>
-		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
-		<pubDate>Wed, 18 Jun 2025 16:24:20 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[internet connectivity]]></category>
-		<category><![CDATA[iran]]></category>
-		<category><![CDATA[Israel]]></category>
-		<category><![CDATA[War]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019908</guid>
-
-					<description><![CDATA[It’s unclear what is causing a “near-total” internet blackout in Iran.]]></description>
 		
 		
 		

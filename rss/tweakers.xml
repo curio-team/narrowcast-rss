@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 19 Jun 2025 13:31:01 +0200</pubDate>
-        <lastBuildDate>Thu, 19 Jun 2025 13:31:01 +0200</lastBuildDate>
+        <pubDate>Thu, 19 Jun 2025 14:41:01 +0200</pubDate>
+        <lastBuildDate>Thu, 19 Jun 2025 14:41:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,66 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>DDR4-geheugen wordt tientallen procenten duurder door &#039;chaos in de markt&#039;</title>
+            <link>https://tweakers.net/nieuws/236382/ddr4-geheugen-wordt-tientallen-procenten-duurder-door-chaos-in-de-markt.html</link>
+            <description>De prijzen van DDR4-geheugen in de Pricewatch beginnen te stijgen, vaak met tientallen procenten. Daarmee worden de eerste effecten zichtbaar van wat marktonderzoeker TrendForce omschrijft als &#039;chaos&#039; in de markt voor DDR4-chips.</description>
+            <author>Tomas Hochstenbach</author>
+            <category>Nieuws / Computers / Geheugen intern</category>
+            <comments>https://tweakers.net/nieuws/236382/ddr4-geheugen-wordt-tientallen-procenten-duurder-door-chaos-in-de-markt.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236382</guid>
+            <pubDate>Thu, 19 Jun 2025 14:29:25 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Unraid 7.1.4</title>
+            <link>https://tweakers.net/downloads/73036/unraid-714.html</link>
+            <description>Versie 7.1.4 van Unraid is uitgekomen. Met dit besturingssysteem kan een server worden opgezet voor taken als network attached storage, applicatieserver en virtualisatiehost. Het is eenvoudig op te zetten en enorm flexibel met betrekking tot de gebruikte hardware en grootte van de harde schijven. Docker wordt gebruikt om functionaliteit toe te voegen en deze apps worden door een actieve community gevalideerd en onderhouden. Voorheen had Unraid een eenmalige aanschafprijs die afhing van het aantal gebruikte harde schijven en ssd&#039;s. Basic stond tot zes opslagapparaten toe, een pluslicentie maximaal twaalf apparaten en bij pro was dat ongelimiteerd. Dat is echter veranderd en voortaan moet dit jaarlijks worden verlengd om ondersteuning en updates te blijven krijgen. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Key Improvements</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73036/unraid-714.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73036</guid>
+            <pubDate>Thu, 19 Jun 2025 14:17:50 +0200</pubDate>
+        </item>
+        <item>
+            <title>Belgische omroep VRT onderzoekt AI-tools voor ondertiteling en nepnieuwsdetectie</title>
+            <link>https://tweakers.net/nieuws/236386/belgische-omroep-vrt-onderzoekt-ai-tools-voor-ondertiteling-en-nepnieuwsdetectie.html</link>
+            <description>De Vlaamse omroep VRT onderzoekt welke AI-toepassingen er binnen de mediasector mogelijk zijn. De omroep denkt dan aan het herkennen van desinformatie, automatische ondertiteling of gepersonaliseerde nieuwschatbots. Het onderzoek is onderdeel van een EU-project.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / IT Pro / Wetenschap</category>
+            <comments>https://tweakers.net/nieuws/236386/belgische-omroep-vrt-onderzoekt-ai-tools-voor-ondertiteling-en-nepnieuwsdetectie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236386</guid>
+            <pubDate>Thu, 19 Jun 2025 14:13:07 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Death Stranding krijgt ook een animatiefilm</title>
+            <link>https://tweakers.net/geek/236392/death-stranding-krijgt-ook-een-animatiefilm.html</link>
+            <description>Er komt een animatiefilm op basis van Death Stranding, de gamefranchise van Hideo Kojima. Er zijn nog weinig details bekend over de film, maar het project heeft al wel een hoofdschrijver. Er werd al gewerkt aan een liveactionfilm op basis van Death Stranding; die staat los hiervan.</description>
+            <author>Daan van Monsjou</author>
+            <category>.Geek / Gaming / Games</category>
+            <comments>https://tweakers.net/geek/236392/death-stranding-krijgt-ook-een-animatiefilm.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/236392</guid>
+            <pubDate>Thu, 19 Jun 2025 14:12:55 +0200</pubDate>
+        </item>
+        <item>
+            <title>Fractal brengt draadloze gamingheadset Scape uit voor 200 euro</title>
+            <link>https://tweakers.net/nieuws/236366/fractal-brengt-draadloze-gamingheadset-scape-uit-voor-200-euro.html</link>
+            <description>Fractal heeft de Scape-headset uitgebracht. De Scape is de eerste hoofdtelefoon van de componentenfabrikant, die het bedrijf vorig jaar toonde op Computex. Het gaat om een draadloze gamingheadset die 200 euro kost.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Gaming / Gaming headsets</category>
+            <comments>https://tweakers.net/nieuws/236366/fractal-brengt-draadloze-gamingheadset-scape-uit-voor-200-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236366</guid>
+            <pubDate>Thu, 19 Jun 2025 14:09:01 +0200</pubDate>
+        </item>
+        <item>
+            <title>AP: politie bewaart data van burgers structureel langer dan de wet voorschrijft</title>
+            <link>https://tweakers.net/nieuws/236384/ap-politie-bewaart-data-van-burgers-structureel-langer-dan-de-wet-voorschrijft.html</link>
+            <description>De Autoriteit Persoonsgegevens waarschuwt de demissionaire regering tegen het langer bewaren van politiegegevens. De regering moet stemmen over een wetsaanpassing waarmee de politie data langer mag bewaren, maar de AP zegt dat de politie die data nu al onwettig lang bewaart.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Privacy</category>
+            <comments>https://tweakers.net/nieuws/236384/ap-politie-bewaart-data-van-burgers-structureel-langer-dan-de-wet-voorschrijft.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236384</guid>
+            <pubDate>Thu, 19 Jun 2025 13:51:36 +0200</pubDate>
+        </item>
         <item>
             <title>Nederlandse Defensie werkt samen met KPN en Thales aan &#039;soevereine&#039; clouddienst</title>
             <link>https://tweakers.net/nieuws/236380/nederlandse-defensie-werkt-samen-met-kpn-en-thales-aan-soevereine-clouddienst.html</link>
@@ -356,66 +416,6 @@
             <comments>https://tweakers.net/nieuws/236324/facebook-maakt-alle-videos-standaard-reels-en-haalt-beperkingen-weg.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236324</guid>
             <pubDate>Wed, 18 Jun 2025 11:50:26 +0200</pubDate>
-        </item>
-        <item>
-            <title>Homey voegt groeperingsfunctie toe om slimme apparaten tegelijk te bedienen</title>
-            <link>https://tweakers.net/nieuws/236322/homey-voegt-groeperingsfunctie-toe-om-slimme-apparaten-tegelijk-te-bedienen.html</link>
-            <description>Homey maakt het voortaan mogelijk om apparaatgroepen aan te maken. Met de functie kunnen gebruikers vergelijkbare apparaten groeperen en ze tegelijk bedienen. Zo kunnen gebruikers bijvoorbeeld meerdere slimme lampen of slimme stekkers tegelijk in- en uitschakelen.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / Beeld en geluid / Basisstations</category>
-            <comments>https://tweakers.net/nieuws/236322/homey-voegt-groeperingsfunctie-toe-om-slimme-apparaten-tegelijk-te-bedienen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236322</guid>
-            <pubDate>Wed, 18 Jun 2025 11:16:35 +0200</pubDate>
-        </item>
-        <item>
-            <title>Cegeka-ceo Stijn Bijnens wordt nieuwe ceo Proximus Groep</title>
-            <link>https://tweakers.net/nieuws/236318/cegeka-ceo-stijn-bijnens-wordt-nieuwe-ceo-proximus-groep.html</link>
-            <description>Cegeka-topman Stijn Bijnens is benoemd als nieuwe ceo van Proximus Groep. Bijnens neemt vanaf 1 september de leiding van het Belgische telecombedrijf over, nadat de voormalige ceo Guillaume Boutin Proximus onlangs inruilde voor Vodafone.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
-            <comments>https://tweakers.net/nieuws/236318/cegeka-ceo-stijn-bijnens-wordt-nieuwe-ceo-proximus-groep.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236318</guid>
-            <pubDate>Wed, 18 Jun 2025 10:49:54 +0200</pubDate>
-        </item>
-        <item>
-            <title>Voicemod brengt stemvervormer voor consoles in Europa uit voor 60 euro</title>
-            <link>https://tweakers.net/nieuws/236316/voicemod-brengt-stemvervormer-voor-consoles-in-europa-uit-voor-60-euro.html</link>
-            <description>Voicemod maakt de Key-stemvervormer nu ook beschikbaar in Europa. De dongel is onder meer compatibel met de Xbox Series X en S, PlayStation 5 en Nintendo Switch 2. Het apparaatje heeft een adviesprijs van 60 euro.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Gaming / Consoles</category>
-            <comments>https://tweakers.net/nieuws/236316/voicemod-brengt-stemvervormer-voor-consoles-in-europa-uit-voor-60-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236316</guid>
-            <pubDate>Wed, 18 Jun 2025 10:43:44 +0200</pubDate>
-        </item>
-        <item>
-            <title>Volkswagen onthult zelfrijdende ID. Buzz voor mobiliteitsdiensten zoals Uber</title>
-            <link>https://tweakers.net/nieuws/236314/volkswagen-onthult-zelfrijdende-id-buzz-voor-mobiliteitsdiensten-zoals-uber.html</link>
-            <description>Volkswagen-dochterbedrijf MOIA onthult de ID. Buzz AD: het eerste volledig zelfrijdende productiemodel van Volkswagen. De autonome personenbus is niet bedoeld voor particulieren maar voor mobiliteitsdiensten, zoals Uber.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / Beeld en geluid / Cartech</category>
-            <comments>https://tweakers.net/nieuws/236314/volkswagen-onthult-zelfrijdende-id-buzz-voor-mobiliteitsdiensten-zoals-uber.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236314</guid>
-            <pubDate>Wed, 18 Jun 2025 10:31:50 +0200</pubDate>
-        </item>
-        <item>
-            <title>Epic Games maakt Dark and Darker in november onspeelbaar via Epic Games Store</title>
-            <link>https://tweakers.net/nieuws/236312/epic-games-maakt-dark-and-darker-in-november-onspeelbaar-via-epic-games-store.html</link>
-            <description>De game Dark and Darker is vanaf 1 november niet meer speelbaar via de Epic Games Store. Ontwikkelaar Ironmace is verwikkeld in een juridische strijd met concurrent Nexon. Als gevolg daarvan is de game al sinds maart niet meer te koop in de Epic Games Store.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/236312/epic-games-maakt-dark-and-darker-in-november-onspeelbaar-via-epic-games-store.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236312</guid>
-            <pubDate>Wed, 18 Jun 2025 10:21:39 +0200</pubDate>
-        </item>
-        <item>
-            <title>Driver-update - GeForce Game Ready Driver 576.80 WHQL</title>
-            <link>https://tweakers.net/downloads/73022/geforce-game-ready-driver-57680-whql.html</link>
-            <description>Nvidia heeft nieuwe stabiele GeForce-drivers uitgebracht. De drivers dragen versienummer 576.80 en zijn voorzien van een Windows Hardware Quality Labs-certificaat. Ze zijn geschikt voor Windows 10 en hoger, en kunnen worden gebruikt op kaarten gebaseerd op de Maxwell-architectuur of nieuwer. Deze uitgave bevat onder meer verbeteringen voor de spellen FBC: Firebreak, Rematch en DOOM: The Dark Ages. Ook zijn er weer de nodige problemen verholpen. De changelog voor deze uitgave kan hieronder worden gevonden: Game Ready</description>
-            <author>Bart van Klaveren</author>
-            <category>Driver</category>
-            <comments>https://tweakers.net/downloads/73022/geforce-game-ready-driver-57680-whql.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73022</guid>
-            <pubDate>Wed, 18 Jun 2025 10:14:04 +0200</pubDate>
         </item>
     </channel>
 </rss>
