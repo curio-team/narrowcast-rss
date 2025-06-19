@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 19 Jun 2025 15:36:01 +0200</pubDate>
-        <lastBuildDate>Thu, 19 Jun 2025 15:36:01 +0200</lastBuildDate>
+        <pubDate>Thu, 19 Jun 2025 16:31:01 +0200</pubDate>
+        <lastBuildDate>Thu, 19 Jun 2025 16:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Steam Deck krijgt schermlezer en andere nieuwe toegankelijkheidsfuncties</title>
+            <link>https://tweakers.net/nieuws/236398/steam-deck-krijgt-schermlezer-en-andere-nieuwe-toegankelijkheidsfuncties.html</link>
+            <description>Valve voegt verschillende toegankelijkheidsfuncties toe aan SteamOS-apparaten en de Steam Big Picture-modus. Apparaten met SteamOS, zoals Valves eigen Steam Deck-handheld, krijgen bijvoorbeeld een ingebouwde screenreader die tekst op het scherm voorleest.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Gaming / Consoles</category>
+            <comments>https://tweakers.net/nieuws/236398/steam-deck-krijgt-schermlezer-en-andere-nieuwe-toegankelijkheidsfuncties.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236398</guid>
+            <pubDate>Thu, 19 Jun 2025 16:20:55 +0200</pubDate>
+        </item>
+        <item>
+            <title>Driver-update - AMD Ryzen Chipset Drivers 7.06.02.123</title>
+            <link>https://tweakers.net/downloads/73038/amd-ryzen-chipset-drivers-70602123.html</link>
+            <description>AMD heeft kort geleden een nieuwe versie van zijn Ryzen Chipset-drivers uitgebracht. De drivers zijn geschikt voor de zevende generatie AMD A-processoren en hoger, en de TRX40-chipsets en hoger. De drivers zijn geschikt voor Windows 10 en 11. Voor installatie-instructies verwijst AMD naar deze pagina. In deze uitgave zijn enkele problemen verholpen en is ondersteuning voor CET Shadow Stack toegevoegd. Release Highlights</description>
+            <author>Bart van Klaveren</author>
+            <category>Driver</category>
+            <comments>https://tweakers.net/downloads/73038/amd-ryzen-chipset-drivers-70602123.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73038</guid>
+            <pubDate>Thu, 19 Jun 2025 16:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Arch Linux kan 32bit-Windows-programma&#039;s uitvoeren zonder multilib-repository</title>
+            <link>https://tweakers.net/nieuws/236396/arch-linux-kan-32bit-windows-programmas-uitvoeren-zonder-multilib-repository.html</link>
+            <description>Arch Linux gaat de Wine- en Wine Staging-packages in het besturingssyteem veranderen in een &#039;complete WoW64-build&#039;. Daardoor zijn gebruikers niet meer afhankelijk van de multilib-repository om 32bit-Windows-applicaties uit te voeren op 64bit-versies van Arch.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Software development</category>
+            <comments>https://tweakers.net/nieuws/236396/arch-linux-kan-32bit-windows-programmas-uitvoeren-zonder-multilib-repository.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236396</guid>
+            <pubDate>Thu, 19 Jun 2025 15:43:35 +0200</pubDate>
+        </item>
         <item>
             <title>Framework-reparatiepartner lekte &#039;mogelijk&#039; klantgegevens uit</title>
             <link>https://tweakers.net/nieuws/236394/framework-reparatiepartner-lekte-mogelijk-klantgegevens-uit.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/236340/youtube-music-stelt-functie-om-songteksten-te-delen-breed-beschikbaar.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236340</guid>
             <pubDate>Wed, 18 Jun 2025 14:29:01 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google brengt Gemini 2.5 Flash-Lite en stabiele versies 2.5 Pro en Flash uit</title>
-            <link>https://tweakers.net/nieuws/236330/google-brengt-gemini-25-flash-lite-en-stabiele-versies-25-pro-en-flash-uit.html</link>
-            <description>Google brengt Gemini 2.5 Flash-Lite in preview uit. Volgens de techreus gaat het om het &#039;snelste en kostenefficiëntste 2.5-model tot nu toe&#039;. De stabiele versies van Gemini 2.5 Pro en Flash zijn nu ook beschikbaar.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/236330/google-brengt-gemini-25-flash-lite-en-stabiele-versies-25-pro-en-flash-uit.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236330</guid>
-            <pubDate>Wed, 18 Jun 2025 13:20:50 +0200</pubDate>
-        </item>
-        <item>
-            <title>Netflix sluit deal met TF1 Group om voor het eerst lineaire tv uit te zenden</title>
-            <link>https://tweakers.net/nieuws/236326/netflix-sluit-deal-met-tf1-group-om-voor-het-eerst-lineaire-tv-uit-te-zenden.html</link>
-            <description>Netflix heeft een deal gesloten met TF1 Group om in Frankrijk lineaire tv uit te zenden. TF1 gaat verschillende tv-shows en grote live sportevenementen uitzenden via de streamingdienst, meldt Financial Times. Ook komt meer dan 30.000 uur content van tv-shows on-demand beschikbaar.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/236326/netflix-sluit-deal-met-tf1-group-om-voor-het-eerst-lineaire-tv-uit-te-zenden.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236326</guid>
-            <pubDate>Wed, 18 Jun 2025 12:59:24 +0200</pubDate>
-        </item>
-        <item>
-            <title>Garmin introduceert fietscomputer Edge MTB voor mountainbikers voor 400 euro</title>
-            <link>https://tweakers.net/nieuws/236328/garmin-introduceert-fietscomputer-edge-mtb-voor-mountainbikers-voor-400-euro.html</link>
-            <description>Garmin kondigt de Edge MTB aan: een fietscomputer voor mountainbikers. De fietscomputer biedt een vijf keer snellere gps-registratie dan gebruikelijk, om gedetailleerdere informatie te tonen bij complexe routes en snelle afdalingen. De Edge MTB kost 400 euro.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / Tablets en telefoons / Navigatie</category>
-            <comments>https://tweakers.net/nieuws/236328/garmin-introduceert-fietscomputer-edge-mtb-voor-mountainbikers-voor-400-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236328</guid>
-            <pubDate>Wed, 18 Jun 2025 12:52:51 +0200</pubDate>
         </item>
     </channel>
 </rss>
