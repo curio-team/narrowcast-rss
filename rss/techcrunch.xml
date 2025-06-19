@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 19 Jun 2025 10:14:14 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 19 Jun 2025 11:27:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,46 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Bluesky briefly suspended JD Vance&#8217;s account after he joined</title>
+		<link>https://techcrunch.com/2025/06/19/bluesky-briefly-suspended-jd-vances-account-after-he-joined/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 19 Jun 2025 11:27:31 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[Bluesky]]></category>
+		<category><![CDATA[JD Vance]]></category>
+		<category><![CDATA[social network]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3020397</guid>
+
+					<description><![CDATA[Bluesky's automated impersonation detection system took down JD Vance's new account, but it was restored soon after.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>A timeline of the US semiconductor market in 2025</title>
+		<link>https://techcrunch.com/2025/06/19/a-timeline-of-the-u-s-semiconductor-market-in-2025/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Thu, 19 Jun 2025 11:06:49 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[chips]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<category><![CDATA[semiconductor]]></category>
+		<category><![CDATA[TSMC]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3005295</guid>
+
+					<description><![CDATA[It&#8217;s already been a tumultuous year for the U.S. semiconductor industry. The semiconductor industry plays a sizable role in the &#8220;AI race&#8221; that the U.S. seems determined to win, which is why this context is worth paying attention to: from Intel&#8217;s appointment of Lip-Bu Tan to CEO — who wasted no time getting to work [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nvidia&#8217;s AI empire: A look at its top startup investments</title>
 		<link>https://techcrunch.com/2025/06/19/nvidias-ai-empire-a-look-at-its-top-startup-investments/</link>
 		
@@ -347,41 +387,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3019908</guid>
 
 					<description><![CDATA[It’s unclear what is causing a “near-total” internet blackout in Iran.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The ‘OpenAI Files’ push for oversight in the race to AGI</title>
-		<link>https://techcrunch.com/2025/06/18/the-openai-files-push-for-oversight-in-the-race-to-agi/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Wed, 18 Jun 2025 16:19:50 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[sam altman]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[AGI]]></category>
-		<category><![CDATA[OpenAI Files]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019921</guid>
-
-					<description><![CDATA[“The OpenAI Files,” an archival project from the Midas Project and the Tech Oversight Project, are a “collection of documented concerns with governance practices, leadership integrity, and organizational culture at OpenAI.”]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Here&#8217;s your first look at the rebooted Digg</title>
-		<link>https://techcrunch.com/2025/06/18/heres-your-first-look-at-the-rebooted-digg/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Wed, 18 Jun 2025 16:16:36 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Digg]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3019862</guid>
-
-					<description><![CDATA[Digg launched its iOS app to testers who are a part of its Groundbreakers community of early adopters. ]]></description>
 		
 		
 		
