@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 19 Jun 2025 14:41:01 +0200</pubDate>
-        <lastBuildDate>Thu, 19 Jun 2025 14:41:01 +0200</lastBuildDate>
+        <pubDate>Thu, 19 Jun 2025 15:36:01 +0200</pubDate>
+        <lastBuildDate>Thu, 19 Jun 2025 15:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Framework-reparatiepartner lekte &#039;mogelijk&#039; klantgegevens uit</title>
+            <link>https://tweakers.net/nieuws/236394/framework-reparatiepartner-lekte-mogelijk-klantgegevens-uit.html</link>
+            <description>Laptopfabrikant Framework heeft zijn klanten gewaarschuwd voor een mogelijk datalek. Dit vond plaats bij LetMeRepair DE, de partner voor reparaties en retourneringen binnen de EU. Er zijn &#039;mogelijk&#039; klantgegevens uitgelekt door een kwetsbaarheid in de website van LetMeRepair.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/236394/framework-reparatiepartner-lekte-mogelijk-klantgegevens-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236394</guid>
+            <pubDate>Thu, 19 Jun 2025 15:23:31 +0200</pubDate>
+        </item>
+        <item>
+            <title>Advies EU-Hof: Google-boete van 4 miljard euro om Android-misbruik was terecht</title>
+            <link>https://tweakers.net/nieuws/236390/advies-eu-hof-google-boete-van-4-miljard-euro-om-android-misbruik-was-terecht.html</link>
+            <description>De boete die de Europese Commissie in 2018 aan Google gaf voor machtsmisbruik met Android, was terecht. Dat zegt een advocaat-generaal tegen het Europees Hof van Justitie. Google had bij dit hof bezwaar aangetekend, maar lijkt dat bezwaar te gaan verliezen.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/236390/advies-eu-hof-google-boete-van-4-miljard-euro-om-android-misbruik-was-terecht.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236390</guid>
+            <pubDate>Thu, 19 Jun 2025 15:04:40 +0200</pubDate>
+        </item>
         <item>
             <title>DDR4-geheugen wordt tientallen procenten duurder door &#039;chaos in de markt&#039;</title>
             <link>https://tweakers.net/nieuws/236382/ddr4-geheugen-wordt-tientallen-procenten-duurder-door-chaos-in-de-markt.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/236328/garmin-introduceert-fietscomputer-edge-mtb-voor-mountainbikers-voor-400-euro.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236328</guid>
             <pubDate>Wed, 18 Jun 2025 12:52:51 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Visual Studio 2022 17.14.6</title>
-            <link>https://tweakers.net/downloads/73024/visual-studio-2022-17146.html</link>
-            <description>Microsoft heeft een update voor versie 17.14 van Visual Studio 2022 uitgebracht. Deze populaire programmeerontwikkelomgeving, verkrijgbaar in de smaken Community, Professional en Enterprise, beschikt over handige opties om het programmeren in onder meer Visual C++, Visual Basic, C#, F# en Python gemakkelijker te maken. De nieuwe versie is volledig 64bit en heeft een vereenvoudigde gebruikersinterface. Uitgebreide informatie over versie 17.14 is op deze pagina van Microsoft te vinden; in deze uitgave zijn verder nog de volgende verbeteringen aangebracht: Fixed in version 17.14.6</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73024/visual-studio-2022-17146.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73024</guid>
-            <pubDate>Wed, 18 Jun 2025 12:28:20 +0200</pubDate>
-        </item>
-        <item>
-            <title>Facebook maakt alle video&#039;s standaard reels en haalt beperkingen weg</title>
-            <link>https://tweakers.net/nieuws/236324/facebook-maakt-alle-videos-standaard-reels-en-haalt-beperkingen-weg.html</link>
-            <description>Facebook gaat in de komende maanden alle video&#039;s als reels plaatsen, maakt moederbedrijf Meta bekend. Op die manier wil het socialemediabedrijf het creatieproces &#039;stroomlijnen&#039;. Meta brengt ook de privacyinstellingen voor feedposts en reels samen.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/236324/facebook-maakt-alle-videos-standaard-reels-en-haalt-beperkingen-weg.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236324</guid>
-            <pubDate>Wed, 18 Jun 2025 11:50:26 +0200</pubDate>
         </item>
     </channel>
 </rss>
