@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 19 Jun 2025 07:30:00 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 19 Jun 2025 07:39:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -34,11 +34,12 @@
 		<dc:creator><![CDATA[Tage Kene-Okafor]]></dc:creator>
 		<pubDate>Thu, 19 Jun 2025 07:30:00 +0000</pubDate>
 				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[stripe]]></category>
-		<category><![CDATA[borderless]]></category>
-		<category><![CDATA[paystack]]></category>
+		<category><![CDATA[Africa]]></category>
 		<category><![CDATA[african diaspora]]></category>
+		<category><![CDATA[borderless]]></category>
 		<category><![CDATA[diasporan investing]]></category>
+		<category><![CDATA[paystack]]></category>
+		<category><![CDATA[stripe]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3019966</guid>
 
 					<description><![CDATA[When Joe Kinvi joined Touchtech Payments in 2017 as head of finance, the Irish startup couldn’t afford his full salary. So he negotiated for stock to make up the difference. Eighteen months later, Stripe acquired the company, and that equity converted into Stripe shares, enough to let Kinvi leave his job, bootstrap a side project, [&#8230;]]]></description>
