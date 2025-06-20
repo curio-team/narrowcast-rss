@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 20 Jun 2025 15:36:01 +0200</pubDate>
-        <lastBuildDate>Fri, 20 Jun 2025 15:36:01 +0200</lastBuildDate>
+        <pubDate>Fri, 20 Jun 2025 16:31:01 +0200</pubDate>
+        <lastBuildDate>Fri, 20 Jun 2025 16:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,46 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>&#039;Belgische regering schrapt fiscaal voordeel hybride bedrijfswagens na druk EU&#039;</title>
+            <link>https://tweakers.net/nieuws/236446/belgische-regering-schrapt-fiscaal-voordeel-hybride-bedrijfswagens-na-druk-eu.html</link>
+            <description>De Belgische federale regering gaat de eerder beloofde soepelere fiscale regels voor hybride bedrijfswagens herzien. Dat schrijft het vakblad Fleet op basis van ingewijden. De overheid zou dat doen onder druk van de Europese Unie.</description>
+            <author>Idriz Velghe</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/236446/belgische-regering-schrapt-fiscaal-voordeel-hybride-bedrijfswagens-na-druk-eu.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236446</guid>
+            <pubDate>Fri, 20 Jun 2025 16:26:32 +0200</pubDate>
+        </item>
+        <item>
+            <title>Pornhub na meer dan twee weken weer bereikbaar in Frankrijk</title>
+            <link>https://tweakers.net/nieuws/236444/pornhub-na-meer-dan-twee-weken-weer-bereikbaar-in-frankrijk.html</link>
+            <description>Pornobedrijf Aylo heeft de toegang tot Pornhub, YouPorn en Redtube in Frankrijk weer hersteld. De websites waren meer dan twee weken onbereikbaar uit protest tegen Franse regels, die leeftijdsverificatie van gebruikers verplicht stellen.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/236444/pornhub-na-meer-dan-twee-weken-weer-bereikbaar-in-frankrijk.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236444</guid>
+            <pubDate>Fri, 20 Jun 2025 16:22:47 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Samsung maakt minder Galaxy S25 Edge-telefoons vanwege tegenvallende verkoop&#039;</title>
+            <link>https://tweakers.net/nieuws/236438/samsung-maakt-minder-galaxy-s25-edge-telefoons-vanwege-tegenvallende-verkoop.html</link>
+            <description>Samsung heeft de productieaantallen van zijn dunne Galaxy S25 Edge-smartphone &#039;aanzienlijk verlaagd&#039;. Dat meldt The Elec op basis van ingewijden. De telefoon zou niet voldoen aan de verkoopverwachtingen van de Zuid-Koreaanse fabrikant.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/236438/samsung-maakt-minder-galaxy-s25-edge-telefoons-vanwege-tegenvallende-verkoop.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236438</guid>
+            <pubDate>Fri, 20 Jun 2025 15:59:46 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Ontwikkelaar draait iOS op Nintendo Switch - update</title>
+            <link>https://tweakers.net/geek/236442/ontwikkelaar-draait-ios-op-nintendo-switch.html</link>
+            <description>Een ontwikkelaar is erin geslaagd om iOS te laten draaien op de Nintendo Switch. Dat was mogelijk door het gebruik van de QEMU-processoremulator. Hoewel het besturingssysteem daadwerkelijk opstart, is de ervaring verre van perfect.</description>
+            <author>Idriz Velghe</author>
+            <category>.Geek / Gaming / Consoles</category>
+            <comments>https://tweakers.net/geek/236442/ontwikkelaar-draait-ios-op-nintendo-switch.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/236442</guid>
+            <pubDate>Fri, 20 Jun 2025 15:37:22 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - LAV Filters 0.80</title>
             <link>https://tweakers.net/downloads/73054/lav-filters-080.html</link>
@@ -376,46 +416,6 @@
             <comments>https://tweakers.net/nieuws/236366/fractal-brengt-draadloze-gamingheadset-scape-uit-voor-200-euro.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236366</guid>
             <pubDate>Thu, 19 Jun 2025 14:09:01 +0200</pubDate>
-        </item>
-        <item>
-            <title>AP: politie bewaart data van burgers structureel langer dan de wet voorschrijft</title>
-            <link>https://tweakers.net/nieuws/236384/ap-politie-bewaart-data-van-burgers-structureel-langer-dan-de-wet-voorschrijft.html</link>
-            <description>De Autoriteit Persoonsgegevens waarschuwt de demissionaire regering tegen het langer bewaren van politiegegevens. De regering moet stemmen over een wetsaanpassing waarmee de politie data langer mag bewaren, maar de AP zegt dat de politie die data nu al onwettig lang bewaart.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Privacy</category>
-            <comments>https://tweakers.net/nieuws/236384/ap-politie-bewaart-data-van-burgers-structureel-langer-dan-de-wet-voorschrijft.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236384</guid>
-            <pubDate>Thu, 19 Jun 2025 13:51:36 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nederlandse Defensie werkt samen met KPN en Thales aan &#039;soevereine&#039; clouddienst</title>
-            <link>https://tweakers.net/nieuws/236380/nederlandse-defensie-werkt-samen-met-kpn-en-thales-aan-soevereine-clouddienst.html</link>
-            <description>Het Nederlandse ministerie van Defensie gaat samen met KPN en het Franse bedrijf Thales een soevereine clouddienst ontwikkelen. Defensie is pas de afgelopen jaren op grotere schaal met clouddiensten gaan werken.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/236380/nederlandse-defensie-werkt-samen-met-kpn-en-thales-aan-soevereine-clouddienst.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236380</guid>
-            <pubDate>Thu, 19 Jun 2025 11:58:07 +0200</pubDate>
-        </item>
-        <item>
-            <title>EU: AliExpress doet niet genoeg om illegale producten op het platform te stoppen</title>
-            <link>https://tweakers.net/nieuws/236378/eu-aliexpress-doet-niet-genoeg-om-illegale-producten-op-het-platform-te-stoppen.html</link>
-            <description>AliExpress doet niet genoeg om de verkoop van illegale producten in zijn webwinkel te stoppen. Dat zegt de Europese Commissie. Het bedrijf riskeert daardoor een boete, hoewel het nog een kans krijgt om te reageren.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/236378/eu-aliexpress-doet-niet-genoeg-om-illegale-producten-op-het-platform-te-stoppen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236378</guid>
-            <pubDate>Thu, 19 Jun 2025 11:08:46 +0200</pubDate>
-        </item>
-        <item>
-            <title>Pro-Israëlische hackers stelen 78 miljoen euro aan crypto bij Iraanse exchange</title>
-            <link>https://tweakers.net/nieuws/236376/pro-israelische-hackers-stelen-78-miljoen-euro-aan-crypto-bij-iraanse-exchange.html</link>
-            <description>Een pro-Israëlische hackgroep heeft Irans grootste cryptovaluta-exchange aangevallen en daarbij zo&#039;n 78 miljoen euro aan cryptovaluta gestolen. De groep claimt ook de broncode van de exchange, Nobitex, te hebben gepubliceerd.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/236376/pro-israelische-hackers-stelen-78-miljoen-euro-aan-crypto-bij-iraanse-exchange.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236376</guid>
-            <pubDate>Thu, 19 Jun 2025 10:12:47 +0200</pubDate>
         </item>
     </channel>
 </rss>
