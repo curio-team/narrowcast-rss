@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 20 Jun 2025 09:31:01 +0200</pubDate>
-        <lastBuildDate>Fri, 20 Jun 2025 09:31:01 +0200</lastBuildDate>
+        <pubDate>Fri, 20 Jun 2025 10:36:01 +0200</pubDate>
+        <lastBuildDate>Fri, 20 Jun 2025 10:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Calibre 8.5</title>
+            <link>https://tweakers.net/downloads/73050/calibre-85.html</link>
+            <description>Versie 8.5 van Calibre is uitgekomen. Dit opensource e-bookbeheerprogramma is haast onmisbaar voor elke e-readerbezitter. Het kan onder meer alle relevante informatie en omslagafbeeldingen opzoeken, e-boeken bewerken en converteren om ze zo geschikt te maken voor de diverse soorten e-readers. Verder kan het programma kranten, tijdschriften en nieuwsartikelen op basis van RSS-feeds omzetten in e-bookformaat en kunnen er boeken worden aangeschaft bij de bekende webwinkels. Calibre is beschikbaar voor Windows, Linux en macOS. In versie 8 is onder meer de ondersteuning voor Kobo-e-readers flink verbeterd, wordt er van Piper gebruikgemaakt voor het omzetten van tekst naar spraak, wat veel natuurlijker moet klinken, en zijn er diverse verbeteringen aangebracht in de e-bookviewer. De changelog voor deze uitgave kan hieronder worden gevonden. New features</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73050/calibre-85.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73050</guid>
+            <pubDate>Fri, 20 Jun 2025 10:30:00 +0200</pubDate>
+        </item>
         <item>
             <title>ABN AMRO meldt storing waardoor iOS-gebruikers niet kunnen internetbankieren</title>
             <link>https://tweakers.net/nieuws/236426/abn-amro-meldt-storing-waardoor-ios-gebruikers-niet-kunnen-internetbankieren.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/downloads/73032/winscp-652.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73032</guid>
             <pubDate>Wed, 18 Jun 2025 21:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Facebook krijgt ondersteuning voor passkeys</title>
-            <link>https://tweakers.net/nieuws/236368/facebook-krijgt-ondersteuning-voor-passkeys.html</link>
-            <description>Facebook voegt ondersteuning voor passkeys toe aan zijn apps. Daarmee is het mogelijk om in te loggen zonder wachtwoord, met een lokaal aangemaakt bestand dat op het apparaat wordt opgeslagen en dat kan worden ontgrendeld met biometrie. Messenger-ondersteuning volgt later.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/236368/facebook-krijgt-ondersteuning-voor-passkeys.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236368</guid>
-            <pubDate>Wed, 18 Jun 2025 20:25:50 +0200</pubDate>
         </item>
     </channel>
 </rss>
