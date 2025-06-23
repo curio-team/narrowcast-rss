@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 23 Jun 2025 12:36:01 +0200</pubDate>
-        <lastBuildDate>Mon, 23 Jun 2025 12:36:01 +0200</lastBuildDate>
+        <pubDate>Mon, 23 Jun 2025 13:31:05 +0200</pubDate>
+        <lastBuildDate>Mon, 23 Jun 2025 13:31:05 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Samsung kondigt zijn eerste 3nm-smartphonesoc Exynos 2500 aan</title>
+            <link>https://tweakers.net/nieuws/236490/samsung-kondigt-zijn-eerste-3nm-smartphonesoc-exynos-2500-aan.html</link>
+            <description>Samsung heeft de Exynos 2500-soc aangekondigd. Het is de eerste 3nm-soc voor smartphones van het Zuid-Koreaanse bedrijf. De Exynos 2500 heeft tien rekenkernen en ondersteunt lpddr5x-werkgeheugen en UFS 4.0-opslag.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/236490/samsung-kondigt-zijn-eerste-3nm-smartphonesoc-exynos-2500-aan.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236490</guid>
+            <pubDate>Mon, 23 Jun 2025 12:53:52 +0200</pubDate>
+        </item>
         <item>
             <title>Politie haalt tientallen drones uit de lucht boven Den Haag bij NAVO-top</title>
             <link>https://tweakers.net/nieuws/236488/politie-haalt-tientallen-drones-uit-de-lucht-boven-den-haag-bij-navo-top.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/downloads/73054/lav-filters-080.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73054</guid>
             <pubDate>Fri, 20 Jun 2025 15:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Socialemediaverbod voor jongeren is volgens Australië technisch te handhaven</title>
-            <link>https://tweakers.net/nieuws/236436/socialemediaverbod-voor-jongeren-is-volgens-australie-technisch-te-handhaven.html</link>
-            <description>Het is &#039;technisch haalbaar&#039; om de leeftijd van socialemediagebruikers effectief te controleren. Dat blijkt uit onderzoek dat de Australische overheid heeft laten uitvoeren. Het land wil sociale media verbieden voor jongeren onder de zestien jaar.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/236436/socialemediaverbod-voor-jongeren-is-volgens-australie-technisch-te-handhaven.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236436</guid>
-            <pubDate>Fri, 20 Jun 2025 14:58:13 +0200</pubDate>
         </item>
     </channel>
 </rss>
