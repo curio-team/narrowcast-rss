@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 23 Jun 2025 10:36:02 +0200</pubDate>
-        <lastBuildDate>Mon, 23 Jun 2025 10:36:02 +0200</lastBuildDate>
+        <pubDate>Mon, 23 Jun 2025 11:31:01 +0200</pubDate>
+        <lastBuildDate>Mon, 23 Jun 2025 11:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Cloudflare weerstaat ddos-record van 37,4TB aan data in 45 seconden</title>
+            <link>https://tweakers.net/nieuws/236484/cloudflare-weerstaat-ddos-record-van-37-komma-4tb-aan-data-in-45-seconden.html</link>
+            <description>Cloudflare heeft in mei de grootste ddos-aanval ooit op zijn platform afgeweerd. De aanval genereerde ongeveer 7,3Tbit/s aan internetverkeer en verstuurde in 45 seconden 37,4TB aan data. Het laatste record was in oktober 2024.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/236484/cloudflare-weerstaat-ddos-record-van-37-komma-4tb-aan-data-in-45-seconden.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236484</guid>
+            <pubDate>Mon, 23 Jun 2025 11:14:50 +0200</pubDate>
+        </item>
+        <item>
+            <title>Ubuntu zet beveiligingsmaatregelen Intel-drivers uit om prestaties te verbeteren</title>
+            <link>https://tweakers.net/nieuws/236486/ubuntu-zet-beveiligingsmaatregelen-intel-drivers-uit-om-prestaties-te-verbeteren.html</link>
+            <description>Ubuntu heeft besloten om enkele beveiligingsmaatregelen in de Intel Compute Runtime-drivers uit te schakelen. Het gaat om maatregelen tegen de Spectre-kwetsbaarheid op gpu-niveau. Door het uitschakelen van de maatregelen moeten de systeemprestaties verbeteren.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Software development</category>
+            <comments>https://tweakers.net/nieuws/236486/ubuntu-zet-beveiligingsmaatregelen-intel-drivers-uit-om-prestaties-te-verbeteren.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236486</guid>
+            <pubDate>Mon, 23 Jun 2025 11:12:27 +0200</pubDate>
+        </item>
         <item>
             <title>&#039;OnePlus 15-smartphone krijgt kleiner scherm dan voorganger&#039;</title>
             <link>https://tweakers.net/nieuws/236482/oneplus-15-smartphone-krijgt-kleiner-scherm-dan-voorganger.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/236404/nieuwsblog-berichten-offline-halen-doen-we-liever-niet-maar-bij-de-switch-wel.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236404</guid>
             <pubDate>Fri, 20 Jun 2025 13:37:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Onaangekondigde AMD Ryzen 9000G-apu verschijnt in FurMark</title>
-            <link>https://tweakers.net/nieuws/236428/onaangekondigde-amd-ryzen-9000g-apu-verschijnt-in-furmark.html</link>
-            <description>Een onbekende AMD Ryzen-apu is verschenen in benchmarkresultaten van FurMark. Hoogstwaarschijnlijk gaat het om een van de aankomende Ryzen 9000G-processors. AMD baseert deze apu&#039;s op de Zen 5-architectuur, terwijl de igpu&#039;s gebruikmaken van de RDNA 3.5-architectuur.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / Computers / Processors</category>
-            <comments>https://tweakers.net/nieuws/236428/onaangekondigde-amd-ryzen-9000g-apu-verschijnt-in-furmark.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236428</guid>
-            <pubDate>Fri, 20 Jun 2025 12:25:11 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - eM Client 10.3.2412</title>
-            <link>https://tweakers.net/downloads/73052/em-client-1032412.html</link>
-            <description>Versie 10.3.2412 van eM Client is uitgebracht. Deze e-mailclient is beschikbaar voor Windows, macOS, Android en iOS. Het programma heeft ook een kalender, er kunnen taken en notities worden bijgehouden en er kan worden gechat via Google Talk, Jabber en via het XMPP-protocol. Het programma is gratis voor privégebruik, maar voor extra mogelijkheden of bij gebruik van meer dan twee accounts wordt wel een vergoeding gevraagd. Uitgebreide informatie over versie 10 is op deze pagina te vinden; de changelog voor deze uitgave kan hieronder worden gevonden. Changes in eM Client version 10.3.2412.0</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73052/em-client-1032412.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73052</guid>
-            <pubDate>Fri, 20 Jun 2025 12:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
