@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 23 Jun 2025 11:31:01 +0200</pubDate>
-        <lastBuildDate>Mon, 23 Jun 2025 11:31:01 +0200</lastBuildDate>
+        <pubDate>Mon, 23 Jun 2025 12:36:01 +0200</pubDate>
+        <lastBuildDate>Mon, 23 Jun 2025 12:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Politie haalt tientallen drones uit de lucht boven Den Haag bij NAVO-top</title>
+            <link>https://tweakers.net/nieuws/236488/politie-haalt-tientallen-drones-uit-de-lucht-boven-den-haag-bij-navo-top.html</link>
+            <description>De Nederlandse politie heeft al tientallen drones in Den Haag in beslag genomen vanwege een tijdelijk droneverbod rond de NAVO-top, die er vanaf morgen plaatsvindt. De politie herhaalt dat alleen drones van de politie en Defensie de lucht in mogen.</description>
+            <author>Jay Stout</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/236488/politie-haalt-tientallen-drones-uit-de-lucht-boven-den-haag-bij-navo-top.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236488</guid>
+            <pubDate>Mon, 23 Jun 2025 12:26:30 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - PicPick 7.4.0</title>
+            <link>https://tweakers.net/downloads/73076/picpick-740.html</link>
+            <description>PicPick is een programma waarmee screenshots kunnen worden gemaakt die kunnen worden bewerkt voordat ze worden opgeslagen. Verder is er nog een aantal extra tools aanwezig, zoals een colorpicker, die de kleurcode van een plek op het scherm kan weergeven, een liniaal om het aantal pixels tussen twee punten te meten, een vergrootglas en een vizier dat de exacte locatie op het scherm kan aangeven. PicPick is gratis voor privégebruik, maar toont dan wel advertenties. Een jaarlijkse licentie kost 24 dollar, of 55 voor een leven lang. Daarvoor krijg je automatische updates, worden er geen advertenties getoond en is ook gebruik in commerciële omgevingen toegestaan. De changelog voor deze uitgave ziet er als volgt uit: PicPick 7.4.0 changelog</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73076/picpick-740.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73076</guid>
+            <pubDate>Mon, 23 Jun 2025 12:00:00 +0200</pubDate>
+        </item>
         <item>
             <title>Cloudflare weerstaat ddos-record van 37,4TB aan data in 45 seconden</title>
             <link>https://tweakers.net/nieuws/236484/cloudflare-weerstaat-ddos-record-van-37-komma-4tb-aan-data-in-45-seconden.html</link>
@@ -36,6 +56,16 @@
             <comments>https://tweakers.net/nieuws/236486/ubuntu-zet-beveiligingsmaatregelen-intel-drivers-uit-om-prestaties-te-verbeteren.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236486</guid>
             <pubDate>Mon, 23 Jun 2025 11:12:27 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - UltraVNC 1.6.4.0</title>
+            <link>https://tweakers.net/downloads/73074/ultravnc-1640.html</link>
+            <description>Versie 1.6.4.0 van UltraVNC is uitgekomen. Dit programma stelt je in staat om een verbinding met een andere computer te maken. Die computer kan dan worden bestuurd alsof je er zelf achter zit, waardoor het bijvoorbeeld mogelijk is om op afstand problemen op te lossen. UltraVNC, een aftakking van RealVNC, voegt extra functionaliteit toe, waaronder de mogelijkheid tot chatten en bestandsoverdracht. De changelog voor deze uitgave ziet er als volgt uit: Changes in version 1.6.4.0</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73074/ultravnc-1640.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73074</guid>
+            <pubDate>Mon, 23 Jun 2025 10:30:00 +0200</pubDate>
         </item>
         <item>
             <title>&#039;OnePlus 15-smartphone krijgt kleiner scherm dan voorganger&#039;</title>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/236436/socialemediaverbod-voor-jongeren-is-volgens-australie-technisch-te-handhaven.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236436</guid>
             <pubDate>Fri, 20 Jun 2025 14:58:13 +0200</pubDate>
-        </item>
-        <item>
-            <title>Zoom herkent gebruikers via gezichtsscan en krijgt automatische naamlabels</title>
-            <link>https://tweakers.net/nieuws/236434/zoom-herkent-gebruikers-via-gezichtsscan-en-krijgt-automatische-naamlabels.html</link>
-            <description>Zoom voegt verschillende AI-gebaseerde functies toe aan zijn videovergaderingen. Gebruikers kunnen bijvoorbeeld via gezichtsherkenning snel inchecken om deel te nemen aan een vergadering. Het platform voegt ook bredere ondersteuning toe voor producten van fabrikanten zoals HP, Cisco, Meta en Logitech.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/236434/zoom-herkent-gebruikers-via-gezichtsscan-en-krijgt-automatische-naamlabels.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236434</guid>
-            <pubDate>Fri, 20 Jun 2025 14:46:38 +0200</pubDate>
-        </item>
-        <item>
-            <title>CBS: aantal bedrijven dat tweestapsverificatie gebruikt is verdubbeld sinds 2017</title>
-            <link>https://tweakers.net/nieuws/236432/cbs-aantal-bedrijven-dat-tweestapsverificatie-gebruikt-is-verdubbeld-sinds-2017.html</link>
-            <description>Het gebruik van tweestapsverificatie onder Nederlandse bedrijven is in acht jaar tijd meer dan verdubbeld. In 2017 maakte 26 procent van de bedrijven volgens het CBS gebruik van 2fa, maar inmiddels zou het gaan om 61 procent.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/236432/cbs-aantal-bedrijven-dat-tweestapsverificatie-gebruikt-is-verdubbeld-sinds-2017.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236432</guid>
-            <pubDate>Fri, 20 Jun 2025 13:49:30 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nieuwsblog: berichten offline halen doen we liever niet, maar bij de Switch wel</title>
-            <link>https://tweakers.net/nieuws/236404/nieuwsblog-berichten-offline-halen-doen-we-liever-niet-maar-bij-de-switch-wel.html</link>
-            <description>Berichten offline halen, dat wil je als journalist koste wat kost voorkomen. Maar soms kan het niet anders, zoals we onlangs helaas moesten ervaren na een interessant stukje mediadynamiek. Inmiddels hebben we betere regels opgesteld over wanneer we iets offline halen of rectificeren.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Gaming / Consoles</category>
-            <comments>https://tweakers.net/nieuws/236404/nieuwsblog-berichten-offline-halen-doen-we-liever-niet-maar-bij-de-switch-wel.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236404</guid>
-            <pubDate>Fri, 20 Jun 2025 13:37:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
