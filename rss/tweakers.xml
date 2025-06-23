@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 23 Jun 2025 14:41:02 +0200</pubDate>
-        <lastBuildDate>Mon, 23 Jun 2025 14:41:02 +0200</lastBuildDate>
+        <pubDate>Mon, 23 Jun 2025 15:36:01 +0200</pubDate>
+        <lastBuildDate>Mon, 23 Jun 2025 15:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Perplexity stuurt uitnodigingen voor Windows-versie Comet-browser</title>
+            <link>https://tweakers.net/nieuws/236500/perplexity-stuurt-uitnodigingen-voor-windows-versie-comet-browser.html</link>
+            <description>Perplexity heeft de eerste uitnodigingen voor het testen van de Comet-browser verzonden, meldt ceo Aravind Srinivas op X. Hij zegt dat ook de Android-build in een rap tempo volgt en voorloopt op schema. Updates over de iOS-versie volgen &#039;binnenkort&#039;.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/236500/perplexity-stuurt-uitnodigingen-voor-windows-versie-comet-browser.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236500</guid>
+            <pubDate>Mon, 23 Jun 2025 15:14:53 +0200</pubDate>
+        </item>
+        <item>
+            <title>BASE verlaagt roamingkosten buiten EU en verhoogt datalimieten</title>
+            <link>https://tweakers.net/nieuws/236502/base-verlaagt-roamingkosten-buiten-eu-en-verhoogt-datalimieten.html</link>
+            <description>De Belgische provider BASE heeft zijn mobiele internetroamingpakketten voor buiten de EU aangepast. De nieuwe pakketten zijn goedkoper en hebben hogere datalimieten. Het bedrijf past zijn bundels naar eigen zeggen aan omdat er vaker gereisd wordt.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
+            <comments>https://tweakers.net/nieuws/236502/base-verlaagt-roamingkosten-buiten-eu-en-verhoogt-datalimieten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236502</guid>
+            <pubDate>Mon, 23 Jun 2025 15:08:08 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - IPFire 2.29 - Core Update 195</title>
             <link>https://tweakers.net/downloads/73078/ipfire-229-core.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/236446/belgische-regering-schrapt-fiscaal-voordeel-hybride-bedrijfswagens-na-druk-eu.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236446</guid>
             <pubDate>Fri, 20 Jun 2025 16:26:32 +0200</pubDate>
-        </item>
-        <item>
-            <title>Pornhub na meer dan twee weken weer bereikbaar in Frankrijk</title>
-            <link>https://tweakers.net/nieuws/236444/pornhub-na-meer-dan-twee-weken-weer-bereikbaar-in-frankrijk.html</link>
-            <description>Pornobedrijf Aylo heeft de toegang tot Pornhub, YouPorn en Redtube in Frankrijk weer hersteld. De websites waren meer dan twee weken onbereikbaar uit protest tegen Franse regels, die leeftijdsverificatie van gebruikers verplicht stellen.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/236444/pornhub-na-meer-dan-twee-weken-weer-bereikbaar-in-frankrijk.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236444</guid>
-            <pubDate>Fri, 20 Jun 2025 16:22:47 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Samsung maakt minder Galaxy S25 Edge-telefoons vanwege tegenvallende verkoop&#039;</title>
-            <link>https://tweakers.net/nieuws/236438/samsung-maakt-minder-galaxy-s25-edge-telefoons-vanwege-tegenvallende-verkoop.html</link>
-            <description>Samsung heeft de productieaantallen van zijn dunne Galaxy S25 Edge-smartphone &#039;aanzienlijk verlaagd&#039;. Dat meldt The Elec op basis van ingewijden. De telefoon zou niet voldoen aan de verkoopverwachtingen van de Zuid-Koreaanse fabrikant.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/236438/samsung-maakt-minder-galaxy-s25-edge-telefoons-vanwege-tegenvallende-verkoop.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236438</guid>
-            <pubDate>Fri, 20 Jun 2025 15:59:46 +0200</pubDate>
         </item>
     </channel>
 </rss>
