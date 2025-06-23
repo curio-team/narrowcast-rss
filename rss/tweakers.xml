@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 23 Jun 2025 09:31:05 +0200</pubDate>
-        <lastBuildDate>Mon, 23 Jun 2025 09:31:05 +0200</lastBuildDate>
+        <pubDate>Mon, 23 Jun 2025 10:36:02 +0200</pubDate>
+        <lastBuildDate>Mon, 23 Jun 2025 10:36:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -38,9 +38,9 @@
             <pubDate>Mon, 23 Jun 2025 09:00:00 +0200</pubDate>
         </item>
         <item>
-            <title>Vrachtdocumenten hinten naar nieuwe Intel Nova Lake-HX-laptopchip</title>
+            <title>Vrachtdocumenten hinten naar nieuwe Intel Nova Lake HX-laptopchip</title>
             <link>https://tweakers.net/nieuws/236478/vrachtdocumenten-hinten-naar-nieuwe-intel-nova-lake-hx-laptopchip.html</link>
-            <description>Er is een verwijzing naar een nieuwe Intel Nova Lake-HX-laptopprocessor teruggevonden in vrachtdocumenten. De chip zou een nieuwe BGA2540-socket gebruiken. Het is nog niet duidelijk wanneer Intel de processor zal introduceren.</description>
+            <description>Er is een verwijzing naar een nieuwe Intel Nova Lake HX-laptopprocessor gevonden in vrachtdocumenten. De chip zou een nieuwe BGA2540-socket gebruiken. Het is nog niet duidelijk wanneer Intel de processor zal introduceren.</description>
             <author>Jay Stout</author>
             <category>Nieuws / Computers / Processors</category>
             <comments>https://tweakers.net/nieuws/236478/vrachtdocumenten-hinten-naar-nieuwe-intel-nova-lake-hx-laptopchip.html#reacties</comments>
@@ -50,7 +50,7 @@
         <item>
             <title>Software-update - DietPi 9.14</title>
             <link>https://tweakers.net/downloads/73070/dietpi-914.html</link>
-            <description>DietPi is een lichtgewicht besturingssysteem voor zogenaamde singleboardcomputers. Het is op Debian gebaseerd en geoptimaliseerd om maximale prestaties uit de kleine computers te halen. DietPi heeft daarnaast ook een groot aantal ready-to-run applicaties die kunnen worden geïnstalleerd. Hoewel de naam anders doet vermoeden is het niet alleen geschikt voor Raspberry Pi&#039;s, maar ook prima te gebruiken op hardware van bijvoorbeeld Odroid, Orange Rock en Pine. Versie 9.13 is uitgekomen en hier zijn de volgende verbeteringen in aangebracht: Overview</description>
+            <description>DietPi is een lichtgewicht besturingssysteem voor zogenaamde singleboardcomputers. Het is op Debian gebaseerd en geoptimaliseerd om maximale prestaties uit de kleine computers te halen. DietPi heeft daarnaast ook een groot aantal ready-to-run applicaties die kunnen worden geïnstalleerd. Hoewel de naam anders doet vermoeden is het niet alleen geschikt voor Raspberry Pi&#039;s, maar ook prima te gebruiken op hardware van bijvoorbeeld Odroid, Orange Rock en Pine. Versie 9.14 is uitgekomen en hier zijn de volgende verbeteringen in aangebracht: Overview</description>
             <author>Bart van Klaveren</author>
             <category>Software</category>
             <comments>https://tweakers.net/downloads/73070/dietpi-914.html#reacties</comments>
@@ -88,7 +88,7 @@
             <pubDate>Sun, 22 Jun 2025 16:25:42 +0200</pubDate>
         </item>
         <item>
-            <title>Tesla start beperkte test met zelfrijdende Model Y-robotaxi&#039;s in Austin</title>
+            <title>Tesla start beperkte test met zelfrijdende Model Y-robotaxi&#039;s in Austin - update</title>
             <link>https://tweakers.net/nieuws/236476/tesla-start-beperkte-test-met-zelfrijdende-model-y-robotaxis-in-austin.html</link>
             <description>Tesla begint in de Amerikaanse stad Austin met een beperkte test van zijn robotaxiservice op basis van Model Y-voertuigen. Voor zover bekend gaat het om grofweg twintig Tesla&#039;s. De dienst is vooralsnog alleen beschikbaar voor genodigden.</description>
             <author>Yannick Spinner</author>
