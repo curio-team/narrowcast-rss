@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 24 Jun 2025 13:27:05 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Jun 2025 14:09:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,60 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Amazon to spend over $4B to expand Prime delivery to rural communities in the US</title>
+		<link>https://techcrunch.com/2025/06/24/amazon-to-spend-over-4b-to-expand-prime-delivery-to-rural-communities-in-the-us/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Tue, 24 Jun 2025 14:09:40 +0000</pubDate>
+				<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Amazon Prime]]></category>
+		<category><![CDATA[eCommerce]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3021625</guid>
+
+					<description><![CDATA[Amazon expands its Same-Day and Next-Day delivery services to 4K small cities and towns in the U.S. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>UK may require Google to give users alternative search options and rank its results &#8216;more fairly&#8217;</title>
+		<link>https://techcrunch.com/2025/06/24/uk-may-require-google-to-give-users-alternative-search-options-and-rank-its-results-more-fairly/</link>
+		
+		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
+		<pubDate>Tue, 24 Jun 2025 14:05:09 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Competition and Markets Authority]]></category>
+		<category><![CDATA[competition law]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google Search]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3021596</guid>
+
+					<description><![CDATA[The UK's competition regulator may require Google to offer users alternative search engines; change how it ranks searches; and improve data portability.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google rolls out new Gemini model that can run on robots locally</title>
+		<link>https://techcrunch.com/2025/06/24/google-rolls-out-new-gemini-model-that-can-run-on-robots-locally/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Tue, 24 Jun 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[robots]]></category>
+		<category><![CDATA[gemini]]></category>
+		<category><![CDATA[DeepMind]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3021559</guid>
+
+					<description><![CDATA[Google DeepMind has released a new language model called Gemini Robotics On-Device that can run tasks locally on robots without an internet connection. ]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>How a data processing problem at Lyft became the basis for Eventual</title>
 		<link>https://techcrunch.com/2025/06/24/how-a-data-processing-problem-at-lyft-became-the-basis-for-eventual/</link>
 		
@@ -255,9 +309,9 @@
 		
 		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
 		<pubDate>Mon, 23 Jun 2025 18:03:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
+				<category><![CDATA[Venture]]></category>
+		<category><![CDATA[AI]]></category>
 		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Venture]]></category>
 		<category><![CDATA[Kleiner Perkins]]></category>
 		<category><![CDATA[Coatue Management]]></category>
 		<category><![CDATA[legaltech]]></category>
@@ -345,61 +399,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3021107</guid>
 
 					<description><![CDATA[AllSpice's platform sits between existing workflow software. It allows hardware teams to collaborate on the types of documents they traditionally work in — documents that don't easily translate over Slack and email — like PCB files and electronic CAD files, both of which are used to design circuit boards. AllSpice's platform has landed customers such as Blue Origin and Bose and just raised a $15 million Series A round. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Senators urge FTC to investigate Spotify’s higher-priced bundled subscription</title>
-		<link>https://techcrunch.com/2025/06/23/senators-urge-ftc-to-investigate-spotifys-higher-priced-bundled-subscription/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Mon, 23 Jun 2025 14:57:21 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Federal Trade Commission]]></category>
-		<category><![CDATA[music streaming service]]></category>
-		<category><![CDATA[Spotify]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3021126</guid>
-
-					<description><![CDATA[Two U.S. senators have requested that the FTC investigate Spotify due to allegations that the company bundled its subscription without user consent, while also undercompensating creators.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TikTok parent ByteDance is shutting down its short-lived book publisher</title>
-		<link>https://techcrunch.com/2025/06/23/tiktok-parent-bytedance-is-shutting-down-its-short-lived-book-publisher/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Mon, 23 Jun 2025 14:51:53 +0000</pubDate>
-				<category><![CDATA[Social]]></category>
-		<category><![CDATA[8th note press]]></category>
-		<category><![CDATA[bytedance]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[TikTok]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3021119</guid>
-
-					<description><![CDATA[While authors were drawn to ByteDance's book publisher, 8th Note Press, because it seemed like its affiliation with TikTok could drive sales, the press is now telling writers that it will shut down and give them their publication rights back.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US insurance giant Aflac says customers&#8217; personal data stolen during cyberattack</title>
-		<link>https://techcrunch.com/2025/06/23/us-insurance-giant-aflac-says-customers-personal-data-stolen-during-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Mon, 23 Jun 2025 14:50:00 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[insurance]]></category>
-		<category><![CDATA[Scattered Spider]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3021129</guid>
-
-					<description><![CDATA[Aflac, which provides supplemental insurance to around 50 million individuals whose expenses are not covered by their primary providers, said it was not yet known how many customers are affected by the data breach but that the personal data includes customers' claims, such as Social Security numbers and health information.
-]]></description>
 		
 		
 		
