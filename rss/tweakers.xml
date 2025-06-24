@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 24 Jun 2025 09:31:01 +0200</pubDate>
-        <lastBuildDate>Tue, 24 Jun 2025 09:31:01 +0200</lastBuildDate>
+        <pubDate>Tue, 24 Jun 2025 10:36:01 +0200</pubDate>
+        <lastBuildDate>Tue, 24 Jun 2025 10:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Apple verlaagt doorzichtigheid bedieningspaneel in tweede bèta iOS 26</title>
+            <link>https://tweakers.net/nieuws/236528/apple-verlaagt-doorzichtigheid-bedieningspaneel-in-tweede-beta-ios-26.html</link>
+            <description>Apple past de doorzichtigheid van het bedieningspaneel aan in de tweede bèta van iOS 26. Hierdoor zijn knoppen beter zichtbaar. Het bedrijf introduceerde met iOS 26 het semitransparante ontwerp onder de naam Liquid Glass.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Computers / Besturingssystemen</category>
+            <comments>https://tweakers.net/nieuws/236528/apple-verlaagt-doorzichtigheid-bedieningspaneel-in-tweede-beta-ios-26.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236528</guid>
+            <pubDate>Tue, 24 Jun 2025 09:35:39 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - OpenZFS 2.3.3</title>
             <link>https://tweakers.net/downloads/73088/openzfs-233.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/video/19960/wat-is-de-beste-selfiedrone-dji-neo-dji-flip-en-hoverair-x1-pro-max-round-up.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/video/19960</guid>
             <pubDate>Sun, 22 Jun 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Darktable 5.2.0</title>
-            <link>https://tweakers.net/downloads/73060/darktable-520.html</link>
-            <description>Versie 5.2 van darktable is uitgekomen. Darktable is een opensource raw fotobewerkingsprogramma, een virtuele lichtbak en donkere kamer voor fotobewerking. Het beheert digitale negatieven via een database. Het ontwikkelen van de ruwe fotobestanden gebeurt door middel van zogenaamde sidecarfiles, waarbij de foto&#039;s op niet-destructieve wijze worden bewerkt. De software is beschikbaar voor diverse Linux-distributies, macOS en Windows. De changelog voor deze uitgave kan hieronder worden gevonden: The Big Ones</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73060/darktable-520.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73060</guid>
-            <pubDate>Sat, 21 Jun 2025 13:20:49 +0200</pubDate>
         </item>
     </channel>
 </rss>
