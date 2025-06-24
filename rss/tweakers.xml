@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 23 Jun 2025 16:36:01 +0200</pubDate>
-        <lastBuildDate>Mon, 23 Jun 2025 16:36:01 +0200</lastBuildDate>
+        <pubDate>Tue, 24 Jun 2025 09:31:01 +0200</pubDate>
+        <lastBuildDate>Tue, 24 Jun 2025 09:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,136 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - OpenZFS 2.3.3</title>
+            <link>https://tweakers.net/downloads/73088/openzfs-233.html</link>
+            <description>Het opensource zfs-bestandssysteem werd oorspronkelijk door Sun ontwikkeld voor Solaris, maar in 2013 heeft een aantal ontwikkelaars OpenZFS opgericht om de verdere ontwikkeling te waarborgen. Het bestandssysteem wordt momenteel officieel ondersteund op Linux en FreeBSD. Het bevat onder andere methodes om datacorruptie in zowel de data als de metadata te voorkomen, biedt dataredundantie via RAID-Z en bespaart ruimte door de data transparant te comprimeren. Voor meer informatie verwijzen we jullie door naar de OpenZFS-website. De ontwikkelaars hebben enkele dagen geleden versie 2.3.3 uitgebracht en hierin zijn de volgende veranderingen en verbeteringen aangebracht: Supported Platforms</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73088/openzfs-233.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73088</guid>
+            <pubDate>Tue, 24 Jun 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Samsung onthult op 9 juli nieuwe foldables, waaronder Z Fold Ultra</title>
+            <link>https://tweakers.net/nieuws/236524/samsung-onthult-op-9-juli-nieuwe-foldables-waaronder-z-fold-ultra.html</link>
+            <description>Samsung houdt op 9 juli 2025 om 16.00 uur Nederlandse tijd een Unpacked-presentatie. De fabrikant belooft tijdens het evenement nieuws over zijn foldables te delen. Naar verwachting worden er ook nieuwe functies voor Galaxy AI onthuld.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/236524/samsung-onthult-op-9-juli-nieuwe-foldables-waaronder-z-fold-ultra.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236524</guid>
+            <pubDate>Tue, 24 Jun 2025 08:38:06 +0200</pubDate>
+        </item>
+        <item>
+            <title>Riot Games annuleert Minecraft-achtige game Hytale en sluit Hypixel Studios</title>
+            <link>https://tweakers.net/nieuws/236518/riot-games-annuleert-minecraft-achtige-game-hytale-en-sluit-hypixel-studios.html</link>
+            <description>Riot Games stopt met de ontwikkeling van Hytale en sluit Hypixel Studios, het dochterbedrijf dat verantwoordelijk is voor de Minecraft-achtige sandbox-rpg. Het spel was sinds 2015 in ontwikkeling en is nooit publiekelijk uitgekomen.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/236518/riot-games-annuleert-minecraft-achtige-game-hytale-en-sluit-hypixel-studios.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236518</guid>
+            <pubDate>Tue, 24 Jun 2025 08:08:47 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Homebrew 4.5.8</title>
+            <link>https://tweakers.net/downloads/73086/homebrew-458.html</link>
+            <description>Homebrew is een pakketbeheerder die wordt bijgehouden door een groep vrijwilligers, waarbij vanuit verschillende &#039;taps&#039; (pakketbronnen) &#039;formula&#039; (softwarepakketten) kunnen worden geïnstalleerd via de terminal. Homebrew begon als een project om een tot dan toe ontbrekende pakketbeheerder aan te bieden op macOS, maar Homebrew biedt al langer ook ondersteuning voor Linux. Inmiddels zijn de Homebrew-repository&#039;s op GitHub uitgegroeid tot de grootste qua aantallen bijdragers. Via zogeheten &#039;casks&#039; is het verder mogelijk om apps en lettertypen te installeren en beheren op een macOS-installatie. Versie 4.5.8 is uitgekomen en de changelog sinds versie 4.5.5 ziet er als volgt uit: Homebrew 4.5.8:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73086/homebrew-458.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73086</guid>
+            <pubDate>Tue, 24 Jun 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Quicktest - Onyx BOOX Go 6 - Meer Android, minder leescomfort</title>
+            <link>https://tweakers.net/reviews/13362/onyx-boox-go-6-meer-android-minder-leescomfort.html</link>
+            <description>De BOOX Go 6 is niet alleen een e-reader, maar eigenlijk een volledige Android-tablet. Wat kun je allemaal met deze tablet en waarin verschilt hij van de Poke 5?</description>
+            <author>Jelle Stuip</author>
+            <category>Quicktest / Tablets en telefoons / E-readers</category>
+            <comments>https://tweakers.net/reviews/13362/onyx-boox-go-6-meer-android-minder-leescomfort.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13362</guid>
+            <pubDate>Tue, 24 Jun 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - GIMP 3.1.2</title>
+            <link>https://tweakers.net/downloads/73084/gimp-312.html</link>
+            <description>Versie 3.1.2 van het opensource fotobewerkingsprogramma GIMP is uitgekomen, een eerste ontwikkelversie die uiteindelijk tot versie 3.2 zal leiden. De naam GIMP is een afkorting voor &#039;GNU Image Manipulation Program&#039;. De software is beschikbaar voor diverse besturingssystemen, waaronder Windows, FreeBSD, Linux, macOS en Solaris. In versie 3.0 is de overstap naar GTK3 gemaakt, kunnen xcf-bestanden nu groter dan 4GB zijn en kan het efficiënter gebruikmaken van multicoreprocessoren. De release notes voor deze uitgave kunnen hieronder worden gevonden. GIMP 3.1.2: First Development Release towards GIMP 3.2</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73084/gimp-312.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73084</guid>
+            <pubDate>Mon, 23 Jun 2025 21:19:19 +0200</pubDate>
+        </item>
+        <item>
+            <title>FT: Apple gaat &#039;anti-steering&#039;-beleid aanpassen om meer EU-boetes te voorkomen</title>
+            <link>https://tweakers.net/nieuws/236516/ft-apple-gaat-anti-steering-beleid-aanpassen-om-meer-eu-boetes-te-voorkomen.html</link>
+            <description>Apple is van plan om zijn &#039;anti-steering&#039;-beleid aan te passen en zo tegemoet te komen aan de eisen van de Europese Commissie. Dat schrijft The Financial Times op basis van ingewijden. Het bedrijf moet dit beleid voor donderdag 26 juni aanpassen om hoge boetes te voorkomen.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/236516/ft-apple-gaat-anti-steering-beleid-aanpassen-om-meer-eu-boetes-te-voorkomen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236516</guid>
+            <pubDate>Mon, 23 Jun 2025 21:05:57 +0200</pubDate>
+        </item>
+        <item>
+            <title>Microsoft gaat geïnstalleerde games van andere pc-winkels integreren in Xbox-app</title>
+            <link>https://tweakers.net/nieuws/236514/microsoft-gaat-geinstalleerde-games-van-andere-pc-winkels-integreren-in-xbox-app.html</link>
+            <description>Microsoft gaat andere pc-gamingwinkels, waaronder Battle.net, integreren in zijn Xbox-desktopapp. Daardoor is het mogelijk om games van deze winkels vanuit een enkele launcher te openen.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Computers / Besturingssystemen</category>
+            <comments>https://tweakers.net/nieuws/236514/microsoft-gaat-geinstalleerde-games-van-andere-pc-winkels-integreren-in-xbox-app.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236514</guid>
+            <pubDate>Mon, 23 Jun 2025 20:34:20 +0200</pubDate>
+        </item>
+        <item>
+            <title>Telecompaper: Odido heeft meer dan 1 miljoen vastinternetklanten</title>
+            <link>https://tweakers.net/nieuws/236494/telecompaper-odido-heeft-meer-dan-1-miljoen-vastinternetklanten.html</link>
+            <description>Odido heeft meer dan 1 miljoen klanten met een vaste internetverbinding. Dat meldt marktonderzoeker Telecompaper op basis van geschatte marktcijfers. De groei zou vooral te maken hebben met het succes van de 5G-voor-thuisinternetdienst Klik&amp;Klaar.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Internettoegang</category>
+            <comments>https://tweakers.net/nieuws/236494/telecompaper-odido-heeft-meer-dan-1-miljoen-vastinternetklanten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236494</guid>
+            <pubDate>Mon, 23 Jun 2025 19:01:57 +0200</pubDate>
+        </item>
+        <item>
+            <title>Huis van Afgevaardigden VS verbiedt WhatsApp op werkapparaten van medewerkers</title>
+            <link>https://tweakers.net/nieuws/236512/huis-van-afgevaardigden-vs-verbiedt-whatsapp-op-werkapparaten-van-medewerkers.html</link>
+            <description>Amerikaanse overheidsmedewerkers die betrokken zijn bij het Huis van Afgevaardigden mogen WhatsApp niet meer op hun werkapparaten hebben staan. De chatdienst wordt gezien als een hoog veiligheidsrisico.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/236512/huis-van-afgevaardigden-vs-verbiedt-whatsapp-op-werkapparaten-van-medewerkers.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236512</guid>
+            <pubDate>Mon, 23 Jun 2025 18:22:30 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Modder haalt met shuntmod stroomverbruik van 800W op RTX 5090</title>
+            <link>https://tweakers.net/geek/236510/modder-haalt-met-shuntmod-stroomverbruik-van-800w-op-rtx-5090.html</link>
+            <description>De bekende overklokker Roman Hartung heeft door middel van een shuntmod een hogere score in 3DMark Speedway gehaald met een GeForce RTX 5090-kaart dan een RTX 6000 Pro-gpu. Hij mat ook een piekvermogen van meer dan 800W, terwijl normaal een limiet van 600W geldt.</description>
+            <author>Imre Himmelbauer</author>
+            <category>.Geek / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/geek/236510/modder-haalt-met-shuntmod-stroomverbruik-van-800w-op-rtx-5090.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/236510</guid>
+            <pubDate>Mon, 23 Jun 2025 17:36:16 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Clonezilla 3.2.2-15</title>
+            <link>https://tweakers.net/downloads/73080/clonezilla-322-15.html</link>
+            <description>Clonezilla is een opensourceprogramma waarmee diskimages kunnen worden gemaakt. Het is onder andere mogelijk om back-ups van partities of van de hele harde schijf te maken, of een kopie van een harde schijf: een zogeheten kloon. Clonezilla is daarmee een opensourcevariant van Macrium Reflect en Acronis True Image. Het geheel is gebaseerd op een Debian-distributie en het maakt gebruik van DRBL, Partclone en udpcast. Clonezilla live is bedoeld voor losse computers, terwijl er met Clonezilla server tot wel veertig computers tegelijk van een image voorzien kunnen worden. Met versienummer 3.2.2-15 is een nieuwe stabiele uitgave van Clonezilla verschenen en de changelog van die versie ziet er als volgt uit: Enhancements and changes</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73080/clonezilla-322-15.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73080</guid>
+            <pubDate>Mon, 23 Jun 2025 17:30:10 +0200</pubDate>
+        </item>
+        <item>
+            <title>Lenovo brengt Chromebook Plus-laptop uit met Arm-cpu met 50Tops-npu</title>
+            <link>https://tweakers.net/nieuws/236506/lenovo-brengt-chromebook-plus-laptop-uit-met-arm-cpu-met-50tops-npu.html</link>
+            <description>Lenovo en Google hebben de Chromebook Plus 14 geïntroduceerd. Deze laptop heeft een npu met 50Tops aan AI-rekenkracht. Het is de eerste Chromebook Plus met een Arm-processor. Google komt daarnaast met enkele nieuwe AI-functies voor zijn Chromebook Plus-modellen.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / </category>
+            <comments>https://tweakers.net/nieuws/236506/lenovo-brengt-chromebook-plus-laptop-uit-met-arm-cpu-met-50tops-npu.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236506</guid>
+            <pubDate>Mon, 23 Jun 2025 17:23:39 +0200</pubDate>
+        </item>
         <item>
             <title>&#039;DeepSeek helpt bij Chinese militaire operaties en omzeilt exportbeperkingen&#039;</title>
             <link>https://tweakers.net/nieuws/236504/deepseek-helpt-bij-chinese-militaire-operaties-en-omzeilt-exportbeperkingen.html</link>
@@ -50,7 +180,7 @@
         <item>
             <title>BASE verlaagt roamingkosten buiten EU en verhoogt datalimieten</title>
             <link>https://tweakers.net/nieuws/236502/base-verlaagt-roamingkosten-buiten-eu-en-verhoogt-datalimieten.html</link>
-            <description>De Belgische provider BASE heeft zijn mobiele internetroamingpakketten voor buiten de EU aangepast. De nieuwe pakketten zijn goedkoper en hebben hogere datalimieten. Het bedrijf past zijn bundels naar eigen zeggen aan omdat er vaker gereisd wordt.</description>
+            <description>De Belgische provider BASE heeft zijn mobielinternetroamingpakketten voor buiten de EU aangepast. De nieuwe pakketten zijn goedkoper en hebben hogere datalimieten. Het bedrijf past zijn bundels naar eigen zeggen aan omdat er vaker gereisd wordt.</description>
             <author>Kevin Krikhaar</author>
             <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
             <comments>https://tweakers.net/nieuws/236502/base-verlaagt-roamingkosten-buiten-eu-en-verhoogt-datalimieten.html#reacties</comments>
@@ -286,136 +416,6 @@
             <comments>https://tweakers.net/downloads/73060/darktable-520.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73060</guid>
             <pubDate>Sat, 21 Jun 2025 13:20:49 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Bètaversie macOS Tahoe bevat geen ondersteuning voor FireWire 400 en 800&#039;</title>
-            <link>https://tweakers.net/nieuws/236468/betaversie-macos-tahoe-bevat-geen-ondersteuning-voor-firewire-400-en-800.html</link>
-            <description>Enkele gebruikers die de eerste ontwikkelaarsversie van macOS 26 Tahoe aan het testen zijn, claimen dat de huidige bètaversie van het besturingssysteem geen ondersteuning voor FireWire 400 en 800 biedt. Het is niet duidelijk of Apple op een later moment ondersteuning zal toevoegen.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Computers / Laptops</category>
-            <comments>https://tweakers.net/nieuws/236468/betaversie-macos-tahoe-bevat-geen-ondersteuning-voor-firewire-400-en-800.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236468</guid>
-            <pubDate>Sat, 21 Jun 2025 12:58:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Leaker: Windows 11 krijgt optie om locatie systeemindicatoren te wijzigen</title>
-            <link>https://tweakers.net/nieuws/236466/leaker-windows-11-krijgt-optie-om-locatie-systeemindicatoren-te-wijzigen.html</link>
-            <description>Windows 11 lijkt een functie te krijgen waarmee de locatie van systeemindicatoren, zoals het volume- of het helderheidsniveau kan worden gewijzigd. Gebruikers zullen kunnen kiezen of deze indicatoren centraal onderaan, centraal bovenaan of linksbovenaan op het scherm verschijnen.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Computers / Besturingssystemen</category>
-            <comments>https://tweakers.net/nieuws/236466/leaker-windows-11-krijgt-optie-om-locatie-systeemindicatoren-te-wijzigen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236466</guid>
-            <pubDate>Sat, 21 Jun 2025 12:35:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nieuwe beelden Logitech MX Master 4 wijzen op extra muisknop</title>
-            <link>https://tweakers.net/nieuws/236464/nieuwe-beelden-logitech-mx-master-4-wijzen-op-extra-muisknop.html</link>
-            <description>Er zijn nieuwe beelden van de Logitech MX Master 4 uitgelekt waarop te zien is dat de aankomende computermuis een nieuwe knop meekrijgt. Logitech lijkt de behuizing van de muis ook van minder reliëf te voorzien.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Computers / Muizen</category>
-            <comments>https://tweakers.net/nieuws/236464/nieuwe-beelden-logitech-mx-master-4-wijzen-op-extra-muisknop.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236464</guid>
-            <pubDate>Sat, 21 Jun 2025 12:03:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - XnView 2.52.2</title>
-            <link>https://tweakers.net/downloads/73040/xnview-2522.html</link>
-            <description>Versie 2.52.2 van XnView is uitgekomen. Dit programma kan meer dan 500 verschillende formaten afbeeldingen openen en converteren. Het is in meer dan 40 talen beschikbaar en is gratis voor particulieren en non-profitorganisaties. Er zijn drie verschillende versies beschikbaar: een minimale, standaard en complete versie. Het verschil zit in het aantal meegeleverde talen, ondersteunde formaten en het al dan niet meeleveren van NConvert. NConvert kan dezelfde bewerkingen uitvoeren als XnView, maar kan dat in bulk doen en ook vanaf de commandline. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 2.52.2:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73040/xnview-2522.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73040</guid>
-            <pubDate>Sat, 21 Jun 2025 11:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google Maps geeft meer info over fietsroutes in Europese steden</title>
-            <link>https://tweakers.net/nieuws/236460/google-maps-geeft-meer-info-over-fietsroutes-in-europese-steden.html</link>
-            <description>Google Maps heeft een update gekregen waarmee er meer informatie over fietsroutes in verschillende Europese steden is te zien. Google heeft ook meer steden met lage-emissiezones in de Google Maps-database opgenomen.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/236460/google-maps-geeft-meer-info-over-fietsroutes-in-europese-steden.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236460</guid>
-            <pubDate>Sat, 21 Jun 2025 10:44:55 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Apple overweegt samenwerking of overname van Perplexity AI&#039;</title>
-            <link>https://tweakers.net/nieuws/236458/apple-overweegt-samenwerking-of-overname-van-perplexity-ai.html</link>
-            <description>Enkele kaderleden bij Apple hebben gesprekken gevoerd over een mogelijke overname van start-up Perplexity AI. De gesprekken kunnen volgens Bloomberg-journalist Mark Gurman een andere richting opgaan, want Apple denkt ook na over een nauwere samenwerking met de AI-start-up.</description>
-            <author>Jay Stout</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/236458/apple-overweegt-samenwerking-of-overname-van-perplexity-ai.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236458</guid>
-            <pubDate>Sat, 21 Jun 2025 09:51:25 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - RouterOS 7.19.2</title>
-            <link>https://tweakers.net/downloads/73058/routeros-7192.html</link>
-            <description>MikroTik heeft versie 7.19.2 van RouterOS uitgebracht, een besturingssysteem dat zich richt op het uitvoeren van routertaken en meer. Denk daarbij natuurlijk aan het routeren van netwerkverkeer, maar ook aan bandbreedtemanagement, een firewall, het aansturen van draadlozeaccesspoints, een hotspotgateway en een vpn-server. Het kan zowel op de hardware van MikroTik als op x86- of virtuele machines zijn werk doen. Voor het gebruik is een licentie nodig, die bij de aankoop van MikroTik-hardware is inbegrepen. De changelog voor deze uitgave kan hieronder worden gevonden. What&#039;s new in 7.19.2:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73058/routeros-7192.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73058</guid>
-            <pubDate>Sat, 21 Jun 2025 08:55:37 +0200</pubDate>
-        </item>
-        <item>
-            <title>Review - Netgear RS700-router met Wi-Fi 7 - Topprestaties beloofd, half waargemaakt</title>
-            <link>https://tweakers.net/reviews/13380/netgear-rs700-router-met-wi-fi-7-topprestaties-beloofd-half-waargemaakt.html</link>
-            <description>We bekijken de Netgear Nighthawk RS700 met Wi-Fi 7, de snelste wifirouter die Netgear op het moment levert. Is dit snelheidsmonster zijn hoge prijs van 800 euro waard?</description>
-            <author>Olaf Weijers</author>
-            <category>Review / Computers / Modems en routers</category>
-            <comments>https://tweakers.net/reviews/13380/8/netgear-rs700-router-met-wi-fi-7-topprestaties-beloofd-half-waargemaakt-conclusie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13380</guid>
-            <pubDate>Sat, 21 Jun 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Fan Control 227</title>
-            <link>https://tweakers.net/downloads/73056/fan-control-227.html</link>
-            <description>Versie 227 van Fan Control is uitgekomen. Met dit programma kunnen de ventilators in de computer worden beheerd en in de gaten worden gehouden. Zo is het onder meer mogelijk om met verschillende profielen en configuraties de computer koel of juist stil te houden. Fan Control kan overweg met de meeste fans en controllers en via een plug-insysteem is dat verder uit te breiden. Hoewel het gebruikmaakt van het opensource Libre Hardware Monitor-project, wordt het programma zelf als freeware aangeboden. De changelog voor deze uitgave ziet er als volgt uit: Changelog for version 227:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73056/fan-control-227.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73056</guid>
-            <pubDate>Fri, 20 Jun 2025 21:35:04 +0200</pubDate>
-        </item>
-        <item>
-            <title>Gerucht: Pearl Abyss wil EVE Online-maker CCP Games verkopen</title>
-            <link>https://tweakers.net/nieuws/236456/gerucht-pearl-abyss-wil-eve-online-maker-ccp-games-verkopen.html</link>
-            <description>De gameontwikkelaar en -uitgeverij Pearl Abyss zoekt naar verluidt een koper voor CCP Games, bekend van de ruimte-mmo EVE Online. Het Zuid-Koreaanse bedrijf zou dat doen omdat CCP Games niet genoeg geld opbrengt.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/236456/gerucht-pearl-abyss-wil-eve-online-maker-ccp-games-verkopen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236456</guid>
-            <pubDate>Fri, 20 Jun 2025 21:01:50 +0200</pubDate>
-        </item>
-        <item>
-            <title>Renders tonen Samsung Galaxy S25 FE die iets kleiner is dan voorganger</title>
-            <link>https://tweakers.net/nieuws/236454/renders-tonen-samsung-galaxy-s25-fe-die-iets-kleiner-is-dan-voorganger.html</link>
-            <description>Bekende leaker OnLeaks heeft renders van de Samsung Galaxy S25 Fan Edition gepubliceerd, waaruit blijkt dat de telefoon iets compacter zou zijn dan zijn voorganger. Er komen ook enkele specificaties aan bod. De releasedatum en adviesprijs zijn nog niet bekend.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/236454/renders-tonen-samsung-galaxy-s25-fe-die-iets-kleiner-is-dan-voorganger.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236454</guid>
-            <pubDate>Fri, 20 Jun 2025 20:05:28 +0200</pubDate>
-        </item>
-        <item>
-            <title>ASUS vervangt Ryuo IV-waterkoelers die koelvermogen verliezen na extreme hitte</title>
-            <link>https://tweakers.net/nieuws/236452/asus-vervangt-ryuo-iv-waterkoelers-die-koelvermogen-verliezen-na-extreme-hitte.html</link>
-            <description>Bepaalde ASUS ROG Ryuo IV SLC 360 ARGB-aio-waterkoelers kunnen &#039;verminderde thermische prestaties&#039; vertonen na gebruik in extreme omstandigheden. De fabrikant heeft dat zelf bevestigd. Klanten met een (potentieel) getroffen koeler krijgen een gratis vervangexemplaar.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Computers / Waterkoeling</category>
-            <comments>https://tweakers.net/nieuws/236452/asus-vervangt-ryuo-iv-waterkoelers-die-koelvermogen-verliezen-na-extreme-hitte.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236452</guid>
-            <pubDate>Fri, 20 Jun 2025 19:03:48 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Gemini Space voor Pixel-telefoons is Googles antwoord op Samsung Now Bar&#039;</title>
-            <link>https://tweakers.net/nieuws/236450/gemini-space-voor-pixel-telefoons-is-googles-antwoord-op-samsung-now-bar.html</link>
-            <description>Google werkt aan Gemini Space, een AI-gebaseerde functie die mogelijk een overzicht biedt van gepersonaliseerde informatie op het vergrendelscherm van Pixel-telefoons. Dat meldt Android Authority op basis van verschillende verwijzingen in Android. Samsung biedt soortgelijke functionaliteit met de Now Bar.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/236450/gemini-space-voor-pixel-telefoons-is-googles-antwoord-op-samsung-now-bar.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236450</guid>
-            <pubDate>Fri, 20 Jun 2025 17:55:41 +0200</pubDate>
         </item>
     </channel>
 </rss>

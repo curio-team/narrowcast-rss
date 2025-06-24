@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 23 Jun 2025 14:30:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Jun 2025 06:30:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,21 +28,301 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Google introduces AI mode to users in India</title>
+		<link>https://techcrunch.com/2025/06/23/google-introduces-ai-mode-to-users-in-india/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Tue, 24 Jun 2025 05:40:04 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google Search]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3021532</guid>
+
+					<description><![CDATA[Google introduced its AI mode, a Q&#38;A-style search tool, to users in India today. The company said that this tool is still in the experimental stage and users will need to opt in to it through Search Labs. Once a user has opted in, they can ask queries in English. Google didn&#8217;t specify whether it [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Court filings reveal OpenAI and io&#8217;s early work on an AI device</title>
+		<link>https://techcrunch.com/2025/06/23/court-filings-reveal-openai-and-ios-early-work-on-an-ai-device/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Mon, 23 Jun 2025 23:44:38 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI device]]></category>
+		<category><![CDATA[jony ive]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3021315</guid>
+
+					<description><![CDATA[The ChatGPT maker seems to be more than a year out from selling its first hardware device, which may not be an in-ear product whatsoever. Given what the company said in this lawsuit, it appears it is also exploring other form factors.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tesla&#8217;s robotaxis have already caught the attention of federal safety regulators</title>
+		<link>https://techcrunch.com/2025/06/23/teslas-robotaxis-have-already-caught-the-attention-of-federal-safety-regulators/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Mon, 23 Jun 2025 22:44:39 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[autonomous vehicles]]></category>
+		<category><![CDATA[robotaxi]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3021369</guid>
+
+					<description><![CDATA[The U.S. National Highway Traffic Safety Administration (NHTSA) contacted Tesla after numerous videos posted online appear to show Tesla robotaxis violating traffic laws in South Austin, where the company is providing rides to invited customers. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Databricks, Perplexity co-founder pledges $100M on new fund for AI researchers</title>
+		<link>https://techcrunch.com/2025/06/23/databricks-perplexity-co-founder-pledges-100m-on-new-fund-for-ai-researchers/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Mon, 23 Jun 2025 20:30:03 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[AI research]]></category>
+		<category><![CDATA[Databricks]]></category>
+		<category><![CDATA[Perplexity AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3021328</guid>
+
+					<description><![CDATA[Andy Konwinski is pledging $100 million of his own money for a new kind of institute to fund researchers. It's already backed Ion Stoica's new lab.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple&#8217;s Liquid Glass interface improves with release of iOS 26 Beta 2</title>
+		<link>https://techcrunch.com/2025/06/23/apples-liquid-glass-interface-improves-with-release-of-ios-26-beta-2/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Mon, 23 Jun 2025 19:54:29 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[ios 26]]></category>
+		<category><![CDATA[liquid glass]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3021282</guid>
+
+					<description><![CDATA[These are not likely the final adjustments, given that iOS 26 doesn't launch publicly until the fall. However, they are indications that Apple is actively listening to early user feedback and making tweaks accordingly.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Canada says telcos were breached in China-linked espionage hacks</title>
+		<link>https://techcrunch.com/2025/06/23/canada-says-telcos-were-breached-in-china-linked-espionage-hacks/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Mon, 23 Jun 2025 19:35:15 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Canada]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[salt typhoon]]></category>
+		<category><![CDATA[telcos]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3021300</guid>
+
+					<description><![CDATA[Salt Typhoon previously hacked phone and telco giants across the United States. The feds say that separate investigations suggest that Salt Typhoon's targeting is "broader than just the telecommunications sector."]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Leak reveals Grok might soon edit your spreadsheets</title>
+		<link>https://techcrunch.com/2025/06/23/leak-reveals-grok-might-soon-edit-your-spreadsheets/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Mon, 23 Jun 2025 18:16:57 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Grok]]></category>
+		<category><![CDATA[xAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3021256</guid>
+
+					<description><![CDATA[Leaked code suggests xAI is developing an advanced file editor for Grok with spreadsheet support, signaling the company’s push to compete with OpenAI, Google, and Microsoft by embedding AI copilots into productivity tools. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Four months after a $3B valuation, Harvey AI grows to $5B</title>
+		<link>https://techcrunch.com/2025/06/23/four-months-after-a-3b-valuation-harvey-ai-grows-to-5b/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Mon, 23 Jun 2025 18:03:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Coatue Management]]></category>
+		<category><![CDATA[Harvey]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Kleiner Perkins]]></category>
+		<category><![CDATA[legaltech]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3021218</guid>
+
+					<description><![CDATA[The round, which comes just four months after $300 million Series D, was co-led by Kleiner Perkins and Coatue.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>TechCrunch Disrupt 2025: The Builders Stage agenda is now live and taking shape</title>
+		<link>https://techcrunch.com/2025/06/23/techcrunch-disrupt-2025-the-builders-stage-agenda-is-now-live-and-taking-shape/</link>
+		
+		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
+		<pubDate>Mon, 23 Jun 2025 18:00:00 +0000</pubDate>
+				<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Disrupt]]></category>
+		<category><![CDATA[Disrupt 2025]]></category>
+		<category><![CDATA[TechCrunch Disrupt 2025]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3020339</guid>
+
+					<description><![CDATA[Startups don’t build themselves. The Builders Stage at TechCrunch Disrupt 2025, taking place October 27-29 at San Francisco’s Moscone West, is where investors, operators, and founders come to talk tactics.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Over a million people now have access to the gen-AI powered Alexa+</title>
+		<link>https://techcrunch.com/2025/06/23/over-a-million-people-now-have-access-to-the-gen-ai-powered-alexa/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Mon, 23 Jun 2025 17:38:40 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Alexa]]></category>
+		<category><![CDATA[alexa+]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3021178</guid>
+
+					<description><![CDATA[Alexa+ is available for free during Early Access and will later be free for Prime customers. Non-Prime users will be able to use the service for $19.99 per month after it publicly launches.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New York State wants more nuclear power in a big way</title>
+		<link>https://techcrunch.com/2025/06/23/new-york-state-wants-more-nuclear-power-in-a-big-way/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Mon, 23 Jun 2025 16:03:24 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[kathy hochul]]></category>
+		<category><![CDATA[new york state]]></category>
+		<category><![CDATA[nuclear fission]]></category>
+		<category><![CDATA[nuclear power]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3021173</guid>
+
+					<description><![CDATA[Gov. Kathy Hochul is directing the New York Power Authority, which owns and operates two dozen power plants — mostly dams and gas turbines — to develop the new facility. The plans are still in their infancy: NYPA, a state government entity, has yet to pick a location or a design.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AllSpice&#8217;s platform is the GitHub for electrical engineering teams</title>
+		<link>https://techcrunch.com/2025/06/23/allspices-platform-is-the-github-for-electrical-engineering-teams/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Mon, 23 Jun 2025 16:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[startup funding]]></category>
+		<category><![CDATA[software tools]]></category>
+		<category><![CDATA[Rethink Impact]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3021107</guid>
+
+					<description><![CDATA[AllSpice's platform sits between existing workflow software. It allows hardware teams to collaborate on the types of documents they traditionally work in — documents that don't easily translate over Slack and email — like PCB files and electronic CAD files, both of which are used to design circuit boards. AllSpice's platform has landed customers such as Blue Origin and Bose and just raised a $15 million Series A round. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Senators urge FTC to investigate Spotify’s higher-priced bundled subscription</title>
+		<link>https://techcrunch.com/2025/06/23/senators-urge-ftc-to-investigate-spotifys-higher-priced-bundled-subscription/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Mon, 23 Jun 2025 14:57:21 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Federal Trade Commission]]></category>
+		<category><![CDATA[music streaming service]]></category>
+		<category><![CDATA[Spotify]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3021126</guid>
+
+					<description><![CDATA[Two U.S. senators have requested that the FTC investigate Spotify due to allegations that the company bundled its subscription without user consent, while also undercompensating creators.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>TikTok parent ByteDance is shutting down its short-lived book publisher</title>
+		<link>https://techcrunch.com/2025/06/23/tiktok-parent-bytedance-is-shutting-down-its-short-lived-book-publisher/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Mon, 23 Jun 2025 14:51:53 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[8th note press]]></category>
+		<category><![CDATA[bytedance]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[TikTok]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3021119</guid>
+
+					<description><![CDATA[While authors were drawn to ByteDance's book publisher, 8th Note Press, because it seemed like its affiliation with TikTok could drive sales, the press is now telling writers that it will shut down and give them their publication rights back.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US insurance giant Aflac says customers&#8217; personal data stolen during cyberattack</title>
+		<link>https://techcrunch.com/2025/06/23/us-insurance-giant-aflac-says-customers-personal-data-stolen-during-cyberattack/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Mon, 23 Jun 2025 14:50:00 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[insurance]]></category>
+		<category><![CDATA[Scattered Spider]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3021129</guid>
+
+					<description><![CDATA[Aflac, which provides supplemental insurance to around 50 million individuals whose expenses are not covered by their primary providers, said it was not yet known how many customers are affected by the data breach but that the personal data includes customers' claims, such as Social Security numbers and health information.
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Want to know where VCs are investing next? Be in the room at TechCrunch Disrupt 2025</title>
 		<link>https://techcrunch.com/2025/06/23/want-to-know-where-vcs-are-investing-next-be-in-the-room-at-techcrunch-disrupt-2025/</link>
 		
 		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
 		<pubDate>Mon, 23 Jun 2025 14:30:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
+				<category><![CDATA[Fundraising]]></category>
 		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
 		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Disrupt 2025]]></category>
 		<category><![CDATA[TechCrunch Disrupt]]></category>
 		<category><![CDATA[TechCrunch Disrupt 2025]]></category>
-		<category><![CDATA[Disrupt 2025]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3021076</guid>
 
-					<description><![CDATA[Early-stage founders, listen up! You will want a front row seat at the Builders Stage on Oct 27 at 1:00 pm. This session at TechCrunch Disrupt 2025 brings together Nina Achadjian, partner, Index Ventures; Jerry Chen, general partner, Greylock; and Viviana Faga, general partner, Felicis, all of whom will share their 2026 investment priorities across [&#8230;]]]></description>
+					<description><![CDATA[Early-stage founders, listen up! You will want a front row seat at the Builders Stage on October 27 at 1:00 p.m. PT. This session at TechCrunch Disrupt 2025 brings together Nina Achadjian, partner, Index Ventures; Jerry Chen, general partner, Greylock; and Viviana Faga, general partner, Felicis, all of whom will share their 2026 investment priorities [&#8230;]]]></description>
 		
 		
 		
@@ -60,7 +340,7 @@
 		<category><![CDATA[Shipping]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3021095</guid>
 
-					<description><![CDATA[Japanese shipping company Nippon Yusen Kabushiki Kaisha is  acquiring German salary payment platform for seafaring workers, Kadmos. ]]></description>
+					<description><![CDATA[NYK approached Kadmos for the acquisition in line with its plan to grow its digital payment business beyond the Philippines. It plans to incorporate the Kadmos platform into MarCoPay, providing payroll solutions to seafaring workers of all nationalities.]]></description>
 		
 		
 		
@@ -71,10 +351,11 @@
 		
 		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
 		<pubDate>Mon, 23 Jun 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Gadgets]]></category>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[chromebook plus]]></category>
 		<category><![CDATA[Google]]></category>
 		<category><![CDATA[lenovo]]></category>
-		<category><![CDATA[chromebook plus]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3021089</guid>
 
 					<description><![CDATA[Google's adding a slew of AI features to the Chromebook Plus line, including a search and text capture tool, NotebookLM, and a tool for simplifying text.]]></description>
@@ -91,12 +372,13 @@
 				<category><![CDATA[Fintech]]></category>
 		<category><![CDATA[Fundraising]]></category>
 		<category><![CDATA[avp]]></category>
-		<category><![CDATA[SMBs]]></category>
-		<category><![CDATA[neobanks]]></category>
+		<category><![CDATA[Exclusive]]></category>
 		<category><![CDATA[Finom]]></category>
+		<category><![CDATA[neobanks]]></category>
+		<category><![CDATA[SMBs]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3020819</guid>
 
-					<description><![CDATA[Finom, an Amsterdam-based challenger bank for SMBs that claims to have doubled its revenue in 2024, closed a €115 million Series C equity round (around $133 million).]]></description>
+					<description><![CDATA[Finom's business model centers on providing European SMBs with a financial platform that combines banking, invoicing, and a growing range of features, including AI-enabled accounting. The Amsterdam-based challenger bank for SMBs claims to have doubled its revenue in 2024 and closed a €115 million Series C equity round (around $133 million).]]></description>
 		
 		
 		
@@ -115,281 +397,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3020978</guid>
 
 					<description><![CDATA[OpenAI appears to have pulled a much-discussed video promoting the friendship between CEO Sam Altman and legendary Apple designer Jony Ive (plus, incidentally, OpenAI’s $6.5 billion deal to acquire Ive and Altman’s device startup io) from its website and YouTube page.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tesla launches robotaxi rides in Austin with big promises and unanswered questions</title>
-		<link>https://techcrunch.com/2025/06/22/tesla-launches-robotaxi-rides-in-austin-with-big-promises-and-unanswered-questions/</link>
-		
-		<dc:creator><![CDATA[Sean O'Kane, Kirsten Korosec]]></dc:creator>
-		<pubDate>Sun, 22 Jun 2025 20:58:02 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[autonomous vehicles]]></category>
-		<category><![CDATA[robotaxi]]></category>
-		<category><![CDATA[Tesla]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3020793</guid>
-
-					<description><![CDATA[Tesla has started giving rides in driverless Model Y SUVs in Austin. Details are still sparse, but limited service is open to vetted and invited riders.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Why Danny Boyle shot ‘28 Years Later’ on iPhones</title>
-		<link>https://techcrunch.com/2025/06/22/why-danny-boyle-shot-28-years-later-with-iphones/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sun, 22 Jun 2025 20:22:00 +0000</pubDate>
-				<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[iPhone]]></category>
-		<category><![CDATA[danny boyle]]></category>
-		<category><![CDATA[28 years later]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3020953</guid>
-
-					<description><![CDATA[Director Danny Boyle famously shot his post-apocalyptic classic “28 Days Later” on Canon digital cameras, making it easier for him to capture eerie scenes of an abandoned London, and giving the movie’s fast-moving zombies a terrifying immediacy. To make his decades-later sequel “28 Years Later” (which opened this weekend), Boyle turned to a different piece [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The stablecoin evangelist: Katie Haun&#8217;s fight for digital dollars</title>
-		<link>https://techcrunch.com/2025/06/22/the-stablecoin-evangelist-katie-hauns-fight-for-digital-dollars/</link>
-		
-		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
-		<pubDate>Sun, 22 Jun 2025 18:43:27 +0000</pubDate>
-				<category><![CDATA[Crypto]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Haun Ventures]]></category>
-		<category><![CDATA[Katie Haun]]></category>
-		<category><![CDATA[stablecoins]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3020933</guid>
-
-					<description><![CDATA[In 2018, when Bitcoin was trading around $4,000 and most Americans, at least, thought cryptocurrency was a fad, Katie Haun found herself on a debate stage in Mexico City opposite Paul Krugman, the Nobel Prize-winning economist. As Krugman focused on Bitcoin's wild price swings, Haun steered the conversation toward something else — stablecoins.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Moratorium on state AI regulation clears Senate hurdle</title>
-		<link>https://techcrunch.com/2025/06/22/moratorium-on-state-ai-regulation-clears-senate-hurdle/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sun, 22 Jun 2025 17:17:56 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Donald Trump]]></category>
-		<category><![CDATA[one big beautiful bill]]></category>
-		<category><![CDATA[Ted Cruz]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3020927</guid>
-
-					<description><![CDATA[A Republican effort to prevent states from enforcing their own AI regulations cleared a key procedural hurdle on Saturday.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>LinkedIn CEO says AI writing assistant is not as popular as expected</title>
-		<link>https://techcrunch.com/2025/06/22/linkedin-ceo-says-ai-writing-assistant-is-not-as-popular-as-expected/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sun, 22 Jun 2025 14:06:40 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[LinkedIn]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Ryan Roslansky]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3020922</guid>
-
-					<description><![CDATA[While LinkedIn users seem to have embraced AI, there’s one area that’s seen less uptake than expected, according to CEO Ryan Roslansky: the AI-generated suggestions for polishing your LinkedIn posts.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Last day to save on your TechCrunch All Stage pass — prices go up tonight</title>
-		<link>https://techcrunch.com/2025/06/22/last-day-to-save-on-your-techcrunch-all-stage-pass-prices-go-up-tonight/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Sun, 22 Jun 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[TechCrunch All Stage 2025]]></category>
-		<category><![CDATA[TC All Stage]]></category>
-		<category><![CDATA[TechCrunch All Stage]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3020911</guid>
-
-					<description><![CDATA[It’s now or never — this is your final day to lock in savings for TechCrunch All Stage, happening July 15 in Boston. Prices increase tonight, June 22, at 11:59 p.m. PT. If you’ve been thinking about attending, now’s the time to commit. Register here. TC All Stage brings together founders, investors, and operators from [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>European leaders worry they’re too reliant on U.S. tech</title>
-		<link>https://techcrunch.com/2025/06/21/european-leaders-worry-theyre-too-reliant-on-u-s-tech/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sat, 21 Jun 2025 20:16:09 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Donald Trump]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Proton]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3020907</guid>
-
-					<description><![CDATA[European governments may be reconsidering their use of American technology and services, according to a new report in The New York Times.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cartoonist Paul Pope is more worried about killer robots than AI plagiarism</title>
-		<link>https://techcrunch.com/2025/06/21/cartoonist-paul-pope-is-more-worried-about-killer-robots-than-ai-plagiarism/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sat, 21 Jun 2025 18:08:49 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[paul pope]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3020884</guid>
-
-					<description><![CDATA[Paul Pope has written and drawn some of the most gorgeous comics of the twenty-first century — from “Batman: Year 100,” in which Batman challenges a dystopian surveillance state, to “Battling Boy,” with its adolescent god proving his mettle by fighting giant monsters. But it’s been more than a decade since Pope’s last major comics [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Week in Review:  Meta reveals its Oakley smart glasses</title>
-		<link>https://techcrunch.com/2025/06/21/week-in-review-meta-reveals-its-oakley-smart-glasses/</link>
-		
-		<dc:creator><![CDATA[Karyne Levy]]></dc:creator>
-		<pubDate>Sat, 21 Jun 2025 17:08:39 +0000</pubDate>
-				<category><![CDATA[Social]]></category>
-		<category><![CDATA[Wix]]></category>
-		<category><![CDATA[Week in Review]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[VanMoof]]></category>
-		<category><![CDATA[cluely]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3020691</guid>
-
-					<description><![CDATA[Welcome back to Week in Review! Lots in store for you today, including Wix&#8217;s latest acquisition, Meta&#8217;s new smart glasses, a look at the new Digg, and much more. Have a great weekend! Smart specs: Meta and Oakley have teamed up on a new pair of smart glasses that can record 3K video, play music, [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>2 days left to save up to $210 on your TechCrunch All Stage pass</title>
-		<link>https://techcrunch.com/2025/06/21/2-days-left-to-save-up-to-210-on-your-techcrunch-all-stage-pass/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Sat, 21 Jun 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[TechCrunch All Stage 2025]]></category>
-		<category><![CDATA[TC All Stage]]></category>
-		<category><![CDATA[TechCrunch All Stage]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3020500</guid>
-
-					<description><![CDATA[Time is almost up! Regular bird pricing for TechCrunch All Stage ends this Sunday, June 22, at 11:59 p.m. PT. That means you have just 2 days left to lock in savings of up to $210 on your ticket to one of the ultimate founder events of the summer. TC All Stage lands in Boston [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rippling spy says men have been following him, and his wife is afraid</title>
-		<link>https://techcrunch.com/2025/06/20/rippling-spy-says-men-have-been-following-him-and-his-wife-is-afraid/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Fri, 20 Jun 2025 23:51:47 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[Deel]]></category>
-		<category><![CDATA[lawsuit]]></category>
-		<category><![CDATA[Rippling]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3020839</guid>
-
-					<description><![CDATA[If becoming a corporate spy sounds exciting, let this newest affidavit from confessed Rippling spy Keith O’Brien serve as a warning.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mira Murati’s Thinking Machines Lab closes on $2B at $10B valuation</title>
-		<link>https://techcrunch.com/2025/06/20/mira-muratis-thinking-machines-lab-closes-on-2b-at-10b-valuation/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Fri, 20 Jun 2025 21:59:33 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Andreessen Horowitz]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[Mira Murati]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Thinking Machines Lab]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3020821</guid>
-
-					<description><![CDATA[Thinking Machines Lab, the secretive AI startup founded by OpenAI’s former chief technology officer Mira Murati, has closed a $2 billion seed round at a $10 billion valuation. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cluely, a startup that helps &#8216;cheat on everything,&#8217; raises $15M from a16z</title>
-		<link>https://techcrunch.com/2025/06/20/cluely-a-startup-that-helps-cheat-on-everything-raises-15m-from-a16z/</link>
-		
-		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Fri, 20 Jun 2025 21:06:19 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[a16z]]></category>
-		<category><![CDATA[cluely]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3020801</guid>
-
-					<description><![CDATA[Cluely's new funding comes roughly two months after it raised $5.3 million in seed funding co-led by Abstract Ventures and Susa Ventures.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TechCrunch Mobility: Applied Intuition’s eye-popping valuation, the new age of micromobility, and Waymo’s wild week </title>
-		<link>https://techcrunch.com/2025/06/20/techcrunch-mobility-applied-intuitions-eye-popping-valuation-the-new-age-of-micromobility-and-waymos-wild-week/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
-		<pubDate>Fri, 20 Jun 2025 20:27:00 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Tesla]]></category>
-		<category><![CDATA[Waymo]]></category>
-		<category><![CDATA[techcrunch mobility]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3020737</guid>
-
-					<description><![CDATA[Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation. Sign up here for free — just click TechCrunch Mobility! Waymo might be the largest commercial robotaxi operator — offering 250,000 paid rides per week — but it is hardly smooth.&#160; The past seven days in Waymo’s [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic says most AI models, not just Claude, will resort to blackmail</title>
-		<link>https://techcrunch.com/2025/06/20/anthropic-says-most-ai-models-not-just-claude-will-resort-to-blackmail/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Fri, 20 Jun 2025 19:17:44 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Claude]]></category>
-		<category><![CDATA[ai safety]]></category>
-		<category><![CDATA[deepseek]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3020702</guid>
-
-					<description><![CDATA[Several weeks after Anthropic released research claiming that its Claude Opus 4 AI model resorted to blackmailing engineers who tried to turn the model off in controlled test scenarios, the company is out with new research suggesting the problem is more widespread among leading AI models.]]></description>
 		
 		
 		
