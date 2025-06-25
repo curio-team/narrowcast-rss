@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 25 Jun 2025 13:31:03 +0200</pubDate>
-        <lastBuildDate>Wed, 25 Jun 2025 13:31:03 +0200</lastBuildDate>
+        <pubDate>Wed, 25 Jun 2025 14:41:01 +0200</pubDate>
+        <lastBuildDate>Wed, 25 Jun 2025 14:41:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,6 +18,46 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
+            <title>.Plan - Wysiwygeditor live op frontpagereacties - Development-iteratie #314</title>
+            <link>https://tweakers.net/plan/4438/wysiwygeditor-live-op-frontpagereacties-development-iteratie-314.html</link>
+            <description>Half mei maakten we de wysiwygeditor als bètafeature beschikbaar voor de frontpagereacties. Deze bètaperiode sluiten we af en we maken de editor beschikbaar voor alle gebruikers. In dit .plan meer hierover en wat er nog meer speelde de afgelopen periode.</description>
+            <author>Sander den Heijer</author>
+            <category>.plan</category>
+            <comments>https://tweakers.net/plan/4438/wysiwygeditor-live-op-frontpagereacties-development-iteratie-314.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/plan/4438</guid>
+            <pubDate>Wed, 25 Jun 2025 14:29:51 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google onthult text-to-imagetool Imagen 4 met &#039;aanzienlijk betere tekstweergave&#039;</title>
+            <link>https://tweakers.net/nieuws/236594/google-onthult-text-to-imagetool-imagen-4-met-aanzienlijk-betere-tekstweergave.html</link>
+            <description>Google maakt Imagen 4 beschikbaar als betaalde preview in de Gemini-api en als beperkte gratis test in Google AI Studio. De nieuwste versie van de tekst-naar-afbeeldingtool biedt volgens de techreus een &#039;aanzienlijk verbeterde weergave vergeleken met onze eerdere afbeeldingsmodellen&#039;.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / Computers / Software</category>
+            <comments>https://tweakers.net/nieuws/236594/google-onthult-text-to-imagetool-imagen-4-met-aanzienlijk-betere-tekstweergave.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236594</guid>
+            <pubDate>Wed, 25 Jun 2025 14:18:36 +0200</pubDate>
+        </item>
+        <item>
+            <title>Intel sluit automotivedivisie en ontslaat meeste medewerkers van die afdeling</title>
+            <link>https://tweakers.net/nieuws/236592/intel-sluit-automotivedivisie-en-ontslaat-meeste-medewerkers-van-die-afdeling.html</link>
+            <description>Intel gaat zijn automotivedivisie sluiten en de meeste medewerkers in die bedrijfstak ontslaan. Dat bevestigt het bedrijf tegenover The Oregonian. De stap is onderdeel van de plannen van de nieuwe ceo Lip-Bu Tan, die eerder al ontslagen bij de chipmaker aankondigde.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/236592/intel-sluit-automotivedivisie-en-ontslaat-meeste-medewerkers-van-die-afdeling.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236592</guid>
+            <pubDate>Wed, 25 Jun 2025 14:13:53 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - WinRAR 7.12</title>
+            <link>https://tweakers.net/downloads/73100/winrar-712.html</link>
+            <description>RAR Labs heeft versie 7.12 van zijn archiveringsprogramma&#039;s RAR en WinRAR uitgebracht. Deze populaire compressietools zijn beschikbaar voor diverse besturingssystemen, waaronder Windows, Linux en macOS. De programma&#039;s kunnen overweg met de gangbaarste formaten - waaronder rar, zip, cab, arj, lzh, tar, gz, uue, bz2, jar, iso, 7z en z -, hebben een skinnable interface en ondersteuning voor Zip64- en multivolume cabbestanden. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version WinRAR 7.12:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73100/winrar-712.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73100</guid>
+            <pubDate>Wed, 25 Jun 2025 13:52:05 +0200</pubDate>
+        </item>
+        <item>
             <title>Little Nightmares III komt uit op 10 oktober voor pc en consoles</title>
             <link>https://tweakers.net/nieuws/236588/little-nightmares-iii-komt-uit-op-10-oktober-voor-pc-en-consoles.html</link>
             <description>Little Nightmares III verschijnt op 10 oktober 2025. De game komt uit voor de pc, PlayStation 5 en 4, Xbox Series X, S en One, Nintendo Switch en Switch 2. Er komt ook een Enhanced Edition van de originele game uit met verbeterde graphics en enkele gameplayaanpassingen.</description>
@@ -28,12 +68,12 @@
             <pubDate>Wed, 25 Jun 2025 13:18:28 +0200</pubDate>
         </item>
         <item>
-            <title>Odido heeft opnieuw storing op mobiele netwerk - update</title>
-            <link>https://tweakers.net/nieuws/236582/odido-heeft-opnieuw-storing-op-mobiele-netwerk.html</link>
+            <title>Odido en virtuele providers hebben opnieuw storing op mobiele netwerk - update</title>
+            <link>https://tweakers.net/nieuws/236582/odido-en-virtuele-providers-hebben-opnieuw-storing-op-mobiele-netwerk.html</link>
             <description>Odido heeft woensdagochtend last van meerdere storingen in zijn mobiele netwerk. Klanten &#039;kunnen problemen ervaren&#039;. Om iets na 11.00 uur in de ochtend werd een eerste storing opgelost, maar tegen de middag ontstond een tweede probleem.</description>
             <author>Tijs Hofmans</author>
             <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
-            <comments>https://tweakers.net/nieuws/236582/odido-heeft-opnieuw-storing-op-mobiele-netwerk.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/236582/odido-en-virtuele-providers-hebben-opnieuw-storing-op-mobiele-netwerk.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236582</guid>
             <pubDate>Wed, 25 Jun 2025 12:46:00 +0200</pubDate>
         </item>
@@ -133,7 +173,7 @@
             <description>De GMKtec NucBox G3 Plus is gebaseerd op de Intel N150-cpu met alleen maar E-cores. Is dat een beetje werkbaar?</description>
             <author>Tomas Hochstenbach</author>
             <category>Review / Computers / Pc&#039;s</category>
-            <comments>https://tweakers.net/reviews/13374/6/gmktec-nucbox-g3-plus-met-intel-n150-een-simpele-zuinige-en-goedkope-mini-pc-conclusie.html#reacties</comments>
+            <comments>https://tweakers.net/reviews/13374/gmktec-nucbox-g3-plus-met-intel-n150-een-simpele-zuinige-en-goedkope-mini-pc.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13374</guid>
             <pubDate>Wed, 25 Jun 2025 06:00:00 +0200</pubDate>
         </item>
@@ -376,46 +416,6 @@
             <comments>https://tweakers.net/nieuws/236534/coolblue-energie-klanten-met-samsung-wasmachines-wassen-s-middags-gratis.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236534</guid>
             <pubDate>Tue, 24 Jun 2025 10:41:25 +0200</pubDate>
-        </item>
-        <item>
-            <title>Apple verlaagt doorzichtigheid bedieningspaneel in tweede bèta iOS 26</title>
-            <link>https://tweakers.net/nieuws/236528/apple-verlaagt-doorzichtigheid-bedieningspaneel-in-tweede-beta-ios-26.html</link>
-            <description>Apple past de doorzichtigheid van het bedieningspaneel aan in de tweede bèta van iOS 26. Hierdoor zijn knoppen beter zichtbaar. Het bedrijf introduceerde met iOS 26 het semitransparante ontwerp onder de naam Liquid Glass.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Computers / Besturingssystemen</category>
-            <comments>https://tweakers.net/nieuws/236528/apple-verlaagt-doorzichtigheid-bedieningspaneel-in-tweede-beta-ios-26.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236528</guid>
-            <pubDate>Tue, 24 Jun 2025 09:35:39 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - OpenZFS 2.3.3</title>
-            <link>https://tweakers.net/downloads/73088/openzfs-233.html</link>
-            <description>Het opensource zfs-bestandssysteem werd oorspronkelijk door Sun ontwikkeld voor Solaris, maar in 2013 heeft een aantal ontwikkelaars OpenZFS opgericht om de verdere ontwikkeling te waarborgen. Het bestandssysteem wordt momenteel officieel ondersteund op Linux en FreeBSD. Het bevat onder andere methodes om datacorruptie in zowel de data als de metadata te voorkomen, biedt dataredundantie via RAID-Z en bespaart ruimte door de data transparant te comprimeren. Voor meer informatie verwijzen we jullie door naar de OpenZFS-website. De ontwikkelaars hebben enkele dagen geleden versie 2.3.3 uitgebracht en hierin zijn de volgende veranderingen en verbeteringen aangebracht: Supported Platforms</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73088/openzfs-233.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73088</guid>
-            <pubDate>Tue, 24 Jun 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Samsung onthult op 9 juli nieuwe foldables, waaronder Z Fold Ultra</title>
-            <link>https://tweakers.net/nieuws/236524/samsung-onthult-op-9-juli-nieuwe-foldables-waaronder-z-fold-ultra.html</link>
-            <description>Samsung houdt op 9 juli 2025 om 16.00 uur Nederlandse tijd een Unpacked-presentatie. De fabrikant belooft tijdens het evenement nieuws over zijn foldables te delen. Naar verwachting worden er ook nieuwe functies voor Galaxy AI onthuld.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/236524/samsung-onthult-op-9-juli-nieuwe-foldables-waaronder-z-fold-ultra.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236524</guid>
-            <pubDate>Tue, 24 Jun 2025 08:38:06 +0200</pubDate>
-        </item>
-        <item>
-            <title>Riot Games annuleert Minecraft-achtige game Hytale en sluit Hypixel Studios</title>
-            <link>https://tweakers.net/nieuws/236518/riot-games-annuleert-minecraft-achtige-game-hytale-en-sluit-hypixel-studios.html</link>
-            <description>Riot Games stopt met de ontwikkeling van Hytale en sluit Hypixel Studios, het dochterbedrijf dat verantwoordelijk is voor de Minecraft-achtige sandbox-rpg. Het spel was sinds 2015 in ontwikkeling en is nooit publiekelijk uitgekomen.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/236518/riot-games-annuleert-minecraft-achtige-game-hytale-en-sluit-hypixel-studios.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236518</guid>
-            <pubDate>Tue, 24 Jun 2025 08:08:47 +0200</pubDate>
         </item>
     </channel>
 </rss>
