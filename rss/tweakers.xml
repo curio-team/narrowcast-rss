@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 25 Jun 2025 09:31:05 +0200</pubDate>
-        <lastBuildDate>Wed, 25 Jun 2025 09:31:05 +0200</lastBuildDate>
+        <pubDate>Wed, 25 Jun 2025 10:36:01 +0200</pubDate>
+        <lastBuildDate>Wed, 25 Jun 2025 10:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Ocenaudio 3.15.1</title>
+            <link>https://tweakers.net/downloads/73098/ocenaudio-3151.html</link>
+            <description>Versie 3.15.1 van Ocenaudio is uitgekomen. Dit gratis geluidsbewerkingsprogramma is van Braziliaanse bodem en heeft versies voor Windows, Linux en macOS. Het heeft uitgebreide mogelijkheden, zoals ondersteuning voor vst-plug-ins en het uitvoeren van een bewerking op verschillende plekken in een bestand tegelijk. Het openen en opslaan van bestanden gebeurt op de achtergrond, zodat het programma beschikbaar blijft. Verder is er een spectrumanalyzer aanwezig en het programma gaat zeer efficiënt om met geheugen. Het vergelijkbare Audacity heeft nog meer mogelijkheden en daardoor is Ocenaudio, zeker voor de beginnende gebruiker, net wat makkelijker te gebruiken. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 3.15.1:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73098/ocenaudio-3151.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73098</guid>
+            <pubDate>Wed, 25 Jun 2025 10:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Odido heeft storing op mobiele netwerk</title>
+            <link>https://tweakers.net/nieuws/236582/odido-heeft-storing-op-mobiele-netwerk.html</link>
+            <description>Odido heeft een storing in zijn mobiele netwerk. Klanten &#039;kunnen problemen ervaren&#039;, maar de provider weet niet waardoor dat komt.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
+            <comments>https://tweakers.net/nieuws/236582/odido-heeft-storing-op-mobiele-netwerk.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236582</guid>
+            <pubDate>Wed, 25 Jun 2025 09:56:23 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - PowerShell 7.5.2</title>
             <link>https://tweakers.net/downloads/73096/powershell-752.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/236516/ft-apple-gaat-anti-steering-beleid-aanpassen-om-meer-eu-boetes-te-voorkomen.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236516</guid>
             <pubDate>Mon, 23 Jun 2025 21:05:57 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft gaat geïnstalleerde games van andere pc-winkels integreren in Xbox-app</title>
-            <link>https://tweakers.net/nieuws/236514/microsoft-gaat-geinstalleerde-games-van-andere-pc-winkels-integreren-in-xbox-app.html</link>
-            <description>Microsoft gaat andere pc-gamingwinkels, waaronder Battle.net, integreren in zijn Xbox-desktopapp. Daardoor is het mogelijk om games van deze winkels vanuit een enkele launcher te openen.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Computers / Besturingssystemen</category>
-            <comments>https://tweakers.net/nieuws/236514/microsoft-gaat-geinstalleerde-games-van-andere-pc-winkels-integreren-in-xbox-app.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236514</guid>
-            <pubDate>Mon, 23 Jun 2025 20:34:20 +0200</pubDate>
-        </item>
-        <item>
-            <title>Telecompaper: Odido heeft meer dan 1 miljoen vastinternetklanten</title>
-            <link>https://tweakers.net/nieuws/236494/telecompaper-odido-heeft-meer-dan-1-miljoen-vastinternetklanten.html</link>
-            <description>Odido heeft meer dan 1 miljoen klanten met een vaste internetverbinding. Dat meldt marktonderzoeker Telecompaper op basis van geschatte marktcijfers. De groei zou vooral te maken hebben met het succes van de 5G-voor-thuisinternetdienst Klik&amp;Klaar.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Internettoegang</category>
-            <comments>https://tweakers.net/nieuws/236494/telecompaper-odido-heeft-meer-dan-1-miljoen-vastinternetklanten.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236494</guid>
-            <pubDate>Mon, 23 Jun 2025 19:01:57 +0200</pubDate>
         </item>
     </channel>
 </rss>
