@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 25 Jun 2025 10:36:01 +0200</pubDate>
-        <lastBuildDate>Wed, 25 Jun 2025 10:36:01 +0200</lastBuildDate>
+        <pubDate>Wed, 25 Jun 2025 11:31:01 +0200</pubDate>
+        <lastBuildDate>Wed, 25 Jun 2025 11:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Fairphone kondigt compactere Fairphone Gen 6 aan voor 599 euro</title>
+            <link>https://tweakers.net/nieuws/236570/fairphone-kondigt-compactere-fairphone-gen-6-aan-voor-599-euro.html</link>
+            <description>Fairphone heeft de Fairphone Gen 6 aangekondigd. De zesde smartphone van de Nederlandse fabrikant is compacter, heeft een nieuwe minimalistische modus, een grotere accu en moet nog repareerbaarder zijn dan zijn voorgangers. De Gen 6 is per direct te koop.</description>
+            <author>Dennis de Vries</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/236570/fairphone-kondigt-compactere-fairphone-gen-6-aan-voor-599-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236570</guid>
+            <pubDate>Wed, 25 Jun 2025 11:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Samsung teaset Galaxy Buds Core-oortjes, Europese release onbekend</title>
+            <link>https://tweakers.net/nieuws/236580/samsung-teaset-galaxy-buds-core-oortjes-europese-release-onbekend.html</link>
+            <description>Het Indiase X-account van Samsung teaset de komst van een set nieuwe draadloze oortjes. Het gaat om de Galaxy Buds Core, waar al enige tijd geruchten over rondgaan. De Buds Core komen op 27 juni uit in India. Het is onduidelijk of de Core-oortjes ook in Europa verschijnen.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / Beeld en geluid / Oordopjes</category>
+            <comments>https://tweakers.net/nieuws/236580/samsung-teaset-galaxy-buds-core-oortjes-europese-release-onbekend.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236580</guid>
+            <pubDate>Wed, 25 Jun 2025 10:46:36 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Ocenaudio 3.15.1</title>
             <link>https://tweakers.net/downloads/73098/ocenaudio-3151.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/reviews/13362/onyx-boox-go-6-meer-android-minder-leescomfort.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13362</guid>
             <pubDate>Tue, 24 Jun 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - GIMP 3.1.2</title>
-            <link>https://tweakers.net/downloads/73084/gimp-312.html</link>
-            <description>Versie 3.1.2 van het opensource fotobewerkingsprogramma GIMP is uitgekomen, een eerste ontwikkelversie die uiteindelijk tot versie 3.2 zal leiden. De naam GIMP is een afkorting voor &#039;GNU Image Manipulation Program&#039;. De software is beschikbaar voor diverse besturingssystemen, waaronder Windows, FreeBSD, Linux, macOS en Solaris. In versie 3.0 is de overstap naar GTK3 gemaakt, kunnen xcf-bestanden nu groter dan 4GB zijn en kan het efficiënter gebruikmaken van multicoreprocessoren. De release notes voor deze uitgave kunnen hieronder worden gevonden. GIMP 3.1.2: First Development Release towards GIMP 3.2</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73084/gimp-312.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73084</guid>
-            <pubDate>Mon, 23 Jun 2025 21:19:19 +0200</pubDate>
-        </item>
-        <item>
-            <title>FT: Apple gaat &#039;anti-steering&#039;-beleid aanpassen om meer EU-boetes te voorkomen</title>
-            <link>https://tweakers.net/nieuws/236516/ft-apple-gaat-anti-steering-beleid-aanpassen-om-meer-eu-boetes-te-voorkomen.html</link>
-            <description>Apple is van plan om zijn &#039;anti-steering&#039;-beleid aan te passen en zo tegemoet te komen aan de eisen van de Europese Commissie. Dat schrijft The Financial Times op basis van ingewijden. Het bedrijf moet dit beleid voor donderdag 26 juni aanpassen om hoge boetes te voorkomen.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/236516/ft-apple-gaat-anti-steering-beleid-aanpassen-om-meer-eu-boetes-te-voorkomen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236516</guid>
-            <pubDate>Mon, 23 Jun 2025 21:05:57 +0200</pubDate>
         </item>
     </channel>
 </rss>
