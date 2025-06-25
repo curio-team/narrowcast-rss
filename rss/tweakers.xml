@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 25 Jun 2025 15:36:01 +0200</pubDate>
-        <lastBuildDate>Wed, 25 Jun 2025 15:36:01 +0200</lastBuildDate>
+        <pubDate>Wed, 25 Jun 2025 16:36:01 +0200</pubDate>
+        <lastBuildDate>Wed, 25 Jun 2025 16:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,46 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Lexar brengt snelle en betaalbaardere PCIe 5.0-ssd uit vanaf 105 euro</title>
+            <link>https://tweakers.net/nieuws/236602/lexar-brengt-snelle-en-betaalbaardere-pcie-50-ssd-uit-vanaf-105-euro.html</link>
+            <description>Lexar heeft zijn NM990-ssd uitgebracht. Het is een drive met PCIe 5.0-interface en leessnelheden tot 14,9GB/s. De ssd komt beschikbaar in varianten van 1TB, 2TB en 4TB, met prijzen tussen de 104,90 en 369 euro. Daarmee is het een van de goedkoopste PCIe 5.0 x4-ssd&#039;s tot nu toe.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / SSD&#039;s</category>
+            <comments>https://tweakers.net/nieuws/236602/lexar-brengt-snelle-en-betaalbaardere-pcie-50-ssd-uit-vanaf-105-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236602</guid>
+            <pubDate>Wed, 25 Jun 2025 16:26:11 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Total Commander 11.55</title>
+            <link>https://tweakers.net/downloads/73104/total-commander-1155.html</link>
+            <description>De finalrelease van Total Commander versie 11.55 is verschenen. Dit programma kan als vervanging voor Windows Verkenner worden gebruikt. Doordat het beeld in tweeën is gesplitst, is het eenvoudig om bestanden te kopiëren, maar het programma kan veel meer. Zo zijn er diverse manieren om bestanden aan te passen, zijn een ingebouwde FTP-client en een multirenametool aanwezig, en is er ondersteuning voor een groot aantal compressieformaten. Verder kan de functionaliteit met plug-ins worden uitgebreid. In versie 11.55 zijn naast de nodige bugfixes de volgende verbeteringen aangebracht: Copying:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73104/total-commander-1155.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73104</guid>
+            <pubDate>Wed, 25 Jun 2025 16:18:02 +0200</pubDate>
+        </item>
+        <item>
+            <title>Samsung brengt Smart Monitor M9 met QD-oledpaneel in juli uit voor 1699 euro</title>
+            <link>https://tweakers.net/nieuws/236596/samsung-brengt-smart-monitor-m9-met-qd-oledpaneel-in-juli-uit-voor-1699-euro.html</link>
+            <description>Samsung heeft de adviesprijs en releasedatum van zijn Smart Monitor M9 aangekondigd. De monitor verschijnt in juli en krijgt dan een adviesprijs van 1699 euro. Het is het eerste scherm in de Smart Monitor-serie dat beschikt over een QD-oledscherm.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Monitors</category>
+            <comments>https://tweakers.net/nieuws/236596/samsung-brengt-smart-monitor-m9-met-qd-oledpaneel-in-juli-uit-voor-1699-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236596</guid>
+            <pubDate>Wed, 25 Jun 2025 15:48:46 +0200</pubDate>
+        </item>
+        <item>
+            <title>Odido laat gebruikers gefaseerd weer toe op mobiel netwerk na storing - update</title>
+            <link>https://tweakers.net/nieuws/236582/odido-laat-gebruikers-gefaseerd-weer-toe-op-mobiel-netwerk-na-storing.html</link>
+            <description>Odido laat klanten weer &#039;gefaseerd&#039; toe op zijn mobiele netwerk, nadat er meerdere grote storingen waren op woensdag. Daardoor krijgen gebruikers langzaam maar zeker weer toegang tot mobiel internet en telefonie bij de provider. De problemen moeten binnen een uur zijn opgelost.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
+            <comments>https://tweakers.net/nieuws/236582/odido-laat-gebruikers-gefaseerd-weer-toe-op-mobiel-netwerk-na-storing.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236582</guid>
+            <pubDate>Wed, 25 Jun 2025 15:40:00 +0200</pubDate>
+        </item>
         <item>
             <title>Dbrand stuurt nieuwe Joy-Con-grips voor Switch 2-case na klachten over loslaten</title>
             <link>https://tweakers.net/nieuws/236598/dbrand-stuurt-nieuwe-joy-con-grips-voor-switch-2-case-na-klachten-over-loslaten.html</link>
@@ -76,16 +116,6 @@
             <comments>https://tweakers.net/nieuws/236588/little-nightmares-iii-komt-uit-op-10-oktober-voor-pc-en-consoles.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236588</guid>
             <pubDate>Wed, 25 Jun 2025 13:18:28 +0200</pubDate>
-        </item>
-        <item>
-            <title>Odido en virtuele providers hebben opnieuw storing op mobiele netwerk - update</title>
-            <link>https://tweakers.net/nieuws/236582/odido-en-virtuele-providers-hebben-opnieuw-storing-op-mobiele-netwerk.html</link>
-            <description>Odido heeft woensdagochtend last van meerdere storingen in zijn mobiele netwerk. Klanten &#039;kunnen problemen ervaren&#039;. Om iets na 11.00 uur in de ochtend werd een eerste storing opgelost, maar tegen de middag ontstond een tweede probleem.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
-            <comments>https://tweakers.net/nieuws/236582/odido-en-virtuele-providers-hebben-opnieuw-storing-op-mobiele-netwerk.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236582</guid>
-            <pubDate>Wed, 25 Jun 2025 12:46:00 +0200</pubDate>
         </item>
         <item>
             <title>Nederland meldt zich aan voor Europese AI-gigafabriek in de buurt van Rotterdam</title>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/236530/chinese-fabrikanten-onthullen-rtx-5050-laptop-gpu-met-8gb-gddr7-geheugen.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236530</guid>
             <pubDate>Tue, 24 Jun 2025 11:52:11 +0200</pubDate>
-        </item>
-        <item>
-            <title>Huawei blijft onduidelijk over EU-release HarmonyOS na release versie 6</title>
-            <link>https://tweakers.net/nieuws/236532/huawei-blijft-onduidelijk-over-eu-release-harmonyos-na-release-versie-6.html</link>
-            <description>Huawei heeft geen duidelijkheid gegeven over wanneer HarmonyOS 5 of 6 in Europa uitkomt. De fabrikant kondigde de ontwikkelaarsbèta van HarmonyOS 6 vorige week aan, met daarin onder meer een api om AI-agents in apps te plaatsen.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/236532/huawei-blijft-onduidelijk-over-eu-release-harmonyos-na-release-versie-6.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236532</guid>
-            <pubDate>Tue, 24 Jun 2025 11:51:33 +0200</pubDate>
-        </item>
-        <item>
-            <title>Stichting dagvaardt Sony voor te hoge prijzen van digitale PlayStation-games</title>
-            <link>https://tweakers.net/nieuws/236536/stichting-dagvaardt-sony-voor-te-hoge-prijzen-van-digitale-playstation-games.html</link>
-            <description>Stichting Massaschade &amp; Consument roept Sony op om voor de rechter te verschijnen in de collectieve rechtszaak over de prijzen van digitale games voor PlayStation-consoles. Het gaat om een vervolgstap in de massaclaim Fair PlayStation.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/236536/stichting-dagvaardt-sony-voor-te-hoge-prijzen-van-digitale-playstation-games.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236536</guid>
-            <pubDate>Tue, 24 Jun 2025 11:33:50 +0200</pubDate>
-        </item>
-        <item>
-            <title>Quicktest - Noctua NF-A12x25 G2 - De beste &#039;normale&#039; 120mm-ventilator</title>
-            <link>https://tweakers.net/reviews/13390/noctua-nf-a12x25-g2-de-beste-normale-120mm-ventilator.html</link>
-            <description>Noctua&#039;s bekende NF-A12x25 krijgt een opvolger en zoals we gewend zijn van de Oostenrijkse fabrikant, heeft hij elk aspect van de ventilator tegen het licht gehouden.</description>
-            <author>Reinoud Dik</author>
-            <category>Quicktest / Computers / Ventilators</category>
-            <comments>https://tweakers.net/reviews/13390/noctua-nf-a12x25-g2-de-beste-normale-120mm-ventilator.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13390</guid>
-            <pubDate>Tue, 24 Jun 2025 11:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
