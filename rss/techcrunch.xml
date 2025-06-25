@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 25 Jun 2025 12:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 25 Jun 2025 13:39:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,59 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Google unveils Gemini CLI, an open-source AI tool for terminals</title>
+		<link>https://techcrunch.com/2025/06/25/google-unveils-gemini-cli-an-open-source-ai-tool-for-terminals/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Wed, 25 Jun 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[ai coding]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3021829</guid>
+
+					<description><![CDATA[Google is launching a new agentic AI tool that will put its Gemini AI models closer to where developers are already coding. The company announced on Wednesday the launch of Gemini CLI, an agentic AI tool designed to run locally from your terminal. The new tool connects Google&#8217;s Gemini AI models to local codebases, and [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ring cameras and doorbells now use AI to provide specific descriptions of motion activity</title>
+		<link>https://techcrunch.com/2025/06/25/ring-cameras-and-doorbells-now-use-ai-to-provide-specific-descriptions-of-motion-activity/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Wed, 25 Jun 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Ring]]></category>
+		<category><![CDATA[surveillance]]></category>
+		<category><![CDATA[video doorbell]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3021837</guid>
+
+					<description><![CDATA[Ring gets a new AI-powered feature that offers users specific text descriptions of current motion activity. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Kodiak is using Vay&#8217;s remote driving tech in its self-driving trucks</title>
+		<link>https://techcrunch.com/2025/06/25/kodiak-is-using-vays-remote-driving-tech-in-its-self-driving-trucks/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Wed, 25 Jun 2025 12:50:07 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[autonmous vehicles]]></category>
+		<category><![CDATA[driverless]]></category>
+		<category><![CDATA[Kodiak Robotics]]></category>
+		<category><![CDATA[vay]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3021875</guid>
+
+					<description><![CDATA[Kodiak Robotics has partnered with driverless car-sharing startup Vap to bring a remote-driving system into its self-driving trucks operation.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Julie Bornstein&#8217;s Daydream is releasing an AI-powered chatbot for fashion-related shopping</title>
 		<link>https://techcrunch.com/2025/06/25/julie-bornsteins-daydream-is-releasing-an-ai-powered-chatbot-for-fashion-related-shopping/</link>
 		
@@ -337,65 +390,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3021625</guid>
 
 					<description><![CDATA[Amazon expands its Same-Day and Next-Day delivery services to 4,000 small cities and towns in the rural U.S. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>UK may require Google to give users alternative search options and rank its results &#8216;more fairly&#8217;</title>
-		<link>https://techcrunch.com/2025/06/24/uk-may-require-google-to-give-users-alternative-search-options-and-rank-its-results-more-fairly/</link>
-		
-		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
-		<pubDate>Tue, 24 Jun 2025 14:05:09 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[Google Search]]></category>
-		<category><![CDATA[competition law]]></category>
-		<category><![CDATA[Competition and Markets Authority]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3021596</guid>
-
-					<description><![CDATA[The UK's competition regulator may require Google to offer users alternative search engines; change how it ranks searches; and improve data portability.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google rolls out new Gemini model that can run on robots locally</title>
-		<link>https://techcrunch.com/2025/06/24/google-rolls-out-new-gemini-model-that-can-run-on-robots-locally/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Tue, 24 Jun 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[DeepMind]]></category>
-		<category><![CDATA[gemini]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[robots]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3021559</guid>
-
-					<description><![CDATA[Google DeepMind has released a new language model called Gemini Robotics On-Device that can run tasks locally on robots without an internet connection. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>How a data-processing problem at Lyft became the basis for Eventual</title>
-		<link>https://techcrunch.com/2025/06/24/how-a-data-processing-problem-at-lyft-became-the-basis-for-eventual/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Tue, 24 Jun 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[artificial intelligence]]></category>
-		<category><![CDATA[data infrastructure]]></category>
-		<category><![CDATA[data processing]]></category>
-		<category><![CDATA[Lyft]]></category>
-		<category><![CDATA[multimodal ai]]></category>
-		<category><![CDATA[Startups]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3021314</guid>
-
-					<description><![CDATA[Eventual's data processing engine Daft was inspried by the founders' experience working on Lyft's autonomous vehicle project. ]]></description>
 		
 		
 		

@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 25 Jun 2025 14:41:01 +0200</pubDate>
-        <lastBuildDate>Wed, 25 Jun 2025 14:41:01 +0200</lastBuildDate>
+        <pubDate>Wed, 25 Jun 2025 15:36:01 +0200</pubDate>
+        <lastBuildDate>Wed, 25 Jun 2025 15:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,6 +18,16 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
+            <title>Dbrand stuurt nieuwe Joy-Con-grips voor Switch 2-case na klachten over loslaten</title>
+            <link>https://tweakers.net/nieuws/236598/dbrand-stuurt-nieuwe-joy-con-grips-voor-switch-2-case-na-klachten-over-loslaten.html</link>
+            <description>Dbrand stuurt klanten met een Killswitch-case voor de Nintendo Switch 2 een nieuwe versie van de case. Op Reddit kwamen diverse klachten binnen dat de Joy-Cons van de Switch 2 makkelijker loslaten dan zonder de case.</description>
+            <author>Sabine Schults</author>
+            <category>Nieuws / Gaming / Consoles</category>
+            <comments>https://tweakers.net/nieuws/236598/dbrand-stuurt-nieuwe-joy-con-grips-voor-switch-2-case-na-klachten-over-loslaten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236598</guid>
+            <pubDate>Wed, 25 Jun 2025 15:30:06 +0200</pubDate>
+        </item>
+        <item>
             <title>.Plan - Wysiwygeditor live op frontpagereacties - Development-iteratie #314</title>
             <link>https://tweakers.net/plan/4438/wysiwygeditor-live-op-frontpagereacties-development-iteratie-314.html</link>
             <description>Half mei maakten we de wysiwygeditor als bètafeature beschikbaar voor de frontpagereacties. Deze bètaperiode sluiten we af en we maken de editor beschikbaar voor alle gebruikers. In dit .plan meer hierover en wat er nog meer speelde de afgelopen periode.</description>
@@ -28,12 +38,12 @@
             <pubDate>Wed, 25 Jun 2025 14:29:51 +0200</pubDate>
         </item>
         <item>
-            <title>Google onthult text-to-imagetool Imagen 4 met &#039;aanzienlijk betere tekstweergave&#039;</title>
-            <link>https://tweakers.net/nieuws/236594/google-onthult-text-to-imagetool-imagen-4-met-aanzienlijk-betere-tekstweergave.html</link>
+            <title>Google maakt Imagen 4-afbeeldingen duurder en belooft betere tekst in beeld</title>
+            <link>https://tweakers.net/nieuws/236594/google-maakt-imagen-4-afbeeldingen-duurder-en-belooft-betere-tekst-in-beeld.html</link>
             <description>Google maakt Imagen 4 beschikbaar als betaalde preview in de Gemini-api en als beperkte gratis test in Google AI Studio. De nieuwste versie van de tekst-naar-afbeeldingtool biedt volgens de techreus een &#039;aanzienlijk verbeterde weergave vergeleken met onze eerdere afbeeldingsmodellen&#039;.</description>
             <author>Sabine Schults</author>
             <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/236594/google-onthult-text-to-imagetool-imagen-4-met-aanzienlijk-betere-tekstweergave.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/236594/google-maakt-imagen-4-afbeeldingen-duurder-en-belooft-betere-tekst-in-beeld.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236594</guid>
             <pubDate>Wed, 25 Jun 2025 14:18:36 +0200</pubDate>
         </item>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/reviews/13390/noctua-nf-a12x25-g2-de-beste-normale-120mm-ventilator.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13390</guid>
             <pubDate>Tue, 24 Jun 2025 11:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Coolblue Energie-klanten met Samsung-wasmachines wassen &#039;s middags gratis</title>
-            <link>https://tweakers.net/nieuws/236534/coolblue-energie-klanten-met-samsung-wasmachines-wassen-s-middags-gratis.html</link>
-            <description>Coolblue Energie geeft klanten met een dynamisch contract in de middaguren tussen 12.00 en 15.00 uur gratis stroom om te kunnen wassen. Het Gratis Wassen-concept werkt alleen in combinatie met moderne Samsung-wasmachines die SmartThings ondersteunen.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Huishoudelijk / Wasmachines</category>
-            <comments>https://tweakers.net/nieuws/236534/coolblue-energie-klanten-met-samsung-wasmachines-wassen-s-middags-gratis.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236534</guid>
-            <pubDate>Tue, 24 Jun 2025 10:41:25 +0200</pubDate>
         </item>
     </channel>
 </rss>
