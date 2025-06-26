@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 25 Jun 2025 16:36:01 +0200</pubDate>
-        <lastBuildDate>Wed, 25 Jun 2025 16:36:01 +0200</lastBuildDate>
+        <pubDate>Thu, 26 Jun 2025 09:31:00 +0200</pubDate>
+        <lastBuildDate>Thu, 26 Jun 2025 09:31:00 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,216 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>HDMI Forum brengt HDMI 2.2-specificatie uit die 16k bij 60Hz ondersteunt</title>
+            <link>https://tweakers.net/nieuws/236628/hdmi-forum-brengt-hdmi-22-specificatie-uit-die-16k-bij-60hz-ondersteunt.html</link>
+            <description>Het HDMI Forum heeft de HDMI 2.2-specificatie uitgebracht. Dit betekent dat fabrikanten HDMI 2.2-producten kunnen uitbrengen. Deze versie krijgt een verhoogde bandbreedte van 96Gbit/s, twee keer zoveel als de huidige 2.1-versie.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Computers / Kabels</category>
+            <comments>https://tweakers.net/nieuws/236628/hdmi-forum-brengt-hdmi-22-specificatie-uit-die-16k-bij-60hz-ondersteunt.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236628</guid>
+            <pubDate>Thu, 26 Jun 2025 09:28:53 +0200</pubDate>
+        </item>
+        <item>
+            <title>RuneScape wil zijn &#039;schadelijke&#039; aanpak met microtransacties veranderen</title>
+            <link>https://tweakers.net/nieuws/236626/runescape-wil-zijn-schadelijke-aanpak-met-microtransacties-veranderen.html</link>
+            <description>RuneScape zegt de huidige aanpak voor microtransacties te gaan veranderen. De huidige aanpak is volgens de ontwikkelaar &#039;schadelijk&#039; voor het spel en reden voor spelers om te vertrekken. Daarom gaat ontwikkelaar Jagex de komende maanden experimenten uitvoeren.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/236626/runescape-wil-zijn-schadelijke-aanpak-met-microtransacties-veranderen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236626</guid>
+            <pubDate>Thu, 26 Jun 2025 09:11:17 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Visual Studio Code 1.101.2</title>
+            <link>https://tweakers.net/downloads/73112/visual-studio-code-11012.html</link>
+            <description>Versie 1.101.2 van Visual Studio Code uitgekomen. Deze opensource code-editor heeft ondersteuning voor IntelliSense, debugging, Git en code snippets. Downloads zijn beschikbaar voor Windows, Linux en macOS. Ondersteuning voor de gangbare script- en programmeertalen is aanwezig en het kan daarnaast via extensies uitgebreid worden. Hoewel het alweer even juni is, wordt deze versie nog als de meiuitgave aangeboden. Uitgebreide informatie over deze release is op deze pagina te vinden. Sinds versie 1.101.0 zijn de volgende veranderingen en verbeteringen aangebracht:: Visual Studio Code 1.101.2</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73112/visual-studio-code-11012.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73112</guid>
+            <pubDate>Thu, 26 Jun 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Actie - SimWallet van Odido: testers gezocht voor de nieuwe e-sim-app</title>
+            <link>https://tweakers.net/plan/4444/simwallet-van-odido-testers-gezocht-voor-de-nieuwe-e-sim-app.html</link>
+            <description>In april heeft Odido SimWallet gelanceerd, een applicatie waarmee gebruikers e-sims voor verschillende apparaten kunnen aanschaffen. De dienst richt zich specifiek op data-only-producten en maakt gebruik van het 5G-netwerk van Odido in Nederland.</description>
+            <author>Tweakers Partners</author>
+            <category>.actie</category>
+            <comments>https://tweakers.net/plan/4444/simwallet-van-odido-testers-gezocht-voor-de-nieuwe-e-sim-app.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/plan/4444</guid>
+            <pubDate>Thu, 26 Jun 2025 08:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Datingapp Bumble ontslaat dertig procent van personeel</title>
+            <link>https://tweakers.net/nieuws/236624/datingapp-bumble-ontslaat-dertig-procent-van-personeel.html</link>
+            <description>Datingapp Bumble gaat 240 banen schrappen, ofwel zo&#039;n 30 procent van het personeelsbestand. Vorige maand kondigde Tinder-moederbedrijf Match Group ook een ontslagronde aan, hierbij het ging om 13 procent van het personeel.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/236624/datingapp-bumble-ontslaat-dertig-procent-van-personeel.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236624</guid>
+            <pubDate>Thu, 26 Jun 2025 07:55:15 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Bitwarden 2025.6.2</title>
+            <link>https://tweakers.net/downloads/73108/bitwarden-202562.html</link>
+            <description>Bitwarden is een crossplatform en opensource wachtwoordbeheerdienst die persoonlijke gegevens in een versleutelde digitale kluis opslaat. Het is in de basis gratis te gebruiken en voor een klein bedrag per jaar is er toegang tot diverse extra&#039;s zoals het kunnen opslaan van totp-codes, inloggen met een YubiKey en opslagcapaciteit voor bijlagen. Bitwarden is beschikbaar online, als desktopclient, als mobiele app en als plug-in voor diverse webbrowsers. Sinds versie 2025.5.0 zijn de volgende veranderingen en verbeteringen aangebracht:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73108/bitwarden-202562.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73108</guid>
+            <pubDate>Thu, 26 Jun 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - Dell U3225QE en U2725QE - De 27&quot;- en 32&quot;-Dell UltraSharps van 2025</title>
+            <link>https://tweakers.net/reviews/13384/dell-u3225qe-en-u2725qe-de-27-inch-en-32-inch-dell-ultrasharps-van-2025.html</link>
+            <description>Met 650 euro voor het 27&quot;-model en 930 euro voor het 32&quot;-model levert Dell uitstekend afgestelde en prettig te gebruiken beeldschermen voor een veeleisend publiek.</description>
+            <author>Willem de Moor</author>
+            <category>Review / Computers / Monitors</category>
+            <comments>https://tweakers.net/reviews/13384/dell-u3225qe-en-u2725qe-de-27-inch-en-32-inch-dell-ultrasharps-van-2025.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13384</guid>
+            <pubDate>Thu, 26 Jun 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Video - Miniledverschillen, Fairphone-schuifjes en rode oortjes - Tweakers Podcast #379</title>
+            <link>https://tweakers.net/video/19966/miniledverschillen-fairphone-schuifjes-en-rode-oortjes-tweakers-podcast-379.html</link>
+            <description>Deze week praten Wout Funnekotter, Arnoud Wokke en Sjef Weller over tv&#039;s met miniled, de Fairphone Gen 6, de opkomst van AI-troep en de markt voor goedkope en dure draadloze oordopjes.</description>
+            <author>Redactie Tweakers</author>
+            <category>Video / IT Pro / Economie en maatschappij</category>
+            <comments>https://tweakers.net/video/19966/miniledverschillen-fairphone-schuifjes-en-rode-oortjes-tweakers-podcast-379.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/video/19966</guid>
+            <pubDate>Thu, 26 Jun 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Tweakers Podcast #379 - Miniledverschillen, Fairphone-schuifjes en rode oortjes</title>
+            <link>https://tweakers.net/geek/236600/tweakers-podcast-379-miniledverschillen-fairphone-schuifjes-en-rode-oortjes.html</link>
+            <description>Deze week praten Wout Funnekotter, Arnoud Wokke en Sjef Weller over tv&#039;s met miniled, de Fairphone Gen 6, de opkomst van AI-troep en de markt voor goedkope en dure draadloze oordopjes.</description>
+            <author>Arnoud Wokke</author>
+            <category>.Geek / Beeld en geluid / Audio</category>
+            <comments>https://tweakers.net/geek/236600/tweakers-podcast-379-miniledverschillen-fairphone-schuifjes-en-rode-oortjes.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/236600</guid>
+            <pubDate>Thu, 26 Jun 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Preview - Fairphone Gen 6 -  De eerlijke telefoon wordt kleiner</title>
+            <link>https://tweakers.net/reviews/13420/fairphone-gen-6-de-eerlijke-telefoon-wordt-kleiner.html</link>
+            <description>Het Nederlandse bedrijf Fairphone heeft de Fairphone Gen 6 aangekondigd, die een slagje kleiner is de nieuwe, minimalistische Fairphone Moments-interface bevat.</description>
+            <author>Dennis de Vries</author>
+            <category>Preview / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/reviews/13420/fairphone-gen-6-de-eerlijke-telefoon-wordt-kleiner.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13420</guid>
+            <pubDate>Wed, 25 Jun 2025 21:40:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>WhatsApp wil later dit jaar ongelezen berichten in groepsapps samenvatten</title>
+            <link>https://tweakers.net/nieuws/236622/whatsapp-wil-later-dit-jaar-ongelezen-berichten-in-groepsapps-samenvatten.html</link>
+            <description>WhatsApp wil later dit jaar ongelezen berichten in groepsapps gaan samenvatten met AI. Daardoor moeten gebruikers snel op de hoogte zijn van wat ze hebben gemist. De functie is vanaf woensdag bruikbaar in de Verenigde Staten.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/236622/whatsapp-wil-later-dit-jaar-ongelezen-berichten-in-groepsapps-samenvatten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236622</guid>
+            <pubDate>Wed, 25 Jun 2025 21:21:59 +0200</pubDate>
+        </item>
+        <item>
+            <title>Huawei brengt Pura 80-telefoons snel wereldwijd uit, maar niet in Europa</title>
+            <link>https://tweakers.net/nieuws/236620/huawei-brengt-pura-80-telefoons-snel-wereldwijd-uit-maar-niet-in-europa.html</link>
+            <description>Huawei gaat zijn Pura 80-telefoons wereldwijd uitbrengen, maar dat lijkt niet te gebeuren in Europa. De telefoons kwamen al uit in China. De voorgangers in de Pura 70-serie zijn wel te koop in Europa.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/236620/huawei-brengt-pura-80-telefoons-snel-wereldwijd-uit-maar-niet-in-europa.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236620</guid>
+            <pubDate>Wed, 25 Jun 2025 20:59:52 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Hobbyisten vinden verborgen teamfoto in 28 jaar oude Apple MacOS-versie</title>
+            <link>https://tweakers.net/geek/236618/hobbyisten-vinden-verborgen-teamfoto-in-28-jaar-oude-apple-macos-versie.html</link>
+            <description>Hobbyisten hebben een easter egg gevonden in een 28 jaar oude versie van MacOS voor de Power Macintosh G3. Die bleek op te roepen door de ramdisk te formatteren en daar in het invoerveld &#039;secret ROM image&#039; in te voeren.</description>
+            <author>Arnoud Wokke</author>
+            <category>.Geek / Computers / Hardware boeken</category>
+            <comments>https://tweakers.net/geek/236618/hobbyisten-vinden-verborgen-teamfoto-in-28-jaar-oude-apple-macos-versie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/236618</guid>
+            <pubDate>Wed, 25 Jun 2025 20:39:47 +0200</pubDate>
+        </item>
+        <item>
+            <title>Ring begint met AI-omschrijving van beeld videodeurbel</title>
+            <link>https://tweakers.net/nieuws/236614/ring-begint-met-ai-omschrijving-van-beeld-videodeurbel.html</link>
+            <description>Ring begint woensdag met AI-omschrijvingen van het beeld van de videodeurbel. Op termijn wil het bedrijf alle meldingen van gedetecteerde beweging vervangen door omschrijvingen als &#039;persoon met dweil verlaat huis&#039;.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Beeld en geluid / Deurbellen</category>
+            <comments>https://tweakers.net/nieuws/236614/ring-begint-met-ai-omschrijving-van-beeld-videodeurbel.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236614</guid>
+            <pubDate>Wed, 25 Jun 2025 19:51:39 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Windows Terminal 1.22.11751.0</title>
+            <link>https://tweakers.net/downloads/73106/windows-terminal-122117510.html</link>
+            <description>Microsoft heeft een update voor versie 1.22 van Windows Terminal uitgebracht. Windows Terminal wordt met Windows 11 meegeleverd en maakt het mogelijk om in een scherm met tabbladen onder meer een commandprompt, PowerShell, Windows PowerShell, WSL en Azure Cloud Shell te openen. Het programma heeft onder meer ondersteuning voor tabbladen, thema&#039;s en profielen. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changes</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73106/windows-terminal-122117510.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73106</guid>
+            <pubDate>Wed, 25 Jun 2025 19:34:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Vouwbare smartphone vivo X Fold5 heeft 6000mAh-accu en werkt met Apple Watch</title>
+            <link>https://tweakers.net/nieuws/236612/vouwbare-smartphone-vivo-x-fold5-heeft-6000mah-accu-en-werkt-met-apple-watch.html</link>
+            <description>Het Chinese smartphonemerk vivo heeft de X Fold5 gepresenteerd, een vouwbare smartphone met een 6000mAh-accu. De behuizing een ip58- en ipx9-rating. Hij is niet volledig stofdicht, maar is wel bestand tegen harde waterstralen. Ook kan hij overweg met een Apple Watch.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/236612/vouwbare-smartphone-vivo-x-fold5-heeft-6000mah-accu-en-werkt-met-apple-watch.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236612</guid>
+            <pubDate>Wed, 25 Jun 2025 18:37:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Videopreview - Eerlijke en compacte smartphone van Hollandse bodem - Fairphone 6</title>
+            <link>https://tweakers.net/video/19964/eerlijke-en-compacte-smartphone-van-hollandse-bodem-fairphone-6.html</link>
+            <description>Fairphone heeft de Fairphone Gen 6 aangekondigd. De zesde smartphone van de Nederlandse fabrikant is compacter, heeft een nieuwe minimalistische modus, een grotere accu en moet nog repareerbaarder zijn dan zijn voorgangers. De Gen 6 is per direct te koop.</description>
+            <author>Mark van der Kruit</author>
+            <category>Videopreview / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/video/19964/eerlijke-en-compacte-smartphone-van-hollandse-bodem-fairphone-6.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/video/19964</guid>
+            <pubDate>Wed, 25 Jun 2025 18:20:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Meta erkent probleem met verwijderen groepen op Facebook</title>
+            <link>https://tweakers.net/nieuws/236610/meta-erkent-probleem-met-verwijderen-groepen-op-facebook.html</link>
+            <description>Meta heeft erkend dat het bedrijf ten onrechte groepen verwijdert van Facebook. Het gaat ogenschijnlijk vaak om kleine groepen, maar het lijkt ook te gebeuren bij grotere groepen met veel leden.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Internet</category>
+            <comments>https://tweakers.net/nieuws/236610/meta-erkent-probleem-met-verwijderen-groepen-op-facebook.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236610</guid>
+            <pubDate>Wed, 25 Jun 2025 17:57:19 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - CCleaner 6.37</title>
+            <link>https://tweakers.net/downloads/73102/ccleaner-637.html</link>
+            <description>Piriform heeft versie 6.37 van CCleaner uitgebracht. Met dit programma kunnen diverse onderdelen van Windows worden opgeschoond. Hierbij valt te denken aan tijdelijke Windows- en internetbestanden, maar ook aan overbodige rommel van een groot aantal andere programma&#039;s, waaronder Windows Media Player, Google Toolbar, Microsoft Office, Photoshop, WinRAR en ga zo maar door. Bovendien is het aantal programma&#039;s waarvan CCleaner de rommel kan opruimen, eenvoudig uit te breiden met het programma CCEnhancer. Naast opruimen kan CCleaner ook fouten in het register en in snelkoppelingen verhelpen, de lijst met programma&#039;s aanpassen die met Windows starten en is het mogelijk om cookies te beheren. Vanaf deze versie kan ook de algehele conditie van de computer worden getest. Naast een gratis uitvoering is er ook een pro-versie, die onder meer een automatische-updatefunctie biedt. In deze release zijn enkele kleine niet nader omschreven problemen verholpen. Fixing bugs and other improvements</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73102/ccleaner-637.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73102</guid>
+            <pubDate>Wed, 25 Jun 2025 17:53:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Discord werkt aan Arm-versie van Windows-app</title>
+            <link>https://tweakers.net/nieuws/236608/discord-werkt-aan-arm-versie-van-windows-app.html</link>
+            <description>Chatapp Discord werkt aan een Arm-versie van zijn Windows-app. Tot nu toe is de Windows-versie alleen verkrijgbaar voor x86-architectuur. De Discord-app werkt op Arm-versies van Windows via emulatie.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Computers / Besturingssystemen</category>
+            <comments>https://tweakers.net/nieuws/236608/discord-werkt-aan-arm-versie-van-windows-app.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236608</guid>
+            <pubDate>Wed, 25 Jun 2025 17:21:04 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google introduceert gratis AI-tool die in de terminal geïntegreerd kan worden</title>
+            <link>https://tweakers.net/nieuws/236604/google-introduceert-gratis-ai-tool-die-in-de-terminal-geintegreerd-kan-worden.html</link>
+            <description>Google brengt Gemini CLI uit. Ontwikkelaars kunnen daarmee Googles AI-dienst direct in hun terminal integreren. De tool kan helpen bij het programmeren, maar kan ook andere taken uitvoeren. Gemini CLI is vooralsnog gratis te gebruiken, hoewel er wel gebruikslimieten gelden.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Software</category>
+            <comments>https://tweakers.net/nieuws/236604/google-introduceert-gratis-ai-tool-die-in-de-terminal-geintegreerd-kan-worden.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236604</guid>
+            <pubDate>Wed, 25 Jun 2025 16:41:10 +0200</pubDate>
+        </item>
         <item>
             <title>Lexar brengt snelle en betaalbaardere PCIe 5.0-ssd uit vanaf 105 euro</title>
             <link>https://tweakers.net/nieuws/236602/lexar-brengt-snelle-en-betaalbaardere-pcie-50-ssd-uit-vanaf-105-euro.html</link>
@@ -206,216 +416,6 @@
             <comments>https://tweakers.net/nieuws/236574/mindseye-ontwikkelaar-kondigt-mogelijke-ontslagen-aan-vlak-na-gamerelease.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236574</guid>
             <pubDate>Wed, 25 Jun 2025 07:25:50 +0200</pubDate>
-        </item>
-        <item>
-            <title>Review - GMKtec NucBox G3 Plus met Intel N150 - Een simpele, zuinige en goedkope mini-pc</title>
-            <link>https://tweakers.net/reviews/13374/gmktec-nucbox-g3-plus-met-intel-n150-een-simpele-zuinige-en-goedkope-mini-pc.html</link>
-            <description>De GMKtec NucBox G3 Plus is gebaseerd op de Intel N150-cpu met alleen maar E-cores. Is dat een beetje werkbaar?</description>
-            <author>Tomas Hochstenbach</author>
-            <category>Review / Computers / Pc&#039;s</category>
-            <comments>https://tweakers.net/reviews/13374/gmktec-nucbox-g3-plus-met-intel-n150-een-simpele-zuinige-en-goedkope-mini-pc.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13374</guid>
-            <pubDate>Wed, 25 Jun 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>ElevenLabs komt met app voor genereren van AI-stemmen</title>
-            <link>https://tweakers.net/nieuws/236568/elevenlabs-komt-met-app-voor-genereren-van-ai-stemmen.html</link>
-            <description>Het AI-audiobedrijf ElevenLabs heeft een tweede app uitgebracht. Daarmee kunnen gebruikers kunstmatige stemmen genereren. Voorheen was dat alleen mogelijk via de webversie.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Beeld en geluid / Audio</category>
-            <comments>https://tweakers.net/nieuws/236568/elevenlabs-komt-met-app-voor-genereren-van-ai-stemmen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236568</guid>
-            <pubDate>Tue, 24 Jun 2025 20:55:31 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google laat Android-gebruikers Chrome-adresbalk naar onderkant verplaatsen</title>
-            <link>https://tweakers.net/nieuws/236566/google-laat-android-gebruikers-chrome-adresbalk-naar-onderkant-verplaatsen.html</link>
-            <description>Google Chrome-gebruikers kunnen de adresbalk voortaan naar de onderkant van het scherm verplaatsen in de Android-app. Via de iOS-versie van de internetbrowser is dit al langer mogelijk.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Computers / Browsers</category>
-            <comments>https://tweakers.net/nieuws/236566/google-laat-android-gebruikers-chrome-adresbalk-naar-onderkant-verplaatsen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236566</guid>
-            <pubDate>Tue, 24 Jun 2025 20:30:06 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft geeft gebruikers die back-up maken gratis jaar lang Windows 10-updates</title>
-            <link>https://tweakers.net/nieuws/236564/microsoft-geeft-gebruikers-die-back-up-maken-gratis-jaar-lang-windows-10-updates.html</link>
-            <description>Microsoft geeft gebruikers gratis een jaar lang extra beveiligingsupdates voor Windows 10 als ze Windows Back-up activeren. Ook kunnen gebruikers ervoor kiezen om extra ondersteuning te kopen met 1000 Microsoft Rewards-punten.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Computers / Besturingssystemen</category>
-            <comments>https://tweakers.net/nieuws/236564/microsoft-geeft-gebruikers-die-back-up-maken-gratis-jaar-lang-windows-10-updates.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236564</guid>
-            <pubDate>Tue, 24 Jun 2025 19:54:13 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - TeamViewer 15.67.3</title>
-            <link>https://tweakers.net/downloads/73092/teamviewer-15673.html</link>
-            <description>Versie 15.67.3 van TeamViewer is verschenen. Met dit programma kunnen andere computers via een veilige vpn-verbinding op afstand worden beheerd. Die verbinding loopt via de servers van TeamViewer, dus er hoeven geen instellingen op de router aangepast te worden om het allemaal te laten werken. TeamViewer is gratis voor niet-commercieel gebruik en wordt ontwikkeld voor Windows, Linux, macOS, iOS en Android. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: New features</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73092/teamviewer-15673.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73092</guid>
-            <pubDate>Tue, 24 Jun 2025 19:23:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nintendo brengt rolstoelbasketbalgame Drag X Drive op 14 augustus uit</title>
-            <link>https://tweakers.net/nieuws/236562/nintendo-brengt-rolstoelbasketbalgame-drag-x-drive-op-14-augustus-uit.html</link>
-            <description>Nintendo brengt Drag X Drive op 14 augustus uit. De rolstoelbasketbalgame komt enkel beschikbaar voor de Switch 2 en kost 20 euro.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/236562/nintendo-brengt-rolstoelbasketbalgame-drag-x-drive-op-14-augustus-uit.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236562</guid>
-            <pubDate>Tue, 24 Jun 2025 18:28:45 +0200</pubDate>
-        </item>
-        <item>
-            <title>Amerikaanse rechter oordeelt dat trainen van AI-modellen op boeken is toegestaan</title>
-            <link>https://tweakers.net/nieuws/236560/amerikaanse-rechter-oordeelt-dat-trainen-van-ai-modellen-op-boeken-is-toegestaan.html</link>
-            <description>Het trainen van AI-modellen op auteursrechtelijk beschermde, legaal verkregen boeken valt in de VS onder &#039;fair use&#039; en is dus toegestaan. Dat oordeelt een federale rechter in een rechtszaak die auteurs hebben aangespannen tegen Anthropic.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/236560/amerikaanse-rechter-oordeelt-dat-trainen-van-ai-modellen-op-boeken-is-toegestaan.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236560</guid>
-            <pubDate>Tue, 24 Jun 2025 18:15:15 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - 1Password 8.10.82</title>
-            <link>https://tweakers.net/downloads/73090/1password-81082.html</link>
-            <description>Voor de veiligheid is het beter om voor ieder account een ander en sterk wachtwoord te gebruiken. Als een bepaalde dienst wachtwoorden laat uitlekken, zijn niet al je andere accounts met hetzelfde wachtwoord toegankelijk. Voor het bijhouden van al deze verschillende wachtwoorden zijn wachtwoordmanagers een uitkomst. 1Password is er hier een van en is beschikbaar als webapplicatie, als app op verschillende platforms en als extensie voor de meestgebruikte browsers. Het kan twee weken geprobeerd worden, waarna een licentie moet worden aangeschaft. Voor meer informatie over de mogelijkheden verwijzen we naar deze pagina. In versie 8.10.82 zijn onder meer de vertalingen verbeterd. 1Password for Windows 8.10.82</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73090/1password-81082.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73090</guid>
-            <pubDate>Tue, 24 Jun 2025 17:55:41 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nvidia kondigt RTX 5050-videokaart met 8GB GDDR6-geheugen aan voor 259 euro</title>
-            <link>https://tweakers.net/nieuws/236558/nvidia-kondigt-rtx-5050-videokaart-met-8gb-gddr6-geheugen-aan-voor-259-euro.html</link>
-            <description>Nvidia heeft een GeForce RTX 5050-videokaart voor desktops aangekondigd. De grafische kaart maakt, in tegenstelling tot de andere kaarten in de RTX 50-serie, gebruik van GDDR6-geheugen. Hij komt in de tweede helft van juli uit en kost omgerekend 259 euro.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/nieuws/236558/nvidia-kondigt-rtx-5050-videokaart-met-8gb-gddr6-geheugen-aan-voor-259-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236558</guid>
-            <pubDate>Tue, 24 Jun 2025 17:24:20 +0200</pubDate>
-        </item>
-        <item>
-            <title>Bloomberg: Microsoft gaat bij Xbox-divisie wederom &#039;enorme&#039; ontslagronde houden</title>
-            <link>https://tweakers.net/nieuws/236556/bloomberg-microsoft-gaat-bij-xbox-divisie-wederom-enorme-ontslagronde-houden.html</link>
-            <description>Microsoft houdt volgende week opnieuw een &#039;enorme&#039; ontslagronde bij zijn Xbox-gamedivisie. Dat schrijft Jason Schreier van Bloomberg op basis van eigen bronnen. Volgens The Verge zou Microsoft onder meer in enkele Centraal-Europese landen zijn Xbox-activiteiten willen opheffen.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/236556/bloomberg-microsoft-gaat-bij-xbox-divisie-wederom-enorme-ontslagronde-houden.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236556</guid>
-            <pubDate>Tue, 24 Jun 2025 17:13:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>POCO brengt F7-telefoon in Europa uit voor 450 euro</title>
-            <link>https://tweakers.net/nieuws/236552/poco-brengt-f7-telefoon-in-europa-uit-voor-450-euro.html</link>
-            <description>Xiaomi-dochtermerk POCO heeft de F7-telefoon in Europa uitgebracht. Het gaat om een goedkopere variant van de eerder uitgebrachte F7 Pro en F7 Ultra. Het toestel heeft een vanafprijs van 449,90 euro.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/236552/poco-brengt-f7-telefoon-in-europa-uit-voor-450-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236552</guid>
-            <pubDate>Tue, 24 Jun 2025 16:34:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>CMA: Google moet gebruikers tussen zoekmachines laten wisselen met keuzescherm</title>
-            <link>https://tweakers.net/nieuws/236554/cma-google-moet-gebruikers-tussen-zoekmachines-laten-wisselen-met-keuzescherm.html</link>
-            <description>De Britse Competition and Markets Authority stelt voor om Google de &#039;strategische marktstatus&#039; te geven. Daardoor kan de toezichthouder concurrentiebevorderende maatregelen opleggen. Zo wil de CMA dat Google gebruikers met een keuzescherm laat kiezen welke zoekmachine ze gebruiken.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/236554/cma-google-moet-gebruikers-tussen-zoekmachines-laten-wisselen-met-keuzescherm.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236554</guid>
-            <pubDate>Tue, 24 Jun 2025 16:03:02 +0200</pubDate>
-        </item>
-        <item>
-            <title>Amerikaanse T-Mobile start op 23 juli met Starlink-satellietdienst</title>
-            <link>https://tweakers.net/nieuws/236550/amerikaanse-t-mobile-start-op-23-juli-met-starlink-satellietdienst.html</link>
-            <description>De Amerikaanse tak van T-Mobile begint op 23 juli met ondersteuning voor Starlink. Vanaf die datum kunnen abonnees via satellietcommunicatie berichten op hun smartphones versturen en ontvangen.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
-            <comments>https://tweakers.net/nieuws/236550/amerikaanse-t-mobile-start-op-23-juli-met-starlink-satellietdienst.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236550</guid>
-            <pubDate>Tue, 24 Jun 2025 15:44:45 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Mozilla Firefox 140.0</title>
-            <link>https://tweakers.net/downloads/73082/mozilla-firefox-1400.html</link>
-            <description>Mozilla heeft versie 140 van zijn webbrowser Firefox uitgebracht. In deze uitgave is het onder meer mogelijk om bij verticale tabbladen het aantal tabbladen wat permanent zichtbaar is aan te passen. Verder is er ondersteuning voor nog meer zoekmachines toegevoegd, worden bij een volledige paginavertaling alleen het zichtbare gedeelte vertaald en is het mogelijk het geheugen van een of meerdere tabbladen vrij te geven. De complete changelog voor deze uitgave kan hieronder worden gevonden. New</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73082/mozilla-firefox-1400.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73082</guid>
-            <pubDate>Tue, 24 Jun 2025 15:43:43 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google Chrome-app ontvangt enkel nog updates op Android 10 en hoger</title>
-            <link>https://tweakers.net/nieuws/236548/google-chrome-app-ontvangt-enkel-nog-updates-op-android-10-en-hoger.html</link>
-            <description>Google Chrome stopt met de ondersteuning voor Android 8 en 9. Voortaan ontvangt de mobiele browser alleen nog updates voor smartphones die Android 10 of hoger draaien.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/236548/google-chrome-app-ontvangt-enkel-nog-updates-op-android-10-en-hoger.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236548</guid>
-            <pubDate>Tue, 24 Jun 2025 15:15:17 +0200</pubDate>
-        </item>
-        <item>
-            <title>Meta&#039;s eigen toezichtsraad wil dat Meta meer AI-content automatisch gaat labelen</title>
-            <link>https://tweakers.net/nieuws/236542/metas-eigen-toezichtsraad-wil-dat-meta-meer-ai-content-automatisch-gaat-labelen.html</link>
-            <description>Meta&#039;s moderatie van AI-gegenereerde content is &#039;incoherent en onverdedigbaar&#039;. Dat stelt zijn interne Oversight Board, dat moderatiebeslissingen op Facebook, Instagram en Threads beoordeelt. Volgens het adviesorgaan wordt er te weinig AI-content als zodanig gelabeld.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/nieuws/236542/metas-eigen-toezichtsraad-wil-dat-meta-meer-ai-content-automatisch-gaat-labelen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236542</guid>
-            <pubDate>Tue, 24 Jun 2025 15:06:20 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft laat Windows-gebruikers volume- en helderheidsindicatoren verplaatsen</title>
-            <link>https://tweakers.net/nieuws/236544/microsoft-laat-windows-gebruikers-volume-en-helderheidsindicatoren-verplaatsen.html</link>
-            <description>Windows heeft in een Windows 11-build voor Insiders de functie toegevoegd om de positie van systeemindicatoren te wijzigen. Daardoor krijgen gebruikers de keuze uit meerdere schermposities voor de indicatoren voor volume, helderheidsniveau, vliegtuigmodus en virtuele desktops.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/236544/microsoft-laat-windows-gebruikers-volume-en-helderheidsindicatoren-verplaatsen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236544</guid>
-            <pubDate>Tue, 24 Jun 2025 14:52:11 +0200</pubDate>
-        </item>
-        <item>
-            <title>Datingapp Hinge wil eigen betaalmethode op iOS, Tinder gaat die niet gebruiken</title>
-            <link>https://tweakers.net/nieuws/236546/datingapp-hinge-wil-eigen-betaalmethode-op-ios-tinder-gaat-die-niet-gebruiken.html</link>
-            <description>Datingapp Hinge wil voor het einde van dit jaar een eigen betaalmethode introduceren binnen zijn eigen app. Tinder, dat net als Hinge onder de Match Group valt, zou de betaalmethode niet gaan gebruiken.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/236546/datingapp-hinge-wil-eigen-betaalmethode-op-ios-tinder-gaat-die-niet-gebruiken.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236546</guid>
-            <pubDate>Tue, 24 Jun 2025 13:53:24 +0200</pubDate>
-        </item>
-        <item>
-            <title>Gerucht: Google Pixel 10 Pro Fold is stofdicht en heeft IP68-rating</title>
-            <link>https://tweakers.net/nieuws/236540/gerucht-google-pixel-10-pro-fold-is-stofdicht-en-heeft-ip68-rating.html</link>
-            <description>De Google Pixel 10 Pro Fold zou een IP68-rating krijgen en dus stofdicht zijn. Terwijl veel reguliere smartphones al jaren stofdicht zijn, zijn er momenteel nog geen vouwbare telefoons verkrijgbaar die volledig stofdicht zijn.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/236540/gerucht-google-pixel-10-pro-fold-is-stofdicht-en-heeft-ip68-rating.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236540</guid>
-            <pubDate>Tue, 24 Jun 2025 13:44:54 +0200</pubDate>
-        </item>
-        <item>
-            <title>Rechtbankdocument: AI-apparaat Jony Ive is geen wearable of set oortjes</title>
-            <link>https://tweakers.net/nieuws/236538/rechtbankdocument-ai-apparaat-jony-ive-is-geen-wearable-of-set-oortjes.html</link>
-            <description>Een rechtbankdocument vermeldt dat het AI-apparaat van het bedrijf io, een samenwerking van OpenAI met Jony Ive, niet onder de categorie wearables of oortjes valt. De rechtszaak gaat over het gebruik van de naam &#039;io&#039; voor het initiatief van OpenAI en Jony Ive.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/236538/rechtbankdocument-ai-apparaat-jony-ive-is-geen-wearable-of-set-oortjes.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236538</guid>
-            <pubDate>Tue, 24 Jun 2025 12:09:07 +0200</pubDate>
-        </item>
-        <item>
-            <title>Chinese fabrikanten onthullen RTX 5050-laptop-gpu met 8GB GDDR7-geheugen</title>
-            <link>https://tweakers.net/nieuws/236530/chinese-fabrikanten-onthullen-rtx-5050-laptop-gpu-met-8gb-gddr7-geheugen.html</link>
-            <description>Chinese fabrikanten hebben laptops met een Nvidia RTX 5050 online gezet. De grafische kaart beschikt over een GB207-gpu met 2560 CUDA-cores en een 128bit-geheugenbus met 8GB GDDR7-geheugen. De RTX 5050 heeft een tgp van 115W, waarvan 15W Dynamic Boost, weet VideoCardz.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/nieuws/236530/chinese-fabrikanten-onthullen-rtx-5050-laptop-gpu-met-8gb-gddr7-geheugen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236530</guid>
-            <pubDate>Tue, 24 Jun 2025 11:52:11 +0200</pubDate>
         </item>
     </channel>
 </rss>
