@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 26 Jun 2025 13:31:01 +0200</pubDate>
-        <lastBuildDate>Thu, 26 Jun 2025 13:31:01 +0200</lastBuildDate>
+        <pubDate>Thu, 26 Jun 2025 14:41:00 +0200</pubDate>
+        <lastBuildDate>Thu, 26 Jun 2025 14:41:00 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Training Nederlands taalmodel GPT-NL van TNO en SURF gaat van start</title>
+            <link>https://tweakers.net/nieuws/236644/training-nederlands-taalmodel-gpt-nl-van-tno-en-surf-gaat-van-start.html</link>
+            <description>De training van Nederlandse AI-taalmodel GPT-NL is begonnen. Tijdens deze maandenlange training leert GPT-NL de structuur van tekst en taal aan de hand van 370 miljard unieke tokens. Het model wordt getraind met de Nederlandse supercomputer Snellius.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / IT Pro / Wetenschap</category>
+            <comments>https://tweakers.net/nieuws/236644/training-nederlands-taalmodel-gpt-nl-van-tno-en-surf-gaat-van-start.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236644</guid>
+            <pubDate>Thu, 26 Jun 2025 14:33:05 +0200</pubDate>
+        </item>
+        <item>
+            <title>Ubiquiti brengt nieuwe G6 Dome-beveiligingscamera uit voor 300 euro</title>
+            <link>https://tweakers.net/nieuws/236648/ubiquiti-brengt-nieuwe-g6-dome-beveiligingscamera-uit-voor-300-euro.html</link>
+            <description>Ubiquiti introduceert een aantal nieuwe UniFi G6-beveiligingscamera&#039;s. Daaronder valt een G6 Dome, die per direct beschikbaar is voor 300 euro. Later dit jaar volgen 180- en 360-gradencamera&#039;s, waarvan de prijzen nog niet bekend zijn.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Beeld en geluid / Bewakingscamera&#039;s</category>
+            <comments>https://tweakers.net/nieuws/236648/ubiquiti-brengt-nieuwe-g6-dome-beveiligingscamera-uit-voor-300-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236648</guid>
+            <pubDate>Thu, 26 Jun 2025 14:21:08 +0200</pubDate>
+        </item>
+        <item>
+            <title>Tienduizend Belgische pakketten zijn door appstoring niet uit automaat te halen</title>
+            <link>https://tweakers.net/nieuws/236642/tienduizend-belgische-pakketten-zijn-door-appstoring-niet-uit-automaat-te-halen.html</link>
+            <description>Door een storing met de Bpost-app zijn naar schatting tienduizend pakketten sinds dinsdag niet op te halen bij schermloze pakjesautomaten. Deze kluizen werken alleen met de Bpost-app. Het postbedrijf verplaatst de pakketten naar andere postpunten.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Computers / Software</category>
+            <comments>https://tweakers.net/nieuws/236642/tienduizend-belgische-pakketten-zijn-door-appstoring-niet-uit-automaat-te-halen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236642</guid>
+            <pubDate>Thu, 26 Jun 2025 13:37:51 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Snagit 2025.2.1</title>
             <link>https://tweakers.net/downloads/73116/snagit-202521.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/236586/nederland-meldt-zich-aan-voor-europese-ai-gigafabriek-in-de-buurt-van-rotterdam.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236586</guid>
             <pubDate>Wed, 25 Jun 2025 11:34:42 +0200</pubDate>
-        </item>
-        <item>
-            <title>Fairphone Gen 6 krijgt fysieke knop voor minder meldingen en kost 599 euro</title>
-            <link>https://tweakers.net/nieuws/236570/fairphone-gen-6-krijgt-fysieke-knop-voor-minder-meldingen-en-kost-599-euro.html</link>
-            <description>Fairphone heeft de Fairphone Gen 6 aangekondigd. De zesde smartphone van de Nederlandse fabrikant is compacter, heeft een nieuwe minimalistische modus, een grotere accu en moet nog repareerbaarder zijn dan zijn voorgangers. De Gen 6 is per direct te koop.</description>
-            <author>Dennis de Vries</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/236570/fairphone-gen-6-krijgt-fysieke-knop-voor-minder-meldingen-en-kost-599-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236570</guid>
-            <pubDate>Wed, 25 Jun 2025 11:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Samsung teaset Galaxy Buds Core-oortjes, Europese release onbekend</title>
-            <link>https://tweakers.net/nieuws/236580/samsung-teaset-galaxy-buds-core-oortjes-europese-release-onbekend.html</link>
-            <description>Het Indiase X-account van Samsung teaset de komst van een set nieuwe draadloze oortjes. Het gaat om de Galaxy Buds Core, waar al enige tijd geruchten over rondgaan. De Buds Core komen op 27 juni uit in India. Het is onduidelijk of de Core-oortjes ook in Europa verschijnen.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / Beeld en geluid / Oordopjes</category>
-            <comments>https://tweakers.net/nieuws/236580/samsung-teaset-galaxy-buds-core-oortjes-europese-release-onbekend.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236580</guid>
-            <pubDate>Wed, 25 Jun 2025 10:46:36 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Ocenaudio 3.15.1</title>
-            <link>https://tweakers.net/downloads/73098/ocenaudio-3151.html</link>
-            <description>Versie 3.15.1 van Ocenaudio is uitgekomen. Dit gratis geluidsbewerkingsprogramma is van Braziliaanse bodem en heeft versies voor Windows, Linux en macOS. Het heeft uitgebreide mogelijkheden, zoals ondersteuning voor vst-plug-ins en het uitvoeren van een bewerking op verschillende plekken in een bestand tegelijk. Het openen en opslaan van bestanden gebeurt op de achtergrond, zodat het programma beschikbaar blijft. Verder is er een spectrumanalyzer aanwezig en het programma gaat zeer efficiënt om met geheugen. Het vergelijkbare Audacity heeft nog meer mogelijkheden en daardoor is Ocenaudio, zeker voor de beginnende gebruiker, net wat makkelijker te gebruiken. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 3.15.1:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73098/ocenaudio-3151.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73098</guid>
-            <pubDate>Wed, 25 Jun 2025 10:30:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
