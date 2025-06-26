@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 26 Jun 2025 09:31:00 +0200</pubDate>
-        <lastBuildDate>Thu, 26 Jun 2025 09:31:00 +0200</lastBuildDate>
+        <pubDate>Thu, 26 Jun 2025 10:36:01 +0200</pubDate>
+        <lastBuildDate>Thu, 26 Jun 2025 10:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Camtasia 2025.1.3</title>
+            <link>https://tweakers.net/downloads/73114/camtasia-202513.html</link>
+            <description>TechSmith heeft versie 2025.1.3 van Camtasia uitgebracht. Met dit programma, wat voor Windows en macOS beschikbaar is, kunnen op een eenvoudige manier video&#039;s voor onder meer trainingen en presentaties worden gemaakt. Het kan op aparte sporen de microfoon, de webcam, wat er op het beeldscherm gebeurt, het geluid dat op de computer wordt afgespeeld en de invoer van muis en toetsenbord opnemen. Dit alles kan vervolgens afzonderlijk worden bewerkt en verder kunnen er effecten aan worden toegevoegd om zo professionele video&#039;s te maken. Voor meer informatie verwijzen we naar deze pagina, waar alle mogelijkheden op een rijtje worden gezet. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: New Features</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73114/camtasia-202513.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73114</guid>
+            <pubDate>Thu, 26 Jun 2025 10:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Mozilla stopt vijf jaar na laatste update officieel met spraak-naar-tekstengine</title>
+            <link>https://tweakers.net/nieuws/236636/mozilla-stopt-vijf-jaar-na-laatste-update-officieel-met-spraak-naar-tekstengine.html</link>
+            <description>De ontwikkeling van DeepSpeech is stopgezet. Dat bevestigt Mozilla bij een Git-commit. De spraak-naar-tekstengine was al in bijna vijf jaar niet geüpdatet en kwam niet verder dan een alfaversie van een 0.10.0-release.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/236636/mozilla-stopt-vijf-jaar-na-laatste-update-officieel-met-spraak-naar-tekstengine.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236636</guid>
+            <pubDate>Thu, 26 Jun 2025 10:23:57 +0200</pubDate>
+        </item>
         <item>
             <title>HDMI Forum brengt HDMI 2.2-specificatie uit die 16k bij 60Hz ondersteunt</title>
             <link>https://tweakers.net/nieuws/236628/hdmi-forum-brengt-hdmi-22-specificatie-uit-die-16k-bij-60hz-ondersteunt.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/236576/google-earth-laat-gebruikers-nu-ook-historische-street-view-beelden-bekijken.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236576</guid>
             <pubDate>Wed, 25 Jun 2025 07:54:40 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Tor Browser 14.5.4</title>
-            <link>https://tweakers.net/downloads/73094/tor-browser-1454.html</link>
-            <description>Versie 14.5.4 van Tor Browser is uitgekomen. Tor staat voor &#039;The Onion Router&#039; en is een netwerk dat gebruikt kan worden om redelijk anoniem over internet te surfen. Al het TCP-verkeer van gebruikers wordt langs verschillende Tor-routers geleid, waarna het voor de ontvanger vrijwel niet meer mogelijk is om te achterhalen wie de oorspronkelijke verzender was. Binnen het Tor-netwerk is die informatie nog wel aanwezig, zodat antwoorden, uiteraard ook weer via het stelsel van routers, uiteindelijk weer op de juiste plek aankomen. De changelog voor deze uitgave kan hieronder worden gevonden. All Platforms</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73094/tor-browser-1454.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73094</guid>
-            <pubDate>Wed, 25 Jun 2025 07:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>MindsEye-ontwikkelaar kondigt &#039;mogelijke ontslagen&#039; aan vlak na gamerelease</title>
-            <link>https://tweakers.net/nieuws/236574/mindseye-ontwikkelaar-kondigt-mogelijke-ontslagen-aan-vlak-na-gamerelease.html</link>
-            <description>Build a Rocket Boy bevestigt een komende reorganisatie &#039;die mogelijk kan leiden tot ontslagen&#039;. De studio van voormalig GTA-hoofdontwikkelaar Leslie Benzies bracht onlangs zijn eerste game MindsEye uit, die veel negatieve recensies kreeg door vele bugs en prestatieproblemen.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/236574/mindseye-ontwikkelaar-kondigt-mogelijke-ontslagen-aan-vlak-na-gamerelease.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236574</guid>
-            <pubDate>Wed, 25 Jun 2025 07:25:50 +0200</pubDate>
         </item>
     </channel>
 </rss>
