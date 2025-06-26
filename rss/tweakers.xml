@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 26 Jun 2025 15:36:01 +0200</pubDate>
-        <lastBuildDate>Thu, 26 Jun 2025 15:36:01 +0200</lastBuildDate>
+        <pubDate>Thu, 26 Jun 2025 16:31:05 +0200</pubDate>
+        <lastBuildDate>Thu, 26 Jun 2025 16:31:05 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Chieftec brengt Pro Midi Q-budgetbehuizing uit met geluidsdemping en zonder glas</title>
+            <link>https://tweakers.net/nieuws/236646/chieftec-brengt-pro-midi-q-budgetbehuizing-uit-met-geluidsdemping-en-zonder-glas.html</link>
+            <description>Chieftec komt met een nieuwe serie Pro Midi-behuizingen. Daaronder valt de Pro Midi Q, die beschikt over aluminium zijpanelen en geluidsdemping. Er komt ook een Pro Midi TG-variant die wél een glazen zijpaneel heeft. De prijzen liggen tussen de 50 en 60 euro.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Behuizingen</category>
+            <comments>https://tweakers.net/nieuws/236646/chieftec-brengt-pro-midi-q-budgetbehuizing-uit-met-geluidsdemping-en-zonder-glas.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236646</guid>
+            <pubDate>Thu, 26 Jun 2025 16:25:38 +0200</pubDate>
+        </item>
+        <item>
+            <title>Micron draait recordomzet met dram, vooral dankzij grote vraag naar HBM</title>
+            <link>https://tweakers.net/nieuws/236650/micron-draait-recordomzet-met-dram-vooral-dankzij-grote-vraag-naar-hbm.html</link>
+            <description>Micron draaide in het vorige kwartaal een recordomzet met zijn dram-verkopen. Volgens de geheugenfabrikant komt dat vooral door de grote vraag naar HBM, dat bijvoorbeeld gebruikt wordt voor AI-chips. Die vraag blijft de komende tijd groeien, verwacht Micron.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/236650/micron-draait-recordomzet-met-dram-vooral-dankzij-grote-vraag-naar-hbm.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236650</guid>
+            <pubDate>Thu, 26 Jun 2025 16:13:33 +0200</pubDate>
+        </item>
+        <item>
+            <title>Linux-kernelconfiguratietool gconfig ruilt verouderd GTK 2 in voor GTK 3</title>
+            <link>https://tweakers.net/nieuws/236654/linux-kernelconfiguratietool-gconfig-ruilt-verouderd-gtk-2-in-voor-gtk-3.html</link>
+            <description>Linux-kerneltool gconfig werkt voortaan op basis van GTK 3. Met de tool kunnen gebruikers via een grafische interface de kernel instellen. Eerder gebruikte gconfig nog GTK 2, dat sinds december 2020 niet meer officieel ondersteund wordt.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Software development</category>
+            <comments>https://tweakers.net/nieuws/236654/linux-kernelconfiguratietool-gconfig-ruilt-verouderd-gtk-2-in-voor-gtk-3.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236654</guid>
+            <pubDate>Thu, 26 Jun 2025 15:54:29 +0200</pubDate>
+        </item>
         <item>
             <title>.Deals - De beste elektronicadeals van week 26 2025</title>
             <link>https://tweakers.net/plan/4452/de-beste-elektronicadeals-van-week-26-2025.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/236598/dbrand-stuurt-nieuwe-joy-con-grips-voor-switch-2-case-na-klachten-over-loslaten.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236598</guid>
             <pubDate>Wed, 25 Jun 2025 15:30:06 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Plan - Wysiwygeditor live op frontpagereacties - Development-iteratie #314</title>
-            <link>https://tweakers.net/plan/4438/wysiwygeditor-live-op-frontpagereacties-development-iteratie-314.html</link>
-            <description>Half mei maakten we de wysiwygeditor als bètafeature beschikbaar voor de frontpagereacties. Deze bètaperiode sluiten we af en we maken de editor beschikbaar voor alle gebruikers. In dit .plan meer hierover en wat er nog meer speelde de afgelopen periode.</description>
-            <author>Sander den Heijer</author>
-            <category>.plan</category>
-            <comments>https://tweakers.net/plan/4438/wysiwygeditor-live-op-frontpagereacties-development-iteratie-314.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/plan/4438</guid>
-            <pubDate>Wed, 25 Jun 2025 14:29:51 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google maakt Imagen 4-afbeeldingen duurder en belooft betere tekst in beeld</title>
-            <link>https://tweakers.net/nieuws/236594/google-maakt-imagen-4-afbeeldingen-duurder-en-belooft-betere-tekst-in-beeld.html</link>
-            <description>Google maakt Imagen 4 beschikbaar als betaalde preview in de Gemini-api en als beperkte gratis test in Google AI Studio. De nieuwste versie van de tekst-naar-afbeeldingtool biedt volgens de techreus een &#039;aanzienlijk verbeterde weergave vergeleken met onze eerdere afbeeldingsmodellen&#039;.</description>
-            <author>Sabine Schults</author>
-            <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/236594/google-maakt-imagen-4-afbeeldingen-duurder-en-belooft-betere-tekst-in-beeld.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236594</guid>
-            <pubDate>Wed, 25 Jun 2025 14:18:36 +0200</pubDate>
-        </item>
-        <item>
-            <title>Intel sluit automotivedivisie en ontslaat meeste medewerkers van die afdeling</title>
-            <link>https://tweakers.net/nieuws/236592/intel-sluit-automotivedivisie-en-ontslaat-meeste-medewerkers-van-die-afdeling.html</link>
-            <description>Intel gaat zijn automotivedivisie sluiten en de meeste medewerkers in die bedrijfstak ontslaan. Dat bevestigt het bedrijf tegenover The Oregonian. De stap is onderdeel van de plannen van de nieuwe ceo Lip-Bu Tan, die eerder al ontslagen bij de chipmaker aankondigde.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/236592/intel-sluit-automotivedivisie-en-ontslaat-meeste-medewerkers-van-die-afdeling.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236592</guid>
-            <pubDate>Wed, 25 Jun 2025 14:13:53 +0200</pubDate>
         </item>
     </channel>
 </rss>
