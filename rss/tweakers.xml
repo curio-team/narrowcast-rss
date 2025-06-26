@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 26 Jun 2025 12:36:01 +0200</pubDate>
-        <lastBuildDate>Thu, 26 Jun 2025 12:36:01 +0200</lastBuildDate>
+        <pubDate>Thu, 26 Jun 2025 13:31:01 +0200</pubDate>
+        <lastBuildDate>Thu, 26 Jun 2025 13:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Snagit 2025.2.1</title>
+            <link>https://tweakers.net/downloads/73116/snagit-202521.html</link>
+            <description>TechSmith heeft versie 2025.2.0 van Snagit uitgebracht. Met dit programma, dat voor zowel Windows als macOS beschikbaar is, kunnen plaatjes, tekst, bewegende beelden en webpagina&#039;s worden afgevangen en bewerkt. Zo kunnen er effecten als perspectief, spotlight en magnify op worden losgelaten. Verder kunnen ter verduidelijking teksten, pijlen en cirkels worden aangebracht. De screenshots kunnen als afbeeldingen worden opgeslagen of direct in diverse programma&#039;s zoals Word en PowerPoint worden geïmporteerd. In deze uitgave zijn de volgende twee problemen verholpen: Bug Fixes</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73116/snagit-202521.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73116</guid>
+            <pubDate>Thu, 26 Jun 2025 13:30:00 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Visual Studio 2022 17.14.7</title>
             <link>https://tweakers.net/downloads/73110/visual-studio-2022-17147.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/downloads/73098/ocenaudio-3151.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73098</guid>
             <pubDate>Wed, 25 Jun 2025 10:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - PowerShell 7.5.2</title>
-            <link>https://tweakers.net/downloads/73096/powershell-752.html</link>
-            <description>Microsoft heeft versie 7.5.2 van PowerShell uitgebracht. Deze objectgeoriënteerde shell- en scripttaal voor taakautomatisering bestaat uit een commandlineshell, een scripttaal en een framework voor configuratiebeheer. De software bestaat al sinds 2006 en is sinds versie 2.0 standaard onderdeel van Windows. Sinds eind 2016 is het opensource en ook beschikbaar voor Linux en macOS. PowerShell 7.5 is gebouwd met .NET versie 9.0. Hieronder is de changelog voor deze uitgave te vinden. Engine Updates and Fixes</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73096/powershell-752.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73096</guid>
-            <pubDate>Wed, 25 Jun 2025 09:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
