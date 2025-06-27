@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 27 Jun 2025 06:38:14 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 27 Jun 2025 11:25:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,43 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>OpenAI hires team behind AI recommendation startup Crossing Minds</title>
+		<link>https://techcrunch.com/2025/06/27/openai-hires-team-behind-ai-recommendation-startup-crossing-minds/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Fri, 27 Jun 2025 11:25:13 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[acqui-hires]]></category>
+		<category><![CDATA[Crossing Minds]]></category>
+		<category><![CDATA[Mergers and Acquisitions]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3022724</guid>
+
+					<description><![CDATA[Crossing Minds, a startup that provides AI recommendation systems to e-commerce firms, said its team is leaving the company to join OpenAI.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Meta in talks to acquire voice cloning startup Play AI</title>
+		<link>https://techcrunch.com/2025/06/27/meta-in-talks-to-acquire-voice-cloning-startup-play-ai/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Fri, 27 Jun 2025 10:38:12 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[acquisition]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[meta ai]]></category>
+		<category><![CDATA[voice AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3022718</guid>
+
+					<description><![CDATA[Meta is in talks to acquire a voice cloning startup called Play AI, Bloomberg reported, citing anonymous sources.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Redwood Materials launches energy storage business and its first target is AI data centers</title>
 		<link>https://techcrunch.com/2025/06/26/redwood-materials-launches-energy-storage-business-and-its-first-target-is-ai-data-centers/</link>
 		
@@ -342,41 +379,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3022429</guid>
 
 					<description><![CDATA[In recent months, Mark Zuckerberg has been on a hiring spree to build out Meta's new AI team, offering $100 million compensation packages to top researchers who join his company. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>As AI kills search traffic, Google launches Offerwall to boost publisher revenue</title>
-		<link>https://techcrunch.com/2025/06/26/as-ai-kills-search-traffic-google-launches-offerwall-to-boost-publisher-revenue/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Thu, 26 Jun 2025 16:04:10 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[Google Ads]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3022420</guid>
-
-					<description><![CDATA[Offerwall lets publishers give their sites' readers a variety of ways to access their content, including through options like micropayments, taking surveys, watching ads, and more.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Suno snaps up WavTool for its AI music editing tools amid ongoing dispute with music labels</title>
-		<link>https://techcrunch.com/2025/06/26/suno-snaps-up-wavtool-for-its-ai-music-editing-tools-amid-ongoing-dispute-with-music-labels/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Thu, 26 Jun 2025 15:30:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[ai music]]></category>
-		<category><![CDATA[Mergers and Acquisitions]]></category>
-		<category><![CDATA[Music]]></category>
-		<category><![CDATA[suno]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3022402</guid>
-
-					<description><![CDATA[AI music company Suno acquired WavTool, a browser-based AI DAW. This aims to improve editing capabilities for musicians.]]></description>
 		
 		
 		
