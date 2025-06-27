@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 27 Jun 2025 14:41:02 +0200</pubDate>
-        <lastBuildDate>Fri, 27 Jun 2025 14:41:02 +0200</lastBuildDate>
+        <pubDate>Fri, 27 Jun 2025 15:36:01 +0200</pubDate>
+        <lastBuildDate>Fri, 27 Jun 2025 15:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Rijksoverheid steekt 70 miljoen euro in Groningse AI-fabriek met supercomputer</title>
+            <link>https://tweakers.net/nieuws/236698/rijksoverheid-steekt-70-miljoen-euro-in-groningse-ai-fabriek-met-supercomputer.html</link>
+            <description>De Nederlandse Rijksoverheid draagt 70 miljoen euro bij aan de investering voor een AI-fabriek in Groningen. Samen met de regionale bijdrage en nog lopende Europese cofinancieringsaanvraag kan de totale investering 200 miljoen euro bedragen. De inwerkingtreding staat gepland voor 2026.</description>
+            <author>Idriz Velghe</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/236698/rijksoverheid-steekt-70-miljoen-euro-in-groningse-ai-fabriek-met-supercomputer.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236698</guid>
+            <pubDate>Fri, 27 Jun 2025 14:53:45 +0200</pubDate>
+        </item>
         <item>
             <title>W3C geeft officiële specificaties voor PNG 3 met Exif- en hdr-ondersteuning vrij</title>
             <link>https://tweakers.net/nieuws/236692/w3c-geeft-officiele-specificaties-voor-png-3-met-exif-en-hdr-ondersteuning-vrij.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/downloads/73108/bitwarden-202562.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73108</guid>
             <pubDate>Thu, 26 Jun 2025 07:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Review - Dell U3225QE en U2725QE - De 27&quot;- en 32&quot;-Dell UltraSharps van 2025</title>
-            <link>https://tweakers.net/reviews/13384/dell-u3225qe-en-u2725qe-de-27-inch-en-32-inch-dell-ultrasharps-van-2025.html</link>
-            <description>Met 650 euro voor het 27&quot;-model en 930 euro voor het 32&quot;-model levert Dell uitstekend afgestelde en prettig te gebruiken beeldschermen voor een veeleisend publiek.</description>
-            <author>Willem de Moor</author>
-            <category>Review / Computers / Monitors</category>
-            <comments>https://tweakers.net/reviews/13384/dell-u3225qe-en-u2725qe-de-27-inch-en-32-inch-dell-ultrasharps-van-2025.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13384</guid>
-            <pubDate>Thu, 26 Jun 2025 06:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
