@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 27 Jun 2025 09:31:06 +0200</pubDate>
-        <lastBuildDate>Fri, 27 Jun 2025 09:31:06 +0200</lastBuildDate>
+        <pubDate>Fri, 27 Jun 2025 10:36:06 +0200</pubDate>
+        <lastBuildDate>Fri, 27 Jun 2025 10:36:06 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Rust 1.88.0</title>
+            <link>https://tweakers.net/downloads/73128/rust-1880.html</link>
+            <description>Rust is een programmeertaal bedacht door Graydon Hoare en oorspronkelijk ontwikkeld door Mozilla. Het is deels geïnspireerd op de programmeertaal C, maar kent syntactische en semantische verschillen. Het focust op veiligheid en moet moderne computersystemen efficiënter benutten. Het wordt ingezet door onder andere Cloudflare, OVH, Mozilla, Deliveroo, Coursera, AppSignal en Threema. Versie 1.88 is uitgebracht en de releasenotes voor die uitgave kunnen hieronder worden gevonden. Let chains</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73128/rust-1880.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73128</guid>
+            <pubDate>Fri, 27 Jun 2025 10:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Microsoft verwijdert blue screen of death na 40 jaar uit Windows</title>
+            <link>https://tweakers.net/nieuws/236690/microsoft-verwijdert-blue-screen-of-death-na-40-jaar-uit-windows.html</link>
+            <description>Microsoft gaat het bekende blue screen of death uit Windows verwijderen. In plaats daarvan komt er een &#039;versimpelde gebruikersinterface&#039; waarbij de crashinformatie minder prominent in beeld komt te staan.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Besturingssystemen</category>
+            <comments>https://tweakers.net/nieuws/236690/microsoft-verwijdert-blue-screen-of-death-na-40-jaar-uit-windows.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236690</guid>
+            <pubDate>Fri, 27 Jun 2025 10:23:46 +0200</pubDate>
+        </item>
+        <item>
+            <title>Apple-ontwikkelaars mogen acties promoten en meer externe links toevoegen in iOS</title>
+            <link>https://tweakers.net/nieuws/236686/apple-ontwikkelaars-mogen-acties-promoten-en-meer-externe-links-toevoegen-in-ios.html</link>
+            <description>Apple-ontwikkelaars mogen vanaf vandaag naar meerdere externe websites verwijzen. Apple past de regels voor Europese ontwikkelaars aan naar aanleiding van de Digital Markets Act (DMA), met name op het gebied van linken en verwijzen. Ook stapt Apple over naar een nieuwe heffingsstructuur.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Software development</category>
+            <comments>https://tweakers.net/nieuws/236686/apple-ontwikkelaars-mogen-acties-promoten-en-meer-externe-links-toevoegen-in-ios.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236686</guid>
+            <pubDate>Fri, 27 Jun 2025 09:55:01 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Tails 6.17</title>
             <link>https://tweakers.net/downloads/73126/tails-617.html</link>
@@ -58,7 +88,7 @@
             <pubDate>Fri, 27 Jun 2025 07:13:07 +0200</pubDate>
         </item>
         <item>
-            <title>Round-up - De beste 6” e-reader voor deze zomer</title>
+            <title>Round-up - De beste 6”-e-reader voor deze zomer</title>
             <link>https://tweakers.net/video/19968/de-beste-6-inch-e-reader-voor-deze-zomer.html</link>
             <description>Vakantie komt er weer bijna aan, goed moment om een boek te lezen. Maar op welke instap-e-readers doe je dat het beste? Wij hebben de Kobo Clara BW, Amazon Kindle 11th gen (2024), Onyx Boox Go 6, Pocketbook Verse Pro en Tolino Shine 5 getest en in deze video vertellen wij welke in je koffer moet.</description>
             <author>Jasper Janssen</author>
@@ -92,7 +122,7 @@
             <link>https://tweakers.net/nieuws/236676/dell-introduceert-14-premium-en-16-premium-laptops-als-opvolgers-voor-xps-serie.html</link>
             <description>Dell kondigt twee nieuwe laptops aan: de 14 Premium en 16 Premium. Het gaat om de opvolgers van de XPS-serie, waar de fabrikant begin dit jaar mee stopte. Ze krijgen onder andere een nieuwere cpu, maar lijken verder sterk op hun XPS-tegenhangers.</description>
             <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / Laptops</category>
+            <category>Nieuws / </category>
             <comments>https://tweakers.net/nieuws/236676/dell-introduceert-14-premium-en-16-premium-laptops-als-opvolgers-voor-xps-serie.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236676</guid>
             <pubDate>Thu, 26 Jun 2025 19:48:27 +0200</pubDate>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/reviews/13420/fairphone-gen-6-de-eerlijke-telefoon-wordt-kleiner.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13420</guid>
             <pubDate>Wed, 25 Jun 2025 21:40:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>WhatsApp wil later dit jaar ongelezen berichten in groepsapps samenvatten</title>
-            <link>https://tweakers.net/nieuws/236622/whatsapp-wil-later-dit-jaar-ongelezen-berichten-in-groepsapps-samenvatten.html</link>
-            <description>WhatsApp wil later dit jaar ongelezen berichten in groepsapps gaan samenvatten met AI. Daardoor moeten gebruikers snel op de hoogte zijn van wat ze hebben gemist. De functie is vanaf woensdag bruikbaar in de Verenigde Staten.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/236622/whatsapp-wil-later-dit-jaar-ongelezen-berichten-in-groepsapps-samenvatten.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236622</guid>
-            <pubDate>Wed, 25 Jun 2025 21:21:59 +0200</pubDate>
-        </item>
-        <item>
-            <title>Huawei brengt Pura 80-telefoons snel wereldwijd uit, maar niet in Europa</title>
-            <link>https://tweakers.net/nieuws/236620/huawei-brengt-pura-80-telefoons-snel-wereldwijd-uit-maar-niet-in-europa.html</link>
-            <description>Huawei gaat zijn Pura 80-telefoons wereldwijd uitbrengen, maar dat lijkt niet te gebeuren in Europa. De telefoons kwamen al uit in China. De voorgangers in de Pura 70-serie zijn wel te koop in Europa.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/236620/huawei-brengt-pura-80-telefoons-snel-wereldwijd-uit-maar-niet-in-europa.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236620</guid>
-            <pubDate>Wed, 25 Jun 2025 20:59:52 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Hobbyisten vinden verborgen teamfoto in 28 jaar oude Apple Mac OS-versie</title>
-            <link>https://tweakers.net/geek/236618/hobbyisten-vinden-verborgen-teamfoto-in-28-jaar-oude-apple-mac-os-versie.html</link>
-            <description>Hobbyisten hebben een easter egg gevonden in een 28 jaar oude versie van Mac OS voor de Power Macintosh G3. Die bleek op te roepen door de ramdisk te formatteren en daar in het invoerveld &#039;secret ROM image&#039; in te voeren.</description>
-            <author>Arnoud Wokke</author>
-            <category>.Geek / Computers / Hardware boeken</category>
-            <comments>https://tweakers.net/geek/236618/hobbyisten-vinden-verborgen-teamfoto-in-28-jaar-oude-apple-mac-os-versie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/236618</guid>
-            <pubDate>Wed, 25 Jun 2025 20:39:47 +0200</pubDate>
         </item>
     </channel>
 </rss>
