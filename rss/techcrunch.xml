@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 27 Jun 2025 11:25:18 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 27 Jun 2025 12:28:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>German data protection official wants Apple, Google to remove DeepSeek from the country&#8217;s app stores</title>
+		<link>https://techcrunch.com/2025/06/27/germany-tells-apple-google-to-remove-deepseek-from-the-countrys-app-stores/</link>
+		
+		<dc:creator><![CDATA[Ram Iyer, Ivan Mehta]]></dc:creator>
+		<pubDate>Fri, 27 Jun 2025 12:07:03 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[data privacy]]></category>
+		<category><![CDATA[deepseek]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3022757</guid>
+
+					<description><![CDATA[Germany has told Apple and Google to remove Chinese AI app DeepSeek from their app stores, saying the company transfers users' data to China illegally.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>OpenAI hires team behind AI recommendation startup Crossing Minds</title>
 		<link>https://techcrunch.com/2025/06/27/openai-hires-team-behind-ai-recommendation-startup-crossing-minds/</link>
 		
@@ -363,22 +381,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3022431</guid>
 
 					<description><![CDATA[DHS said low-level cyberattacks targeting U.S. networks are "likely" in the wake of military conflict between the U.S. and Israel and Iran.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meta hires key OpenAI researcher to work on AI reasoning models</title>
-		<link>https://techcrunch.com/2025/06/26/meta-hires-key-openai-researcher-to-work-on-ai-reasoning-models/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Thu, 26 Jun 2025 16:13:59 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3022429</guid>
-
-					<description><![CDATA[In recent months, Mark Zuckerberg has been on a hiring spree to build out Meta's new AI team, offering $100 million compensation packages to top researchers who join his company. ]]></description>
 		
 		
 		
