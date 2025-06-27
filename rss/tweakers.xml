@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 27 Jun 2025 11:31:01 +0200</pubDate>
-        <lastBuildDate>Fri, 27 Jun 2025 11:31:01 +0200</lastBuildDate>
+        <pubDate>Fri, 27 Jun 2025 12:36:06 +0200</pubDate>
+        <lastBuildDate>Fri, 27 Jun 2025 12:36:06 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>DPG mag RTL overnemen, online nieuws moet wel gratis blijven</title>
+            <link>https://tweakers.net/nieuws/236694/dpg-mag-rtl-overnemen-online-nieuws-moet-wel-gratis-blijven.html</link>
+            <description>Uitgever DPG Media mag RTL Nederland overnemen. De ACM heeft daar na anderhalf jaar onderzoek toestemming voor gegeven. DPG moet wel online nieuws van RTL en NU.nl gratis beschikbaar blijven maken. Ook mogen die websites geen content of data uitwisselen met elkaar.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Economie en maatschappij</category>
+            <comments>https://tweakers.net/nieuws/236694/dpg-mag-rtl-overnemen-online-nieuws-moet-wel-gratis-blijven.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236694</guid>
+            <pubDate>Fri, 27 Jun 2025 11:55:45 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Rust 1.88.0</title>
             <link>https://tweakers.net/downloads/73128/rust-1880.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/geek/236600/tweakers-podcast-379-miniledverschillen-fairphone-schuifjes-en-rode-oortjes.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/geek/236600</guid>
             <pubDate>Thu, 26 Jun 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Preview - Fairphone Gen 6 -  De eerlijke telefoon wordt kleiner</title>
-            <link>https://tweakers.net/reviews/13420/fairphone-gen-6-de-eerlijke-telefoon-wordt-kleiner.html</link>
-            <description>Het Nederlandse bedrijf Fairphone heeft de Fairphone Gen 6 aangekondigd, die een slagje kleiner is de nieuwe, minimalistische Fairphone Moments-interface bevat.</description>
-            <author>Dennis de Vries</author>
-            <category>Preview / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/reviews/13420/fairphone-gen-6-de-eerlijke-telefoon-wordt-kleiner.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13420</guid>
-            <pubDate>Wed, 25 Jun 2025 21:40:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
