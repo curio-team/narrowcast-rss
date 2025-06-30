@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 30 Jun 2025 10:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 30 Jun 2025 11:32:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,14 +28,14 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Spotify revamps its Discover Weekly playlist after ten years</title>
+		<title>Spotify revamps its Discover Weekly playlist after 10 years</title>
 		<link>https://techcrunch.com/2025/06/30/spotify-will-revamp-its-discover-weekly-playlist-after-ten-years/</link>
 		
 		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
 		<pubDate>Mon, 30 Jun 2025 10:00:00 +0000</pubDate>
 				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Spotify]]></category>
 		<category><![CDATA[discover weekly]]></category>
+		<category><![CDATA[Spotify]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3022917</guid>
 
 					<description><![CDATA[Spotify is making Discover Weekly more customizable by genre.]]></description>
