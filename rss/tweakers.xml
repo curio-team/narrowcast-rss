@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 30 Jun 2025 10:36:05 +0200</pubDate>
-        <lastBuildDate>Mon, 30 Jun 2025 10:36:05 +0200</lastBuildDate>
+        <pubDate>Mon, 30 Jun 2025 11:31:01 +0200</pubDate>
+        <lastBuildDate>Mon, 30 Jun 2025 11:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Honda gaat minder waterstofcellen maken in nieuwe fabriek door veranderde markt</title>
+            <link>https://tweakers.net/nieuws/236744/honda-gaat-minder-waterstofcellen-maken-in-nieuwe-fabriek-door-veranderde-markt.html</link>
+            <description>Honda past zijn plannen aan voor een waterstofcellenfabriek in het Japanse Mōka. De fabriek zou tussen 1 april 2027 en 31 maart 2028 starten met volledige productie, maar die deadline wordt niet gehaald. De fabrikant geeft niet aan wanneer de fabriek wél volledig klaar voor gebruik moet zijn.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/236744/honda-gaat-minder-waterstofcellen-maken-in-nieuwe-fabriek-door-veranderde-markt.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236744</guid>
+            <pubDate>Mon, 30 Jun 2025 11:09:13 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Intel Nova Lake-cpu&#039;s krijgen tot 60 procent betere multithreaded prestaties&#039;</title>
+            <link>https://tweakers.net/nieuws/236742/intel-nova-lake-cpus-krijgen-tot-60-procent-betere-multithreaded-prestaties.html</link>
+            <description>Er is een vermeende interne slide over Intels Nova Lake-cpu&#039;s uitgelekt, waarin de fabrikant enkele prestatieclaims over de processors deelt. Bij multithreaded rekenwerk zouden de cpu&#039;s tot zestig procent beter presteren dan de huidige cpu&#039;s van Intel. Nova Lake moet volgend jaar verschijnen.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/236742/intel-nova-lake-cpus-krijgen-tot-60-procent-betere-multithreaded-prestaties.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236742</guid>
+            <pubDate>Mon, 30 Jun 2025 10:36:33 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Davinci Resolve 20.0.1</title>
             <link>https://tweakers.net/downloads/73152/davinci-resolve-2001.html</link>
@@ -280,7 +300,7 @@
         <item>
             <title>Firmware-update - OpenWrt 24.10.2</title>
             <link>https://tweakers.net/downloads/73130/openwrt-24102.html</link>
-            <description>Versie 24.10.2 van OpenWrt is uitgekomen. OpenWrt is alternatieve opensourcefirmware voor een groot aantal verschillende routers en embedded devices. Door middel van het opkg-packagemanagementsysteem is er de mogelijkheid om zelf te bepalen wat de router allemaal wel en niet kan. Ook op GoT zijn er diverse mensen actief mee bezig: zie daarvoor dit topic. Bijwerken van de versie kan met een Attended Sysupgrade, handmatig met een pre-compiled firmware versie van het apparaat dat je gebruikt, of compileer je eigen variant met de firmware selectie. De changelog voor deze uitgave kan hieronder worden gevonden. Device support</description>
+            <description>Versie 24.10.2 van OpenWrt is uitgekomen. OpenWrt is alternatieve opensourcefirmware voor een groot aantal verschillende routers en embedded devices. Door middel van het opkg-packagemanagementsysteem is er de mogelijkheid om zelf te bepalen wat de router allemaal wel en niet kan. Ook op GoT zijn er diverse mensen actief mee bezig: zie daarvoor dit topic. Bijwerken van de versie kan met een Attended Sysupgrade, handmatig met een voorgecompileerde firmware versie van het apparaat dat je gebruikt, of compileer je eigen variant met de firmware selectie. De changelog voor deze uitgave kan hieronder worden gevonden. Device support</description>
             <author>Bart van Klaveren</author>
             <category>Firmware</category>
             <comments>https://tweakers.net/downloads/73130/openwrt-24102.html#reacties</comments>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/236692/w3c-geeft-officiele-specificaties-voor-png-3-met-exif-en-hdr-ondersteuning-vrij.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236692</guid>
             <pubDate>Fri, 27 Jun 2025 14:36:25 +0200</pubDate>
-        </item>
-        <item>
-            <title>Vrachtdocumenten wijzen op onaangekondigde AMD Gorgon Point-laptopprocessors</title>
-            <link>https://tweakers.net/nieuws/236696/vrachtdocumenten-wijzen-op-onaangekondigde-amd-gorgon-point-laptopprocessors.html</link>
-            <description>Verschillende onaangekondigde AMD Ryzen-laptopprocessors zijn verschenen in vrachtdocumenten. Het lijkt om Gorgon Point te gaan, de vermeende refresh van het Zen 5-gebaseerde Strix Point. AMD brengt deze productlijn volgens geruchten uit in 2026.</description>
-            <author>Idriz Velghe</author>
-            <category>Nieuws / Computers / Processors</category>
-            <comments>https://tweakers.net/nieuws/236696/vrachtdocumenten-wijzen-op-onaangekondigde-amd-gorgon-point-laptopprocessors.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236696</guid>
-            <pubDate>Fri, 27 Jun 2025 14:03:51 +0200</pubDate>
-        </item>
-        <item>
-            <title>DPG mag RTL overnemen, online nieuws moet wel gratis blijven</title>
-            <link>https://tweakers.net/nieuws/236694/dpg-mag-rtl-overnemen-online-nieuws-moet-wel-gratis-blijven.html</link>
-            <description>Uitgever DPG Media mag RTL Nederland overnemen. De ACM heeft daar na anderhalf jaar onderzoek toestemming voor gegeven. DPG moet wel online nieuws van RTL en NU.nl gratis beschikbaar blijven maken. Ook mogen die websites geen content of data uitwisselen met elkaar.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Economie en maatschappij</category>
-            <comments>https://tweakers.net/nieuws/236694/dpg-mag-rtl-overnemen-online-nieuws-moet-wel-gratis-blijven.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236694</guid>
-            <pubDate>Fri, 27 Jun 2025 11:55:45 +0200</pubDate>
         </item>
     </channel>
 </rss>
