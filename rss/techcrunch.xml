@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 01 Jul 2025 12:38:35 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 01 Jul 2025 13:40:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,43 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>US Senate removes controversial &#8216;AI moratorium&#8217; from budget bill</title>
+		<link>https://techcrunch.com/2025/07/01/us-senate-removes-controversial-ai-moratorium-from-budget-bill/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Tue, 01 Jul 2025 13:07:48 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[AI moratorium]]></category>
+		<category><![CDATA[big beautiful bill]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3023738</guid>
+
+					<description><![CDATA[After going back and forth over the provision, Sen. Marsha Blackburn offered an amendment to strip the provision alongside Sen. Maria Cantwell. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Genesis AI launches with $105M seed funding from Eclipse, Khosla to build AI models for robots</title>
+		<link>https://techcrunch.com/2025/07/01/genesis-ai-launches-with-105m-seed-funding-from-eclipse-khosla-to-build-ai-models-for-robots/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Tue, 01 Jul 2025 12:56:52 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[eclipse vc]]></category>
+		<category><![CDATA[foundational models]]></category>
+		<category><![CDATA[Khosla Ventures]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3023719</guid>
+
+					<description><![CDATA[Genesis AI, which aims to build a foundational model for powering all kinds of robots, has emerged from stealth with $105M in seed funding.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>xAI raises $10B in debt and equity</title>
 		<link>https://techcrunch.com/2025/07/01/xai-raises-10b-in-debt-and-equity/</link>
 		
@@ -85,12 +122,12 @@
 		<pubDate>Tue, 01 Jul 2025 00:45:29 +0000</pubDate>
 				<category><![CDATA[Apps]]></category>
 		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Sri Mandir]]></category>
 		<category><![CDATA[AppsForBharat]]></category>
+		<category><![CDATA[Sri Mandir]]></category>
 		<category><![CDATA[Susquehanna Asia Venture Capital]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3023575</guid>
 
-					<description><![CDATA[AppsForBharat, the Indian startup behind the Hindu devotional app Sri Mandir, has raised $20 million in a new round — just over nine months after securing $18 million — as the app continues to attract not only devotees but also strong investor interest. Susquehanna Asia Venture Capital led the Series C round with participation from [&#8230;]]]></description>
+					<description><![CDATA[Founded in November 2020, AppsForBharat introduced Sri Mandir shortly after to serve Hindu devotees with online prayers and the ability to make offerings virtually to Indian temples.]]></description>
 		
 		
 		
@@ -106,6 +143,7 @@
 		<category><![CDATA[Clio]]></category>
 		<category><![CDATA[Harvey]]></category>
 		<category><![CDATA[legal software]]></category>
+		<category><![CDATA[Mergers and Acquisitions]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3023649</guid>
 
 					<description><![CDATA[Clio, last valued at $3B, makes a bet on AI-powered legal data provider]]></description>
@@ -352,41 +390,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3023442</guid>
 
 					<description><![CDATA[Meta CEO Mark Zuckerberg is restructuring the company’s AI efforts to center around building  AI “superintelligence.” ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Privacy-focused app maker Proton sues Apple over alleged anticompetitive practices and fees</title>
-		<link>https://techcrunch.com/2025/06/30/privacy-focused-app-maker-proton-sues-apple-over-alleged-anticompetitive-practices-and-fees/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Mon, 30 Jun 2025 17:51:29 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Proton]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3023363</guid>
-
-					<description><![CDATA[The suit is looking for changes to the App Store and monetary damages, which Proton says will be donated to organizations fighting for democracy and human rights.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Congress might block state AI laws for five years — here’s what it means</title>
-		<link>https://techcrunch.com/2025/06/30/congress-might-block-state-ai-laws-for-five-years-heres-what-it-means/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan, Maxwell Zeff]]></dc:creator>
-		<pubDate>Mon, 30 Jun 2025 17:02:12 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[AI moratorium]]></category>
-		<category><![CDATA[AI regulation]]></category>
-		<category><![CDATA[big beautiful bill]]></category>
-		<category><![CDATA[Ted Cruz]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3022893</guid>
-
-					<description><![CDATA[A federal proposal that would ban states and local governments from regulating AI for 10 years could soon be signed into law, as Sen. Ted Cruz (R-TX) and other lawmakers work to secure its inclusion into a GOP megabill ahead of a key July 4 deadline. Here's what's at stake.]]></description>
 		
 		
 		
