@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 01 Jul 2025 01:43:43 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 01 Jul 2025 10:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,21 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Cloudflare launches a marketplace that lets websites charge AI bots for scraping</title>
+		<link>https://techcrunch.com/2025/07/01/cloudflare-launches-a-marketplace-that-lets-websites-charge-ai-bots-for-scraping/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Tue, 01 Jul 2025 10:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[cloudflare]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3023625</guid>
+
+					<description><![CDATA[Cloudflare, a cloud infrastructure provider that serves 20% of the web, announced Tuesday the launch of a new marketplace that reimagines the relationship between website owners and AI companies — ideally giving publishers greater control over their content. For the last year, Cloudflare has launched tools for publishers to address the rampant rise of AI [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>ChatGPT: Everything you need to know about the AI-powered chatbot</title>
 		<link>https://techcrunch.com/2025/06/30/chatgpt-everything-to-know-about-the-ai-chatbot/</link>
 		
@@ -374,26 +389,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2607662</guid>
 
 					<description><![CDATA[A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google embraces AI in the classroom with new Gemini tools for educators, chatbots for students, and more</title>
-		<link>https://techcrunch.com/2025/06/30/google-embraces-ai-in-the-classroom-with-new-gemini-tools-for-educators-chatbots-for-students-and-more/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Mon, 30 Jun 2025 16:44:28 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[EdTech]]></category>
-		<category><![CDATA[gemini]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[students]]></category>
-		<category><![CDATA[teachers]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3023318</guid>
-
-					<description><![CDATA[Google will give teachers the ability to create interactive study guides using the AI research tool Notebook LM, along with their classroom materials.]]></description>
 		
 		
 		

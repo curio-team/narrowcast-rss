@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 01 Jul 2025 11:31:02 +0200</pubDate>
-        <lastBuildDate>Tue, 01 Jul 2025 11:31:02 +0200</lastBuildDate>
+        <pubDate>Tue, 01 Jul 2025 12:36:01 +0200</pubDate>
+        <lastBuildDate>Tue, 01 Jul 2025 12:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Zettlr 3.5.1</title>
+            <link>https://tweakers.net/downloads/73164/zettlr-351.html</link>
+            <description>Versie 3.5.1 van Zettlr is uitgekomen. Zettlr is een op zettelkasten gebaseerde opensource en crossplatform markdown editor, waarmee artikelen, e-boeken en content kunnen worden gecreëerd. Ook kan het orde scheppen in de chaos van notities en artikelen, bronvermelding genereren en interactieve vragenlijsten maken. Het is daarmee geschikt voor onder meer ontwikkelaars, onderzoekers, journalisten en bloggers. De changelog voor deze uitgave ziet er als volgt uit: Release v3.5.1</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73164/zettlr-351.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73164</guid>
+            <pubDate>Tue, 01 Jul 2025 11:41:50 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nvidia lijkt driverondersteuning voor GTX 700-, 900- en 1000-gpu&#039;s te stoppen</title>
+            <link>https://tweakers.net/nieuws/236782/nvidia-lijkt-driverondersteuning-voor-gtx-700-900-en-1000-gpus-te-stoppen.html</link>
+            <description>Nvidia stopt mogelijk binnenkort met het uitbrengen van drivers voor gpu&#039;s gebaseerd op de Maxwell-, Pascal- en Volta-architecturen. Daarmee komen er geen driverupdates meer uit voor videokaarten in de GeForce GTX 700-, 900- en 1000-series, en de Titan V.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/236782/nvidia-lijkt-driverondersteuning-voor-gtx-700-900-en-1000-gpus-te-stoppen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236782</guid>
+            <pubDate>Tue, 01 Jul 2025 11:36:12 +0200</pubDate>
+        </item>
         <item>
             <title>Steam breidt fps-overlay uit met gegenereerde DLSS- en FSR-frames</title>
             <link>https://tweakers.net/nieuws/236778/steam-breidt-fps-overlay-uit-met-gegenereerde-dlss-en-fsr-frames.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/geek/236662/terug-in-de-tijd-45-amazon-failliet-limewire-lynch-en-intel-overstap.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/geek/236662</guid>
             <pubDate>Sun, 29 Jun 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - StartAllBack 3.9.12</title>
-            <link>https://tweakers.net/downloads/73142/startallback-3912.html</link>
-            <description>Versie 3.9.12 van StartAllBack is uitgekomen. Met dit programma kunnen de startknop, taakbalk, Verkenner en contextmenu&#039;s in Windows 11 geheel naar eigen wens worden aangepast. Zoals de naam al doet vermoeden, is het van dezelfde maker als StartIsBack++. Een licentie voor het programma kost vijf, negen of twaalf dollar en mag daarvoor op een, twee of drie computers worden gebruikt. Sinds versie 3.9.10 zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 3.9.12:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73142/startallback-3912.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73142</guid>
-            <pubDate>Sat, 28 Jun 2025 20:09:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Firefly III 6.2.19</title>
-            <link>https://tweakers.net/downloads/73140/firefly-iii-6219.html</link>
-            <description>Firefly III is een in PHP geschreven webapplicatie waarmee een overzicht van je financiën kan worden bijgehouden. Het kan de data importeren vanuit csv-bestanden, de bunq-api of de Spectre-api. Voor meer informatie over dit programma verwijzen we naar deze pagina. De ontwikkelaar loopt ook op Tweakers rond en bespreekt zijn applicatie in het grote &#039;Firefly III&#039;-topic. Versie 6.2.19 is uitgekomen en hierin zijn de volgende veranderingen en verbeteringen aangebracht: Changed</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73140/firefly-iii-6219.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73140</guid>
-            <pubDate>Sat, 28 Jun 2025 18:03:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
