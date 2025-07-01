@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 30 Jun 2025 16:31:01 +0200</pubDate>
-        <lastBuildDate>Mon, 30 Jun 2025 16:31:01 +0200</lastBuildDate>
+        <pubDate>Tue, 01 Jul 2025 09:31:01 +0200</pubDate>
+        <lastBuildDate>Tue, 01 Jul 2025 09:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,106 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Anker roept wereldwijd meerdere powerbanks terug vanwege brandgevaar</title>
+            <link>https://tweakers.net/nieuws/236776/anker-roept-wereldwijd-meerdere-powerbanks-terug-vanwege-brandgevaar.html</link>
+            <description>Anker is een terugroepactie gestart voor vijf powerbankmodellen. Het bedrijf spreekt van een voorzorgsmaatregel en zegt dat het probleem ligt bij de lithiumionaccucellen van één leverancier. De getroffen powerbanks kunnen in brand vliegen.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Tablets en telefoons / Powerbanks</category>
+            <comments>https://tweakers.net/nieuws/236776/anker-roept-wereldwijd-meerdere-powerbanks-terug-vanwege-brandgevaar.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236776</guid>
+            <pubDate>Tue, 01 Jul 2025 09:04:38 +0200</pubDate>
+        </item>
+        <item>
+            <title>Driver-update - AMD Radeon Software Adrenalin Edition 25.6.3 Optional Update</title>
+            <link>https://tweakers.net/downloads/73162/amd-radeon-software-adrenalin-edition-2563-optional.html</link>
+            <description>AMD heeft een nieuwe versie van zijn Radeon Software Adrenalin Edition-drivers uitgebracht. De drivers zijn geschikt voor de RX 5000-, RX 6000, RX 7000 en RX9000-serie. Versie 25.6.3 is een optionele update en is dan ook niet van whql-certificering voorzien. In deze uitgave heeft AMD onder meer de lijst met spellen die van FSR 4 gebruik kunnen maken met drie titels uitgebreid en zijn er diverse problemen verholpen. De complete changelog voor deze uitgave kan hieronder worden gevonden. New Game Support for AMD FidelityFX Super Resolution 4 (FSR 4)</description>
+            <author>Bart van Klaveren</author>
+            <category>Driver</category>
+            <comments>https://tweakers.net/downloads/73162/amd-radeon-software-adrenalin-edition-2563-optional.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73162</guid>
+            <pubDate>Tue, 01 Jul 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Quicktest - Crucial T710 - Gen5-ssd met next-gen nandgeheugen</title>
+            <link>https://tweakers.net/reviews/13426/crucial-t710-gen5-ssd-met-next-gen-nandgeheugen.html</link>
+            <description>Crucials T710 is geen specbump van de T700-serie, maar een echt nieuwe ssd met een compleet andere controller en een nieuwe generatie nand.</description>
+            <author>Willem de Moor</author>
+            <category>Quicktest / Computers / SSD&#039;s</category>
+            <comments>https://tweakers.net/reviews/13426/crucial-t710-gen5-ssd-met-next-gen-nandgeheugen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13426</guid>
+            <pubDate>Tue, 01 Jul 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - MAME 0.278</title>
+            <link>https://tweakers.net/downloads/73160/mame-0278.html</link>
+            <description>Versie 0.278 van MAME is uitgekomen. MAME staat voor Multiple Arcade Machine Emulator en is een programma waarmee het mogelijk is om een groot aantal klassieke arcadespellen te spelen. Ook emuleert het een groot aantal oude computers, zoals de Commodore 64, Atari 2600, Gameboy en ZX Spectrum via de inmiddels geïntegreerde MESS, wat staat voor Multi Emulator Super System. De uitgebreide lijst met veranderingen die in deze uitgave zijn aangebracht staat hier; de releasenotes kunnen hieronder worden gevonden. MAME 0.278:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73160/mame-0278.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73160</guid>
+            <pubDate>Tue, 01 Jul 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - MSI Claw 8 AI+-gaminghandheld - De hardware is top, nu de software nog</title>
+            <link>https://tweakers.net/reviews/13406/msi-claw-8-ai+-gaminghandheld-de-hardware-is-top-nu-de-software-nog.html</link>
+            <description>De MSI Claw 8 AI+ is uitgerust met een nieuwe Intel Lunar Lake-processor, meer ram en een groter scherm. Toch komt de gaminghandheld niet zonder nadelen.</description>
+            <author>Tomas Hochstenbach</author>
+            <category>Review / Gaming / Consoles</category>
+            <comments>https://tweakers.net/reviews/13406/msi-claw-8-ai+-gaminghandheld-de-hardware-is-top-nu-de-software-nog.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13406</guid>
+            <pubDate>Tue, 01 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Toezichthouders: mobiele games zijn vaak manipulatief</title>
+            <link>https://tweakers.net/nieuws/236774/toezichthouders-mobiele-games-zijn-vaak-manipulatief.html</link>
+            <description>Tientallen toezichthouders van consumentenrechten concluderen in een gezamenlijk onderzoek dat mobiele en online games &#039;frequent&#039; gebruikmaken van manipulatief gameontwerp. De organisaties roepen de game-industrie en wetgevers op om hier iets tegen te doen.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/236774/toezichthouders-mobiele-games-zijn-vaak-manipulatief.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236774</guid>
+            <pubDate>Mon, 30 Jun 2025 20:47:42 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Notepad++ 8.8.2</title>
+            <link>https://tweakers.net/downloads/73156/notepad++-882.html</link>
+            <description>Versie 8.8.2 van Notepad++ is uitgekomen. Deze uitgebreide teksteditor heeft diverse mogelijkheden die vooral voor programmeurs handig zijn, zoals syntaxhighlighting voor onder andere C, C++, Java, HTML, XML en PHP. Ook biedt het programma de mogelijkheid om meer dan één document tegelijk te bewerken of één document op twee verschillende plaatsen te onderhouden. Wie de nieuwste versie wil gebruiken, moet deze zelf downloaden. De ingebouwde updater van Notepad++ biedt updates namelijk pas een week na hun verschijnen aan om eventuele ernstige bugs nog te kunnen oplossen. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Notepad++ v8.8.2 new featurs, regression-fixes &amp; bug-fixes:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73156/notepad++-882.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73156</guid>
+            <pubDate>Mon, 30 Jun 2025 20:31:12 +0200</pubDate>
+        </item>
+        <item>
+            <title>Internationaal Strafhof was tijdens NAVO-top doelwit &#039;geavanceerde cyberaanval&#039;</title>
+            <link>https://tweakers.net/nieuws/236772/internationaal-strafhof-was-tijdens-navo-top-doelwit-geavanceerde-cyberaanval.html</link>
+            <description>Het Internationaal Strafhof in Den Haag was naar eigen zeggen tijdens de NAVO-top op 24 en 25 juni doelwit van een &#039;geavanceerde en gerichte&#039; cyberaanval. Het gevaar zou inmiddels geweken zijn. Het is niet duidelijk om wat voor type aanval het precies gaat en wie er achter de aanval zat.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/236772/internationaal-strafhof-was-tijdens-navo-top-doelwit-geavanceerde-cyberaanval.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236772</guid>
+            <pubDate>Mon, 30 Jun 2025 19:44:16 +0200</pubDate>
+        </item>
+        <item>
+            <title>Apple Music geeft gebruikers lijst meest geluisterde nummers ooit in Replay</title>
+            <link>https://tweakers.net/nieuws/236770/apple-music-geeft-gebruikers-lijst-meest-geluisterde-nummers-ooit-in-replay.html</link>
+            <description>Apple Music introduceert Replay All Time. Deze lijst is een combinatie van alle meest geluisterde nummers van een gebruiker. De optie is voor abonnees van Apple Music via het Home-scherm te selecteren.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/236770/apple-music-geeft-gebruikers-lijst-meest-geluisterde-nummers-ooit-in-replay.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236770</guid>
+            <pubDate>Mon, 30 Jun 2025 18:41:25 +0200</pubDate>
+        </item>
+        <item>
+            <title>Spotify laat gebruikers muziekgenre voor Discover Weekly kiezen</title>
+            <link>https://tweakers.net/nieuws/236766/spotify-laat-gebruikers-muziekgenre-voor-discover-weekly-kiezen.html</link>
+            <description>Spotify maakt het mogelijk om een muziekgenre te kiezen voor Discover Weekly-afspeellijsten. Gebruikers krijgen vijf genres om uit te kiezen, waarbij elk geselecteerd genre een gepersonaliseerde afspeellijst van dertig nummers oplevert.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/236766/spotify-laat-gebruikers-muziekgenre-voor-discover-weekly-kiezen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236766</guid>
+            <pubDate>Mon, 30 Jun 2025 18:02:55 +0200</pubDate>
+        </item>
         <item>
             <title>Android gaat gebruikers waarschuwen bij verbinding met onversleuteld netwerk</title>
             <link>https://tweakers.net/nieuws/236762/android-gaat-gebruikers-waarschuwen-bij-verbinding-met-onversleuteld-netwerk.html</link>
@@ -316,106 +416,6 @@
             <comments>https://tweakers.net/downloads/73138/mozilla-firefox-14002.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73138</guid>
             <pubDate>Sat, 28 Jun 2025 16:16:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - OpenAudible 4.6.1</title>
-            <link>https://tweakers.net/downloads/73136/openaudible-461.html</link>
-            <description>Versies 4.6.0 en 4.6.1 van OpenAudible zijn uitgekomen. Met dit programma kunnen audioboeken worden beheerd. Het is beschikbaar voor Windows, Linux en macOS, kan audioboeken direct downloaden van audible.com en kan bestanden opslaan en converteren naar m4b- en mp3-formaat. Het programma is daarmee in zekere zin vergelijkbaar met Calibre, dat hetzelfde doet, maar dan voor e-boeken. In tegenstelling tot Calibre is het echter niet opensource. Het programma kan dertig dagen worden getest, maar voor de toegang tot alle functionaliteit is een eenmalige aanschaf van een licentie noodzakelijk. De changelog voor deze uitgave kan hieronder worden gevonden. Changes in OpenAudible version 4.6.1</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73136/openaudible-461.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73136</guid>
-            <pubDate>Sat, 28 Jun 2025 14:03:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Tesla zegt voor het eerst Model Y autonoom te hebben afgeleverd bij klant</title>
-            <link>https://tweakers.net/nieuws/236720/tesla-zegt-voor-het-eerst-model-y-autonoom-te-hebben-afgeleverd-bij-klant.html</link>
-            <description>Tesla heeft naar eigen zeggen voor het eerst een volledig autonome voertuigaflevering gedaan. Een Tesla Model Y zou gedurende dertig minuten volledig zelfstandig van de Gigafactory Texas naar een klant gereden zijn.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Wetenschap</category>
-            <comments>https://tweakers.net/nieuws/236720/tesla-zegt-voor-het-eerst-model-y-autonoom-te-hebben-afgeleverd-bij-klant.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236720</guid>
-            <pubDate>Sat, 28 Jun 2025 12:39:51 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Media Player Classic - Home Cinema 2.5.0</title>
-            <link>https://tweakers.net/downloads/73134/media-player-classic-home-cinema-250.html</link>
-            <description>In juli 2017 is versie 1.7.13 van Media Player Classic - Home Cinema uitgekomen en gaven de ontwikkelaars aan dat zij verder geen nieuwe versies meer uit zouden brengen. De broncode is echter opensource en een ontwikkelaar die onder de naam clsid bij de website Doom9 bekendstaat en zelf lange tijd bij MPC-HC betrokken was, brengt nu af en toe nieuwe, &#039;onofficiële&#039; versies uit. Deze bevatten voornamelijk kleine verbeteringen en ook worden altijd de laatste versies van de LAV Filters en MediaInfo meegeleverd. Versie 2.5.0 is uitgekomen en hierin zijn de volgende veranderingen en verbeteringen aangebracht: Updates:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73134/media-player-classic-home-cinema-250.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73134</guid>
-            <pubDate>Sat, 28 Jun 2025 12:17:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>VRT: Belgische sites ELLE en Forbes tonen teksten door &#039;AI-nepjournalisten&#039;</title>
-            <link>https://tweakers.net/nieuws/236718/vrt-belgische-sites-elle-en-forbes-tonen-teksten-door-ai-nepjournalisten.html</link>
-            <description>Op verschillende Belgische platforms van het bedrijf Ventures Media worden teksten getoond die door niet-bestaande personen &#039;geschreven&#039; zijn. Het gaat om sites zoals ELLE, Marie Claire, Forbes en Psychologies. Inmiddels tonen de websites een AI-disclaimer bij deze artikelen.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Wetenschap</category>
-            <comments>https://tweakers.net/nieuws/236718/vrt-belgische-sites-elle-en-forbes-tonen-teksten-door-ai-nepjournalisten.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236718</guid>
-            <pubDate>Sat, 28 Jun 2025 11:54:39 +0200</pubDate>
-        </item>
-        <item>
-            <title>Cyberaanval Amerikaanse tak Ahold trof 2,2 miljoen mensen</title>
-            <link>https://tweakers.net/nieuws/236716/cyberaanval-amerikaanse-tak-ahold-trof-2-komma-2-miljoen-mensen.html</link>
-            <description>Bij de recente cyberaanval op de Amerikaanse tak van Ahold Delhaize waren mogelijk de persoonsgegevens van 2,2 miljoen mensen betrokken. Het is niet duidelijk welke gegevens er daadwerkelijk gestolen zijn. Er zijn ook Nederlandse slachtoffers van de cyberaanval.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/236716/cyberaanval-amerikaanse-tak-ahold-trof-2-komma-2-miljoen-mensen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236716</guid>
-            <pubDate>Sat, 28 Jun 2025 10:43:45 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - OBS Studio 31.0.4</title>
-            <link>https://tweakers.net/downloads/73132/obs-studio-3104.html</link>
-            <description>Versie 31.0.4 van OBS Studio is uitgekomen. Open Broadcaster Software Studio is opensource- en crossplatformsoftware bedoeld voor het opnemen en streamen van videobeelden van een of meer bronnen, zoals een webcam, microfoon, mediabestanden en de desktop. De software is beschikbaar voor Windows, Linux en macOS. Versie 31.0.4 is een zogenaamde bugfixrelease waarin de volgende veranderingen en verbeteringen zijn aangebracht: 31.0.4 Hotfix Changes</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73132/obs-studio-3104.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73132</guid>
-            <pubDate>Sat, 28 Jun 2025 10:37:26 +0200</pubDate>
-        </item>
-        <item>
-            <title>Rechter: Broadcom moet VMware voorlopig ondersteunen voor Rijkswaterstaat</title>
-            <link>https://tweakers.net/nieuws/236714/rechter-broadcom-moet-vmware-voorlopig-ondersteunen-voor-rijkswaterstaat.html</link>
-            <description>De Nederlandse Rijkswaterstaat krijgt in een kort geding tegen Broadcom gelijk over de voorlopige ondersteuning van VMware. Het overheidsorgaan wil dat het techbedrijf ondersteuning blijft bieden terwijl het naar nieuwe software overstapt en de rechtbank erkent dat voorlopig.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/236714/rechter-broadcom-moet-vmware-voorlopig-ondersteunen-voor-rijkswaterstaat.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236714</guid>
-            <pubDate>Sat, 28 Jun 2025 10:13:14 +0200</pubDate>
-        </item>
-        <item>
-            <title>Firmware-update - OpenWrt 24.10.2</title>
-            <link>https://tweakers.net/downloads/73130/openwrt-24102.html</link>
-            <description>Versie 24.10.2 van OpenWrt is uitgekomen. OpenWrt is alternatieve opensourcefirmware voor een groot aantal verschillende routers en embedded devices. Door middel van het opkg-packagemanagementsysteem is er de mogelijkheid om zelf te bepalen wat de router allemaal wel en niet kan. Ook op GoT zijn er diverse mensen actief mee bezig: zie daarvoor dit topic. Bijwerken van de versie kan met een Attended Sysupgrade, handmatig met een voorgecompileerde firmware versie van het apparaat dat je gebruikt, of compileer je eigen variant met de firmware selectie. De changelog voor deze uitgave kan hieronder worden gevonden. Device support</description>
-            <author>Bart van Klaveren</author>
-            <category>Firmware</category>
-            <comments>https://tweakers.net/downloads/73130/openwrt-24102.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73130</guid>
-            <pubDate>Sat, 28 Jun 2025 08:40:28 +0200</pubDate>
-        </item>
-        <item>
-            <title>Preview - Apple iOS 26 - Liquid Glass voor een AR-toekomst</title>
-            <link>https://tweakers.net/reviews/13404/apple-ios-26-liquid-glass-voor-een-ar-toekomst.html</link>
-            <description>Apple is bezig met het klaarmaken van iOS 26 voor de release later dit jaar. Hoe gaan iPhones eruitzien?</description>
-            <author>Arnoud Wokke</author>
-            <category>Preview / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/reviews/13404/apple-ios-26-liquid-glass-voor-een-ar-toekomst.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13404</guid>
-            <pubDate>Sat, 28 Jun 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Best Buy Guide - Beste compacte e-reader - E-reader Best Buy Guide</title>
-            <link>https://tweakers.net/best-buy-guide/e-readers/beste-compacte-e-reader</link>
-            <description>In deze Best Buy Guide zochten we naar de beste compacte e-reader met 6&quot;-scherm.</description>
-            <author>Jelle Stuip</author>
-            <category>Best Buy Guide / Tablets en telefoons / E-readers</category>
-            <comments>https://tweakers.net/best-buy-guide/e-readers/beste-compacte-e-reader#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/best-buy-guide/e-readers/beste-compacte-e-reader</guid>
-            <pubDate>Sat, 28 Jun 2025 06:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
