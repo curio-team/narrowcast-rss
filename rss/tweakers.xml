@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 01 Jul 2025 13:31:06 +0200</pubDate>
-        <lastBuildDate>Tue, 01 Jul 2025 13:31:06 +0200</lastBuildDate>
+        <pubDate>Tue, 01 Jul 2025 14:41:01 +0200</pubDate>
+        <lastBuildDate>Tue, 01 Jul 2025 14:41:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>.Geek - Redactieblog #14 - Apps met Gemini, inflatiecorrectiestress en slimme sloten</title>
+            <link>https://tweakers.net/geek/236632/redactieblog-14-apps-met-gemini-inflatiecorrectiestress-en-slimme-sloten.html</link>
+            <description>Een redactieblog zonder wat vibecoden is geen redactieblog, dus bouwde Tijs een functionele app voor zijn side hustle. Daarnaast moest Hayte op zoek naar een nieuw telefoonabonnement, brengt Jurian een ode aan gametrailermuziek en zocht Willem een slim slot.</description>
+            <author>Redactie Tweakers</author>
+            <category>.Geek / Gaming / Games</category>
+            <comments>https://tweakers.net/geek/236632/redactieblog-14-apps-met-gemini-inflatiecorrectiestress-en-slimme-sloten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/236632</guid>
+            <pubDate>Tue, 01 Jul 2025 13:37:00 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - digiKam 8.7.0</title>
             <link>https://tweakers.net/downloads/73158/digikam-870.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/236724/programmeertaal-swift-krijgt-ondersteuning-voor-android.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236724</guid>
             <pubDate>Sun, 29 Jun 2025 09:26:03 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Wine 10.11</title>
-            <link>https://tweakers.net/downloads/73144/wine-1011.html</link>
-            <description>Er is met versienummer 10.11 een nieuwe ontwikkelbuild van Wine verschenen. Wine is een opensource implementatie van de Windows-api en maakt het mogelijk om DOS- en Windows-programma&#039;s op Linux, FreeBSD, Solaris en macOS te draaien. Een grote groep ontwikkelaars draagt bij aan Wine en er is voor gekozen om elke twee weken een nieuwe zogeheten ontwikkelversie uit te brengen in plaats van te wachten tot er een aantal nieuwe functies klaar is. Een paar keer per jaar verschijnt er een stabiele uitgave. Wine houdt een database bij met hoe goed of slecht applicaties onder Wine werken, al dan niet met behulp van enkele aanpassingen. Deze bevat op het moment van schrijven 29.646 titels, wat er 19 minder zijn dan twee weken geleden. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: What&#039;s new in this release:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73144/wine-1011.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73144</guid>
-            <pubDate>Sun, 29 Jun 2025 08:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>

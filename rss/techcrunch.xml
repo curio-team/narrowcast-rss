@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 01 Jul 2025 10:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 01 Jul 2025 12:38:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>xAI raises $10B in debt and equity</title>
+		<link>https://techcrunch.com/2025/07/01/xai-raises-10b-in-debt-and-equity/</link>
+		
+		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
+		<pubDate>Tue, 01 Jul 2025 12:35:54 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[xAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3023713</guid>
+
+					<description><![CDATA[Elon Musk's AI company, xAI, has raised $5 billion in debt and $5 billion in equity, Morgan Stanley said on Monday. ]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Cloudflare launches a marketplace that lets websites charge AI bots for scraping</title>
 		<link>https://techcrunch.com/2025/07/01/cloudflare-launches-a-marketplace-that-lets-websites-charge-ai-bots-for-scraping/</link>
 		
@@ -37,7 +54,7 @@
 		<category><![CDATA[cloudflare]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3023625</guid>
 
-					<description><![CDATA[Cloudflare, a cloud infrastructure provider that serves 20% of the web, announced Tuesday the launch of a new marketplace that reimagines the relationship between website owners and AI companies — ideally giving publishers greater control over their content. For the last year, Cloudflare has launched tools for publishers to address the rampant rise of AI [&#8230;]]]></description>
+					<description><![CDATA[Cloudflare is launching a new marketplace that reimagines the relationship between publishers and AI companies.]]></description>
 		
 		
 		
@@ -370,25 +387,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3022893</guid>
 
 					<description><![CDATA[A federal proposal that would ban states and local governments from regulating AI for 10 years could soon be signed into law, as Sen. Ted Cruz (R-TX) and other lawmakers work to secure its inclusion into a GOP megabill ahead of a key July 4 deadline. Here's what's at stake.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>A comprehensive list of 2025 tech layoffs</title>
-		<link>https://techcrunch.com/2025/06/30/tech-layoffs-2025-list/</link>
-		
-		<dc:creator><![CDATA[Cody Corrall, Alyssa Stringer, Kate Park]]></dc:creator>
-		<pubDate>Mon, 30 Jun 2025 16:45:08 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[Layoffs]]></category>
-		<category><![CDATA[tech layoffs]]></category>
-		<category><![CDATA[TechCrunch 2023 Recap]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2607662</guid>
-
-					<description><![CDATA[A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.]]></description>
 		
 		
 		
