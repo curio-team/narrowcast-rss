@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 01 Jul 2025 12:36:01 +0200</pubDate>
-        <lastBuildDate>Tue, 01 Jul 2025 12:36:01 +0200</lastBuildDate>
+        <pubDate>Tue, 01 Jul 2025 13:31:06 +0200</pubDate>
+        <lastBuildDate>Tue, 01 Jul 2025 13:31:06 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - digiKam 8.7.0</title>
+            <link>https://tweakers.net/downloads/73158/digikam-870.html</link>
+            <description>Versie 8.7.0 van digiKam is uitgekomen. Deze fotobeheer- en beeldbewerkingsapplicatie heeft downloads voor Linux, BSD, macOS en Windows. DigiKam bevat ondersteuning voor uiteenlopende bestandsformaten en kan daarnaast via plug-ins van meer mogelijkheden worden voorzien, zoals het exporteren van een album naar Facebook of Flickr. Meer over de mogelijkheden van dit programma is op deze pagina te vinden. De complete releasenotes voor deze uitgave kunnen hieronder worden gevonden. Face Management Updates and Improvements</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73158/digikam-870.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73158</guid>
+            <pubDate>Tue, 01 Jul 2025 13:13:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Lebara verhoogt tarief van dataplafond naar 1,50 euro</title>
+            <link>https://tweakers.net/nieuws/236788/lebara-verhoogt-tarief-van-dataplafond-naar-1-komma-50-euro.html</link>
+            <description>Lebara verhoogt het tarief van het dataplafond naar 1,50 euro. Nu is dat nog 0,50 euro. Dit dataplafond voorkomt dat gebruikers data kunnen gebruiken als de bundel van een abonnement op is, waardoor klanten buitenbundelkosten moeten betalen.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Tablets en telefoons / Sim-only abonnementen</category>
+            <comments>https://tweakers.net/nieuws/236788/lebara-verhoogt-tarief-van-dataplafond-naar-1-komma-50-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236788</guid>
+            <pubDate>Tue, 01 Jul 2025 12:41:21 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Zettlr 3.5.1</title>
             <link>https://tweakers.net/downloads/73164/zettlr-351.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/downloads/73144/wine-1011.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73144</guid>
             <pubDate>Sun, 29 Jun 2025 08:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Quicktest - Klinkt duurder altijd beter? - In-ears uit verschillende prijsklassen vergeleken</title>
-            <link>https://tweakers.net/reviews/13370/klinkt-duurder-altijd-beter-in-ears-uit-verschillende-prijsklassen-vergeleken.html</link>
-            <description>Wat mag je verwachten als je in-ears voor minder dan 100 euro koopt? En wat krijg je als je 250 euro uitgeeft? We vergeleken vier setjes van 80 tot 250 euro om het antwoord te vinden.</description>
-            <author>Sjef Weller</author>
-            <category>Quicktest / Beeld en geluid / Oordopjes</category>
-            <comments>https://tweakers.net/reviews/13370/klinkt-duurder-altijd-beter-in-ears-uit-verschillende-prijsklassen-vergeleken.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13370</guid>
-            <pubDate>Sun, 29 Jun 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Terug in de tijd #45 - Amazon &#039;failliet&#039;, LimeWire-lynch en Intel-overstap</title>
-            <link>https://tweakers.net/geek/236662/terug-in-de-tijd-45-amazon-failliet-limewire-lynch-en-intel-overstap.html</link>
-            <description>Op Tweakers verschijnen dagelijks tientallen nieuwsberichten, maar bij het schrijven weten we zelden hoe het afloopt met de producten, technieken en ontwikkelingen die we bespreken. In deze rubriek lezen we oude berichten terug en kijken we hoe het verderging.</description>
-            <author>Kevin Krikhaar</author>
-            <category>.Geek / IT Pro / Internet</category>
-            <comments>https://tweakers.net/geek/236662/terug-in-de-tijd-45-amazon-failliet-limewire-lynch-en-intel-overstap.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/236662</guid>
-            <pubDate>Sun, 29 Jun 2025 06:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
