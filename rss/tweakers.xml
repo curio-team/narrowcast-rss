@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 02 Jul 2025 11:31:07 +0200</pubDate>
-        <lastBuildDate>Wed, 02 Jul 2025 11:31:07 +0200</lastBuildDate>
+        <pubDate>Wed, 02 Jul 2025 12:36:01 +0200</pubDate>
+        <lastBuildDate>Wed, 02 Jul 2025 12:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Bulk Crap Uninstaller 5.9</title>
+            <link>https://tweakers.net/downloads/73182/bulk-crap-uninstaller-59.html</link>
+            <description>Klocman Software heeft versie 5.9 van Bulk Crap Uninstaller uitgebracht. Met dit programma, dat onder een opensourcelicentie wordt uitgebracht, kunnen in een keer diverse programma&#039;s en Windows Store-apps van de computer worden verwijderd. Het voert eerst de standaard verwijderprocedure uit en scant vervolgens de computer op overgebleven snelkoppelingen en registersleutels om die ook nog te verwijderen. Na afloop kunnen eventueel ook nog externe programma&#039;s zoals CCleaner worden gestart. Ten slotte bevat het een start-upmanager, waarmee programma&#039;s die met Windows meestarten uitgeschakeld kunnen worden. Deze uitgave bevat een verzameling van voornamelijk kleine veranderingen en verbeteringen. Bulk Crap Uninstaller v5.9</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73182/bulk-crap-uninstaller-59.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73182</guid>
+            <pubDate>Wed, 02 Jul 2025 12:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>X test communitynotes die gemaakt zijn door AI</title>
+            <link>https://tweakers.net/nieuws/236826/x-test-communitynotes-die-gemaakt-zijn-door-ai.html</link>
+            <description>X test vanaf juli communitynotes die zijn gemaakt door AI-chatbots, zo maakt het bedrijf bekend. Op die manier wil het platform de schaalbaarheid van de functie vergroten. X heeft geen specifieke doelen gesteld voor de groei van communitynotes door AI-gegenereerde content.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/236826/x-test-communitynotes-die-gemaakt-zijn-door-ai.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236826</guid>
+            <pubDate>Wed, 02 Jul 2025 11:56:05 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Pale Moon 33.8.0</title>
             <link>https://tweakers.net/downloads/73180/pale-moon-3380.html</link>
@@ -58,12 +78,12 @@
             <pubDate>Wed, 02 Jul 2025 09:00:00 +0200</pubDate>
         </item>
         <item>
-            <title>Meta maakt dm&#039;s op Threads breed beschikbaar</title>
-            <link>https://tweakers.net/nieuws/236818/meta-maakt-dms-op-threads-breed-beschikbaar.html</link>
+            <title>Meta maakt dm&#039;en op Threads breed beschikbaar</title>
+            <link>https://tweakers.net/nieuws/236818/meta-maakt-dmen-op-threads-breed-beschikbaar.html</link>
             <description>Meta heeft de functie om mensen direct messages te sturen via Threads officieel geïntroduceerd. Voorheen zaten de dm&#039;s en de inbox van gebruikers van Threads vast aan Instagram. Nu krijgt Threads ook een eigen inbox. In juni testte Meta de functie al in een aantal landen.</description>
             <author>Imre Himmelbauer</author>
             <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/236818/meta-maakt-dms-op-threads-breed-beschikbaar.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/236818/meta-maakt-dmen-op-threads-breed-beschikbaar.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236818</guid>
             <pubDate>Wed, 02 Jul 2025 08:46:06 +0200</pubDate>
         </item>
@@ -150,7 +170,7 @@
         <item>
             <title>Preview - Nothing Phone (3) en Headphone (1) -  Twee keer een debuut voor Nothing</title>
             <link>https://tweakers.net/reviews/13434/nothing-phone-3-en-headphone-1-twee-keer-een-debuut-voor-nothing.html</link>
-            <description>Het engelse Nothing brengt voor het eerst een &#039;echt&#039; topmodel smartphone uit, samen met een koptelefoon.</description>
+            <description>Het Britse Nothing brengt voor het eerst een &#039;echt&#039; topmodelsmartphone uit, samen met een koptelefoon.</description>
             <author>Dennis de Vries</author>
             <category>Preview / Tablets en telefoons / Smartphones</category>
             <comments>https://tweakers.net/reviews/13434/nothing-phone-3-en-headphone-1-twee-keer-een-debuut-voor-nothing.html#reacties</comments>
@@ -210,7 +230,7 @@
         <item>
             <title>Belgische bank Belfius maakt app in 160 landen kosteloos beschikbaar via e-sim</title>
             <link>https://tweakers.net/nieuws/236800/belgische-bank-belfius-maakt-app-in-160-landen-kosteloos-beschikbaar-via-e-sim.html</link>
-            <description>De Belgische bank Belfius maakt de app in ruim 160 landen en regio&#039;s kosteloos beschikbaar via een e-sim-functie. Hierdoor kunnen klanten de app gebruiken zonder roamingkosten te betalen. Voor de functie werkt de bank samen met de Firsty-e-simdienst.</description>
+            <description>De Belgische bank Belfius maakt de app in ruim 160 landen en regio&#039;s kosteloos beschikbaar via een e-simfunctie. Hierdoor kunnen klanten de app gebruiken zonder roamingkosten te betalen. Voor de functie werkt de bank samen met de Firsty-e-simdienst.</description>
             <author>Hayte Hugo</author>
             <category>Nieuws / IT Pro / E-commerce</category>
             <comments>https://tweakers.net/nieuws/236800/belgische-bank-belfius-maakt-app-in-160-landen-kosteloos-beschikbaar-via-e-sim.html#reacties</comments>
@@ -220,7 +240,7 @@
         <item>
             <title>Software-update - AliasVault 0.20.0</title>
             <link>https://tweakers.net/downloads/73168/aliasvault-0200.html</link>
-            <description>AliasVault is een privacy-first wachtwoord- en e-mailaliasmanager van Nederlandse bodem, waarmee voor iedere website een unieke identiteit en e-mailalias aan kan worden gemaakt. De software is opensource en volledig end-to-end versleuteld. Er kan van een publieke cloud gebruik worden gemaakt en het biedt ook de mogelijkheid om het volledig zelf te hosten via Docker. Clientsoftware is beschikbaar voor Android en iOS en er zijn extensies voor de meest gangbare webbrowsers. Het wordt door Leendert de Borst ontwikkeld, die ook hier op Tweakers actief is. Versies 0.20.0 is verschenen en de releasenotes daarvan zien er als volgt uit: AliasVault 0.20.0 Released</description>
+            <description>AliasVault is een privacy-first wachtwoord- en e-mailaliasmanager van Nederlandse bodem, waarmee voor iedere website een unieke identiteit en e-mailalias aan kan worden gemaakt. De software is opensource en volledig end-to-end versleuteld. Er kan van een publieke cloud gebruik worden gemaakt en het biedt ook de mogelijkheid om het volledig zelf te hosten via Docker. Clientsoftware is beschikbaar voor Android en iOS en er zijn extensies voor de gangbaarste webbrowsers. Het wordt door Leendert de Borst ontwikkeld, die ook hier op Tweakers actief is. Versies 0.20.0 is verschenen en de releasenotes daarvan zien er als volgt uit: AliasVault 0.20.0 Released</description>
             <author>Bart van Klaveren</author>
             <category>Software</category>
             <comments>https://tweakers.net/downloads/73168/aliasvault-0200.html#reacties</comments>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/236772/internationaal-strafhof-was-tijdens-navo-top-doelwit-geavanceerde-cyberaanval.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236772</guid>
             <pubDate>Mon, 30 Jun 2025 19:44:16 +0200</pubDate>
-        </item>
-        <item>
-            <title>Apple Music geeft gebruikers lijst meest geluisterde nummers ooit in Replay</title>
-            <link>https://tweakers.net/nieuws/236770/apple-music-geeft-gebruikers-lijst-meest-geluisterde-nummers-ooit-in-replay.html</link>
-            <description>Apple Music introduceert Replay All Time. Deze lijst is een combinatie van alle meest geluisterde nummers van een gebruiker. De optie is voor abonnees van Apple Music via het Home-scherm te selecteren.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/nieuws/236770/apple-music-geeft-gebruikers-lijst-meest-geluisterde-nummers-ooit-in-replay.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236770</guid>
-            <pubDate>Mon, 30 Jun 2025 18:41:25 +0200</pubDate>
-        </item>
-        <item>
-            <title>Spotify laat gebruikers muziekgenre voor Discover Weekly kiezen</title>
-            <link>https://tweakers.net/nieuws/236766/spotify-laat-gebruikers-muziekgenre-voor-discover-weekly-kiezen.html</link>
-            <description>Spotify maakt het mogelijk om een muziekgenre te kiezen voor Discover Weekly-afspeellijsten. Gebruikers krijgen vijf genres om uit te kiezen, waarbij elk geselecteerd genre een gepersonaliseerde afspeellijst van dertig nummers oplevert.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/nieuws/236766/spotify-laat-gebruikers-muziekgenre-voor-discover-weekly-kiezen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236766</guid>
-            <pubDate>Mon, 30 Jun 2025 18:02:55 +0200</pubDate>
         </item>
     </channel>
 </rss>
