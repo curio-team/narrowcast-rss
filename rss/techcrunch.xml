@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 02 Jul 2025 12:41:32 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 02 Jul 2025 13:32:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,59 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Tesla faces second straight year of falling sales after another bad quarter</title>
+		<link>https://techcrunch.com/2025/07/02/tesla-faces-second-straight-year-of-falling-sales-after-another-bad-quarter/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Wed, 02 Jul 2025 13:14:13 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3024133</guid>
+
+					<description><![CDATA[Tesla sales fell more than 13% compared to last year as the company struggles to find demand for its aging lineup, and as CEO Elon Musk continues to damage the brand. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Rivian receives the next $1B from Volkswagen as sales struggles continue</title>
+		<link>https://techcrunch.com/2025/07/02/rivian-receives-the-next-1b-from-volkswagen-as-sales-struggles-continue/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Wed, 02 Jul 2025 13:00:48 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[Rivian]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3024144</guid>
+
+					<description><![CDATA[Rivian sales ticked back up in Q2 but were down 23% from the same quarter last year. The company has been dealing with affordability issues made worse by Trump's tariffs and trade wars.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Foxconn tells hundreds of Chinese staff to return from its Indian iPhone factories</title>
+		<link>https://techcrunch.com/2025/07/02/foxconn-tells-hundreds-of-chinese-staff-to-return-from-its-indian-iphone-factories/</link>
+		
+		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
+		<pubDate>Wed, 02 Jul 2025 12:55:05 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Foxconn]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3024132</guid>
+
+					<description><![CDATA[Foxconn ordered over 300 Chinese employees to return home from its factories in India, per Bloomberg.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Qantas hack results in theft of 6 million passengers&#8217; personal data</title>
 		<link>https://techcrunch.com/2025/07/02/qantas-hack-results-in-theft-of-6-million-passengers-personal-data/</link>
 		
@@ -349,62 +402,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3020325</guid>
 
 					<description><![CDATA[Cathy Gao of Sapphire Ventures shares her playbook to scale a Series C+ at TechCrunch All Stage on July 15 in Boston. Register now to save more than 60% on your tickets.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Amazon deploys its 1 millionth robot, releases generative AI model</title>
-		<link>https://techcrunch.com/2025/07/01/amazon-deploys-its-1-millionth-robot-releases-generative-ai-model/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Tue, 01 Jul 2025 17:01:36 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[Amazon]]></category>
-		<category><![CDATA[amazon robotics]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3023845</guid>
-
-					<description><![CDATA[As Amazon's fleet of robots has reaches a milestone, the company is also releasing a new AI model to make them more efficient. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nikita Bier joins X as head of product: &#8216;I&#8217;ve officially posted my way to the top&#8217;</title>
-		<link>https://techcrunch.com/2025/07/01/nikita-bier-joins-x-as-head-of-product-ive-officially-posted-my-way-to-the-top/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Tue, 01 Jul 2025 16:13:52 +0000</pubDate>
-				<category><![CDATA[Social]]></category>
-		<category><![CDATA[social media]]></category>
-		<category><![CDATA[Twitter]]></category>
-		<category><![CDATA[X]]></category>
-		<category><![CDATA[Nikita Bier]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3023829</guid>
-
-					<description><![CDATA[At X, Bier could potentially build features that drive adoption beyond the user base that's typically drawn to text-first social networks.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Remark raises $16M to build out human-powered expert models for e-commerce</title>
-		<link>https://techcrunch.com/2025/07/01/remark-raises-16-million-in-to-build-out-human-powered-expert-models-for-e-commerce/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Tue, 01 Jul 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[AI shopping]]></category>
-		<category><![CDATA[eCommerce]]></category>
-		<category><![CDATA[Inspired Capital]]></category>
-		<category><![CDATA[Remark]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3022726</guid>
-
-					<description><![CDATA[Startups working on AI-powered e-commerce tools often rely on external data or user signals to build and improve their models. But Remark lets thousands of human experts chat with users while they are purchasing items, and then using that knowledge to train models.]]></description>
 		
 		
 		

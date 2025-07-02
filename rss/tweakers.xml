@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 02 Jul 2025 14:41:03 +0200</pubDate>
-        <lastBuildDate>Wed, 02 Jul 2025 14:41:03 +0200</lastBuildDate>
+        <pubDate>Wed, 02 Jul 2025 15:36:09 +0200</pubDate>
+        <lastBuildDate>Wed, 02 Jul 2025 15:36:09 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - WizTree 4.26</title>
+            <link>https://tweakers.net/downloads/73186/wiztree-426.html</link>
+            <description>WizTree is een programma dat razendsnel een harde schijf kan analyseren om zo bestanden en mappen te vinden die de meeste ruimte innemen. Het is daarmee een prima hulpmiddel om de harde schijf op te ruimen wanneer er ruimtegebrek is. Het programma kan ook op bepaalde bestandstypes zoeken en het resultaat van een scan exporteren. WizTree mag gratis in privéomgevingen worden gebruikt en kan zijn werk ook doen zonder eerst te worden geïnstalleerd. In versie 4.26 zijn de volgende veranderingen aangebracht: Changes in WizTree version 4.26:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73186/wiztree-426.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73186</guid>
+            <pubDate>Wed, 02 Jul 2025 15:00:00 +0200</pubDate>
+        </item>
         <item>
             <title>Club 3D introduceert USB-C-dock met ondersteuning voor vier 4k60-schermen</title>
             <link>https://tweakers.net/nieuws/236830/club-3d-introduceert-usb-c-dock-met-ondersteuning-voor-vier-4k60-schermen.html</link>
@@ -405,16 +415,6 @@
             <category>Driver</category>
             <comments>https://tweakers.net/downloads/73162/amd-radeon-software-adrenalin-edition-2563-optional.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73162</guid>
-            <pubDate>Tue, 01 Jul 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Quicktest - Crucial T710 - Gen5-ssd met next-gen nandgeheugen</title>
-            <link>https://tweakers.net/reviews/13426/crucial-t710-gen5-ssd-met-next-gen-nandgeheugen.html</link>
-            <description>Crucials T710 is geen specbump van de T700-serie, maar een echt nieuwe ssd met een compleet andere controller en een nieuwe generatie nand.</description>
-            <author>Willem de Moor</author>
-            <category>Quicktest / Computers / SSD&#039;s</category>
-            <comments>https://tweakers.net/reviews/13426/crucial-t710-gen5-ssd-met-next-gen-nandgeheugen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13426</guid>
             <pubDate>Tue, 01 Jul 2025 09:00:00 +0200</pubDate>
         </item>
     </channel>
