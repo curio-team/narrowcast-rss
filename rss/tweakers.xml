@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 02 Jul 2025 12:36:01 +0200</pubDate>
-        <lastBuildDate>Wed, 02 Jul 2025 12:36:01 +0200</lastBuildDate>
+        <pubDate>Wed, 02 Jul 2025 13:31:01 +0200</pubDate>
+        <lastBuildDate>Wed, 02 Jul 2025 13:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - GnuCash 5.12</title>
+            <link>https://tweakers.net/downloads/73184/gnucash-512.html</link>
+            <description>Versie 5.12 van GnuCash is uitgekomen. GnuCash is een crossplatform en opensource boekhoudprogramma voor particulieren en kleine bedrijven. Het maakt gebruik van het dubbelboekhoudsysteem en is in staat om eenvoudig bijvoorbeeld bankrekeningen, beleggingen, inkomsten en uitgaven, budgetten, hypotheken en leningen bij te houden en kan natuurlijk rapportages en grafieken maken. De changelog voor deze uitgave maakt melding van de volgende veranderingen en verbeteringen: Between 5.11 and 5.12, the following bugfixes were accomplished:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73184/gnucash-512.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73184</guid>
+            <pubDate>Wed, 02 Jul 2025 13:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google moet 267 miljoen euro betalen in VS voor datagebruik Android-apparaten</title>
+            <link>https://tweakers.net/nieuws/236828/google-moet-267-miljoen-euro-betalen-in-vs-voor-datagebruik-android-apparaten.html</link>
+            <description>Google moet een schadevergoeding van 314,6 miljoen dollar, omgerekend 267 miljoen euro, betalen aan Android-gebruikers in de staat Californië. Google heeft zich volgens de jury schuldig gemaakt aan het verzenden en ontvangen van informatie van apparaten die niet in gebruik waren.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/236828/google-moet-267-miljoen-euro-betalen-in-vs-voor-datagebruik-android-apparaten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236828</guid>
+            <pubDate>Wed, 02 Jul 2025 13:19:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Intel gaat mogelijk toch geen 1,8nm-chips maken voor andere bedrijven&#039;</title>
+            <link>https://tweakers.net/nieuws/236822/intel-gaat-mogelijk-toch-geen-1-komma-8nm-chips-maken-voor-andere-bedrijven.html</link>
+            <description>Intel-ceo Lip-Bu Tan overweegt zijn 18A-procedé toch alleen voor interne producten te gaan gebruiken, meldt Reuters. Daarmee vervallen plannen om deze &#039;1,8nm&#039;-node breed beschikbaar te stellen aan andere bedrijven. De focus zou nu komen te liggen op de opvolger, Intel 14A.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/236822/intel-gaat-mogelijk-toch-geen-1-komma-8nm-chips-maken-voor-andere-bedrijven.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236822</guid>
+            <pubDate>Wed, 02 Jul 2025 13:10:00 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Bulk Crap Uninstaller 5.9</title>
             <link>https://tweakers.net/downloads/73182/bulk-crap-uninstaller-59.html</link>
@@ -108,7 +138,7 @@
             <pubDate>Wed, 02 Jul 2025 07:30:00 +0200</pubDate>
         </item>
         <item>
-            <title>Videoreview - De beste schilderij-TV? Samsung The Frame Pro 2025 Review</title>
+            <title>Videoreview - De beste schilderij-tv? Samsung The Frame Pro 2025 Review</title>
             <link>https://tweakers.net/video/19982/de-beste-schilderij-tv-samsung-the-frame-pro-2025-review.html</link>
             <description>Je kunt er je smartwatch op gelijkzetten: elk jaar introduceert Samsung een nieuwe versie van zijn The Frame-televisie. Dat model is sinds zijn introductie in 2017 populair, omdat het zich als schilderij vermomt wanneer er geen tv wordt gekeken. In deze video bekijken we de nieuwe Frame Pro en hoor je onze bevindingen.</description>
             <author>Luke van Drie</author>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/reviews/13406/msi-claw-8-ai+-gaminghandheld-de-hardware-is-top-nu-de-software-nog.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13406</guid>
             <pubDate>Tue, 01 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Toezichthouders: mobiele games zijn vaak manipulatief</title>
-            <link>https://tweakers.net/nieuws/236774/toezichthouders-mobiele-games-zijn-vaak-manipulatief.html</link>
-            <description>Tientallen toezichthouders van consumentenrechten concluderen in een gezamenlijk onderzoek dat mobiele en online games &#039;frequent&#039; gebruikmaken van manipulatief gameontwerp. De organisaties roepen de game-industrie en wetgevers op om hier iets tegen te doen.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/236774/toezichthouders-mobiele-games-zijn-vaak-manipulatief.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236774</guid>
-            <pubDate>Mon, 30 Jun 2025 20:47:42 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Notepad++ 8.8.2</title>
-            <link>https://tweakers.net/downloads/73156/notepad++-882.html</link>
-            <description>Versie 8.8.2 van Notepad++ is uitgekomen. Deze uitgebreide teksteditor heeft diverse mogelijkheden die vooral voor programmeurs handig zijn, zoals syntaxhighlighting voor onder andere C, C++, Java, HTML, XML en PHP. Ook biedt het programma de mogelijkheid om meer dan één document tegelijk te bewerken of één document op twee verschillende plaatsen te onderhouden. Wie de nieuwste versie wil gebruiken, moet deze zelf downloaden. De ingebouwde updater van Notepad++ biedt updates namelijk pas een week na hun verschijnen aan om eventuele ernstige bugs nog te kunnen oplossen. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Notepad++ v8.8.2 new featurs, regression-fixes &amp; bug-fixes:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73156/notepad++-882.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73156</guid>
-            <pubDate>Mon, 30 Jun 2025 20:31:12 +0200</pubDate>
-        </item>
-        <item>
-            <title>Internationaal Strafhof was tijdens NAVO-top doelwit &#039;geavanceerde cyberaanval&#039;</title>
-            <link>https://tweakers.net/nieuws/236772/internationaal-strafhof-was-tijdens-navo-top-doelwit-geavanceerde-cyberaanval.html</link>
-            <description>Het Internationaal Strafhof in Den Haag was naar eigen zeggen tijdens de NAVO-top op 24 en 25 juni doelwit van een &#039;geavanceerde en gerichte&#039; cyberaanval. Het gevaar zou inmiddels geweken zijn. Het is niet duidelijk om wat voor type aanval het precies gaat en wie er achter de aanval zat.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/236772/internationaal-strafhof-was-tijdens-navo-top-doelwit-geavanceerde-cyberaanval.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236772</guid>
-            <pubDate>Mon, 30 Jun 2025 19:44:16 +0200</pubDate>
         </item>
     </channel>
 </rss>
