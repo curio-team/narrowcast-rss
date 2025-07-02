@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 02 Jul 2025 11:31:18 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 02 Jul 2025 12:41:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,18 +28,40 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Qantas hack results in theft of 6 million passengers&#8217; personal data</title>
+		<link>https://techcrunch.com/2025/07/02/qantas-hack-results-in-theft-of-6-million-passengers-personal-data/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Wed, 02 Jul 2025 11:48:29 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Airlines]]></category>
+		<category><![CDATA[aviation]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Qantas]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3024117</guid>
+
+					<description><![CDATA[Qantas, the largest airline in Australia, confirmed the theft of 6 million customers' personal information.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Jon McNeill brings the operator’s playbook to TechCrunch All Stage</title>
 		<link>https://techcrunch.com/2025/07/01/jon-mcneill-brings-the-operators-playbook-to-techcrunch-all-stage/</link>
 		
 		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
 		<pubDate>Tue, 01 Jul 2025 23:02:34 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
+				<category><![CDATA[Fundraising]]></category>
 		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
 		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[TechCrunch All Stage 2025]]></category>
 		<category><![CDATA[TC All Stage]]></category>
 		<category><![CDATA[TechCrunch All Stage]]></category>
+		<category><![CDATA[TechCrunch All Stage 2025]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3022337</guid>
 
 					<description><![CDATA[At TechCrunch All Stage 2025, Jon McNeill, CEO and co-founder of DVx Ventures, will take the Scale Stage to flip the script on conventional startup growth advice.]]></description>
@@ -383,25 +405,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3022726</guid>
 
 					<description><![CDATA[Startups working on AI-powered e-commerce tools often rely on external data or user signals to build and improve their models. But Remark lets thousands of human experts chat with users while they are purchasing items, and then using that knowledge to train models.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Threads gets its own DMs as app distances itself from Instagram</title>
-		<link>https://techcrunch.com/2025/07/01/threads-gets-its-own-dms-as-app-distances-itself-from-instagram/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Tue, 01 Jul 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[dms]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[social media]]></category>
-		<category><![CDATA[Threads]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3023598</guid>
-
-					<description><![CDATA[At launch, Threads DMs will support one-on-one chats, preset emoji reactions, the ability to report spam, and mute DMs (as on Instagram). Other features, like group messaging, inbox filters, and more advanced message controls, will arrive in a later release.]]></description>
 		
 		
 		
