@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 03 Jul 2025 09:31:01 +0200</pubDate>
-        <lastBuildDate>Thu, 03 Jul 2025 09:31:01 +0200</lastBuildDate>
+        <pubDate>Thu, 03 Jul 2025 10:36:04 +0200</pubDate>
+        <lastBuildDate>Thu, 03 Jul 2025 10:36:04 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - CudaText 1.225.0</title>
+            <link>https://tweakers.net/downloads/73198/cudatext-12250.html</link>
+            <description>Versie 1.225.0 van CudaText is uitgekomen. Deze opensource en crossplatform teksteditor is beschikbaar voor Windows, Linux, macOS, BSD en Solaris. Het programma heeft uitgebreide mogelijkheden die met name voor softwareontwikkelaars interessant zijn. Het is ontwikkeld in Object Pascal, start snel en door middel van Python-add-ons kan de functionaliteit verder worden uitgebreid. Het programma wordt actief ontwikkeld en regelmatig verschijnen er nieuwe versies. De changelog voor deze uitgave ziet er als volgt uit: Added:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73198/cudatext-12250.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73198</guid>
+            <pubDate>Thu, 03 Jul 2025 10:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google brengt videomaker Veo 3 uit in Nederland en België</title>
+            <link>https://tweakers.net/nieuws/236852/google-brengt-videomaker-veo-3-uit-in-nederland-en-belgie.html</link>
+            <description>Google heeft zijn videomaker Veo 3 in Europese landen uitgebracht, waaronder Nederland en België. Om de tool te kunnen gebruiken is een Google AI Pro-abonnement vereist, dat 22 euro per maand kost.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Fotografie en video</category>
+            <comments>https://tweakers.net/nieuws/236852/google-brengt-videomaker-veo-3-uit-in-nederland-en-belgie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236852</guid>
+            <pubDate>Thu, 03 Jul 2025 09:50:35 +0200</pubDate>
+        </item>
         <item>
             <title>Blizzard brengt geen nieuwe content meer uit voor mobiele game Warcraft Rumble</title>
             <link>https://tweakers.net/nieuws/236846/blizzard-brengt-geen-nieuwe-content-meer-uit-voor-mobiele-game-warcraft-rumble.html</link>
@@ -130,7 +150,7 @@
         <item>
             <title>Google komt sommige Pixel 6a-gebruikers tegemoet na mogelijke problemen accu</title>
             <link>https://tweakers.net/nieuws/236840/google-komt-sommige-pixel-6a-gebruikers-tegemoet-na-mogelijke-problemen-accu.html</link>
-            <description>Google compenseert gebruikers van bepaalde Pixel 6a-smartphones als er een potentieel probleem met de accu is vastgesteld. Vanaf 8 juli worden getroffen toestellen van een verplichte update voorzien en komen klanten mogelijk in aanmerking voor een vervangende accu.</description>
+            <description>Google compenseert gebruikers van bepaalde Pixel 6a-smartphones als er een potentieel probleem met de accu is vastgesteld. Vanaf 8 juli worden getroffen toestellen voorzien van een verplichte update en komen klanten mogelijk in aanmerking voor een vervangende accu.</description>
             <author>Yannick Spinner</author>
             <category>Nieuws / Tablets en telefoons / Smartphones</category>
             <comments>https://tweakers.net/nieuws/236840/google-komt-sommige-pixel-6a-gebruikers-tegemoet-na-mogelijke-problemen-accu.html#reacties</comments>
@@ -142,7 +162,7 @@
             <link>https://tweakers.net/nieuws/236838/dji-brengt-grote-power-2000-accu-van-2kwh-uit-voor-bijna-2200-euro.html</link>
             <description>DJI brengt de Power 2000-accu met een capaciteit van ruim 2kWh uit. De accu kan maximaal 3000W leveren en weegt 22 kilogram. Volgens DJI is de Power 2000 bedoeld als back-upsysteem of voor bijvoorbeeld kamperen. De accu heeft een adviesprijs van 2199 euro.</description>
             <author>Yannick Spinner</author>
-            <category>Nieuws / Tablets en telefoons / Powerbanks</category>
+            <category>Nieuws / Computers / UPS en stekkerdozen</category>
             <comments>https://tweakers.net/nieuws/236838/dji-brengt-grote-power-2000-accu-van-2kwh-uit-voor-bijna-2200-euro.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236838</guid>
             <pubDate>Wed, 02 Jul 2025 18:52:26 +0200</pubDate>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/236812/apple-overweegt-openai-of-anthropic-model-te-gebruiken-voor-siris-ai-upgrade.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236812</guid>
             <pubDate>Tue, 01 Jul 2025 19:35:02 +0200</pubDate>
-        </item>
-        <item>
-            <title>Preview - Nothing Phone 3 en Headphone 1 -  Twee keer een debuut voor Nothing</title>
-            <link>https://tweakers.net/reviews/13434/nothing-phone-3-en-headphone-1-twee-keer-een-debuut-voor-nothing.html</link>
-            <description>Het Britse Nothing brengt voor het eerst een &#039;echt&#039; topmodelsmartphone uit, samen met een koptelefoon.</description>
-            <author>Dennis de Vries</author>
-            <category>Preview / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/reviews/13434/nothing-phone-3-en-headphone-1-twee-keer-een-debuut-voor-nothing.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13434</guid>
-            <pubDate>Tue, 01 Jul 2025 19:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nothing Phone 3 krijgt nieuw ontwerp en verschijnt op 15 juli vanaf 849 euro</title>
-            <link>https://tweakers.net/nieuws/236802/nothing-phone-3-krijgt-nieuw-ontwerp-en-verschijnt-op-15-juli-vanaf-849-euro.html</link>
-            <description>Nothing heeft zijn Phone 3 aangekondigd. De telefoon krijgt onder andere een nieuw ontwerp, waarbij de Glyph Interface van voorgaande Nothing-toestellen wordt vervangen door een nieuwe dotmatrixdisplay op de achterkant. Het toestel komt 15 juli uit vanaf 849 euro.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/236802/nothing-phone-3-krijgt-nieuw-ontwerp-en-verschijnt-op-15-juli-vanaf-849-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236802</guid>
-            <pubDate>Tue, 01 Jul 2025 19:30:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
