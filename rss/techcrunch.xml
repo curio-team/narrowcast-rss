@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 03 Jul 2025 10:56:53 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 03 Jul 2025 13:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Israeli quantum startup Qedma just raised $26 million, with IBM joining in</title>
+		<link>https://techcrunch.com/2025/07/03/israeli-quantum-startup-qedma-just-raised-26-million-with-ibm-joining-in/</link>
+		
+		<dc:creator><![CDATA[Anna Heim]]></dc:creator>
+		<pubDate>Thu, 03 Jul 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[IBM]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[quantum computing]]></category>
+		<category><![CDATA[error mitigation]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3023264</guid>
+
+					<description><![CDATA[Qedma specializes in error mitigation software. Its main piece of software, QESEM, standing for Quantum Error Suppression and Error Mitigation, analyzes noise patterns to suppress some classes of errors while the algorithm is running and mitigate others in post-processing.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Google rolls out its new Veo 3 video generation model globally</title>
 		<link>https://techcrunch.com/2025/07/03/google-rolls-out-its-new-veo-3-video-generation-model-globally/</link>
 		
@@ -358,27 +377,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3013600</guid>
 
 					<description><![CDATA[Meta shared that it was working on Edits in January after ByteDance-owned CapCut was removed from U.S. app stores.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US chipmakers could see bigger tax credits if Trump&#8217;s spending bill passes</title>
-		<link>https://techcrunch.com/2025/07/02/us-chipmakers-could-see-bigger-tax-credits-if-trumps-spending-bill-passes/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Wed, 02 Jul 2025 15:57:47 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[AI chips]]></category>
-		<category><![CDATA[artificial intelligence]]></category>
-		<category><![CDATA[chipmakers]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[semiconductor]]></category>
-		<category><![CDATA[Trump Administration]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3024220</guid>
-
-					<description><![CDATA[The current version of the Trump administration's "big, beautiful bill" would raise the tax credit for U.S. chipmakers to 35%. ]]></description>
 		
 		
 		
