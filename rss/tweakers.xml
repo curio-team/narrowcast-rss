@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 03 Jul 2025 15:36:05 +0200</pubDate>
-        <lastBuildDate>Thu, 03 Jul 2025 15:36:05 +0200</lastBuildDate>
+        <pubDate>Thu, 03 Jul 2025 16:31:09 +0200</pubDate>
+        <lastBuildDate>Thu, 03 Jul 2025 16:31:09 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Q-Dir 12.25</title>
+            <link>https://tweakers.net/downloads/73206/q-dir-1225.html</link>
+            <description>Software OK heeft versie 12.25 van de gratis filemanager Q-Dir uitgebracht. Het ziet er een beetje uit als Windows Verkenner, maar dan met vier schermen, waardoor het eenvoudig is om bestanden te verplaatsen, beheren of bekijken. Dit verklaart ook meteen de naam: de Q staat voor quad. De download is ongeveer een megabyte groot en het programma is in verschillende talen te gebruiken, waaronder in het Nederlands. De changelog sinds versie 12.18 ziet er als volgt uit: New in version 12.25</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73206/q-dir-1225.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73206</guid>
+            <pubDate>Thu, 03 Jul 2025 16:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Beelden van dubbel opvouwbare Samsung-telefoon verschijnen in One UI 8-bestanden</title>
+            <link>https://tweakers.net/nieuws/236858/beelden-van-dubbel-opvouwbare-samsung-telefoon-verschijnen-in-one-ui-8-bestanden.html</link>
+            <description>Er zijn voor het eerst beelden van verschenen van de eerste Samsung-telefoon met een dubbel opvouwbaar scherm. Daaruit blijkt onder meer dat het camera-eiland overeenkomt met dat van de reguliere Fold-telefoons en dat opvouwen hetzelfde werkt als bij het Flex G-prototype.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/236858/beelden-van-dubbel-opvouwbare-samsung-telefoon-verschijnen-in-one-ui-8-bestanden.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236858</guid>
+            <pubDate>Thu, 03 Jul 2025 15:43:27 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Vivaldi 7.5</title>
             <link>https://tweakers.net/downloads/73204/vivaldi-75.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/downloads/73178/powertoys-0920.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73178</guid>
             <pubDate>Wed, 02 Jul 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Quicktest - Titan Army P27GR - Een wqhd-gamingmonitor voor 150 euro</title>
-            <link>https://tweakers.net/reviews/13378/titan-army-p27gr-een-wqhd-gamingmonitor-voor-150-euro.html</link>
-            <description>De P27GR van het hier onbekende Titan Army is een van de goedkoopste 27&quot;-wqhd-gamingmonitoren van dit moment. Is goedkoop in dit geval duurkoop?</description>
-            <author>Friso Weijers</author>
-            <category>Quicktest / Computers / Monitors</category>
-            <comments>https://tweakers.net/reviews/13378/titan-army-p27gr-een-wqhd-gamingmonitor-voor-150-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13378</guid>
-            <pubDate>Wed, 02 Jul 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Meta maakt dm&#039;en op Threads breed beschikbaar</title>
-            <link>https://tweakers.net/nieuws/236818/meta-maakt-dmen-op-threads-breed-beschikbaar.html</link>
-            <description>Meta heeft de functie om mensen direct messages te sturen via Threads officieel geïntroduceerd. Voorheen zaten de dm&#039;s en de inbox van gebruikers van Threads vast aan Instagram. Nu krijgt Threads ook een eigen inbox. In juni testte Meta de functie al in een aantal landen.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/236818/meta-maakt-dmen-op-threads-breed-beschikbaar.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236818</guid>
-            <pubDate>Wed, 02 Jul 2025 08:46:06 +0200</pubDate>
         </item>
     </channel>
 </rss>
