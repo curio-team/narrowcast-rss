@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 03 Jul 2025 11:31:01 +0200</pubDate>
-        <lastBuildDate>Thu, 03 Jul 2025 11:31:01 +0200</lastBuildDate>
+        <pubDate>Thu, 03 Jul 2025 12:36:01 +0200</pubDate>
+        <lastBuildDate>Thu, 03 Jul 2025 12:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Nvidia-boardpartners brengen eerste RTX 5050-kaarten uit</title>
+            <link>https://tweakers.net/nieuws/236854/nvidia-boardpartners-brengen-eerste-rtx-5050-kaarten-uit.html</link>
+            <description>Nvidia&#039;s boardpartners hebben hun eerste RTX 5050-modellen uitgebracht. Het gaat onder meer om Gigabyte, INNO3D, ASUS en MSI. Eerder zei Nvidia nog dat de gpu&#039;s pas in de tweede helft van juli beschikbaar zouden komen.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/236854/nvidia-boardpartners-brengen-eerste-rtx-5050-kaarten-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236854</guid>
+            <pubDate>Thu, 03 Jul 2025 12:08:54 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Mozilla Thunderbird 140.0</title>
+            <link>https://tweakers.net/downloads/73200/mozilla-thunderbird-1400.html</link>
+            <description>De Mozilla Foundation heeft versie 140.0 van Thunderbird uitgebracht. Thunderbird is een opensourceclient voor e-mail en nieuwsgroepen met ondersteuning voor verschillende mail- en newsaccounts. Verder zijn er een spamfilter, spellingscontrole, kalender en adresboek, en heeft het een aanpasbaar uiterlijk. Thunderbird is beschikbaar in twee verschillende versies, die beide als stabiel worden aangeduid. De eerste wordt vaker voorzien van nieuwe functionaliteit en wordt als Release-versie aangeboden; de andere, de Extra Support Release-versie, wordt alleen van bugfixes en stabiliteitsverbeteringen voorzien. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: What’s New</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73200/mozilla-thunderbird-1400.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73200</guid>
+            <pubDate>Thu, 03 Jul 2025 12:00:00 +0200</pubDate>
+        </item>
         <item>
             <title>.Plan - Welke toffe zomergadgets raad jij je medetweakers aan?</title>
             <link>https://tweakers.net/plan/4460/welke-toffe-zomergadgets-raad-jij-je-medetweakers-aan.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/video/19982/de-beste-schilderij-tv-samsung-the-frame-pro-2025-review.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/video/19982</guid>
             <pubDate>Wed, 02 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Review - Samsung The Frame Pro - Fellere Frame zegt kabels gedag</title>
-            <link>https://tweakers.net/reviews/13388/samsung-the-frame-pro-fellere-frame-zegt-kabels-gedag.html</link>
-            <description>De Samsung The Frame Pro is een nieuwe, luxere versie van Samsungs bekende The Frame-schilderijtelevisies. Maar is het ook een kunststukje?</description>
-            <author>Sjef Weller</author>
-            <category>Review / Beeld en geluid / Televisies</category>
-            <comments>https://tweakers.net/reviews/13388/samsung-the-frame-pro-fellere-frame-zegt-kabels-gedag.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13388</guid>
-            <pubDate>Wed, 02 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Minisforum brengt zijn eerste nas in augustus uit vanaf 799 euro</title>
-            <link>https://tweakers.net/nieuws/236816/minisforum-brengt-zijn-eerste-nas-in-augustus-uit-vanaf-799-euro.html</link>
-            <description>Minisforum brengt zijn N5-nas half augustus uit. De nas beschikt over vijf 3,5&quot;-bays en een AMD-cpu met acht of twaalf cores, afhankelijk van het model. De nas wordt halverwege augustus geleverd en krijgt een adviesprijs vanaf 799 euro.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / NAS</category>
-            <comments>https://tweakers.net/nieuws/236816/minisforum-brengt-zijn-eerste-nas-in-augustus-uit-vanaf-799-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236816</guid>
-            <pubDate>Tue, 01 Jul 2025 20:48:40 +0200</pubDate>
         </item>
     </channel>
 </rss>
