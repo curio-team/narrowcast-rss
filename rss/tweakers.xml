@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 03 Jul 2025 12:36:01 +0200</pubDate>
-        <lastBuildDate>Thu, 03 Jul 2025 12:36:01 +0200</lastBuildDate>
+        <pubDate>Thu, 03 Jul 2025 13:31:01 +0200</pubDate>
+        <lastBuildDate>Thu, 03 Jul 2025 13:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Zabbix 7.4</title>
+            <link>https://tweakers.net/downloads/73202/zabbix-74.html</link>
+            <description>Versie 7.4 van Zabbix is uitgekomen. Met dit programma kan de status van netwerkservices, servers en andere netwerkapparatuur in de gaten worden gehouden. Hoewel het programma alleen simpele informatie kan weergeven, kan door het installeren van een zogeheten agent op de server ook gedetailleerdere info worden verkregen. Meer informatie over Zabbix kan op deze pagina worden gevonden en hier staan enkele screenshots. Uitgebreide informatie over de veranderingen in deze uitgave staan hier, dit zijn in het kort de belangrijkste: Discover hierarchical environments using nested low-level discovery</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73202/zabbix-74.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73202</guid>
+            <pubDate>Thu, 03 Jul 2025 13:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Naughty Dog-topman is niet betrokken bij seizoen 3 van The Last of Us-serie</title>
+            <link>https://tweakers.net/geek/236856/naughty-dog-topman-is-niet-betrokken-bij-seizoen-3-van-the-last-of-us-serie.html</link>
+            <description>Neil Druckmann, het hoofd van The Last of Us-ontwikkelaar Naughty Dog, is niet langer betrokken bij de productie van de televisieserie. Hij wil zich meer focussen op de aankomende games van de studio.</description>
+            <author>Kevin Krikhaar</author>
+            <category>.Geek / Gaming / Games</category>
+            <comments>https://tweakers.net/geek/236856/naughty-dog-topman-is-niet-betrokken-bij-seizoen-3-van-the-last-of-us-serie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/236856</guid>
+            <pubDate>Thu, 03 Jul 2025 13:14:05 +0200</pubDate>
+        </item>
         <item>
             <title>Nvidia-boardpartners brengen eerste RTX 5050-kaarten uit</title>
             <link>https://tweakers.net/nieuws/236854/nvidia-boardpartners-brengen-eerste-rtx-5050-kaarten-uit.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/plan/4448/het-slimme-laadplatform-van-deftpower-reverse-engineering-azure-en-cashbacks.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/plan/4448</guid>
             <pubDate>Wed, 02 Jul 2025 08:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Navidrome 0.57.0</title>
-            <link>https://tweakers.net/downloads/73174/navidrome-0570.html</link>
-            <description>Versie 0.57 van Navidrome is uitgekomen. Navidrome is wat ze zelf noemen een personal streaming service, en is een opensource mediaserver die je persoonlijke muziekcollectie van overal benaderbaar kan maken. Het is snel, gebruikt weinig resources, heeft geen moeite met hele grote collecties en elke gebruiker kan zijn eigen playlists en favorieten aanmaken. Navidrome is compatibel met Subsonic, dus je hebt een grote keuze uit mediaspelers om naar de muziek te luisteren. Downloads en installatie-instructies zijn beschikbaar voor Docker, Windows, Linux, macOS en FreeBSD. De releasenotes voor deze uitgave kunnen hieronder worden gevonden. Added</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73174/navidrome-0570.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73174</guid>
-            <pubDate>Wed, 02 Jul 2025 07:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Videoreview - De beste schilderij-tv? Samsung The Frame Pro 2025 Review</title>
-            <link>https://tweakers.net/video/19982/de-beste-schilderij-tv-samsung-the-frame-pro-2025-review.html</link>
-            <description>Je kunt er je smartwatch op gelijkzetten: elk jaar introduceert Samsung een nieuwe versie van zijn The Frame-televisie. Dat model is sinds zijn introductie in 2017 populair, omdat het zich als schilderij vermomt wanneer er geen tv wordt gekeken. In deze video bekijken we de nieuwe Frame Pro en hoor je onze bevindingen.</description>
-            <author>Luke van Drie</author>
-            <category>Videoreview / Beeld en geluid / Televisies</category>
-            <comments>https://tweakers.net/video/19982/de-beste-schilderij-tv-samsung-the-frame-pro-2025-review.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/video/19982</guid>
-            <pubDate>Wed, 02 Jul 2025 06:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
