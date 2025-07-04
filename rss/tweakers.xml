@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 04 Jul 2025 13:31:02 +0200</pubDate>
-        <lastBuildDate>Fri, 04 Jul 2025 13:31:02 +0200</lastBuildDate>
+        <pubDate>Fri, 04 Jul 2025 14:41:04 +0200</pubDate>
+        <lastBuildDate>Fri, 04 Jul 2025 14:41:04 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>IKEA brengt bèta uit voor smarthomehub als Matter-controller</title>
+            <link>https://tweakers.net/nieuws/236890/ikea-brengt-beta-uit-voor-smarthomehub-als-matter-controller.html</link>
+            <description>IKEA brengt een update uit voor zijn Dirigera-platform, waardoor de smarthomehub voortaan als Matter-controller kan functioneren. Eerder konden gebruikers IKEA-hardware al via een Bridge-connectie aan hun smarthomesysteem toevoegen.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Beeld en geluid / Smarthome</category>
+            <comments>https://tweakers.net/nieuws/236890/ikea-brengt-beta-uit-voor-smarthomehub-als-matter-controller.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236890</guid>
+            <pubDate>Fri, 04 Jul 2025 13:50:30 +0200</pubDate>
+        </item>
         <item>
             <title>Studio van DOOM-maker John Romero stopt ontwikkeling shooter na Xbox-ontslagen</title>
             <link>https://tweakers.net/nieuws/236888/studio-van-doom-maker-john-romero-stopt-ontwikkeling-shooter-na-xbox-ontslagen.html</link>
@@ -405,16 +415,6 @@
             <category>Video / IT Pro / Economie en maatschappij</category>
             <comments>https://tweakers.net/video/19984/rtl-overnames-siri-upgrades-en-gebrickte-consoles-tweakers-podcast-380.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/video/19984</guid>
-            <pubDate>Thu, 03 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Review - Scythe Big Shuriken 4 - Hoge prestaties van een lage koeler</title>
-            <link>https://tweakers.net/reviews/13284/scythe-big-shuriken-4-hoge-prestaties-van-een-lage-koeler.html</link>
-            <description>Scythes nieuwe lowprofilekoeler Big Shuriken 4 gaat de concurrentie aan met onder andere de uitstekend presterende DeepCool AN600: flinke verwachtingen om waar te maken.</description>
-            <author>Reinoud Dik</author>
-            <category>Review / Computers / Processorkoeling</category>
-            <comments>https://tweakers.net/reviews/13284/scythe-big-shuriken-4-hoge-prestaties-van-een-lage-koeler.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13284</guid>
             <pubDate>Thu, 03 Jul 2025 06:00:00 +0200</pubDate>
         </item>
     </channel>
