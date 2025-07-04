@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 04 Jul 2025 10:36:06 +0200</pubDate>
-        <lastBuildDate>Fri, 04 Jul 2025 10:36:06 +0200</lastBuildDate>
+        <pubDate>Fri, 04 Jul 2025 11:31:01 +0200</pubDate>
+        <lastBuildDate>Fri, 04 Jul 2025 11:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>VS stopt handelsbeperking op chipsoftware voor China in ruil voor grondstoffen</title>
+            <link>https://tweakers.net/nieuws/236886/vs-stopt-handelsbeperking-op-chipsoftware-voor-china-in-ruil-voor-grondstoffen.html</link>
+            <description>De overheid van de Verenigde Staten draait de exportbeperking op chipontwerpsoftware naar China terug. De VS stopt met de handelsbeperking in ruil voor versoepeling van regels rond de import van Chinese grondstoffen, zoals mineralen.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/236886/vs-stopt-handelsbeperking-op-chipsoftware-voor-china-in-ruil-voor-grondstoffen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236886</guid>
+            <pubDate>Fri, 04 Jul 2025 11:12:31 +0200</pubDate>
+        </item>
         <item>
             <title>Animestreamingdienst Crunchyroll onderzoekt fouten in AI-vertaling ondertiteling</title>
             <link>https://tweakers.net/nieuws/236884/animestreamingdienst-crunchyroll-onderzoekt-fouten-in-ai-vertaling-ondertiteling.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/geek/236832/tweakers-podcast-380-rtl-overnames-siri-upgrades-en-gebrickte-consoles.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/geek/236832</guid>
             <pubDate>Thu, 03 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Looking Glass start levering van 27&quot;-scherm voor 3d-beelden zonder bril</title>
-            <link>https://tweakers.net/nieuws/236844/looking-glass-start-levering-van-27-inch-scherm-voor-3d-beelden-zonder-bril.html</link>
-            <description>Looking Glass start met de levering van reeds bestelde 27&quot; Light Field Display-apparaten. Het holografische scherm zorgt voor een 3d-effect, waarvoor geen speciale bril nodig is. Het scherm is voor een adviesprijs van grofweg 8610 euro verkrijgbaar.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Computers / Monitors</category>
-            <comments>https://tweakers.net/nieuws/236844/looking-glass-start-levering-van-27-inch-scherm-voor-3d-beelden-zonder-bril.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236844</guid>
-            <pubDate>Wed, 02 Jul 2025 20:31:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
