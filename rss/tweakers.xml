@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 04 Jul 2025 14:41:04 +0200</pubDate>
-        <lastBuildDate>Fri, 04 Jul 2025 14:41:04 +0200</lastBuildDate>
+        <pubDate>Fri, 04 Jul 2025 15:36:06 +0200</pubDate>
+        <lastBuildDate>Fri, 04 Jul 2025 15:36:06 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Belastingdienst moet verder onderzoek doen om aan AVG te kunnen voldoen</title>
+            <link>https://tweakers.net/nieuws/236892/belastingdienst-moet-verder-onderzoek-doen-om-aan-avg-te-kunnen-voldoen.html</link>
+            <description>De Nederlandse Belastingdienst moet verder onderzoek doen voordat alle risico&#039;s op het schenden van de Algemene Verordening Gegevensbescherming in beeld zijn. Het Ministerie van Financiën weet nog niet wanneer dit proces voltooid is.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/236892/belastingdienst-moet-verder-onderzoek-doen-om-aan-avg-te-kunnen-voldoen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236892</guid>
+            <pubDate>Fri, 04 Jul 2025 14:54:04 +0200</pubDate>
+        </item>
         <item>
             <title>IKEA brengt bèta uit voor smarthomehub als Matter-controller</title>
             <link>https://tweakers.net/nieuws/236890/ikea-brengt-beta-uit-voor-smarthomehub-als-matter-controller.html</link>
@@ -405,16 +415,6 @@
             <category>Nieuws / Computers / Beveiliging en antivirus</category>
             <comments>https://tweakers.net/nieuws/236834/ap-datadiefstal-bij-ransomware-verdubbelde-bijna-in-2024.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236834</guid>
-            <pubDate>Thu, 03 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Video - RTL-overnames, Siri-upgrades en gebrickte consoles - Tweakers Podcast #380</title>
-            <link>https://tweakers.net/video/19984/rtl-overnames-siri-upgrades-en-gebrickte-consoles-tweakers-podcast-380.html</link>
-            <description>Deze week praten Wout Funnekotter, Jurian Ubachs, Arnoud Wokke en Kevin Krikhaar over de overname van RTL door DPG, Vlaamse sites met AI-auteurs, verkopen van onzin aan taalmodellen, uitstel van Apples Siri-upgrade en bricken van consoles als je voorwaarden breekt.</description>
-            <author>Redactie Tweakers</author>
-            <category>Video / IT Pro / Economie en maatschappij</category>
-            <comments>https://tweakers.net/video/19984/rtl-overnames-siri-upgrades-en-gebrickte-consoles-tweakers-podcast-380.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/video/19984</guid>
             <pubDate>Thu, 03 Jul 2025 06:00:00 +0200</pubDate>
         </item>
     </channel>
