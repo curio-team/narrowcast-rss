@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 03 Jul 2025 16:31:09 +0200</pubDate>
-        <lastBuildDate>Thu, 03 Jul 2025 16:31:09 +0200</lastBuildDate>
+        <pubDate>Fri, 04 Jul 2025 09:31:09 +0200</pubDate>
+        <lastBuildDate>Fri, 04 Jul 2025 09:31:09 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,166 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - WinUAE 6.0.0</title>
+            <link>https://tweakers.net/downloads/73212/winuae-600.html</link>
+            <description>Versie 6.0.0 van WinUAE is uitgekomen. Deze Windows-port van de UAE Amiga-emulator is in staat om een Commodore Amiga perfect te emuleren. Alle modellen, vanaf de allereerste Amiga 1000 tot en met de Amiga 4000, worden ondersteund. Hou er wel rekening mee dat WinUAE wordt geleverd zonder kickstart, bij wijze van spreken het bios/de firmware van een Amiga, of andere software. Meer informatie kan op het supportforum worden gevonden. WinUAE draait op Windows XP en hoger, en de download is slechts 10MB groot. Voor een kickstart en programma&#039;s is Amiga Forever een mogelijke oplossing, met prijzen vanaf 10 euro. De changelog voor deze uitgave kan hieronder worden gevonden. Custom chipset rewrite</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73212/winuae-600.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73212</guid>
+            <pubDate>Fri, 04 Jul 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Game Mania gaat ergens in tweede helft juli verder als webshop</title>
+            <link>https://tweakers.net/nieuws/236880/game-mania-gaat-ergens-in-tweede-helft-juli-verder-als-webshop.html</link>
+            <description>Game Mania gaat ergens in de tweede helft van juli verder als webshop. In eerste instantie werd nog gesproken over het tweede kwartaal van 2025, maar dat is om onbekende redenen niet gehaald.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/236880/game-mania-gaat-ergens-in-tweede-helft-juli-verder-als-webshop.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236880</guid>
+            <pubDate>Fri, 04 Jul 2025 08:32:58 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - CPU-Z 2.16</title>
+            <link>https://tweakers.net/downloads/73210/cpu-z-216.html</link>
+            <description>CPUID heeft versie 2.16 van CPU-Z uitgebracht voor Windows. Dit kleine programma geeft uitgebreide informatie over de processor, het moederbord en het geheugen in de computer. Daarnaast kan het programma informatie over de grafische kaart in de computer geven, zij het beperkt. Hiervoor kan beter GPU-Z worden gebruikt, dat ondanks een vergelijkbare naam niet van dezelfde makers is. De download bevat aparte versies voor 32bit- en 64bit-omgevingen. Ook zijn er downloads beschikbaar met een thema van een specifieke fabrikant, zoals ASUS, MSI en Asrock. In deze uitgave is herkenning voor de volgende hardware toegevoegd: Changes in CPU-Z version 2.16:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73210/cpu-z-216.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73210</guid>
+            <pubDate>Fri, 04 Jul 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Round-up - 20 goedkope AMD B650/B850-moederborden - Een oudere chipset is de betere keuze</title>
+            <link>https://tweakers.net/reviews/13412/20-goedkope-amd-b650-b850-moederborden-een-oudere-chipset-is-de-betere-keuze.html</link>
+            <description>Stel je een betaalbaar AMD Ryzen-systeem met Socket AM5 samen, kies je dan een in prijs gedaald B650-moederbord of een nieuw model met de B850-chipset?</description>
+            <author>Tomas Hochstenbach</author>
+            <category>Round-up / Computers / Moederborden</category>
+            <comments>https://tweakers.net/reviews/13412/20-goedkope-amd-b650-b850-moederborden-een-oudere-chipset-is-de-betere-keuze.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13412</guid>
+            <pubDate>Fri, 04 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>EA-game Anthem is vanaf januari 2026 niet langer speelbaar</title>
+            <link>https://tweakers.net/nieuws/236878/ea-game-anthem-is-vanaf-januari-2026-niet-langer-speelbaar.html</link>
+            <description>EA haalt de servers om de game Anthem uit 2019 te spelen begin volgend jaar offline. Omdat de game alleen online werkt, kunnen gamers het spel dan niet langer spelen. De in-game valuta is nu al niet meer te koop.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/236878/ea-game-anthem-is-vanaf-januari-2026-niet-langer-speelbaar.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236878</guid>
+            <pubDate>Thu, 03 Jul 2025 21:03:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Helldivers 2, snelst verkopende PS5-game, komt volgende maand uit voor Xbox</title>
+            <link>https://tweakers.net/nieuws/236876/helldivers-2-snelst-verkopende-ps5-game-komt-volgende-maand-uit-voor-xbox.html</link>
+            <description>Arrowhead Game Studios brengt Helldivers 2 volgende maand uit voor Xbox Series X en S. De game verscheen eerder alleen voor pc en PlayStation 5. De port van de game komt van Sony&#039;s Nederlandse dochterbedrijf Nixxes.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Gaming / Consoles</category>
+            <comments>https://tweakers.net/nieuws/236876/helldivers-2-snelst-verkopende-ps5-game-komt-volgende-maand-uit-voor-xbox.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236876</guid>
+            <pubDate>Thu, 03 Jul 2025 20:15:44 +0200</pubDate>
+        </item>
+        <item>
+            <title>Foto&#039;s tonen onaangekondigde Samsung Galaxy Z Fold7</title>
+            <link>https://tweakers.net/nieuws/236874/fotos-tonen-onaangekondigde-samsung-galaxy-z-fold7.html</link>
+            <description>Er zijn foto&#039;s verschenen van de Samsung Galaxy Z Fold7. Er waren al eerder renders verschenen. Samsung heeft volgende week een evenement gepland staan om de telefoon aan te kondigen, samen met onder meer Z Flip7 en vermoedelijk een dubbel vouwbare telefoon.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/236874/fotos-tonen-onaangekondigde-samsung-galaxy-z-fold7.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236874</guid>
+            <pubDate>Thu, 03 Jul 2025 20:10:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>X: AI ondermijnt moderatie met communitynotes</title>
+            <link>https://tweakers.net/nieuws/236862/x-ai-ondermijnt-moderatie-met-communitynotes.html</link>
+            <description>Onderzoekers van sociaal netwerk X waarschuwen voor het gevaar dat AI-gebruik voor communitynotes juist ondermijnend werkt voor contentmoderatie. In een paper beschrijven zij de risico’s, nadat X onlangs begon met een test met AI-geschreven communitynotes.</description>
+            <author>Jasper Bakker</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/236862/x-ai-ondermijnt-moderatie-met-communitynotes.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236862</guid>
+            <pubDate>Thu, 03 Jul 2025 19:25:04 +0200</pubDate>
+        </item>
+        <item>
+            <title>Android-gebruikers kunnen RCS-berichten die naar iPhone zijn gestuurd bewerken</title>
+            <link>https://tweakers.net/nieuws/236868/android-gebruikers-kunnen-rcs-berichten-die-naar-iphone-zijn-gestuurd-bewerken.html</link>
+            <description>Android-gebruikers die RCS-berichten sturen naar iPhones kunnen die in sommige gevallen bewerken. Bewerken kon al wel tussen Android en Android en tussen iOS en iOS. Omgekeerd werkt de functie nog niet.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/236868/android-gebruikers-kunnen-rcs-berichten-die-naar-iphone-zijn-gestuurd-bewerken.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236868</guid>
+            <pubDate>Thu, 03 Jul 2025 19:16:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google voegt aangepaste Gemini-varianten toe aan zakelijke Gmail en Docs</title>
+            <link>https://tweakers.net/nieuws/236866/google-voegt-aangepaste-gemini-varianten-toe-aan-zakelijke-gmail-en-docs.html</link>
+            <description>Google voegt ondersteuning voor Gems toe aan zakelijke Workspace-diensten. Gems zijn vooraf ingestelde, aangepaste varianten van Gemini om bijvoorbeeld te helpen met programmeren of andere specifieke taken.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Computers / Software</category>
+            <comments>https://tweakers.net/nieuws/236866/google-voegt-aangepaste-gemini-varianten-toe-aan-zakelijke-gmail-en-docs.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236866</guid>
+            <pubDate>Thu, 03 Jul 2025 18:29:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Achtergrond - KPN blokkeert telefoons op afstand bij wanbetaling: &#039;Juridisch lastig terrein&#039;</title>
+            <link>https://tweakers.net/reviews/13458/kpn-blokkeert-telefoons-op-afstand-bij-wanbetaling-juridisch-lastig-terrein.html</link>
+            <description>KPN blokkeert telefoons via mobile device management als abonnementhouders hun maandelijkse kosten niet betalen. Mag dat eigenlijk wel?</description>
+            <author>Imre Himmelbauer</author>
+            <category>Achtergrond / Tablets en telefoons / Mobiele netwerken</category>
+            <comments>https://tweakers.net/reviews/13458/kpn-blokkeert-telefoons-op-afstand-bij-wanbetaling-juridisch-lastig-terrein.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13458</guid>
+            <pubDate>Thu, 03 Jul 2025 18:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - RoboForm 9.7.7</title>
+            <link>https://tweakers.net/downloads/73208/roboform-977.html</link>
+            <description>Versie 9.7.7 van RoboForm is uitgekomen. Dit programma is ruim twintig jaar geleden ontstaan als een hulpmiddel bij het invullen van formulieren en is inmiddels doorgegroeid naar een complete wachtwoordmanager. Het programma is beschikbaar voor Windows, Linux, macOS, Android en iOS, en als plug-in voor de bekendste webbrowsers. Het programma is gratis te gebruiken, maar wel met enkele beperkingen. Naast het veilig opslaan van wachtwoorden en passkeys, kan het ook sterke wachtwoorden genereren en waarschuwen als een wachtwoord voorkomt in een lijst met gelekte wachtwoorden. Sinds versie 9.7.3 zijn de volgende veranderingen doorgevoerd: Changes in version 9.7.7</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73208/roboform-977.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73208</guid>
+            <pubDate>Thu, 03 Jul 2025 18:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>EU-initiatief Stop Killing Games haalt miljoen handtekeningen</title>
+            <link>https://tweakers.net/nieuws/236872/eu-initiatief-stop-killing-games-haalt-miljoen-handtekeningen.html</link>
+            <description>Het EU-burgerinitiatief Stop Killing Games heeft het benodigde aantal van een miljoen handtekeningen opgehaald. De petitie roept de Europese Commissie op om wetgeving te maken zodat gamemakers niet zomaar meer games mogen laten stoppen met werken.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/236872/eu-initiatief-stop-killing-games-haalt-miljoen-handtekeningen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236872</guid>
+            <pubDate>Thu, 03 Jul 2025 17:51:20 +0200</pubDate>
+        </item>
+        <item>
+            <title>LG ontwikkelt packagingtechniek voor chips, moet voor dunnere smartphones zorgen</title>
+            <link>https://tweakers.net/nieuws/236870/lg-ontwikkelt-packagingtechniek-voor-chips-moet-voor-dunnere-smartphones-zorgen.html</link>
+            <description>LG heeft een nieuwe methode ontwikkeld om chips op substraten te solderen. Het bedrijf gebruikt koperen pilaren in plaats van de traditionele soldeerballen. De techniek is bedoeld voor telefoons en moet dunnere toestellen mogelijk maken, zonder dat dit de prestaties beïnvloedt.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / IT Pro / Wetenschap</category>
+            <comments>https://tweakers.net/nieuws/236870/lg-ontwikkelt-packagingtechniek-voor-chips-moet-voor-dunnere-smartphones-zorgen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236870</guid>
+            <pubDate>Thu, 03 Jul 2025 17:27:55 +0200</pubDate>
+        </item>
+        <item>
+            <title>Microsoft Edge voor iOS heeft verborgen ondersteuning voor extensies</title>
+            <link>https://tweakers.net/nieuws/236864/microsoft-edge-voor-ios-heeft-verborgen-ondersteuning-voor-extensies.html</link>
+            <description>Microsoft Edge voor iOS heeft nu ondersteuning voor extensies, hoewel dat nu nog verborgen is. Er zijn twaalf extensies die werken met de browser voor iPhones, tegenover 31 die werken in de Android-versie.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Computers / Browsers</category>
+            <comments>https://tweakers.net/nieuws/236864/microsoft-edge-voor-ios-heeft-verborgen-ondersteuning-voor-extensies.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236864</guid>
+            <pubDate>Thu, 03 Jul 2025 17:09:40 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nederlandse Defensie wil meer investeren in AI, cybersecurity en eigen cloud</title>
+            <link>https://tweakers.net/nieuws/236860/nederlandse-defensie-wil-meer-investeren-in-ai-cybersecurity-en-eigen-cloud.html</link>
+            <description>Het Nederlandse ministerie van Defensie wil meer inzetten op slimme algoritmes, dataversleuteling en soevereine cloudoplossingen. Dat schrijft het ministerie in zijn Digitale Transformatie Strategie.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/236860/nederlandse-defensie-wil-meer-investeren-in-ai-cybersecurity-en-eigen-cloud.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236860</guid>
+            <pubDate>Thu, 03 Jul 2025 16:54:46 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Q-Dir 12.25</title>
             <link>https://tweakers.net/downloads/73206/q-dir-1225.html</link>
@@ -256,166 +416,6 @@
             <comments>https://tweakers.net/nieuws/236840/google-komt-sommige-pixel-6a-gebruikers-tegemoet-na-mogelijke-problemen-accu.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236840</guid>
             <pubDate>Wed, 02 Jul 2025 19:17:54 +0200</pubDate>
-        </item>
-        <item>
-            <title>DJI brengt grote Power 2000-accu van 2kWh uit voor bijna 2200 euro</title>
-            <link>https://tweakers.net/nieuws/236838/dji-brengt-grote-power-2000-accu-van-2kwh-uit-voor-bijna-2200-euro.html</link>
-            <description>DJI brengt de Power 2000-accu met een capaciteit van ruim 2kWh uit. De accu kan maximaal 3000W leveren en weegt 22 kilogram. Volgens DJI is de Power 2000 bedoeld als back-upsysteem of voor bijvoorbeeld kamperen. De accu heeft een adviesprijs van 2199 euro.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Computers / UPS en stekkerdozen</category>
-            <comments>https://tweakers.net/nieuws/236838/dji-brengt-grote-power-2000-accu-van-2kwh-uit-voor-bijna-2200-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236838</guid>
-            <pubDate>Wed, 02 Jul 2025 18:52:26 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Opera 120.0.5543.38</title>
-            <link>https://tweakers.net/downloads/73190/opera-1200554338.html</link>
-            <description>Opera heeft versie 120 van zijn gelijknamige webbrowser uitgebracht. Opera maakt gebruik van de Blink-engine. Deze maakt deel uit van Chromium, dat onder meer ook door Google Chrome gebruikt wordt. Opera is beschikbaar voor Windows, Linux en macOS. Daarnaast zijn er ook versies voor Android en iOS. In versie 120 is Chromium bijgewerkt naar versie 135 en zijn verder de volgende veranderingen en verbeteringen aangebracht: Opera 12</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73190/opera-1200554338.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73190</guid>
-            <pubDate>Wed, 02 Jul 2025 18:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft ontslaat ruim 9000 werknemers waarvan veel in Gaming-afdeling - update</title>
-            <link>https://tweakers.net/nieuws/236836/microsoft-ontslaat-ruim-9000-werknemers-waarvan-veel-in-gaming-afdeling.html</link>
-            <description>Microsoft ontslaat ruim 9000 werknemers, ofwel vier procent van het personeel, waarvan een groot deel onder de Gaming-afdeling werkt. Volgens Xbox-baas Phil Spencer is de ontslagronde bedoeld om &#039;lagen van management&#039; te verwijderen om de gamingtak wendbaarder te maken.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/236836/microsoft-ontslaat-ruim-9000-werknemers-waarvan-veel-in-gaming-afdeling.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236836</guid>
-            <pubDate>Wed, 02 Jul 2025 17:42:39 +0200</pubDate>
-        </item>
-        <item>
-            <title>Canonical ondersteunt elf jaar oude OpenJDK 8 op Ubuntu Pro tot 2034</title>
-            <link>https://tweakers.net/nieuws/236824/canonical-ondersteunt-elf-jaar-oude-openjdk-8-op-ubuntu-pro-tot-2034.html</link>
-            <description>Ubuntu-maker Canonical ondersteunt OpenJDK 8 tot 2034 op Ubuntu Pro. Daarmee loopt de ondersteuning voor de opensourcevariant van Java liefst twintig jaar op het besturingssysteem.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Software development</category>
-            <comments>https://tweakers.net/nieuws/236824/canonical-ondersteunt-elf-jaar-oude-openjdk-8-op-ubuntu-pro-tot-2034.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236824</guid>
-            <pubDate>Wed, 02 Jul 2025 16:33:01 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - qBittorrent 5.1.2</title>
-            <link>https://tweakers.net/downloads/73188/qbittorrent-512.html</link>
-            <description>Versie 5.1.2 van qBittorrent is verschenen. Deze opensource torrentclient heeft versies voor Windows, Linux en macOS. Het programma wordt met Qt ontwikkeld en is gebaseerd op libtorrent (rasterbar) en Boost. Het programma is het geesteskind van de Fransman Christophe Dumez, die er sinds begin 2006 aan werkt. Tegenwoordig wordt het door de community onderhouden. Er zijn twee downloads beschikbaar. De ene bevat libtorrent 1.2, de andere versie 2.0. Voor de gebruikersinterface wordt van Qt6 gebruikgemaakt, wat betekent dat minimaal Windows 10 vereist is. De changelog voor deze uitgave kan hieronder worden gevonden. Bugfix:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73188/qbittorrent-512.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73188</guid>
-            <pubDate>Wed, 02 Jul 2025 16:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - WizTree 4.26</title>
-            <link>https://tweakers.net/downloads/73186/wiztree-426.html</link>
-            <description>WizTree is een programma dat razendsnel een harde schijf kan analyseren om zo bestanden en mappen te vinden die de meeste ruimte innemen. Het is daarmee een prima hulpmiddel om de harde schijf op te ruimen wanneer er ruimtegebrek is. Het programma kan ook op bepaalde bestandstypes zoeken en het resultaat van een scan exporteren. WizTree mag gratis in privéomgevingen worden gebruikt en kan zijn werk ook doen zonder eerst te worden geïnstalleerd. In versie 4.26 zijn de volgende veranderingen aangebracht: Changes in WizTree version 4.26:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73186/wiztree-426.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73186</guid>
-            <pubDate>Wed, 02 Jul 2025 15:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Club 3D introduceert USB-C-dock met ondersteuning voor vier 4k60-schermen</title>
-            <link>https://tweakers.net/nieuws/236830/club-3d-introduceert-usb-c-dock-met-ondersteuning-voor-vier-4k60-schermen.html</link>
-            <description>Club 3D heeft het CSV-2540-USB-C-dock aangekondigd. Het dock ondersteunt onder meer vier 4k-schermen met een verversingssnelheid van 60Hz via één USB-C-verbinding. Club 3D claimt dat het het eerste dock op de markt is dat hiervoor native ondersteuning heeft.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / Computers / Dockingstations</category>
-            <comments>https://tweakers.net/nieuws/236830/club-3d-introduceert-usb-c-dock-met-ondersteuning-voor-vier-4k60-schermen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236830</guid>
-            <pubDate>Wed, 02 Jul 2025 14:16:45 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Community - In juni kwam 42 procent van ons nieuws van jullie tips</title>
-            <link>https://tweakers.net/reviews/13448/in-juni-kwam-42-procent-van-ons-nieuws-van-jullie-tips.html</link>
-            <description>In juni kwam zo&#039;n 42 procent van ons nieuws voort uit tips van gebruikers. In dit artikel geven we daar meer informatie over.</description>
-            <author>Tijs Hofmans</author>
-            <category>.Community / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/reviews/13448/in-juni-kwam-42-procent-van-ons-nieuws-van-jullie-tips.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13448</guid>
-            <pubDate>Wed, 02 Jul 2025 13:37:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - GnuCash 5.12</title>
-            <link>https://tweakers.net/downloads/73184/gnucash-512.html</link>
-            <description>Versie 5.12 van GnuCash is uitgekomen. GnuCash is een crossplatform en opensource boekhoudprogramma voor particulieren en kleine bedrijven. Het maakt gebruik van het dubbelboekhoudsysteem en is in staat om eenvoudig bijvoorbeeld bankrekeningen, beleggingen, inkomsten en uitgaven, budgetten, hypotheken en leningen bij te houden en kan natuurlijk rapportages en grafieken maken. De changelog voor deze uitgave maakt melding van de volgende veranderingen en verbeteringen: Between 5.11 and 5.12, the following bugfixes were accomplished:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73184/gnucash-512.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73184</guid>
-            <pubDate>Wed, 02 Jul 2025 13:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google moet 267 miljoen euro betalen in VS voor datagebruik Android-apparaten</title>
-            <link>https://tweakers.net/nieuws/236828/google-moet-267-miljoen-euro-betalen-in-vs-voor-datagebruik-android-apparaten.html</link>
-            <description>Google moet een schadevergoeding van 314,6 miljoen dollar, omgerekend 267 miljoen euro, betalen aan Android-gebruikers in de staat Californië. Google heeft zich volgens de jury schuldig gemaakt aan het verzenden en ontvangen van informatie van apparaten die niet in gebruik waren.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/236828/google-moet-267-miljoen-euro-betalen-in-vs-voor-datagebruik-android-apparaten.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236828</guid>
-            <pubDate>Wed, 02 Jul 2025 13:19:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Intel gaat mogelijk toch geen 1,8nm-chips maken voor andere bedrijven&#039;</title>
-            <link>https://tweakers.net/nieuws/236822/intel-gaat-mogelijk-toch-geen-1-komma-8nm-chips-maken-voor-andere-bedrijven.html</link>
-            <description>Intel-ceo Lip-Bu Tan overweegt zijn 18A-procedé toch alleen voor interne producten te gaan gebruiken, meldt Reuters. Daarmee vervallen plannen om deze &#039;1,8nm&#039;-node breed beschikbaar te stellen aan andere bedrijven. De focus zou dan komen te liggen op de opvolger, Intel 14A.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / Processors</category>
-            <comments>https://tweakers.net/nieuws/236822/intel-gaat-mogelijk-toch-geen-1-komma-8nm-chips-maken-voor-andere-bedrijven.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236822</guid>
-            <pubDate>Wed, 02 Jul 2025 13:10:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Bulk Crap Uninstaller 5.9</title>
-            <link>https://tweakers.net/downloads/73182/bulk-crap-uninstaller-59.html</link>
-            <description>Klocman Software heeft versie 5.9 van Bulk Crap Uninstaller uitgebracht. Met dit programma, dat onder een opensourcelicentie wordt uitgebracht, kunnen in een keer diverse programma&#039;s en Windows Store-apps van de computer worden verwijderd. Het voert eerst de standaard verwijderprocedure uit en scant vervolgens de computer op overgebleven snelkoppelingen en registersleutels om die ook nog te verwijderen. Na afloop kunnen eventueel ook nog externe programma&#039;s zoals CCleaner worden gestart. Ten slotte bevat het een start-upmanager, waarmee programma&#039;s die met Windows meestarten uitgeschakeld kunnen worden. Deze uitgave bevat een verzameling van voornamelijk kleine veranderingen en verbeteringen. Bulk Crap Uninstaller v5.9</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73182/bulk-crap-uninstaller-59.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73182</guid>
-            <pubDate>Wed, 02 Jul 2025 12:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>X test communitynotes die gemaakt zijn door AI</title>
-            <link>https://tweakers.net/nieuws/236826/x-test-communitynotes-die-gemaakt-zijn-door-ai.html</link>
-            <description>X test vanaf juli communitynotes die zijn gemaakt door AI-chatbots, zo maakt het bedrijf bekend. Op die manier wil het platform de schaalbaarheid van de functie vergroten. X heeft geen specifieke doelen gesteld voor de groei van communitynotes door AI-gegenereerde content.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/236826/x-test-communitynotes-die-gemaakt-zijn-door-ai.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236826</guid>
-            <pubDate>Wed, 02 Jul 2025 11:56:05 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Pale Moon 33.8.0</title>
-            <link>https://tweakers.net/downloads/73180/pale-moon-3380.html</link>
-            <description>Versie 33.8.0 van Pale Moon is uitgekomen. Deze webbrowser is ooit begonnen als een fork van Mozilla Firefox. Door optimalisaties voor moderne hardware en het weglaten van Accessibility-features en Parental Controls presteerde hij toen een stuk beter. Ook was er een 64bit-versie beschikbaar, ruim voordat Mozilla deze zelf aanbood. Intern werkt het op Goanna, een van Mozilla&#039;s Gecko afgeleide browserengine. De browser is beschikbaar voor Windows, Linux en macOS, en als bèta ook voor FreeBSD. De download van Pale Moon is alleen in het Engels; een apart Nederlands taalbestand is beschikbaar. Tegenwoordig is het ook vanuit de Microsoft Store te installeren. In deze uitgave zijn de volgende veranderingen en verbeteringen doorgevoerd: Pale Moon 33.8.0</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73180/pale-moon-3380.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73180</guid>
-            <pubDate>Wed, 02 Jul 2025 10:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google patcht actief misbruikte zeroday in op Chromium gebaseerde browsers</title>
-            <link>https://tweakers.net/nieuws/236820/google-patcht-actief-misbruikte-zeroday-in-op-chromium-gebaseerde-browsers.html</link>
-            <description>Google heeft een patch uitgebracht voor een actief misbruikte zerodaykwetsbaarheid die alle op Chromium gebaseerde browsers treft. Naast Google Chrome maken ook onder meer Microsoft Edge, Brave, Vivaldi en Opera gebruik van het Chromium-project.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Privacy</category>
-            <comments>https://tweakers.net/nieuws/236820/google-patcht-actief-misbruikte-zeroday-in-op-chromium-gebaseerde-browsers.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236820</guid>
-            <pubDate>Wed, 02 Jul 2025 09:50:29 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - PowerToys 0.92.0</title>
-            <link>https://tweakers.net/downloads/73178/powertoys-0920.html</link>
-            <description>Microsoft heeft versie 0.92.0 van PowerToys uitgebracht. De PowerToys zijn een verzameling kleine programma&#039;s voor powerusers. Er waren PowerToys voor Windows 95 en Windows XP, en sinds halverwege 2019 is Microsoft ook bezig met de ontwikkeling van een versie voor Windows 10 en hoger. De PowerToys bestaan onder meer uit Awake, Color Picker, FancyZones, File Explorer Add-ons, Image Resizer, Keyboard Manager, PowerRename, PowerToys Run, Shortcut Guide en de Video Conference Mute. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Highlights</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73178/powertoys-0920.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73178</guid>
-            <pubDate>Wed, 02 Jul 2025 09:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
