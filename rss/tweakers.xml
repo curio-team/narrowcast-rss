@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 07 Jul 2025 15:36:06 +0200</pubDate>
-        <lastBuildDate>Mon, 07 Jul 2025 15:36:06 +0200</lastBuildDate>
+        <pubDate>Mon, 07 Jul 2025 16:31:01 +0200</pubDate>
+        <lastBuildDate>Mon, 07 Jul 2025 16:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Gerucht: TikTok krijgt aparte app voor de VS vanwege wettelijk verbod</title>
+            <link>https://tweakers.net/nieuws/236930/gerucht-tiktok-krijgt-aparte-app-voor-de-vs-vanwege-wettelijk-verbod.html</link>
+            <description>ByteDance lijkt te werken aan een aparte, tweede TikTok-app voor de VS die op 5 september moet verschijnen. Die moet in de Verenigde Staten de plaats innemen van de huidige TikTok-app, die dan volgend jaar zou stoppen met werken.</description>
+            <author>Jasper Bakker</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/236930/gerucht-tiktok-krijgt-aparte-app-voor-de-vs-vanwege-wettelijk-verbod.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236930</guid>
+            <pubDate>Mon, 07 Jul 2025 16:27:43 +0200</pubDate>
+        </item>
         <item>
             <title>Europese antitrustklacht tegen Google over AI Overviews</title>
             <link>https://tweakers.net/nieuws/236926/europese-antitrustklacht-tegen-google-over-ai-overviews.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/reviews/13412/20-goedkope-amd-b650-b850-moederborden-een-oudere-chipset-is-de-betere-keuze.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13412</guid>
             <pubDate>Fri, 04 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>EA-game Anthem is vanaf januari 2026 niet langer speelbaar</title>
-            <link>https://tweakers.net/nieuws/236878/ea-game-anthem-is-vanaf-januari-2026-niet-langer-speelbaar.html</link>
-            <description>EA haalt de servers om de game Anthem uit 2019 te spelen begin volgend jaar offline. Omdat de game alleen online werkt, kunnen gamers het spel dan niet langer spelen. De in-game valuta is nu al niet meer te koop.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/236878/ea-game-anthem-is-vanaf-januari-2026-niet-langer-speelbaar.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236878</guid>
-            <pubDate>Thu, 03 Jul 2025 21:03:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
