@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 07 Jul 2025 10:36:01 +0200</pubDate>
-        <lastBuildDate>Mon, 07 Jul 2025 10:36:01 +0200</lastBuildDate>
+        <pubDate>Mon, 07 Jul 2025 11:36:01 +0200</pubDate>
+        <lastBuildDate>Mon, 07 Jul 2025 11:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Analyticsdienst Piwik Pro kost vanaf december minimaal 35 euro per maand</title>
+            <link>https://tweakers.net/nieuws/236928/analyticsdienst-piwik-pro-kost-vanaf-december-minimaal-35-euro-per-maand.html</link>
+            <description>Analyticsdienst Piwik Pro is binnenkort niet meer gratis te gebruiken. Het bedrijf stopt met het Core-abonnement, waarvoor gebruikers niets betaalden. In plaats daarvan komen er nieuwe abonnementen voor kleine en grote bedrijven. Die beginnen bij 35 euro per maand.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Software development</category>
+            <comments>https://tweakers.net/nieuws/236928/analyticsdienst-piwik-pro-kost-vanaf-december-minimaal-35-euro-per-maand.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236928</guid>
+            <pubDate>Mon, 07 Jul 2025 10:40:22 +0200</pubDate>
+        </item>
         <item>
             <title>Spotify op Android Auto krijgt ondersteuning voor Jams</title>
             <link>https://tweakers.net/nieuws/236924/spotify-op-android-auto-krijgt-ondersteuning-voor-jams.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/236862/x-ai-ondermijnt-moderatie-met-communitynotes.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236862</guid>
             <pubDate>Thu, 03 Jul 2025 19:25:04 +0200</pubDate>
-        </item>
-        <item>
-            <title>Android-gebruikers kunnen RCS-berichten die naar iPhone zijn gestuurd bewerken</title>
-            <link>https://tweakers.net/nieuws/236868/android-gebruikers-kunnen-rcs-berichten-die-naar-iphone-zijn-gestuurd-bewerken.html</link>
-            <description>Android-gebruikers die RCS-berichten sturen naar iPhones kunnen die in sommige gevallen bewerken. Bewerken kon al wel tussen Android en Android en tussen iOS en iOS. Omgekeerd werkt de functie nog niet.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/236868/android-gebruikers-kunnen-rcs-berichten-die-naar-iphone-zijn-gestuurd-bewerken.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236868</guid>
-            <pubDate>Thu, 03 Jul 2025 19:16:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
