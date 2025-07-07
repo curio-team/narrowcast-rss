@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 07 Jul 2025 14:41:01 +0200</pubDate>
-        <lastBuildDate>Mon, 07 Jul 2025 14:41:01 +0200</lastBuildDate>
+        <pubDate>Mon, 07 Jul 2025 15:36:06 +0200</pubDate>
+        <lastBuildDate>Mon, 07 Jul 2025 15:36:06 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Europese antitrustklacht tegen Google over AI Overviews</title>
+            <link>https://tweakers.net/nieuws/236926/europese-antitrustklacht-tegen-google-over-ai-overviews.html</link>
+            <description>Europese uitgevers hebben een antitrustklacht ingediend bij de Europese Commissie tegen Google vanwege de AI-gegenereerde Overviews die het bovenaan zoekresultaten plaatst. De groep uitgevers vraagt hierbij om tijdelijke maatregelen voor die overzichten.</description>
+            <author>Jasper Bakker</author>
+            <category>Nieuws / IT Pro / Economie en maatschappij</category>
+            <comments>https://tweakers.net/nieuws/236926/europese-antitrustklacht-tegen-google-over-ai-overviews.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236926</guid>
+            <pubDate>Mon, 07 Jul 2025 15:19:00 +0200</pubDate>
+        </item>
         <item>
             <title>CPU-Z krijgt ondersteuning voor RX 9060 XT-, RTX 5060- en RTX 5050-gpu&#039;s</title>
             <link>https://tweakers.net/nieuws/236934/cpu-z-krijgt-ondersteuning-voor-rx-9060-xt-rtx-5060-en-rtx-5050-gpus.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/236878/ea-game-anthem-is-vanaf-januari-2026-niet-langer-speelbaar.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236878</guid>
             <pubDate>Thu, 03 Jul 2025 21:03:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Helldivers 2, snelst verkopende PS5-game, komt volgende maand uit voor Xbox</title>
-            <link>https://tweakers.net/nieuws/236876/helldivers-2-snelst-verkopende-ps5-game-komt-volgende-maand-uit-voor-xbox.html</link>
-            <description>Arrowhead Game Studios brengt Helldivers 2 volgende maand uit voor Xbox Series X en S. De game verscheen eerder alleen voor pc en PlayStation 5. De port van de game komt van Sony&#039;s Nederlandse dochterbedrijf Nixxes.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Gaming / Consoles</category>
-            <comments>https://tweakers.net/nieuws/236876/helldivers-2-snelst-verkopende-ps5-game-komt-volgende-maand-uit-voor-xbox.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236876</guid>
-            <pubDate>Thu, 03 Jul 2025 20:15:44 +0200</pubDate>
         </item>
     </channel>
 </rss>
