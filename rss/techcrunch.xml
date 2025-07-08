@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 08 Jul 2025 10:40:53 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 08 Jul 2025 12:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,28 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Frontier is helping Arbor build a “vegetarian rocket engine” to power data centers</title>
+		<link>https://techcrunch.com/2025/07/08/frontier-is-helping-arbor-build-a-vegetarian-rocket-engine-to-power-data-centers/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Tue, 08 Jul 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Climate]]></category>
+		<category><![CDATA[biomass]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[frontier]]></category>
+		<category><![CDATA[carbon capture]]></category>
+		<category><![CDATA[carbon capture and storage]]></category>
+		<category><![CDATA[carbon removal]]></category>
+		<category><![CDATA[Arbor Energy]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3025303</guid>
+
+					<description><![CDATA[Arbor Energy's carbon-removing power plant is inspired by SpaceX's rocket engines.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>UAE proptech Huspy raises $59M to scale in Europe</title>
 		<link>https://techcrunch.com/2025/07/07/uae-proptech-huspy-raises-59m-to-scale-in-europe/</link>
 		
@@ -281,9 +303,9 @@
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Enterprise]]></category>
 		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI agents]]></category>
-		<category><![CDATA[data management]]></category>
 		<category><![CDATA[M&A]]></category>
+		<category><![CDATA[data management]]></category>
+		<category><![CDATA[AI agents]]></category>
 		<category><![CDATA[startup acquisition]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3024855</guid>
 
@@ -364,23 +386,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3025042</guid>
 
 					<description><![CDATA[On Friday morning, Elon Musk declared, “We have improved @Grok significantly. You should notice a difference when you ask Grok questions.”]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>At least 36 new tech unicorns were minted in 2025 so far</title>
-		<link>https://techcrunch.com/2025/07/06/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/</link>
-		
-		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
-		<pubDate>Sun, 06 Jul 2025 17:47:34 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[fundraising]]></category>
-		<category><![CDATA[unicorns]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2968704</guid>
-
-					<description><![CDATA[With AI igniting an investor frenzy, every month, more startups obtain unicorn status. Using data from Crunchbase and PitchBook, TechCrunch tracked down the VC-backed startups that became unicorns so far this year. While most are AI-related, a surprising number are focused in other industries like satellite space companies Loft Orbital and blockchain-based trading site Kalshi.&#160;&#160; [&#8230;]]]></description>
 		
 		
 		
