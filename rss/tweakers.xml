@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 07 Jul 2025 16:31:01 +0200</pubDate>
-        <lastBuildDate>Mon, 07 Jul 2025 16:31:01 +0200</lastBuildDate>
+        <pubDate>Tue, 08 Jul 2025 09:31:12 +0200</pubDate>
+        <lastBuildDate>Tue, 08 Jul 2025 09:31:12 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,6 +18,146 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
+            <title>Epic Games laat rechtszaak tegen Samsung vallen</title>
+            <link>https://tweakers.net/nieuws/236960/epic-games-laat-rechtszaak-tegen-samsung-vallen.html</link>
+            <description>Epic Games heeft zijn rechtszaak tegen Samsung geschikt. Het gamebedrijf klaagde Samsung vorig jaar aan omdat het bedrijf externe appwinkels zou dwarsbomen op zijn smartphones, samen met Google. Epic zegt niet wat de voorwaarden van de schikking zijn.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/236960/epic-games-laat-rechtszaak-tegen-samsung-vallen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236960</guid>
+            <pubDate>Tue, 08 Jul 2025 08:48:06 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - OBS Studio 30.1.0</title>
+            <link>https://tweakers.net/downloads/73234/obs-studio-3010.html</link>
+            <description>Versie 31.1.0 van OBS Studio is uitgekomen. Open Broadcaster Software Studio is opensource- en crossplatformsoftware bedoeld voor het opnemen en streamen van videobeelden van een of meer bronnen, zoals een webcam, microfoon, mediabestanden en de desktop. De software is beschikbaar voor Windows, Linux en macOS. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: New Features</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73234/obs-studio-3010.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73234</guid>
+            <pubDate>Tue, 08 Jul 2025 08:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - GMKtec EVO-X2 met AMD Ryzen AI Max+ 395 - Mini-pc met megahardware</title>
+            <link>https://tweakers.net/reviews/13438/gmktec-evo-x2-met-amd-ryzen-ai-max+-395-mini-pc-met-megahardware.html</link>
+            <description>De GMKtec EVO-X2 heeft een AMD Ryzen AI Max+ 395-processor met zestien cpu-cores, een mega-igpu en 128GB ram. Hoe presteert deze mini-pc in games en AI?</description>
+            <author>Tomas Hochstenbach</author>
+            <category>Review / Computers / Pc&#039;s</category>
+            <comments>https://tweakers.net/reviews/13438/gmktec-evo-x2-met-amd-ryzen-ai-max+-395-mini-pc-met-megahardware.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13438</guid>
+            <pubDate>Tue, 08 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Private Internet Access 3.6.2</title>
+            <link>https://tweakers.net/downloads/73232/private-internet-access-362.html</link>
+            <description>Versie 3.6.2 van Private Internet Access is verschenen. PIA is een betaalde vpn-dienst met clients voor Windows, macOS, Linux, Android en iOS, en een browserextensie voor Chrome, Firefox en Opera. PIA heeft een groot aantal servers in 91 landen, waaronder in Nederland. Afhankelijk van het gekozen abonnement kost de dienst tussen de 1,75 en 11,69 euro per maand en voor aanschaf kan het dertig dagen gratis worden getest. De changelog voor deze uitgave kan hieronder worden gevonden. Changes in version 3.6.2</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73232/private-internet-access-362.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73232</guid>
+            <pubDate>Mon, 07 Jul 2025 22:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - DBeaver 25.1.2</title>
+            <link>https://tweakers.net/downloads/73224/dbeaver-2512.html</link>
+            <description>Versie 25.1.2 van DBeaver is uitgekomen. Met dit programma kunnen databases worden beheerd. Het kan onder andere query&#039;s uitvoeren en data tonen, filteren en bewerken. Er is ondersteuning aanwezig voor de bekende databases, zoals MySQL, Oracle, DB2, SQL Server, PostgreSQL, Firebird en SQLite. Het is verkrijgbaar in een opensource CE-uitvoering en drie verschillende commerciële uitvoeringen. Deze voegen onder meer ondersteuning voor verschillende nosql-databases toe, zoals MongoDB, Apache Cassandra en Apache Hive, en bevatten verder extra plug-ins en JDBC-drivers. De changelog voor deze uitgave ziet er als volgt uit: Changes in DBeaver version 25.1.2:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73224/dbeaver-2512.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73224</guid>
+            <pubDate>Mon, 07 Jul 2025 21:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Apple maakt menu&#039;s minder transparant in derde bèta iOS 26</title>
+            <link>https://tweakers.net/nieuws/236958/apple-maakt-menus-minder-transparant-in-derde-beta-ios-26.html</link>
+            <description>Apple heeft menu&#039;s minder transparant gemaakt in de derde bèta van iOS 26. Waar eerst bij alle menu&#039;s de achtergrond te zien was, is er nu alleen een kleurwaas zichtbaar. Dat moet menu&#039;s beter leesbaar maken.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/236958/apple-maakt-menus-minder-transparant-in-derde-beta-ios-26.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236958</guid>
+            <pubDate>Mon, 07 Jul 2025 21:08:45 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - eM Client 10.3.2545.0</title>
+            <link>https://tweakers.net/downloads/73230/em-client-10325450.html</link>
+            <description>Versie 10.3.2545 van eM Client is uitgebracht. Deze e-mailclient is beschikbaar voor Windows, macOS, Android en iOS. Het programma heeft ook een kalender, er kunnen taken en notities worden bijgehouden en er kan worden gechat via Google Talk, Jabber en via het XMPP-protocol. Het programma is gratis voor privégebruik, maar voor extra mogelijkheden of bij gebruik van meer dan twee accounts wordt wel een vergoeding gevraagd. Uitgebreide informatie over versie 10 is op deze pagina te vinden; de changelog voor deze uitgave kan hieronder worden gevonden. Changes in eM Client version 10.3.2545.0</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73230/em-client-10325450.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73230</guid>
+            <pubDate>Mon, 07 Jul 2025 20:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Oprichter Twitter toont chatdienst die berichten stuurt via bluetoothmesh</title>
+            <link>https://tweakers.net/nieuws/236954/oprichter-twitter-toont-chatdienst-die-berichten-stuurt-via-bluetoothmesh.html</link>
+            <description>Een van de oprichters van Twitter, Jack Dorsey, heeft bitchat online gezet. Het is een iOS-app die het sturen van berichten mogelijk maakt met versleuteling en zonder internet. Het sturen van berichten gaat via een meshnetwerk van bluetoothapparaten.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Computers / Software</category>
+            <comments>https://tweakers.net/nieuws/236954/oprichter-twitter-toont-chatdienst-die-berichten-stuurt-via-bluetoothmesh.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236954</guid>
+            <pubDate>Mon, 07 Jul 2025 20:23:45 +0200</pubDate>
+        </item>
+        <item>
+            <title>Windows-versie 7-Zip heeft ondersteuning voor meer dan 64 threads</title>
+            <link>https://tweakers.net/nieuws/236952/windows-versie-7-zip-heeft-ondersteuning-voor-meer-dan-64-threads.html</link>
+            <description>De Windows-versie van in- en uitpakprogramma 7-Zip heeft ondersteuning gekregen voor meer dan 64 CPU-threads. Alleen de duurste processors kunnen daar gebruik van maken.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Computers / Systeem- en netwerkutility&#039;s</category>
+            <comments>https://tweakers.net/nieuws/236952/windows-versie-7-zip-heeft-ondersteuning-voor-meer-dan-64-threads.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236952</guid>
+            <pubDate>Mon, 07 Jul 2025 19:46:36 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - UCheck 6.3.2</title>
+            <link>https://tweakers.net/downloads/73228/ucheck-632.html</link>
+            <description>Adlice Software heeft versie 6.3.2 van UCheck uitgebracht. Met dit programma kan de software op de computer up-to-date worden gehouden. Met de gratis uitvoering moet een scan handmatig uitgevoerd worden. De betaalde uitvoering kan dat periodiek automatisch doen en deze kan de ondersteunde programma&#039;s ook installeren als die nog niet op de computer aanwezig zijn. Het programma zelf heeft ondersteuning voor 265 programma&#039;s en via zogenaamde communityupdates zijn dat er vele duizenden meer. Sinds versie 6.3.0 zijn de volgende veranderingen en verbeteringen doorgevoerd: Changes in version 6.3.2:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73228/ucheck-632.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73228</guid>
+            <pubDate>Mon, 07 Jul 2025 19:39:21 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gerucht: Honor werkt aan telefoon van 7,7mm dik met 8300mAh-accu</title>
+            <link>https://tweakers.net/nieuws/236950/gerucht-honor-werkt-aan-telefoon-van-7-komma-7mm-dik-met-8300mah-accu.html</link>
+            <description>Honor werkt aan de X70, een telefoon bedoeld voor de Chinese markt met een behuizing van 7,7mm dik en een accu van 8300mAh. Telefoons met die dikte hebben tot nu toe een accu van maximaal 6000mAh en meestal minder.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/236950/gerucht-honor-werkt-aan-telefoon-van-7-komma-7mm-dik-met-8300mah-accu.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236950</guid>
+            <pubDate>Mon, 07 Jul 2025 19:29:08 +0200</pubDate>
+        </item>
+        <item>
+            <title>Cryptoaanbieders moeten vanaf 2026 transacties doorgeven aan Belastingdienst</title>
+            <link>https://tweakers.net/nieuws/236948/cryptoaanbieders-moeten-vanaf-2026-transacties-doorgeven-aan-belastingdienst.html</link>
+            <description>Aanbieders van cryptovaluta in Nederland moeten vanaf 1 januari volgend jaar informatie over transacties doorgeven aan de Belastingdienst. De Nederlandse wet voor de implementatie van Europese regels ligt bij de Tweede Kamer.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/236948/cryptoaanbieders-moeten-vanaf-2026-transacties-doorgeven-aan-belastingdienst.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236948</guid>
+            <pubDate>Mon, 07 Jul 2025 18:40:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Ontwikkelaar maakt manier om locatie ISS op te vragen met DNS</title>
+            <link>https://tweakers.net/geek/236946/ontwikkelaar-maakt-manier-om-locatie-iss-op-te-vragen-met-dns.html</link>
+            <description>Een Britse ontwikkelaar heeft een manier gemaakt om de locatie van het International Space Station op te vragen via een DNS-verzoek. Er zit een functie in DNS om de locatie van een server op te vragen en die gebruikt de ontwikkelaar om de locatie van het ISS door te geven.</description>
+            <author>Arnoud Wokke</author>
+            <category>.Geek / IT Pro / Webdevelopment</category>
+            <comments>https://tweakers.net/geek/236946/ontwikkelaar-maakt-manier-om-locatie-iss-op-te-vragen-met-dns.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/236946</guid>
+            <pubDate>Mon, 07 Jul 2025 17:41:34 +0200</pubDate>
+        </item>
+        <item>
+            <title>Vodafone heeft storing waardoor klanten geen mobiel internet hebben</title>
+            <link>https://tweakers.net/nieuws/236940/vodafone-heeft-storing-waardoor-klanten-geen-mobiel-internet-hebben.html</link>
+            <description>Vodafone heeft last van een storing, waardoor klanten mogelijk geen mobiel internet hebben. De storing lijkt niet alle klanten te treffen.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
+            <comments>https://tweakers.net/nieuws/236940/vodafone-heeft-storing-waardoor-klanten-geen-mobiel-internet-hebben.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236940</guid>
+            <pubDate>Mon, 07 Jul 2025 17:10:20 +0200</pubDate>
+        </item>
+        <item>
             <title>Gerucht: TikTok krijgt aparte app voor de VS vanwege wettelijk verbod</title>
             <link>https://tweakers.net/nieuws/236930/gerucht-tiktok-krijgt-aparte-app-voor-de-vs-vanwege-wettelijk-verbod.html</link>
             <description>ByteDance lijkt te werken aan een aparte, tweede TikTok-app voor de VS die op 5 september moet verschijnen. Die moet in de Verenigde Staten de plaats innemen van de huidige TikTok-app, die dan volgend jaar zou stoppen met werken.</description>
@@ -28,12 +168,12 @@
             <pubDate>Mon, 07 Jul 2025 16:27:43 +0200</pubDate>
         </item>
         <item>
-            <title>Europese antitrustklacht tegen Google over AI Overviews</title>
-            <link>https://tweakers.net/nieuws/236926/europese-antitrustklacht-tegen-google-over-ai-overviews.html</link>
+            <title>Europese uitgevers dienen antitrustklacht tegen Google in over AI Overviews</title>
+            <link>https://tweakers.net/nieuws/236926/europese-uitgevers-dienen-antitrustklacht-tegen-google-in-over-ai-overviews.html</link>
             <description>Europese uitgevers hebben een antitrustklacht ingediend bij de Europese Commissie tegen Google vanwege de AI-gegenereerde Overviews die het bovenaan zoekresultaten plaatst. De groep uitgevers vraagt hierbij om tijdelijke maatregelen voor die overzichten.</description>
             <author>Jasper Bakker</author>
             <category>Nieuws / IT Pro / Economie en maatschappij</category>
-            <comments>https://tweakers.net/nieuws/236926/europese-antitrustklacht-tegen-google-over-ai-overviews.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/236926/europese-uitgevers-dienen-antitrustklacht-tegen-google-in-over-ai-overviews.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236926</guid>
             <pubDate>Mon, 07 Jul 2025 15:19:00 +0200</pubDate>
         </item>
@@ -276,146 +416,6 @@
             <comments>https://tweakers.net/nieuws/236900/apps-van-vlaamse-zenders-verplicht-op-nieuwe-smart-tvs-voorgeinstalleerd.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236900</guid>
             <pubDate>Fri, 04 Jul 2025 20:04:33 +0200</pubDate>
-        </item>
-        <item>
-            <title>Capcom kondigt mobiele strategiegame Resident Evil Survival Unit aan</title>
-            <link>https://tweakers.net/nieuws/236898/capcom-kondigt-mobiele-strategiegame-resident-evil-survival-unit-aan.html</link>
-            <description>Capcom heeft de game Resident Evil Survival Unit aangekondigd. De game wordt samen met Aniplex en Joycity ontwikkeld voor Android en iOS. Het is nog niet bekend wanneer de game uitkomt. De game zal bij release in Azië, Noord-Amerika en Europa verkrijgbaar zijn.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/236898/capcom-kondigt-mobiele-strategiegame-resident-evil-survival-unit-aan.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236898</guid>
-            <pubDate>Fri, 04 Jul 2025 19:09:02 +0200</pubDate>
-        </item>
-        <item>
-            <title>Europese privacytoezichthouders maken template voor datalekmeldingen</title>
-            <link>https://tweakers.net/nieuws/236894/europese-privacytoezichthouders-maken-template-voor-datalekmeldingen.html</link>
-            <description>De European Data Protection Board, de overkoepelende organisatie van Europese toezichthouders, introduceert een template voor meldingen van datalekken. Daardoor moet het voor organisaties makkelijker worden om te melden dat zij slachtoffer zijn van een datalek.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/236894/europese-privacytoezichthouders-maken-template-voor-datalekmeldingen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236894</guid>
-            <pubDate>Fri, 04 Jul 2025 18:33:46 +0200</pubDate>
-        </item>
-        <item>
-            <title>Topman Bitvavo treedt af na onthullingen over schending antiwitwasregels</title>
-            <link>https://tweakers.net/nieuws/236896/topman-bitvavo-treedt-af-na-onthullingen-over-schending-antiwitwasregels.html</link>
-            <description>Mark Nuvelstijn treedt per direct af als topman van het Nederlandse cryptoplatform Bitvavo. Hij keert ook niet terug bij het bedrijf, zegt hij in een persverklaring. Nuvelstijn kwam in opspraak nadat het Financieel Dagblad onthulde dat hij mogelijk antiwitwasregels had overtreden.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/236896/topman-bitvavo-treedt-af-na-onthullingen-over-schending-antiwitwasregels.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236896</guid>
-            <pubDate>Fri, 04 Jul 2025 17:53:15 +0200</pubDate>
-        </item>
-        <item>
-            <title>Belastingdienst moet verder onderzoek doen om aan AVG te kunnen voldoen</title>
-            <link>https://tweakers.net/nieuws/236892/belastingdienst-moet-verder-onderzoek-doen-om-aan-avg-te-kunnen-voldoen.html</link>
-            <description>De Nederlandse Belastingdienst moet verder onderzoek doen voordat alle risico&#039;s op het schenden van de Algemene Verordening Gegevensbescherming in beeld zijn. Het Ministerie van Financiën weet nog niet wanneer dit proces voltooid is.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/236892/belastingdienst-moet-verder-onderzoek-doen-om-aan-avg-te-kunnen-voldoen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236892</guid>
-            <pubDate>Fri, 04 Jul 2025 14:54:04 +0200</pubDate>
-        </item>
-        <item>
-            <title>IKEA brengt bèta uit voor smarthomehub als Matter-controller</title>
-            <link>https://tweakers.net/nieuws/236890/ikea-brengt-beta-uit-voor-smarthomehub-als-matter-controller.html</link>
-            <description>IKEA brengt een update uit voor zijn Dirigera-platform, waardoor de smarthomehub voortaan als Matter-controller kan functioneren. Eerder konden gebruikers IKEA-hardware al via een Bridge-connectie aan hun smarthomesysteem toevoegen.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Beeld en geluid / Smarthome</category>
-            <comments>https://tweakers.net/nieuws/236890/ikea-brengt-beta-uit-voor-smarthomehub-als-matter-controller.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236890</guid>
-            <pubDate>Fri, 04 Jul 2025 13:50:30 +0200</pubDate>
-        </item>
-        <item>
-            <title>Studio van DOOM-maker John Romero stopt ontwikkeling shooter na Xbox-ontslagen</title>
-            <link>https://tweakers.net/nieuws/236888/studio-van-doom-maker-john-romero-stopt-ontwikkeling-shooter-na-xbox-ontslagen.html</link>
-            <description>De studio van DOOM-bedenker John Romero stopt met de ontwikkeling van de shooter die ongeveer drie jaar geleden werd aangekondigd. Het is niet duidelijk of de studio, Romero Games, de ontwikkeling van de game nog op een andere manier kan voortzetten.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/236888/studio-van-doom-maker-john-romero-stopt-ontwikkeling-shooter-na-xbox-ontslagen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236888</guid>
-            <pubDate>Fri, 04 Jul 2025 12:19:50 +0200</pubDate>
-        </item>
-        <item>
-            <title>VS stopt handelsbeperking op chipsoftware voor China in ruil voor grondstoffen</title>
-            <link>https://tweakers.net/nieuws/236886/vs-stopt-handelsbeperking-op-chipsoftware-voor-china-in-ruil-voor-grondstoffen.html</link>
-            <description>De overheid van de Verenigde Staten draait de exportbeperking op chipontwerpsoftware naar China terug. De VS stopt met de handelsbeperking in ruil voor versoepeling van regels rond de import van Chinese grondstoffen, zoals mineralen.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/236886/vs-stopt-handelsbeperking-op-chipsoftware-voor-china-in-ruil-voor-grondstoffen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236886</guid>
-            <pubDate>Fri, 04 Jul 2025 11:12:31 +0200</pubDate>
-        </item>
-        <item>
-            <title>Animestreamingdienst Crunchyroll onderzoekt fouten in AI-vertaling ondertiteling</title>
-            <link>https://tweakers.net/nieuws/236884/animestreamingdienst-crunchyroll-onderzoekt-fouten-in-ai-vertaling-ondertiteling.html</link>
-            <description>Sony&#039;s animestreamingdienst Crunchyroll onderzoekt incidenten waarbij AI-chatbots als ChatGPT werden gebruikt om content te vertalen. Op sociale media laten abonnees weten dat de kwaliteit van de ondertiteling van series plotseling sterk is achteruitgegaan.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/236884/animestreamingdienst-crunchyroll-onderzoekt-fouten-in-ai-vertaling-ondertiteling.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236884</guid>
-            <pubDate>Fri, 04 Jul 2025 10:32:02 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - AnyDesk 9.5.7</title>
-            <link>https://tweakers.net/downloads/73214/anydesk-957.html</link>
-            <description>Versie 9.5.7 van AnyDesk voor Windows is uitgekomen. Met dit programma, dat door oud-medewerkers van TeamViewer wordt ontwikkeld, kan een andere computer worden overgenomen om deze op afstand te beheren. Het programma is beschikbaar voor Windows, Linux, FreeBSD, macOS, Android en iOS, al zit niet elk platform op hetzelfde versienummer. Het is gratis voor thuisgebruik; voor commercieel gebruik beginnen de prijzen bij 23 euro per maand. Het maakt dan verder niet uit hoeveel updates er tussentijds uitkomen. De changelog sinds versie 9.5.6 voor Windows ziet er als volgt uit:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73214/anydesk-957.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73214</guid>
-            <pubDate>Fri, 04 Jul 2025 10:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Australië draagt zoekmachines op om leeftijd van gebruiker te verifiëren</title>
-            <link>https://tweakers.net/nieuws/236882/australie-draagt-zoekmachines-op-om-leeftijd-van-gebruiker-te-verifieren.html</link>
-            <description>De Australische overheid draagt zoekmachines zoals Google en Bing op om de leeftijd van gebruikers te verifiëren. Jongeren en gebruikers zonder leeftijdsverificatie moeten daarbij beschermd worden tegen &#039;content die ongepast is&#039; voor bepaalde leeftijden, zoals pornografie.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/236882/australie-draagt-zoekmachines-op-om-leeftijd-van-gebruiker-te-verifieren.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236882</guid>
-            <pubDate>Fri, 04 Jul 2025 09:32:18 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - WinUAE 6.0.0</title>
-            <link>https://tweakers.net/downloads/73212/winuae-600.html</link>
-            <description>Versie 6.0.0 van WinUAE is uitgekomen. Deze Windows-port van de UAE Amiga-emulator is in staat om een Commodore Amiga perfect te emuleren. Alle modellen, vanaf de allereerste Amiga 1000 tot en met de Amiga 4000, worden ondersteund. Hou er wel rekening mee dat WinUAE wordt geleverd zonder kickstart, bij wijze van spreken het bios/de firmware van een Amiga, of andere software. Meer informatie kan op het supportforum worden gevonden. WinUAE draait op Windows XP en hoger, en de download is slechts 10MB groot. Voor een kickstart en programma&#039;s is Amiga Forever een mogelijke oplossing, met prijzen vanaf 10 euro. De changelog voor deze uitgave kan hieronder worden gevonden. Custom chipset rewrite</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73212/winuae-600.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73212</guid>
-            <pubDate>Fri, 04 Jul 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Game Mania gaat ergens in tweede helft juli verder als webshop</title>
-            <link>https://tweakers.net/nieuws/236880/game-mania-gaat-ergens-in-tweede-helft-juli-verder-als-webshop.html</link>
-            <description>Game Mania gaat ergens in de tweede helft van juli verder als webshop. In eerste instantie werd nog gesproken over het tweede kwartaal van 2025, maar dat is om onbekende redenen niet gehaald.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/236880/game-mania-gaat-ergens-in-tweede-helft-juli-verder-als-webshop.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236880</guid>
-            <pubDate>Fri, 04 Jul 2025 08:32:58 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - CPU-Z 2.16</title>
-            <link>https://tweakers.net/downloads/73210/cpu-z-216.html</link>
-            <description>CPUID heeft versie 2.16 van CPU-Z uitgebracht voor Windows. Dit kleine programma geeft uitgebreide informatie over de processor, het moederbord en het geheugen in de computer. Daarnaast kan het programma informatie over de grafische kaart in de computer geven, zij het beperkt. Hiervoor kan beter GPU-Z worden gebruikt, dat ondanks een vergelijkbare naam niet van dezelfde makers is. De download bevat aparte versies voor 32bit- en 64bit-omgevingen. Ook zijn er downloads beschikbaar met een thema van een specifieke fabrikant, zoals ASUS, MSI en Asrock. In deze uitgave is herkenning voor de volgende hardware toegevoegd: Changes in CPU-Z version 2.16:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73210/cpu-z-216.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73210</guid>
-            <pubDate>Fri, 04 Jul 2025 07:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Round-up - 20 goedkope AMD B650/B850-moederborden - Een oudere chipset is de betere keuze</title>
-            <link>https://tweakers.net/reviews/13412/20-goedkope-amd-b650-b850-moederborden-een-oudere-chipset-is-de-betere-keuze.html</link>
-            <description>Stel je een betaalbaar AMD Ryzen-systeem met Socket AM5 samen, kies je dan een in prijs gedaald B650-moederbord of een nieuw model met de B850-chipset?</description>
-            <author>Tomas Hochstenbach</author>
-            <category>Round-up / Computers / Moederborden</category>
-            <comments>https://tweakers.net/reviews/13412/20-goedkope-amd-b650-b850-moederborden-een-oudere-chipset-is-de-betere-keuze.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13412</guid>
-            <pubDate>Fri, 04 Jul 2025 06:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
