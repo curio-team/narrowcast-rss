@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 08 Jul 2025 15:41:00 +0200</pubDate>
-        <lastBuildDate>Tue, 08 Jul 2025 15:41:00 +0200</lastBuildDate>
+        <pubDate>Tue, 08 Jul 2025 16:36:01 +0200</pubDate>
+        <lastBuildDate>Tue, 08 Jul 2025 16:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Homebrew 4.5.9</title>
+            <link>https://tweakers.net/downloads/73242/homebrew-459.html</link>
+            <description>Homebrew is een pakketbeheerder die wordt bijgehouden door een groep vrijwilligers, waarbij vanuit verschillende &#039;taps&#039; (pakketbronnen) &#039;formula&#039; (softwarepakketten) kunnen worden geïnstalleerd via de terminal. Homebrew begon als een project om een tot dan toe ontbrekende pakketbeheerder aan te bieden op macOS, maar Homebrew biedt al langer ook ondersteuning voor Linux. Inmiddels zijn de Homebrew-repository&#039;s op GitHub uitgegroeid tot de grootste qua aantallen bijdragers. Via zogeheten &#039;casks&#039; is het verder mogelijk om apps en lettertypen te installeren en beheren op een macOS-installatie. Versie 4.5.9 is uitgekomen en de changelog daarvan ziet er als volgt uit: Homebrew 4.5.9:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73242/homebrew-459.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73242</guid>
+            <pubDate>Tue, 08 Jul 2025 16:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Apple gaat weer in beroep tegen verbod op bloedzuurstofmeter Watch</title>
+            <link>https://tweakers.net/nieuws/236980/apple-gaat-weer-in-beroep-tegen-verbod-op-bloedzuurstofmeter-watch.html</link>
+            <description>Apple gaat in beroep tegen het verbod op de import van Watch-horloges met bloedzuurstofmeterfunctie in de Verenigde Staten. Het bedrijf mocht deze functie niet meer aanbieden omdat de technologie gebaseerd was op een patent van het bedrijf Masimo.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Tablets en telefoons / Smartwatches</category>
+            <comments>https://tweakers.net/nieuws/236980/apple-gaat-weer-in-beroep-tegen-verbod-op-bloedzuurstofmeter-watch.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236980</guid>
+            <pubDate>Tue, 08 Jul 2025 16:03:49 +0200</pubDate>
+        </item>
         <item>
             <title>Samsung neemt Xealth over voor verder verbinden welzijnstech met gezondheidszorg</title>
             <link>https://tweakers.net/nieuws/236978/samsung-neemt-xealth-over-voor-verder-verbinden-welzijnstech-met-gezondheidszorg.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/geek/236920/netflix-animeserie-cyberpunk-edgerunners-krijgt-tweede-seizoen.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/geek/236920</guid>
             <pubDate>Sun, 06 Jul 2025 12:49:23 +0200</pubDate>
-        </item>
-        <item>
-            <title>Bloomberg: VS wil export van AI-accelerators naar Maleisië en Thailand beperken</title>
-            <link>https://tweakers.net/nieuws/236918/bloomberg-vs-wil-export-van-ai-accelerators-naar-maleisie-en-thailand-beperken.html</link>
-            <description>De Verenigde Staten zijn van plan om beperkingen in te stellen voor de export van geavanceerde AI-chips naar Maleisië en Thailand, meldt Bloomberg. Deze twee landen worden volgens de VS gebruikt om verboden chips naar China door te sluizen.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/236918/bloomberg-vs-wil-export-van-ai-accelerators-naar-maleisie-en-thailand-beperken.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236918</guid>
-            <pubDate>Sun, 06 Jul 2025 12:24:44 +0200</pubDate>
-        </item>
-        <item>
-            <title>Activision haalt Call of Duty: WWII op pc offline, mogelijk vanwege rce-exploit</title>
-            <link>https://tweakers.net/nieuws/236916/activision-haalt-call-of-duty-wwii-op-pc-offline-mogelijk-vanwege-rce-exploit.html</link>
-            <description>Activision heeft de Microsoft Store-versie van Call of Duty: WWII tijdelijk offline gehaald. Een reden wordt niet genoemd. De afgelopen dagen zijn er wel veel meldingen verschenen van gebruikers die beweren dat er een remote code execution-kwetsbaarheid wordt misbruikt.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/236916/activision-haalt-call-of-duty-wwii-op-pc-offline-mogelijk-vanwege-rce-exploit.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236916</guid>
-            <pubDate>Sun, 06 Jul 2025 10:51:24 +0200</pubDate>
         </item>
     </channel>
 </rss>
