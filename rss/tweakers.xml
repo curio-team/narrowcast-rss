@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 08 Jul 2025 12:36:02 +0200</pubDate>
-        <lastBuildDate>Tue, 08 Jul 2025 12:36:02 +0200</lastBuildDate>
+        <pubDate>Tue, 08 Jul 2025 13:31:02 +0200</pubDate>
+        <lastBuildDate>Tue, 08 Jul 2025 13:31:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>OnePlus komt met 43mm-variant van Watch 3 en nieuwe Buds 4-oordoppen</title>
+            <link>https://tweakers.net/nieuws/236976/oneplus-komt-met-43mm-variant-van-watch-3-en-nieuwe-buds-4-oordoppen.html</link>
+            <description>OnePlus introduceert een compactere versie van de Watch 3-smartwatch. Deze krijgt een 43mm-behuizing, waar de Watch 3 eerder alleen als 46mm-variant beschikbaar was. De fabrikant komt daarnaast met nieuwe Buds 4-oordoppen.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Tablets en telefoons / Smartwatches</category>
+            <comments>https://tweakers.net/nieuws/236976/oneplus-komt-met-43mm-variant-van-watch-3-en-nieuwe-buds-4-oordoppen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236976</guid>
+            <pubDate>Tue, 08 Jul 2025 13:26:47 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Certify SSL Manager 6.1.7</title>
             <link>https://tweakers.net/downloads/73236/certify-ssl-manager-617.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/downloads/73218/7-zip-2500.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73218</guid>
             <pubDate>Sat, 05 Jul 2025 21:18:31 +0200</pubDate>
-        </item>
-        <item>
-            <title>Firmware-update - SmartEVSE 3.8.5</title>
-            <link>https://tweakers.net/downloads/73216/smartevse-385.html</link>
-            <description>Als je zelf een laadpaal voor de elektrische auto in elkaar wilt knutselen, kun je meestal een hoop geld besparen. In dat geval heb je onder meer een controller nodig, bijvoorbeeld de opensource EVSE van fabrikant Stegen. Een randapparaat voor de SmartEVSE-controller is de Sensorbox: dit is een kastje dat de P1-telegrammen van je elektriciteitsmeter vertaalt naar modbusberichten, op basis waarvan de SmartEVSE zijn laadvermogen regelt. Voor diegenen die geen P1-aansluiting op hun elektriciteitsmeter hebben, zijn er ook aansluitingen voor CT-klemmen aanwezig op de Sensorbox. Door een goede samenwerking tussen community en fabrikant worden de communityversies na verloop van tijd overgenomen door de fabrikant, als de stabiliteit in de community is bewezen. Sinds versie 3.8.2zijn de volgende veranderingen en verbeteringen aangebracht: Release v3.8.5</description>
-            <author>Bart van Klaveren</author>
-            <category>Firmware</category>
-            <comments>https://tweakers.net/downloads/73216/smartevse-385.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73216</guid>
-            <pubDate>Sat, 05 Jul 2025 21:16:55 +0200</pubDate>
         </item>
     </channel>
 </rss>
