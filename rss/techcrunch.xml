@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 08 Jul 2025 12:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 08 Jul 2025 13:38:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,20 +28,59 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nothing Phone (3) review</title>
+		<link>https://techcrunch.com/2025/07/08/nothing-phone-3-review/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Tue, 08 Jul 2025 13:38:27 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[hardware]]></category>
+		<category><![CDATA[smartphone]]></category>
+		<category><![CDATA[nothing]]></category>
+		<category><![CDATA[Carl Pei]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3025047</guid>
+
+					<description><![CDATA[Carl Pei led electronics manufacturer OnePlus from being a scrappy brand for tech enthusiasts offering affordable phones to one that produces multiple lines of devices, including flagship phones that challenge Samsung and Apple. He is running a similar playbook with Nothing, a five-year-old, venture-backed hardware startup that just launched its most ambitious device, the Phone [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Why this LA-based VC firm was an early investor in Slate Auto</title>
+		<link>https://techcrunch.com/2025/07/08/why-this-los-angeles-vc-firm-was-an-early-investor-in-slate-auto/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Tue, 08 Jul 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Slauson & Co]]></category>
+		<category><![CDATA[slate auto]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3025307</guid>
+
+					<description><![CDATA[Slate Auto, which came out of stealth mode earlier this year with a surprising – and surprisingly affordable – customizable electric truck, has raised $700 million to date. But long before the EV startup broke cover, it quietly raised a Series A round of more than $100 million in 2023. And while Jeff Bezos was [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Frontier is helping Arbor build a “vegetarian rocket engine” to power data centers</title>
 		<link>https://techcrunch.com/2025/07/08/frontier-is-helping-arbor-build-a-vegetarian-rocket-engine-to-power-data-centers/</link>
 		
 		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
 		<pubDate>Tue, 08 Jul 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Climate]]></category>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Arbor Energy]]></category>
 		<category><![CDATA[biomass]]></category>
-		<category><![CDATA[data centers]]></category>
-		<category><![CDATA[frontier]]></category>
 		<category><![CDATA[carbon capture]]></category>
 		<category><![CDATA[carbon capture and storage]]></category>
 		<category><![CDATA[carbon removal]]></category>
-		<category><![CDATA[Arbor Energy]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[frontier]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3025303</guid>
 
 					<description><![CDATA[Arbor Energy's carbon-removing power plant is inspired by SpaceX's rocket engines.]]></description>
@@ -107,11 +146,11 @@
 		<pubDate>Mon, 07 Jul 2025 23:00:00 +0000</pubDate>
 				<category><![CDATA[Climate]]></category>
 		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[methane]]></category>
-		<category><![CDATA[Hydrogen]]></category>
 		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[Tulum Energy]]></category>
+		<category><![CDATA[Hydrogen]]></category>
+		<category><![CDATA[methane]]></category>
 		<category><![CDATA[TDK Ventures]]></category>
+		<category><![CDATA[Tulum Energy]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3025224</guid>
 
 					<description><![CDATA[Results of a 20-year-old curiosity now form the basis of Tulum, a startup that has attracted significant investor attention.]]></description>
@@ -348,44 +387,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3025053</guid>
 
 					<description><![CDATA[The outage is reportedly affecting software licensing, preventing Ingram Micro's customers from using or provisioning some products that rely on Ingram's systems. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple appeals EU&#8217;s €500M fine over App Store payment restraints</title>
-		<link>https://techcrunch.com/2025/07/07/apple-appeals-eus-e500m-fine-over-app-store-payment-restraints/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Mon, 07 Jul 2025 12:47:57 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[european commission]]></category>
-		<category><![CDATA[Digital Markets Act]]></category>
-		<category><![CDATA[Apple App Store fee]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3025052</guid>
-
-					<description><![CDATA[The European Commission says that Apple failed to comply with the Digital Markets Act rules to allow developers to accept payments for their apps outside Apple's ecosystem.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>‘Improved’ Grok criticizes Democrats and Hollywood’s ‘Jewish executives’</title>
-		<link>https://techcrunch.com/2025/07/06/improved-grok-criticizes-democrats-and-hollywoods-jewish-executives/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sun, 06 Jul 2025 20:58:44 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Grok]]></category>
-		<category><![CDATA[X]]></category>
-		<category><![CDATA[xAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3025042</guid>
-
-					<description><![CDATA[On Friday morning, Elon Musk declared, “We have improved @Grok significantly. You should notice a difference when you ask Grok questions.”]]></description>
 		
 		
 		
