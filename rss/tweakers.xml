@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 08 Jul 2025 11:31:00 +0200</pubDate>
-        <lastBuildDate>Tue, 08 Jul 2025 11:31:00 +0200</lastBuildDate>
+        <pubDate>Tue, 08 Jul 2025 12:36:02 +0200</pubDate>
+        <lastBuildDate>Tue, 08 Jul 2025 12:36:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,46 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Certify SSL Manager 6.1.7</title>
+            <link>https://tweakers.net/downloads/73236/certify-ssl-manager-617.html</link>
+            <description>Let&#039;s Encrypt is een initiatief om zoveel mogelijk sites https-ondersteuning te geven door gratis ssl-certificaten te verstrekken en de implementatie makkelijker te maken. De meeste tools hiervoor zijn echter alleen beschikbaar vanaf de commandline. Certify SSL Manager biedt een grafische interface voor het aanvragen en beheren van deze certificaten op Windows Servers met IIS. De ontwikkelaars hebben versie 6.1.7 uitgebracht en sinds versie 6.1.0 zijn de volgende veranderingen en verbeteringen aangebracht:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73236/certify-ssl-manager-617.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73236</guid>
+            <pubDate>Tue, 08 Jul 2025 12:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Samsung verwacht dat kwartaalwinst ruim halveert vanwege exportrestricties VS</title>
+            <link>https://tweakers.net/nieuws/236970/samsung-verwacht-dat-kwartaalwinst-ruim-halveert-vanwege-exportrestricties-vs.html</link>
+            <description>Samsung verwacht dat zijn winst in het afgelopen kwartaal ruim gehalveerd is. Volgens het techbedrijf komt dat door de exportrestricties die de Verenigde Staten heeft ingesteld op AI-chips naar China, waarin de geheugenchips van Samsung ook worden gebruikt.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/236970/samsung-verwacht-dat-kwartaalwinst-ruim-halveert-vanwege-exportrestricties-vs.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236970</guid>
+            <pubDate>Tue, 08 Jul 2025 12:27:08 +0200</pubDate>
+        </item>
+        <item>
+            <title>OnePlus introduceert Nord 5- en Nord CE5-midrangesmartphones vanaf 349 euro</title>
+            <link>https://tweakers.net/nieuws/236974/oneplus-introduceert-nord-5-en-nord-ce5-midrangesmartphones-vanaf-349-euro.html</link>
+            <description>OnePlus komt met twee nieuwe midrangetelefoons in de Nord-serie. Het gaat om de Nord 5 en een goedkopere Nord CE5. De telefoons worden later deze maand geleverd. De Nord CE5 krijgt een adviesprijs vanaf 349 euro, terwijl de Nord 5 beschikbaar komt vanaf 449 euro.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/236974/oneplus-introduceert-nord-5-en-nord-ce5-midrangesmartphones-vanaf-349-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236974</guid>
+            <pubDate>Tue, 08 Jul 2025 11:47:08 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Actie - De nieuwe Zendure-batterij van Smart-Charged: Meld je aan voor het testpanel</title>
+            <link>https://tweakers.net/plan/4442/de-nieuwe-zendure-batterij-van-smart-charged-meld-je-aan-voor-het-testpanel.html</link>
+            <description>Zendure, opgericht in 2017, is een relatief jong energiebedrijf waarvan het hoofdkantoor in Palo Alto, Silicon Valley staat. Daarnaast heeft het grote vestigingen in de Greater Bay Area in China, plus kantoren in Japan en Duitsland. Zendure profileert zich bewust als internationaal opererende EnergyTech-start-up, waarbij R&amp;D en productieactiviteiten in de VS en China worden gecombineerd.</description>
+            <author>Tweakers Partners</author>
+            <category>.actie</category>
+            <comments>https://tweakers.net/plan/4442/de-nieuwe-zendure-batterij-van-smart-charged-meld-je-aan-voor-het-testpanel.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/plan/4442</guid>
+            <pubDate>Tue, 08 Jul 2025 11:41:00 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - PowerToys 0.92.1</title>
             <link>https://tweakers.net/downloads/73238/powertoys-0921.html</link>
@@ -376,46 +416,6 @@
             <comments>https://tweakers.net/downloads/73216/smartevse-385.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73216</guid>
             <pubDate>Sat, 05 Jul 2025 21:16:55 +0200</pubDate>
-        </item>
-        <item>
-            <title>Tweede Kamer kan met &#039;digitale toets&#039; beter vragen stellen over ict in wetgeving</title>
-            <link>https://tweakers.net/nieuws/236912/tweede-kamer-kan-met-digitale-toets-beter-vragen-stellen-over-ict-in-wetgeving.html</link>
-            <description>Tweede Kamerleden die werken aan wetsvoorstellen kunnen daar in de toekomst een &#039;digitale toets&#039; op loslaten. Dat is een reeks vragen waarmee beleidsmakers beter kunnen inschatten wat de mogelijke gevolgen zijn van hun wetten als die leunen op ict-systemen.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/236912/tweede-kamer-kan-met-digitale-toets-beter-vragen-stellen-over-ict-in-wetgeving.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236912</guid>
-            <pubDate>Sat, 05 Jul 2025 11:36:10 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft gaat PowerShell 2.0 verwijderen uit Windows</title>
-            <link>https://tweakers.net/nieuws/236910/microsoft-gaat-powershell-20-verwijderen-uit-windows.html</link>
-            <description>Microsoft stopt met PowerShell 2.0. De tool, die al jaren niet meer wordt ondersteund, verdwijnt uit Windows, hoewel dat in sommige applicaties nog wordt gebruikt. Het is nog niet duidelijk wanneer dat precies gebeurt.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Besturingssystemen</category>
-            <comments>https://tweakers.net/nieuws/236910/microsoft-gaat-powershell-20-verwijderen-uit-windows.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236910</guid>
-            <pubDate>Sat, 05 Jul 2025 11:05:36 +0200</pubDate>
-        </item>
-        <item>
-            <title>Politie mag meer openbare data verzamelen om ordeverstoringen tegen te gaan</title>
-            <link>https://tweakers.net/nieuws/236908/politie-mag-meer-openbare-data-verzamelen-om-ordeverstoringen-tegen-te-gaan.html</link>
-            <description>De Nederlandse politie mag binnenkort eenvoudiger en meer online informatie verzamelen uit openbare bronnen. Dat gebeurt om &#039;ernstige verstoringen van de openbare orde&#039; te voorkomen. Het demissionair kabinet komt daarvoor met een wetsvoorstel.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/236908/politie-mag-meer-openbare-data-verzamelen-om-ordeverstoringen-tegen-te-gaan.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236908</guid>
-            <pubDate>Sat, 05 Jul 2025 10:45:05 +0200</pubDate>
-        </item>
-        <item>
-            <title>Windows 11 heeft voor het eerst meer marktaandeel dan Windows 10</title>
-            <link>https://tweakers.net/nieuws/236906/windows-11-heeft-voor-het-eerst-meer-marktaandeel-dan-windows-10.html</link>
-            <description>Windows 11 heeft voor het eerst een groter marktaandeel dan Windows 10, blijkt uit cijfers van StatCounter. Windows 11 staat nu op 50 procent van alle pc&#039;s, terwijl voorganger Windows 10 op 46 procent van die apparaten draait. In oktober stopt de ondersteuning voor Windows 10.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Besturingssystemen</category>
-            <comments>https://tweakers.net/nieuws/236906/windows-11-heeft-voor-het-eerst-meer-marktaandeel-dan-windows-10.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236906</guid>
-            <pubDate>Sat, 05 Jul 2025 09:39:04 +0200</pubDate>
         </item>
     </channel>
 </rss>
