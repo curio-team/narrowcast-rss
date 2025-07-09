@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 08 Jul 2025 16:36:01 +0200</pubDate>
-        <lastBuildDate>Tue, 08 Jul 2025 16:36:01 +0200</lastBuildDate>
+        <pubDate>Wed, 09 Jul 2025 09:31:00 +0200</pubDate>
+        <lastBuildDate>Wed, 09 Jul 2025 09:31:00 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,126 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Grok post alleen nog afbeeldingen op X na antisemitische uitlatingen</title>
+            <link>https://tweakers.net/nieuws/236998/grok-post-alleen-nog-afbeeldingen-op-x-na-antisemitische-uitlatingen.html</link>
+            <description>Grok, de AI-chatbot van X, lijkt beperkt tot het posten van gegenereerde afbeeldingen. Onlangs had xAI een update doorgevoerd om Grok minder politiek correct te maken. Kort daarna postte de chatbot meerdere antisemitische teksten.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/236998/grok-post-alleen-nog-afbeeldingen-op-x-na-antisemitische-uitlatingen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236998</guid>
+            <pubDate>Wed, 09 Jul 2025 09:02:46 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - KiCad 9.0.3</title>
+            <link>https://tweakers.net/downloads/73248/kicad-903.html</link>
+            <description>De derde update voor KiCad versie 9.0.0 is uitgebracht. KiCad is een verzameling opensourceprogramma&#039;s waarmee elektronische schema&#039;s en printplaatlay-outs ontworpen kunnen worden. Verder kan het een bill of materials, Gerber-bestanden en een 3d-weergave van het pcb en de componenten maken. KiCad beschikt over een uitgebreide bibliotheek van componenten, inclusief het symbool, de footprint en 3d-modellen. Een Spice-simulator ontbreekt evenmin. Uitgebreide informatie over de vernieuwingen in versie 9.0 kan op deze pagina worden gevonden; de changelog voor versie 9.0.3 ziet er als volgt uit: General</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73248/kicad-903.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73248</guid>
+            <pubDate>Wed, 09 Jul 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Quicktest - Lexar NM990 - Snelle en goedkope PCIe 5.0-opslag</title>
+            <link>https://tweakers.net/reviews/13424/lexar-nm990-snelle-en-goedkope-pcie-50-opslag.html</link>
+            <description>Dde Lexar NM990-serie zet weer een nieuwe controller op het snel gegroeide lijstje Gen5-controllers. De NM990 heeft een Maxio Technology-controller, de MAP1806A.</description>
+            <author>Willem de Moor</author>
+            <category>Quicktest / Computers / SSD&#039;s</category>
+            <comments>https://tweakers.net/reviews/13424/lexar-nm990-snelle-en-goedkope-pcie-50-opslag.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13424</guid>
+            <pubDate>Wed, 09 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gmail krijgt menu voor opzeggen van abonnementen op nieuwsbrieven</title>
+            <link>https://tweakers.net/nieuws/236996/gmail-krijgt-menu-voor-opzeggen-van-abonnementen-op-nieuwsbrieven.html</link>
+            <description>Googles mailsoftware Gmail krijgt een menu voor het beheren van abonnementen op nieuwsbrieven. Zo moeten gebruikers makkelijker af kunnen van mails die ze niet langer willen ontvangen.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Internet</category>
+            <comments>https://tweakers.net/nieuws/236996/gmail-krijgt-menu-voor-opzeggen-van-abonnementen-op-nieuwsbrieven.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236996</guid>
+            <pubDate>Tue, 08 Jul 2025 21:11:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Mastodon brengt versie 4.4 uit, versie 4.5 krijgt functie voor citeren posts</title>
+            <link>https://tweakers.net/nieuws/236994/mastodon-brengt-versie-44-uit-versie-45-krijgt-functie-voor-citeren-posts.html</link>
+            <description>Mastodon heeft versie 4.4 van zijn platform uitgebracht. Die legt de basis voor het kunnen citeren van posts, iets dat nu nog niet kan. Die functie gaat live in de volgende versie, 4.5. In 4.4 zitten onder meer ook een nieuwe speler voor audio.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Computers / Software</category>
+            <comments>https://tweakers.net/nieuws/236994/mastodon-brengt-versie-44-uit-versie-45-krijgt-functie-voor-citeren-posts.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236994</guid>
+            <pubDate>Tue, 08 Jul 2025 20:53:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Mozilla Firefox 140.0.4</title>
+            <link>https://tweakers.net/downloads/73246/mozilla-firefox-14004.html</link>
+            <description>Mozilla heeft een derde update voor versie 140 van zijn webbrowser Firefox uitgebracht. In deze uitgave is het onder meer mogelijk om bij verticale tabbladen het aantal permanent zichtbare tabbladen aan te passen. Verder is er ondersteuning toegevoegd voor nog meer zoekmachines, wordt bij een volledige paginavertaling alleen het zichtbare gedeelte vertaald en is het mogelijk het geheugen van een of meerdere tabbladen vrij te geven. In versie 140.0.4 zijn de volgende twee problemen verholpen: Fixed</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73246/mozilla-firefox-14004.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73246</guid>
+            <pubDate>Tue, 08 Jul 2025 20:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Onderzoekers ontdekken nieuw type jailbreak voor GPT-4o en andere AI-modellen</title>
+            <link>https://tweakers.net/nieuws/236982/onderzoekers-ontdekken-nieuw-type-jailbreak-voor-gpt-4o-en-andere-ai-modellen.html</link>
+            <description>Diverse grote AI-taalmodellen zijn te jailbreaken door ze te overspoelen met technisch jargon. Onderzoekers hebben ontdekt dat veiligheidsmaatregelen van AI-makers te omzeilen zijn door information overload. Ze hebben een aanvalsmethode opgesteld en een tool die deze geautomatiseerd uitvoert.</description>
+            <author>Jasper Bakker</author>
+            <category>Nieuws / IT Pro / Wetenschap</category>
+            <comments>https://tweakers.net/nieuws/236982/onderzoekers-ontdekken-nieuw-type-jailbreak-voor-gpt-4o-en-andere-ai-modellen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236982</guid>
+            <pubDate>Tue, 08 Jul 2025 20:02:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Microsoft zegt dat Edge nu sneller is met laden van instellingen</title>
+            <link>https://tweakers.net/nieuws/236992/microsoft-zegt-dat-edge-nu-sneller-is-met-laden-van-instellingen.html</link>
+            <description>Microsoft zegt dat Edge nu sneller functies binnen de browser opent, zoals instellingen of de functie om pagina’s voor te lezen. De gemiddelde winst zit rond 40 procent. In de komende maanden moeten de printfunctie en de pagina met extensies ook sneller gaan laden.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Computers / Browsers</category>
+            <comments>https://tweakers.net/nieuws/236992/microsoft-zegt-dat-edge-nu-sneller-is-met-laden-van-instellingen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236992</guid>
+            <pubDate>Tue, 08 Jul 2025 19:50:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Moederbord Google Pixel 10-telefoon is te koop, telefoon zelf nog niet</title>
+            <link>https://tweakers.net/geek/236988/moederbord-google-pixel-10-telefoon-is-te-koop-telefoon-zelf-nog-niet.html</link>
+            <description>Een verkoper op Goofish, een Chinese marktplaats, heeft een moederbord van een Google Pixel 10 te koop staan. Het gaat om een Engineering Validation Test-exemplaar en volgens de eigenaar kan hij zeker booten.</description>
+            <author>Arnoud Wokke</author>
+            <category>.Geek / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/geek/236988/moederbord-google-pixel-10-telefoon-is-te-koop-telefoon-zelf-nog-niet.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/236988</guid>
+            <pubDate>Tue, 08 Jul 2025 18:34:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Kdenlive 25.04.3</title>
+            <link>https://tweakers.net/downloads/73244/kdenlive-25043.html</link>
+            <description>Versie 25.04.3 van Kdenlive is uitgekomen. Kdenlive, een afkorting voor KDE Non-Linear Video Editor, is een geavanceerd, niet-lineair videobewerkingsprogramma en wordt voornamelijk ontworpen voor Linux, maar er zijn ook downloads voor Windows en macOS. Het maakt gebruik van diverse andere opensourceprojecten, zoals FFmpeg en het MLT-videoframework. In deze uitgave zijn de volgende verbeteringen aangebracht: Changes in version 25.04.3</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73244/kdenlive-25043.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73244</guid>
+            <pubDate>Tue, 08 Jul 2025 18:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gerucht: Apple komt volgend jaar met iPhone 17e met zelfde scherm als 16e</title>
+            <link>https://tweakers.net/nieuws/236986/gerucht-apple-komt-volgend-jaar-met-iphone-17e-met-zelfde-scherm-als-16e.html</link>
+            <description>Apple zou werken aan een iPhone 17e voor release volgend jaar, zo meldt een Zuid-Koreaanse site. Deze zou hetzelfde scherm hebben als de iPhone 16e van dit jaar. De iPhone SE van voorheen kreeg niet elk jaar een nieuwe versie.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/236986/gerucht-apple-komt-volgend-jaar-met-iphone-17e-met-zelfde-scherm-als-16e.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236986</guid>
+            <pubDate>Tue, 08 Jul 2025 17:37:39 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Twee derde Nederlanders tot 35 jaar noemt zichzelf verslaafd aan sociale media&#039;</title>
+            <link>https://tweakers.net/nieuws/236984/twee-derde-nederlanders-tot-35-jaar-noemt-zichzelf-verslaafd-aan-sociale-media.html</link>
+            <description>Ongeveer 67 procent van de respondenten in een Nederlands onderzoek noemt zichzelf misschien of zeker verslaafd aan sociale media. Het percentage ligt bij vrouwelijke respondenten iets hoger dan bij mannelijke respondenten.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Internet</category>
+            <comments>https://tweakers.net/nieuws/236984/twee-derde-nederlanders-tot-35-jaar-noemt-zichzelf-verslaafd-aan-sociale-media.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/236984</guid>
+            <pubDate>Tue, 08 Jul 2025 17:18:14 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Homebrew 4.5.9</title>
             <link>https://tweakers.net/downloads/73242/homebrew-459.html</link>
@@ -250,7 +370,7 @@
         <item>
             <title>Windows-versie 7-Zip heeft ondersteuning voor meer dan 64 threads</title>
             <link>https://tweakers.net/nieuws/236952/windows-versie-7-zip-heeft-ondersteuning-voor-meer-dan-64-threads.html</link>
-            <description>De Windows-versie van in- en uitpakprogramma 7-Zip heeft ondersteuning gekregen voor meer dan 64 CPU-threads. Alleen de duurste processors kunnen daar gebruik van maken.</description>
+            <description>De Windows-versie van in- en uitpakprogramma 7-Zip heeft ondersteuning gekregen voor meer dan 64 cpu-threads. Alleen de duurste processors kunnen daar gebruik van maken.</description>
             <author>Arnoud Wokke</author>
             <category>Nieuws / Computers / Systeem- en netwerkutility&#039;s</category>
             <comments>https://tweakers.net/nieuws/236952/windows-versie-7-zip-heeft-ondersteuning-voor-meer-dan-64-threads.html#reacties</comments>
@@ -296,126 +416,6 @@
             <comments>https://tweakers.net/geek/236946/ontwikkelaar-maakt-manier-om-locatie-iss-op-te-vragen-met-dns.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/geek/236946</guid>
             <pubDate>Mon, 07 Jul 2025 17:41:34 +0200</pubDate>
-        </item>
-        <item>
-            <title>Vodafone heeft storing waardoor klanten geen mobiel internet hebben</title>
-            <link>https://tweakers.net/nieuws/236940/vodafone-heeft-storing-waardoor-klanten-geen-mobiel-internet-hebben.html</link>
-            <description>Vodafone heeft last van een storing, waardoor klanten mogelijk geen mobiel internet hebben. De storing lijkt niet alle klanten te treffen.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
-            <comments>https://tweakers.net/nieuws/236940/vodafone-heeft-storing-waardoor-klanten-geen-mobiel-internet-hebben.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236940</guid>
-            <pubDate>Mon, 07 Jul 2025 17:10:20 +0200</pubDate>
-        </item>
-        <item>
-            <title>Gerucht: TikTok krijgt aparte app voor de VS vanwege wettelijk verbod</title>
-            <link>https://tweakers.net/nieuws/236930/gerucht-tiktok-krijgt-aparte-app-voor-de-vs-vanwege-wettelijk-verbod.html</link>
-            <description>ByteDance lijkt te werken aan een aparte, tweede TikTok-app voor de VS die op 5 september moet verschijnen. Die moet in de Verenigde Staten de plaats innemen van de huidige TikTok-app, die dan volgend jaar zou stoppen met werken.</description>
-            <author>Jasper Bakker</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/236930/gerucht-tiktok-krijgt-aparte-app-voor-de-vs-vanwege-wettelijk-verbod.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236930</guid>
-            <pubDate>Mon, 07 Jul 2025 16:27:43 +0200</pubDate>
-        </item>
-        <item>
-            <title>Europese uitgevers dienen antitrustklacht tegen Google in over AI Overviews</title>
-            <link>https://tweakers.net/nieuws/236926/europese-uitgevers-dienen-antitrustklacht-tegen-google-in-over-ai-overviews.html</link>
-            <description>Europese uitgevers hebben een antitrustklacht ingediend bij de Europese Commissie tegen Google vanwege de AI-gegenereerde Overviews die het bovenaan zoekresultaten plaatst. De groep uitgevers vraagt hierbij om tijdelijke maatregelen voor die overzichten.</description>
-            <author>Jasper Bakker</author>
-            <category>Nieuws / IT Pro / Economie en maatschappij</category>
-            <comments>https://tweakers.net/nieuws/236926/europese-uitgevers-dienen-antitrustklacht-tegen-google-in-over-ai-overviews.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236926</guid>
-            <pubDate>Mon, 07 Jul 2025 15:19:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>CPU-Z krijgt ondersteuning voor RX 9060 XT-, RTX 5060- en RTX 5050-gpu&#039;s</title>
-            <link>https://tweakers.net/nieuws/236934/cpu-z-krijgt-ondersteuning-voor-rx-9060-xt-rtx-5060-en-rtx-5050-gpus.html</link>
-            <description>Hardwaremonitortool CPU-Z krijgt ondersteuning voor Nvidia&#039;s GeForce RTX 5060- en 5050-gpu&#039;s en de AMD Radeon RX 9060 XT, die is gebaseerd op de RDNA 4-architectuur. Ook kan de software nu overweg met Strix Point-apu&#039;s van AMD.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Processors</category>
-            <comments>https://tweakers.net/nieuws/236934/cpu-z-krijgt-ondersteuning-voor-rx-9060-xt-rtx-5060-en-rtx-5050-gpus.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236934</guid>
-            <pubDate>Mon, 07 Jul 2025 14:27:09 +0200</pubDate>
-        </item>
-        <item>
-            <title>Apple gaat in beroep tegen Europese DMA-boete van 500 miljoen euro</title>
-            <link>https://tweakers.net/nieuws/236932/apple-gaat-in-beroep-tegen-europese-dma-boete-van-500-miljoen-euro.html</link>
-            <description>Apple gaat in beroep tegen de boete van 500 miljoen euro voor overtreding van de Digital Markets Act. De Europese Commissie legde die boete in april op, maar Apple zegt dat de beslissing &#039;veel verder gaat dan wat de wet vereist&#039;.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/236932/apple-gaat-in-beroep-tegen-europese-dma-boete-van-500-miljoen-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236932</guid>
-            <pubDate>Mon, 07 Jul 2025 11:37:24 +0200</pubDate>
-        </item>
-        <item>
-            <title>Analyticsdienst Piwik Pro kost vanaf december minimaal 35 euro per maand</title>
-            <link>https://tweakers.net/nieuws/236928/analyticsdienst-piwik-pro-kost-vanaf-december-minimaal-35-euro-per-maand.html</link>
-            <description>Analyticsdienst Piwik Pro is binnenkort niet meer gratis te gebruiken. Het bedrijf stopt met het Core-abonnement, waarvoor gebruikers niets betaalden. In plaats daarvan komen er nieuwe abonnementen voor kleine en grote bedrijven. Die beginnen bij 35 euro per maand.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Software development</category>
-            <comments>https://tweakers.net/nieuws/236928/analyticsdienst-piwik-pro-kost-vanaf-december-minimaal-35-euro-per-maand.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236928</guid>
-            <pubDate>Mon, 07 Jul 2025 10:40:22 +0200</pubDate>
-        </item>
-        <item>
-            <title>Spotify op Android Auto krijgt ondersteuning voor Jams</title>
-            <link>https://tweakers.net/nieuws/236924/spotify-op-android-auto-krijgt-ondersteuning-voor-jams.html</link>
-            <description>De Android Auto-versie van Spotify krijgt ondersteuning voor Jams. Daarmee kunnen andere passagiers de muziek in een auto makkelijker overnemen.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/nieuws/236924/spotify-op-android-auto-krijgt-ondersteuning-voor-jams.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236924</guid>
-            <pubDate>Mon, 07 Jul 2025 09:35:30 +0200</pubDate>
-        </item>
-        <item>
-            <title>Distributeur Ingram Micro is getroffen door ransomware</title>
-            <link>https://tweakers.net/nieuws/236922/distributeur-ingram-micro-is-getroffen-door-ransomware.html</link>
-            <description>Distributeur Ingram Micro is getroffen door een ransomwareaanval. Het bedrijf erkent dit, maar geeft geen details over de aanvalsmethode, of er systemen zijn versleuteld en wat het losgeld bedraagt.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/236922/distributeur-ingram-micro-is-getroffen-door-ransomware.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236922</guid>
-            <pubDate>Mon, 07 Jul 2025 08:14:11 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - foobar2000 2.24.6</title>
-            <link>https://tweakers.net/downloads/73226/foobar2000-2246.html</link>
-            <description>Versie 2.24.6 van foobar2000 is uitgekomen. Deze populaire, lichte muziekspeler kan onder andere overweg met mp3, AAC, Ogg Vorbis, FLAC, WAVE en WMA, en beschikt over ondersteuning voor Replay Gain. Verder kan de speler verschillende formaten converteren, heeft het programma uitgebreide mogelijkheden om de tags aan te passen en kan de interface geheel naar eigen hand gezet worden. Daarnaast is het mogelijk om de functionaliteit met behulp van plug-ins verder uit te breiden. Downloads zijn ook beschikbaar voor Android, iOS en macOS, maar die hebben een ander versienummer en uitgaveschema. In deze uitgave zijn enkele kleine problemen verholpen. Changes in version 2.24.6:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73226/foobar2000-2246.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73226</guid>
-            <pubDate>Mon, 07 Jul 2025 07:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Achtergrond - Hoe werken de machines van ASML?</title>
-            <link>https://tweakers.net/reviews/13414/hoe-werken-de-machines-van-asml.html</link>
-            <description>De kans is groot dat je van ASML hebt gehoord. Het Veldhovense bedrijf maakt machines die onmisbaar zijn voor de productie van moderne chips. Hoe werken die eigenlijk?</description>
-            <author>Daan van Monsjou</author>
-            <category>Achtergrond / IT Pro / Wetenschap</category>
-            <comments>https://tweakers.net/reviews/13414/hoe-werken-de-machines-van-asml.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13414</guid>
-            <pubDate>Mon, 07 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Amiga Forever 11</title>
-            <link>https://tweakers.net/downloads/73222/amiga-forever-11.html</link>
-            <description>Vaste bezoekers van de Meuktracker zijn waarschijnlijk bekend met WinUAE, een Amiga-emulator voor Windows. Deze wordt echter geleverd zonder kickstart, zeg maar de bios/firmware van een Amiga, en zonder software, simpelweg omdat hier nog copyright op rust. Sinds 1997 is echter Amiga Forever beschikbaar, een verzameling van emulatoren voor onder andere Windows, Linux en Mac OS X, kickstarts, Amiga-software en extra drivers. Ook onderdeel van Amiga Forever is Amiga Explorer, waarmee het mogelijk is om op een Windows-pc via een seriële verbinding of een netwerkverbinding met een Amiga te communiceren. Amiga Forever is verkrijgbaar in drie verschillende uitvoeringen. De Value Edition kost 19,95 euro, maar daar krijg je alleen versie 1.3 van de kickstart en Workbench plus veertig spellen voor. De Plus-uitvoering heeft voor 39,95 euro kickstart- en Workbenchversies 1.0 tot en met 3.1 aan boord, een groter aanbod aan software en emulatoren voor andere platforms dan alleen het Windows-platform. Voor nog eens 20 euro extra is er ook nog de Premium Edition, die twee dvd-video&#039;s met in totaal vijf uur nostalgische video bevat. Cloanto heeft Release 2 van Amiga Forever 11 uitgebracht en de releasenotes hiervan zien er als volgt uit: New features in Amiga Forever 11:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73222/amiga-forever-11.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73222</guid>
-            <pubDate>Sun, 06 Jul 2025 23:25:03 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Netflix-animeserie Cyberpunk Edgerunners krijgt tweede seizoen</title>
-            <link>https://tweakers.net/geek/236920/netflix-animeserie-cyberpunk-edgerunners-krijgt-tweede-seizoen.html</link>
-            <description>Netflix en CD Projekt Red hebben bevestigd dat de animatieserie Cyberpunk: Edgerunners een tweede seizoen krijgt. Ook is er een teasertrailer gedeeld. De serie is gebaseerd op de actie-rpg Cyberpunk 2077 uit 2020.</description>
-            <author>Kevin Krikhaar</author>
-            <category>.Geek / Gaming / Games</category>
-            <comments>https://tweakers.net/geek/236920/netflix-animeserie-cyberpunk-edgerunners-krijgt-tweede-seizoen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/236920</guid>
-            <pubDate>Sun, 06 Jul 2025 12:49:23 +0200</pubDate>
         </item>
     </channel>
 </rss>
