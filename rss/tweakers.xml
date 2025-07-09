@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 09 Jul 2025 12:36:04 +0200</pubDate>
-        <lastBuildDate>Wed, 09 Jul 2025 12:36:04 +0200</lastBuildDate>
+        <pubDate>Wed, 09 Jul 2025 13:31:08 +0200</pubDate>
+        <lastBuildDate>Wed, 09 Jul 2025 13:31:08 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - RouterOS 7.19.3</title>
+            <link>https://tweakers.net/downloads/73252/routeros-7193.html</link>
+            <description>MikroTik heeft versie 7.19.3 van RouterOS uitgebracht, een besturingssysteem dat zich richt op het uitvoeren van routertaken en meer. Denk daarbij natuurlijk aan het routeren van netwerkverkeer, maar ook aan bandbreedtemanagement, een firewall, het aansturen van draadlozeaccesspoints, een hotspotgateway en een vpn-server. Het kan zowel op de hardware van MikroTik als op x86- of virtuele machines zijn werk doen. Voor het gebruik is een licentie nodig, die bij de aankoop van MikroTik-hardware is inbegrepen. De changelog voor deze uitgave kan hieronder worden gevonden. What&#039;s new in 7.19.3:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73252/routeros-7193.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73252</guid>
+            <pubDate>Wed, 09 Jul 2025 13:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Meta investeert drie miljard euro in Ray-Ban-maker EssilorLuxottica</title>
+            <link>https://tweakers.net/nieuws/237004/meta-investeert-drie-miljard-euro-in-ray-ban-maker-essilorluxottica.html</link>
+            <description>Meta heeft een minderheidsaandeel in EssilorLuxottica verworven, meldt Bloomberg. Het moederbedrijf van Facebook investeert drie miljard euro in de producent van de Ray-Ban-zonnebrillen. Het krijgt daarvoor iets minder dan drie procent van de aandelen in handen.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237004/meta-investeert-drie-miljard-euro-in-ray-ban-maker-essilorluxottica.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237004</guid>
+            <pubDate>Wed, 09 Jul 2025 12:48:30 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - 1Password 8.11.0</title>
             <link>https://tweakers.net/downloads/73250/1password-8110.html</link>
@@ -90,7 +110,7 @@
         <item>
             <title>Mastodon brengt versie 4.4 uit, versie 4.5 krijgt functie voor citeren posts</title>
             <link>https://tweakers.net/nieuws/236994/mastodon-brengt-versie-44-uit-versie-45-krijgt-functie-voor-citeren-posts.html</link>
-            <description>Mastodon heeft versie 4.4 van zijn platform uitgebracht. Die legt de basis voor het kunnen citeren van posts, iets dat nu nog niet kan. Die functie gaat live in de volgende versie, 4.5. In 4.4 zitten onder meer ook een nieuwe speler voor audio.</description>
+            <description>Mastodon heeft versie 4.4 van zijn platform uitgebracht. Die legt de basis voor het kunnen citeren van posts, iets dat nu nog niet kan. Die functie gaat live in de volgende versie, 4.5. In 4.4 zit onder meer ook een nieuwe speler voor audio.</description>
             <author>Arnoud Wokke</author>
             <category>Nieuws / Computers / Software</category>
             <comments>https://tweakers.net/nieuws/236994/mastodon-brengt-versie-44-uit-versie-45-krijgt-functie-voor-citeren-posts.html#reacties</comments>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/236954/oprichter-twitter-toont-chatdienst-die-berichten-stuurt-via-bluetoothmesh.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236954</guid>
             <pubDate>Mon, 07 Jul 2025 20:23:45 +0200</pubDate>
-        </item>
-        <item>
-            <title>Windows-versie 7-Zip heeft ondersteuning voor meer dan 64 threads</title>
-            <link>https://tweakers.net/nieuws/236952/windows-versie-7-zip-heeft-ondersteuning-voor-meer-dan-64-threads.html</link>
-            <description>De Windows-versie van in- en uitpakprogramma 7-Zip heeft ondersteuning gekregen voor meer dan 64 cpu-threads. Alleen de duurste processors kunnen daar gebruik van maken.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Computers / Systeem- en netwerkutility&#039;s</category>
-            <comments>https://tweakers.net/nieuws/236952/windows-versie-7-zip-heeft-ondersteuning-voor-meer-dan-64-threads.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236952</guid>
-            <pubDate>Mon, 07 Jul 2025 19:46:36 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - UCheck 6.3.2</title>
-            <link>https://tweakers.net/downloads/73228/ucheck-632.html</link>
-            <description>Adlice Software heeft versie 6.3.2 van UCheck uitgebracht. Met dit programma kan de software op de computer up-to-date worden gehouden. Met de gratis uitvoering moet een scan handmatig uitgevoerd worden. De betaalde uitvoering kan dat periodiek automatisch doen en deze kan de ondersteunde programma&#039;s ook installeren als die nog niet op de computer aanwezig zijn. Het programma zelf heeft ondersteuning voor 265 programma&#039;s en via zogenaamde communityupdates zijn dat er vele duizenden meer. Sinds versie 6.3.0 zijn de volgende veranderingen en verbeteringen doorgevoerd: Changes in version 6.3.2:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73228/ucheck-632.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73228</guid>
-            <pubDate>Mon, 07 Jul 2025 19:39:21 +0200</pubDate>
         </item>
     </channel>
 </rss>
