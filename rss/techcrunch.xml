@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 09 Jul 2025 12:22:15 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 09 Jul 2025 13:19:54 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Moroccan founder raises $4.2M for her YC-backed startup building the next layer of AI search </title>
+		<link>https://techcrunch.com/2025/07/09/moroccan-founder-raises-4-2m-for-her-yc-backed-startup-building-the-next-layer-of-ai-search/</link>
+		
+		<dc:creator><![CDATA[Tage Kene-Okafor]]></dc:creator>
+		<pubDate>Wed, 09 Jul 2025 13:00:41 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Africa]]></category>
+		<category><![CDATA[AI search]]></category>
+		<category><![CDATA[RAG]]></category>
+		<category><![CDATA[yc]]></category>
+		<category><![CDATA[zeroentropy]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3025600</guid>
+
+					<description><![CDATA[ZeroEntropy is serving up retrieval-augmented generation (RAG) through an API. It's landed Initialized, a16z Scout and a long list of angels, as investors.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>How to protect your cell phone number from SIM swap attacks</title>
 		<link>https://techcrunch.com/2025/07/09/how-to-protect-your-cell-phone-number-from-sim-swap-attacks/</link>
 		
@@ -54,14 +74,14 @@
 		
 		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
 		<pubDate>Wed, 09 Jul 2025 07:00:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[AI]]></category>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
 		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[robotics]]></category>
-		<category><![CDATA[humanoid robot]]></category>
-		<category><![CDATA[Hugging Face]]></category>
+		<category><![CDATA[TC]]></category>
 		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[Hugging Face]]></category>
+		<category><![CDATA[humanoid robot]]></category>
+		<category><![CDATA[robotics]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3025792</guid>
 
 					<description><![CDATA[Hugging Face is releasing two versions of its desktop robot meant for designing and coding AI applications. ]]></description>
@@ -378,24 +398,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3025348</guid>
 
 					<description><![CDATA[At TechCrunch All Stage, we’re excited to showcase the partners who help shape the conversation around innovation and entrepreneurship. Their involvement goes beyond sponsorship — they bring real-world insights that reflect the pulse of today’s startup landscape. From fresh ideas to practical strategies, these partners are driving the energy and inspiration that fuel the event [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The tech behind Rivian’s 2026 Quad Motor truck and SUV — and that kick turn</title>
-		<link>https://techcrunch.com/2025/07/08/the-tech-behind-rivians-2026-quad-motor-truck-and-suv-and-that-kick-turn/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
-		<pubDate>Tue, 08 Jul 2025 15:19:46 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[california]]></category>
-		<category><![CDATA[electric vehicles]]></category>
-		<category><![CDATA[EVs]]></category>
-		<category><![CDATA[Rivian]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3025420</guid>
-
-					<description><![CDATA[Rivian has opened customer orders for its second-generation quad-motor R1S and R1T EVs.]]></description>
 		
 		
 		
