@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 09 Jul 2025 09:31:00 +0200</pubDate>
-        <lastBuildDate>Wed, 09 Jul 2025 09:31:00 +0200</lastBuildDate>
+        <pubDate>Wed, 09 Jul 2025 10:36:01 +0200</pubDate>
+        <lastBuildDate>Wed, 09 Jul 2025 10:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Apple-topman Jeff Williams stopt na 27 jaar bij bedrijf</title>
+            <link>https://tweakers.net/nieuws/237000/apple-topman-jeff-williams-stopt-na-27-jaar-bij-bedrijf.html</link>
+            <description>Jeff Williams stopt later deze maand als coo van Apple, maakt het bedrijf bekend. Apple schrijft dat senior vicepresident of operations Sabih Khan zijn taken overneemt. Williams werkt al sinds 1998 bij Apple en gaat eind dit jaar met pensioen.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / Tablets en telefoons / Smartwatches</category>
+            <comments>https://tweakers.net/nieuws/237000/apple-topman-jeff-williams-stopt-na-27-jaar-bij-bedrijf.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237000</guid>
+            <pubDate>Wed, 09 Jul 2025 10:20:42 +0200</pubDate>
+        </item>
         <item>
             <title>Grok post alleen nog afbeeldingen op X na antisemitische uitlatingen</title>
             <link>https://tweakers.net/nieuws/236998/grok-post-alleen-nog-afbeeldingen-op-x-na-antisemitische-uitlatingen.html</link>
@@ -278,12 +288,12 @@
             <pubDate>Tue, 08 Jul 2025 10:05:56 +0200</pubDate>
         </item>
         <item>
-            <title>ACM: voor het eerst zijn er meer glasvezelklanten dan Ziggo-klanten</title>
-            <link>https://tweakers.net/nieuws/236962/acm-voor-het-eerst-zijn-er-meer-glasvezelklanten-dan-ziggo-klanten.html</link>
+            <title>ACM-cijfers: voor het eerst zijn er meer glasvezelklanten dan Ziggo-klanten</title>
+            <link>https://tweakers.net/nieuws/236962/acm-cijfers-voor-het-eerst-zijn-er-meer-glasvezelklanten-dan-ziggo-klanten.html</link>
             <description>Er zijn voor het eerst meer klanten met een glasvezelabonnement dan met een coaxkabelabonnement. Dat meldt de ACM. In het eerste kwartaal van dit jaar hadden 3,27 miljoen Nederlandse huishoudens een glasvezelabonnement.</description>
             <author>Hayte Hugo</author>
             <category>Nieuws / IT Pro / Internettoegang</category>
-            <comments>https://tweakers.net/nieuws/236962/acm-voor-het-eerst-zijn-er-meer-glasvezelklanten-dan-ziggo-klanten.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/236962/acm-cijfers-voor-het-eerst-zijn-er-meer-glasvezelklanten-dan-ziggo-klanten.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236962</guid>
             <pubDate>Tue, 08 Jul 2025 09:30:00 +0200</pubDate>
         </item>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/236948/cryptoaanbieders-moeten-vanaf-2026-transacties-doorgeven-aan-belastingdienst.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236948</guid>
             <pubDate>Mon, 07 Jul 2025 18:40:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Ontwikkelaar maakt manier om locatie ISS op te vragen met DNS</title>
-            <link>https://tweakers.net/geek/236946/ontwikkelaar-maakt-manier-om-locatie-iss-op-te-vragen-met-dns.html</link>
-            <description>Een Britse ontwikkelaar heeft een manier gemaakt om de locatie van het International Space Station op te vragen via een DNS-verzoek. Er zit een functie in DNS om de locatie van een server op te vragen en die gebruikt de ontwikkelaar om de locatie van het ISS door te geven.</description>
-            <author>Arnoud Wokke</author>
-            <category>.Geek / IT Pro / Webdevelopment</category>
-            <comments>https://tweakers.net/geek/236946/ontwikkelaar-maakt-manier-om-locatie-iss-op-te-vragen-met-dns.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/236946</guid>
-            <pubDate>Mon, 07 Jul 2025 17:41:34 +0200</pubDate>
         </item>
     </channel>
 </rss>
