@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 10 Jul 2025 11:31:01 +0200</pubDate>
-        <lastBuildDate>Thu, 10 Jul 2025 11:31:01 +0200</lastBuildDate>
+        <pubDate>Thu, 10 Jul 2025 12:36:01 +0200</pubDate>
+        <lastBuildDate>Thu, 10 Jul 2025 12:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>ACM waarschuwt consumentenelektronicawinkels om garantieregels beter na te leven</title>
+            <link>https://tweakers.net/nieuws/237040/acm-waarschuwt-consumentenelektronicawinkels-om-garantieregels-beter-na-te-leven.html</link>
+            <description>Verkopers van consumentenelektronica moeten de garantieregels beter naleven. Hiervoor waarschuwt de Autoriteit Consument &amp; Markt. De Nederlandse toezichthouder zegt jaarlijks &#039;duizenden&#039; meldingen te ontvangen over de slechte afhandeling van garantiekwesties.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / IT Pro / E-commerce</category>
+            <comments>https://tweakers.net/nieuws/237040/acm-waarschuwt-consumentenelektronicawinkels-om-garantieregels-beter-na-te-leven.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237040</guid>
+            <pubDate>Thu, 10 Jul 2025 12:02:14 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - SABnzbd 4.5.2</title>
             <link>https://tweakers.net/downloads/73268/sabnzbd-452.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/236982/onderzoekers-ontdekken-nieuw-type-jailbreak-voor-gpt-4o-en-andere-ai-modellen.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236982</guid>
             <pubDate>Tue, 08 Jul 2025 20:02:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft zegt dat Edge nu sneller is met laden van instellingen</title>
-            <link>https://tweakers.net/nieuws/236992/microsoft-zegt-dat-edge-nu-sneller-is-met-laden-van-instellingen.html</link>
-            <description>Microsoft zegt dat Edge nu sneller functies binnen de browser opent, zoals instellingen of de functie om pagina’s voor te lezen. De gemiddelde winst zit rond 40 procent. In de komende maanden moeten de printfunctie en de pagina met extensies ook sneller gaan laden.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Computers / Browsers</category>
-            <comments>https://tweakers.net/nieuws/236992/microsoft-zegt-dat-edge-nu-sneller-is-met-laden-van-instellingen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236992</guid>
-            <pubDate>Tue, 08 Jul 2025 19:50:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
