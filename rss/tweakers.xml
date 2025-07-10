@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 10 Jul 2025 09:31:00 +0200</pubDate>
-        <lastBuildDate>Thu, 10 Jul 2025 09:31:00 +0200</lastBuildDate>
+        <pubDate>Thu, 10 Jul 2025 10:36:05 +0200</pubDate>
+        <lastBuildDate>Thu, 10 Jul 2025 10:36:05 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,6 +18,26 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
+            <title>Microsoft claimt AI-besparing van half miljard dollar in callcenters</title>
+            <link>https://tweakers.net/nieuws/237034/microsoft-claimt-ai-besparing-van-half-miljard-dollar-in-callcenters.html</link>
+            <description>Microsofts eigen inzet van AI zou het bedrijf vorig jaar op personeelsgebied een besparing van 500 miljoen dollar hebben opgeleverd. Dat heeft een topmanager van het bedrijf deze week in een presentatie onthuld. Ook heeft Microsoft vorige week ruim 9000 werknemers ontslagen.</description>
+            <author>Jasper Bakker</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237034/microsoft-claimt-ai-besparing-van-half-miljard-dollar-in-callcenters.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237034</guid>
+            <pubDate>Thu, 10 Jul 2025 10:34:48 +0200</pubDate>
+        </item>
+        <item>
+            <title>Fractal kondigt North-achtige ATX-behuizing met meshvoorkant aan voor 115 euro</title>
+            <link>https://tweakers.net/nieuws/237032/fractal-kondigt-north-achtige-atx-behuizing-met-meshvoorkant-aan-voor-115-euro.html</link>
+            <description>Fractal Design heeft de Epoch aangekondigd, een ATX-behuizing met drie ingebouwde 120mm-ventilators. De behuizing komt in verschillende varianten zoals een volledig gesloten behuizing, zijpanelen met glas, versies met argb-fans en in het wit of in het zwart.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Computers / Behuizingen</category>
+            <comments>https://tweakers.net/nieuws/237032/fractal-kondigt-north-achtige-atx-behuizing-met-meshvoorkant-aan-voor-115-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237032</guid>
+            <pubDate>Thu, 10 Jul 2025 10:23:34 +0200</pubDate>
+        </item>
+        <item>
             <title>Software-update - KeePass Password Safe 2.59</title>
             <link>https://tweakers.net/downloads/73266/keepass-password-safe-259.html</link>
             <description>Dominik Reichl heeft versie 2.59 van KeePass Password Safe uitgebracht. Met deze opensource-wachtwoordmanager kunnen accounts worden opgeslagen, inclusief de bijbehorende gegevens, zoals gebruikersnaam, wachtwoord en URL. Alle gegevens worden veilig in een met het Rijndael-algoritme versleutelde database opgeslagen. Verder kan het programma automatisch wachtwoorden genereren en lijsten im- en exporteren. Door het toevoegen van een taalbestand kan het programma ook in het andere talen worden gebruikt. Van KeePass Password Safe bestaan twee verschillende uitvoeringen die beide actief worden ontwikkeld. Versie 1.x is niet afhankelijk van andere software en werkt alleen onder Windows. Versie 2 maakt intern gebruik van XML en heeft verder minimaal versie 2.0 van het .NET Framework nodig of, als het programma onder Linux, macOS of FreeBSD wordt gebruikt, van Mono versie 2.6 of hoger. Een volledig overzicht van de verschillen tussen versie 1 en 2 is op deze pagina te vinden. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: New features:</description>
@@ -28,12 +48,12 @@
             <pubDate>Thu, 10 Jul 2025 09:30:00 +0200</pubDate>
         </item>
         <item>
-            <title>Microsoft bevestigt Outlook.com-storing, fix komt over &#039;verlengde periode&#039; uit</title>
-            <link>https://tweakers.net/nieuws/237030/microsoft-bevestigt-outlook-punt-com-storing-fix-komt-over-verlengde-periode-uit.html</link>
-            <description>Microsoft bevestigt dat gebruikers mogelijk geen toegang hebben tot hun Outlook.com-mailbox. Het bedrijf zegt een oplossing te hebben gevonden en deze inmiddels ook uit te brengen, maar zegt ook de fix over &#039;een verlengde periode&#039; uit te rollen.</description>
+            <title>Microsoft bevestigt Outlook.com-storing, fix vergt nog extra tijd</title>
+            <link>https://tweakers.net/nieuws/237030/microsoft-bevestigt-outlook-punt-com-storing-fix-vergt-nog-extra-tijd.html</link>
+            <description>Microsoft bevestigt dat gebruikers mogelijk geen toegang hebben tot hun Outlook.com-mailbox. Het bedrijf zegt een oplossing te hebben gevonden en deze inmiddels ook uit te brengen, maar zegt ook dat het nog even gaat duren voordat deze volledig uitgerold is.</description>
             <author>Hayte Hugo</author>
             <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/237030/microsoft-bevestigt-outlook-punt-com-storing-fix-komt-over-verlengde-periode-uit.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/237030/microsoft-bevestigt-outlook-punt-com-storing-fix-vergt-nog-extra-tijd.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237030</guid>
             <pubDate>Thu, 10 Jul 2025 08:38:16 +0200</pubDate>
         </item>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/downloads/73244/kdenlive-25043.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73244</guid>
             <pubDate>Tue, 08 Jul 2025 18:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Gerucht: Apple komt volgend jaar met iPhone 17e met zelfde scherm als 16e</title>
-            <link>https://tweakers.net/nieuws/236986/gerucht-apple-komt-volgend-jaar-met-iphone-17e-met-zelfde-scherm-als-16e.html</link>
-            <description>Apple zou werken aan een iPhone 17e voor release volgend jaar, zo meldt een Zuid-Koreaanse site. Deze zou hetzelfde scherm hebben als de iPhone 16e van dit jaar. De iPhone SE van voorheen kreeg niet elk jaar een nieuwe versie.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/236986/gerucht-apple-komt-volgend-jaar-met-iphone-17e-met-zelfde-scherm-als-16e.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236986</guid>
-            <pubDate>Tue, 08 Jul 2025 17:37:39 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Twee derde Nederlanders tot 35 jaar noemt zichzelf verslaafd aan sociale media&#039;</title>
-            <link>https://tweakers.net/nieuws/236984/twee-derde-nederlanders-tot-35-jaar-noemt-zichzelf-verslaafd-aan-sociale-media.html</link>
-            <description>Ongeveer 67 procent van de respondenten in een Nederlands onderzoek noemt zichzelf misschien of zeker verslaafd aan sociale media. Het percentage ligt bij vrouwelijke respondenten iets hoger dan bij mannelijke respondenten.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / IT Pro / Internet</category>
-            <comments>https://tweakers.net/nieuws/236984/twee-derde-nederlanders-tot-35-jaar-noemt-zichzelf-verslaafd-aan-sociale-media.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236984</guid>
-            <pubDate>Tue, 08 Jul 2025 17:18:14 +0200</pubDate>
         </item>
     </channel>
 </rss>
