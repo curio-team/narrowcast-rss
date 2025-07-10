@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 10 Jul 2025 13:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 10 Jul 2025 14:22:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,85 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Grok is coming to Tesla vehicles &#8216;next week,&#8217; says Elon Musk </title>
+		<link>https://techcrunch.com/2025/07/10/grok-is-coming-to-tesla-vehicles-next-week-says-elon-musk/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Thu, 10 Jul 2025 14:22:24 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[Grok]]></category>
+		<category><![CDATA[Optimus]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<category><![CDATA[X]]></category>
+		<category><![CDATA[xAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3026474</guid>
+
+					<description><![CDATA[Elon Musk said in a post on X early Thursday morning that Grok – the chatbot from his AI company, xAI – will be coming to Tesla vehicles “very soon.” “Next week at the latest,” he said.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US appeals court blocks FTC&#8217;s &#8216;click-to-cancel&#8217; rule for subscriptions</title>
+		<link>https://techcrunch.com/2025/07/10/us-appeals-court-blocks-ftcs-click-to-cancel-rule-for-subscriptions/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Thu, 10 Jul 2025 14:01:10 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[click to cancel]]></category>
+		<category><![CDATA[Federal Trade Commission]]></category>
+		<category><![CDATA[FTC]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3026459</guid>
+
+					<description><![CDATA[A U.S. appeals court has blocked the Federal Trade Commission's “click-to-cancel” rule that would have required companies to make it as easy to cancel a subscription as it was to sign up.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>LGND wants to make ChatGPT for the Earth</title>
+		<link>https://techcrunch.com/2025/07/10/lgnd-wants-to-make-chatgpt-for-the-earth/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Thu, 10 Jul 2025 13:58:45 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Climate]]></category>
+		<category><![CDATA[embedding]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[geospatial analytics]]></category>
+		<category><![CDATA[geospatial data]]></category>
+		<category><![CDATA[Javelin Ventures]]></category>
+		<category><![CDATA[LGND]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3026297</guid>
+
+					<description><![CDATA[LGND has raised $9 million to convert geographic data into vector embeddings to power AI models that understand the Earth.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Knox lands $6.5M to compete with Palantir in the federal compliance market</title>
+		<link>https://techcrunch.com/2025/07/10/knox-lands-6-5m-to-compete-with-palantir-in-the-federal-compliance-market/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Thu, 10 Jul 2025 13:15:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[compliance]]></category>
+		<category><![CDATA[Felicis Ventures]]></category>
+		<category><![CDATA[Palantir]]></category>
+		<category><![CDATA[security]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3026447</guid>
+
+					<description><![CDATA[While highly sought after, federal software contracts frequently come with a hidden cost: Achieving government SaaS security compliance, known as FedRAMP, can take years and require substantial resources. Achieving this certification typically takes up to three years and costs more than $3 million, covering everything from security operations engineer salaries to security audits, according to [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Diligent Robotics hires two notable Cruise alumni to its leadership team</title>
 		<link>https://techcrunch.com/2025/07/10/diligent-robotics-adds-two-notable-cruise-alumni-to-its-leadership-team/</link>
 		
@@ -307,82 +386,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3026095</guid>
 
 					<description><![CDATA[YouTube's creator liaison said the change is a "minor" update to YouTube's longstanding policies.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ChatGPT hallucinated about music app Soundslice so often, the founder made the lie come true</title>
-		<link>https://techcrunch.com/2025/07/09/chatgpt-hallucinated-about-music-app-soundslice-so-often-the-founder-made-the-lie-come-true/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Wed, 09 Jul 2025 17:20:14 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[Music]]></category>
-		<category><![CDATA[soundslice]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3026070</guid>
-
-					<description><![CDATA[Adrian Holovaty, founder of music-teaching platform Soundslice, finally solved a months-long mystery: weird images of ChatGPT sessions kept being uploaded to the site. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple looks to bid on becoming US home for Formula 1</title>
-		<link>https://techcrunch.com/2025/07/09/apple-looks-to-bid-on-becoming-us-home-for-formula-1/</link>
-		
-		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
-		<pubDate>Wed, 09 Jul 2025 16:19:35 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[f1]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Sports]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3026091</guid>
-
-					<description><![CDATA[This latest news comes as Apple enjoys its first blockbuster in-theaters hit with its new F1 movie, produced by F1 star Lewis Hamilton.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>How startups are rewriting the late-stage playbook at TechCrunch Disrupt 2025</title>
-		<link>https://techcrunch.com/2025/07/09/david-george-on-the-future-of-going-public-at-techcrunch-disrupt-2025/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Wed, 09 Jul 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[TechCrunch Disrupt]]></category>
-		<category><![CDATA[TechCrunch Disrupt 2025]]></category>
-		<category><![CDATA[TC Event Promo]]></category>
-		<category><![CDATA[TC Disrupt 2025]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3023605</guid>
-
-					<description><![CDATA[David George of a16z joins the Going Public stage at TechCrunch Disrupt 2025, Moscone West in San Francisco, from October 27–29. Register now.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Blok is using AI personas to simulate real-world app usage</title>
-		<link>https://techcrunch.com/2025/07/09/blok-is-using-ai-persons-to-simulate-real-world-app-usage/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Wed, 09 Jul 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Weekend Fund]]></category>
-		<category><![CDATA[MaC Venture Capital]]></category>
-		<category><![CDATA[AI simulator]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3025487</guid>
-
-					<description><![CDATA[Blok allows developers to use AI to simulate different user personas to test an app's features and learn how to make their apps better.]]></description>
 		
 		
 		
