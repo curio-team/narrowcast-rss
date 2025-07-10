@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 10 Jul 2025 14:41:01 +0200</pubDate>
-        <lastBuildDate>Thu, 10 Jul 2025 14:41:01 +0200</lastBuildDate>
+        <pubDate>Thu, 10 Jul 2025 15:41:03 +0200</pubDate>
+        <lastBuildDate>Thu, 10 Jul 2025 15:41:03 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,56 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Sony onderzoekt Europese gevolgen voor startproblemen met Xperia 1 VII-telefoons</title>
+            <link>https://tweakers.net/nieuws/237050/sony-onderzoekt-europese-gevolgen-voor-startproblemen-met-xperia-1-vii-telefoons.html</link>
+            <description>Sony onderzoekt wat de gevolgen zijn van de start- en uitvalproblemen met de Xperia 1 VII-smartphones voor de Europese markt. Mogelijk treft het probleem alleen Japanse toestellen, maar Sony hint erop dat dit wel gevolgen kan hebben voor de wereldwijde voorraad.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/237050/sony-onderzoekt-europese-gevolgen-voor-startproblemen-met-xperia-1-vii-telefoons.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237050</guid>
+            <pubDate>Thu, 10 Jul 2025 15:35:14 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - dBpoweramp Music Converter 2025.07.07</title>
+            <link>https://tweakers.net/downloads/73272/dbpoweramp-music-converter-20250707.html</link>
+            <description>Illustrate heeft een nieuwe versie van dBpoweramp Music Converter uitgebracht. Met dit audiobewerkingsprogramma kunnen audio-cd&#039;s worden geript en kunnen muziekbestanden van en naar onder andere mp3, m4a, wma, Ogg Vorbis, aac, Monkey&#039;s Audio, flac en alac worden geconverteerd, met behoud van tags. Verder kunnen de mp3-tags worden aangepast en kan het programma volledig in Windows Explorer worden geïntegreerd, waardoor het gemakkelijk aan te roepen is. De basisversie voor het rippen van cd&#039;s en het converteren van bestanden is gratis. Voor extra functionaliteit moet worden betaald. Het programma is beschikbaar voor Windows en macOS. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Release 2025-07-07</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73272/dbpoweramp-music-converter-20250707.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73272</guid>
+            <pubDate>Thu, 10 Jul 2025 15:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>AMD-processors zijn kwetsbaar voor Meltdown-achtig lowleveldatalek</title>
+            <link>https://tweakers.net/nieuws/237036/amd-processors-zijn-kwetsbaar-voor-meltdown-achtig-lowleveldatalek.html</link>
+            <description>Veel client- en serverprocessors van AMD hebben een lowlevelkwetsbaarheid die datalekken mogelijk maakt. Aanvallers die dit willen misbruiken, moeten wel complexe stappen uitvoeren. Toch is de impact volgens securitybedrijven groot.</description>
+            <author>Jasper Bakker</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/237036/amd-processors-zijn-kwetsbaar-voor-meltdown-achtig-lowleveldatalek.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237036</guid>
+            <pubDate>Thu, 10 Jul 2025 15:19:50 +0200</pubDate>
+        </item>
+        <item>
+            <title>Ex-ASML-medewerker krijgt drie jaar cel voor delen chipgeheimen met Rusland</title>
+            <link>https://tweakers.net/nieuws/237020/ex-asml-medewerker-krijgt-drie-jaar-cel-voor-delen-chipgeheimen-met-rusland.html</link>
+            <description>De rechtbank Rotterdam heeft German A. veroordeeld tot een celstraf van drie jaar. Hij heeft bedrijfsgeheimen over de chipsector gedeeld met Rusland, zo concludeert de rechter. De 43-jarige man werkte lange tijd in de chipsector, onder andere bij ASML en NXP.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/237020/ex-asml-medewerker-krijgt-drie-jaar-cel-voor-delen-chipgeheimen-met-rusland.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237020</guid>
+            <pubDate>Thu, 10 Jul 2025 14:57:29 +0200</pubDate>
+        </item>
+        <item>
+            <title>Samsung-topman: &#039;Verwacht dat dubbel vouwbare foldable later dit jaar uitkomt&#039;</title>
+            <link>https://tweakers.net/nieuws/237044/samsung-topman-verwacht-dat-dubbel-vouwbare-foldable-later-dit-jaar-uitkomt.html</link>
+            <description>Samsung-topman Roh Tae-moon &#039;verwacht&#039; dat de eerste dubbel vouwbare smartphone van het bedrijf later dit jaar verschijnt. De fabrikant hint al langer op de komst van de foldable. Roh zegt dat het product nu &#039;geperfectioneerd&#039; wordt.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/237044/samsung-topman-verwacht-dat-dubbel-vouwbare-foldable-later-dit-jaar-uitkomt.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237044</guid>
+            <pubDate>Thu, 10 Jul 2025 14:44:58 +0200</pubDate>
+        </item>
         <item>
             <title>Nintendo stopt met Nintendo Switch-gamevouchers voor goedkopere games</title>
             <link>https://tweakers.net/nieuws/237042/nintendo-stopt-met-nintendo-switch-gamevouchers-voor-goedkopere-games.html</link>
@@ -366,56 +416,6 @@
             <comments>https://tweakers.net/nieuws/237002/ft-apple-wil-uitzendrechten-formule-1-in-de-vs-kopen.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237002</guid>
             <pubDate>Wed, 09 Jul 2025 10:59:51 +0200</pubDate>
-        </item>
-        <item>
-            <title>Apple-topman Jeff Williams stopt na 27 jaar bij bedrijf</title>
-            <link>https://tweakers.net/nieuws/237000/apple-topman-jeff-williams-stopt-na-27-jaar-bij-bedrijf.html</link>
-            <description>Jeff Williams stopt later deze maand als coo van Apple, maakt het bedrijf bekend. Apple schrijft dat senior vicepresident of operations Sabih Khan zijn taken overneemt. Williams werkt al sinds 1998 bij Apple en gaat eind dit jaar met pensioen.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / Tablets en telefoons / Smartwatches</category>
-            <comments>https://tweakers.net/nieuws/237000/apple-topman-jeff-williams-stopt-na-27-jaar-bij-bedrijf.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237000</guid>
-            <pubDate>Wed, 09 Jul 2025 10:20:42 +0200</pubDate>
-        </item>
-        <item>
-            <title>Grok post alleen nog afbeeldingen op X na antisemitische uitlatingen</title>
-            <link>https://tweakers.net/nieuws/236998/grok-post-alleen-nog-afbeeldingen-op-x-na-antisemitische-uitlatingen.html</link>
-            <description>Grok, de AI-chatbot van X, lijkt beperkt tot het posten van gegenereerde afbeeldingen. Onlangs had xAI een update doorgevoerd om Grok minder politiek correct te maken. Kort daarna postte de chatbot meerdere antisemitische teksten.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/nieuws/236998/grok-post-alleen-nog-afbeeldingen-op-x-na-antisemitische-uitlatingen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236998</guid>
-            <pubDate>Wed, 09 Jul 2025 09:02:46 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - KiCad 9.0.3</title>
-            <link>https://tweakers.net/downloads/73248/kicad-903.html</link>
-            <description>De derde update voor KiCad versie 9.0.0 is uitgebracht. KiCad is een verzameling opensourceprogramma&#039;s waarmee elektronische schema&#039;s en printplaatlay-outs ontworpen kunnen worden. Verder kan het een bill of materials, Gerber-bestanden en een 3d-weergave van het pcb en de componenten maken. KiCad beschikt over een uitgebreide bibliotheek van componenten, inclusief het symbool, de footprint en 3d-modellen. Een Spice-simulator ontbreekt evenmin. Uitgebreide informatie over de vernieuwingen in versie 9.0 kan op deze pagina worden gevonden; de changelog voor versie 9.0.3 ziet er als volgt uit: General</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73248/kicad-903.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73248</guid>
-            <pubDate>Wed, 09 Jul 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Quicktest - Lexar NM990 - Snelle en goedkope PCIe 5.0-opslag</title>
-            <link>https://tweakers.net/reviews/13424/lexar-nm990-snelle-en-goedkope-pcie-50-opslag.html</link>
-            <description>Dde Lexar NM990-serie zet weer een nieuwe controller op het snel gegroeide lijstje Gen5-controllers. De NM990 heeft een Maxio Technology-controller, de MAP1806A.</description>
-            <author>Willem de Moor</author>
-            <category>Quicktest / Computers / SSD&#039;s</category>
-            <comments>https://tweakers.net/reviews/13424/lexar-nm990-snelle-en-goedkope-pcie-50-opslag.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13424</guid>
-            <pubDate>Wed, 09 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Gmail krijgt menu voor opzeggen van abonnementen op nieuwsbrieven</title>
-            <link>https://tweakers.net/nieuws/236996/gmail-krijgt-menu-voor-opzeggen-van-abonnementen-op-nieuwsbrieven.html</link>
-            <description>Googles mailsoftware Gmail krijgt een menu voor het beheren van abonnementen op nieuwsbrieven. Zo moeten gebruikers makkelijker af kunnen van mails die ze niet langer willen ontvangen.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / IT Pro / Internet</category>
-            <comments>https://tweakers.net/nieuws/236996/gmail-krijgt-menu-voor-opzeggen-van-abonnementen-op-nieuwsbrieven.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236996</guid>
-            <pubDate>Tue, 08 Jul 2025 21:11:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
