@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 10 Jul 2025 13:31:01 +0200</pubDate>
-        <lastBuildDate>Thu, 10 Jul 2025 13:31:01 +0200</lastBuildDate>
+        <pubDate>Thu, 10 Jul 2025 14:41:01 +0200</pubDate>
+        <lastBuildDate>Thu, 10 Jul 2025 14:41:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Nintendo stopt met Nintendo Switch-gamevouchers voor goedkopere games</title>
+            <link>https://tweakers.net/nieuws/237042/nintendo-stopt-met-nintendo-switch-gamevouchers-voor-goedkopere-games.html</link>
+            <description>Nintendo stopt met de Switch-gamevouchers. Hiermee kunnen Switch Online-abonnees met korting firstpartygames kopen. De vouchers zijn vanaf 1 februari 2026 niet langer te koop en zijn een jaar geldig. Ze zijn niet geldig voor Switch 2-exclusives.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Gaming / Consoles</category>
+            <comments>https://tweakers.net/nieuws/237042/nintendo-stopt-met-nintendo-switch-gamevouchers-voor-goedkopere-games.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237042</guid>
+            <pubDate>Thu, 10 Jul 2025 13:51:52 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - XYplorer 27.10</title>
             <link>https://tweakers.net/downloads/73270/xyplorer-2710.html</link>
@@ -38,12 +48,12 @@
             <pubDate>Thu, 10 Jul 2025 13:15:00 +0200</pubDate>
         </item>
         <item>
-            <title>ACM waarschuwt consumentenelektronicawinkels om garantieregels beter na te leven</title>
-            <link>https://tweakers.net/nieuws/237040/acm-waarschuwt-consumentenelektronicawinkels-om-garantieregels-beter-na-te-leven.html</link>
+            <title>ACM waarschuwt elektronicawinkels voor schenden garantieregels</title>
+            <link>https://tweakers.net/nieuws/237040/acm-waarschuwt-elektronicawinkels-voor-schenden-garantieregels.html</link>
             <description>Verkopers van consumentenelektronica moeten de garantieregels beter naleven. Hiervoor waarschuwt de Autoriteit Consument &amp; Markt. De Nederlandse toezichthouder zegt jaarlijks &#039;duizenden&#039; meldingen te ontvangen over de slechte afhandeling van garantiekwesties.</description>
             <author>Hayte Hugo</author>
             <category>Nieuws / IT Pro / E-commerce</category>
-            <comments>https://tweakers.net/nieuws/237040/acm-waarschuwt-consumentenelektronicawinkels-om-garantieregels-beter-na-te-leven.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/237040/acm-waarschuwt-elektronicawinkels-voor-schenden-garantieregels.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237040</guid>
             <pubDate>Thu, 10 Jul 2025 12:02:14 +0200</pubDate>
         </item>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/236996/gmail-krijgt-menu-voor-opzeggen-van-abonnementen-op-nieuwsbrieven.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236996</guid>
             <pubDate>Tue, 08 Jul 2025 21:11:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Mastodon brengt versie 4.4 uit, versie 4.5 krijgt functie voor citeren posts</title>
-            <link>https://tweakers.net/nieuws/236994/mastodon-brengt-versie-44-uit-versie-45-krijgt-functie-voor-citeren-posts.html</link>
-            <description>Mastodon heeft versie 4.4 van zijn platform uitgebracht. Die legt de basis voor het kunnen citeren van posts, iets dat nu nog niet kan. Die functie gaat live in de volgende versie, 4.5. In 4.4 zit onder meer ook een nieuwe speler voor audio.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/236994/mastodon-brengt-versie-44-uit-versie-45-krijgt-functie-voor-citeren-posts.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236994</guid>
-            <pubDate>Tue, 08 Jul 2025 20:53:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
