@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 09 Jul 2025 16:36:04 +0200</pubDate>
-        <lastBuildDate>Wed, 09 Jul 2025 16:36:04 +0200</lastBuildDate>
+        <pubDate>Thu, 10 Jul 2025 09:31:00 +0200</pubDate>
+        <lastBuildDate>Thu, 10 Jul 2025 09:31:00 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,156 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - KeePass Password Safe 2.59</title>
+            <link>https://tweakers.net/downloads/73266/keepass-password-safe-259.html</link>
+            <description>Dominik Reichl heeft versie 2.59 van KeePass Password Safe uitgebracht. Met deze opensource-wachtwoordmanager kunnen accounts worden opgeslagen, inclusief de bijbehorende gegevens, zoals gebruikersnaam, wachtwoord en URL. Alle gegevens worden veilig in een met het Rijndael-algoritme versleutelde database opgeslagen. Verder kan het programma automatisch wachtwoorden genereren en lijsten im- en exporteren. Door het toevoegen van een taalbestand kan het programma ook in het andere talen worden gebruikt. Van KeePass Password Safe bestaan twee verschillende uitvoeringen die beide actief worden ontwikkeld. Versie 1.x is niet afhankelijk van andere software en werkt alleen onder Windows. Versie 2 maakt intern gebruik van XML en heeft verder minimaal versie 2.0 van het .NET Framework nodig of, als het programma onder Linux, macOS of FreeBSD wordt gebruikt, van Mono versie 2.6 of hoger. Een volledig overzicht van de verschillen tussen versie 1 en 2 is op deze pagina te vinden. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: New features:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73266/keepass-password-safe-259.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73266</guid>
+            <pubDate>Thu, 10 Jul 2025 09:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Microsoft bevestigt Outlook.com-storing, fix komt over &#039;verlengde periode&#039; uit</title>
+            <link>https://tweakers.net/nieuws/237030/microsoft-bevestigt-outlook-punt-com-storing-fix-komt-over-verlengde-periode-uit.html</link>
+            <description>Microsoft bevestigt dat gebruikers mogelijk geen toegang hebben tot hun Outlook.com-mailbox. Het bedrijf zegt een oplossing te hebben gevonden en deze inmiddels ook uit te brengen, maar zegt ook de fix over &#039;een verlengde periode&#039; uit te rollen.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Computers / Software</category>
+            <comments>https://tweakers.net/nieuws/237030/microsoft-bevestigt-outlook-punt-com-storing-fix-komt-over-verlengde-periode-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237030</guid>
+            <pubDate>Thu, 10 Jul 2025 08:38:16 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Notepad++ 8.8.3</title>
+            <link>https://tweakers.net/downloads/73264/notepad++-883.html</link>
+            <description>Versie 8.8.3 van Notepad++ is uitgekomen. Deze uitgebreide teksteditor heeft diverse mogelijkheden die vooral voor programmeurs handig zijn, zoals syntaxhighlighting voor onder andere C, C++, Java, HTML, XML en PHP. Ook biedt het programma de mogelijkheid om meer dan één document tegelijk te bewerken of één document op twee verschillende plaatsen te onderhouden. Wie de nieuwste versie wil gebruiken, moet deze zelf downloaden. De ingebouwde updater van Notepad++ biedt updates namelijk pas een week na hun verschijnen aan om eventuele ernstige bugs nog te kunnen oplossen. In deze uitgave zijn de volgende veranderingen aangebracht: Notepad++ v8.8.3 security-fixes &amp; new enhancement:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73264/notepad++-883.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73264</guid>
+            <pubDate>Thu, 10 Jul 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Video - Samsung-squircles, bloatwarewetten en grote accu&#039;s - Tweakers Podcast #381</title>
+            <link>https://tweakers.net/video/19996/samsung-squircles-bloatwarewetten-en-grote-accus-tweakers-podcast-381.html</link>
+            <description>Deze week praten Wout Funnekotter, Eric van Ballegoie en Arnoud Wokke over telefoons met silicium-koolstofaccu&#039;s, het Grok-AI-model dat uit de bocht vloog, de Vlaamse wet voor voorinstallatie van apps op tv&#039;s en Samsungs nieuwe horloges en vouwbare telefoons.</description>
+            <author>Luke van Drie</author>
+            <category>Video / IT Pro / Economie en maatschappij</category>
+            <comments>https://tweakers.net/video/19996/samsung-squircles-bloatwarewetten-en-grote-accus-tweakers-podcast-381.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/video/19996</guid>
+            <pubDate>Thu, 10 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - TCL C8K - Mooie miniled-tv pakt de hdr-kroon</title>
+            <link>https://tweakers.net/reviews/13444/tcl-c8k-mooie-miniled-tv-pakt-de-hdr-kroon.html</link>
+            <description>TCL&#039;s nieuwste miniledtopmodel zegt zwarte randjes gedag en is een geduchte concurrent voor minileds van Samsung, LG en Sony.</description>
+            <author>Sjef Weller</author>
+            <category>Review / Beeld en geluid / Televisies</category>
+            <comments>https://tweakers.net/reviews/13444/tcl-c8k-mooie-miniled-tv-pakt-de-hdr-kroon.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13444</guid>
+            <pubDate>Thu, 10 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Tweakers Podcast #381 - Samsung-squircles, bloatwarewetten en grote accu&#039;s</title>
+            <link>https://tweakers.net/geek/237012/tweakers-podcast-381-samsung-squircles-bloatwarewetten-en-grote-accus.html</link>
+            <description>Deze week praten Wout Funnekotter, Eric van Ballegoie en Arnoud Wokke over telefoons met silicium-koolstofaccu&#039;s, het Grok-AI-model dat uit de bocht vloog, de Vlaamse wet voor voorinstallatie van apps op tv&#039;s en Samsungs nieuwe horloges en vouwbare telefoons.</description>
+            <author>Arnoud Wokke</author>
+            <category>.Geek / Beeld en geluid / Audio</category>
+            <comments>https://tweakers.net/geek/237012/tweakers-podcast-381-samsung-squircles-bloatwarewetten-en-grote-accus.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/237012</guid>
+            <pubDate>Thu, 10 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google begint met uitrol van AI-assistent Gemini naar Wear OS-horloges</title>
+            <link>https://tweakers.net/nieuws/237028/google-begint-met-uitrol-van-ai-assistent-gemini-naar-wear-os-horloges.html</link>
+            <description>Google is begonnen met de uitrol van Gemini naar Wear OS-horloges. Deze spraakassistent maakt gebruik van Googles Gemini-taalmodellen en moet de huidige Google Assistent vervangen.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Tablets en telefoons / Smartwatches</category>
+            <comments>https://tweakers.net/nieuws/237028/google-begint-met-uitrol-van-ai-assistent-gemini-naar-wear-os-horloges.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237028</guid>
+            <pubDate>Wed, 09 Jul 2025 21:07:04 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Amarok 3.3</title>
+            <link>https://tweakers.net/downloads/73260/amarok-33.html</link>
+            <description>Amarok is een opensource audiospeler die primair voor Linux en BSD wordt ontwikkeld. Er zijn ook downloads voor Windows en macOS, maar die zijn alweer een tijdje niet bijgewerkt. De ontwikkeling heeft lange tijd stil gestaan, wat tot enkele forks heeft geleid, waar Clementine en Strawberry de bekendste van waren. Ongeveer anderhalf jaar geleden is er weer beweging in gekomen met de verschijning van versie 3.0. Inmiddels zijn we bij versie 3.3 aanbeland en de releasenotes voor die uitgave kunnen hieronder worden gevonden. Amarok 3.3 &quot;Far Above the Clouds&quot; released!</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73260/amarok-33.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73260</guid>
+            <pubDate>Wed, 09 Jul 2025 21:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nvidia bereikt als eerste bedrijf ooit marktwaarde van vier biljoen dollar</title>
+            <link>https://tweakers.net/nieuws/237018/nvidia-bereikt-als-eerste-bedrijf-ooit-marktwaarde-van-vier-biljoen-dollar.html</link>
+            <description>Nvidia is vier biljoen dollar waard op de beurs. Geen enkel ander beursgenoteerd bedrijf is ooit zoveel waard geweest. De marktwaarde van de chipfabrikant is sinds de introductie van ChatGPT eind 2022 vertienvoudigd. De vraag naar Nvidia&#039;s AI-chips blijft stijgen.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237018/nvidia-bereikt-als-eerste-bedrijf-ooit-marktwaarde-van-vier-biljoen-dollar.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237018</guid>
+            <pubDate>Wed, 09 Jul 2025 20:34:16 +0200</pubDate>
+        </item>
+        <item>
+            <title>Achtergrond - Nieuwe telefoons laten zien dat slapende reus Samsung wakker wordt</title>
+            <link>https://tweakers.net/reviews/13486/nieuwe-telefoons-laten-zien-dat-slapende-reus-samsung-wakker-wordt.html</link>
+            <description>Samsung kondigde vorig jaar de noodtoestand af in zijn smartphonedivisie. Nu is de slapende reus wakker geworden.</description>
+            <author>Arnoud Wokke</author>
+            <category>Achtergrond / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/reviews/13486/nieuwe-telefoons-laten-zien-dat-slapende-reus-samsung-wakker-wordt.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13486</guid>
+            <pubDate>Wed, 09 Jul 2025 19:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>IKEA wil Zigbee-smarthomeapparaten vanaf 2026 vervangen door Matter-producten</title>
+            <link>https://tweakers.net/nieuws/237026/ikea-wil-zigbee-smarthomeapparaten-vanaf-2026-vervangen-door-matter-producten.html</link>
+            <description>IKEA is van plan om &#039;meer dan twintig&#039; smarthomeproducten uit te brengen die gebruikmaken van Matter via Thread. Voorheen maakte de Zweedse meubelgigant gebruik van het Zigbee-protocol. Het is de bedoeling dat de nieuwe smarthomelijn de huidige Zigbee-producten gaat vervangen.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Beeld en geluid / Smarthome</category>
+            <comments>https://tweakers.net/nieuws/237026/ikea-wil-zigbee-smarthomeapparaten-vanaf-2026-vervangen-door-matter-producten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237026</guid>
+            <pubDate>Wed, 09 Jul 2025 19:14:42 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Visual Studio 2022 17.14.8</title>
+            <link>https://tweakers.net/downloads/73258/visual-studio-2022-17148.html</link>
+            <description>Microsoft heeft een update voor versie 17.14 van Visual Studio 2022 uitgebracht. Deze populaire programmeerontwikkelomgeving, verkrijgbaar in de smaken Community, Professional en Enterprise, beschikt over handige opties om het programmeren in onder meer Visual C++, Visual Basic, C#, F# en Python gemakkelijker te maken. De nieuwe versie is volledig 64bit en heeft een vereenvoudigde gebruikersinterface. Uitgebreide informatie over versie 17.14 is op deze pagina van Microsoft te vinden; in deze uitgave zijn verder nog de volgende verbeteringen aangebracht: Fixed in version 17.14.8</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73258/visual-studio-2022-17148.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73258</guid>
+            <pubDate>Wed, 09 Jul 2025 19:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Verloren USB-stick van zorginstelling Pluryn bevat data van bijna alle cliënten</title>
+            <link>https://tweakers.net/nieuws/237024/verloren-usb-stick-van-zorginstelling-pluryn-bevat-data-van-bijna-alle-clienten.html</link>
+            <description>Op de verloren USB-stick van Pluryn staan persoonsgegevens van vrijwel alle (oud-)cliënten en medewerkers van de zorgorganisatie. Het gaat onder meer om namen, telefoonnummers en bsn&#039;s.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Privacy</category>
+            <comments>https://tweakers.net/nieuws/237024/verloren-usb-stick-van-zorginstelling-pluryn-bevat-data-van-bijna-alle-clienten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237024</guid>
+            <pubDate>Wed, 09 Jul 2025 18:08:55 +0200</pubDate>
+        </item>
+        <item>
+            <title>Linda Yaccarino stopt als ceo van X</title>
+            <link>https://tweakers.net/nieuws/237022/linda-yaccarino-stopt-als-ceo-van-x.html</link>
+            <description>Linda Yaccarino treedt af als ceo van socialemediaplatform X. Ze geeft geen reden voor haar vertrek. Twee jaar geleden nam ze het stokje over van Elon Musk, die het platform kort daarvoor had gekocht.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237022/linda-yaccarino-stopt-als-ceo-van-x.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237022</guid>
+            <pubDate>Wed, 09 Jul 2025 17:18:03 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Home Assistant OS 16.0</title>
+            <link>https://tweakers.net/downloads/73262/home-assistant-os-160.html</link>
+            <description>Versie 16.0 van Home Assistant OS is uitgekomen. Home Assistant OS is een minimaal, op Buildroot gebaseerd besturingssysteem dat het mogelijk maakt om op een fysieke of virtuele machine Home Assistant te draaien. Versie 16.0 gebruikt versie 2025.02 van Buildroot als basis en de Linux-kernel voor de meeste ondersteunde platforms is bijgewerkt naar versie 6.12.35. De complete changelog voor deze uitgave ziet er als volgt uit: Home Assistant Operating System</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73262/home-assistant-os-160.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73262</guid>
+            <pubDate>Wed, 09 Jul 2025 17:00:00 +0200</pubDate>
+        </item>
         <item>
             <title>Videopreview - Dunner, beter en duurder! Samsung Galaxy Z Fold7, Flip7 &amp; Flip7 FE Preview</title>
             <link>https://tweakers.net/video/19994/dunner-beter-en-duurder-samsung-galaxy-z-fold7-flip7-en-flip7-fe-preview.html</link>
@@ -52,7 +202,7 @@
             <link>https://tweakers.net/nieuws/237016/samsung-kondigt-fe-editie-van-galaxy-flip-smartphone-aan-voor-999-euro.html</link>
             <description>Samsung heeft op zijn Unpacked-evenement twee nieuwe Flip-smartphones aangekondigd. Naast de Flip7 kondigde het bedrijf voor het eerst ook een FE-editie van de foldable aan. De Galaxy Flip7 en Flip7 FE hebben vanafprijzen van respectievelijk 1199 en 999 euro.</description>
             <author>Imre Himmelbauer</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <category>Nieuws / </category>
             <comments>https://tweakers.net/nieuws/237016/samsung-kondigt-fe-editie-van-galaxy-flip-smartphone-aan-voor-999-euro.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237016</guid>
             <pubDate>Wed, 09 Jul 2025 16:00:00 +0200</pubDate>
@@ -72,7 +222,7 @@
             <link>https://tweakers.net/nieuws/237014/samsung-onthult-26-procent-dunnere-galaxy-z-fold7-voor-2100-euro.html</link>
             <description>Samsung heeft op het Unpacked-evenement zijn Galaxy Z Fold7-smartphone onthuld. De foldable heeft onder meer een 200-megapixelhoofdcamera en een groter hoofdscherm dan zijn voorganger. De adviesprijs bedraagt minimaal 2099 euro.</description>
             <author>Imre Himmelbauer</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <category>Nieuws / </category>
             <comments>https://tweakers.net/nieuws/237014/samsung-onthult-26-procent-dunnere-galaxy-z-fold7-voor-2100-euro.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237014</guid>
             <pubDate>Wed, 09 Jul 2025 16:00:00 +0200</pubDate>
@@ -266,156 +416,6 @@
             <comments>https://tweakers.net/nieuws/236984/twee-derde-nederlanders-tot-35-jaar-noemt-zichzelf-verslaafd-aan-sociale-media.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/236984</guid>
             <pubDate>Tue, 08 Jul 2025 17:18:14 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Homebrew 4.5.9</title>
-            <link>https://tweakers.net/downloads/73242/homebrew-459.html</link>
-            <description>Homebrew is een pakketbeheerder die wordt bijgehouden door een groep vrijwilligers, waarbij vanuit verschillende &#039;taps&#039; (pakketbronnen) &#039;formula&#039; (softwarepakketten) kunnen worden geïnstalleerd via de terminal. Homebrew begon als een project om een tot dan toe ontbrekende pakketbeheerder aan te bieden op macOS, maar Homebrew biedt al langer ook ondersteuning voor Linux. Inmiddels zijn de Homebrew-repository&#039;s op GitHub uitgegroeid tot de grootste qua aantallen bijdragers. Via zogeheten &#039;casks&#039; is het verder mogelijk om apps en lettertypen te installeren en beheren op een macOS-installatie. Versie 4.5.9 is uitgekomen en de changelog daarvan ziet er als volgt uit: Homebrew 4.5.9:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73242/homebrew-459.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73242</guid>
-            <pubDate>Tue, 08 Jul 2025 16:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Apple gaat weer in beroep tegen verbod op bloedzuurstofmeter Watch</title>
-            <link>https://tweakers.net/nieuws/236980/apple-gaat-weer-in-beroep-tegen-verbod-op-bloedzuurstofmeter-watch.html</link>
-            <description>Apple gaat in beroep tegen het verbod op de import van Watch-horloges met bloedzuurstofmeterfunctie in de Verenigde Staten. Het bedrijf mocht deze functie niet meer aanbieden omdat de technologie gebaseerd was op een patent van het bedrijf Masimo.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Tablets en telefoons / Smartwatches</category>
-            <comments>https://tweakers.net/nieuws/236980/apple-gaat-weer-in-beroep-tegen-verbod-op-bloedzuurstofmeter-watch.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236980</guid>
-            <pubDate>Tue, 08 Jul 2025 16:03:49 +0200</pubDate>
-        </item>
-        <item>
-            <title>Samsung neemt Xealth over voor verder verbinden welzijnstech met gezondheidszorg</title>
-            <link>https://tweakers.net/nieuws/236978/samsung-neemt-xealth-over-voor-verder-verbinden-welzijnstech-met-gezondheidszorg.html</link>
-            <description>Samsung neemt het Amerikaanse gezondheidstechbedrijf Xealth over voor een onbekend bedrag. Naar eigen zeggen wil Samsung het gat tussen gezondheidszorg en welzijn verkleinen. De overname moet nog goedgekeurd worden door de relevante instanties.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/236978/samsung-neemt-xealth-over-voor-verder-verbinden-welzijnstech-met-gezondheidszorg.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236978</guid>
-            <pubDate>Tue, 08 Jul 2025 14:54:21 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - AIDA64 7.70</title>
-            <link>https://tweakers.net/downloads/73240/aida64-770.html</link>
-            <description>FinalWire heeft een nieuwe versie van AIDA64 uitgebracht. Met AIDA64 kan een uitgebreid overzicht van alle in de computer aanwezige hard- en software worden verkregen. Vooral handig zijn de directe links naar de pagina&#039;s waar specifieke drivers en firmware van de diverse onderdelen kunnen worden gedownload. Daarnaast kunnen er diverse benchmarks mee worden uitgevoerd en is er uitgebreide hardwaremonitoring. AIDA64 is beschikbaar in de versies Extreme, Engineer, Business en Network Audit, en met prijzen die beginnen bij 60 euro voor een persoonlijke licentie. De changelog voor versie 7.70 ziet er als volgt uit: New features &amp; improvements</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73240/aida64-770.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73240</guid>
-            <pubDate>Tue, 08 Jul 2025 14:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>LibreOffice Writer krijgt ondersteuning voor Markdown-opmaaktaal</title>
-            <link>https://tweakers.net/nieuws/236972/libreoffice-writer-krijgt-ondersteuning-voor-markdown-opmaaktaal.html</link>
-            <description>LibreOffice Writer voegt in de toekomst ondersteuning toe voor de Markdown-opmaaktaal. De ontwikkelaars werken aan de mogelijkheid om Markdown-bestanden zowel te importeren als te exporteren. Daarvoor zit nog geen ondersteuning in LibreOffice 25.8, dat in augustus uitkomt.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Software development</category>
-            <comments>https://tweakers.net/nieuws/236972/libreoffice-writer-krijgt-ondersteuning-voor-markdown-opmaaktaal.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236972</guid>
-            <pubDate>Tue, 08 Jul 2025 14:09:53 +0200</pubDate>
-        </item>
-        <item>
-            <title>Review - OnePlus Nord 5 &amp; Nord CE5 - OnePlus concurreert met zichzelf</title>
-            <link>https://tweakers.net/reviews/13464/oneplus-nord-5-en-nord-ce5-oneplus-concurreert-met-zichzelf.html</link>
-            <description>OnePlus brengt net als elke zomer zijn midrangers uit: de Nord-serie. Weten de Nord 5 en Nord CE5 de populaire Nord 4 te overtreffen?</description>
-            <author>Dennis de Vries</author>
-            <category>Review / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/reviews/13464/oneplus-nord-5-en-nord-ce5-oneplus-concurreert-met-zichzelf.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13464</guid>
-            <pubDate>Tue, 08 Jul 2025 14:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Kingston introduceert zijn eerste kleinere M.2-ssd&#039;s met 2230-formaat</title>
-            <link>https://tweakers.net/nieuws/236964/kingston-introduceert-zijn-eerste-kleinere-m2-ssds-met-2230-formaat.html</link>
-            <description>Kingston introduceert de NV3-serie PCIe 4.0 NVMe-ssd&#039;s op basis van de 2230-formfactor, de eerste van de fabrikant met dit kleine formaat. De serie bestaat uit modellen met opslagcapaciteiten van 500GB, 1TB en 2TB. De goedkoopste variant kost ongeveer 45 euro.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Computers / SSD&#039;s</category>
-            <comments>https://tweakers.net/nieuws/236964/kingston-introduceert-zijn-eerste-kleinere-m2-ssds-met-2230-formaat.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236964</guid>
-            <pubDate>Tue, 08 Jul 2025 13:46:50 +0200</pubDate>
-        </item>
-        <item>
-            <title>OnePlus komt met 43mm-variant van Watch 3 en nieuwe Buds 4-oordoppen</title>
-            <link>https://tweakers.net/nieuws/236976/oneplus-komt-met-43mm-variant-van-watch-3-en-nieuwe-buds-4-oordoppen.html</link>
-            <description>OnePlus introduceert een compactere versie van de Watch 3-smartwatch. Deze krijgt een 43mm-behuizing, waar de Watch 3 eerder alleen als 46mm-variant beschikbaar was. De fabrikant komt daarnaast met nieuwe Buds 4-oordoppen.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Tablets en telefoons / Smartwatches</category>
-            <comments>https://tweakers.net/nieuws/236976/oneplus-komt-met-43mm-variant-van-watch-3-en-nieuwe-buds-4-oordoppen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236976</guid>
-            <pubDate>Tue, 08 Jul 2025 13:26:47 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Certify SSL Manager 6.1.7</title>
-            <link>https://tweakers.net/downloads/73236/certify-ssl-manager-617.html</link>
-            <description>Let&#039;s Encrypt is een initiatief om zoveel mogelijk sites https-ondersteuning te geven door gratis ssl-certificaten te verstrekken en de implementatie makkelijker te maken. De meeste tools hiervoor zijn echter alleen beschikbaar vanaf de commandline. Certify SSL Manager biedt een grafische interface voor het aanvragen en beheren van deze certificaten op Windows Servers met IIS. De ontwikkelaars hebben versie 6.1.7 uitgebracht en sinds versie 6.1.0 zijn de volgende veranderingen en verbeteringen aangebracht:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73236/certify-ssl-manager-617.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73236</guid>
-            <pubDate>Tue, 08 Jul 2025 12:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Samsung verwacht dat kwartaalwinst ruim halveert vanwege exportrestricties VS</title>
-            <link>https://tweakers.net/nieuws/236970/samsung-verwacht-dat-kwartaalwinst-ruim-halveert-vanwege-exportrestricties-vs.html</link>
-            <description>Samsung verwacht dat zijn winst in het afgelopen kwartaal ruim gehalveerd is. Volgens het techbedrijf komt dat door de exportrestricties die de Verenigde Staten heeft ingesteld op AI-chips naar China, waarin de geheugenchips van Samsung ook worden gebruikt.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/236970/samsung-verwacht-dat-kwartaalwinst-ruim-halveert-vanwege-exportrestricties-vs.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236970</guid>
-            <pubDate>Tue, 08 Jul 2025 12:27:08 +0200</pubDate>
-        </item>
-        <item>
-            <title>OnePlus introduceert Nord 5- en Nord CE5-midrangesmartphones vanaf 349 euro</title>
-            <link>https://tweakers.net/nieuws/236974/oneplus-introduceert-nord-5-en-nord-ce5-midrangesmartphones-vanaf-349-euro.html</link>
-            <description>OnePlus komt met twee nieuwe midrangetelefoons in de Nord-serie. Het gaat om de Nord 5 en een goedkopere Nord CE5. De telefoons worden later deze maand geleverd. De Nord CE5 krijgt een adviesprijs vanaf 349 euro, terwijl de Nord 5 beschikbaar komt vanaf 449 euro.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/236974/oneplus-introduceert-nord-5-en-nord-ce5-midrangesmartphones-vanaf-349-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236974</guid>
-            <pubDate>Tue, 08 Jul 2025 11:47:08 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Actie - De nieuwe Zendure-batterij van Smart-Charged: Meld je aan voor het testpanel</title>
-            <link>https://tweakers.net/plan/4442/de-nieuwe-zendure-batterij-van-smart-charged-meld-je-aan-voor-het-testpanel.html</link>
-            <description>Zendure, opgericht in 2017, is een relatief jong energiebedrijf waarvan het hoofdkantoor in Palo Alto, Silicon Valley staat. Daarnaast heeft het grote vestigingen in de Greater Bay Area in China, plus kantoren in Japan en Duitsland. Zendure profileert zich bewust als internationaal opererende EnergyTech-start-up, waarbij R&amp;D en productieactiviteiten in de VS en China worden gecombineerd.</description>
-            <author>Tweakers Partners</author>
-            <category>.actie</category>
-            <comments>https://tweakers.net/plan/4442/de-nieuwe-zendure-batterij-van-smart-charged-meld-je-aan-voor-het-testpanel.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/plan/4442</guid>
-            <pubDate>Tue, 08 Jul 2025 11:41:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - PowerToys 0.92.1</title>
-            <link>https://tweakers.net/downloads/73238/powertoys-0921.html</link>
-            <description>Microsoft heeft een update voor versie 0.92.0 van PowerToys uitgebracht. De PowerToys zijn een verzameling kleine programma&#039;s voor powerusers. Er waren PowerToys voor Windows 95 en Windows XP, en sinds halverwege 2019 is Microsoft ook bezig met de ontwikkeling van een versie voor Windows 10 en hoger. De PowerToys bestaan onder meer uit Awake, Color Picker, FancyZones, File Explorer Add-ons, Image Resizer, Keyboard Manager, PowerRename, PowerToys Run, Shortcut Guide en de Video Conference Mute. In deze uitgave zijn de volgende verbeteringen aangebracht: Highlights</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73238/powertoys-0921.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73238</guid>
-            <pubDate>Tue, 08 Jul 2025 10:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>TrendForce: prijzen van DDR4- en GDDR6-geheugen stijgen komend kwartaal fors</title>
-            <link>https://tweakers.net/nieuws/236966/trendforce-prijzen-van-ddr4-en-gddr6-geheugen-stijgen-komend-kwartaal-fors.html</link>
-            <description>TrendForce verwacht dat de prijzen van DDR4-geheugen dit kwartaal aanzienlijk zullen stijgen voor consumenten. Het analistenbureau verklaart dat chipmakers steeds meer overstappen op nieuwere standaarden. Ook GDDR6-geheugen zou aanzienlijk duurder worden.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / Geheugen intern</category>
-            <comments>https://tweakers.net/nieuws/236966/trendforce-prijzen-van-ddr4-en-gddr6-geheugen-stijgen-komend-kwartaal-fors.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236966</guid>
-            <pubDate>Tue, 08 Jul 2025 10:05:56 +0200</pubDate>
-        </item>
-        <item>
-            <title>ACM-cijfers: voor het eerst zijn er meer glasvezelklanten dan Ziggo-klanten</title>
-            <link>https://tweakers.net/nieuws/236962/acm-cijfers-voor-het-eerst-zijn-er-meer-glasvezelklanten-dan-ziggo-klanten.html</link>
-            <description>Er zijn voor het eerst meer klanten met een glasvezelabonnement dan met een coaxkabelabonnement. Dat meldt de ACM. In het eerste kwartaal van dit jaar hadden 3,27 miljoen Nederlandse huishoudens een glasvezelabonnement.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / IT Pro / Internettoegang</category>
-            <comments>https://tweakers.net/nieuws/236962/acm-cijfers-voor-het-eerst-zijn-er-meer-glasvezelklanten-dan-ziggo-klanten.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/236962</guid>
-            <pubDate>Tue, 08 Jul 2025 09:30:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
