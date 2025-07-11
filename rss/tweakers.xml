@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 10 Jul 2025 16:36:05 +0200</pubDate>
-        <lastBuildDate>Thu, 10 Jul 2025 16:36:05 +0200</lastBuildDate>
+        <pubDate>Fri, 11 Jul 2025 09:31:01 +0200</pubDate>
+        <lastBuildDate>Fri, 11 Jul 2025 09:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,12 +18,132 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
-            <title>Achtergrond - Online liegen over de eigen leeftijd wordt binnenkort mogelijk een stuk lastiger</title>
-            <link>https://tweakers.net/reviews/13470/online-liegen-over-de-eigen-leeftijd-wordt-binnenkort-mogelijk-een-stuk-lastiger.html</link>
-            <description>Binnenkort verschijnt er een Europese leeftijdsverificatieapp.Betekent dit het einde van eenvoudig te omzeilen 18+-vinkjes?</description>
+            <title>Software-update - Mozilla Thunderbird 140.0.1</title>
+            <link>https://tweakers.net/downloads/73276/mozilla-thunderbird-14001.html</link>
+            <description>De Mozilla Foundation heeft een update voor versie 140.0 van Thunderbird uitgebracht. Thunderbird is een opensourceclient voor e-mail en nieuwsgroepen met ondersteuning voor verschillende mail- en newsaccounts. Verder zijn er een spamfilter, spellingscontrole, kalender en adresboek, en heeft het een aanpasbaar uiterlijk. Thunderbird is beschikbaar in twee verschillende versies, die beide als stabiel worden aangeduid. De eerste wordt vaker voorzien van nieuwe functionaliteit en wordt als Release-versie aangeboden; de andere, de Extra Support Release-versie, wordt alleen van bugfixes en stabiliteitsverbeteringen voorzien. De changelog voor deze uitgave kan hieronder worden gevonden. What’s Fixed</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73276/mozilla-thunderbird-14001.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73276</guid>
+            <pubDate>Fri, 11 Jul 2025 09:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Wemo-smarthomeproducten van Belkin zijn vanaf volgend jaar niet meer bruikbaar</title>
+            <link>https://tweakers.net/nieuws/237070/wemo-smarthomeproducten-van-belkin-zijn-vanaf-volgend-jaar-niet-meer-bruikbaar.html</link>
+            <description>Belkin stopt volgend jaar met de ondersteuning van veel Wemo-smarthomeproducten. De servers gaan begin 2026 offline, waardoor ze niet meer op afstand te gebruiken zijn. Dat kan nog wel via bijvoorbeeld Apple HomeKit of Home Assistant. Onder andere stekkers uit 2023 worden getroffen.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Beeld en geluid / Smarthome</category>
+            <comments>https://tweakers.net/nieuws/237070/wemo-smarthomeproducten-van-belkin-zijn-vanaf-volgend-jaar-niet-meer-bruikbaar.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237070</guid>
+            <pubDate>Fri, 11 Jul 2025 08:43:41 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Aomei Partition Assistant 10.8.2</title>
+            <link>https://tweakers.net/downloads/73278/aomei-partition-assistant-1082.html</link>
+            <description>Aomei heeft versie 10.8.2 van Partition Assistant uitgebracht. Met dit programma kunnen partities worden aangepast. Zo kunnen deze vergroot, verkleind, opgedeeld of samengevoegd worden. Ook kan de alignment worden aangepast en kan een partitie worden gekopieerd, wat handig is als er bijvoorbeeld van een harde schijf naar een ssd gemigreerd wordt. Partition Assistant is gratis, maar er is ook een Pro-uitvoering. Die maakt onder meer converteren van de indeling van mbr naar gpt voor een bootpartitie mogelijk en kan overweg met dynamische volumes. De changelog sinds versie 10.8 ziet er als volgt uit: Changes in version 10.8.2:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73278/aomei-partition-assistant-1082.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73278</guid>
+            <pubDate>Fri, 11 Jul 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Interview - Minder nieuwe laadpalen: hoe wil Nederland alsnog elke EV van stroom voorzien?</title>
+            <link>https://tweakers.net/reviews/13330/minder-nieuwe-laadpalen-hoe-wil-nederland-alsnog-elke-ev-van-stroom-voorzien.html</link>
+            <description>De laadpalen schieten als paddenstoelen uit de grond, maar volgens de Nationale Agenda Laadinfrastructuur zijn er ook zorgen over de toekomst van het Nederlandse laadnetwerk.</description>
+            <author>Hayte Hugo</author>
+            <category>Interview / Beeld en geluid / Cartech</category>
+            <comments>https://tweakers.net/reviews/13330/minder-nieuwe-laadpalen-hoe-wil-nederland-alsnog-elke-ev-van-stroom-voorzien.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13330</guid>
+            <pubDate>Fri, 11 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Bitwarden 2025.7.0</title>
+            <link>https://tweakers.net/downloads/73274/bitwarden-202570.html</link>
+            <description>Bitwarden is een crossplatform en opensource wachtwoordbeheerdienst die persoonlijke gegevens in een versleutelde digitale kluis opslaat. Het is in de basis gratis te gebruiken en voor een klein bedrag per jaar is er toegang tot diverse extra&#039;s zoals het kunnen opslaan van totp-codes, inloggen met een YubiKey en opslagcapaciteit voor bijlagen. Bitwarden is beschikbaar online, als desktopclient, als mobiele app en als plug-in voor diverse webbrowsers. In versie 2025.5.0 zijn de volgende veranderingen en verbeteringen aangebracht: Password Manager</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73274/bitwarden-202570.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73274</guid>
+            <pubDate>Thu, 10 Jul 2025 23:02:25 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google voegt foto-naar-videofunctie toe aan AI-tool Veo 3</title>
+            <link>https://tweakers.net/nieuws/237064/google-voegt-foto-naar-videofunctie-toe-aan-ai-tool-veo-3.html</link>
+            <description>Google voegt een functie toe aan zijn AI-videomaker Veo 3 waarmee het mogelijk is om video&#039;s te genereren op basis van foto&#039;s.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Fotografie en video</category>
+            <comments>https://tweakers.net/nieuws/237064/google-voegt-foto-naar-videofunctie-toe-aan-ai-tool-veo-3.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237064</guid>
+            <pubDate>Thu, 10 Jul 2025 21:07:39 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gamestemacteurs stoppen na jaar met staken na bereiken van overeenkomst over AI</title>
+            <link>https://tweakers.net/nieuws/237062/gamestemacteurs-stoppen-na-jaar-met-staken-na-bereiken-van-overeenkomst-over-ai.html</link>
+            <description>De Amerikaanse acteursvakbond SAG-AFTRA heeft de staking van stemacteurs voor games officieel beëindigd. Leden van de vakbond zijn akkoord gegaan met een overeenkomst waarin onder meer waarborgen staan over het gebruik van AI.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/237062/gamestemacteurs-stoppen-na-jaar-met-staken-na-bereiken-van-overeenkomst-over-ai.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237062</guid>
+            <pubDate>Thu, 10 Jul 2025 20:45:52 +0200</pubDate>
+        </item>
+        <item>
+            <title>YouTube stopt met uitlichten van populaire video&#039;s via Trending-pagina</title>
+            <link>https://tweakers.net/nieuws/237060/youtube-stopt-met-uitlichten-van-populaire-videos-via-trending-pagina.html</link>
+            <description>YouTube stopt na vijftien jaar met de Trending-pagina, waarin populaire video&#039;s worden uitgelicht. Het videoplatform wil deze pagina binnen een paar weken verwijderen. Het is de bedoeling dat YouTube Charts de Trending-sectie gaat vervangen.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/237060/youtube-stopt-met-uitlichten-van-populaire-videos-via-trending-pagina.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237060</guid>
+            <pubDate>Thu, 10 Jul 2025 19:58:15 +0200</pubDate>
+        </item>
+        <item>
+            <title>Meta moet Duitser 5000 euro schadevergoeding betalen vanwege illegale tracking</title>
+            <link>https://tweakers.net/nieuws/237058/meta-moet-duitser-5000-euro-schadevergoeding-betalen-vanwege-illegale-tracking.html</link>
+            <description>Meta moet een schadevergoeding van 5000 euro betalen aan een Duitse Facebook-gebruiker. De rechter vindt dat het bedrijf onterecht privégegevens van de man heeft verzameld op websites van derden.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/237058/meta-moet-duitser-5000-euro-schadevergoeding-betalen-vanwege-illegale-tracking.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237058</guid>
+            <pubDate>Thu, 10 Jul 2025 19:00:48 +0200</pubDate>
+        </item>
+        <item>
+            <title>XAI brengt Grok 4-model uit en komt met AI-abonnement van 300 dollar per maand</title>
+            <link>https://tweakers.net/nieuws/237054/xai-brengt-grok-4-model-uit-en-komt-met-ai-abonnement-van-300-dollar-per-maand.html</link>
+            <description>XAI heeft zijn Grok 4-taalmodellen beschikbaar gemaakt. De geavanceerdste versie zou beter dan elk ander model scoren op de ARC-AGI 2-benchmark, die de &#039;algemene intelligentie&#039; van llm&#039;s moet meten. Toegang tot deze versie kost 300 dollar per maand.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/237054/xai-brengt-grok-4-model-uit-en-komt-met-ai-abonnement-van-300-dollar-per-maand.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237054</guid>
+            <pubDate>Thu, 10 Jul 2025 18:06:20 +0200</pubDate>
+        </item>
+        <item>
+            <title>Jedec publiceert Lpddr6-standaard voor smartphone- en handheldgeheugen</title>
+            <link>https://tweakers.net/nieuws/237052/jedec-publiceert-lpddr6-standaard-voor-smartphone-en-handheldgeheugen.html</link>
+            <description>Standaardenorganisatie Jedec heeft de Lpddr6-standaard gepubliceerd, die de huidige Lpddr5-standaarden moet opvolgen. Deze zesde generatie moet &#039;significant sneller en efficiënter&#039; zijn, al geeft Jedec nog niet veel informatie over de praktijkverschillen.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/237052/jedec-publiceert-lpddr6-standaard-voor-smartphone-en-handheldgeheugen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237052</guid>
+            <pubDate>Thu, 10 Jul 2025 17:08:22 +0200</pubDate>
+        </item>
+        <item>
+            <title>Fiscus moet twee systemen verplicht uitschakelen wegens privacyschending</title>
+            <link>https://tweakers.net/nieuws/237046/fiscus-moet-twee-systemen-verplicht-uitschakelen-wegens-privacyschending.html</link>
+            <description>De Nederlandse Belastingdienst moet van de Autoriteit Persoonsgegevens verplicht twee systemen uitfaseren omdat die de privacy van burgers kunnen schenden. Bij een daarvan krijgen bijvoorbeeld alle Belastingdienstmedewerkers toegang tot een grote hoeveelheid gegevens.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Privacy</category>
+            <comments>https://tweakers.net/nieuws/237046/fiscus-moet-twee-systemen-verplicht-uitschakelen-wegens-privacyschending.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237046</guid>
+            <pubDate>Thu, 10 Jul 2025 17:04:48 +0200</pubDate>
+        </item>
+        <item>
+            <title>Achtergrond - Online liegen over je leeftijd wordt mogelijk een stuk lastiger</title>
+            <link>https://tweakers.net/reviews/13470/online-liegen-over-je-leeftijd-wordt-mogelijk-een-stuk-lastiger.html</link>
+            <description>Binnenkort verschijnt er een Europese leeftijdsverificatieapp. Betekent dit het einde van eenvoudig te omzeilen 18+-vinkjes?</description>
             <author>Kevin Krikhaar</author>
             <category>Achtergrond / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/reviews/13470/online-liegen-over-de-eigen-leeftijd-wordt-binnenkort-mogelijk-een-stuk-lastiger.html#reacties</comments>
+            <comments>https://tweakers.net/reviews/13470/online-liegen-over-je-leeftijd-wordt-mogelijk-een-stuk-lastiger.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13470</guid>
             <pubDate>Thu, 10 Jul 2025 16:21:00 +0200</pubDate>
         </item>
@@ -168,12 +288,12 @@
             <pubDate>Thu, 10 Jul 2025 09:30:00 +0200</pubDate>
         </item>
         <item>
-            <title>Microsoft bevestigt Outlook.com-storing, fix vergt nog extra tijd</title>
-            <link>https://tweakers.net/nieuws/237030/microsoft-bevestigt-outlook-punt-com-storing-fix-vergt-nog-extra-tijd.html</link>
-            <description>Microsoft bevestigt dat gebruikers mogelijk geen toegang hebben tot hun Outlook.com-mailbox. Het bedrijf zegt een oplossing te hebben gevonden en deze inmiddels ook uit te brengen, maar zegt ook dat het nog even gaat duren voordat deze volledig uitgerold is.</description>
+            <title>Microsoft fixt Outlook.com-storing - update</title>
+            <link>https://tweakers.net/nieuws/237030/microsoft-fixt-outlook-punt-com-storing.html</link>
+            <description>Microsoft zegt de Outlook.com-storing te hebben verholpen. Door het probleem had een deel van de gebruikers bijna een dag lang geen toegang tot hun Outlook.com-mailboxen. Het probleem lag bij een &#039;authenticatiecomponent&#039;.</description>
             <author>Hayte Hugo</author>
             <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/237030/microsoft-bevestigt-outlook-punt-com-storing-fix-vergt-nog-extra-tijd.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/237030/microsoft-fixt-outlook-punt-com-storing.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237030</guid>
             <pubDate>Thu, 10 Jul 2025 08:38:16 +0200</pubDate>
         </item>
@@ -296,126 +416,6 @@
             <comments>https://tweakers.net/nieuws/237022/linda-yaccarino-stopt-als-ceo-van-x.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237022</guid>
             <pubDate>Wed, 09 Jul 2025 17:18:03 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Home Assistant OS 16.0</title>
-            <link>https://tweakers.net/downloads/73262/home-assistant-os-160.html</link>
-            <description>Versie 16.0 van Home Assistant OS is uitgekomen. Home Assistant OS is een minimaal, op Buildroot gebaseerd besturingssysteem dat het mogelijk maakt om op een fysieke of virtuele machine Home Assistant te draaien. Versie 16.0 gebruikt versie 2025.02 van Buildroot als basis en de Linux-kernel voor de meeste ondersteunde platforms is bijgewerkt naar versie 6.12.35. De complete changelog voor deze uitgave ziet er als volgt uit: Home Assistant Operating System</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73262/home-assistant-os-160.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73262</guid>
-            <pubDate>Wed, 09 Jul 2025 17:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Videopreview - Dunner, beter en duurder! Samsung Galaxy Z Fold7, Flip7 &amp; Flip7 FE Preview</title>
-            <link>https://tweakers.net/video/19994/dunner-beter-en-duurder-samsung-galaxy-z-fold7-flip7-en-flip7-fe-preview.html</link>
-            <description>Het Zuid-Koreaanse Samsung heeft maar liefst drie nieuwe foldables aangekondigd. Het drietal bestaat uit de flink geupgrade Z Fold7, een nieuwe Flip7 met nieuw coverscherm én Samsungs nieuwste Exynos-soc en de eerste Flip7 Fan Edition. Dit zijn onze eerste indrukken.</description>
-            <author>Luke van Drie</author>
-            <category>Videopreview / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/video/19994/dunner-beter-en-duurder-samsung-galaxy-z-fold7-flip7-en-flip7-fe-preview.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/video/19994</guid>
-            <pubDate>Wed, 09 Jul 2025 16:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Preview - Samsung Galaxy Watch8 - Zelfde basis, vernieuwd design</title>
-            <link>https://tweakers.net/reviews/13476/samsung-galaxy-watch8-zelfde-basis-vernieuwd-design.html</link>
-            <description>Samsung brengt de Galaxy Watch8, Watch8 Classic en vernieuwde Watch Ultra (2025) uit. De Ultra heeft nu 64GB geheugen en een Titanium Blue-behuizing.</description>
-            <author>Eric van Ballegoie</author>
-            <category>Preview / Tablets en telefoons / Smartwatches</category>
-            <comments>https://tweakers.net/reviews/13476/samsung-galaxy-watch8-zelfde-basis-vernieuwd-design.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13476</guid>
-            <pubDate>Wed, 09 Jul 2025 16:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Preview - Samsung Galaxy Z Fold7, Flip7 en Flip7 FE - Van vlaggenschip tot valstrik</title>
-            <link>https://tweakers.net/reviews/13474/samsung-galaxy-z-fold7-flip7-en-flip7-fe-van-vlaggenschip-tot-valstrik.html</link>
-            <description>Samsung brengt drie nieuwe foldables uit: de prijzige Z Fold7 met forse upgrades, de Z Flip7 met een gloednieuw coverscherm en de eerste vouwbare Fan Edition.</description>
-            <author>Dennis de Vries</author>
-            <category>Preview / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/reviews/13474/samsung-galaxy-z-fold7-flip7-en-flip7-fe-van-vlaggenschip-tot-valstrik.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13474</guid>
-            <pubDate>Wed, 09 Jul 2025 16:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Samsung kondigt FE-editie van Galaxy Flip-smartphone aan voor 999 euro</title>
-            <link>https://tweakers.net/nieuws/237016/samsung-kondigt-fe-editie-van-galaxy-flip-smartphone-aan-voor-999-euro.html</link>
-            <description>Samsung heeft op zijn Unpacked-evenement twee nieuwe Flip-smartphones aangekondigd. Naast de Flip7 kondigde het bedrijf voor het eerst ook een FE-editie van de foldable aan. De Galaxy Flip7 en Flip7 FE hebben vanafprijzen van respectievelijk 1199 en 999 euro.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / </category>
-            <comments>https://tweakers.net/nieuws/237016/samsung-kondigt-fe-editie-van-galaxy-flip-smartphone-aan-voor-999-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237016</guid>
-            <pubDate>Wed, 09 Jul 2025 16:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Samsung kondigt Galaxy Watch8, Watch8 Classic en geüpdatete Watch Ultra aan</title>
-            <link>https://tweakers.net/nieuws/237006/samsung-kondigt-galaxy-watch8-watch8-classic-en-geupdatete-watch-ultra-aan.html</link>
-            <description>Samsung heeft de Galaxy Watch8 en Galaxy Watch8 Classic aangekondigd. De nieuwe horloges krijgen een dunner ontwerp en draaien op Wear OS 6 met ingebouwde Google Gemini en nieuwe gezondsheids- en sportfuncties.</description>
-            <author>Eric van Ballegoie</author>
-            <category>Nieuws / Tablets en telefoons / Smartwatches</category>
-            <comments>https://tweakers.net/nieuws/237006/samsung-kondigt-galaxy-watch8-watch8-classic-en-geupdatete-watch-ultra-aan.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237006</guid>
-            <pubDate>Wed, 09 Jul 2025 16:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Samsung onthult 26 procent dunnere Galaxy Z Fold7 voor 2100 euro</title>
-            <link>https://tweakers.net/nieuws/237014/samsung-onthult-26-procent-dunnere-galaxy-z-fold7-voor-2100-euro.html</link>
-            <description>Samsung heeft op het Unpacked-evenement zijn Galaxy Z Fold7-smartphone onthuld. De foldable heeft onder meer een 200-megapixelhoofdcamera en een groter hoofdscherm dan zijn voorganger. De adviesprijs bedraagt minimaal 2099 euro.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / </category>
-            <comments>https://tweakers.net/nieuws/237014/samsung-onthult-26-procent-dunnere-galaxy-z-fold7-voor-2100-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237014</guid>
-            <pubDate>Wed, 09 Jul 2025 16:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Usenet Explorer 7.5</title>
-            <link>https://tweakers.net/downloads/73254/usenet-explorer-75.html</link>
-            <description>Alex Birj heeft versie 7.5 van Usenet Explorer uitgebracht. Met dit programma kunnen bestanden van Usenet worden gedownload. Usenet Explorer kenmerkt zich onder meer door een laag processor- en geheugengebruik en uitgebreide mogelijkheden, wat het voor beginnende gebruikers misschien minder geschikt maakt. In deze uitgave zijn de volgende veranderingen en verbeteringen zijn doorgevoerd: Changes in version 7.5</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73254/usenet-explorer-75.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73254</guid>
-            <pubDate>Wed, 09 Jul 2025 15:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Chieftec maakt Vista-behuizing voor 70 euro beschikbaar</title>
-            <link>https://tweakers.net/nieuws/237010/chieftec-maakt-vista-behuizing-voor-70-euro-beschikbaar.html</link>
-            <description>Chieftec maakt zijn Vista-computerbehuizing beschikbaar, die al op Computex werd getoond. Deze biedt ruimte voor ATX-, micro-ATX en mini-ITX-moederborden en wordt standaard geleverd met drie ingebouwde argb-fans en een fan-/rgb-controller. In Nederland kost de kast zeventig euro.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / Computers / Behuizingen</category>
-            <comments>https://tweakers.net/nieuws/237010/chieftec-maakt-vista-behuizing-voor-70-euro-beschikbaar.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237010</guid>
-            <pubDate>Wed, 09 Jul 2025 14:42:11 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - RouterOS 7.19.3</title>
-            <link>https://tweakers.net/downloads/73252/routeros-7193.html</link>
-            <description>MikroTik heeft versie 7.19.3 van RouterOS uitgebracht, een besturingssysteem dat zich richt op het uitvoeren van routertaken en meer. Denk daarbij natuurlijk aan het routeren van netwerkverkeer, maar ook aan bandbreedtemanagement, een firewall, het aansturen van draadlozeaccesspoints, een hotspotgateway en een vpn-server. Het kan zowel op de hardware van MikroTik als op x86- of virtuele machines zijn werk doen. Voor het gebruik is een licentie nodig, die bij de aankoop van MikroTik-hardware is inbegrepen. De changelog voor deze uitgave kan hieronder worden gevonden. What&#039;s new in 7.19.3:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73252/routeros-7193.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73252</guid>
-            <pubDate>Wed, 09 Jul 2025 13:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Meta investeert drie miljard euro in Ray-Ban-maker EssilorLuxottica</title>
-            <link>https://tweakers.net/nieuws/237004/meta-investeert-drie-miljard-euro-in-ray-ban-maker-essilorluxottica.html</link>
-            <description>Meta heeft een minderheidsaandeel in EssilorLuxottica verworven, meldt Bloomberg. Het moederbedrijf van Facebook investeert drie miljard euro in de producent van de Ray-Ban-zonnebrillen. Het krijgt daarvoor iets minder dan drie procent van de aandelen in handen.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237004/meta-investeert-drie-miljard-euro-in-ray-ban-maker-essilorluxottica.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237004</guid>
-            <pubDate>Wed, 09 Jul 2025 12:48:30 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - 1Password 8.11.0</title>
-            <link>https://tweakers.net/downloads/73250/1password-8110.html</link>
-            <description>Voor de veiligheid is het beter om voor ieder account een ander en sterk wachtwoord te gebruiken. Als een bepaalde dienst wachtwoorden laat uitlekken, zijn niet al je andere accounts met hetzelfde wachtwoord toegankelijk. Voor het bijhouden van al deze verschillende wachtwoorden zijn wachtwoordmanagers een uitkomst. 1Password is er hier een van en is beschikbaar als webapplicatie, als app op verschillende platforms en als extensie voor de meestgebruikte browsers. Het kan twee weken geprobeerd worden, waarna een licentie moet worden aangeschaft. Voor meer informatie over de mogelijkheden verwijzen we naar deze pagina. In versie 8.11.0 zijn de volgende verbeteringen en bugfixes doorgevoerd: 1Password for Windows 8.11.1</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73250/1password-8110.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73250</guid>
-            <pubDate>Wed, 09 Jul 2025 11:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
