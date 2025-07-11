@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 11 Jul 2025 11:31:06 +0200</pubDate>
-        <lastBuildDate>Fri, 11 Jul 2025 11:31:06 +0200</lastBuildDate>
+        <pubDate>Fri, 11 Jul 2025 12:36:01 +0200</pubDate>
+        <lastBuildDate>Fri, 11 Jul 2025 12:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,6 +18,16 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
+            <title>AMD is begonnen met versturen van eerste Zen 6-cpu&#039;s aan partners</title>
+            <link>https://tweakers.net/nieuws/237076/amd-is-begonnen-met-versturen-van-eerste-zen-6-cpus-aan-partners.html</link>
+            <description>AMD is begonnen met het versturen van samples van de eerste Zen 6-processors aan ontwikkelaars en fabrikanten. Dat meldt softwareontwikkelaar Yuri Bubliy of 1usmus, die ook veel details over de aankomende cpu&#039;s bevestigt. Die hebben core chiplet-dies met 12 cores.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/237076/amd-is-begonnen-met-versturen-van-eerste-zen-6-cpus-aan-partners.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237076</guid>
+            <pubDate>Fri, 11 Jul 2025 12:30:28 +0200</pubDate>
+        </item>
+        <item>
             <title>Software-update - Julia 1.11.6</title>
             <link>https://tweakers.net/downloads/73282/julia-1116.html</link>
             <description>Julia is de naam van een high-level, high-performance dynamische programmeertaal voor numerieke wiskunde. Het bevat onder andere een krachtige compiler, distributed parallel execution en een uitgebreide library van wiskundige functies. De kern van Julia wordt onder de MIT-licentie uitgegeven, terwijl verschillende library&#039;s andere licenties gebruiken, zoals GPL, LGPL en NetBSD. Voor meer informatie verwijzen we naar deze pagina. Versie 1.11.6 is uitgekomen en de releasenotes daarvan kunnen hieronder worden gevonden: Julia v1.11.6 has been released</description>
@@ -28,12 +38,12 @@
             <pubDate>Fri, 11 Jul 2025 11:30:00 +0200</pubDate>
         </item>
         <item>
-            <title>Google vervangt Developer Previews met nieuw Canary-releasechannel</title>
-            <link>https://tweakers.net/nieuws/237072/google-vervangt-developer-previews-met-nieuw-canary-releasechannel.html</link>
+            <title>Google vervangt Android Developer Previews met nieuw Canary-releasechannel</title>
+            <link>https://tweakers.net/nieuws/237072/google-vervangt-android-developer-previews-met-nieuw-canary-releasechannel.html</link>
             <description>Google komt met een nieuw testkanaal voor Android. Het Canary-releasechannel vervangt het huidige ontwikkelaarspreviewkanaal. Een verschil is dat het Canary-channel als over-the-airupdate kan worden geïnstalleerd. Ontwikkelaars hoeven zo geen nieuwe preview te flashen.</description>
             <author>Tijs Hofmans</author>
             <category>Nieuws / IT Pro / Software development</category>
-            <comments>https://tweakers.net/nieuws/237072/google-vervangt-developer-previews-met-nieuw-canary-releasechannel.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/237072/google-vervangt-android-developer-previews-met-nieuw-canary-releasechannel.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237072</guid>
             <pubDate>Fri, 11 Jul 2025 11:11:57 +0200</pubDate>
         </item>
@@ -118,12 +128,12 @@
             <pubDate>Thu, 10 Jul 2025 23:02:25 +0200</pubDate>
         </item>
         <item>
-            <title>Google voegt foto-naar-videofunctie toe aan AI-tool Veo 3</title>
-            <link>https://tweakers.net/nieuws/237064/google-voegt-foto-naar-videofunctie-toe-aan-ai-tool-veo-3.html</link>
-            <description>Google voegt een functie toe aan zijn AI-videomaker Veo 3 waarmee het mogelijk is om video&#039;s te genereren op basis van foto&#039;s.</description>
+            <title>Google voegt foto-naar-videofunctie toe aan AI-tool Veo 3, nog niet in Nederland</title>
+            <link>https://tweakers.net/nieuws/237064/google-voegt-foto-naar-videofunctie-toe-aan-ai-tool-veo-3-nog-niet-in-nederland.html</link>
+            <description>Google voegt een functie toe aan zijn AI-videomaker Veo 3 waarmee het mogelijk is om video&#039;s te genereren op basis van foto&#039;s. Die functie is voorlopig nog niet beschikbaar in Nederland en België.</description>
             <author>Kevin Krikhaar</author>
             <category>Nieuws / IT Pro / Fotografie en video</category>
-            <comments>https://tweakers.net/nieuws/237064/google-voegt-foto-naar-videofunctie-toe-aan-ai-tool-veo-3.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/237064/google-voegt-foto-naar-videofunctie-toe-aan-ai-tool-veo-3-nog-niet-in-nederland.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237064</guid>
             <pubDate>Thu, 10 Jul 2025 21:07:39 +0200</pubDate>
         </item>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/downloads/73260/amarok-33.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73260</guid>
             <pubDate>Wed, 09 Jul 2025 21:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nvidia bereikt als eerste bedrijf ooit marktwaarde van vier biljoen dollar</title>
-            <link>https://tweakers.net/nieuws/237018/nvidia-bereikt-als-eerste-bedrijf-ooit-marktwaarde-van-vier-biljoen-dollar.html</link>
-            <description>Nvidia is vier biljoen dollar waard op de beurs. Geen enkel ander beursgenoteerd bedrijf is ooit zoveel waard geweest. De marktwaarde van de chipfabrikant is sinds de introductie van ChatGPT eind 2022 vertienvoudigd. De vraag naar Nvidia&#039;s AI-chips blijft stijgen.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237018/nvidia-bereikt-als-eerste-bedrijf-ooit-marktwaarde-van-vier-biljoen-dollar.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237018</guid>
-            <pubDate>Wed, 09 Jul 2025 20:34:16 +0200</pubDate>
         </item>
     </channel>
 </rss>

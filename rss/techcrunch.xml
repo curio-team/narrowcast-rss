@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 11 Jul 2025 01:24:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 11 Jul 2025 10:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,30 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>RealSense spins out of Intel to scale its stereoscopic imaging technology</title>
+		<link>https://techcrunch.com/2025/07/11/realsense-spins-out-of-intel-to-scale-its-stereoscopic-imaging-technology/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Fri, 11 Jul 2025 10:00:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[Intel Capital]]></category>
+		<category><![CDATA[fundraising]]></category>
+		<category><![CDATA[robotics]]></category>
+		<category><![CDATA[Artificial Intelligence (AI)]]></category>
+		<category><![CDATA[Computer Vision]]></category>
+		<category><![CDATA[vision tech]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3026789</guid>
+
+					<description><![CDATA[RealSense is building vision tech that helps machines like robots and drones navigate and respond to a 3D world. ]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Grok 4 seems to consult Elon Musk to answer controversial questions</title>
 		<link>https://techcrunch.com/2025/07/10/grok-4-seems-to-consult-elon-musk-to-answer-controversial-questions/</link>
 		
@@ -382,24 +406,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3026474</guid>
 
 					<description><![CDATA[Elon Musk said in a post on X early Thursday morning that Grok – the chatbot from his AI company, xAI – will be coming to Tesla vehicles “very soon.” “Next week at the latest,” he said.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US appeals court blocks FTC&#8217;s &#8216;click-to-cancel&#8217; rule for subscriptions</title>
-		<link>https://techcrunch.com/2025/07/10/us-appeals-court-blocks-ftcs-click-to-cancel-rule-for-subscriptions/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Thu, 10 Jul 2025 14:01:10 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[FTC]]></category>
-		<category><![CDATA[Federal Trade Commission]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[click to cancel]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3026459</guid>
-
-					<description><![CDATA[A U.S. appeals court has blocked the Federal Trade Commission's “click-to-cancel” rule that would have required companies to make it as easy to cancel a subscription as it was to sign up.]]></description>
 		
 		
 		
