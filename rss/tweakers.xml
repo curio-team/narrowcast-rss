@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 11 Jul 2025 13:31:03 +0200</pubDate>
-        <lastBuildDate>Fri, 11 Jul 2025 13:31:03 +0200</lastBuildDate>
+        <pubDate>Fri, 11 Jul 2025 14:41:02 +0200</pubDate>
+        <lastBuildDate>Fri, 11 Jul 2025 14:41:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Homey maakt het mogelijk functies van 433MHz-afstandsdieningen in app te klonen</title>
+            <link>https://tweakers.net/nieuws/237068/homey-maakt-het-mogelijk-functies-van-433mhz-afstandsdieningen-in-app-te-klonen.html</link>
+            <description>De Homey-app krijgt een nieuwe functie waarmee het mogelijk is om functionaliteiten van afstandsbedieningen voor smarthomeapparaten in de app te zetten. Dat heet Remote Cloning en werkt voor 433MHz-afstandsbedieningen.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Beeld en geluid / Smarthome</category>
+            <comments>https://tweakers.net/nieuws/237068/homey-maakt-het-mogelijk-functies-van-433mhz-afstandsdieningen-in-app-te-klonen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237068</guid>
+            <pubDate>Fri, 11 Jul 2025 13:53:56 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nieuwsblog - stoppen of juist starten met schrijven over Stop Killing Games</title>
+            <link>https://tweakers.net/nieuws/237078/nieuwsblog-stoppen-of-juist-starten-met-schrijven-over-stop-killing-games.html</link>
+            <description>Als persoon is het burgerinitiatief Stop Killing Games, bedoeld om games langer beschikbaar te houden, een goede zaak. Maar als journalist wordt ook verwacht dat we objectief en neutraal blijven, en soms zijn die twee zaken zeker bij technerds moeilijk te scheiden.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/237078/nieuwsblog-stoppen-of-juist-starten-met-schrijven-over-stop-killing-games.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237078</guid>
+            <pubDate>Fri, 11 Jul 2025 13:37:00 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Zotero 7.0.20</title>
             <link>https://tweakers.net/downloads/73284/zotero-7020.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/reviews/13444/tcl-c8k-mooie-miniled-tv-pakt-de-hdr-kroon.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13444</guid>
             <pubDate>Thu, 10 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Tweakers Podcast #381 - Samsung-squircles, bloatwarewetten en grote accu&#039;s</title>
-            <link>https://tweakers.net/geek/237012/tweakers-podcast-381-samsung-squircles-bloatwarewetten-en-grote-accus.html</link>
-            <description>Deze week praten Wout Funnekotter, Eric van Ballegoie en Arnoud Wokke over telefoons met silicium-koolstofaccu&#039;s, het Grok-AI-model dat uit de bocht vloog, de Vlaamse wet voor voorinstallatie van apps op tv&#039;s en Samsungs nieuwe horloges en vouwbare telefoons.</description>
-            <author>Arnoud Wokke</author>
-            <category>.Geek / Beeld en geluid / Audio</category>
-            <comments>https://tweakers.net/geek/237012/tweakers-podcast-381-samsung-squircles-bloatwarewetten-en-grote-accus.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/237012</guid>
-            <pubDate>Thu, 10 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google begint met uitrol van AI-assistent Gemini naar Wear OS-horloges</title>
-            <link>https://tweakers.net/nieuws/237028/google-begint-met-uitrol-van-ai-assistent-gemini-naar-wear-os-horloges.html</link>
-            <description>Google is begonnen met de uitrol van Gemini naar Wear OS-horloges. Deze spraakassistent maakt gebruik van Googles Gemini-taalmodellen en moet de huidige Google Assistent vervangen.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Tablets en telefoons / Smartwatches</category>
-            <comments>https://tweakers.net/nieuws/237028/google-begint-met-uitrol-van-ai-assistent-gemini-naar-wear-os-horloges.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237028</guid>
-            <pubDate>Wed, 09 Jul 2025 21:07:04 +0200</pubDate>
         </item>
     </channel>
 </rss>
