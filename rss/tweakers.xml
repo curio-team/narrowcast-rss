@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 11 Jul 2025 16:31:02 +0200</pubDate>
-        <lastBuildDate>Fri, 11 Jul 2025 16:31:02 +0200</lastBuildDate>
+        <pubDate>Mon, 14 Jul 2025 09:31:06 +0200</pubDate>
+        <lastBuildDate>Mon, 14 Jul 2025 09:31:06 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,286 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>.Geek - Copyrightlisting vermeldt nog onaangekondigde Donkey Kong-film</title>
+            <link>https://tweakers.net/geek/237120/copyrightlisting-vermeldt-nog-onaangekondigde-donkey-kong-film.html</link>
+            <description>Nintendo en Universal Pictures werken mogelijk aan een Donkey Kong-film. Dat blijkt uit een melding bij het copyrightkantoor van de Verenigde Staten. Er is verder niets bekend over de film. Nintendo bracht twee jaar geleden The Super Mario Bros. Movie uit.</description>
+            <author>Hayte Hugo</author>
+            <category>.Geek / Gaming / Games</category>
+            <comments>https://tweakers.net/geek/237120/copyrightlisting-vermeldt-nog-onaangekondigde-donkey-kong-film.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/237120</guid>
+            <pubDate>Mon, 14 Jul 2025 08:20:31 +0200</pubDate>
+        </item>
+        <item>
+            <title>Best Buy Guide - De beste gamingmonitors</title>
+            <link>https://tweakers.net/best-buy-guide/monitors/beste-gamingmonitor</link>
+            <description>We gaan op zoek naar de beste lcd-gamingmonitors met 1080p-, 1440p- en 4k-resoluties. We letten op de featureset, de beeldkwaliteit en de prijs-kwaliteitverhouding.</description>
+            <author>Friso Weijers</author>
+            <category>Best Buy Guide / Computers / Monitors</category>
+            <comments>https://tweakers.net/best-buy-guide/monitors/beste-gamingmonitor#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/best-buy-guide/monitors/beste-gamingmonitor</guid>
+            <pubDate>Mon, 14 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gerucht: AMD&#039;s volgende Ryzen-cpu&#039;s worden vrijwel allemaal gemaakt op TSMC N2P</title>
+            <link>https://tweakers.net/nieuws/237114/gerucht-amds-volgende-ryzen-cpus-worden-vrijwel-allemaal-gemaakt-op-tsmc-n2p.html</link>
+            <description>AMD heeft naar verluidt details over zijn aanstaande Zen 6-architectuur gedeeld met zijn partners. Dat meldt bekende leaker Kepler_L2. De chips zouden vrijwel allemaal gebruikmaken van TSMC N2P, met een minder geavanceerde N3P-node voor een aantal laptopchips.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/237114/gerucht-amds-volgende-ryzen-cpus-worden-vrijwel-allemaal-gemaakt-op-tsmc-n2p.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237114</guid>
+            <pubDate>Sun, 13 Jul 2025 13:30:01 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Intel voltooit tape-out van Nova Lake-cpu&#039;s op TSMC&#039;s 2nm-procedé&#039;</title>
+            <link>https://tweakers.net/nieuws/237112/intel-voltooit-tape-out-van-nova-lake-cpus-op-tsmcs-2nm-procede.html</link>
+            <description>Intel heeft de tape-out van &#039;een belangrijk product&#039; voltooid. Dat schrijft SemiAccurate op basis van eigen bronnen. Het zou gaan om onderdelen van Nova Lake-S, de volgende desktop-cpu-generatie van het chipbedrijf. Die processors worden volgend jaar verwacht.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/237112/intel-voltooit-tape-out-van-nova-lake-cpus-op-tsmcs-2nm-procede.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237112</guid>
+            <pubDate>Sun, 13 Jul 2025 12:58:16 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Silicon Motion werkt aan PCIe 6.0-ssd-controller met snelheden tot 28GB/s&#039;</title>
+            <link>https://tweakers.net/nieuws/237106/silicon-motion-werkt-aan-pcie-60-ssd-controller-met-snelheden-tot-28gb-s.html</link>
+            <description>Silicon Motion werkt aan een SM8466-controller, meldt het Chinese techmedium IT Home. Deze zou gebruikt worden om PCIe 6.0-ssd&#039;s mee aan te sturen. Volgens de fabrikant ondersteunt de controller snelheden tot 28GB/s. Het gaat vooralsnog om een controller voor enterprise-ssd&#039;s.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / SSD&#039;s</category>
+            <comments>https://tweakers.net/nieuws/237106/silicon-motion-werkt-aan-pcie-60-ssd-controller-met-snelheden-tot-28gb-s.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237106</guid>
+            <pubDate>Sun, 13 Jul 2025 11:41:56 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nieuwe Commodore-eigenaars kondigen eerste hardware aan: Commodore 64 Ultimate</title>
+            <link>https://tweakers.net/nieuws/237110/nieuwe-commodore-eigenaars-kondigen-eerste-hardware-aan-commodore-64-ultimate.html</link>
+            <description>Er komt een nieuwe Commodore-computer aan. De Commodore 64 Ultimate biedt functies als HDMI-ondersteuning en wifi, en is volgens de makers compatibel met ‘ruim 10.000 cartridges, games en randapparatuur’ voor de originele C64. Het apparaat gaat bij de release 300 euro kosten.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Pc&#039;s</category>
+            <comments>https://tweakers.net/nieuws/237110/nieuwe-commodore-eigenaars-kondigen-eerste-hardware-aan-commodore-64-ultimate.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237110</guid>
+            <pubDate>Sun, 13 Jul 2025 10:56:50 +0200</pubDate>
+        </item>
+        <item>
+            <title>OpenAI neemt AI-tool Windsurf toch niet over, Windsurf-ceo gaat naar Google</title>
+            <link>https://tweakers.net/nieuws/237104/openai-neemt-ai-tool-windsurf-toch-niet-over-windsurf-ceo-gaat-naar-google.html</link>
+            <description>OpenAI’s overname van Windsurf gaat niet door. Het bedrijf was in de afgelopen maanden in gesprek met de AI-start-up. Nu voegt de Windsurf-ceo zich bij Google, samen met verschillende andere medewerkers. Google zou ook een licentie nemen op de technologie van Windsurf.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / IT Pro / Software development</category>
+            <comments>https://tweakers.net/nieuws/237104/openai-neemt-ai-tool-windsurf-toch-niet-over-windsurf-ceo-gaat-naar-google.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237104</guid>
+            <pubDate>Sun, 13 Jul 2025 09:51:52 +0200</pubDate>
+        </item>
+        <item>
+            <title>Quicktest - ASUS ProArt P16 (H7606WP) - Een van de lichtste RTX 50-creatorlaptops</title>
+            <link>https://tweakers.net/reviews/13462/asus-proart-p16-h7606wp-een-van-de-lichtste-rtx-50-creatorlaptops.html</link>
+            <description>De ASUS ProArt P16 is een van de lichtste creatorlaptops met een 16&quot;-scherm en een Nvidia RTX 50-videokaart. We kijken of de prestaties niet ook zo licht zijn.</description>
+            <author>Friso Weijers</author>
+            <category>Quicktest / Computers / Laptops</category>
+            <comments>https://tweakers.net/reviews/13462/asus-proart-p16-h7606wp-een-van-de-lichtste-rtx-50-creatorlaptops.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13462</guid>
+            <pubDate>Sun, 13 Jul 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Firmware-update - SmartEVSE 3.9.0</title>
+            <link>https://tweakers.net/downloads/73298/smartevse-390.html</link>
+            <description>Als je zelf een laadpaal voor de elektrische auto in elkaar wilt knutselen, kun je meestal een hoop geld besparen. In dat geval heb je onder meer een controller nodig, bijvoorbeeld de opensource EVSE van fabrikant Stegen. Een randapparaat voor de SmartEVSE-controller is de Sensorbox: dit is een kastje dat de P1-telegrammen van je elektriciteitsmeter vertaalt naar modbusberichten, op basis waarvan de SmartEVSE zijn laadvermogen regelt. Voor diegenen die geen P1-aansluiting op hun elektriciteitsmeter hebben, zijn er ook aansluitingen voor CT-klemmen aanwezig op de Sensorbox. Door een goede samenwerking tussen community en fabrikant worden de communityversies na verloop van tijd overgenomen door de fabrikant, als de stabiliteit in de community is bewezen. In versie 3.9.0 zijn de volgende veranderingen en verbeteringen aangebracht: Release v3.9.0</description>
+            <author>Bart van Klaveren</author>
+            <category>Firmware</category>
+            <comments>https://tweakers.net/downloads/73298/smartevse-390.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73298</guid>
+            <pubDate>Sun, 13 Jul 2025 08:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Best Buy Guide - De beste ultrawide monitors</title>
+            <link>https://tweakers.net/best-buy-guide/monitors/beste-ultrawide-monitor</link>
+            <description>Vind jij het ook tijd voor een ultrawide? In deze Best Buy Guide gaan we op zoek naar de beste ultrabrede schermen voor werk en gaming op basis van een lcd-paneel.</description>
+            <author>Friso Weijers</author>
+            <category>Best Buy Guide / Computers / Monitors</category>
+            <comments>https://tweakers.net/best-buy-guide/monitors/beste-ultrawide-monitor#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/best-buy-guide/monitors/beste-ultrawide-monitor</guid>
+            <pubDate>Sun, 13 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gift Guide - Zomer Gift Guide 2025 - Leuke en handige cadeautips van de community</title>
+            <link>https://tweakers.net/reviews/13482/zomer-gift-guide-2025-leuke-en-handige-cadeautips-van-de-community.html</link>
+            <description>We hebben onze community gevraagd wat de leukste, handigste en beste cadeautips voor de zomer zijn, zowel voor vakantiegangers als voor thuisblijvers.</description>
+            <author>Redactie Tweakers</author>
+            <category>Gift Guide / Beeld en geluid / Gadgets</category>
+            <comments>https://tweakers.net/reviews/13482/zomer-gift-guide-2025-leuke-en-handige-cadeautips-van-de-community.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13482</guid>
+            <pubDate>Sun, 13 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Eclipse Mosquitto 2.0.22</title>
+            <link>https://tweakers.net/downloads/73296/eclipse-mosquitto-2022.html</link>
+            <description>MQTT is een lichtgewicht netwerkprotocol dat berichten tussen apparaten uitwisselt. Het is gebaseerd op het zogenaamde publiceer-abonneerconcept. Eclipse Mosquitto is een opensource messagebroker die op zowel kleine IoT-apparaten als volwaardige servers gebruikt kan worden. Versie 2.0.22 is uitgekomen en de changelog daarvan kan hieronder worden gevonden. Broker:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73296/eclipse-mosquitto-2022.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73296</guid>
+            <pubDate>Sat, 12 Jul 2025 21:16:39 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;EU annuleert plan voor belasting op diensten van grote techbedrijven&#039;</title>
+            <link>https://tweakers.net/nieuws/237100/eu-annuleert-plan-voor-belasting-op-diensten-van-grote-techbedrijven.html</link>
+            <description>De Europese Commissie heeft het plan om een ‘digitale belasting’ te heffen bij grote techbedrijven geannuleerd. Dat meldt Politico. Het plan had onder meer Google en Meta moeten belasten. In plaats daarvan komt een belasting voor alle grote bedrijven.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/237100/eu-annuleert-plan-voor-belasting-op-diensten-van-grote-techbedrijven.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237100</guid>
+            <pubDate>Sat, 12 Jul 2025 14:17:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gerucht: Qualcomm werkt aan soc voor wearables met krachtige processorkern</title>
+            <link>https://tweakers.net/nieuws/237102/gerucht-qualcomm-werkt-aan-soc-voor-wearables-met-krachtige-processorkern.html</link>
+            <description>Qualcomm zou werken aan een soc voor smartwatches met een Arm Cortex 78-kern erin. De huidige soc van Qualcomm heeft alleen verouderde en als zuinig bedoelde Cortex A53-kernen. De soc zou vermoedelijk smartwatches veel sneller maken.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/237102/gerucht-qualcomm-werkt-aan-soc-voor-wearables-met-krachtige-processorkern.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237102</guid>
+            <pubDate>Sat, 12 Jul 2025 13:37:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Prijzen Google Pixel 10&#039;s zijn gelijk aan Pixel 9, 128GB-versie Pro XL verdwijnt</title>
+            <link>https://tweakers.net/nieuws/237098/prijzen-google-pixel-10s-zijn-gelijk-aan-pixel-9-128gb-versie-pro-xl-verdwijnt.html</link>
+            <description>De europrijzen van de Google Pixel 10-telefoons zijn online verschenen. Deze prijzen zijn gelijk aan die van de voorgangers in de Pixel 9-serie. Wel verdwijnt de 128GB-variant van de Pixel 10 Pro XL, waardoor de goedkoopste Pixel 10 Pro XL nu 1299 euro is.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/237098/prijzen-google-pixel-10s-zijn-gelijk-aan-pixel-9-128gb-versie-pro-xl-verdwijnt.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237098</guid>
+            <pubDate>Sat, 12 Jul 2025 12:42:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Grok 4 van xAI zoekt bij controversiële onderwerpen naar mening van Elon Musk</title>
+            <link>https://tweakers.net/nieuws/237096/grok-4-van-xai-zoekt-bij-controversiele-onderwerpen-naar-mening-van-elon-musk.html</link>
+            <description>Grok 4, het nieuwe AI-model van xAI, zoekt bij controversiële onderwerpen naar de mening van oprichter Elon Musk en past vermoedelijk de antwoorden daarop aan. Musk vond Grok afgelopen tijd te progressief.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Computers / Software</category>
+            <comments>https://tweakers.net/nieuws/237096/grok-4-van-xai-zoekt-bij-controversiele-onderwerpen-naar-mening-van-elon-musk.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237096</guid>
+            <pubDate>Sat, 12 Jul 2025 11:44:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - OBS Studio 31.1.1</title>
+            <link>https://tweakers.net/downloads/73294/obs-studio-3111.html</link>
+            <description>Versie 31.1.1 van OBS Studio is uitgekomen. Open Broadcaster Software Studio is opensource- en crossplatformsoftware bedoeld voor het opnemen en streamen van videobeelden van een of meer bronnen, zoals een webcam, microfoon, mediabestanden en de desktop. De software is beschikbaar voor Windows, Linux en macOS. In deze uitgave zijn de volgende verbeteringen aangebracht: 31.1.1 Hotfix Changes</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73294/obs-studio-3111.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73294</guid>
+            <pubDate>Sat, 12 Jul 2025 10:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Australië wil veel meer diensten laten checken of gebruikers boven 18 jaar zijn</title>
+            <link>https://tweakers.net/nieuws/237094/australie-wil-veel-meer-diensten-laten-checken-of-gebruikers-boven-18-jaar-zijn.html</link>
+            <description>Australië wil onder meer downloadwinkels, chatapps, pornosites en goksites verplichten te controleren of gebruikers meerderjarig zijn. Tot nu toe is die verplichting alleen bekendgemaakt voor zoekmachines zoals Google en Bing.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/237094/australie-wil-veel-meer-diensten-laten-checken-of-gebruikers-boven-18-jaar-zijn.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237094</guid>
+            <pubDate>Sat, 12 Jul 2025 10:25:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Europese toezichthouder onderzoekt TikTok voor verkeerde info tijdens onderzoek</title>
+            <link>https://tweakers.net/nieuws/237092/europese-toezichthouder-onderzoekt-tiktok-voor-verkeerde-info-tijdens-onderzoek.html</link>
+            <description>Er loopt een onderzoek naar TikTok vanwege onjuiste informatie die moederbedrijf ByteDance verstrekte tijdens een eerder onderzoek. TikTok beweerde dat er geen data van Europese gebruikers op Chinese servers stond, maar moest later toegeven dat dat wel was gebeurd.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/237092/europese-toezichthouder-onderzoekt-tiktok-voor-verkeerde-info-tijdens-onderzoek.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237092</guid>
+            <pubDate>Sat, 12 Jul 2025 09:02:30 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - WinSSHTerm 2.41.0</title>
+            <link>https://tweakers.net/downloads/73292/winsshterm-2410.html</link>
+            <description>WinSSHTerm is een gratis programma voor Windows dat PuTTY, WinSCP en VcXsrv combineert in één applicatie. Het gebruikt snelkoppelingen om nieuwe ssh-sessies te starten of tussen de verschillende sessies te wisselen, werkt met meerdere tabs of schermen en kan eenvoudig gegevens van programma&#039;s als PuTTY, PuTTY Session Manager, MobaXterm, SuperPuTTY, mRemoteNG en MTPuTTY importeren en beschermen met een hoofdwachtwoord. In versie 2.41.0 zijn de volgende veranderingen en veranderingen aangebracht: WinSSHTerm-2.41.0</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73292/winsshterm-2410.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73292</guid>
+            <pubDate>Sat, 12 Jul 2025 08:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Video - De beste 1440p Game PC van 2025! Met AMD Radeon RX 9070 en AMD Ryzen 7 7700</title>
+            <link>https://tweakers.net/video/20000/de-beste-1440p-game-pc-van-2025-met-amd-radeon-rx-9070-en-amd-ryzen-7-7700.html</link>
+            <description>De 1440p-game-pc zit tussen het instapgamesysteem, de 1080p-game-pc, en het high-end systeem, de 4k-game-pc, in, zowel wat de beoogde resolutie als het budget betreft. Deze versie van de 1440p-game-pc is weer helemaal up-to-date, met een snellere processor en videokaart dan de vorige editie. De configuratie leent een aantal onderdelen van het 4k-systeem.</description>
+            <author>Luke van Drie</author>
+            <category>Video / Computers / Componenten en randapparatuur</category>
+            <comments>https://tweakers.net/video/20000/de-beste-1440p-game-pc-van-2025-met-amd-radeon-rx-9070-en-amd-ryzen-7-7700.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/video/20000</guid>
+            <pubDate>Sat, 12 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Best Buy Guide - De beste 1440p-game-pc</title>
+            <link>https://tweakers.net/best-buy-guide/desktops/beste-1440p-game-pc</link>
+            <description>Deze versie van de 1440p-game-pc is weer helemaal up-to-date, met een snellere processor en videokaart dan de vorige editie.</description>
+            <author>Willem de Moor</author>
+            <category>Best Buy Guide / Computers / Pc&#039;s</category>
+            <comments>https://tweakers.net/best-buy-guide/desktops/beste-1440p-game-pc#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/best-buy-guide/desktops/beste-1440p-game-pc</guid>
+            <pubDate>Sat, 12 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Achtergrond - Gamers dwingen Europa tot besluit: worden games nu voor altijd speelbaar?</title>
+            <link>https://tweakers.net/reviews/13468/gamers-dwingen-europa-tot-besluit-worden-games-nu-voor-altijd-speelbaar.html</link>
+            <description>De petitie Stop Killing Games heeft genoeg handtekeningen verzameld. Gamers zijn nog niet van oneindig speelbare games verzekerd. Hoe gaat het nu verder?</description>
+            <author>Yannick Spinner</author>
+            <category>Achtergrond / Gaming / Games</category>
+            <comments>https://tweakers.net/reviews/13468/gamers-dwingen-europa-tot-besluit-worden-games-nu-voor-altijd-speelbaar.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13468</guid>
+            <pubDate>Sat, 12 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Rotterdamse ov-bus gaat vanaf 1 augustus autonoom rijden op openbare weg</title>
+            <link>https://tweakers.net/nieuws/237090/rotterdamse-ov-bus-gaat-vanaf-1-augustus-autonoom-rijden-op-openbare-weg.html</link>
+            <description>De Rotterdamse vervoerder RET gaat vanaf vrijdag 1 augustus met een autonome bus op de openbare weg rijden. Het gaat om de eerste goedgekeurde ritten met ov-bussen op de openbare weg in Nederland, al blijft er een buschauffeur achter het stuur om te kunnen ingrijpen.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Beeld en geluid / Cartech</category>
+            <comments>https://tweakers.net/nieuws/237090/rotterdamse-ov-bus-gaat-vanaf-1-augustus-autonoom-rijden-op-openbare-weg.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237090</guid>
+            <pubDate>Fri, 11 Jul 2025 20:52:01 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Meta is niet van plan pay-or-okaymodel aan te passen ondanks EU-boetes&#039;</title>
+            <link>https://tweakers.net/nieuws/237088/meta-is-niet-van-plan-pay-or-okaymodel-aan-te-passen-ondanks-eu-boetes.html</link>
+            <description>Meta is niet van plan om het pay-or-okaymodel op Facebook en Instagram aan te passen, hoewel de Europese Commissie dreigt met extra boetes. Dat melden bronnen van Reuters. Met het model kunnen klanten betalen om gepersonaliseerde advertenties te voorkomen.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237088/meta-is-niet-van-plan-pay-or-okaymodel-aan-te-passen-ondanks-eu-boetes.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237088</guid>
+            <pubDate>Fri, 11 Jul 2025 19:46:02 +0200</pubDate>
+        </item>
+        <item>
+            <title>HMD &#039;schaalt terug&#039; in de VS, niet duidelijk of telefoons te koop blijven</title>
+            <link>https://tweakers.net/nieuws/237086/hmd-schaalt-terug-in-de-vs-niet-duidelijk-of-telefoons-te-koop-blijven.html</link>
+            <description>HMD lijkt zich volledig terug te trekken uit de Amerikaanse markt. Het bedrijf bevestigt in de Verenigde Staten &#039;terug te schalen&#039; en heeft de eigen webshops gesloten. Het is niet duidelijk of het bedrijf nog wel aan externe verkopers gaat leveren.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/237086/hmd-schaalt-terug-in-de-vs-niet-duidelijk-of-telefoons-te-koop-blijven.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237086</guid>
+            <pubDate>Fri, 11 Jul 2025 18:56:13 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - TeamViewer 15.67.5</title>
+            <link>https://tweakers.net/downloads/73290/teamviewer-15675.html</link>
+            <description>Versie 15.67.5 van TeamViewer is verschenen. Met dit programma kunnen andere computers via een veilige vpn-verbinding op afstand worden beheerd. Die verbinding loopt via de servers van TeamViewer, dus er hoeven geen instellingen op de router aangepast te worden om het allemaal te laten werken. TeamViewer is gratis voor niet-commercieel gebruik en wordt ontwikkeld voor Windows, Linux, macOS, iOS en Android. Sinds versie 15.67.3 zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 15.67.5</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73290/teamviewer-15675.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73290</guid>
+            <pubDate>Fri, 11 Jul 2025 18:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Oprichters Subnautica-studio klagen moederbedrijf Krafton aan na ontslag</title>
+            <link>https://tweakers.net/nieuws/237084/oprichters-subnautica-studio-klagen-moederbedrijf-krafton-aan-na-ontslag.html</link>
+            <description>De oprichters van de ontwikkelstudio achter de Subnautica-games zeggen Krafton te hebben aangeklaagd. Krafton nam de ontwikkelstudio jaren geleden over, maar ontsloeg de oprichters deze maand nadat Subnautica 2 werd uitgesteld naar volgend jaar.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/237084/oprichters-subnautica-studio-klagen-moederbedrijf-krafton-aan-na-ontslag.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237084</guid>
+            <pubDate>Fri, 11 Jul 2025 18:24:24 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Visual Studio Code 1.102.0</title>
             <link>https://tweakers.net/downloads/73288/visual-studio-code-11020.html</link>
@@ -108,12 +388,12 @@
             <pubDate>Fri, 11 Jul 2025 11:30:00 +0200</pubDate>
         </item>
         <item>
-            <title>Google vervangt Android Developer Previews met nieuw Canary-releasechannel</title>
-            <link>https://tweakers.net/nieuws/237072/google-vervangt-android-developer-previews-met-nieuw-canary-releasechannel.html</link>
+            <title>Google vervangt Android Developer Previews door nieuw Canary-releasechannel</title>
+            <link>https://tweakers.net/nieuws/237072/google-vervangt-android-developer-previews-door-nieuw-canary-releasechannel.html</link>
             <description>Google komt met een nieuw testkanaal voor Android. Het Canary-releasechannel vervangt het huidige ontwikkelaarspreviewkanaal. Een verschil is dat het Canary-channel als over-the-airupdate kan worden geïnstalleerd. Ontwikkelaars hoeven zo geen nieuwe preview te flashen.</description>
             <author>Tijs Hofmans</author>
             <category>Nieuws / IT Pro / Software development</category>
-            <comments>https://tweakers.net/nieuws/237072/google-vervangt-android-developer-previews-met-nieuw-canary-releasechannel.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/237072/google-vervangt-android-developer-previews-door-nieuw-canary-releasechannel.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237072</guid>
             <pubDate>Fri, 11 Jul 2025 11:11:57 +0200</pubDate>
         </item>
@@ -136,286 +416,6 @@
             <comments>https://tweakers.net/nieuws/237056/adviesgroep-europa-moet-voortrekker-worden-in-cve-kwetsbaarhedenprogramma.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237056</guid>
             <pubDate>Fri, 11 Jul 2025 10:10:24 +0200</pubDate>
-        </item>
-        <item>
-            <title>DPG-accounts zijn voortaan niet op vijf maar maximaal drie apparaten bruikbaar</title>
-            <link>https://tweakers.net/nieuws/237048/dpg-accounts-zijn-voortaan-niet-op-vijf-maar-maximaal-drie-apparaten-bruikbaar.html</link>
-            <description>DPG Media beperkt het maximaal aantal apparaten waarop gebruikers ingelogd mogen zijn bij nieuwssites. Dat waren er eerst vijf, maar nu zijn dat er drie. Het bedrijf wil misbruik tegengaan. Het gaat om de accounts waarmee gebruikers krantensites kunnen lezen.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/nieuws/237048/dpg-accounts-zijn-voortaan-niet-op-vijf-maar-maximaal-drie-apparaten-bruikbaar.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237048</guid>
-            <pubDate>Fri, 11 Jul 2025 09:43:23 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Mozilla Thunderbird 140.0.1</title>
-            <link>https://tweakers.net/downloads/73276/mozilla-thunderbird-14001.html</link>
-            <description>De Mozilla Foundation heeft een update voor versie 140.0 van Thunderbird uitgebracht. Thunderbird is een opensourceclient voor e-mail en nieuwsgroepen met ondersteuning voor verschillende mail- en newsaccounts. Verder zijn er een spamfilter, spellingscontrole, kalender en adresboek, en heeft het een aanpasbaar uiterlijk. Thunderbird is beschikbaar in twee verschillende versies, die beide als stabiel worden aangeduid. De eerste wordt vaker voorzien van nieuwe functionaliteit en wordt als Release-versie aangeboden; de andere, de Extra Support Release-versie, wordt alleen van bugfixes en stabiliteitsverbeteringen voorzien. De changelog voor deze uitgave kan hieronder worden gevonden. What’s Fixed</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73276/mozilla-thunderbird-14001.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73276</guid>
-            <pubDate>Fri, 11 Jul 2025 09:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Wemo-smarthomeproducten van Belkin zijn vanaf volgend jaar niet meer bruikbaar</title>
-            <link>https://tweakers.net/nieuws/237070/wemo-smarthomeproducten-van-belkin-zijn-vanaf-volgend-jaar-niet-meer-bruikbaar.html</link>
-            <description>Belkin stopt volgend jaar met de ondersteuning van veel Wemo-smarthomeproducten. De servers gaan begin 2026 offline, waardoor ze niet meer op afstand te gebruiken zijn. Dat kan nog wel via bijvoorbeeld Apple HomeKit of Home Assistant. Onder andere stekkers uit 2023 worden getroffen.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Beeld en geluid / Smarthome</category>
-            <comments>https://tweakers.net/nieuws/237070/wemo-smarthomeproducten-van-belkin-zijn-vanaf-volgend-jaar-niet-meer-bruikbaar.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237070</guid>
-            <pubDate>Fri, 11 Jul 2025 08:43:41 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Aomei Partition Assistant 10.8.2</title>
-            <link>https://tweakers.net/downloads/73278/aomei-partition-assistant-1082.html</link>
-            <description>Aomei heeft versie 10.8.2 van Partition Assistant uitgebracht. Met dit programma kunnen partities worden aangepast. Zo kunnen deze vergroot, verkleind, opgedeeld of samengevoegd worden. Ook kan de alignment worden aangepast en kan een partitie worden gekopieerd, wat handig is als er bijvoorbeeld van een harde schijf naar een ssd gemigreerd wordt. Partition Assistant is gratis, maar er is ook een Pro-uitvoering. Die maakt onder meer converteren van de indeling van mbr naar gpt voor een bootpartitie mogelijk en kan overweg met dynamische volumes. De changelog sinds versie 10.8 ziet er als volgt uit: Changes in version 10.8.2:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73278/aomei-partition-assistant-1082.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73278</guid>
-            <pubDate>Fri, 11 Jul 2025 07:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Interview - Minder nieuwe laadpalen: hoe wil Nederland alsnog elke EV van stroom voorzien?</title>
-            <link>https://tweakers.net/reviews/13330/minder-nieuwe-laadpalen-hoe-wil-nederland-alsnog-elke-ev-van-stroom-voorzien.html</link>
-            <description>De laadpalen schieten als paddenstoelen uit de grond, maar volgens de Nationale Agenda Laadinfrastructuur zijn er ook zorgen over de toekomst van het Nederlandse laadnetwerk.</description>
-            <author>Hayte Hugo</author>
-            <category>Interview / Beeld en geluid / Cartech</category>
-            <comments>https://tweakers.net/reviews/13330/minder-nieuwe-laadpalen-hoe-wil-nederland-alsnog-elke-ev-van-stroom-voorzien.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13330</guid>
-            <pubDate>Fri, 11 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Bitwarden 2025.7.0</title>
-            <link>https://tweakers.net/downloads/73274/bitwarden-202570.html</link>
-            <description>Bitwarden is een crossplatform en opensource wachtwoordbeheerdienst die persoonlijke gegevens in een versleutelde digitale kluis opslaat. Het is in de basis gratis te gebruiken en voor een klein bedrag per jaar is er toegang tot diverse extra&#039;s zoals het kunnen opslaan van totp-codes, inloggen met een YubiKey en opslagcapaciteit voor bijlagen. Bitwarden is beschikbaar online, als desktopclient, als mobiele app en als plug-in voor diverse webbrowsers. In versie 2025.5.0 zijn de volgende veranderingen en verbeteringen aangebracht: Password Manager</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73274/bitwarden-202570.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73274</guid>
-            <pubDate>Thu, 10 Jul 2025 23:02:25 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google voegt foto-naar-videofunctie toe aan AI-tool Veo 3, nog niet in Nederland</title>
-            <link>https://tweakers.net/nieuws/237064/google-voegt-foto-naar-videofunctie-toe-aan-ai-tool-veo-3-nog-niet-in-nederland.html</link>
-            <description>Google voegt een functie toe aan zijn AI-videomaker Veo 3 waarmee het mogelijk is om video&#039;s te genereren op basis van foto&#039;s. Die functie is voorlopig nog niet beschikbaar in Nederland en België.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Fotografie en video</category>
-            <comments>https://tweakers.net/nieuws/237064/google-voegt-foto-naar-videofunctie-toe-aan-ai-tool-veo-3-nog-niet-in-nederland.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237064</guid>
-            <pubDate>Thu, 10 Jul 2025 21:07:39 +0200</pubDate>
-        </item>
-        <item>
-            <title>Gamestemacteurs stoppen na jaar met staken na bereiken van overeenkomst over AI</title>
-            <link>https://tweakers.net/nieuws/237062/gamestemacteurs-stoppen-na-jaar-met-staken-na-bereiken-van-overeenkomst-over-ai.html</link>
-            <description>De Amerikaanse acteursvakbond SAG-AFTRA heeft de staking van stemacteurs voor games officieel beëindigd. Leden van de vakbond zijn akkoord gegaan met een overeenkomst waarin onder meer waarborgen staan over het gebruik van AI.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/237062/gamestemacteurs-stoppen-na-jaar-met-staken-na-bereiken-van-overeenkomst-over-ai.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237062</guid>
-            <pubDate>Thu, 10 Jul 2025 20:45:52 +0200</pubDate>
-        </item>
-        <item>
-            <title>YouTube stopt met uitlichten van populaire video&#039;s via Trending-pagina</title>
-            <link>https://tweakers.net/nieuws/237060/youtube-stopt-met-uitlichten-van-populaire-videos-via-trending-pagina.html</link>
-            <description>YouTube stopt na vijftien jaar met de Trending-pagina, waarin populaire video&#039;s worden uitgelicht. Het videoplatform wil deze pagina binnen een paar weken verwijderen. Het is de bedoeling dat YouTube Charts de Trending-sectie gaat vervangen.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/nieuws/237060/youtube-stopt-met-uitlichten-van-populaire-videos-via-trending-pagina.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237060</guid>
-            <pubDate>Thu, 10 Jul 2025 19:58:15 +0200</pubDate>
-        </item>
-        <item>
-            <title>Meta moet Duitser 5000 euro schadevergoeding betalen vanwege illegale tracking</title>
-            <link>https://tweakers.net/nieuws/237058/meta-moet-duitser-5000-euro-schadevergoeding-betalen-vanwege-illegale-tracking.html</link>
-            <description>Meta moet een schadevergoeding van 5000 euro betalen aan een Duitse Facebook-gebruiker. De rechter vindt dat het bedrijf onterecht privégegevens van de man heeft verzameld op websites van derden.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/237058/meta-moet-duitser-5000-euro-schadevergoeding-betalen-vanwege-illegale-tracking.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237058</guid>
-            <pubDate>Thu, 10 Jul 2025 19:00:48 +0200</pubDate>
-        </item>
-        <item>
-            <title>XAI brengt Grok 4-model uit en komt met AI-abonnement van 300 dollar per maand</title>
-            <link>https://tweakers.net/nieuws/237054/xai-brengt-grok-4-model-uit-en-komt-met-ai-abonnement-van-300-dollar-per-maand.html</link>
-            <description>XAI heeft zijn Grok 4-taalmodellen beschikbaar gemaakt. De geavanceerdste versie zou beter dan elk ander model scoren op de ARC-AGI 2-benchmark, die de &#039;algemene intelligentie&#039; van llm&#039;s moet meten. Toegang tot deze versie kost 300 dollar per maand.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/nieuws/237054/xai-brengt-grok-4-model-uit-en-komt-met-ai-abonnement-van-300-dollar-per-maand.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237054</guid>
-            <pubDate>Thu, 10 Jul 2025 18:06:20 +0200</pubDate>
-        </item>
-        <item>
-            <title>Jedec publiceert Lpddr6-standaard voor smartphone- en handheldgeheugen</title>
-            <link>https://tweakers.net/nieuws/237052/jedec-publiceert-lpddr6-standaard-voor-smartphone-en-handheldgeheugen.html</link>
-            <description>Standaardenorganisatie Jedec heeft de Lpddr6-standaard gepubliceerd, die de huidige Lpddr5-standaarden moet opvolgen. Deze zesde generatie moet &#039;significant sneller en efficiënter&#039; zijn, al geeft Jedec nog niet veel informatie over de praktijkverschillen.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/237052/jedec-publiceert-lpddr6-standaard-voor-smartphone-en-handheldgeheugen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237052</guid>
-            <pubDate>Thu, 10 Jul 2025 17:08:22 +0200</pubDate>
-        </item>
-        <item>
-            <title>Fiscus moet twee systemen verplicht uitschakelen wegens privacyschending</title>
-            <link>https://tweakers.net/nieuws/237046/fiscus-moet-twee-systemen-verplicht-uitschakelen-wegens-privacyschending.html</link>
-            <description>De Nederlandse Belastingdienst moet van de Autoriteit Persoonsgegevens verplicht twee systemen uitfaseren omdat die de privacy van burgers kunnen schenden. Bij een daarvan krijgen bijvoorbeeld alle Belastingdienstmedewerkers toegang tot een grote hoeveelheid gegevens.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Privacy</category>
-            <comments>https://tweakers.net/nieuws/237046/fiscus-moet-twee-systemen-verplicht-uitschakelen-wegens-privacyschending.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237046</guid>
-            <pubDate>Thu, 10 Jul 2025 17:04:48 +0200</pubDate>
-        </item>
-        <item>
-            <title>Achtergrond - Online liegen over je leeftijd wordt mogelijk een stuk lastiger</title>
-            <link>https://tweakers.net/reviews/13470/online-liegen-over-je-leeftijd-wordt-mogelijk-een-stuk-lastiger.html</link>
-            <description>Binnenkort verschijnt er een Europese leeftijdsverificatieapp. Betekent dit het einde van eenvoudig te omzeilen 18+-vinkjes?</description>
-            <author>Kevin Krikhaar</author>
-            <category>Achtergrond / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/reviews/13470/online-liegen-over-je-leeftijd-wordt-mogelijk-een-stuk-lastiger.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13470</guid>
-            <pubDate>Thu, 10 Jul 2025 16:21:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Sony onderzoekt Europese gevolgen voor startproblemen met Xperia 1 VII-telefoons</title>
-            <link>https://tweakers.net/nieuws/237050/sony-onderzoekt-europese-gevolgen-voor-startproblemen-met-xperia-1-vii-telefoons.html</link>
-            <description>Sony onderzoekt wat de gevolgen zijn van de start- en uitvalproblemen met de Xperia 1 VII-smartphones voor de Europese markt. Mogelijk treft het probleem alleen Japanse toestellen, maar Sony hint erop dat dit wel gevolgen kan hebben voor de wereldwijde voorraad.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/237050/sony-onderzoekt-europese-gevolgen-voor-startproblemen-met-xperia-1-vii-telefoons.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237050</guid>
-            <pubDate>Thu, 10 Jul 2025 15:35:14 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - dBpoweramp Music Converter 2025.07.07</title>
-            <link>https://tweakers.net/downloads/73272/dbpoweramp-music-converter-20250707.html</link>
-            <description>Illustrate heeft een nieuwe versie van dBpoweramp Music Converter uitgebracht. Met dit audiobewerkingsprogramma kunnen audio-cd&#039;s worden geript en kunnen muziekbestanden van en naar onder andere mp3, m4a, wma, Ogg Vorbis, aac, Monkey&#039;s Audio, flac en alac worden geconverteerd, met behoud van tags. Verder kunnen de mp3-tags worden aangepast en kan het programma volledig in Windows Explorer worden geïntegreerd, waardoor het gemakkelijk aan te roepen is. De basisversie voor het rippen van cd&#039;s en het converteren van bestanden is gratis. Voor extra functionaliteit moet worden betaald. Het programma is beschikbaar voor Windows en macOS. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Release 2025-07-07</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73272/dbpoweramp-music-converter-20250707.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73272</guid>
-            <pubDate>Thu, 10 Jul 2025 15:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>AMD-processors zijn kwetsbaar voor Meltdown-achtig lowleveldatalek</title>
-            <link>https://tweakers.net/nieuws/237036/amd-processors-zijn-kwetsbaar-voor-meltdown-achtig-lowleveldatalek.html</link>
-            <description>Veel client- en serverprocessors van AMD hebben een lowlevelkwetsbaarheid die datalekken mogelijk maakt. Aanvallers die dit willen misbruiken, moeten wel complexe stappen uitvoeren. Toch is de impact volgens securitybedrijven groot.</description>
-            <author>Jasper Bakker</author>
-            <category>Nieuws / Computers / Processors</category>
-            <comments>https://tweakers.net/nieuws/237036/amd-processors-zijn-kwetsbaar-voor-meltdown-achtig-lowleveldatalek.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237036</guid>
-            <pubDate>Thu, 10 Jul 2025 15:19:50 +0200</pubDate>
-        </item>
-        <item>
-            <title>Ex-ASML-medewerker krijgt drie jaar cel voor delen chipgeheimen met Rusland</title>
-            <link>https://tweakers.net/nieuws/237020/ex-asml-medewerker-krijgt-drie-jaar-cel-voor-delen-chipgeheimen-met-rusland.html</link>
-            <description>De rechtbank Rotterdam heeft German A. veroordeeld tot een celstraf van drie jaar. Hij heeft bedrijfsgeheimen over de chipsector gedeeld met Rusland, zo concludeert de rechter. De 43-jarige man werkte lange tijd in de chipsector, onder andere bij ASML en NXP.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/237020/ex-asml-medewerker-krijgt-drie-jaar-cel-voor-delen-chipgeheimen-met-rusland.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237020</guid>
-            <pubDate>Thu, 10 Jul 2025 14:57:29 +0200</pubDate>
-        </item>
-        <item>
-            <title>Samsung-topman: &#039;Verwacht dat dubbel vouwbare foldable later dit jaar uitkomt&#039;</title>
-            <link>https://tweakers.net/nieuws/237044/samsung-topman-verwacht-dat-dubbel-vouwbare-foldable-later-dit-jaar-uitkomt.html</link>
-            <description>Samsung-topman Roh Tae-moon &#039;verwacht&#039; dat de eerste dubbel vouwbare smartphone van het bedrijf later dit jaar verschijnt. De fabrikant hint al langer op de komst van de foldable. Roh zegt dat het product nu &#039;geperfectioneerd&#039; wordt.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/237044/samsung-topman-verwacht-dat-dubbel-vouwbare-foldable-later-dit-jaar-uitkomt.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237044</guid>
-            <pubDate>Thu, 10 Jul 2025 14:44:58 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nintendo stopt met Nintendo Switch-gamevouchers voor goedkopere games</title>
-            <link>https://tweakers.net/nieuws/237042/nintendo-stopt-met-nintendo-switch-gamevouchers-voor-goedkopere-games.html</link>
-            <description>Nintendo stopt met de Switch-gamevouchers. Hiermee kunnen Switch Online-abonnees met korting firstpartygames kopen. De vouchers zijn vanaf 1 februari 2026 niet langer te koop en zijn een jaar geldig. Ze zijn niet geldig voor Switch 2-exclusives.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / Gaming / Consoles</category>
-            <comments>https://tweakers.net/nieuws/237042/nintendo-stopt-met-nintendo-switch-gamevouchers-voor-goedkopere-games.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237042</guid>
-            <pubDate>Thu, 10 Jul 2025 13:51:52 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - XYplorer 27.10</title>
-            <link>https://tweakers.net/downloads/73270/xyplorer-2710.html</link>
-            <description>Versie 27.10 van XYplorer is uitgekomen. Dit bestandsbeheerprogramma voor Windows heeft tabbladen, een uitgebreide zoekfunctie en een veelzijdige preview. Het is klein en hoeft niet te worden geïnstalleerd om zijn werk te kunnen doen. De gebruikersinterface is geheel naar eigen smaak in te stellen en er zijn diverse mogelijkheden om taken die vaak voorkomen, te automatiseren. Een standaardlicentie kost 35 dollar. Daarvoor mag het programma voor altijd worden gebruikt, maar word je slechts een jaar voorzien van updates. Voor het dubbele bedrag ontvang je de updates voor altijd. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: What’s New in 27.10?</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73270/xyplorer-2710.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73270</guid>
-            <pubDate>Thu, 10 Jul 2025 13:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Community - Blij met Tweakers? Wat kan er beter? Laat het weten in ons kwartaalonderzoek</title>
-            <link>https://tweakers.net/reviews/13372/blij-met-tweakers-wat-kan-er-beter-laat-het-weten-in-ons-kwartaalonderzoek.html</link>
-            <description>Het tweede kwartaal van 2025 zit er bijna op en dus is het weer tijd voor een nieuwe editie van ons gebruikersonderzoek.</description>
-            <author>Saskia Schoonebeek</author>
-            <category>.Community / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/reviews/13372/blij-met-tweakers-wat-kan-er-beter-laat-het-weten-in-ons-kwartaalonderzoek.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13372</guid>
-            <pubDate>Thu, 10 Jul 2025 13:15:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>ACM waarschuwt elektronicawinkels voor schenden garantieregels</title>
-            <link>https://tweakers.net/nieuws/237040/acm-waarschuwt-elektronicawinkels-voor-schenden-garantieregels.html</link>
-            <description>Verkopers van consumentenelektronica moeten de garantieregels beter naleven. Hiervoor waarschuwt de Autoriteit Consument &amp; Markt. De Nederlandse toezichthouder zegt jaarlijks &#039;duizenden&#039; meldingen te ontvangen over de slechte afhandeling van garantiekwesties.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / IT Pro / E-commerce</category>
-            <comments>https://tweakers.net/nieuws/237040/acm-waarschuwt-elektronicawinkels-voor-schenden-garantieregels.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237040</guid>
-            <pubDate>Thu, 10 Jul 2025 12:02:14 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - SABnzbd 4.5.2</title>
-            <link>https://tweakers.net/downloads/73268/sabnzbd-452.html</link>
-            <description>Versie 4.5.2 van SABnzbd is uitgekomen. Met SABnzbd kunnen bestanden van usenet worden gedownload. Dit opensourceprogramma is beschikbaar voor Windows, Linux en macOS, en biedt de mogelijkheid om nzb-bestanden te laden, waarna de juiste bestanden van usenet worden geplukt. Met de ingebouwde webinterface is het mogelijk om het programma via een webbrowser te bedienen. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Bug fixes and changes</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73268/sabnzbd-452.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73268</guid>
-            <pubDate>Thu, 10 Jul 2025 11:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;OpenAI wil in de komende weken een AI-browser gebaseerd op Chromium uitbrengen&#039;</title>
-            <link>https://tweakers.net/nieuws/237038/openai-wil-in-de-komende-weken-een-ai-browser-gebaseerd-op-chromium-uitbrengen.html</link>
-            <description>OpenAI wil in de komende weken een AI-browser uitbrengen. Dat schrijft Reuters op basis van anonieme bronnen. Met de browser zou OpenAI directer toegang krijgen tot gebruikersdata. De browser zou gebaseerd zijn op Chromium.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / Computers / Browsers</category>
-            <comments>https://tweakers.net/nieuws/237038/openai-wil-in-de-komende-weken-een-ai-browser-gebaseerd-op-chromium-uitbrengen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237038</guid>
-            <pubDate>Thu, 10 Jul 2025 11:10:53 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft claimt AI-besparing van half miljard dollar in callcenters</title>
-            <link>https://tweakers.net/nieuws/237034/microsoft-claimt-ai-besparing-van-half-miljard-dollar-in-callcenters.html</link>
-            <description>Microsofts eigen inzet van AI zou het bedrijf vorig jaar op personeelsgebied een besparing van 500 miljoen dollar hebben opgeleverd. Dat heeft een topmanager van het bedrijf deze week in een presentatie onthuld. Ook heeft Microsoft vorige week ruim 9000 werknemers ontslagen.</description>
-            <author>Jasper Bakker</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237034/microsoft-claimt-ai-besparing-van-half-miljard-dollar-in-callcenters.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237034</guid>
-            <pubDate>Thu, 10 Jul 2025 10:34:48 +0200</pubDate>
-        </item>
-        <item>
-            <title>Fractal kondigt North-achtige ATX-behuizing met meshvoorkant aan voor 115 euro</title>
-            <link>https://tweakers.net/nieuws/237032/fractal-kondigt-north-achtige-atx-behuizing-met-meshvoorkant-aan-voor-115-euro.html</link>
-            <description>Fractal Design heeft de Epoch aangekondigd, een ATX-behuizing met drie ingebouwde 120mm-ventilators. De behuizing komt in verschillende varianten zoals een volledig gesloten behuizing, zijpanelen met glas, versies met argb-fans en in het wit of in het zwart.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / Computers / Behuizingen</category>
-            <comments>https://tweakers.net/nieuws/237032/fractal-kondigt-north-achtige-atx-behuizing-met-meshvoorkant-aan-voor-115-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237032</guid>
-            <pubDate>Thu, 10 Jul 2025 10:23:34 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - KeePass Password Safe 2.59</title>
-            <link>https://tweakers.net/downloads/73266/keepass-password-safe-259.html</link>
-            <description>Dominik Reichl heeft versie 2.59 van KeePass Password Safe uitgebracht. Met deze opensource-wachtwoordmanager kunnen accounts worden opgeslagen, inclusief de bijbehorende gegevens, zoals gebruikersnaam, wachtwoord en URL. Alle gegevens worden veilig in een met het Rijndael-algoritme versleutelde database opgeslagen. Verder kan het programma automatisch wachtwoorden genereren en lijsten im- en exporteren. Door het toevoegen van een taalbestand kan het programma ook in het andere talen worden gebruikt. Van KeePass Password Safe bestaan twee verschillende uitvoeringen die beide actief worden ontwikkeld. Versie 1.x is niet afhankelijk van andere software en werkt alleen onder Windows. Versie 2 maakt intern gebruik van XML en heeft verder minimaal versie 2.0 van het .NET Framework nodig of, als het programma onder Linux, macOS of FreeBSD wordt gebruikt, van Mono versie 2.6 of hoger. Een volledig overzicht van de verschillen tussen versie 1 en 2 is op deze pagina te vinden. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: New features:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73266/keepass-password-safe-259.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73266</guid>
-            <pubDate>Thu, 10 Jul 2025 09:30:00 +0200</pubDate>
         </item>
     </channel>
 </rss>

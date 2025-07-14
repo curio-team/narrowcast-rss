@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 11 Jul 2025 14:21:21 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 13 Jul 2025 21:32:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,152 +28,326 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>AI chatbot&#8217;s simple ‘123456’ password risked exposing personal data of millions of McDonald’s job applicants</title>
-		<link>https://techcrunch.com/2025/07/11/ai-chatbots-simple-123456-password-risked-exposing-personal-data-of-millions-of-mcdonalds-job-applicants/</link>
+		<title>Meta acquires voice startup Play AI</title>
+		<link>https://techcrunch.com/2025/07/13/meta-acquires-voice-startup-play-ai/</link>
 		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
-		<pubDate>Fri, 11 Jul 2025 14:21:17 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[hackers]]></category>
-		<category><![CDATA[hacking]]></category>
-		<category><![CDATA[mcdonalds]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3026986</guid>
-
-					<description><![CDATA[Security researchers found two flaws in an AI-powered chatbot used by McDonald’s to interact with job applicants.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>YC-backed Apolink by 19-year-old bags $4.3M to build 24/7 connectivity for LEO satellites</title>
-		<link>https://techcrunch.com/2025/07/11/yc-backed-apolink-by-19-year-old-bags-4-3m-to-build-24-7-connectivity-for-leo-satellites/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Fri, 11 Jul 2025 14:12:21 +0000</pubDate>
-				<category><![CDATA[Space]]></category>
-		<category><![CDATA[Apolink]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[Y Combinator]]></category>
-		<category><![CDATA[yc]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3026703</guid>
-
-					<description><![CDATA[Apolink, a Y Combinator-backed space-tech startup, has raised $4.3 million in an "oversubscribed" seed round at $45 million post-money valuation to build a real-time connectivity network for satellites in low Earth orbit (LEO).]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Helios wants to be the AI operating system for public policy professionals</title>
-		<link>https://techcrunch.com/2025/07/11/helios-wants-to-be-the-ai-operating-system-for-public-policy-professionals/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Fri, 11 Jul 2025 14:07:11 +0000</pubDate>
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sun, 13 Jul 2025 21:32:25 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
 		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Helios]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[public policy]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3026975</guid>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[Play AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027388</guid>
 
-					<description><![CDATA[Helios, a startup aiming to build an AI-powered operating system for policy professionals, has raised $4 million in seed funding.]]></description>
+					<description><![CDATA[Meta has acquired Play AI, a startup that uses AI to generate human-sounding voices.]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Just 4 days until TechCrunch All Stage kicks off in Boston — and the lowest ticket prices vanish</title>
-		<link>https://techcrunch.com/2025/07/11/just-4-days-until-techcrunch-all-stage-kicks-off-in-boston-and-the-lowest-ticket-prices-vanish/</link>
+		<title>Study warns of ‘significant risks’ in using AI therapy chatbots</title>
+		<link>https://techcrunch.com/2025/07/13/study-warns-of-significant-risks-in-using-ai-therapy-chatbots/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sun, 13 Jul 2025 19:50:38 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[7cups]]></category>
+		<category><![CDATA[character.ai]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027384</guid>
+
+					<description><![CDATA[Therapy chatbots powered by large language models may stigmatize users with mental health conditions and otherwise respond inappropriately or even dangerously, according to researchers at Stanford University.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Elon Musk’s SpaceX might invest $2 billion in Musk’s xAI</title>
+		<link>https://techcrunch.com/2025/07/13/elon-musks-spacex-might-invest-2-billion-in-musks-xai/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sun, 13 Jul 2025 15:12:17 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Space]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[SpaceX]]></category>
+		<category><![CDATA[xAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027380</guid>
+
+					<description><![CDATA[One Elon Musk business might be making a big investment in another.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>UK launches £500M package to support diverse, underrepresented investors and founders</title>
+		<link>https://techcrunch.com/2025/07/13/uk-launches-500-package-to-support-diverse-underrepresented-investors-and-founders/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Sun, 13 Jul 2025 14:30:00 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[British]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[UK]]></category>
+		<category><![CDATA[venture]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027373</guid>
+
+					<description><![CDATA[The British Business Bank, owned by the UK government, is creating a £500 million (around $674 million) economic package to help support diverse and underrepresented fund managers and founders in the country.&#160; Fifty million pounds will be set aside for female-led venture funds, which means the BBB has now committed at least £100 million (around [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The countdown’s almost over: 2 days until TechCrunch All Stage 2025 kicks off in Boston</title>
+		<link>https://techcrunch.com/2025/07/13/the-countdowns-almost-over-2-days-until-techcrunch-all-stage-2025-kicks-off-in-boston/</link>
 		
 		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Fri, 11 Jul 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
+		<pubDate>Sun, 13 Jul 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[TechCrunch All Stage 2025]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Venture]]></category>
 		<category><![CDATA[TC All Stage]]></category>
 		<category><![CDATA[TC All Stage 2025]]></category>
 		<category><![CDATA[TechCrunch All Stage]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3026341</guid>
+		<category><![CDATA[TechCrunch All Stage 2025]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3026626</guid>
 
-					<description><![CDATA[Time’s running out. In just four days, TechCrunch All Stage 2025 touches down at Boston’s SoWa Power Station on July 15 — and your chance to lock in savings of up to $475 disappears. This one-day summit isn’t built for spectators. It’s designed for the doers — the founders, builders, and backers who are shaping [&#8230;]]]></description>
+					<description><![CDATA[TechCrunch All Stage 2025 is almost here — In 2 days, the doors swing open at Boston’s SoWa Power Station. If you’re a founder or investor, this is your last shot to lock in the lowest ticket prices before they vanish at the door. This isn’t your average startup conference. TC All Stage is where [&#8230;]]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Samsung is exploring new wearable form factors such as earrings and necklaces</title>
-		<link>https://techcrunch.com/2025/07/11/samsung-is-exploring-new-wearable-form-factors-such-as-earrings-and-necklaces/</link>
+		<title>A United Nations research institute created an AI refugee avatar</title>
+		<link>https://techcrunch.com/2025/07/12/a-united-nations-research-institute-created-an-ai-refugee-avatar/</link>
 		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Fri, 11 Jul 2025 12:15:23 +0000</pubDate>
-				<category><![CDATA[Gadgets]]></category>
-		<category><![CDATA[Samsung]]></category>
-		<category><![CDATA[SMART Glasses]]></category>
-		<category><![CDATA[smart ring]]></category>
-		<category><![CDATA[wearables]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3026943</guid>
-
-					<description><![CDATA[Samsung is looking to bolster its lineup of wearables with new form factors like glasses, earrings, and necklaces, CNN reported.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Indeed, Glassdoor to lay off 1,300 staff amid AI push</title>
-		<link>https://techcrunch.com/2025/07/11/indeed-glassdoor-to-lay-off-1300-staff/</link>
-		
-		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
-		<pubDate>Fri, 11 Jul 2025 11:52:23 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Glassdoor]]></category>
-		<category><![CDATA[Indeed]]></category>
-		<category><![CDATA[Layoffs]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3026942</guid>
-
-					<description><![CDATA[Indeed and Glassdoor will lose 1,300 staff as part of a broader restructuring.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>RealSense spins out of Intel to scale its stereoscopic imaging technology</title>
-		<link>https://techcrunch.com/2025/07/11/realsense-spins-out-of-intel-to-scale-its-stereoscopic-imaging-technology/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Fri, 11 Jul 2025 10:00:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[Intel]]></category>
-		<category><![CDATA[Intel Capital]]></category>
-		<category><![CDATA[fundraising]]></category>
-		<category><![CDATA[robotics]]></category>
-		<category><![CDATA[Artificial Intelligence (AI)]]></category>
-		<category><![CDATA[Computer Vision]]></category>
-		<category><![CDATA[vision tech]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3026789</guid>
-
-					<description><![CDATA[RealSense is building vision tech that helps machines like robots and drones navigate and respond to a 3D world. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Grok 4 seems to consult Elon Musk to answer controversial questions</title>
-		<link>https://techcrunch.com/2025/07/10/grok-4-seems-to-consult-elon-musk-to-answer-controversial-questions/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Fri, 11 Jul 2025 00:13:00 +0000</pubDate>
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sat, 12 Jul 2025 21:03:39 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[united nations]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027335</guid>
+
+					<description><![CDATA[A research institute connected to the United Nations has created two AI-powered avatars designed to teach people about refugee issues. 404 Media wrote about an experiment conducted by a class at the United Nations University Center for Policy Research that resulted in the creation of two AI agents or avatars — Amina, a fictional woman [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Marc Andreessen reportedly told group chat that universities will ‘pay the price’ for DEI</title>
+		<link>https://techcrunch.com/2025/07/12/marc-andreessen-reportedly-told-group-chat-that-universities-will-pay-the-price-for-dei/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sat, 12 Jul 2025 20:07:29 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[a16z]]></category>
+		<category><![CDATA[Marc Andreessen]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027330</guid>
+
+					<description><![CDATA[Venture capitalist Marc Andreessen sharply criticized universities including Stanford and MIT, along with the National Science Foundation, in a group chat with AI scientists and Trump administration officials, according to screenshots viewed by the Washington Post.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Week in Review: X CEO Linda Yaccarino steps down</title>
+		<link>https://techcrunch.com/2025/07/12/week-in-review-x-ceo-linda-yaccarino-steps-down/</link>
+		
+		<dc:creator><![CDATA[Karyne Levy]]></dc:creator>
+		<pubDate>Sat, 12 Jul 2025 18:03:52 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[jack dorsey]]></category>
+		<category><![CDATA[Week in Review]]></category>
+		<category><![CDATA[linda yaccarino]]></category>
+		<category><![CDATA[Grok]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027095</guid>
+
+					<description><![CDATA[Welcome back to Week in Review! We&#8217;ve got tons of news for you this week, including a shakeup at X, Hugging Face&#8217;s new robot, new phones from Nothing and Samsung, and a whole lot more. Have a great weekend! Off to do something else: X CEO Linda Yaccarino stepped down this week after a tumultuous [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>xAI and Grok apologize for ‘horrific behavior’</title>
+		<link>https://techcrunch.com/2025/07/12/xai-and-grok-apologize-for-horrific-behavior/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sat, 12 Jul 2025 17:13:39 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Social]]></category>
 		<category><![CDATA[Elon Musk]]></category>
 		<category><![CDATA[Grok]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3026820</guid>
+		<category><![CDATA[X]]></category>
+		<category><![CDATA[xAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027328</guid>
 
-					<description><![CDATA[This raises real questions around how "maximally truth-seeking" Grok is designed to be, versus how much it's designed to just agree with Musk, the world's richest man.
+					<description><![CDATA[In a series of posts on X, the AI chatbot Grok apologized for what it admitted was “horrific behavior.”
+
+The posts appear to be an official statement from xAI, the Elon Musk-led company behind Grok, as opposed to an AI-generated explanation for Grok’s posts. (xAI recently acquired X, where Grok is prominently featured.)]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Just 3 days left to save before TechCrunch All Stage 2025 lights up Boston</title>
+		<link>https://techcrunch.com/2025/07/12/just-3-days-left-to-save-before-tc-all-stage-2025-lights-up-boston/</link>
+		
+		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
+		<pubDate>Sat, 12 Jul 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[TC All Stage]]></category>
+		<category><![CDATA[TC All Stage 2025]]></category>
+		<category><![CDATA[TechCrunch All Stage]]></category>
+		<category><![CDATA[TechCrunch All Stage 2025]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3026538</guid>
+
+					<description><![CDATA[In only 3 days, founders, investors, and operators will flood into the SoWa Power Station in Boston for TechCrunch All Stage 2025 — and if you haven’t grabbed your pass yet, this is your final window to lock in the lowest prices available and save up to $475. Whether you’re a first-time founder or a [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Sequoia bets on silence</title>
+		<link>https://techcrunch.com/2025/07/11/sequoia-bets-on-silence/</link>
+		
+		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
+		<pubDate>Sat, 12 Jul 2025 04:50:00 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Sequoia]]></category>
+		<category><![CDATA[Shaun Maguire]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027148</guid>
+
+					<description><![CDATA[There is a time-honored crisis management strategy, wherein one says nothing and waits for the outrage to pass. For Sequoia Capital, the strategy worked pretty well this week. While partner Shaun Maguire initially weathered criticism over an inflammatory social media post, that initial indignation cooled quickly. Now, some seem to think that Maguire&#8217;s defiant stance [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI delays the release of its open model, again</title>
+		<link>https://techcrunch.com/2025/07/11/openai-delays-the-release-of-its-open-model-again/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Sat, 12 Jul 2025 01:38:05 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[open model]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027276</guid>
+
+					<description><![CDATA[OpenAI CEO Sam Altman said Friday the company is delaying the release of its open model indefinitely.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Windsurf&#8217;s CEO goes to Google; OpenAI&#8217;s acquisition falls apart</title>
+		<link>https://techcrunch.com/2025/07/11/windsurfs-ceo-goes-to-google-openais-acquisition-falls-apart/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Fri, 11 Jul 2025 22:21:51 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Windsurf]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027213</guid>
+
+					<description><![CDATA[Notably, Google is not taking a stake in Windsurf and will not have any control over the company.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Firefly Aerospace files for an IPO</title>
+		<link>https://techcrunch.com/2025/07/11/firefly-aerospace-files-for-an-ipo/</link>
+		
+		<dc:creator><![CDATA[Aria Alamalhodaei]]></dc:creator>
+		<pubDate>Fri, 11 Jul 2025 21:57:15 +0000</pubDate>
+				<category><![CDATA[Space]]></category>
+		<category><![CDATA[Firefly Aerospace]]></category>
+		<category><![CDATA[IPO]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027207</guid>
+
+					<description><![CDATA[Firefly is heading into the initial public offering with $176.9 million in cash and cash equivalents. And while it has incurred negative cash flows and losses from operations, Firefly projected that its cash is adequate to meet its liquidity needs for at least 12 months. 
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Can an ‘ethical’ spyware maker justify providing its tech to ICE?</title>
+		<link>https://techcrunch.com/2025/07/11/can-an-ethical-spyware-maker-provide-its-tech-to-ice/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Fri, 11 Jul 2025 21:00:00 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Analysis]]></category>
+		<category><![CDATA[Department of Homeland Security]]></category>
+		<category><![CDATA[ICE]]></category>
+		<category><![CDATA[Immigration and Customs Enforcement]]></category>
+		<category><![CDATA[Paragon Solutions]]></category>
+		<category><![CDATA[U.S. government]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3026601</guid>
+
+					<description><![CDATA[Analysis: In calling itself an ethical spyware vendor, Paragon has opened itself up to scrutiny of its government customers.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tesla reportedly close to starting sales in India</title>
+		<link>https://techcrunch.com/2025/07/11/tesla-reportedly-close-to-starting-sales-in-india/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Fri, 11 Jul 2025 20:20:18 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027184</guid>
+
+					<description><![CDATA[Tesla may finally start selling its EVs in India with a showroom slated for Mumbai. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI leadership development platform Praxis Labs sells to Torch</title>
+		<link>https://techcrunch.com/2025/07/11/ai-leadership-development-platform-praxis-labs-sells-to-torch/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Fri, 11 Jul 2025 20:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[M&A]]></category>
+		<category><![CDATA[venture]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027124</guid>
+
+					<description><![CDATA[Praxis Labs, a learning development platform, announced its acquisition on Thursday for an undisclosed amount by the leadership and coaching enterprise Torch. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI coding tools may not speed up every developer, study shows</title>
+		<link>https://techcrunch.com/2025/07/11/ai-coding-tools-may-not-speed-up-every-developer-study-shows/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Fri, 11 Jul 2025 19:56:41 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ai coding]]></category>
+		<category><![CDATA[cursor]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027060</guid>
+
+					<description><![CDATA[Software engineer workflows have been transformed in recent years by an influx of AI coding tools. However, a new study calls into question the extent to which today's AI coding tools enhance productivity for experienced developers.
 
 ]]></description>
 		
@@ -181,223 +355,43 @@
 		
 			</item>
 		<item>
-		<title>Tesla is already trying to expand its robotaxi service to Arizona </title>
-		<link>https://techcrunch.com/2025/07/10/tesla-is-already-trying-to-expand-its-robotaxi-service-to-arizona/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec, Sean O'Kane]]></dc:creator>
-		<pubDate>Thu, 10 Jul 2025 23:58:12 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[arizona]]></category>
-		<category><![CDATA[autonomous vehicles]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[Tesla]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3026838</guid>
-
-					<description><![CDATA[Tesla has applied for a permit to test and deploy autonomous vehicles in Arizona. It's also eyeing expansion in Austin, Texas, and California. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AWS is launching an AI agent marketplace next week with Anthropic as a partner</title>
-		<link>https://techcrunch.com/2025/07/10/aws-is-launching-an-ai-agent-marketplace-next-week-with-anthropic-as-a-partner/</link>
+		<title>India&#8217;s richest man wants to turn every TV into a PC</title>
+		<link>https://techcrunch.com/2025/07/11/indias-richest-man-wants-to-turn-every-tv-into-a-pc/</link>
 		
 		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Thu, 10 Jul 2025 22:59:26 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[ai agent]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[AWS]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3026740</guid>
-
-					<description><![CDATA[Amazon Web Services is launching an AI agent marketplace and Anthropic is one of its partners.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Where AI meets design: Runway co-founder Alejandro Matamala Ortiz takes the AI Stage at TechCrunch Disrupt 2025</title>
-		<link>https://techcrunch.com/2025/07/10/where-ai-meets-design-runway-co-founder-alejandro-matamala-ortiz-takes-the-ai-stage-at-techcrunch-disrupt-2025/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Thu, 10 Jul 2025 22:45:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[Disrupt 2025]]></category>
-		<category><![CDATA[TC Event Promo]]></category>
-		<category><![CDATA[TechCrunch Disrupt]]></category>
-		<category><![CDATA[TechCrunch Disrupt 2025]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3026769</guid>
-
-					<description><![CDATA[TechCrunch Disrupt 2025 is the epicenter where 10,000+ startup and VC leaders gather to explore the future of innovation — and this year, two AI Stages bring the intersection of design and machine learning into sharp focus. We’re thrilled to welcome Alejandro Matamala Ortiz, co-founder and chief design officer at Runway, to one of the [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>How to actually raise a seed round: Actionable advice from top investors at TechCrunch Disrupt 2025</title>
-		<link>https://techcrunch.com/2025/07/10/how-to-actually-raise-a-seed-round-actionable-advice-from-top-investors-at-techcrunch-disrupt-2025-on-july-15/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Thu, 10 Jul 2025 22:15:00 +0000</pubDate>
-				<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[TechCrunch Disrupt]]></category>
-		<category><![CDATA[TechCrunch Disrupt 2025]]></category>
-		<category><![CDATA[Disrupt 2025]]></category>
-		<category><![CDATA[TC Event Promo]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3026741</guid>
-
-					<description><![CDATA[This isn’t your typical venture panel. Expect sharp insights on how to cut through the noise, structure your raise, and build relationships that last beyond a term sheet. Whether you're gearing up for your first round or advising a founder who is, this is the TC Disrupt session you don’t want to miss.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Former Intel CEO launches a benchmark to measure AI alignment</title>
-		<link>https://techcrunch.com/2025/07/10/former-intel-ceo-launches-a-benchmark-to-measure-ai-alignment/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Thu, 10 Jul 2025 21:35:49 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[ai alignment]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Intel]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3026698</guid>
-
-					<description><![CDATA[Former Intel CEO Pat Gelsinger created a new benchmark to test for AI model's alignment with aspects of human flourishing.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Belkin ends support for most Wemo devices and its Wemo app</title>
-		<link>https://techcrunch.com/2025/07/10/belkin-ends-support-for-most-wemo-devices-and-its-wemo-app/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Thu, 10 Jul 2025 21:13:31 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
+		<pubDate>Fri, 11 Jul 2025 18:53:56 +0000</pubDate>
+				<category><![CDATA[Gadgets]]></category>
 		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[belkin wemo]]></category>
-		<category><![CDATA[wemo]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3026699</guid>
+		<category><![CDATA[jio]]></category>
+		<category><![CDATA[Jio Platforms]]></category>
+		<category><![CDATA[JioPC]]></category>
+		<category><![CDATA[reliance]]></category>
+		<category><![CDATA[reliance jio]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027099</guid>
 
-					<description><![CDATA[Another day, another smart device bites the dust -- or, in this case, a full lineup of smart devices. On Thursday, Belkin announced it will end technical support for its older Wemo products as of January 31, 2026, and the app used to control the devices will no longer be supported. The decision will impact a range of devices, including smart plugs, light switches, smart bulbs, baby monitors, kitchen appliances, heaters, air purifiers, motion sensors, and more.]]></description>
+					<description><![CDATA[Jio Platforms, the digital arm of Reliance Industries, has launched a virtual desktop service called JioPC for televisions.]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Mockly made a fake DM generator that&#8217;s actually user-friendly</title>
-		<link>https://techcrunch.com/2025/07/10/mockly-made-a-fake-dm-generator-thats-actually-user-friendly/</link>
+		<title>A cloud-seeding startup did not cause the Texas floods</title>
+		<link>https://techcrunch.com/2025/07/11/a-cloud-seeding-startup-did-not-cause-the-texas-floods/</link>
 		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Thu, 10 Jul 2025 18:48:12 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[mockly]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3026605</guid>
-
-					<description><![CDATA[Tools like Mockly have existed since the dawn of instant messaging, but they generally aren't the most user-friendly apps. Mockly manages to set itself apart while iterating on such a popular idea by simply being usable.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>With Varda Space, leading Silicon Valley players make big bet on making drugs in space</title>
-		<link>https://techcrunch.com/2025/07/10/with-varda-space-leading-silicon-valley-players-make-big-bet-on-making-drugs-in-space/</link>
-		
-		<dc:creator><![CDATA[Aria Alamalhodaei]]></dc:creator>
-		<pubDate>Thu, 10 Jul 2025 18:14:09 +0000</pubDate>
-				<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[Space]]></category>
-		<category><![CDATA[Delian Asparouhov]]></category>
-		<category><![CDATA[Peter Thiel]]></category>
-		<category><![CDATA[Shrug Capital]]></category>
-		<category><![CDATA[varda space industries]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3026549</guid>
-
-					<description><![CDATA[Varda Space has been fueled with new capital to scale its in-space drug manufacturing business. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>5 days until TechCrunch All Stage — save up to $475 before prices rise</title>
-		<link>https://techcrunch.com/2025/07/10/5-days-until-techcrunch-all-stage-save-up-to-475-before-prices-rise/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Thu, 10 Jul 2025 18:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Fri, 11 Jul 2025 18:40:14 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
 		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[TC All Stage]]></category>
-		<category><![CDATA[TC Event Promo]]></category>
-		<category><![CDATA[TechCrunch All Stage]]></category>
-		<category><![CDATA[TechCrunch All Stage 2025]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3026254</guid>
+		<category><![CDATA[cloud seeding]]></category>
+		<category><![CDATA[floods]]></category>
+		<category><![CDATA[natural disaster]]></category>
+		<category><![CDATA[Rain]]></category>
+		<category><![CDATA[science]]></category>
+		<category><![CDATA[storms]]></category>
+		<category><![CDATA[texas]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027098</guid>
 
-					<description><![CDATA[In just five days, startup leaders from across the country will descend on Boston’s SoWa Power Station for TechCrunch All Stage 2025 — and your chance to lock in the lowest ticket prices will be gone.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>They took away Linda Yaccarino&#8217;s blue check!</title>
-		<link>https://techcrunch.com/2025/07/10/they-took-away-linda-yaccarinos-blue-check/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Thu, 10 Jul 2025 17:00:49 +0000</pubDate>
-				<category><![CDATA[Social]]></category>
-		<category><![CDATA[blue checkmark]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[linda yaccarino]]></category>
-		<category><![CDATA[twitter/x]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3026550</guid>
-
-					<description><![CDATA[Before she stepped down, Yaccarino had a blue check next to her display name, accompanied by an X logo, signifying that she is affiliated with the company that brought us Mecha Hitler. Now both badges are gone.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>YouTube is getting rid of its Trending page and Trending Now list</title>
-		<link>https://techcrunch.com/2025/07/10/youtube-is-getting-rid-of-its-trending-page-and-trending-now-list/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Thu, 10 Jul 2025 17:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[YouTube]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3026470</guid>
-
-					<description><![CDATA[YouTube is replacing these Trending lists with category-specific charts, the company announced on Thursday.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>As X loses its CEO, daily usage is down and competition is growing</title>
-		<link>https://techcrunch.com/2025/07/10/as-x-loses-its-ceo-daily-usage-is-down-and-competition-is-growing/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Thu, 10 Jul 2025 16:16:54 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[social]]></category>
-		<category><![CDATA[social media]]></category>
-		<category><![CDATA[X]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3026481</guid>
-
-					<description><![CDATA[X is still the dominant social media platform, but its daily active user base has declined and competitor Threads is seeing higher rates of growth.]]></description>
+					<description><![CDATA[Despite conspiracy theories, there's no way that cloud seeding operations days before the storm could have influenced the floods, scientists say.]]></description>
 		
 		
 		
