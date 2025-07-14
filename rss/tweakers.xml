@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 14 Jul 2025 13:31:06 +0200</pubDate>
-        <lastBuildDate>Mon, 14 Jul 2025 13:31:06 +0200</lastBuildDate>
+        <pubDate>Mon, 14 Jul 2025 14:41:01 +0200</pubDate>
+        <lastBuildDate>Mon, 14 Jul 2025 14:41:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Smarthomewebshop ROBBshop neemt Home2Link over</title>
+            <link>https://tweakers.net/nieuws/237136/smarthomewebshop-robbshop-neemt-home2link-over.html</link>
+            <description>De smarthomewebwinkel Home2Link is overgenomen door ROBBshop, eveneens een smarthomewebwinkel. Een overnamebedrag wordt niet genoemd. ROBBshop kocht eerder het merkrecht van iot-gordijnsysteem Slide op.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237136/smarthomewebshop-robbshop-neemt-home2link-over.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237136</guid>
+            <pubDate>Mon, 14 Jul 2025 14:40:20 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Wine 10.12</title>
+            <link>https://tweakers.net/downloads/73304/wine-1012.html</link>
+            <description>Er is met versienummer 10.12 een nieuwe ontwikkelbuild van Wine verschenen. Wine is een opensource implementatie van de Windows-api en maakt het mogelijk om DOS- en Windows-programma&#039;s op Linux, FreeBSD, Solaris en macOS te draaien. Een grote groep ontwikkelaars draagt bij aan Wine en er is voor gekozen om elke twee weken een nieuwe zogeheten ontwikkelversie uit te brengen in plaats van te wachten tot er een aantal nieuwe functies klaar is. Een paar keer per jaar verschijnt er een stabiele uitgave. Wine houdt een database bij met hoe goed of slecht applicaties onder Wine werken, al dan niet met behulp van enkele aanpassingen. Deze bevat op het moment van schrijven 29.649 titels, wat er drie meer zijn dan twee weken geleden. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: What&#039;s new in this release:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73304/wine-1012.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73304</guid>
+            <pubDate>Mon, 14 Jul 2025 14:30:00 +0200</pubDate>
+        </item>
         <item>
             <title>Google-topman: &#039;We gaan ChromeOS en Android combineren tot één platform&#039;</title>
             <link>https://tweakers.net/nieuws/237132/google-topman-we-gaan-chromeos-en-android-combineren-tot-een-platform.html</link>
@@ -98,7 +118,7 @@
             <pubDate>Mon, 14 Jul 2025 08:20:31 +0200</pubDate>
         </item>
         <item>
-            <title>Best Buy Guide - De beste gamingmonitors</title>
+            <title>Best Buy Guide - De beste lcd-gamingmonitors</title>
             <link>https://tweakers.net/best-buy-guide/monitors/beste-gamingmonitor</link>
             <description>We gaan op zoek naar de beste lcd-gamingmonitors met 1080p-, 1440p- en 4k-resoluties. We letten op de featureset, de beeldkwaliteit en de prijs-kwaliteitverhouding.</description>
             <author>Friso Weijers</author>
@@ -280,7 +300,7 @@
         <item>
             <title>Software-update - WinSSHTerm 2.41.0</title>
             <link>https://tweakers.net/downloads/73292/winsshterm-2410.html</link>
-            <description>WinSSHTerm is een gratis programma voor Windows dat PuTTY, WinSCP en VcXsrv combineert in één applicatie. Het gebruikt snelkoppelingen om nieuwe ssh-sessies te starten of tussen de verschillende sessies te wisselen, werkt met meerdere tabs of schermen en kan eenvoudig gegevens van programma&#039;s als PuTTY, PuTTY Session Manager, MobaXterm, SuperPuTTY, mRemoteNG en MTPuTTY importeren en beschermen met een hoofdwachtwoord. In versie 2.41.0 zijn de volgende veranderingen en veranderingen aangebracht: WinSSHTerm-2.41.0</description>
+            <description>WinSSHTerm is een gratis programma voor Windows dat PuTTY, WinSCP en VcXsrv combineert in één applicatie. Het gebruikt snelkoppelingen om nieuwe SSH-sessies te starten of tussen de verschillende sessies te wisselen, werkt met meerdere tabs of schermen en kan eenvoudig gegevens van programma&#039;s als PuTTY, PuTTY Session Manager, MobaXterm, SuperPuTTY, mRemoteNG en MTPuTTY importeren en beschermen met een hoofdwachtwoord. In versie 2.41.0 zijn de volgende veranderingen en veranderingen aangebracht: WinSSHTerm-2.41.0</description>
             <author>Bart van Klaveren</author>
             <category>Software</category>
             <comments>https://tweakers.net/downloads/73292/winsshterm-2410.html#reacties</comments>
@@ -370,7 +390,7 @@
         <item>
             <title>Software-update - Visual Studio Code 1.102.0</title>
             <link>https://tweakers.net/downloads/73288/visual-studio-code-11020.html</link>
-            <description>Versie 1.102.0 van Visual Studio Code uitgekomen. Deze opensource code-editor heeft ondersteuning voor IntelliSense, debugging, Git en code snippets. Downloads zijn beschikbaar voor Windows, Linux en macOS. Ondersteuning voor de gangbare script- en programmeertalen is aanwezig en het kan daarnaast via extensies uitgebreid worden. Hoewel het alweer even juli is, wordt deze versie nog als de juniuitgave aangeboden. Uitgebreide informatie over deze release is op deze pagina te vinden. Dit is de aankondiging: June 2025 (version 1.102)</description>
+            <description>Versie 1.102.0 van Visual Studio Code uitgekomen. Deze opensource code-editor heeft ondersteuning voor IntelliSense, debugging, Git en code snippets. Downloads zijn beschikbaar voor Windows, Linux en macOS. Ondersteuning voor de gangbare script- en programmeertalen is aanwezig en het kan daarnaast via extensies uitgebreid worden. Hoewel het alweer even juli is, wordt deze versie nog als de juni-uitgave aangeboden. Uitgebreide informatie over deze release is op deze pagina te vinden. Dit is de aankondiging: June 2025 (version 1.102)</description>
             <author>Bart van Klaveren</author>
             <category>Software</category>
             <comments>https://tweakers.net/downloads/73288/visual-studio-code-11020.html#reacties</comments>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/237074/foks-is-gefedereerd-opensource-alternatief-voor-keybase-van-originele-oprichter.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237074</guid>
             <pubDate>Fri, 11 Jul 2025 15:08:40 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Calibre 8.6</title>
-            <link>https://tweakers.net/downloads/73286/calibre-86.html</link>
-            <description>Versie 8.6 van Calibre is uitgekomen. Dit opensource e-bookbeheerprogramma is haast onmisbaar voor elke e-readerbezitter. Het kan onder meer alle relevante informatie en omslagafbeeldingen opzoeken, e-boeken bewerken en converteren om ze zo geschikt te maken voor de diverse soorten e-readers. Verder kan het programma kranten, tijdschriften en nieuwsartikelen op basis van RSS-feeds omzetten in e-bookformaat en kunnen er boeken worden aangeschaft bij de bekende webwinkels. Calibre is beschikbaar voor Windows, Linux en macOS. In versie 8 is onder meer de ondersteuning voor Kobo-e-readers flink verbeterd, wordt er van Piper gebruikgemaakt voor het omzetten van tekst naar spraak, wat veel natuurlijker moet klinken, en zijn er diverse verbeteringen aangebracht in de e-bookviewer. De changelog voor deze uitgave kan hieronder worden gevonden.</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73286/calibre-86.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73286</guid>
-            <pubDate>Fri, 11 Jul 2025 14:46:20 +0200</pubDate>
-        </item>
-        <item>
-            <title>Homey laat gebruikers functies van 433MHz-afstandsbedieningen naar app klonen</title>
-            <link>https://tweakers.net/nieuws/237068/homey-laat-gebruikers-functies-van-433mhz-afstandsbedieningen-naar-app-klonen.html</link>
-            <description>De Homey-app krijgt een nieuwe functie waarmee het mogelijk is om functionaliteiten van afstandsbedieningen voor smarthomeapparaten in de app te zetten. Dat heet Remote Cloning en werkt voor 433MHz-afstandsbedieningen.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Beeld en geluid / Smarthome</category>
-            <comments>https://tweakers.net/nieuws/237068/homey-laat-gebruikers-functies-van-433mhz-afstandsbedieningen-naar-app-klonen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237068</guid>
-            <pubDate>Fri, 11 Jul 2025 13:53:56 +0200</pubDate>
         </item>
     </channel>
 </rss>
