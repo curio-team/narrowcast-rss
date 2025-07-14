@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Sun, 13 Jul 2025 21:32:29 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 14 Jul 2025 10:21:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Jack Dorsey&#8217;s latest app tracks sun exposure</title>
+		<link>https://techcrunch.com/2025/07/14/jack-dorseys-latest-app-tracks-sun-exposure/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Mon, 14 Jul 2025 10:21:32 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[jack dorsey]]></category>
+		<category><![CDATA[sun day]]></category>
+		<category><![CDATA[vibe coding]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027470</guid>
+
+					<description><![CDATA[Twitter co-founder Jack Dorsey's new app, called Sun Day, ostensibly helps users track UV exposure and Vitamin D intake.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Meta acquires voice startup Play AI</title>
 		<link>https://techcrunch.com/2025/07/13/meta-acquires-voice-startup-play-ai/</link>
 		
@@ -370,28 +387,6 @@ The posts appear to be an official statement from xAI, the Elon Musk-led company
 		<guid isPermaLink="false">https://techcrunch.com/?p=3027099</guid>
 
 					<description><![CDATA[Jio Platforms, the digital arm of Reliance Industries, has launched a virtual desktop service called JioPC for televisions.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>A cloud-seeding startup did not cause the Texas floods</title>
-		<link>https://techcrunch.com/2025/07/11/a-cloud-seeding-startup-did-not-cause-the-texas-floods/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Fri, 11 Jul 2025 18:40:14 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[cloud seeding]]></category>
-		<category><![CDATA[floods]]></category>
-		<category><![CDATA[natural disaster]]></category>
-		<category><![CDATA[Rain]]></category>
-		<category><![CDATA[science]]></category>
-		<category><![CDATA[storms]]></category>
-		<category><![CDATA[texas]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3027098</guid>
-
-					<description><![CDATA[Despite conspiracy theories, there's no way that cloud seeding operations days before the storm could have influenced the floods, scientists say.]]></description>
 		
 		
 		

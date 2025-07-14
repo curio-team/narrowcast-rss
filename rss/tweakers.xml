@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 14 Jul 2025 11:36:11 +0200</pubDate>
-        <lastBuildDate>Mon, 14 Jul 2025 11:36:11 +0200</lastBuildDate>
+        <pubDate>Mon, 14 Jul 2025 12:36:06 +0200</pubDate>
+        <lastBuildDate>Mon, 14 Jul 2025 12:36:06 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - GParted Live 1.7.0-8</title>
+            <link>https://tweakers.net/downloads/73302/gparted-live-170-8.html</link>
+            <description>Versie 1.7.0-8 GParted Live is uitgekomen. Met de Gnome Partition Editor is het mogelijk om een harde schijf te partitioneren en bestaande partities te wijzigen, bijvoorbeeld door een ander bestandssysteem in te stellen of de grootte te veranderen. Het programma is niet groot, maar meestal wordt het in de vorm van een live-cd uitgebracht, zodat het op vrijwel elke computer gebruikt kan worden. Sinds versie 1.7.0 zijn de volgende veranderingen en verbeteringen aangebracht: GParted live 1.7.0-8</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73302/gparted-live-170-8.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73302</guid>
+            <pubDate>Mon, 14 Jul 2025 12:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Ziggo verhoogt per 1 september prijs van extra mediabox met tot 2 euro per maand</title>
+            <link>https://tweakers.net/nieuws/237130/ziggo-verhoogt-per-1-september-prijs-van-extra-mediabox-met-tot-2-euro-per-maand.html</link>
+            <description>Ziggo verhoogt per 1 september de prijzen van extra tv-ontvangers. Een extra CI+-module wordt straks 2 euro duurder en een extra mediabox kost dan 1 tot 2 euro extra per maand. Voor die CI+-modules betekent dit een verdubbeling van de prijs.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Beeld en geluid / Televisies</category>
+            <comments>https://tweakers.net/nieuws/237130/ziggo-verhoogt-per-1-september-prijs-van-extra-mediabox-met-tot-2-euro-per-maand.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237130</guid>
+            <pubDate>Mon, 14 Jul 2025 11:55:25 +0200</pubDate>
+        </item>
         <item>
             <title>Ziggo gaat coaxapparatuur van Teleste gebruiken voor &#039;snelheden tot 10Gbit/s&#039;</title>
             <link>https://tweakers.net/nieuws/237126/ziggo-gaat-coaxapparatuur-van-teleste-gebruiken-voor-snelheden-tot-10gbit-s.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/237078/nieuwsblog-stoppen-of-juist-starten-met-schrijven-over-stop-killing-games.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237078</guid>
             <pubDate>Fri, 11 Jul 2025 13:37:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Zotero 7.0.20</title>
-            <link>https://tweakers.net/downloads/73284/zotero-7020.html</link>
-            <description>Versie 7.0.20 van Zotero is uitgekomen. Dit programma is bedoeld voor het beheren van bibliografische gegevens en gerelateerde onderzoeksmaterialen. De functies omvatten webbrowserintegratie, online synchronisatie, het genereren van citaten in de tekst, voetnoten en bibliografieën, geïntegreerde PDF-, ePUB- en HTML-lezers met annotatiemogelijkheden, een notitie-editor en integratie met de tekstverwerkers Microsoft Word, LibreOffice Writer en Google Docs. Zotero is beschikbaar voor Windows, Linux, macOS, Android en iOS. De gratis versie heeft 300MB opslag en voor meer opslag of toegang voor teams wordt een kleine vergoeding gevraagd. De changelog sinds versie 7.0.16 kan hieronder worden gevonden. Changes in 7.0.20:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73284/zotero-7020.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73284</guid>
-            <pubDate>Fri, 11 Jul 2025 13:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>AMD is begonnen met versturen van eerste Zen 6-cpu&#039;s aan partners</title>
-            <link>https://tweakers.net/nieuws/237076/amd-is-begonnen-met-versturen-van-eerste-zen-6-cpus-aan-partners.html</link>
-            <description>AMD is begonnen met het versturen van samples van de eerste Zen 6-processors aan ontwikkelaars en fabrikanten. Dat meldt softwareontwikkelaar Yuri Bubliy of 1usmus, die ook veel details over de aankomende cpu&#039;s bevestigt. Die hebben core chiplet-dies met 12 cores.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Processors</category>
-            <comments>https://tweakers.net/nieuws/237076/amd-is-begonnen-met-versturen-van-eerste-zen-6-cpus-aan-partners.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237076</guid>
-            <pubDate>Fri, 11 Jul 2025 12:30:28 +0200</pubDate>
         </item>
     </channel>
 </rss>
