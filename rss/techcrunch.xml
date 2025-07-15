@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 15 Jul 2025 10:30:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Jul 2025 11:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Amogy raises $80M to power ships and data centers with ammonia</title>
+		<link>https://techcrunch.com/2025/07/15/amogy-raises-80m-to-power-ships-and-data-centers-with-ammonia/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Climate]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[Shipping]]></category>
+		<category><![CDATA[maritime industry]]></category>
+		<category><![CDATA[Amogy]]></category>
+		<category><![CDATA[ammonia]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3026691</guid>
+
+					<description><![CDATA[Amogy's technology generates power from ammonia without pollution, making it a prime candidate for decarbonizing maritime shipping.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>TechCrunch All Stage launches in Boston today — don’t miss what founders are learning</title>
 		<link>https://techcrunch.com/2025/07/15/techcrunch-all-stage-launches-in-boston-today-dont-miss-what-founders-are-learning/</link>
 		
@@ -377,28 +398,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3027474</guid>
 
 					<description><![CDATA[Weekly subscriptions have now become one of the most popular ways iOS apps are earning revenue, with these plans contributing 46% to the bottom line, according to a new report by app revenue management platform Adapty.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>GM to challenge China’s LFP monopoly with upgraded battery factory</title>
-		<link>https://techcrunch.com/2025/07/14/gm-to-challenge-chinas-lfp-monopoly-with-upgraded-battery-factory/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 16:04:11 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[electric vehicles]]></category>
-		<category><![CDATA[GM]]></category>
-		<category><![CDATA[LG]]></category>
-		<category><![CDATA[lfp]]></category>
-		<category><![CDATA[lithium ion batteries]]></category>
-		<category><![CDATA[Ultium]]></category>
-		<category><![CDATA[lg energy solution]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3027537</guid>
-
-					<description><![CDATA[The factory’s overhaul will give U.S. LFP production a significant boost.]]></description>
 		
 		
 		
