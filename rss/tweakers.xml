@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 15 Jul 2025 13:31:01 +0200</pubDate>
-        <lastBuildDate>Tue, 15 Jul 2025 13:31:01 +0200</lastBuildDate>
+        <pubDate>Tue, 15 Jul 2025 14:41:03 +0200</pubDate>
+        <lastBuildDate>Tue, 15 Jul 2025 14:41:03 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>EU brengt eerste versie van leeftijdsverificatieapp uit</title>
+            <link>https://tweakers.net/nieuws/237170/eu-brengt-eerste-versie-van-leeftijdsverificatieapp-uit.html</link>
+            <description>De Europese Unie heeft de ontwikkeling van de whitelabelversie van de leeftijdsverificatieapp afgerond. Het is de bedoeling dat Frankrijk, Denemarken, Italië, Spanje en Griekenland de app als eerste in gebruik nemen. Het is nog niet duidelijk wanneer andere lidstaten volgen.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/237170/eu-brengt-eerste-versie-van-leeftijdsverificatieapp-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237170</guid>
+            <pubDate>Tue, 15 Jul 2025 14:38:53 +0200</pubDate>
+        </item>
+        <item>
+            <title>Tesla brengt Powerwall 3-thuisaccu uit in Nederland</title>
+            <link>https://tweakers.net/nieuws/237168/tesla-brengt-powerwall-3-thuisaccu-uit-in-nederland.html</link>
+            <description>Tesla heeft zijn modulaire Powerwall 3-thuisaccu uitgebracht in Nederland. Hiermee kunnen eigenaren van zonnepanelen overtollige energie opslaan en op een later moment gebruiken, bijvoorbeeld tijdens piekuren.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Economie en maatschappij</category>
+            <comments>https://tweakers.net/nieuws/237168/tesla-brengt-powerwall-3-thuisaccu-uit-in-nederland.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237168</guid>
+            <pubDate>Tue, 15 Jul 2025 13:54:51 +0200</pubDate>
+        </item>
         <item>
             <title>Deadline voor AI-opt-out bij Slack is 17 juli voor betalende gebruikers</title>
             <link>https://tweakers.net/nieuws/237160/deadline-voor-ai-opt-out-bij-slack-is-17-juli-voor-betalende-gebruikers.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/237100/eu-annuleert-plan-voor-belasting-op-diensten-van-grote-techbedrijven.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237100</guid>
             <pubDate>Sat, 12 Jul 2025 14:17:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Gerucht: Qualcomm werkt aan soc voor wearables met krachtige processorkern</title>
-            <link>https://tweakers.net/nieuws/237102/gerucht-qualcomm-werkt-aan-soc-voor-wearables-met-krachtige-processorkern.html</link>
-            <description>Qualcomm zou werken aan een soc voor smartwatches met een Arm Cortex 78-kern erin. De huidige soc van Qualcomm heeft alleen verouderde en als zuinig bedoelde Cortex A53-kernen. De soc zou vermoedelijk smartwatches veel sneller maken.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Computers / Processors</category>
-            <comments>https://tweakers.net/nieuws/237102/gerucht-qualcomm-werkt-aan-soc-voor-wearables-met-krachtige-processorkern.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237102</guid>
-            <pubDate>Sat, 12 Jul 2025 13:37:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Prijzen Google Pixel 10&#039;s zijn gelijk aan Pixel 9, 128GB-versie Pro XL verdwijnt</title>
-            <link>https://tweakers.net/nieuws/237098/prijzen-google-pixel-10s-zijn-gelijk-aan-pixel-9-128gb-versie-pro-xl-verdwijnt.html</link>
-            <description>De europrijzen van de Google Pixel 10-telefoons zijn online verschenen. Deze prijzen zijn gelijk aan die van de voorgangers in de Pixel 9-serie. Wel verdwijnt de 128GB-variant van de Pixel 10 Pro XL, waardoor de goedkoopste Pixel 10 Pro XL nu 1299 euro is.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/237098/prijzen-google-pixel-10s-zijn-gelijk-aan-pixel-9-128gb-versie-pro-xl-verdwijnt.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237098</guid>
-            <pubDate>Sat, 12 Jul 2025 12:42:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
