@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 15 Jul 2025 12:25:40 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Jul 2025 13:41:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,126 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>DOGE staffer with access to Americans&#8217; personal data leaked private xAI API key</title>
+		<link>https://techcrunch.com/2025/07/15/doge-staffer-with-access-to-americans-personal-data-leaked-private-xai-api-key/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 13:40:00 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027953</guid>
+
+					<description><![CDATA[The researcher who found the exposed key said it “raises questions” about how DOGE handles sensitive data.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>China’s Geely is officially bringing its luxury EV startup Zeekr private</title>
+		<link>https://techcrunch.com/2025/07/15/chinas-geely-is-officially-bringing-its-luxury-ev-startup-zeekr-private/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 13:32:10 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[Geely]]></category>
+		<category><![CDATA[zeekr]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027950</guid>
+
+					<description><![CDATA[China’s Geely Auto is officially taking its luxury EV subsidiary Zeekr private, just over a year after the company debuted on the New York Stock Exchange.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ParadeDB takes on Elasticsearch as interest in Postgres explodes amid AI boom</title>
+		<link>https://techcrunch.com/2025/07/15/paradedb-takes-on-elasticsearch-as-interest-in-postgres-explodes-amid-ai-boom/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 13:24:51 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[data management]]></category>
+		<category><![CDATA[Databricks]]></category>
+		<category><![CDATA[Elasticsearch]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Postgres]]></category>
+		<category><![CDATA[Snowflake]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027933</guid>
+
+					<description><![CDATA[ParadeDB built a Postgres extension that facilitates full-text search and analytics on Postgres without the need to transfer data. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>xAI says it has fixed Grok 4&#8217;s problematic responses</title>
+		<link>https://techcrunch.com/2025/07/15/xai-says-it-has-fixed-grok-4s-problematic-responses/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 13:12:21 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[Grok]]></category>
+		<category><![CDATA[Grok 4]]></category>
+		<category><![CDATA[xAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027911</guid>
+
+					<description><![CDATA[xAI says it fixed the issue with Grok 4 where the model said its surname was "mechahitler." ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google inks $3B deal to buy hydropower from Brookfield</title>
+		<link>https://techcrunch.com/2025/07/15/google-inks-3b-deal-to-buy-hydropower-from-brookfield/</link>
+		
+		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 13:05:02 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[hydropower]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027910</guid>
+
+					<description><![CDATA[Google will pay more than $3 billion to source carbon-free hydropower from Brookfield Renewable Energy Partners' plants in Pennsylvania. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Auriga Space raises $6M to shoot rockets off an electromagnetic launch track</title>
+		<link>https://techcrunch.com/2025/07/15/auriga-space-raises-6m-to-shoot-rockets-off-an-electromagnetic-launch-track/</link>
+		
+		<dc:creator><![CDATA[Aria Alamalhodaei]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Space]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027445</guid>
+
+					<description><![CDATA[Auriga Space wants to reimagine launch by using electromagnetic forces. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Joby Aviation doubles pilot eVTOL facility capacity as it races to launch air taxis</title>
+		<link>https://techcrunch.com/2025/07/15/joby-aviation-doubles-pilot-evtol-facility-capacity-as-it-races-toward-air-taxi-launch/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[air taxis]]></category>
+		<category><![CDATA[eVTOLS]]></category>
+		<category><![CDATA[Joby Aviation]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027929</guid>
+
+					<description><![CDATA[Joby Aviation has doubled the size and production capacity of its pilot manufacturing facility in Marina, California as it races to commercialize electric air taxis by early next year. ]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Amogy raises $80M to power ships and data centers with ammonia</title>
 		<link>https://techcrunch.com/2025/07/15/amogy-raises-80m-to-power-ships-and-data-centers-with-ammonia/</link>
 		
@@ -183,9 +303,9 @@
 		<dc:creator><![CDATA[Anna Heim]]></dc:creator>
 		<pubDate>Mon, 14 Jul 2025 21:56:19 +0000</pubDate>
 				<category><![CDATA[Venture]]></category>
-		<category><![CDATA[evantic]]></category>
-		<category><![CDATA[matt miller]]></category>
 		<category><![CDATA[Sequoia Capital]]></category>
+		<category><![CDATA[matt miller]]></category>
+		<category><![CDATA[evantic]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3027734</guid>
 
 					<description><![CDATA[Former Sequoia partner Matt Miller has already locked in $355 million for his new fund, Evantic, which is also backed by Sequoia, TechCrunch learned.]]></description>
@@ -270,134 +390,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3027652</guid>
 
 					<description><![CDATA[A top Democrat criticized the move to spend a billion on offensive hacking operations as the budget guts a billion from U.S. cyber defense.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2025</title>
-		<link>https://techcrunch.com/2025/07/14/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2025/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 18:38:52 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Browser]]></category>
-		<category><![CDATA[search engines]]></category>
-		<category><![CDATA[web browser]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3026701</guid>
-
-					<description><![CDATA[We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Elon Musk&#8217;s Grok is making AI companions, including a goth anime girl</title>
-		<link>https://techcrunch.com/2025/07/14/elon-musks-grok-is-making-ai-companions-including-a-goth-anime-girl/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 18:36:27 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[Grok]]></category>
-		<category><![CDATA[xAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3027644</guid>
-
-					<description><![CDATA[Musk wrote in an X post on Monday that AI companions are now available in the Grok app for "Super Grok" subscribers who pay $30 per month.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Malaysia will require trade permits for US AI chips</title>
-		<link>https://techcrunch.com/2025/07/14/malaysia-will-require-trade-permits-for-u-s-ai-chips/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 17:37:50 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[AI chips]]></category>
-		<category><![CDATA[artificial intelligence]]></category>
-		<category><![CDATA[chip exports]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3027600</guid>
-
-					<description><![CDATA[Malaysia is introducing new export restrictions on U.S. AI chips in an attempt to prevent these chips from being smuggled into China. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>NotebookLM adds featured notebooks from The Economist, The Atlantic, and others</title>
-		<link>https://techcrunch.com/2025/07/14/notebooklm-adds-featured-notebooks-from-the-economist-the-atlantic-and-others/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 17:26:38 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[notebooklm]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3027596</guid>
-
-					<description><![CDATA[Google is adding notebooks from   various authors, publications, researchers, and nonprofits to its popular AI-powered research and note-taking assistant NotebookLM.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Prime Day event drove over $24B in US e-commerce sales, GenAI traffic was up 3,300%</title>
-		<link>https://techcrunch.com/2025/07/14/prime-day-event-drove-over-24b-in-u-s-e-commerce-sales-gen-ai-traffic-was-up-3300/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 16:44:41 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[Amazon]]></category>
-		<category><![CDATA[commerce]]></category>
-		<category><![CDATA[gen ai]]></category>
-		<category><![CDATA[prime day]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3027557</guid>
-
-					<description><![CDATA[Amazon's Prime Day, which leads to an overall boost to U.S. e-commerce thanks to competitive sales, saw a significant increase in retail traffic driven by generative AI products, including chatbots and browsers. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mark Zuckerberg says Meta is building a 5GW AI data center</title>
-		<link>https://techcrunch.com/2025/07/14/mark-zuckerberg-says-meta-is-building-a-5gw-ai-data-center/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 16:16:52 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Climate]]></category>
-		<category><![CDATA[AI data center]]></category>
-		<category><![CDATA[climate]]></category>
-		<category><![CDATA[Meta]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3027534</guid>
-
-					<description><![CDATA[Mark Zuckerberg says Meta is building out some massive data centers to power its AI ambitions and compete with OpenAI, Google, and Anthropic.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Weekly subscriptions dominate iOS app revenue, report finds</title>
-		<link>https://techcrunch.com/2025/07/14/weekly-subscriptions-dominate-ios-app-revenue-report-finds/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 16:07:58 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[app store]]></category>
-		<category><![CDATA[in app purchases]]></category>
-		<category><![CDATA[iOS]]></category>
-		<category><![CDATA[subscriptions]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3027474</guid>
-
-					<description><![CDATA[Weekly subscriptions have now become one of the most popular ways iOS apps are earning revenue, with these plans contributing 46% to the bottom line, according to a new report by app revenue management platform Adapty.]]></description>
 		
 		
 		

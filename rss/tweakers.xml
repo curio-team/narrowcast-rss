@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 15 Jul 2025 14:41:03 +0200</pubDate>
-        <lastBuildDate>Tue, 15 Jul 2025 14:41:03 +0200</lastBuildDate>
+        <pubDate>Tue, 15 Jul 2025 15:41:01 +0200</pubDate>
+        <lastBuildDate>Tue, 15 Jul 2025 15:41:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>WeTransfer haalt gebruik bestanden voor AI-training stilletjes uit voorwaarden</title>
+            <link>https://tweakers.net/nieuws/237162/wetransfer-haalt-gebruik-bestanden-voor-ai-training-stilletjes-uit-voorwaarden.html</link>
+            <description>WeTransfer heeft zijn gebruiksvoorwaarden recent aangepast om AI-training toe te staan, maar dat nu stilletjes weer verwijderd. Het van oorsprong Nederlandse bedrijf gaf zichzelf vergaande gebruiksrechten op alle content die gebruikers versturen via de onlinedienst.</description>
+            <author>Jasper Bakker</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237162/wetransfer-haalt-gebruik-bestanden-voor-ai-training-stilletjes-uit-voorwaarden.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237162</guid>
+            <pubDate>Tue, 15 Jul 2025 14:50:37 +0200</pubDate>
+        </item>
+        <item>
+            <title>Seagate maakt hdd&#039;s van 30TB op basis van hamr-techniek beschikbaar</title>
+            <link>https://tweakers.net/nieuws/237164/seagate-maakt-hdds-van-30tb-op-basis-van-hamr-techniek-beschikbaar.html</link>
+            <description>Seagate begint met de verkoop van nieuwe Exos- en IronWolf Pro-hdd&#039;s met een opslagcapaciteit van 28TB en 30TB. Om die opslagcapaciteit te bereiken, maken de harde schijven gebruik van heat-assisted magnetic recording (hamr). De harde schijven zijn vanaf dinsdag verkrijgbaar.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / Computers / Interne harde schijven</category>
+            <comments>https://tweakers.net/nieuws/237164/seagate-maakt-hdds-van-30tb-op-basis-van-hamr-techniek-beschikbaar.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237164</guid>
+            <pubDate>Tue, 15 Jul 2025 14:43:58 +0200</pubDate>
+        </item>
         <item>
             <title>EU brengt eerste versie van leeftijdsverificatieapp uit</title>
             <link>https://tweakers.net/nieuws/237170/eu-brengt-eerste-versie-van-leeftijdsverificatieapp-uit.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/reviews/13482/zomer-gift-guide-2025-leuke-en-handige-cadeautips-van-de-community.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13482</guid>
             <pubDate>Sun, 13 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Eclipse Mosquitto 2.0.22</title>
-            <link>https://tweakers.net/downloads/73296/eclipse-mosquitto-2022.html</link>
-            <description>MQTT is een lichtgewicht netwerkprotocol dat berichten tussen apparaten uitwisselt. Het is gebaseerd op het zogenaamde publiceer-abonneerconcept. Eclipse Mosquitto is een opensource messagebroker die op zowel kleine IoT-apparaten als volwaardige servers gebruikt kan worden. Versie 2.0.22 is uitgekomen en de changelog daarvan kan hieronder worden gevonden. Broker:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73296/eclipse-mosquitto-2022.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73296</guid>
-            <pubDate>Sat, 12 Jul 2025 21:16:39 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;EU annuleert plan voor belasting op diensten van grote techbedrijven&#039;</title>
-            <link>https://tweakers.net/nieuws/237100/eu-annuleert-plan-voor-belasting-op-diensten-van-grote-techbedrijven.html</link>
-            <description>De Europese Commissie heeft het plan om een ‘digitale belasting’ te heffen bij grote techbedrijven geannuleerd. Dat meldt Politico. Het plan had onder meer Google en Meta moeten belasten. In plaats daarvan komt een belasting voor alle grote bedrijven.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/237100/eu-annuleert-plan-voor-belasting-op-diensten-van-grote-techbedrijven.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237100</guid>
-            <pubDate>Sat, 12 Jul 2025 14:17:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
