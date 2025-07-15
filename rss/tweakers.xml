@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 15 Jul 2025 11:36:01 +0200</pubDate>
-        <lastBuildDate>Tue, 15 Jul 2025 11:36:01 +0200</lastBuildDate>
+        <pubDate>Tue, 15 Jul 2025 12:36:02 +0200</pubDate>
+        <lastBuildDate>Tue, 15 Jul 2025 12:36:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Deadline voor AI-opt-out bij Slack is 17 juli voor betalende gebruikers</title>
+            <link>https://tweakers.net/nieuws/237160/deadline-voor-ai-opt-out-bij-slack-is-17-juli-voor-betalende-gebruikers.html</link>
+            <description>Slack voert AI-functies automatisch in voor alle betalende klanten vanaf 17 juli. Gebruikers die geen AI willen, moeten vóór die datum zelf voor opt-out kiezen. Er zijn al geruime tijd zorgen over het gebruik van klantendata voor AI-training door Slack.</description>
+            <author>Jasper Bakker</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237160/deadline-voor-ai-opt-out-bij-slack-is-17-juli-voor-betalende-gebruikers.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237160</guid>
+            <pubDate>Tue, 15 Jul 2025 11:57:02 +0200</pubDate>
+        </item>
+        <item>
+            <title>Discord komt met virtuele munteenheid Orbs voor kijken van reclames</title>
+            <link>https://tweakers.net/nieuws/237166/discord-komt-met-virtuele-munteenheid-orbs-voor-kijken-van-reclames.html</link>
+            <description>Discord heeft zijn virtuele munteenheid Orbs uitgebracht. Gebruikers kunnen deze onder meer verdienen door advertenties op het platform te kijken. Ze zijn uit te geven in de Discord Shop, bijvoorbeeld aan een Nitro-proefabonnement.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/237166/discord-komt-met-virtuele-munteenheid-orbs-voor-kijken-van-reclames.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237166</guid>
+            <pubDate>Tue, 15 Jul 2025 11:50:42 +0200</pubDate>
+        </item>
         <item>
             <title>Ministerie van Defensie VS sluit miljoenendeals met xAI, Anthropic en Google</title>
             <link>https://tweakers.net/nieuws/237158/ministerie-van-defensie-vs-sluit-miljoenendeals-met-xai-anthropic-en-google.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/237098/prijzen-google-pixel-10s-zijn-gelijk-aan-pixel-9-128gb-versie-pro-xl-verdwijnt.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237098</guid>
             <pubDate>Sat, 12 Jul 2025 12:42:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Grok 4 van xAI zoekt bij controversiële onderwerpen naar mening van Elon Musk</title>
-            <link>https://tweakers.net/nieuws/237096/grok-4-van-xai-zoekt-bij-controversiele-onderwerpen-naar-mening-van-elon-musk.html</link>
-            <description>Grok 4, het nieuwe AI-model van xAI, zoekt bij controversiële onderwerpen naar de mening van oprichter Elon Musk en past vermoedelijk de antwoorden daarop aan. Musk vond Grok afgelopen tijd te progressief.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/237096/grok-4-van-xai-zoekt-bij-controversiele-onderwerpen-naar-mening-van-elon-musk.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237096</guid>
-            <pubDate>Sat, 12 Jul 2025 11:44:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - OBS Studio 31.1.1</title>
-            <link>https://tweakers.net/downloads/73294/obs-studio-3111.html</link>
-            <description>Versie 31.1.1 van OBS Studio is uitgekomen. Open Broadcaster Software Studio is opensource- en crossplatformsoftware bedoeld voor het opnemen en streamen van videobeelden van een of meer bronnen, zoals een webcam, microfoon, mediabestanden en de desktop. De software is beschikbaar voor Windows, Linux en macOS. In deze uitgave zijn de volgende verbeteringen aangebracht: 31.1.1 Hotfix Changes</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73294/obs-studio-3111.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73294</guid>
-            <pubDate>Sat, 12 Jul 2025 10:30:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
