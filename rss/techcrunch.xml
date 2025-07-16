@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 16 Jul 2025 00:13:47 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 16 Jul 2025 10:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Chinese authorities are using a new tool to hack seized phones and extract data</title>
+		<link>https://techcrunch.com/2025/07/16/chinese-authorities-are-using-a-new-tool-to-hack-seized-phones-and-extract-data/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2025 10:00:00 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[Lookout]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[forensics]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3028093</guid>
+
+					<description><![CDATA[Researchers warned that Chinese residents, and visitors to China, should be aware of the tool's existence and the risks it poses.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Of course, Grok&#8217;s AI companions want to have sex and burn down schools</title>
 		<link>https://techcrunch.com/2025/07/15/of-course-groks-ai-companions-want-to-have-sex-and-burn-down-schools/</link>
 		
@@ -366,23 +387,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3028009</guid>
 
 					<description><![CDATA[Reddit users in the UK will have to upload their ID or a selfie to access potentially harmful content.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rivian taps Google to bring custom maps into its EVs and app</title>
-		<link>https://techcrunch.com/2025/07/15/rivian-taps-google-to-bring-custom-maps-into-its-evs-and-app/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 14:30:24 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[google maps]]></category>
-		<category><![CDATA[Rivian]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3027838</guid>
-
-					<description><![CDATA[Rivian vehicles will soon replace its Mapbox-based maps with Google Maps. The integration will still see a lot of Rivian DNA in the new mapping system, though. ]]></description>
 		
 		
 		
