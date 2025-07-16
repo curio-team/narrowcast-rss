@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 16 Jul 2025 10:47:58 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 16 Jul 2025 13:20:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,43 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>UK retail giant Co-op confirms hackers stole all 6.5 million customer records</title>
+		<link>https://techcrunch.com/2025/07/16/uk-retail-giant-co-op-confirms-hackers-stole-all-6-5-million-customer-records/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2025 13:20:33 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[retail]]></category>
+		<category><![CDATA[Scattered Spider]]></category>
+		<category><![CDATA[United Kingdom]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3028328</guid>
+
+					<description><![CDATA[The hackers stole the company's member list, which included customer names, addresses, and contact information.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Meta reportedly scores two more high-profile OpenAI researchers</title>
+		<link>https://techcrunch.com/2025/07/16/meta-reportedly-scores-two-more-high-profile-openai-researchers/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2025 13:19:29 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[meta superintelligence lab]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3028334</guid>
+
+					<description><![CDATA[OpenAI researcher Jason Wei will reportedly join Meta’s new Superintelligence Lab. Another team member, Hyung Won Chung, might also join Meta, as the company works to catch up to rivals in the AGI race.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Chinese authorities are using a new tool to hack seized phones and extract data</title>
 		<link>https://techcrunch.com/2025/07/16/chinese-authorities-are-using-a-new-tool-to-hack-seized-phones-and-extract-data/</link>
 		
@@ -162,7 +199,7 @@
 		
 			</item>
 		<item>
-		<title>AV startup Pronto.ai acquires off-road autonomous vehicle rival SafeAI</title>
+		<title>AV startup Pronto acquires off-road autonomous vehicle rival SafeAI</title>
 		<link>https://techcrunch.com/2025/07/15/av-startup-pronto-ai-acquires-off-road-autonomous-vehicle-rival-safeai/</link>
 		
 		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
@@ -326,6 +363,7 @@
 		<pubDate>Tue, 15 Jul 2025 15:14:44 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[mistral]]></category>
+		<category><![CDATA[Mistral AI]]></category>
 		<category><![CDATA[mistral voxtral]]></category>
 		<category><![CDATA[open source ai]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3028005</guid>
@@ -350,43 +388,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2607662</guid>
 
 					<description><![CDATA[A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Uber&#8217;s latest robotaxi partner is China&#8217;s Baidu</title>
-		<link>https://techcrunch.com/2025/07/15/ubers-latest-robotaxi-partner-is-chinas-baidu/</link>
-		
-		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 15:02:50 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[autonomous vehicles]]></category>
-		<category><![CDATA[avs]]></category>
-		<category><![CDATA[Baidu]]></category>
-		<category><![CDATA[robotaxis]]></category>
-		<category><![CDATA[Uber]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3028011</guid>
-
-					<description><![CDATA[Baidu is the latest addition to Uber's growing list of autonomous vehicle partners, which includes Waymo, Volkswagen, May Mobility, and Pony AI.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Reddit rolls out age verification in the UK to comply with new rules</title>
-		<link>https://techcrunch.com/2025/07/15/reddit-rolls-out-age-verification-in-the-uk-to-comply-with-new-rules/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 14:55:16 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[online safety act]]></category>
-		<category><![CDATA[Reddit]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3028009</guid>
-
-					<description><![CDATA[Reddit users in the UK will have to upload their ID or a selfie to access potentially harmful content.]]></description>
 		
 		
 		
