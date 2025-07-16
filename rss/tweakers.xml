@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 16 Jul 2025 12:36:09 +0200</pubDate>
-        <lastBuildDate>Wed, 16 Jul 2025 12:36:09 +0200</lastBuildDate>
+        <pubDate>Wed, 16 Jul 2025 13:31:09 +0200</pubDate>
+        <lastBuildDate>Wed, 16 Jul 2025 13:31:09 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Curl overweegt bugbountyprogramma aan te passen vanwege overdaad aan &#039;AI-slop&#039;</title>
+            <link>https://tweakers.net/nieuws/237202/curl-overweegt-bugbountyprogramma-aan-te-passen-vanwege-overdaad-aan-ai-slop.html</link>
+            <description>De makers van curl overwegen te stoppen met het bugbountyprogramma vanwege het grote aantal rapportages dat &#039;AI-slop&#039; bevat. De makers zeggen dat het aantal slechte bugmeldingen sinds dit jaar explosief is gestegen en dat dat veel werk kost en weinig oplevert.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/237202/curl-overweegt-bugbountyprogramma-aan-te-passen-vanwege-overdaad-aan-ai-slop.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237202</guid>
+            <pubDate>Wed, 16 Jul 2025 13:19:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Krita 5.2.11</title>
+            <link>https://tweakers.net/downloads/73318/krita-5211.html</link>
+            <description>Versie 5.2.11 van Krita is verschenen. Krita is een programma waarmee digitale tekeningen en 2d-animaties kunnen worden bewerkt en gecreëerd en kan overweg met zowel bitmap- als vectorafbeeldingen. Het programma was voorheen onderdeel van Calligra Suite en wordt ontwikkeld door het KDE-team, maar werkt ook prima onder Gnome of XFCE. Downloads zijn beschikbaar voor Windows, Linux, macOS en Android. De releasenotes sinds versie 5.2.9 kunnen hieronder worden gevonden. Krita 5.2.11 Released!</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73318/krita-5211.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73318</guid>
+            <pubDate>Wed, 16 Jul 2025 13:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Copilot kan in bètabuild hele scherm van gebruiker analyseren</title>
+            <link>https://tweakers.net/nieuws/237204/copilot-kan-in-betabuild-hele-scherm-van-gebruiker-analyseren.html</link>
+            <description>Gebruikers van Copilot kunnen op Windows binnenkort hun hele desktop delen met de AI om op basis daarvan vragen te stellen. Copilot Vision kon dat eerst met bepaalde vensters, nu ook met het hele scherm.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Besturingssystemen</category>
+            <comments>https://tweakers.net/nieuws/237204/copilot-kan-in-betabuild-hele-scherm-van-gebruiker-analyseren.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237204</guid>
+            <pubDate>Wed, 16 Jul 2025 12:50:40 +0200</pubDate>
+        </item>
         <item>
             <title>ASML heeft de allereerste high-NA-euv-machine voor massaproductie geleverd</title>
             <link>https://tweakers.net/nieuws/237196/asml-heeft-de-allereerste-high-na-euv-machine-voor-massaproductie-geleverd.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/237128/amazon-schendt-europese-wetgeving-met-kortingspercentages-op-webshop.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237128</guid>
             <pubDate>Mon, 14 Jul 2025 16:37:53 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Plan - Uitbreiding wysiwygeditor naar Vraag &amp; Aanbod - Development-iteratie #315</title>
-            <link>https://tweakers.net/plan/4454/uitbreiding-wysiwygeditor-naar-vraag-en-aanbod-development-iteratie-315.html</link>
-            <description>Een aantal weken geleden maakten we de nieuwe wysiwygeditor beschikbaar op de frontpagereacties. De volgende stap is een uitbreiding naar Vraag &amp; Aanbod. In dit .plan meer hierover en wat er nog meer speelde de afgelopen periode.</description>
-            <author>Sander den Heijer</author>
-            <category>.plan</category>
-            <comments>https://tweakers.net/plan/4454/uitbreiding-wysiwygeditor-naar-vraag-en-aanbod-development-iteratie-315.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/plan/4454</guid>
-            <pubDate>Mon, 14 Jul 2025 15:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Smarthomewebshop ROBBshop neemt Home2Link over</title>
-            <link>https://tweakers.net/nieuws/237136/smarthomewebshop-robbshop-neemt-home2link-over.html</link>
-            <description>De smarthomewebwinkel Home2Link is overgenomen door ROBBshop, eveneens een smarthomewebwinkel. Een overnamebedrag wordt niet genoemd. ROBBshop kocht eerder het merkrecht van iot-gordijnsysteem Slide op.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237136/smarthomewebshop-robbshop-neemt-home2link-over.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237136</guid>
-            <pubDate>Mon, 14 Jul 2025 14:40:20 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Wine 10.12</title>
-            <link>https://tweakers.net/downloads/73304/wine-1012.html</link>
-            <description>Er is met versienummer 10.12 een nieuwe ontwikkelbuild van Wine verschenen. Wine is een opensource implementatie van de Windows-api en maakt het mogelijk om DOS- en Windows-programma&#039;s op Linux, FreeBSD, Solaris en macOS te draaien. Een grote groep ontwikkelaars draagt bij aan Wine en er is voor gekozen om elke twee weken een nieuwe zogeheten ontwikkelversie uit te brengen in plaats van te wachten tot er een aantal nieuwe functies klaar is. Een paar keer per jaar verschijnt er een stabiele uitgave. Wine houdt een database bij met hoe goed of slecht applicaties onder Wine werken, al dan niet met behulp van enkele aanpassingen. Deze bevat op het moment van schrijven 29.649 titels, wat er drie meer zijn dan twee weken geleden. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: What&#039;s new in this release:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73304/wine-1012.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73304</guid>
-            <pubDate>Mon, 14 Jul 2025 14:30:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
