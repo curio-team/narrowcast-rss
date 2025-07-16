@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 15 Jul 2025 16:36:01 +0200</pubDate>
-        <lastBuildDate>Tue, 15 Jul 2025 16:36:01 +0200</lastBuildDate>
+        <pubDate>Wed, 16 Jul 2025 09:31:00 +0200</pubDate>
+        <lastBuildDate>Wed, 16 Jul 2025 09:31:00 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,106 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - VirtualBox 7.1.12</title>
+            <link>https://tweakers.net/downloads/73314/virtualbox-7112.html</link>
+            <description>Oracle heeft versie 7.1.12 van VirtualBox uitgebracht. VirtualBox kan worden gebruikt om andere besturingssystemen als een virtuele machine op een computer te installeren. Daardoor is het mogelijk om verschillende besturingssystemen op dezelfde hardware naast elkaar en tegelijkertijd te gebruiken. VirtualBox is beschikbaar voor Windows, macOS, Linux en Solaris en is in staat om diverse gastbesturingssystemen te draaien. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: VirtualBox 7.1.12</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73314/virtualbox-7112.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73314</guid>
+            <pubDate>Wed, 16 Jul 2025 09:15:39 +0200</pubDate>
+        </item>
+        <item>
+            <title>AP waarschuwt voor opkomst van AI-systemen die emotie kunnen herkennen</title>
+            <link>https://tweakers.net/nieuws/237190/ap-waarschuwt-voor-opkomst-van-ai-systemen-die-emotie-kunnen-herkennen.html</link>
+            <description>Een groeiend aantal bedrijven overweegt AI-systemen te implementeren die emoties van klanten kunnen herkennen, bijvoorbeeld bij de klantenservice. Daarvoor waarschuwt de Autoriteit Persoonsgegevens, die zegt dat daar grote risico&#039;s aan verbonden zijn.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Privacy</category>
+            <comments>https://tweakers.net/nieuws/237190/ap-waarschuwt-voor-opkomst-van-ai-systemen-die-emotie-kunnen-herkennen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237190</guid>
+            <pubDate>Wed, 16 Jul 2025 08:47:12 +0200</pubDate>
+        </item>
+        <item>
+            <title>Round-up - Meer laptop voor je geld dan ooit - Vier budgetmodellen tot 550 euro</title>
+            <link>https://tweakers.net/reviews/13422/meer-laptop-voor-je-geld-dan-ooit-vier-budgetmodellen-tot-550-euro.html</link>
+            <description>In deze round-up kijken we naar vier laptops die maximaal 550 euro kosten: de Acer Aspire Go 15, MSI Modern 15, ASUS Vivobook M1502YA en Lenovo IdeaPad Slim 3.</description>
+            <author>Jelle Stuip</author>
+            <category>Round-up / Computers / Laptops</category>
+            <comments>https://tweakers.net/reviews/13422/meer-laptop-voor-je-geld-dan-ooit-vier-budgetmodellen-tot-550-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13422</guid>
+            <pubDate>Wed, 16 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Sony introduceert compacte RX1R III-camera met 61-megapixelsensor voor 4899 euro</title>
+            <link>https://tweakers.net/nieuws/237188/sony-introduceert-compacte-rx1r-iii-camera-met-61-megapixelsensor-voor-4899-euro.html</link>
+            <description>Sony komt met een nieuwe compacte camera in zijn RX1R-serie. De RX1R III beschikt over een fullframesensor van 61 megapixel en krijgt betere autofocus dan zijn voorganger. Het apparaat wordt eind deze maand verwacht en kost 4899 euro.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Beeld en geluid / Compactcamera&#039;s</category>
+            <comments>https://tweakers.net/nieuws/237188/sony-introduceert-compacte-rx1r-iii-camera-met-61-megapixelsensor-voor-4899-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237188</guid>
+            <pubDate>Tue, 15 Jul 2025 21:16:58 +0200</pubDate>
+        </item>
+        <item>
+            <title>Ugreen kondigt Qi 2.2-powerbank aan, belooft draadloos laden op 25W</title>
+            <link>https://tweakers.net/nieuws/237182/ugreen-kondigt-qi-22-powerbank-aan-belooft-draadloos-laden-op-25w.html</link>
+            <description>Ugreen heeft een nieuwe MagFlow-powerbank aangekondigd. Het is volgens het bedrijf de eerste powerbank die is gecertificeerd voor de aanstaande Qi 2.2-standaard. Daarmee kan de powerbank draadloos opladen met vermogens tot 25W, waar dat voorheen maximaal 15W was.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Tablets en telefoons / Powerbanks</category>
+            <comments>https://tweakers.net/nieuws/237182/ugreen-kondigt-qi-22-powerbank-aan-belooft-draadloos-laden-op-25w.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237182</guid>
+            <pubDate>Tue, 15 Jul 2025 20:30:08 +0200</pubDate>
+        </item>
+        <item>
+            <title>Cyberpunk 2077 komt deze week uit voor Mac-systemen met Apple-chips</title>
+            <link>https://tweakers.net/nieuws/237180/cyberpunk-2077-komt-deze-week-uit-voor-mac-systemen-met-apple-chips.html</link>
+            <description>Cyberpunk 2077 komt deze week uit voor macOS. De Ultimate Edition van deze game verschijnt op donderdag 17 juli voor het platform, via Steam, de Epic Games Store, GOG en Apples eigen App Store. De port stond eigenlijk op de planning voor begin dit jaar, maar werd uitgesteld.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Pc&#039;s</category>
+            <comments>https://tweakers.net/nieuws/237180/cyberpunk-2077-komt-deze-week-uit-voor-mac-systemen-met-apple-chips.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237180</guid>
+            <pubDate>Tue, 15 Jul 2025 19:08:35 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - dBpoweramp Music Converter 2025.07.14</title>
+            <link>https://tweakers.net/downloads/73312/dbpoweramp-music-converter-20250714.html</link>
+            <description>Illustrate heeft een nieuwe versie van dBpoweramp Music Converter uitgebracht. Met dit audiobewerkingsprogramma kunnen audio-cd&#039;s worden geript en kunnen muziekbestanden van en naar onder andere mp3, m4a, wma, Ogg Vorbis, aac, Monkey&#039;s Audio, flac en alac worden geconverteerd, met behoud van tags. Verder kunnen de mp3-tags worden aangepast en kan het programma volledig in Windows Explorer worden geïntegreerd, waardoor het gemakkelijk aan te roepen is. De basisversie voor het rippen van cd&#039;s en het converteren van bestanden is gratis. Voor extra functionaliteit moet worden betaald. Het programma is beschikbaar voor Windows en macOS. In deze uitgave is het installatiebestand kleiner gemaakt en is er een probleem verholpen.: Release 2025-07-14</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73312/dbpoweramp-music-converter-20250714.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73312</guid>
+            <pubDate>Tue, 15 Jul 2025 19:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Nvidia stelt N1- en N1X-cpu&#039;s voor laptops en desktops uit tot eind 2026&#039;</title>
+            <link>https://tweakers.net/nieuws/237178/nvidia-stelt-n1-en-n1x-cpus-voor-laptops-en-desktops-uit-tot-eind-2026.html</link>
+            <description>Nvidia heeft zijn N1- en N1X-cpu&#039;s mogelijk uitgesteld tot eind volgend jaar, zeggen bronnen tegen SemiAccurate. Met die Arm-chips zou Nvidia de cpu-markt voor laptops en desktops willen betreden. De ontwikkeling ervan zou echter opnieuw vertraging hebben opgelopen.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/237178/nvidia-stelt-n1-en-n1x-cpus-voor-laptops-en-desktops-uit-tot-eind-2026.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237178</guid>
+            <pubDate>Tue, 15 Jul 2025 18:28:53 +0200</pubDate>
+        </item>
+        <item>
+            <title>Ook AMD gaat Instinct MI308-AI-chip weer exporteren naar China</title>
+            <link>https://tweakers.net/nieuws/237176/ook-amd-gaat-instinct-mi308-ai-chip-weer-exporteren-naar-china.html</link>
+            <description>Ook AMD is van plan om binnenkort weer bepaalde AI-chips te leveren aan China. Het gaat om de Instinct MI308, die het bedrijf specifiek voor de Chinese markt heeft ontwikkeld. De regering-Trump verbood de export ervan in april, maar geeft nu weer exportvergunningen uit.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237176/ook-amd-gaat-instinct-mi308-ai-chip-weer-exporteren-naar-china.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237176</guid>
+            <pubDate>Tue, 15 Jul 2025 17:51:50 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Blender 4.5.0</title>
+            <link>https://tweakers.net/downloads/73310/blender-450.html</link>
+            <description>Versie 4.5 van het crossplatform- en opensourceprogramma Blender is uitgekomen, een versie met extra lange ondersteuning. Deze applicatie is bedoeld voor 3d-modelling, animatie, rendering, postproduction, interactive creation en playback. Meer informatie over de uitgebreide mogelijkheden van Blender kan op deze pagina worden gevonden. Met dit programma zijn onder meer de korte opensource animatiefilms Elephants Dream, Big Buck Bunny, Sintel, Tears of Steel, Cosmos Laundromat en Sprite Fright gemaakt. Ook Flow, wat dit jaar onder meer een Oscar en Golden Globe voor beste animatiefilm in de wacht sleepte, is met Blender gemaakt. Uitgebreide informatie over de veranderingen en versie 4.5 zijn op deze pagina te vinden; dit zijn de releasenotes: Blender 4.5 LTS Release Notes</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73310/blender-450.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73310</guid>
+            <pubDate>Tue, 15 Jul 2025 16:55:11 +0200</pubDate>
+        </item>
         <item>
             <title>XAI claimt dat &#039;ongewenste&#039; antwoorden van Grok 4 zijn verholpen</title>
             <link>https://tweakers.net/nieuws/237174/xai-claimt-dat-ongewenste-antwoorden-van-grok-4-zijn-verholpen.html</link>
@@ -316,106 +416,6 @@
             <comments>https://tweakers.net/downloads/73300/librecad-2212.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73300</guid>
             <pubDate>Mon, 14 Jul 2025 10:27:29 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nationale Nederlanden introduceert verzekering voor defecten bij EV-accu&#039;s</title>
-            <link>https://tweakers.net/nieuws/237118/nationale-nederlanden-introduceert-verzekering-voor-defecten-bij-ev-accus.html</link>
-            <description>Nationale Nederlanden heeft een verzekeringspakket voor EV-accu&#039;s geïntroduceerd. De verzekering dekt alleen als de capaciteit &#039;plotseling&#039; onder de 70 procent is gezakt en is dus niet bedoeld voor algemene accudegradatie. Het tarief lijkt zo&#039;n 26,68 euro per maand te zijn.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / Beeld en geluid / Cartech</category>
-            <comments>https://tweakers.net/nieuws/237118/nationale-nederlanden-introduceert-verzekering-voor-defecten-bij-ev-accus.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237118</guid>
-            <pubDate>Mon, 14 Jul 2025 09:49:35 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Copyrightlisting vermeldt nog onaangekondigde Donkey Kong-film</title>
-            <link>https://tweakers.net/geek/237120/copyrightlisting-vermeldt-nog-onaangekondigde-donkey-kong-film.html</link>
-            <description>Nintendo en Universal Pictures werken mogelijk aan een Donkey Kong-film. Dat blijkt uit een melding bij het copyrightkantoor van de Verenigde Staten. Er is verder niets bekend over de film. Nintendo bracht twee jaar geleden The Super Mario Bros. Movie uit.</description>
-            <author>Hayte Hugo</author>
-            <category>.Geek / Gaming / Games</category>
-            <comments>https://tweakers.net/geek/237120/copyrightlisting-vermeldt-nog-onaangekondigde-donkey-kong-film.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/237120</guid>
-            <pubDate>Mon, 14 Jul 2025 08:20:31 +0200</pubDate>
-        </item>
-        <item>
-            <title>Best Buy Guide - De beste lcd-gamingmonitors</title>
-            <link>https://tweakers.net/best-buy-guide/monitors/beste-gamingmonitor</link>
-            <description>We gaan op zoek naar de beste lcd-gamingmonitors met 1080p-, 1440p- en 4k-resoluties. We letten op de featureset, de beeldkwaliteit en de prijs-kwaliteitverhouding.</description>
-            <author>Friso Weijers</author>
-            <category>Best Buy Guide / Computers / Monitors</category>
-            <comments>https://tweakers.net/best-buy-guide/monitors/beste-gamingmonitor#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/best-buy-guide/monitors/beste-gamingmonitor</guid>
-            <pubDate>Mon, 14 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Gerucht: AMD&#039;s volgende Ryzen-cpu&#039;s worden vrijwel allemaal gemaakt op TSMC N2P</title>
-            <link>https://tweakers.net/nieuws/237114/gerucht-amds-volgende-ryzen-cpus-worden-vrijwel-allemaal-gemaakt-op-tsmc-n2p.html</link>
-            <description>AMD heeft naar verluidt details over zijn aanstaande Zen 6-architectuur gedeeld met zijn partners. Dat meldt bekende leaker Kepler_L2. De chips zouden vrijwel allemaal gebruikmaken van TSMC N2P, met een minder geavanceerde N3P-node voor een aantal laptopchips.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / Processors</category>
-            <comments>https://tweakers.net/nieuws/237114/gerucht-amds-volgende-ryzen-cpus-worden-vrijwel-allemaal-gemaakt-op-tsmc-n2p.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237114</guid>
-            <pubDate>Sun, 13 Jul 2025 13:30:01 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Intel voltooit tape-out van Nova Lake-cpu&#039;s op TSMC&#039;s 2nm-procedé&#039;</title>
-            <link>https://tweakers.net/nieuws/237112/intel-voltooit-tape-out-van-nova-lake-cpus-op-tsmcs-2nm-procede.html</link>
-            <description>Intel heeft de tape-out van &#039;een belangrijk product&#039; voltooid. Dat schrijft SemiAccurate op basis van eigen bronnen. Het zou gaan om onderdelen van Nova Lake-S, de volgende desktop-cpu-generatie van het chipbedrijf. Die processors worden volgend jaar verwacht.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / Processors</category>
-            <comments>https://tweakers.net/nieuws/237112/intel-voltooit-tape-out-van-nova-lake-cpus-op-tsmcs-2nm-procede.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237112</guid>
-            <pubDate>Sun, 13 Jul 2025 12:58:16 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Silicon Motion werkt aan PCIe 6.0-ssd-controller met snelheden tot 28GB/s&#039;</title>
-            <link>https://tweakers.net/nieuws/237106/silicon-motion-werkt-aan-pcie-60-ssd-controller-met-snelheden-tot-28gb-s.html</link>
-            <description>Silicon Motion werkt aan een SM8466-controller, meldt het Chinese techmedium IT Home. Deze zou gebruikt worden om PCIe 6.0-ssd&#039;s mee aan te sturen. Volgens de fabrikant ondersteunt de controller snelheden tot 28GB/s. Het gaat vooralsnog om een controller voor enterprise-ssd&#039;s.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / SSD&#039;s</category>
-            <comments>https://tweakers.net/nieuws/237106/silicon-motion-werkt-aan-pcie-60-ssd-controller-met-snelheden-tot-28gb-s.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237106</guid>
-            <pubDate>Sun, 13 Jul 2025 11:41:56 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nieuwe Commodore-eigenaars kondigen eerste hardware aan: Commodore 64 Ultimate</title>
-            <link>https://tweakers.net/nieuws/237110/nieuwe-commodore-eigenaars-kondigen-eerste-hardware-aan-commodore-64-ultimate.html</link>
-            <description>Er komt een nieuwe Commodore-computer aan. De Commodore 64 Ultimate biedt functies als HDMI-ondersteuning en wifi, en is volgens de makers compatibel met ‘ruim 10.000 cartridges, games en randapparatuur’ voor de originele C64. Het apparaat gaat bij de release 300 euro kosten.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / Pc&#039;s</category>
-            <comments>https://tweakers.net/nieuws/237110/nieuwe-commodore-eigenaars-kondigen-eerste-hardware-aan-commodore-64-ultimate.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237110</guid>
-            <pubDate>Sun, 13 Jul 2025 10:56:50 +0200</pubDate>
-        </item>
-        <item>
-            <title>OpenAI neemt AI-tool Windsurf toch niet over, Windsurf-ceo gaat naar Google</title>
-            <link>https://tweakers.net/nieuws/237104/openai-neemt-ai-tool-windsurf-toch-niet-over-windsurf-ceo-gaat-naar-google.html</link>
-            <description>OpenAI’s overname van Windsurf gaat niet door. Het bedrijf was in de afgelopen maanden in gesprek met de AI-start-up. Nu voegt de Windsurf-ceo zich bij Google, samen met verschillende andere medewerkers. Google zou ook een licentie nemen op de technologie van Windsurf.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / IT Pro / Software development</category>
-            <comments>https://tweakers.net/nieuws/237104/openai-neemt-ai-tool-windsurf-toch-niet-over-windsurf-ceo-gaat-naar-google.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237104</guid>
-            <pubDate>Sun, 13 Jul 2025 09:51:52 +0200</pubDate>
-        </item>
-        <item>
-            <title>Quicktest - ASUS ProArt P16 (H7606WP) - Een van de lichtste RTX 50-creatorlaptops</title>
-            <link>https://tweakers.net/reviews/13462/asus-proart-p16-h7606wp-een-van-de-lichtste-rtx-50-creatorlaptops.html</link>
-            <description>De ASUS ProArt P16 is een van de lichtste creatorlaptops met een 16&quot;-scherm en een Nvidia RTX 50-videokaart. We kijken of de prestaties niet ook zo licht zijn.</description>
-            <author>Friso Weijers</author>
-            <category>Quicktest / Computers / Laptops</category>
-            <comments>https://tweakers.net/reviews/13462/asus-proart-p16-h7606wp-een-van-de-lichtste-rtx-50-creatorlaptops.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13462</guid>
-            <pubDate>Sun, 13 Jul 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Firmware-update - SmartEVSE 3.9.0</title>
-            <link>https://tweakers.net/downloads/73298/smartevse-390.html</link>
-            <description>Als je zelf een laadpaal voor de elektrische auto in elkaar wilt knutselen, kun je meestal een hoop geld besparen. In dat geval heb je onder meer een controller nodig, bijvoorbeeld de opensource EVSE van fabrikant Stegen. Een randapparaat voor de SmartEVSE-controller is de Sensorbox: dit is een kastje dat de P1-telegrammen van je elektriciteitsmeter vertaalt naar modbusberichten, op basis waarvan de SmartEVSE zijn laadvermogen regelt. Voor diegenen die geen P1-aansluiting op hun elektriciteitsmeter hebben, zijn er ook aansluitingen voor CT-klemmen aanwezig op de Sensorbox. Door een goede samenwerking tussen community en fabrikant worden de communityversies na verloop van tijd overgenomen door de fabrikant, als de stabiliteit in de community is bewezen. In versie 3.9.0 zijn de volgende veranderingen en verbeteringen aangebracht: Release v3.9.0</description>
-            <author>Bart van Klaveren</author>
-            <category>Firmware</category>
-            <comments>https://tweakers.net/downloads/73298/smartevse-390.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73298</guid>
-            <pubDate>Sun, 13 Jul 2025 08:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>

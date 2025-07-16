@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 15 Jul 2025 14:30:28 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 16 Jul 2025 00:13:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,357 +28,361 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Of course, Grok&#8217;s AI companions want to have sex and burn down schools</title>
+		<link>https://techcrunch.com/2025/07/15/of-course-groks-ai-companions-want-to-have-sex-and-burn-down-schools/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 23:46:41 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[Grok]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3028184</guid>
+
+					<description><![CDATA[xAI's first AI companions on the Grok app are a lustful anime girl and a homicidal panda.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Chainsmokers&#8217; Mantis Ventures closes $100M third fund</title>
+		<link>https://techcrunch.com/2025/07/15/the-chainsmokers-mantis-ventures-closes-100m-third-fund/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 22:36:04 +0000</pubDate>
+				<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[celebrity]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[mantis]]></category>
+		<category><![CDATA[The Chainsmokers]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3028245</guid>
+
+					<description><![CDATA[The fund brings Mantis' assets under management to $225 million.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Amazon&#8217;s Kuiper satellites to get boost from rival SpaceX</title>
+		<link>https://techcrunch.com/2025/07/15/amazons-kuiper-satellites-to-get-boost-from-rival-spacex/</link>
+		
+		<dc:creator><![CDATA[Aria Alamalhodaei]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 22:26:10 +0000</pubDate>
+				<category><![CDATA[Space]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[jeff bezos]]></category>
+		<category><![CDATA[kuiper]]></category>
+		<category><![CDATA[SpaceX]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3028223</guid>
+
+					<description><![CDATA[Amazon is looking to its main competitor to get its next batch of Kuiper satellites to orbit. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Army soldier pleads guilty to hacking telcos and extortion</title>
+		<link>https://techcrunch.com/2025/07/15/us-army-soldier-pleads-guilty-to-hacking-telcos-and-extortion/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 21:41:25 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[AT&T]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[Snowflake]]></category>
+		<category><![CDATA[Verizon]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3028225</guid>
+
+					<description><![CDATA[Cameron Wagenius had already pleaded guilty to other charges earlier this year. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>A former OpenAI engineer describes what it’s really like to work there</title>
+		<link>https://techcrunch.com/2025/07/15/a-former-openai-engineer-describes-what-its-really-like-to-work-there/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 20:58:31 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[tech culture]]></category>
+		<category><![CDATA[tech jobs]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3028172</guid>
+
+					<description><![CDATA[A senior engineer describes the thrill, chaos, and exhaustion of working at OpenAI this past year while launching its coding agent Codex.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Meta fixes bug that could leak users&#8217; AI prompts and generated content</title>
+		<link>https://techcrunch.com/2025/07/15/meta-fixes-bug-that-could-leak-users-ai-prompts-and-generated-content/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 20:00:05 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[meta ai]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3028138</guid>
+
+					<description><![CDATA[The tech giant fixed the security flaw, netting a security researcher $10,000 for privately disclosing the bug.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AV startup Pronto.ai acquires off-road autonomous vehicle rival SafeAI</title>
+		<link>https://techcrunch.com/2025/07/15/av-startup-pronto-ai-acquires-off-road-autonomous-vehicle-rival-safeai/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 18:00:57 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Anthony Levandowski]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[pronto.ai]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027713</guid>
+
+					<description><![CDATA[Pronto.ai CEO Anthony Levandowski said the move is meant to help bolster his company's ranks with like-minded talent and complementary technology.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mira Murati&#8217;s Thinking Machines Lab is worth $12B in seed round</title>
+		<link>https://techcrunch.com/2025/07/15/mira-muratis-thinking-machines-lab-is-worth-12b-in-seed-round/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 17:59:29 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI Lab]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3028062</guid>
+
+					<description><![CDATA[The deal marks one of the largest seed rounds — or first funding rounds — in Silicon Valley history, representing the massive investor appetite to back promising new AI labs. Thinking Machines Lab is less than a year old and has yet to reveal what it's working on.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Discover adds AI summaries, threatening publishers with further traffic declines</title>
+		<link>https://techcrunch.com/2025/07/15/google-discover-adds-ai-summaries-threatening-publishers-with-further-traffic-declines/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 17:19:47 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[discover]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[media]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3028050</guid>
+
+					<description><![CDATA[The feature will appear on iOS and Android in the U.S., with a focus on trending lifestyle topics like sports and entertainment. Google also noted the feature will make it easier for people to decide what pages they want to visit.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The rights to Fyre Festival sold on eBay for $245K</title>
+		<link>https://techcrunch.com/2025/07/15/the-rights-to-fyre-festival-sold-on-ebay-for-245k/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 17:02:27 +0000</pubDate>
+				<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[billy mcfarland]]></category>
+		<category><![CDATA[Fyre Festival]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027985</guid>
+
+					<description><![CDATA[Billy McFarland, the fraudster who brought you Fyre Festival, has sold the rights to the brand on eBay for $245,300. We do not yet know who the buyer is or what they plan to do with such cursed IP.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Lucid Motors will roll out hands-free highway driving this month</title>
+		<link>https://techcrunch.com/2025/07/15/lucid-motors-will-roll-out-hands-free-highway-driving-this-month/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 16:34:00 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[advanced driver assistance systems]]></category>
+		<category><![CDATA[Lucid Motors]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027940</guid>
+
+					<description><![CDATA[Lucid Motors joins the likes of Ford, General Motors, and Tesla in offering an advanced driver assistance system that allows for hands-free driving.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ukrainian hackers claim to have destroyed servers of Russian drone maker</title>
+		<link>https://techcrunch.com/2025/07/15/ukrainian-hackers-claim-to-have-destroyed-servers-of-russian-drone-maker/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 16:30:14 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[drones]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[hacktivist]]></category>
+		<category><![CDATA[russia]]></category>
+		<category><![CDATA[ukraine]]></category>
+		<category><![CDATA[War]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3028042</guid>
+
+					<description><![CDATA[A coalition of Ukrainian hackers breached and wiped systems belonging to Gaskar Group, a Moscow-based drone maker.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI coding tools are shifting to a surprising place: The terminal</title>
+		<link>https://techcrunch.com/2025/07/15/ai-coding-tools-are-shifting-to-a-surprising-place-the-terminal/</link>
+		
+		<dc:creator><![CDATA[Russell Brandom]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 16:30:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI coding tools]]></category>
+		<category><![CDATA[code editor]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027821</guid>
+
+					<description><![CDATA[For years, code-editing tools like Cursor, Windsurf, and GitHub’s Copilot have been the standard for AI-powered software development. But as agentic AI grows more powerful and vibe-coding takes off, a subtle shift has changed how AI systems are interacting with software. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Research leaders urge tech industry to monitor AI&#8217;s &#8216;thoughts&#8217;</title>
+		<link>https://techcrunch.com/2025/07/15/research-leaders-urge-tech-industry-to-monitor-ais-thoughts/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 16:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[ai safety]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[research]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027496</guid>
+
+					<description><![CDATA[Research leaders from OpenAI, Anthropic, and Google DeepMind are urging tech companies and research groups to monitor AI's "thoughts."]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Venture gets a rare Native American-led fund in Betsy Fore&#8217;s Velveteen Ventures</title>
+		<link>https://techcrunch.com/2025/07/15/venture-gets-a-rare-native-american-led-fund-in-betsy-fores-velveteen-ventures/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 16:00:00 +0000</pubDate>
+				<category><![CDATA[Venture]]></category>
+		<category><![CDATA[VC]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3027961</guid>
+
+					<description><![CDATA[The firm will look to invest $500,000 to $4 million in 15-20 seed and Series A companies in the healthcare, climate, consumer, and community sectors. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mistral releases Voxtral, its first open source AI audio model</title>
+		<link>https://techcrunch.com/2025/07/15/mistral-releases-voxtral-its-first-open-source-ai-audio-model/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 15:14:44 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[mistral]]></category>
+		<category><![CDATA[mistral voxtral]]></category>
+		<category><![CDATA[open source ai]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3028005</guid>
+
+					<description><![CDATA[French startup Mistral has jumped into the audio race with Voxtral, its first open model, aiming to challenge the dominance of walled-off corporate systems with open-weight alternatives. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>A comprehensive list of 2025 tech layoffs</title>
+		<link>https://techcrunch.com/2025/07/15/tech-layoffs-2025-list/</link>
+		
+		<dc:creator><![CDATA[Cody Corrall, Alyssa Stringer, Kate Park]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 15:10:08 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<category><![CDATA[Layoffs]]></category>
+		<category><![CDATA[tech layoffs]]></category>
+		<category><![CDATA[TechCrunch 2023 Recap]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2607662</guid>
+
+					<description><![CDATA[A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Uber&#8217;s latest robotaxi partner is China&#8217;s Baidu</title>
+		<link>https://techcrunch.com/2025/07/15/ubers-latest-robotaxi-partner-is-chinas-baidu/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 15:02:50 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[autonomous vehicles]]></category>
+		<category><![CDATA[avs]]></category>
+		<category><![CDATA[Baidu]]></category>
+		<category><![CDATA[robotaxis]]></category>
+		<category><![CDATA[Uber]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3028011</guid>
+
+					<description><![CDATA[Baidu is the latest addition to Uber's growing list of autonomous vehicle partners, which includes Waymo, Volkswagen, May Mobility, and Pony AI.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Reddit rolls out age verification in the UK to comply with new rules</title>
+		<link>https://techcrunch.com/2025/07/15/reddit-rolls-out-age-verification-in-the-uk-to-comply-with-new-rules/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 14:55:16 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[online safety act]]></category>
+		<category><![CDATA[Reddit]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3028009</guid>
+
+					<description><![CDATA[Reddit users in the UK will have to upload their ID or a selfie to access potentially harmful content.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Rivian taps Google to bring custom maps into its EVs and app</title>
 		<link>https://techcrunch.com/2025/07/15/rivian-taps-google-to-bring-custom-maps-into-its-evs-and-app/</link>
 		
 		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
 		<pubDate>Tue, 15 Jul 2025 14:30:24 +0000</pubDate>
 				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[google maps]]></category>
+		<category><![CDATA[Rivian]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3027838</guid>
 
 					<description><![CDATA[Rivian vehicles will soon replace its Mapbox-based maps with Google Maps. The integration will still see a lot of Rivian DNA in the new mapping system, though. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rwazi raises $12M Series A to help companies with consumer insights and intelligence</title>
-		<link>https://techcrunch.com/2025/07/15/rwazi-raises-12m-series-a-to-help-companies-with-consumer-insights-and-intelligence/</link>
-		
-		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 14:30:00 +0000</pubDate>
-				<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[venture]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3027957</guid>
-
-					<description><![CDATA[Rwazi has raised a $12 million Series A led by Bonfire Ventures to help companies with market intelligence and consumer insights]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple commits $500M to U.S.-based rare earth recycling firm MP Materials</title>
-		<link>https://techcrunch.com/2025/07/15/apple-commits-500m-to-u-s-based-rare-earth-recycling-firm-mp-materials/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 14:25:03 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[environment]]></category>
-		<category><![CDATA[rare earth minerals]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3027965</guid>
-
-					<description><![CDATA[The factory will develop a series of neodymium magnet manufacturing lines specifically designed for Apple products.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>DOGE staffer with access to Americans&#8217; personal data leaked private xAI API key</title>
-		<link>https://techcrunch.com/2025/07/15/doge-staffer-with-access-to-americans-personal-data-leaked-private-xai-api-key/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 13:40:00 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3027953</guid>
-
-					<description><![CDATA[The researcher who found the exposed key said it “raises questions” about how DOGE handles sensitive data.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>China’s Geely is officially bringing its luxury EV startup Zeekr private</title>
-		<link>https://techcrunch.com/2025/07/15/chinas-geely-is-officially-bringing-its-luxury-ev-startup-zeekr-private/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 13:32:10 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[EVs]]></category>
-		<category><![CDATA[Geely]]></category>
-		<category><![CDATA[zeekr]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3027950</guid>
-
-					<description><![CDATA[China’s Geely Auto is officially taking its luxury EV subsidiary Zeekr private, just over a year after the company debuted on the New York Stock Exchange.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ParadeDB takes on Elasticsearch as interest in Postgres explodes amid AI boom</title>
-		<link>https://techcrunch.com/2025/07/15/paradedb-takes-on-elasticsearch-as-interest-in-postgres-explodes-amid-ai-boom/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 13:24:51 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[artificial intelligence]]></category>
-		<category><![CDATA[data]]></category>
-		<category><![CDATA[data management]]></category>
-		<category><![CDATA[Databricks]]></category>
-		<category><![CDATA[Elasticsearch]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[Postgres]]></category>
-		<category><![CDATA[Snowflake]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3027933</guid>
-
-					<description><![CDATA[ParadeDB built a Postgres extension that facilitates full-text search and analytics on Postgres without the need to transfer data. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>xAI says it has fixed Grok 4&#8217;s problematic responses</title>
-		<link>https://techcrunch.com/2025/07/15/xai-says-it-has-fixed-grok-4s-problematic-responses/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 13:12:21 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[Grok]]></category>
-		<category><![CDATA[Grok 4]]></category>
-		<category><![CDATA[xAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3027911</guid>
-
-					<description><![CDATA[xAI says it fixed the issue with Grok 4 where the model said its surname was "mechahitler." ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google inks $3B deal to buy hydropower from Brookfield</title>
-		<link>https://techcrunch.com/2025/07/15/google-inks-3b-deal-to-buy-hydropower-from-brookfield/</link>
-		
-		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 13:05:02 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[data centers]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[hydropower]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3027910</guid>
-
-					<description><![CDATA[Google will pay more than $3 billion to source carbon-free hydropower from Brookfield Renewable Energy Partners' plants in Pennsylvania. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Auriga Space raises $6M to shoot rockets off an electromagnetic launch track</title>
-		<link>https://techcrunch.com/2025/07/15/auriga-space-raises-6m-to-shoot-rockets-off-an-electromagnetic-launch-track/</link>
-		
-		<dc:creator><![CDATA[Aria Alamalhodaei]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Space]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3027445</guid>
-
-					<description><![CDATA[Auriga Space wants to reimagine launch by using electromagnetic forces. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Joby Aviation doubles pilot eVTOL facility capacity as it races to launch air taxis</title>
-		<link>https://techcrunch.com/2025/07/15/joby-aviation-doubles-pilot-evtol-facility-capacity-as-it-races-toward-air-taxi-launch/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[air taxis]]></category>
-		<category><![CDATA[eVTOLS]]></category>
-		<category><![CDATA[Joby Aviation]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3027929</guid>
-
-					<description><![CDATA[Joby Aviation has doubled the size and production capacity of its pilot manufacturing facility in Marina, California as it races to commercialize electric air taxis by early next year. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Amogy raises $80M to power ships and data centers with ammonia</title>
-		<link>https://techcrunch.com/2025/07/15/amogy-raises-80m-to-power-ships-and-data-centers-with-ammonia/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Climate]]></category>
-		<category><![CDATA[data centers]]></category>
-		<category><![CDATA[Shipping]]></category>
-		<category><![CDATA[maritime industry]]></category>
-		<category><![CDATA[Amogy]]></category>
-		<category><![CDATA[ammonia]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3026691</guid>
-
-					<description><![CDATA[Amogy's technology generates power from ammonia without pollution, making it a prime candidate for decarbonizing maritime shipping.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TechCrunch All Stage launches in Boston today — don’t miss what founders are learning</title>
-		<link>https://techcrunch.com/2025/07/15/techcrunch-all-stage-launches-in-boston-today-dont-miss-what-founders-are-learning/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 10:30:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[TechCrunch All Stage 2025]]></category>
-		<category><![CDATA[TC All Stage]]></category>
-		<category><![CDATA[TechCrunch All Stage]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3027869</guid>
-
-					<description><![CDATA[Today’s the day! TechCrunch All Stage is lighting up Boston’s SoWa Power Station at 7:30 a.m. ET sharp. The stages are set, the speakers are ready, and the startup community is gathering for one powerful day of insight, innovation, and momentum. In Boston and ready to scale your startup faster and more efficiently? There’s still [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nextdoor redesigns app with AI recommendations, local news, and real-time emergency alerts</title>
-		<link>https://techcrunch.com/2025/07/15/nextdoor-redesigns-app-with-ai-recommendations-local-news-and-real-time-emergency-alerts/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 09:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[App]]></category>
-		<category><![CDATA[nextdoor]]></category>
-		<category><![CDATA[nirav tolia]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3027582</guid>
-
-					<description><![CDATA[Neighborhood social app Nextdoor is launching a redesigned version of its service that it’s calling the “new Nextdoor.” ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tesla finally enters India — nine years after Elon Musk first teased its debut</title>
-		<link>https://techcrunch.com/2025/07/14/tesla-finally-enters-india-nine-years-after-elon-musk-first-teased-its-debut/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 06:48:10 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[Tesla]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3027673</guid>
-
-					<description><![CDATA[Tesla has made its long-awaited entry into India with the opening of its first showroom in Mumbai.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meta is reportedly using actual tents to build data centers</title>
-		<link>https://techcrunch.com/2025/07/14/meta-is-reportedly-using-actual-tents-to-build-data-centers/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 05:25:13 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[AI data center]]></category>
-		<category><![CDATA[AI training]]></category>
-		<category><![CDATA[data centers]]></category>
-		<category><![CDATA[Meta]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3027854</guid>
-
-					<description><![CDATA[Meta and CEO Mark Zuckerberg are in a hurry to build their superintelligence tech. The company has been poaching AI researchers, while Zuckerberg announced on Monday that Meta is building a 5-gigawatt data center called Hyperion. The urgency is palpable. As SemiAnalysis reported last week and Business Insider noted, Meta is so eager to boost [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nvidia is set to resume China chip sales after months of regulatory whiplash</title>
-		<link>https://techcrunch.com/2025/07/14/nvidia-is-set-to-resume-china-chip-sales-after-months-of-regulatory-whiplash/</link>
-		
-		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 04:36:47 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[H20]]></category>
-		<category><![CDATA[Jensen Huang]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3027848</guid>
-
-					<description><![CDATA[Nvidia announced Monday that it&#8217;s filing applications to restart sales of its H20 artificial intelligence chips to China, capping a spasmodic few months that saw the Trump administration impose restrictions, then quickly reverse course after a high-profile dinner meeting. The company expects to receive U.S. government licenses soon and begin deliveries shortly after, according to [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Brian Singerman is raising over $500M for a new fund with a twist on the VC model</title>
-		<link>https://techcrunch.com/2025/07/14/brian-singermans-new-fund-has-a-twist-and-peter-thiel-as-a-big-backer/</link>
-		
-		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 23:33:28 +0000</pubDate>
-				<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Founders Fund]]></category>
-		<category><![CDATA[Peter Thiel]]></category>
-		<category><![CDATA[brian singerman]]></category>
-		<category><![CDATA[Quiet Capital]]></category>
-		<category><![CDATA[fund of funds]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3027812</guid>
-
-					<description><![CDATA[Former Founders Fund GP Brian Singerman and co-founder and managing partner of Quiet Capital, Lee Linden, are seeking over $500 million for a new fund called GPx, three people familiar with their strategy told TechCrunch. A significant portion of GPx's fund, potentially as much as 50%, will come from Founders Fund co-founder Peter Thiel, these people said.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meta built its AI reputation on openness &#8212; that may be changing</title>
-		<link>https://techcrunch.com/2025/07/14/meta-built-its-ai-reputation-on-openness-that-may-be-changing/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 22:44:24 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Llama]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[open source ai]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3027780</guid>
-
-					<description><![CDATA[Top members of Meta’s new Superintelligence Lab discussed pivoting away from the company’s powerful open source AI model, Behemoth, and instead developing a closed model. This would mark a major philosophical shift for Meta. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Former Sequoia partner Matt Miller raises $355M for new fund — with Sequoia&#8217;s backing</title>
-		<link>https://techcrunch.com/2025/07/14/former-sequoia-partner-matt-miller-raises-355m-for-new-fund-with-sequoias-backing/</link>
-		
-		<dc:creator><![CDATA[Anna Heim]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 21:56:19 +0000</pubDate>
-				<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Sequoia Capital]]></category>
-		<category><![CDATA[matt miller]]></category>
-		<category><![CDATA[evantic]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3027734</guid>
-
-					<description><![CDATA[Former Sequoia partner Matt Miller has already locked in $355 million for his new fund, Evantic, which is also backed by Sequoia, TechCrunch learned.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Following YouTube, Meta announces crackdown on &#8216;unoriginal&#8217; Facebook content</title>
-		<link>https://techcrunch.com/2025/07/14/following-youtube-meta-announces-crackdown-on-unoriginal-facebook-content/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 20:30:01 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Creators]]></category>
-		<category><![CDATA[Facebook]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[social media]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3027715</guid>
-
-					<description><![CDATA[Like YouTube, Meta says it won't penalize users who are engaging with other people's content, doing things like making reaction videos, joining a trend, or adding their own takes.]]></description>
 		
 		
 		
