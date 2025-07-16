@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 16 Jul 2025 13:31:09 +0200</pubDate>
-        <lastBuildDate>Wed, 16 Jul 2025 13:31:09 +0200</lastBuildDate>
+        <pubDate>Wed, 16 Jul 2025 14:41:01 +0200</pubDate>
+        <lastBuildDate>Wed, 16 Jul 2025 14:41:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,56 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>.Geek - Nintendo maakt bekend wie Zelda en Link spelen in Zelda-liveactionfilm</title>
+            <link>https://tweakers.net/geek/237210/nintendo-maakt-bekend-wie-zelda-en-link-spelen-in-zelda-liveactionfilm.html</link>
+            <description>Nintendo heeft op zijn X-pagina aangekondigd wie Zelda en Link spelen in de liveactionfilm van The Legend of Zelda. Bo Bragason zal de rol van Zelda vertolken, terwijl Benjamin Evan Ainsworth Link speelt. De film komt uit op 7 mei 2027.</description>
+            <author>Imre Himmelbauer</author>
+            <category>.Geek / Beeld en geluid / Blu-ray, DVD en CD</category>
+            <comments>https://tweakers.net/geek/237210/nintendo-maakt-bekend-wie-zelda-en-link-spelen-in-zelda-liveactionfilm.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/237210</guid>
+            <pubDate>Wed, 16 Jul 2025 14:22:28 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - Donkey Kong Bananza - Dingen kapotslaan was zelden zo leuk</title>
+            <link>https://tweakers.net/reviews/13496/donkey-kong-bananza-dingen-kapotslaan-was-zelden-zo-leuk.html</link>
+            <description>Donkey Kong Bananza scoort met creatief sloopwerk dat veel voldoening oplevert, terwijl de verschillende Bananza&#039;s de lol er extra lang in houden.</description>
+            <author>Jurian Ubachs</author>
+            <category>Review / Gaming / Games</category>
+            <comments>https://tweakers.net/reviews/13496/donkey-kong-bananza-dingen-kapotslaan-was-zelden-zo-leuk.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13496</guid>
+            <pubDate>Wed, 16 Jul 2025 14:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Videoreview - Sloopplezier op z’n best - Donkey Kong Bananza Review</title>
+            <link>https://tweakers.net/video/20002/sloopplezier-op-zn-best-donkey-kong-bananza-review.html</link>
+            <description>Donkey Kong Bananza scoort met creatief sloopwerk dat veel voldoening oplevert, terwijl de verschillende Bananza&#039;s de lol er extra lang in houden.</description>
+            <author>Luke van Drie</author>
+            <category>Videoreview / Gaming / Games</category>
+            <comments>https://tweakers.net/video/20002/sloopplezier-op-zn-best-donkey-kong-bananza-review.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/video/20002</guid>
+            <pubDate>Wed, 16 Jul 2025 14:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Citroën, Peugeot en Opel stoppen met ontwikkeling van waterstofvoertuigen</title>
+            <link>https://tweakers.net/nieuws/237208/citroen-peugeot-en-opel-stoppen-met-ontwikkeling-van-waterstofvoertuigen.html</link>
+            <description>Autofabrikant Stellantis stopt met de productie en ontwikkeling van waterstofvoertuigen. Het bedrijf zegt dat er onvoldoende infrastructuur en overheidssteun is. Stellantis maakte onder meer Citroën-, Opel- en Peugeot-waterstofbestelbussen.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Beeld en geluid / Cartech</category>
+            <comments>https://tweakers.net/nieuws/237208/citroen-peugeot-en-opel-stoppen-met-ontwikkeling-van-waterstofvoertuigen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237208</guid>
+            <pubDate>Wed, 16 Jul 2025 13:55:44 +0200</pubDate>
+        </item>
+        <item>
+            <title>Meta repareert bug die AI-prompts en -content van gebruikers kon lekken</title>
+            <link>https://tweakers.net/nieuws/237206/meta-repareert-bug-die-ai-prompts-en-content-van-gebruikers-kon-lekken.html</link>
+            <description>Meta heeft een bug gerepareerd die gebruikers van de AI-chatbot van het bedrijf toegang gaf tot prompts en de gegenereerde reacties van andere gebruikers. Het socialemediabedrijf heeft de bug op 24 januari hersteld. Er is geen bewijs gevonden dat het lek is misbruikt, zo schrijft TechCrunch.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Privacy</category>
+            <comments>https://tweakers.net/nieuws/237206/meta-repareert-bug-die-ai-prompts-en-content-van-gebruikers-kon-lekken.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237206</guid>
+            <pubDate>Wed, 16 Jul 2025 13:44:09 +0200</pubDate>
+        </item>
         <item>
             <title>Curl overweegt bugbountyprogramma aan te passen vanwege overdaad aan &#039;AI-slop&#039;</title>
             <link>https://tweakers.net/nieuws/237202/curl-overweegt-bugbountyprogramma-aan-te-passen-vanwege-overdaad-aan-ai-slop.html</link>
@@ -366,56 +416,6 @@
             <comments>https://tweakers.net/nieuws/237148/android-beta-bevat-now-bar-achtige-balk-met-gepersonaliseerde-informatie.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237148</guid>
             <pubDate>Mon, 14 Jul 2025 19:56:20 +0200</pubDate>
-        </item>
-        <item>
-            <title>Maker Tony Hawk’s Pro Skater 3 + 4 haalt &#039;belediging&#039; van Guitar Hero uit game</title>
-            <link>https://tweakers.net/nieuws/237146/maker-tony-hawks-pro-skater-3-+-4-haalt-belediging-van-guitar-hero-uit-game.html</link>
-            <description>Iron Galaxy Studios haalt een vermeende &#039;belediging&#039; van de Guitar Hero-franchise uit de recente remakes Tony Hawk’s Pro Skater 3 + 4. In het spel is iets dat op de verpakking van een Guitar Hero-game lijkt in een vuilnisbak te zien. Vermoedelijk gaat het om een grap van de ontwikkelaar.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/237146/maker-tony-hawks-pro-skater-3-+-4-haalt-belediging-van-guitar-hero-uit-game.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237146</guid>
-            <pubDate>Mon, 14 Jul 2025 19:21:49 +0200</pubDate>
-        </item>
-        <item>
-            <title>WSJ: SpaceX gaat twee miljard dollar in Grok-maker xAI investeren</title>
-            <link>https://tweakers.net/nieuws/237144/wsj-spacex-gaat-twee-miljard-dollar-in-grok-maker-xai-investeren.html</link>
-            <description>SpaceX wil naar verluidt twee miljard dollar investeren in het AI-bedrijf xAI. Elon Musk is de ceo van beide bedrijven. Het is voor zover bekend een van de grootste investeringen die SpaceX ooit in een ander bedrijf deed.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237144/wsj-spacex-gaat-twee-miljard-dollar-in-grok-maker-xai-investeren.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237144</guid>
-            <pubDate>Mon, 14 Jul 2025 17:45:07 +0200</pubDate>
-        </item>
-        <item>
-            <title>Firmware-update brickt ongeveer 700 Philips-televisies in Europa</title>
-            <link>https://tweakers.net/nieuws/237124/firmware-update-brickt-ongeveer-700-philips-televisies-in-europa.html</link>
-            <description>TP Vision heeft een update voor Philips-tv&#039;s uitgebracht die een aantal daarvan heeft gebrickt. Het gaat in Europa om ongeveer 700 toestellen in totaal. TP Vision, dat onder licentie tv&#039;s met het merk Philips produceert, zegt een oplossing beschikbaar te hebben.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / Beeld en geluid / Televisies</category>
-            <comments>https://tweakers.net/nieuws/237124/firmware-update-brickt-ongeveer-700-philips-televisies-in-europa.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237124</guid>
-            <pubDate>Mon, 14 Jul 2025 17:39:35 +0200</pubDate>
-        </item>
-        <item>
-            <title>365-apps als Word krijgen vanaf medio 2026 geen nieuwe functies op Windows 10</title>
-            <link>https://tweakers.net/nieuws/237140/365-apps-als-word-krijgen-vanaf-medio-2026-geen-nieuwe-functies-op-windows-10.html</link>
-            <description>Microsoft 365-apps als Word krijgen vanaf augustus 2026 geen nieuwe functies meer op Windows 10. De programma&#039;s krijgen nog wel beveiligingsupdates tot 10 oktober 2028. Abonnees krijgen van Microsoft het advies te upgraden naar Windows 11.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / Computers / Officesoftware en suites</category>
-            <comments>https://tweakers.net/nieuws/237140/365-apps-als-word-krijgen-vanaf-medio-2026-geen-nieuwe-functies-op-windows-10.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237140</guid>
-            <pubDate>Mon, 14 Jul 2025 16:55:14 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Amazon schendt Europese wetgeving met kortingspercentages op webshop&#039;</title>
-            <link>https://tweakers.net/nieuws/237128/amazon-schendt-europese-wetgeving-met-kortingspercentages-op-webshop.html</link>
-            <description>Amazon voldoet niet aan Europese wetgeving rondom webwinkels, vanwege de manier waarop het deals en kortingen aanprijst tijdens bijvoorbeeld Prime Days. Dat zeggen advocaten tegen Tweakers.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Economie en maatschappij</category>
-            <comments>https://tweakers.net/nieuws/237128/amazon-schendt-europese-wetgeving-met-kortingspercentages-op-webshop.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237128</guid>
-            <pubDate>Mon, 14 Jul 2025 16:37:53 +0200</pubDate>
         </item>
     </channel>
 </rss>
