@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 16 Jul 2025 13:20:37 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 16 Jul 2025 14:11:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Meet the cement transport ship that makes cement ingredients while sailing</title>
+		<link>https://techcrunch.com/2025/07/16/meet-the-cement-transport-ship-that-makes-cement-ingredients-while-sailing/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2025 14:11:50 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[carbon capture]]></category>
+		<category><![CDATA[cement]]></category>
+		<category><![CDATA[maritime industry]]></category>
+		<category><![CDATA[Shipping]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3028343</guid>
+
+					<description><![CDATA[London-based Seabound has developed a carbon capture system that transforms CO2 from a ship's engine into limestone, which Heidelberg Materials will use to make cement.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>UK retail giant Co-op confirms hackers stole all 6.5 million customer records</title>
 		<link>https://techcrunch.com/2025/07/16/uk-retail-giant-co-op-confirms-hackers-stole-all-6-5-million-customer-records/</link>
 		
@@ -369,25 +388,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3028005</guid>
 
 					<description><![CDATA[French startup Mistral has jumped into the audio race with Voxtral, its first open model, aiming to challenge the dominance of walled-off corporate systems with open-weight alternatives. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>A comprehensive list of 2025 tech layoffs</title>
-		<link>https://techcrunch.com/2025/07/15/tech-layoffs-2025-list/</link>
-		
-		<dc:creator><![CDATA[Cody Corrall, Alyssa Stringer, Kate Park]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 15:10:08 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[Layoffs]]></category>
-		<category><![CDATA[tech layoffs]]></category>
-		<category><![CDATA[TechCrunch 2023 Recap]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2607662</guid>
-
-					<description><![CDATA[A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.]]></description>
 		
 		
 		
