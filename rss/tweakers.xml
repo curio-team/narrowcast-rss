@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 16 Jul 2025 09:31:00 +0200</pubDate>
-        <lastBuildDate>Wed, 16 Jul 2025 09:31:00 +0200</lastBuildDate>
+        <pubDate>Wed, 16 Jul 2025 10:36:02 +0200</pubDate>
+        <lastBuildDate>Wed, 16 Jul 2025 10:36:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>ASML weet door handelsembargo&#039;s en heffingen niet of het in 2026 nog kan groeien</title>
+            <link>https://tweakers.net/nieuws/237194/asml-weet-door-handelsembargos-en-heffingen-niet-of-het-in-2026-nog-kan-groeien.html</link>
+            <description>ASML weet niet of het volgend jaar nog meer kan groeien. Het bedrijf ziet risico&#039;s door onder andere importheffingen en handelsembargo&#039;s door de Verenigde Staten en andere landen. Zowel de omzet als de winst stegen het afgelopen kwartaal wel.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Economie en maatschappij</category>
+            <comments>https://tweakers.net/nieuws/237194/asml-weet-door-handelsembargos-en-heffingen-niet-of-het-in-2026-nog-kan-groeien.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237194</guid>
+            <pubDate>Wed, 16 Jul 2025 10:05:06 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - VirtualBox 7.1.12</title>
             <link>https://tweakers.net/downloads/73314/virtualbox-7112.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/237122/dtc-opent-op-18-juli-subsidie-voor-cyberweerbaarheid-van-kleine-bedrijven.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237122</guid>
             <pubDate>Mon, 14 Jul 2025 10:39:03 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - LibreCAD 2.2.1.2</title>
-            <link>https://tweakers.net/downloads/73300/librecad-2212.html</link>
-            <description>Versie 2.2.1.2 van LibreCAD is uitgekomen. Zoals de naam doet vermoeden, is dit een opensource CAD-programma. Het is ooit begonnen als CADuntu met de bedoeling om CAM-functionaliteit toe te voegen aan de community edition van QCad. Kort na het ontstaan is de naam naar LibreCAD veranderd. Meer informatie over het programma is in de wiki beschikbaar. In versie 2.2.1.2 zijn verschillende problemen verhelpen die het programma konden laten vastlopen. LibreCAD 2.2.1.2 Release!</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73300/librecad-2212.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73300</guid>
-            <pubDate>Mon, 14 Jul 2025 10:27:29 +0200</pubDate>
         </item>
     </channel>
 </rss>
