@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 17 Jul 2025 13:37:42 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 17 Jul 2025 14:35:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Spotify expands audiobook access to family plan members for the first time</title>
+		<link>https://techcrunch.com/2025/07/17/spotify-expands-audiobook-access-to-family-plan-members-for-the-first-time/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Thu, 17 Jul 2025 14:35:07 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[audiobooks]]></category>
+		<category><![CDATA[Spotify]]></category>
+		<category><![CDATA[streaming]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3028715</guid>
+
+					<description><![CDATA[Spotify is expanding access to audiobooks with two new plans, one of which offers access to family members. ]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>UAE&#8217;s deal to buy Nvidia AI chips reportedly on hold</title>
 		<link>https://techcrunch.com/2025/07/17/uaes-deal-to-buy-nvidia-ai-chips-reportedly-on-hold/</link>
 		
@@ -379,24 +397,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3028356</guid>
 
 					<description><![CDATA[Former Waymo engineers have launched an autonomous vehicle startup with $80 million in venture funds.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ChatGPT: Everything you need to know about the AI-powered chatbot</title>
-		<link>https://techcrunch.com/2025/07/16/chatgpt-everything-to-know-about-the-ai-chatbot/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers, Cody Corrall, Alyssa Stringer, Kate Park]]></dc:creator>
-		<pubDate>Wed, 16 Jul 2025 15:22:21 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2607630</guid>
-
-					<description><![CDATA[A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.]]></description>
 		
 		
 		
