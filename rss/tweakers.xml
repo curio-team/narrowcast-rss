@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 17 Jul 2025 10:36:00 +0200</pubDate>
-        <lastBuildDate>Thu, 17 Jul 2025 10:36:00 +0200</lastBuildDate>
+        <pubDate>Thu, 17 Jul 2025 11:36:05 +0200</pubDate>
+        <lastBuildDate>Thu, 17 Jul 2025 11:36:05 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - WinSCP 6.5.3</title>
+            <link>https://tweakers.net/downloads/73330/winscp-653.html</link>
+            <description>Versie 6.5.3 van WinSCP is verschenen. Met dit opensourceprogramma kunnen op een veilige manier bestanden tussen twee computers worden gekopieerd. Het programma ondersteunt ftp, secure ftp en het oudere scp-protocol. WinSCP is niet alleen als een opzichzelfstaand programma beschikbaar, maar ook als plug-in voor de programma&#039;s FAR Manager en Altap Salamander. Hieronder is de changelog voor deze uitgave te vinden. Changes in version 6.5.3:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73330/winscp-653.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73330</guid>
+            <pubDate>Thu, 17 Jul 2025 11:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>OpenAI maakt opnamemodus ChatGPT beschikbaar voor Plus-abonnees op macOS</title>
+            <link>https://tweakers.net/nieuws/237242/openai-maakt-opnamemodus-chatgpt-beschikbaar-voor-plus-abonnees-op-macos.html</link>
+            <description>OpenAI heeft de opnamemodus toegevoegd aan de ChatGPT-desktopapp op macOS. Met de functie kunnen gebruikers live gesprekken opnemen, waarna ChatGPT de opname kan transcriberen en samenvatten. De functie is beschikbaar voor Plus-gebruikers in de macOS-app.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Software development</category>
+            <comments>https://tweakers.net/nieuws/237242/openai-maakt-opnamemodus-chatgpt-beschikbaar-voor-plus-abonnees-op-macos.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237242</guid>
+            <pubDate>Thu, 17 Jul 2025 10:49:35 +0200</pubDate>
+        </item>
+        <item>
+            <title>Microsoft verkoopt straks securityupdates voor oude Exchange- en Skype-servers</title>
+            <link>https://tweakers.net/nieuws/237240/microsoft-verkoopt-straks-securityupdates-voor-oude-exchange-en-skype-servers.html</link>
+            <description>Microsoft schuift de supportdeadline op voor oude Exchange- en Skype-servers. Het bedrijf biedt betaalde extra support na 14 oktober dit jaar. Dit geldt voor klanten die nog werken met versies 2016 of 2019 van Exchange of versies 2015 en 2019 van Skype for Business.</description>
+            <author>Jasper Bakker</author>
+            <category>Nieuws / Computers / Servers</category>
+            <comments>https://tweakers.net/nieuws/237240/microsoft-verkoopt-straks-securityupdates-voor-oude-exchange-en-skype-servers.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237240</guid>
+            <pubDate>Thu, 17 Jul 2025 10:40:04 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Unbound 1.23.1</title>
             <link>https://tweakers.net/downloads/73328/unbound-1231.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/reviews/13422/meer-laptop-voor-je-geld-dan-ooit-vier-budgetmodellen-tot-550-euro.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13422</guid>
             <pubDate>Wed, 16 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Sony introduceert compacte RX1R III-camera met 61-megapixelsensor voor 4899 euro</title>
-            <link>https://tweakers.net/nieuws/237188/sony-introduceert-compacte-rx1r-iii-camera-met-61-megapixelsensor-voor-4899-euro.html</link>
-            <description>Sony komt met een nieuwe compacte camera in zijn RX1R-serie. De RX1R III beschikt over een fullframesensor van 61 megapixel en krijgt betere autofocus dan zijn voorganger. Het apparaat wordt eind deze maand verwacht en kost 4899 euro.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Beeld en geluid / Compactcamera&#039;s</category>
-            <comments>https://tweakers.net/nieuws/237188/sony-introduceert-compacte-rx1r-iii-camera-met-61-megapixelsensor-voor-4899-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237188</guid>
-            <pubDate>Tue, 15 Jul 2025 21:16:58 +0200</pubDate>
-        </item>
-        <item>
-            <title>Ugreen kondigt Qi 2.2-powerbank aan, belooft draadloos laden op 25W</title>
-            <link>https://tweakers.net/nieuws/237182/ugreen-kondigt-qi-22-powerbank-aan-belooft-draadloos-laden-op-25w.html</link>
-            <description>Ugreen heeft een nieuwe MagFlow-powerbank aangekondigd. Het is volgens het bedrijf de eerste powerbank die is gecertificeerd voor de aanstaande Qi 2.2-standaard. Daarmee kan de powerbank draadloos opladen met vermogens tot 25W, waar dat voorheen maximaal 15W was.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Tablets en telefoons / Powerbanks</category>
-            <comments>https://tweakers.net/nieuws/237182/ugreen-kondigt-qi-22-powerbank-aan-belooft-draadloos-laden-op-25w.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237182</guid>
-            <pubDate>Tue, 15 Jul 2025 20:30:08 +0200</pubDate>
-        </item>
-        <item>
-            <title>Cyberpunk 2077 komt deze week uit voor Mac-systemen met Apple-chips</title>
-            <link>https://tweakers.net/nieuws/237180/cyberpunk-2077-komt-deze-week-uit-voor-mac-systemen-met-apple-chips.html</link>
-            <description>Cyberpunk 2077 komt deze week uit voor macOS. De Ultimate Edition van deze game verschijnt op donderdag 17 juli voor het platform, via Steam, de Epic Games Store, GOG en Apples eigen App Store. De port stond eigenlijk op de planning voor begin dit jaar, maar werd uitgesteld.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / Pc&#039;s</category>
-            <comments>https://tweakers.net/nieuws/237180/cyberpunk-2077-komt-deze-week-uit-voor-mac-systemen-met-apple-chips.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237180</guid>
-            <pubDate>Tue, 15 Jul 2025 19:08:35 +0200</pubDate>
         </item>
     </channel>
 </rss>
