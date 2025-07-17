@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 17 Jul 2025 10:24:55 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 17 Jul 2025 11:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,21 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Roblox introduces new safeguards for teens, including age estimation tech</title>
+		<link>https://techcrunch.com/2025/07/17/roblox-introduces-new-safeguards-for-teens-including-age-estimation-tech/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Thu, 17 Jul 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Roblox]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3028487</guid>
+
+					<description><![CDATA[The move comes as Roblox has come under fire in recent years over child safety concerns.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>TikTok is adding features for songwriters to its app</title>
 		<link>https://techcrunch.com/2025/07/17/tiktok-is-adding-features-for-songwriters-to-its-app/</link>
 		
@@ -144,12 +159,12 @@
 		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
 		<pubDate>Wed, 16 Jul 2025 18:11:20 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[ai safety]]></category>
-		<category><![CDATA[Anthropic]]></category>
 		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[Grok]]></category>
-		<category><![CDATA[OpenAI]]></category>
 		<category><![CDATA[xAI]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[ai safety]]></category>
+		<category><![CDATA[Grok]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3028094</guid>
 
 					<description><![CDATA[The criticisms follow weeks of scandals at xAI that have overshadowed the company's technological advances.]]></description>
@@ -376,30 +391,11 @@
 		<category><![CDATA[Startups]]></category>
 		<category><![CDATA[Venture]]></category>
 		<category><![CDATA[a16z]]></category>
-		<category><![CDATA[Cambrian Ventures]]></category>
 		<category><![CDATA[solo GP]]></category>
+		<category><![CDATA[Cambrian Ventures]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3028344</guid>
 
 					<description><![CDATA[Spurred by the performance of its first fund, Cambrian Ventures' $20 million second fund will continue the firm's thesis of focusing on fintech startups.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meet the cement transport ship that makes cement ingredients while sailing</title>
-		<link>https://techcrunch.com/2025/07/16/meet-the-cement-transport-ship-that-makes-cement-ingredients-while-sailing/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Wed, 16 Jul 2025 14:11:50 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Climate]]></category>
-		<category><![CDATA[carbon capture]]></category>
-		<category><![CDATA[cement]]></category>
-		<category><![CDATA[maritime industry]]></category>
-		<category><![CDATA[Shipping]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3028343</guid>
-
-					<description><![CDATA[London-based Seabound has developed a carbon capture system that transforms CO2 from a ship's engine into limestone, which Heidelberg Materials will use to make cement.]]></description>
 		
 		
 		
