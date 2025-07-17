@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 17 Jul 2025 11:36:05 +0200</pubDate>
-        <lastBuildDate>Thu, 17 Jul 2025 11:36:05 +0200</lastBuildDate>
+        <pubDate>Thu, 17 Jul 2025 12:36:00 +0200</pubDate>
+        <lastBuildDate>Thu, 17 Jul 2025 12:36:00 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>AMD brengt Ryzen AI 5-apu voor laptops uit met zelfde npu als Ryzen AI 9 HX 370</title>
+            <link>https://tweakers.net/nieuws/237244/amd-brengt-ryzen-ai-5-apu-voor-laptops-uit-met-zelfde-npu-als-ryzen-ai-9-hx-370.html</link>
+            <description>AMD heeft de Ryzen AI 5 330-apu uitgebracht. De low-end processor voor laptops heeft één Zen 5-core met een maximale kloksnelheid van 4,5GHz en drie Zen 5c-kernen die op maximaal 3,4GHz draaien. De npu heeft een rekenkracht van 50Tops, evenveel als de Ryzen AI 9 HX 370.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/237244/amd-brengt-ryzen-ai-5-apu-voor-laptops-uit-met-zelfde-npu-als-ryzen-ai-9-hx-370.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237244</guid>
+            <pubDate>Thu, 17 Jul 2025 12:03:55 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - WinSCP 6.5.3</title>
             <link>https://tweakers.net/downloads/73330/winscp-653.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/237190/ap-waarschuwt-voor-opkomst-van-ai-systemen-die-emotie-kunnen-herkennen.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237190</guid>
             <pubDate>Wed, 16 Jul 2025 08:47:12 +0200</pubDate>
-        </item>
-        <item>
-            <title>Round-up - Meer laptop voor je geld dan ooit - Vier budgetmodellen tot 550 euro</title>
-            <link>https://tweakers.net/reviews/13422/meer-laptop-voor-je-geld-dan-ooit-vier-budgetmodellen-tot-550-euro.html</link>
-            <description>In deze round-up kijken we naar vier laptops die maximaal 550 euro kosten: de Acer Aspire Go 15, MSI Modern 15, ASUS Vivobook M1502YA en Lenovo IdeaPad Slim 3.</description>
-            <author>Jelle Stuip</author>
-            <category>Round-up / Computers / Laptops</category>
-            <comments>https://tweakers.net/reviews/13422/meer-laptop-voor-je-geld-dan-ooit-vier-budgetmodellen-tot-550-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13422</guid>
-            <pubDate>Wed, 16 Jul 2025 06:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
