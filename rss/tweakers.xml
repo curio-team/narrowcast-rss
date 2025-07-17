@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 16 Jul 2025 16:36:01 +0200</pubDate>
-        <lastBuildDate>Wed, 16 Jul 2025 16:36:01 +0200</lastBuildDate>
+        <pubDate>Thu, 17 Jul 2025 09:31:01 +0200</pubDate>
+        <lastBuildDate>Thu, 17 Jul 2025 09:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,186 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Unbound 1.23.1</title>
+            <link>https://tweakers.net/downloads/73328/unbound-1231.html</link>
+            <description>Als je een DNS-lookup uitvoert, begint een recursor in eerste instantie met het stellen van de lookupvraag aan een DNS-rootserver. Deze kan dan doorverwijzen naar andere servers, vanaf waar weer doorverwezen kan worden naar andere servers enzovoort, totdat uiteindelijk een server is bereikt die het antwoord weet, of weet dat de lookup niet mogelijk is. Van dit laatste kan sprake zijn als de naam niet bestaat of de servers niet reageren. Het proces van het langslopen van verschillende authoritative servers heet recursie. Unbound is een DNS-recursor met ondersteuning voor moderne standaarden, zoals Query Name Minimisation, Aggressive Use of Dnssec-Validated Cache en authority zones. Versie 1.23.1 is uitgebracht en hierin is het volgende beveiligingsprobleem verholpen: Bug Fixes</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73328/unbound-1231.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73328</guid>
+            <pubDate>Thu, 17 Jul 2025 09:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Mercedes gaat Copilot en Teams in eigen besturingssysteem integreren</title>
+            <link>https://tweakers.net/nieuws/237238/mercedes-gaat-copilot-en-teams-in-eigen-besturingssysteem-integreren.html</link>
+            <description>Mercedes-Benz werkt aan de integratie van Microsofts AI-assistent Copilot in zijn eigen besturingssysteem MB.OS. Het bedrijf zegt ook de integratie van de apparaatbeheersoftware Intune te hebben afgerond en een speciale versie van de Teams-app uit te brengen.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Software development</category>
+            <comments>https://tweakers.net/nieuws/237238/mercedes-gaat-copilot-en-teams-in-eigen-besturingssysteem-integreren.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237238</guid>
+            <pubDate>Thu, 17 Jul 2025 08:58:54 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - FileZilla Server 1.10.4</title>
+            <link>https://tweakers.net/downloads/73326/filezilla-server-1104.html</link>
+            <description>Versie 1.10.4 van de opensource FTP-server FileZilla Server is uitgekomen. FileZilla Server is een kleine en krachtige FTP-server met onder andere ondersteuning voor FXP (het versturen van bestanden van de ene naar de andere FTP-server), beveiligde verbindingen (SSL en TLS), GSS-authenticatie en Kerberos-encryptie. Het programma was lange tijd alleen beschikbaar voor Windows, maar sinds versie 1.2.0 ook voor Linux en macOS. Sinds versie 1.10.2 zijn de volgende veranderingen en verbeteringen aangebracht:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73326/filezilla-server-1104.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73326</guid>
+            <pubDate>Thu, 17 Jul 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - Nothing Phone 3 - Breken met succesrecepten</title>
+            <link>https://tweakers.net/reviews/13488/nothing-phone-3-breken-met-succesrecepten.html</link>
+            <description>Nothing heeft naar eigen zeggen een debuut met de Phone 3, die het eerste echte vlaggenschip van het Britse bedrijf moet zijn. Daarmee breken ze met een paar tradities.</description>
+            <author>Dennis de Vries</author>
+            <category>Review / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/reviews/13488/nothing-phone-3-breken-met-succesrecepten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13488</guid>
+            <pubDate>Thu, 17 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Videoreview - Nothings eerste misser - Nothing Phone 3</title>
+            <link>https://tweakers.net/video/20012/nothings-eerste-misser-nothing-phone-3.html</link>
+            <description>Het is een interessant jaar voor Nothing, de Britse telefoonfabrikant. Niet alleen brengen ze hun eerste Headphone 1-koptelefoon uit, ook is het – naar eigen zeggen – eerste echte vlaggenschip verschenen. De nieuwe Nothing Phone 3 is de hoogst gepositioneerde smartphone die het hippe bedrijf tot dusver heeft uitgebracht.</description>
+            <author>Mark van der Kruit</author>
+            <category>Videoreview / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/video/20012/nothings-eerste-misser-nothing-phone-3.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/video/20012</guid>
+            <pubDate>Thu, 17 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Video - Tweakers Podcast #382 - IKEA-spullen, burgerinitiatieven en custom roms</title>
+            <link>https://tweakers.net/video/20014/tweakers-podcast-382-ikea-spullen-burgerinitiatieven-en-custom-roms.html</link>
+            <description>Deze week praten Wout Funnekotter, Arnoud Wokke, Tijs Hofmans en Yannick Spinner over het EU-burgerinitiatief Stop Killing Games, het publiceren van een gevibecode app in de Play Store, het samenvoegen van Android en ChromeOS, IKEA&#039;s overstap op Matter en custom roms.</description>
+            <author>Mark van der Kruit</author>
+            <category>Video / Beeld en geluid / Audio</category>
+            <comments>https://tweakers.net/video/20014/tweakers-podcast-382-ikea-spullen-burgerinitiatieven-en-custom-roms.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/video/20014</guid>
+            <pubDate>Thu, 17 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Tweakers Podcast #382 - IKEA-spullen, burgerinitiatieven en custom roms</title>
+            <link>https://tweakers.net/geek/237212/tweakers-podcast-382-ikea-spullen-burgerinitiatieven-en-custom-roms.html</link>
+            <description>Deze week praten Wout Funnekotter, Arnoud Wokke, Tijs Hofmans en Yannick Spinner over het EU-burgerinitiatief Stop Killing Games, het publiceren van een gevibecode app in de Play Store, het samenvoegen van Android en ChromeOS, IKEA&#039;s overstap op Matter en custom roms.</description>
+            <author>Arnoud Wokke</author>
+            <category>.Geek / Beeld en geluid / Audio</category>
+            <comments>https://tweakers.net/geek/237212/tweakers-podcast-382-ikea-spullen-burgerinitiatieven-en-custom-roms.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/237212</guid>
+            <pubDate>Thu, 17 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google kondigt evenement aan op 20 augustus voor Pixel 10-presentatie</title>
+            <link>https://tweakers.net/nieuws/237232/google-kondigt-evenement-aan-op-20-augustus-voor-pixel-10-presentatie.html</link>
+            <description>Google heeft een evenement aangekondigd voor 20 augustus om zijn nieuwste portfolio van Pixel-producten te presenteren.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/237232/google-kondigt-evenement-aan-op-20-augustus-voor-pixel-10-presentatie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237232</guid>
+            <pubDate>Wed, 16 Jul 2025 21:20:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - ScreenToGif 2.41.4</title>
+            <link>https://tweakers.net/downloads/73324/screentogif-2414.html</link>
+            <description>Versie 2.41.4 van ScreenToGif is uitgekomen. Met deze opensourceapplicatie kunnen de handelingen op het scherm of de beelden van de webcam worden opgenomen. Het resultaat kan eventueel worden bewerkt met de ingebakken editor en vervolgens worden opgeslagen als gif, apng, video, afbeeldingen, ScreenToGif-projectbestanden of psd. Daarrmee kan het programma bijvoorbeeld goed worden gebruikt voor het maken van korte instructievideo&#039;s. De changelog voor deze uitgave kan hieronder worden gevonden. What&#039;s new?</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73324/screentogif-2414.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73324</guid>
+            <pubDate>Wed, 16 Jul 2025 20:57:25 +0200</pubDate>
+        </item>
+        <item>
+            <title>IDC: Huawei is na vier jaar weer leider op smartphonemarkt in China</title>
+            <link>https://tweakers.net/nieuws/237236/idc-huawei-is-na-vier-jaar-weer-leider-op-smartphonemarkt-in-china.html</link>
+            <description>Huawei is na meer dan vier jaar weer marktleider op gebied van smartphones in China, zo zegt analistenbureau IDC. Het ging concurrent vivo voorbij. Huawei speelt al jaren geen rol van betekenis meer in Europa.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/237236/idc-huawei-is-na-vier-jaar-weer-leider-op-smartphonemarkt-in-china.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237236</guid>
+            <pubDate>Wed, 16 Jul 2025 20:44:06 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google maakt Nest Aware-abonnement in Nederland tot 67 procent duurder</title>
+            <link>https://tweakers.net/nieuws/237234/google-maakt-nest-aware-abonnement-in-nederland-tot-67-procent-duurder.html</link>
+            <description>Google heeft het Nest Aware-abonnement voor zijn camera&#039;s duurder gemaakt. De prijs gaat van 6 euro per maand naar 10 euro per maand, een stijging van 67 procent, zo merken diverse tweakers op.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Beeld en geluid / Bewakingscamera&#039;s</category>
+            <comments>https://tweakers.net/nieuws/237234/google-maakt-nest-aware-abonnement-in-nederland-tot-67-procent-duurder.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237234</guid>
+            <pubDate>Wed, 16 Jul 2025 20:16:53 +0200</pubDate>
+        </item>
+        <item>
+            <title>Tesla kondigt Model Y L aan in China met drie rijen stoelen</title>
+            <link>https://tweakers.net/nieuws/237230/tesla-kondigt-model-y-l-aan-in-china-met-drie-rijen-stoelen.html</link>
+            <description>Tesla heeft de Model Y L aangekondigd in China, een langere variant van de bestaande model Y met drie rijen aan stoelen. De auto is langer en heeft ook een langere wielbasis. Er komt ook een Model 3+ met een ander soort accu dan het reguliere model.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Beeld en geluid / Gadgets</category>
+            <comments>https://tweakers.net/nieuws/237230/tesla-kondigt-model-y-l-aan-in-china-met-drie-rijen-stoelen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237230</guid>
+            <pubDate>Wed, 16 Jul 2025 19:40:46 +0200</pubDate>
+        </item>
+        <item>
+            <title>Sony roept getroffen Xperia 1 VII-smartphones in Europa terug om startproblemen</title>
+            <link>https://tweakers.net/nieuws/237228/sony-roept-getroffen-xperia-1-vii-smartphones-in-europa-terug-om-startproblemen.html</link>
+            <description>Sony roept getroffen exemplaren van de Xperia 1 VII-smartphone terug vanwege startproblemen, ook in Nederland en België. Klanten met de smartphone kunnen via een tool controleren of hun exemplaar het probleem heeft. Als dat zo is, kunnen ze hun telefoon vervangen.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/237228/sony-roept-getroffen-xperia-1-vii-smartphones-in-europa-terug-om-startproblemen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237228</guid>
+            <pubDate>Wed, 16 Jul 2025 19:05:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Minisforum roept bepaalde NAB9-mini-pc&#039;s terug om opstartproblemen</title>
+            <link>https://tweakers.net/nieuws/237220/minisforum-roept-bepaalde-nab9-mini-pcs-terug-om-opstartproblemen.html</link>
+            <description>Minisforum roept bepaalde exemplaren van de NAB9-mini-pc terug, zo maakt het bedrijf bekend. Minisforum zegt dat de apparaten opstartproblemen kunnen vertonen. Het gaat om enkele exemplaren die zijn geproduceerd tussen 19 september 2024 en 14 maart 2025.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / Computers / Pc&#039;s</category>
+            <comments>https://tweakers.net/nieuws/237220/minisforum-roept-bepaalde-nab9-mini-pcs-terug-om-opstartproblemen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237220</guid>
+            <pubDate>Wed, 16 Jul 2025 18:08:28 +0200</pubDate>
+        </item>
+        <item>
+            <title>AC-laadpalen in Noord-Holland, Flevoland en Utrecht geven korting bij slim laden</title>
+            <link>https://tweakers.net/nieuws/237200/ac-laadpalen-in-noord-holland-flevoland-en-utrecht-geven-korting-bij-slim-laden.html</link>
+            <description>Elektrische rijders krijgen in Noord-Holland, Flevoland en Utrecht korting als ze slim laden bij publieke AC-laadpalen. Het initiatief werkt met laadpalen van TotalEnergies, Shell ubitricity en Vattenfall. Rijders krijgen 1 of 2 cent korting per kWh, of 10 procent korting.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Beeld en geluid / Cartech</category>
+            <comments>https://tweakers.net/nieuws/237200/ac-laadpalen-in-noord-holland-flevoland-en-utrecht-geven-korting-bij-slim-laden.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237200</guid>
+            <pubDate>Wed, 16 Jul 2025 18:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Juristen zijn sceptisch over hoe WeTransfer zijn voorwaarden wijzigde</title>
+            <link>https://tweakers.net/nieuws/237216/juristen-zijn-sceptisch-over-hoe-wetransfer-zijn-voorwaarden-wijzigde.html</link>
+            <description>Juristen reageren sceptisch op de stilletjes gewijzigde voorwaarden van WeTransfer en de uitleg die het bedrijf na ophef daarover geeft. De huidige voorwaarden zijn volgens hen vaag en daarmee mogelijk juist breder dan wat WeTransfer eerst wilde doorvoeren.</description>
+            <author>Jasper Bakker</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237216/juristen-zijn-sceptisch-over-hoe-wetransfer-zijn-voorwaarden-wijzigde.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237216</guid>
+            <pubDate>Wed, 16 Jul 2025 17:56:17 +0200</pubDate>
+        </item>
+        <item>
+            <title>Bewoners Zandvoort melden wegafsluiting Google Maps vanwege overlast bezoekers</title>
+            <link>https://tweakers.net/nieuws/237224/bewoners-zandvoort-melden-wegafsluiting-google-maps-vanwege-overlast-bezoekers.html</link>
+            <description>Bewoners van de Parkbuurt in de Nederlandse badplaats Zandvoort melden niet-bestaande wegafsluitingen aan Google Maps. Op die manier komen bezoekers niet langer door de wijk heen. Zo hopen ze de overlast van bezoekende auto&#039;s te verminderen.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Internet</category>
+            <comments>https://tweakers.net/nieuws/237224/bewoners-zandvoort-melden-wegafsluiting-google-maps-vanwege-overlast-bezoekers.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237224</guid>
+            <pubDate>Wed, 16 Jul 2025 17:27:34 +0200</pubDate>
+        </item>
+        <item>
+            <title>Analogue 3D-console die Nintendo 64-games in 4k speelt komt eind augustus uit</title>
+            <link>https://tweakers.net/nieuws/237222/analogue-3d-console-die-nintendo-64-games-in-4k-speelt-komt-eind-augustus-uit.html</link>
+            <description>Analogue brengt de Analogue 3D-console eind augustus uit. Dat is wederom later dan gepland. Het bedrijf zegt dat dat komt door Amerikaanse importheffingen, maar dat het de kosten van de console niet verhoogt.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Gaming / Consoles</category>
+            <comments>https://tweakers.net/nieuws/237222/analogue-3d-console-die-nintendo-64-games-in-4k-speelt-komt-eind-augustus-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237222</guid>
+            <pubDate>Wed, 16 Jul 2025 16:36:58 +0200</pubDate>
+        </item>
         <item>
             <title>Europol haalt infrastructuur hackersgroep NoName offline en arresteert 2 mensen</title>
             <link>https://tweakers.net/nieuws/237214/europol-haalt-infrastructuur-hackersgroep-noname-offline-en-arresteert-2-mensen.html</link>
@@ -118,12 +298,12 @@
             <pubDate>Wed, 16 Jul 2025 12:50:40 +0200</pubDate>
         </item>
         <item>
-            <title>Na tien jaar ontwikkelen is ASML&#039;s high-NA-euv-machine klaar voor de praktijk</title>
-            <link>https://tweakers.net/nieuws/237196/na-tien-jaar-ontwikkelen-is-asmls-high-na-euv-machine-klaar-voor-de-praktijk.html</link>
-            <description>ASML heeft zijn eerste EXE:5200B-chipproductiemachine geleverd aan een klant. Dat is de allereerste euv-machine met een hogere &#039;numerieke apertuur&#039; die geschikt is voor massaproductie. De machines moeten het mogelijk maken om nóg kleinere transistors te printen.</description>
+            <title>Na tien jaar ontwikkelen zijn ASML&#039;s high-NA-euv-machines klaar voor de praktijk</title>
+            <link>https://tweakers.net/nieuws/237196/na-tien-jaar-ontwikkelen-zijn-asmls-high-na-euv-machines-klaar-voor-de-praktijk.html</link>
+            <description>ASML heeft zijn allereerste EXE:5200B-chipproductiemachine geleverd aan een klant. Dat is de eerste euv-machine met een hogere &#039;numerieke apertuur&#039; die geschikt is voor massaproductie. De machines moeten het mogelijk maken om nóg kleinere transistors te printen.</description>
             <author>Daan van Monsjou</author>
             <category>Nieuws / IT Pro / Wetenschap</category>
-            <comments>https://tweakers.net/nieuws/237196/na-tien-jaar-ontwikkelen-is-asmls-high-na-euv-machine-klaar-voor-de-praktijk.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/237196/na-tien-jaar-ontwikkelen-zijn-asmls-high-na-euv-machines-klaar-voor-de-praktijk.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237196</guid>
             <pubDate>Wed, 16 Jul 2025 11:40:00 +0200</pubDate>
         </item>
@@ -236,186 +416,6 @@
             <comments>https://tweakers.net/nieuws/237180/cyberpunk-2077-komt-deze-week-uit-voor-mac-systemen-met-apple-chips.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237180</guid>
             <pubDate>Tue, 15 Jul 2025 19:08:35 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - dBpoweramp Music Converter 2025.07.14</title>
-            <link>https://tweakers.net/downloads/73312/dbpoweramp-music-converter-20250714.html</link>
-            <description>Illustrate heeft een nieuwe versie van dBpoweramp Music Converter uitgebracht. Met dit audiobewerkingsprogramma kunnen audio-cd&#039;s worden geript en kunnen muziekbestanden van en naar onder andere mp3, m4a, wma, Ogg Vorbis, aac, Monkey&#039;s Audio, flac en alac worden geconverteerd, met behoud van tags. Verder kunnen de mp3-tags worden aangepast en kan het programma volledig in Windows Explorer worden geïntegreerd, waardoor het gemakkelijk aan te roepen is. De basisversie voor het rippen van cd&#039;s en het converteren van bestanden is gratis. Voor extra functionaliteit moet worden betaald. Het programma is beschikbaar voor Windows en macOS. In deze uitgave is het installatiebestand kleiner gemaakt en is er een probleem verholpen.: Release 2025-07-14</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73312/dbpoweramp-music-converter-20250714.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73312</guid>
-            <pubDate>Tue, 15 Jul 2025 19:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Nvidia stelt N1- en N1X-cpu&#039;s voor laptops en desktops uit tot eind 2026&#039;</title>
-            <link>https://tweakers.net/nieuws/237178/nvidia-stelt-n1-en-n1x-cpus-voor-laptops-en-desktops-uit-tot-eind-2026.html</link>
-            <description>Nvidia heeft zijn N1- en N1X-cpu&#039;s mogelijk uitgesteld tot eind volgend jaar, zeggen bronnen tegen SemiAccurate. Met die Arm-chips zou Nvidia de cpu-markt voor laptops en desktops willen betreden. De ontwikkeling ervan zou echter opnieuw vertraging hebben opgelopen.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / Processors</category>
-            <comments>https://tweakers.net/nieuws/237178/nvidia-stelt-n1-en-n1x-cpus-voor-laptops-en-desktops-uit-tot-eind-2026.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237178</guid>
-            <pubDate>Tue, 15 Jul 2025 18:28:53 +0200</pubDate>
-        </item>
-        <item>
-            <title>Ook AMD gaat Instinct MI308-AI-chip weer exporteren naar China</title>
-            <link>https://tweakers.net/nieuws/237176/ook-amd-gaat-instinct-mi308-ai-chip-weer-exporteren-naar-china.html</link>
-            <description>Ook AMD is van plan om binnenkort weer bepaalde AI-chips te leveren aan China. Het gaat om de Instinct MI308, die het bedrijf specifiek voor de Chinese markt heeft ontwikkeld. De regering-Trump verbood de export ervan in april, maar geeft nu weer exportvergunningen uit.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237176/ook-amd-gaat-instinct-mi308-ai-chip-weer-exporteren-naar-china.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237176</guid>
-            <pubDate>Tue, 15 Jul 2025 17:51:50 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Blender 4.5.0</title>
-            <link>https://tweakers.net/downloads/73310/blender-450.html</link>
-            <description>Versie 4.5 van het crossplatform- en opensourceprogramma Blender is uitgekomen, een versie met extra lange ondersteuning. Deze applicatie is bedoeld voor 3d-modelling, animatie, rendering, postproduction, interactive creation en playback. Meer informatie over de uitgebreide mogelijkheden van Blender kan op deze pagina worden gevonden. Met dit programma zijn onder meer de korte opensource animatiefilms Elephants Dream, Big Buck Bunny, Sintel, Tears of Steel, Cosmos Laundromat en Sprite Fright gemaakt. Ook Flow, wat dit jaar onder meer een Oscar en Golden Globe voor beste animatiefilm in de wacht sleepte, is met Blender gemaakt. Uitgebreide informatie over de veranderingen en versie 4.5 zijn op deze pagina te vinden; dit zijn de releasenotes: Blender 4.5 LTS Release Notes</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73310/blender-450.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73310</guid>
-            <pubDate>Tue, 15 Jul 2025 16:55:11 +0200</pubDate>
-        </item>
-        <item>
-            <title>XAI claimt dat &#039;ongewenste&#039; antwoorden van Grok 4 zijn verholpen</title>
-            <link>https://tweakers.net/nieuws/237174/xai-claimt-dat-ongewenste-antwoorden-van-grok-4-zijn-verholpen.html</link>
-            <description>XAI zegt dat het de problemen met zijn AI-model Grok 4 heeft onderzocht en opgelost. De chatbot zou geen antisemitische antwoorden meer geven en zou ook niet langer zijn mening proberen af te stemmen op die van ceo Elon Musk.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/237174/xai-claimt-dat-ongewenste-antwoorden-van-grok-4-zijn-verholpen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237174</guid>
-            <pubDate>Tue, 15 Jul 2025 16:13:48 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google test AI-samenvattingen bij nieuwsonderwerpen in Discover-feed</title>
-            <link>https://tweakers.net/nieuws/237172/google-test-ai-samenvattingen-bij-nieuwsonderwerpen-in-discover-feed.html</link>
-            <description>Google gaat nieuwsberichten in de Discover-feed van Android- en iOS-toestellen met AI samenvatten. Voorheen werden in deze sectie enkel de titel van het nieuwsbericht en de naam van de publicatie getoond.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/nieuws/237172/google-test-ai-samenvattingen-bij-nieuwsonderwerpen-in-discover-feed.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237172</guid>
-            <pubDate>Tue, 15 Jul 2025 15:45:43 +0200</pubDate>
-        </item>
-        <item>
-            <title>WeTransfer haalt gebruik bestanden voor AI-training stilletjes uit voorwaarden</title>
-            <link>https://tweakers.net/nieuws/237162/wetransfer-haalt-gebruik-bestanden-voor-ai-training-stilletjes-uit-voorwaarden.html</link>
-            <description>WeTransfer heeft zijn gebruiksvoorwaarden recent aangepast om AI-training toe te staan, maar dat nu stilletjes weer verwijderd. Het van oorsprong Nederlandse bedrijf gaf zichzelf vergaande gebruiksrechten op alle content die gebruikers versturen via de onlinedienst.</description>
-            <author>Jasper Bakker</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237162/wetransfer-haalt-gebruik-bestanden-voor-ai-training-stilletjes-uit-voorwaarden.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237162</guid>
-            <pubDate>Tue, 15 Jul 2025 14:50:37 +0200</pubDate>
-        </item>
-        <item>
-            <title>Seagate maakt hdd&#039;s van 30TB op basis van hamr-techniek beschikbaar</title>
-            <link>https://tweakers.net/nieuws/237164/seagate-maakt-hdds-van-30tb-op-basis-van-hamr-techniek-beschikbaar.html</link>
-            <description>Seagate begint met de verkoop van nieuwe Exos- en IronWolf Pro-hdd&#039;s met een opslagcapaciteit van 28TB en 30TB. Om die opslagcapaciteit te bereiken, maken de harde schijven gebruik van heat-assisted magnetic recording (hamr). De harde schijven zijn vanaf dinsdag verkrijgbaar.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / Computers / Interne harde schijven</category>
-            <comments>https://tweakers.net/nieuws/237164/seagate-maakt-hdds-van-30tb-op-basis-van-hamr-techniek-beschikbaar.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237164</guid>
-            <pubDate>Tue, 15 Jul 2025 14:43:58 +0200</pubDate>
-        </item>
-        <item>
-            <title>EU brengt eerste versie van leeftijdsverificatieapp uit</title>
-            <link>https://tweakers.net/nieuws/237170/eu-brengt-eerste-versie-van-leeftijdsverificatieapp-uit.html</link>
-            <description>De Europese Unie heeft de ontwikkeling van de whitelabelversie van de leeftijdsverificatieapp afgerond. Het is de bedoeling dat Frankrijk, Denemarken, Italië, Spanje en Griekenland de app als eerste in gebruik nemen. Het is nog niet duidelijk wanneer andere lidstaten volgen.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/237170/eu-brengt-eerste-versie-van-leeftijdsverificatieapp-uit.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237170</guid>
-            <pubDate>Tue, 15 Jul 2025 14:38:53 +0200</pubDate>
-        </item>
-        <item>
-            <title>Tesla brengt Powerwall 3-thuisaccu uit in Nederland</title>
-            <link>https://tweakers.net/nieuws/237168/tesla-brengt-powerwall-3-thuisaccu-uit-in-nederland.html</link>
-            <description>Tesla heeft zijn modulaire Powerwall 3-thuisaccu uitgebracht in Nederland. Hiermee kunnen eigenaren van zonnepanelen overtollige energie opslaan en op een later moment gebruiken, bijvoorbeeld tijdens piekuren.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Economie en maatschappij</category>
-            <comments>https://tweakers.net/nieuws/237168/tesla-brengt-powerwall-3-thuisaccu-uit-in-nederland.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237168</guid>
-            <pubDate>Tue, 15 Jul 2025 13:54:51 +0200</pubDate>
-        </item>
-        <item>
-            <title>Deadline voor AI-opt-out bij Slack is 17 juli voor betalende gebruikers</title>
-            <link>https://tweakers.net/nieuws/237160/deadline-voor-ai-opt-out-bij-slack-is-17-juli-voor-betalende-gebruikers.html</link>
-            <description>Slack voert AI-functies automatisch in voor alle betalende klanten vanaf 17 juli. Gebruikers die geen AI willen, moeten vóór die datum zelf voor opt-out kiezen. Er zijn al geruime tijd zorgen over het gebruik van klantendata voor AI-training door Slack.</description>
-            <author>Jasper Bakker</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237160/deadline-voor-ai-opt-out-bij-slack-is-17-juli-voor-betalende-gebruikers.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237160</guid>
-            <pubDate>Tue, 15 Jul 2025 11:57:02 +0200</pubDate>
-        </item>
-        <item>
-            <title>Discord komt met virtuele munteenheid Orbs voor kijken van reclames</title>
-            <link>https://tweakers.net/nieuws/237166/discord-komt-met-virtuele-munteenheid-orbs-voor-kijken-van-reclames.html</link>
-            <description>Discord heeft zijn virtuele munteenheid Orbs uitgebracht. Gebruikers kunnen deze onder meer verdienen door advertenties op het platform te kijken. Ze zijn uit te geven in de Discord Shop, bijvoorbeeld aan een Nitro-proefabonnement.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/nieuws/237166/discord-komt-met-virtuele-munteenheid-orbs-voor-kijken-van-reclames.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237166</guid>
-            <pubDate>Tue, 15 Jul 2025 11:50:42 +0200</pubDate>
-        </item>
-        <item>
-            <title>Ministerie van Defensie VS sluit miljoenendeals met xAI, Anthropic en Google</title>
-            <link>https://tweakers.net/nieuws/237158/ministerie-van-defensie-vs-sluit-miljoenendeals-met-xai-anthropic-en-google.html</link>
-            <description>Het Amerikaanse ministerie van Defensie heeft miljoenencontracten gesloten met Anthropic, xAI en Google. De regering wil daarmee de AI-capaciteiten van het ministerie verhogen om &#039;kritieke uitdagingen op het gebied van de nationale veiligheid&#039; het hoofd te bieden.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237158/ministerie-van-defensie-vs-sluit-miljoenendeals-met-xai-anthropic-en-google.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237158</guid>
-            <pubDate>Tue, 15 Jul 2025 10:55:56 +0200</pubDate>
-        </item>
-        <item>
-            <title>Oracle wil 1 miljard dollar investeren in AI en cloud in Nederland</title>
-            <link>https://tweakers.net/nieuws/237154/oracle-wil-1-miljard-dollar-investeren-in-ai-en-cloud-in-nederland.html</link>
-            <description>Oracle is van plan om de komende vijf jaar in totaal 1 miljard dollar, meer dan 855 miljoen euro, te investeren in de AI- en cloudinfrastructuur in Nederland. Het Amerikaanse softwarebedrijf wil zijn AI- en clouddiensten uitbreiden vanwege de &#039;snelgroeiende vraag&#039; in het land.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237154/oracle-wil-1-miljard-dollar-investeren-in-ai-en-cloud-in-nederland.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237154</guid>
-            <pubDate>Tue, 15 Jul 2025 09:54:01 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nvidia mag H20-datacenterchip weer naar China exporteren</title>
-            <link>https://tweakers.net/nieuws/237152/nvidia-mag-h20-datacenterchip-weer-naar-china-exporteren.html</link>
-            <description>Nvidia mag de datacenter-gpu H20 weer naar China exporteren. Dat heeft de Amerikaanse regering toegezegd na een ontmoeting met Nvidia-ceo Jensen Huang. Deze chip is specifiek ontworpen voor de Chinese markt, maar viel sinds april onder de exportbeperkingen van de Verenigde Staten.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/nieuws/237152/nvidia-mag-h20-datacenterchip-weer-naar-china-exporteren.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237152</guid>
-            <pubDate>Tue, 15 Jul 2025 09:05:17 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - CudaText 1.226.0</title>
-            <link>https://tweakers.net/downloads/73306/cudatext-12260.html</link>
-            <description>Versie 1.226.0 van CudaText is uitgekomen. Deze opensource en crossplatform teksteditor is beschikbaar voor Windows, Linux, macOS, BSD en Solaris. Het programma heeft uitgebreide mogelijkheden die met name voor softwareontwikkelaars interessant zijn. Het is ontwikkeld in Object Pascal, start snel en door middel van Python-add-ons kan de functionaliteit verder worden uitgebreid. Het programma wordt actief ontwikkeld en regelmatig verschijnen er nieuwe versies. De changelog voor deze uitgave ziet er als volgt uit: Major changes:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73306/cudatext-12260.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73306</guid>
-            <pubDate>Tue, 15 Jul 2025 08:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Adv - Intercept zet voortaan in op duurzame én kostenefficiënte cloudstrategie</title>
-            <link>https://tweakers.net/plan/4462/intercept-zet-voortaan-in-op-duurzame-en-kostenefficiente-cloudstrategie.html</link>
-            <description>Veel bedrijven gebruiken de cloud nog zoals ze hun datacenter gebruikten – en verspillen daarmee geld én energie. Wesley Haakman, principal Azure-architect bij Intercept, pleit voor een bewuste, moderne cloudstrategie waarin FinOps en duurzaamheid hand in hand gaan. Hij rekent af met hardnekkige misverstanden en legt uit waarom echte winst begint bij inzicht, architectuur en samenwerking.</description>
-            <author>Tweakers Partners</author>
-            <category>.adv</category>
-            <comments>https://tweakers.net/plan/4462/intercept-zet-voortaan-in-op-duurzame-en-kostenefficiente-cloudstrategie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/plan/4462</guid>
-            <pubDate>Tue, 15 Jul 2025 08:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Round-up - 28 casefans van 140mm - Budgetventilator blaast bijna premium weg</title>
-            <link>https://tweakers.net/reviews/13440/28-casefans-van-140mm-budgetventilator-blaast-bijna-premium-weg.html</link>
-            <description>Voor deze round-up van 140mm-ventilators hebben we maar liefst 28 modellen getest om te bepalen welke het beste presteren.</description>
-            <author>Reinoud Dik</author>
-            <category>Round-up / Computers / Ventilators</category>
-            <comments>https://tweakers.net/reviews/13440/28-casefans-van-140mm-budgetventilator-blaast-bijna-premium-weg.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13440</guid>
-            <pubDate>Tue, 15 Jul 2025 06:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
