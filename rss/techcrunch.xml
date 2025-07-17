@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 17 Jul 2025 12:39:17 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 17 Jul 2025 13:37:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,8 +28,29 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Uber partners with Nuro, invests $300M in Lucid to launch upscale robotaxi service</title>
-		<link>https://techcrunch.com/2025/07/17/uber-partners-with-nuro-invests-300m-into-lucid-to-launch-upscale-robotaxi-service/</link>
+		<title>UAE&#8217;s deal to buy Nvidia AI chips reportedly on hold</title>
+		<link>https://techcrunch.com/2025/07/17/uaes-deal-to-buy-nvidia-ai-chips-reportedly-on-hold/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Thu, 17 Jul 2025 13:37:37 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[AI chips]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[Chip restrictions]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<category><![CDATA[semiconductors]]></category>
+		<category><![CDATA[UAE]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3028707</guid>
+
+					<description><![CDATA[The U.S. is reportedly holding up the deal due to concerns that AI chips could be smuggled to China from the UAE.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Uber makes multi-million-dollar investment in Lucid and Nuro to build a premium robotaxi service</title>
+		<link>https://techcrunch.com/2025/07/17/uber-makes-multi-million-dollar-investment-in-lucid-nuro-to-build-robotaxi-service/</link>
 		
 		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
 		<pubDate>Thu, 17 Jul 2025 12:31:19 +0000</pubDate>
@@ -52,8 +73,8 @@
 		<category><![CDATA[Startups]]></category>
 		<category><![CDATA[Accel]]></category>
 		<category><![CDATA[cursor]]></category>
-		<category><![CDATA[vibe coding]]></category>
 		<category><![CDATA[Lovable]]></category>
+		<category><![CDATA[vibe coding]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3028671</guid>
 
 					<description><![CDATA[Only eight months after its launch, Sweden's Lovable has raised a $200 million Series A round led by Accel at a $1.8 billion valuation.]]></description>
@@ -117,12 +138,12 @@
 		
 		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
 		<pubDate>Thu, 17 Jul 2025 04:01:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Apps]]></category>
+				<category><![CDATA[Apps]]></category>
 		<category><![CDATA[Social]]></category>
-		<category><![CDATA[social media]]></category>
+		<category><![CDATA[TC]]></category>
 		<category><![CDATA[jack dorsey]]></category>
 		<category><![CDATA[nostr]]></category>
+		<category><![CDATA[social media]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3028456</guid>
 
 					<description><![CDATA[Jack Dorsey backs nonprofit 'and Other Stuff' with $10M to build open social technology.]]></description>
@@ -376,25 +397,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=2607630</guid>
 
 					<description><![CDATA[A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>A comprehensive list of 2025 tech layoffs</title>
-		<link>https://techcrunch.com/2025/07/16/tech-layoffs-2025-list/</link>
-		
-		<dc:creator><![CDATA[Cody Corrall, Alyssa Stringer, Kate Park]]></dc:creator>
-		<pubDate>Wed, 16 Jul 2025 15:15:05 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[Layoffs]]></category>
-		<category><![CDATA[tech layoffs]]></category>
-		<category><![CDATA[TechCrunch 2023 Recap]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2607662</guid>
-
-					<description><![CDATA[A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.]]></description>
 		
 		
 		
