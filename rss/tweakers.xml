@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 17 Jul 2025 13:31:01 +0200</pubDate>
-        <lastBuildDate>Thu, 17 Jul 2025 13:31:01 +0200</lastBuildDate>
+        <pubDate>Thu, 17 Jul 2025 14:41:02 +0200</pubDate>
+        <lastBuildDate>Thu, 17 Jul 2025 14:41:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,9 +18,29 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
+            <title>TNO traint Nederlands GPT-NL met nieuwsartikelen van De Telegraaf en NU.nl</title>
+            <link>https://tweakers.net/nieuws/237250/tno-traint-nederlands-gpt-nl-met-nieuwsartikelen-van-de-telegraaf-en-nu-punt-nl.html</link>
+            <description>TNO gaat het Nederlandse AI-model GPT-NL trainen op nieuwsartikelen van NDP Nieuwsmedia. De organisaties sluiten een samenwerking waarbij NDP een deel van zijn archief beschikbaar stelt aan het Nederlandse onderzoeksinstituut. Ook persbureau ANP sluit zich aan bij het collectief.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Wetenschap</category>
+            <comments>https://tweakers.net/nieuws/237250/tno-traint-nederlands-gpt-nl-met-nieuwsartikelen-van-de-telegraaf-en-nu-punt-nl.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237250</guid>
+            <pubDate>Thu, 17 Jul 2025 13:58:29 +0200</pubDate>
+        </item>
+        <item>
+            <title>Noyb dient klacht in over AliExpress, TikTok en WeChat om niet naleven EU-wetten</title>
+            <link>https://tweakers.net/nieuws/237248/noyb-dient-klacht-in-over-aliexpress-tiktok-en-wechat-om-niet-naleven-eu-wetten.html</link>
+            <description>De Oostenrijkse privacyorganisatie noyb heeft een klacht ingediend over AliExpress, TikTok en WeChat. Noyb betoogt dat deze bedrijven niet voldoen aan de Europese wetgeving wat betreft het verstrekken van de verzamelde data aan gebruikers.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/237248/noyb-dient-klacht-in-over-aliexpress-tiktok-en-wechat-om-niet-naleven-eu-wetten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237248</guid>
+            <pubDate>Thu, 17 Jul 2025 13:57:28 +0200</pubDate>
+        </item>
+        <item>
             <title>Software-update - Fan Control 228</title>
             <link>https://tweakers.net/downloads/73332/fan-control-228.html</link>
-            <description>Versie 227 van Fan Control is uitgekomen. Met dit programma kunnen de ventilators in de computer worden beheerd en in de gaten worden gehouden. Zo is het onder meer mogelijk om met verschillende profielen en configuraties de computer koel of juist stil te houden. Fan Control kan overweg met de meeste fans en controllers en via een plug-insysteem is dat verder uit te breiden. Hoewel het gebruikmaakt van het opensource Libre Hardware Monitor-project, wordt het programma zelf als freeware aangeboden. De changelog voor deze uitgave ziet er als volgt uit: Changelog for version 228:</description>
+            <description>Versie 228 van Fan Control is uitgekomen. Met dit programma kunnen de ventilators in de computer worden beheerd en in de gaten worden gehouden. Zo is het onder meer mogelijk om met verschillende profielen en configuraties de computer koel of juist stil te houden. Fan Control kan overweg met de meeste fans en controllers en via een plug-insysteem is dat verder uit te breiden. Hoewel het gebruikmaakt van het opensource Libre Hardware Monitor-project, wordt het programma zelf als freeware aangeboden. De changelog voor deze uitgave ziet er als volgt uit: Changelog for version 228:</description>
             <author>Bart van Klaveren</author>
             <category>Software</category>
             <comments>https://tweakers.net/downloads/73332/fan-control-228.html#reacties</comments>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/237192/bethesda-heeft-officieel-groen-licht-om-aan-fallout-5-te-werken.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237192</guid>
             <pubDate>Wed, 16 Jul 2025 10:47:40 +0200</pubDate>
-        </item>
-        <item>
-            <title>ASML weet door handelsembargo&#039;s en heffingen niet of het in 2026 nog kan groeien</title>
-            <link>https://tweakers.net/nieuws/237194/asml-weet-door-handelsembargos-en-heffingen-niet-of-het-in-2026-nog-kan-groeien.html</link>
-            <description>ASML weet niet of het volgend jaar nog meer kan groeien. Het bedrijf ziet risico&#039;s door onder andere importheffingen en handelsembargo&#039;s door de Verenigde Staten en andere landen. Zowel de omzet als de winst stegen het afgelopen kwartaal wel.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Economie en maatschappij</category>
-            <comments>https://tweakers.net/nieuws/237194/asml-weet-door-handelsembargos-en-heffingen-niet-of-het-in-2026-nog-kan-groeien.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237194</guid>
-            <pubDate>Wed, 16 Jul 2025 10:05:06 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - VirtualBox 7.1.12</title>
-            <link>https://tweakers.net/downloads/73314/virtualbox-7112.html</link>
-            <description>Oracle heeft versie 7.1.12 van VirtualBox uitgebracht. VirtualBox kan worden gebruikt om andere besturingssystemen als een virtuele machine op een computer te installeren. Daardoor is het mogelijk om verschillende besturingssystemen op dezelfde hardware naast elkaar en tegelijkertijd te gebruiken. VirtualBox is beschikbaar voor Windows, macOS, Linux en Solaris en is in staat om diverse gastbesturingssystemen te draaien. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: VirtualBox 7.1.12</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73314/virtualbox-7112.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73314</guid>
-            <pubDate>Wed, 16 Jul 2025 09:15:39 +0200</pubDate>
         </item>
     </channel>
 </rss>
