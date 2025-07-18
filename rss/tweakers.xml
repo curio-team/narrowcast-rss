@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 18 Jul 2025 13:31:02 +0200</pubDate>
-        <lastBuildDate>Fri, 18 Jul 2025 13:31:02 +0200</lastBuildDate>
+        <pubDate>Fri, 18 Jul 2025 14:41:04 +0200</pubDate>
+        <lastBuildDate>Fri, 18 Jul 2025 14:41:04 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Spotify maakt Luisterboeken+ in Nederland en België beschikbaar</title>
+            <link>https://tweakers.net/nieuws/237282/spotify-maakt-luisterboeken+-in-nederland-en-belgie-beschikbaar.html</link>
+            <description>Spotify heeft zijn add-on Luisterboeken+ beschikbaar gemaakt in onder meer Nederland en België. Daardoor kunnen gebruikers elke maand vijftien uur extra luisterboeken beluisteren. De dienst kost 8,99 euro per maand.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237282/spotify-maakt-luisterboeken+-in-nederland-en-belgie-beschikbaar.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237282</guid>
+            <pubDate>Fri, 18 Jul 2025 14:25:22 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Enpass 6.11.13</title>
+            <link>https://tweakers.net/downloads/73346/enpass-61113.html</link>
+            <description>Versie 6.11.13 van Enpass voor Windows is uitgekomen. Deze wachtwoordmanager is beschikbaar voor Windows, macOS, Linux, Android en iOS. Het programma stelt je in staat om eenvoudig bij websites in te loggen en je wachtwoorden te beheren. Zo kunnen nieuwe wachtwoorden worden gegenereerd en laat het programma weten of een wachtwoord zwak is, oud is of vaker wordt gebruikt. Data wordt versleuteld lokaal opgeslagen, maar synchroniseren via diensten als iCloud, Dropbox, Google Drive en OneDrive is ook mogelijk. Enpass is gratis te gebruiken op de desktop; voor gebruik op een mobiel apparaat of met verschillende gebruikers zal een abonnement afgesloten moeten worden. Ook is het mogelijk om een levenslange licentie aan te schaffen. Sinds versie 6.11.`10 zijn de volgende verbeteringen aangebracht:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73346/enpass-61113.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73346</guid>
+            <pubDate>Fri, 18 Jul 2025 14:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Nieuwe Intel Core Ultra-cpu&#039;s voor desktop kunnen geen Copilot+ draaien&#039;</title>
+            <link>https://tweakers.net/nieuws/237280/nieuwe-intel-core-ultra-cpus-voor-desktop-kunnen-geen-copilot+-draaien.html</link>
+            <description>De nieuwe Intel Core Ultra-cpu&#039;s voor desktops krijgen toch geen npu die krachtig genoeg is om Copilot+ te draaien, meldt de bekende Intel-leaker Jaykihn. Eerder werd gemeld dat de nieuwe processors een krachtigere npu zouden krijgen, maar dat is volgens Jaykihn onjuist.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/237280/nieuwe-intel-core-ultra-cpus-voor-desktop-kunnen-geen-copilot+-draaien.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237280</guid>
+            <pubDate>Fri, 18 Jul 2025 13:53:17 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Sigil 2.6.0</title>
             <link>https://tweakers.net/downloads/73344/sigil-260.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/237236/idc-huawei-is-na-vier-jaar-weer-leider-op-smartphonemarkt-in-china.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237236</guid>
             <pubDate>Wed, 16 Jul 2025 20:44:06 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google maakt Nest Aware-abonnement in Nederland tot 67 procent duurder</title>
-            <link>https://tweakers.net/nieuws/237234/google-maakt-nest-aware-abonnement-in-nederland-tot-67-procent-duurder.html</link>
-            <description>Google heeft het Nest Aware-abonnement voor zijn camera&#039;s duurder gemaakt. De prijs gaat van 6 euro per maand naar 10 euro per maand, een stijging van 67 procent, zo merken diverse tweakers op.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Beeld en geluid / Bewakingscamera&#039;s</category>
-            <comments>https://tweakers.net/nieuws/237234/google-maakt-nest-aware-abonnement-in-nederland-tot-67-procent-duurder.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237234</guid>
-            <pubDate>Wed, 16 Jul 2025 20:16:53 +0200</pubDate>
-        </item>
-        <item>
-            <title>Tesla kondigt Model Y L aan in China met drie rijen stoelen</title>
-            <link>https://tweakers.net/nieuws/237230/tesla-kondigt-model-y-l-aan-in-china-met-drie-rijen-stoelen.html</link>
-            <description>Tesla heeft de Model Y L aangekondigd in China, een langere variant van de bestaande model Y met drie rijen aan stoelen. De auto is langer en heeft ook een langere wielbasis. Er komt ook een Model 3+ met een ander soort accu dan het reguliere model.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Beeld en geluid / Gadgets</category>
-            <comments>https://tweakers.net/nieuws/237230/tesla-kondigt-model-y-l-aan-in-china-met-drie-rijen-stoelen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237230</guid>
-            <pubDate>Wed, 16 Jul 2025 19:40:46 +0200</pubDate>
-        </item>
-        <item>
-            <title>Sony roept getroffen Xperia 1 VII-smartphones in Europa terug om startproblemen</title>
-            <link>https://tweakers.net/nieuws/237228/sony-roept-getroffen-xperia-1-vii-smartphones-in-europa-terug-om-startproblemen.html</link>
-            <description>Sony roept getroffen exemplaren van de Xperia 1 VII-smartphone terug vanwege startproblemen, ook in Nederland en België. Klanten met de smartphone kunnen via een tool controleren of hun exemplaar het probleem heeft. Als dat zo is, kunnen ze hun telefoon vervangen.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/237228/sony-roept-getroffen-xperia-1-vii-smartphones-in-europa-terug-om-startproblemen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237228</guid>
-            <pubDate>Wed, 16 Jul 2025 19:05:00 +0200</pubDate>
         </item>
     </channel>
 </rss>

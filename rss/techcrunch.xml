@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 18 Jul 2025 06:14:35 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Jul 2025 12:21:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Netflix starts using GenAI in its shows and films</title>
+		<link>https://techcrunch.com/2025/07/18/netflix-starts-using-genai-in-its-shows-and-films/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Fri, 18 Jul 2025 12:21:46 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[ai video]]></category>
+		<category><![CDATA[gen ai]]></category>
+		<category><![CDATA[Netflix]]></category>
+		<category><![CDATA[ted sarandos]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3029066</guid>
+
+					<description><![CDATA[Netflix said it used gen AI for the first time for a scene in an Argentinean show called El Atonata.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Perplexity sees India as a shortcut in its race against OpenAI</title>
 		<link>https://techcrunch.com/2025/07/17/perplexity-sees-india-as-a-shortcut-in-its-race-against-openai/</link>
 		
@@ -382,24 +401,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3028707</guid>
 
 					<description><![CDATA[The U.S. is reportedly holding up the deal due to concerns that AI chips could be smuggled to China from the UAE.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Uber makes multimillion-dollar investment in Lucid and Nuro to build a premium robotaxi service</title>
-		<link>https://techcrunch.com/2025/07/17/uber-makes-multi-million-dollar-investment-in-lucid-nuro-to-build-robotaxi-service/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
-		<pubDate>Thu, 17 Jul 2025 12:31:19 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Lucid Motors]]></category>
-		<category><![CDATA[nuro]]></category>
-		<category><![CDATA[robotaxi]]></category>
-		<category><![CDATA[Uber]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3028681</guid>
-
-					<description><![CDATA[Uber is investing hundreds of millions of dollars into  Lucid and autonomous vehicle technology startup Nuro in a bid to launch its own robotaxi service.]]></description>
 		
 		
 		
