@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 17 Jul 2025 16:36:06 +0200</pubDate>
-        <lastBuildDate>Thu, 17 Jul 2025 16:36:06 +0200</lastBuildDate>
+        <pubDate>Fri, 18 Jul 2025 09:31:00 +0200</pubDate>
+        <lastBuildDate>Fri, 18 Jul 2025 09:31:00 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,126 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>WeTransfer: technische beperkingen bij e-mailen nieuwe voorwaarden aan klanten</title>
+            <link>https://tweakers.net/nieuws/237258/wetransfer-technische-beperkingen-bij-e-mailen-nieuwe-voorwaarden-aan-klanten.html</link>
+            <description>WeTransfer zegt zijn klanten sinds 1 juli te informeren over de nieuwe voorwaarden en dat het daarbij te maken heeft met technische beperkingen. Deze gebruiksvoorwaarden zijn op 23 juni gewijzigd en na ophef stilletjes aangepast op 15 juli.</description>
+            <author>Jasper Bakker</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237258/wetransfer-technische-beperkingen-bij-e-mailen-nieuwe-voorwaarden-aan-klanten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237258</guid>
+            <pubDate>Fri, 18 Jul 2025 08:52:27 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nederlandse bedrijven blijven Zivver gebruiken ondanks Amerikaanse eigenaar</title>
+            <link>https://tweakers.net/nieuws/237260/nederlandse-bedrijven-blijven-zivver-gebruiken-ondanks-amerikaanse-eigenaar.html</link>
+            <description>Nederlandse bedrijven maken zich weinig zorgen over de overname van Zivver door Kiteworks. Zivver biedt diensten met de Veilig Mailen-standaard aan, waarmee gevoelige data mag worden verzonden. Die dienstverlening wordt nu door een Amerikaans bedrijf overgenomen.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237260/nederlandse-bedrijven-blijven-zivver-gebruiken-ondanks-amerikaanse-eigenaar.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237260</guid>
+            <pubDate>Fri, 18 Jul 2025 08:26:15 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Wireshark 4.4.8</title>
+            <link>https://tweakers.net/downloads/73340/wireshark-448.html</link>
+            <description>Versie 4.4.8 van de opensource protocolanalyser en packetsniffer Wireshark is uitgekomen. Met dit programma kunnen verschillende datapakketten en netwerkprotocollen op het netwerk worden geanalyseerd. Ook kan het programma eerder opgeslagen dataverkeer als invoer gebruiken. Wireshark is te downloaden voor 64bit-uitvoeringen van Windows en macOS. De broncode is beschikbaar voor gebruik op Linux, Solaris en *BSD. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: The following bugs have been fixed:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73340/wireshark-448.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73340</guid>
+            <pubDate>Fri, 18 Jul 2025 08:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Quicktest - Arctic P12 Pro - Monsterfan met een prettige prijs</title>
+            <link>https://tweakers.net/reviews/13452/arctic-p12-pro-monsterfan-met-een-prettige-prijs.html</link>
+            <description>Arctics populaire P12-ventilator bestaat al een behoorlijke tijd en de fabrikant zegt deze nu te gaan vervangen met de gloednieuwe P12 Pro die betere prestaties met een hogere bouwkwaliteit moet combineren.</description>
+            <author>Reinoud Dik</author>
+            <category>Quicktest / Computers / Ventilators</category>
+            <comments>https://tweakers.net/reviews/13452/arctic-p12-pro-monsterfan-met-een-prettige-prijs.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13452</guid>
+            <pubDate>Fri, 18 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Achtergrond - Wat nou opensource? Google maakt ontwikkelaars van custom roms het leven zuur</title>
+            <link>https://tweakers.net/reviews/13442/wat-nou-opensource-google-maakt-ontwikkelaars-van-custom-roms-het-leven-zuur.html</link>
+            <description>Al sinds het begin van Android bestaan er custom roms, aangepaste versies. Maar Google maakt het ontwikkelaars steeds lastiger om die te maken.</description>
+            <author>Arnoud Wokke</author>
+            <category>Achtergrond / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/reviews/13442/wat-nou-opensource-google-maakt-ontwikkelaars-van-custom-roms-het-leven-zuur.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13442</guid>
+            <pubDate>Fri, 18 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>OpenAI brengt algemene agent uit die zelfstandig computertaken kan uitvoeren</title>
+            <link>https://tweakers.net/nieuws/237270/openai-brengt-algemene-agent-uit-die-zelfstandig-computertaken-kan-uitvoeren.html</link>
+            <description>OpenAI heeft een algemene agent uitgebracht voor ChatGPT. Deze tool kan zelfstandig taken uitvoeren op een computer, zoals het plannen van een reservering of het ontwerpen van een PowerPoint-presentatie.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Internet</category>
+            <comments>https://tweakers.net/nieuws/237270/openai-brengt-algemene-agent-uit-die-zelfstandig-computertaken-kan-uitvoeren.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237270</guid>
+            <pubDate>Thu, 17 Jul 2025 21:05:21 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Bulk Rename Utility 4.0.0.9</title>
+            <link>https://tweakers.net/downloads/73338/bulk-rename-utility-4009.html</link>
+            <description>Bulk Rename Utility is een programma waarmee de naam of locatie van meerdere bestanden en/of mappen tegelijk kan worden gewijzigd. Zo kunnen er bijvoorbeeld tekens worden toegevoegd, vervangen of verwijderd worden, of kan de naam aan de hand van metadata of d3-tags worden aangepast. Het programma is gratis voor persoonlijk gebruik; voor gebruik in commerciële omgevingen wordt wel een vergoeding gevraagd. Versie 4.0.0.9 van Bulk Rename Utility uitgekomen en hierin zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 4.0.0.9</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73338/bulk-rename-utility-4009.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73338</guid>
+            <pubDate>Thu, 17 Jul 2025 20:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>AMD brengt Threadripper 9000WX-cpu&#039;s op 23 juli uit, topmodel kost 11.699 dollar</title>
+            <link>https://tweakers.net/nieuws/237268/amd-brengt-threadripper-9000wx-cpus-op-23-juli-uit-topmodel-kost-11699-dollar.html</link>
+            <description>AMD brengt zijn zakelijke Threadripper 9000WX-processors op basis van de Zen 5-architectuur op 23 juli uit. Het topmodel, de Threadripper PRO 9995WX met 96 cores en 192 threads, is met een prijs van 11.699 dollar de duurste Threadripper-cpu tot dusver.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/237268/amd-brengt-threadripper-9000wx-cpus-op-23-juli-uit-topmodel-kost-11699-dollar.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237268</guid>
+            <pubDate>Thu, 17 Jul 2025 19:55:31 +0200</pubDate>
+        </item>
+        <item>
+            <title>Roblox-spelers moeten gezicht scannen om ongebreideld te kunnen chatten</title>
+            <link>https://tweakers.net/nieuws/237266/roblox-spelers-moeten-gezicht-scannen-om-ongebreideld-te-kunnen-chatten.html</link>
+            <description>Het onder kinderen populaire online gameplatform Roblox introduceert een &#039;leeftijdsschattingstool&#039;. Als spelers ongefilterd willen chatten met andere gebruikers, moeten ze hun gezicht scannen, waarna het platform beslist of de gebruiker dertien jaar of ouder lijkt.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/237266/roblox-spelers-moeten-gezicht-scannen-om-ongebreideld-te-kunnen-chatten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237266</guid>
+            <pubDate>Thu, 17 Jul 2025 18:49:32 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - FileZilla 3.69.2</title>
+            <link>https://tweakers.net/downloads/73336/filezilla-3692.html</link>
+            <description>Versie 3.69.2 van de opensource ftp-client FileZilla is uitgekomen. Het programma is populair vanwege de geringe belasting van de systeembronnen. FileZilla is beschikbaar voor Windows, Linux en macOS. Naast de standaardversie is er ook een Pro-versie, die tegen een kleine vergoeding ondersteuning biedt voor diverse online opslagdiensten. Wees voorzichtig met het &#039;aanbevolen&#039; downloadbestand, want dat wordt gebundeld met software van derden. Op deze pagina zijn installatiebestanden te vinden die geen extra componenten bevatten. Een verkeerde installatie is overigens eenvoudig te herkennen aan het woord sponsored in de bestandsnaam. Sinds versie 3.69.0 zijn de volgende veranderingen en verbeteringen aangebracht:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73336/filezilla-3692.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73336</guid>
+            <pubDate>Thu, 17 Jul 2025 18:30:18 +0200</pubDate>
+        </item>
+        <item>
+            <title>Mercedes-Benz wil rijhulpsystemen vanaf eind juli trainen met klantgegevens</title>
+            <link>https://tweakers.net/nieuws/237264/mercedes-benz-wil-rijhulpsystemen-vanaf-eind-juli-trainen-met-klantgegevens.html</link>
+            <description>Mercedes-Benz is van plan om vanaf eind juli 2025 sensor- en videogegevens van klanten te gebruiken voor het verbeteren van zijn rijhulpsystemen. Volgens de fabrikant is dat nodig om &#039;alle soorten weggebruikers en situaties betrouwbaar te kunnen herkennen&#039;.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Beeld en geluid / Cartech</category>
+            <comments>https://tweakers.net/nieuws/237264/mercedes-benz-wil-rijhulpsystemen-vanaf-eind-juli-trainen-met-klantgegevens.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237264</guid>
+            <pubDate>Thu, 17 Jul 2025 17:52:59 +0200</pubDate>
+        </item>
+        <item>
+            <title>GMKtec maakt EVO-T1-mini-pc met 64GB DDR5-ram beschikbaar voor 999 euro</title>
+            <link>https://tweakers.net/nieuws/237256/gmktec-maakt-evo-t1-mini-pc-met-64gb-ddr5-ram-beschikbaar-voor-999-euro.html</link>
+            <description>GMKtec heeft zijn EVO-T1-mini-pc breed beschikbaar gemaakt. Het apparaat is te koop voor 999 euro via de kanalen van GMKTec en zal later ook via derde partijen beschikbaar zijn. De Evo-T1 beschikt onder meer over 64GB ram en een Intel Core Ultra 9 285H-processor.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / Computers / Pc&#039;s</category>
+            <comments>https://tweakers.net/nieuws/237256/gmktec-maakt-evo-t1-mini-pc-met-64gb-ddr5-ram-beschikbaar-voor-999-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237256</guid>
+            <pubDate>Thu, 17 Jul 2025 17:03:53 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Rescuezilla 2.6.1</title>
             <link>https://tweakers.net/downloads/73334/rescuezilla-261.html</link>
@@ -296,126 +416,6 @@
             <comments>https://tweakers.net/nieuws/237222/analogue-3d-console-die-nintendo-64-games-in-4k-speelt-komt-eind-augustus-uit.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237222</guid>
             <pubDate>Wed, 16 Jul 2025 16:36:58 +0200</pubDate>
-        </item>
-        <item>
-            <title>Europol haalt infrastructuur hackersgroep NoName offline en arresteert 2 mensen</title>
-            <link>https://tweakers.net/nieuws/237214/europol-haalt-infrastructuur-hackersgroep-noname-offline-en-arresteert-2-mensen.html</link>
-            <description>Europol, Eurojust en de politie hebben de pro-Russische hackersgroep NoName057(16) offline gehaald. Ook zijn er twee mensen gearresteerd en zeven arrestatiebevelen uitgevaardigd. De Nederlandse autoriteiten waren ook betrokken bij de operatie.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/237214/europol-haalt-infrastructuur-hackersgroep-noname-offline-en-arresteert-2-mensen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237214</guid>
-            <pubDate>Wed, 16 Jul 2025 15:34:22 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - OPNsense 25.1.11</title>
-            <link>https://tweakers.net/downloads/73322/opnsense-25111.html</link>
-            <description>Het pakket OPNsense is een firewall met uitgebreide mogelijkheden. Het is gebaseerd op het besturingssysteem FreeBSD en is oorspronkelijk een fork van m0n0wall en pfSense. Het pakket kan volledig via een webinterface worden ingesteld en heeft onder andere ondersteuning voor mfa, OpenVPN, IPsec, CARP en captive portal. Daarnaast kan het packetfiltering toepassen en beschikt het over een traffic shaper. De ontwikkelaars achter OPNsense hebben de elfde en laatste update voor versie 25.1 uitgebracht en de releasenotes voor die uitgave kunnen hieronder worden gevonden. OPNsense 25.1.11 released</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73322/opnsense-25111.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73322</guid>
-            <pubDate>Wed, 16 Jul 2025 15:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Nintendo maakt bekend wie Zelda en Link spelen in Zelda-liveactionfilm</title>
-            <link>https://tweakers.net/geek/237210/nintendo-maakt-bekend-wie-zelda-en-link-spelen-in-zelda-liveactionfilm.html</link>
-            <description>Nintendo heeft op zijn X-pagina aangekondigd wie Zelda en Link spelen in de liveactionfilm van The Legend of Zelda. Bo Bragason zal de rol van Zelda vertolken, terwijl Benjamin Evan Ainsworth Link speelt. De film komt uit op 7 mei 2027.</description>
-            <author>Imre Himmelbauer</author>
-            <category>.Geek / Beeld en geluid / Blu-ray, DVD en CD</category>
-            <comments>https://tweakers.net/geek/237210/nintendo-maakt-bekend-wie-zelda-en-link-spelen-in-zelda-liveactionfilm.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/237210</guid>
-            <pubDate>Wed, 16 Jul 2025 14:22:28 +0200</pubDate>
-        </item>
-        <item>
-            <title>Review - Donkey Kong Bananza - Dingen kapotslaan was zelden zo leuk</title>
-            <link>https://tweakers.net/reviews/13496/donkey-kong-bananza-dingen-kapotslaan-was-zelden-zo-leuk.html</link>
-            <description>Donkey Kong Bananza scoort met creatief sloopwerk dat veel voldoening oplevert, terwijl de verschillende Bananza&#039;s de lol er extra lang in houden.</description>
-            <author>Jurian Ubachs</author>
-            <category>Review / Gaming / Games</category>
-            <comments>https://tweakers.net/reviews/13496/donkey-kong-bananza-dingen-kapotslaan-was-zelden-zo-leuk.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13496</guid>
-            <pubDate>Wed, 16 Jul 2025 14:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Videoreview - Sloopplezier op z’n best - Donkey Kong Bananza Review</title>
-            <link>https://tweakers.net/video/20002/sloopplezier-op-zn-best-donkey-kong-bananza-review.html</link>
-            <description>Donkey Kong Bananza scoort met creatief sloopwerk dat veel voldoening oplevert, terwijl de verschillende Bananza&#039;s de lol er extra lang in houden.</description>
-            <author>Luke van Drie</author>
-            <category>Videoreview / Gaming / Games</category>
-            <comments>https://tweakers.net/video/20002/sloopplezier-op-zn-best-donkey-kong-bananza-review.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/video/20002</guid>
-            <pubDate>Wed, 16 Jul 2025 14:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Citroën, Peugeot en Opel stoppen met ontwikkeling van waterstofvoertuigen</title>
-            <link>https://tweakers.net/nieuws/237208/citroen-peugeot-en-opel-stoppen-met-ontwikkeling-van-waterstofvoertuigen.html</link>
-            <description>Autofabrikant Stellantis stopt met de productie en ontwikkeling van waterstofvoertuigen. Het bedrijf zegt dat er onvoldoende infrastructuur en overheidssteun is. Stellantis maakte onder meer Citroën-, Opel- en Peugeot-waterstofbestelbussen.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / Beeld en geluid / Cartech</category>
-            <comments>https://tweakers.net/nieuws/237208/citroen-peugeot-en-opel-stoppen-met-ontwikkeling-van-waterstofvoertuigen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237208</guid>
-            <pubDate>Wed, 16 Jul 2025 13:55:44 +0200</pubDate>
-        </item>
-        <item>
-            <title>Meta repareerde bug die AI-prompts en -content van gebruikers kon lekken</title>
-            <link>https://tweakers.net/nieuws/237206/meta-repareerde-bug-die-ai-prompts-en-content-van-gebruikers-kon-lekken.html</link>
-            <description>Meta heeft een bug gerepareerd die gebruikers van de AI-chatbot van het bedrijf toegang gaf tot prompts en de gegenereerde reacties van andere gebruikers. Het socialemediabedrijf heeft de bug op 24 januari hersteld. Er is geen bewijs gevonden dat het lek is misbruikt, zo schrijft TechCrunch.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Privacy</category>
-            <comments>https://tweakers.net/nieuws/237206/meta-repareerde-bug-die-ai-prompts-en-content-van-gebruikers-kon-lekken.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237206</guid>
-            <pubDate>Wed, 16 Jul 2025 13:44:09 +0200</pubDate>
-        </item>
-        <item>
-            <title>Curl overweegt bugbountyprogramma aan te passen vanwege overdaad aan &#039;AI-slop&#039;</title>
-            <link>https://tweakers.net/nieuws/237202/curl-overweegt-bugbountyprogramma-aan-te-passen-vanwege-overdaad-aan-ai-slop.html</link>
-            <description>De makers van curl overwegen te stoppen met het bugbountyprogramma vanwege het grote aantal rapportages dat &#039;AI-slop&#039; bevat. De makers zeggen dat het aantal slechte bugmeldingen sinds dit jaar explosief is gestegen en dat dat veel werk kost en weinig oplevert.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/237202/curl-overweegt-bugbountyprogramma-aan-te-passen-vanwege-overdaad-aan-ai-slop.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237202</guid>
-            <pubDate>Wed, 16 Jul 2025 13:19:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Krita 5.2.11</title>
-            <link>https://tweakers.net/downloads/73318/krita-5211.html</link>
-            <description>Versie 5.2.11 van Krita is verschenen. Krita is een programma waarmee digitale tekeningen en 2d-animaties kunnen worden bewerkt en gecreëerd en kan overweg met zowel bitmap- als vectorafbeeldingen. Het programma was voorheen onderdeel van Calligra Suite en wordt ontwikkeld door het KDE-team, maar werkt ook prima onder Gnome of XFCE. Downloads zijn beschikbaar voor Windows, Linux, macOS en Android. De releasenotes sinds versie 5.2.9 kunnen hieronder worden gevonden. Krita 5.2.11 Released!</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73318/krita-5211.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73318</guid>
-            <pubDate>Wed, 16 Jul 2025 13:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Copilot kan in bètabuild hele scherm van gebruiker analyseren</title>
-            <link>https://tweakers.net/nieuws/237204/copilot-kan-in-betabuild-hele-scherm-van-gebruiker-analyseren.html</link>
-            <description>Gebruikers van Copilot kunnen op Windows binnenkort hun hele desktop delen met de AI om op basis daarvan vragen te stellen. Copilot Vision kon dat eerst met bepaalde vensters, nu ook met het hele scherm.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Besturingssystemen</category>
-            <comments>https://tweakers.net/nieuws/237204/copilot-kan-in-betabuild-hele-scherm-van-gebruiker-analyseren.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237204</guid>
-            <pubDate>Wed, 16 Jul 2025 12:50:40 +0200</pubDate>
-        </item>
-        <item>
-            <title>Na tien jaar ontwikkelen zijn ASML&#039;s high-NA-euv-machines klaar voor de praktijk</title>
-            <link>https://tweakers.net/nieuws/237196/na-tien-jaar-ontwikkelen-zijn-asmls-high-na-euv-machines-klaar-voor-de-praktijk.html</link>
-            <description>ASML heeft zijn allereerste EXE:5200B-chipproductiemachine geleverd aan een klant. Dat is de eerste euv-machine met een hogere &#039;numerieke apertuur&#039; die geschikt is voor massaproductie. Deze &#039;high-NA&#039;-machines moeten het mogelijk maken om nóg kleinere transistors te printen.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / IT Pro / Wetenschap</category>
-            <comments>https://tweakers.net/nieuws/237196/na-tien-jaar-ontwikkelen-zijn-asmls-high-na-euv-machines-klaar-voor-de-praktijk.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237196</guid>
-            <pubDate>Wed, 16 Jul 2025 11:40:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Philips voegde slechts één 3d-printbaar reserveonderdeel toe aan collectie</title>
-            <link>https://tweakers.net/nieuws/237198/philips-voegde-slechts-een-3d-printbaar-reserveonderdeel-toe-aan-collectie.html</link>
-            <description>Philips heeft in de afgelopen maanden slechts één nieuw 3d-printbaar onderdeel toegevoegd aan zijn Fixables-collectie. Het bedrijf zei in mei dat het 3d-modellen voor onderdelen van apparaten wilde aanbieden, maar heeft die collectie vooralsnog niet ver uitgebreid.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Grafisch ontwerp en 3d visualisatie</category>
-            <comments>https://tweakers.net/nieuws/237198/philips-voegde-slechts-een-3d-printbaar-reserveonderdeel-toe-aan-collectie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237198</guid>
-            <pubDate>Wed, 16 Jul 2025 11:18:48 +0200</pubDate>
         </item>
     </channel>
 </rss>
