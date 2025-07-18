@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 18 Jul 2025 09:31:00 +0200</pubDate>
-        <lastBuildDate>Fri, 18 Jul 2025 09:31:00 +0200</lastBuildDate>
+        <pubDate>Fri, 18 Jul 2025 10:36:07 +0200</pubDate>
+        <lastBuildDate>Fri, 18 Jul 2025 10:36:07 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Firefly III 6.2.21</title>
+            <link>https://tweakers.net/downloads/73342/firefly-iii-6221.html</link>
+            <description>Firefly III is een in PHP geschreven webapplicatie waarmee een overzicht van je financiën kan worden bijgehouden. Het kan de data importeren vanuit csv-bestanden, de bunq-api of de Spectre-api. Voor meer informatie over dit programma verwijzen we naar deze pagina. De ontwikkelaar loopt ook op Tweakers rond en bespreekt zijn applicatie in het grote &#039;Firefly III&#039;-topic. Sinds versie 6.2.19 zijn de volgende veranderingen en verbeteringen aangebracht:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73342/firefly-iii-6221.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73342</guid>
+            <pubDate>Fri, 18 Jul 2025 10:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Newcom: aantal Nederlandse gebruikers Signal in halfjaar tijd verdubbeld</title>
+            <link>https://tweakers.net/nieuws/237272/newcom-aantal-nederlandse-gebruikers-signal-in-halfjaar-tijd-verdubbeld.html</link>
+            <description>Het aantal Nederlandse gebruikers van Signal is in het afgelopen halfjaar verdubbeld, blijkt uit onderzoek van Newcom. De chatapp heeft nu afgerond 1,8 miljoen gebruikers in Nederland, tegenover 900.000 aan het begin van dit jaar.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Marktontwikkelingen</category>
+            <comments>https://tweakers.net/nieuws/237272/newcom-aantal-nederlandse-gebruikers-signal-in-halfjaar-tijd-verdubbeld.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237272</guid>
+            <pubDate>Fri, 18 Jul 2025 09:37:58 +0200</pubDate>
+        </item>
         <item>
             <title>WeTransfer: technische beperkingen bij e-mailen nieuwe voorwaarden aan klanten</title>
             <link>https://tweakers.net/nieuws/237258/wetransfer-technische-beperkingen-bij-e-mailen-nieuwe-voorwaarden-aan-klanten.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/237216/juristen-zijn-sceptisch-over-hoe-wetransfer-zijn-voorwaarden-wijzigde.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237216</guid>
             <pubDate>Wed, 16 Jul 2025 17:56:17 +0200</pubDate>
-        </item>
-        <item>
-            <title>Bewoners Zandvoort melden wegafsluiting Google Maps vanwege overlast bezoekers</title>
-            <link>https://tweakers.net/nieuws/237224/bewoners-zandvoort-melden-wegafsluiting-google-maps-vanwege-overlast-bezoekers.html</link>
-            <description>Bewoners van de Parkbuurt in de Nederlandse badplaats Zandvoort melden niet-bestaande wegafsluitingen aan Google Maps. Op die manier komen bezoekers niet langer door de wijk heen. Zo hopen ze de overlast van bezoekende auto&#039;s te verminderen.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / IT Pro / Internet</category>
-            <comments>https://tweakers.net/nieuws/237224/bewoners-zandvoort-melden-wegafsluiting-google-maps-vanwege-overlast-bezoekers.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237224</guid>
-            <pubDate>Wed, 16 Jul 2025 17:27:34 +0200</pubDate>
-        </item>
-        <item>
-            <title>Analogue 3D-console die Nintendo 64-games in 4k speelt komt eind augustus uit</title>
-            <link>https://tweakers.net/nieuws/237222/analogue-3d-console-die-nintendo-64-games-in-4k-speelt-komt-eind-augustus-uit.html</link>
-            <description>Analogue brengt de Analogue 3D-console eind augustus uit. Dat is wederom later dan gepland. Het bedrijf zegt dat dat komt door Amerikaanse importheffingen, maar dat het de kosten van de console niet verhoogt.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Gaming / Consoles</category>
-            <comments>https://tweakers.net/nieuws/237222/analogue-3d-console-die-nintendo-64-games-in-4k-speelt-komt-eind-augustus-uit.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237222</guid>
-            <pubDate>Wed, 16 Jul 2025 16:36:58 +0200</pubDate>
         </item>
     </channel>
 </rss>
