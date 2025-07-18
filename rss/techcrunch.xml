@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 18 Jul 2025 12:21:51 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Jul 2025 14:03:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Meta refuses to sign EU&#8217;s AI code of practice</title>
+		<link>https://techcrunch.com/2025/07/18/meta-refuses-to-sign-eus-ai-code-of-practice/</link>
+		
+		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
+		<pubDate>Fri, 18 Jul 2025 13:52:44 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[EU AI Act]]></category>
+		<category><![CDATA[european union]]></category>
+		<category><![CDATA[Meta]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3029081</guid>
+
+					<description><![CDATA[Meta will not sign the EU's new rules, calling the implementation "over-reach"]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Netflix starts using GenAI in its shows and films</title>
 		<link>https://techcrunch.com/2025/07/18/netflix-starts-using-genai-in-its-shows-and-films/</link>
 		
@@ -380,27 +398,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3028715</guid>
 
 					<description><![CDATA[Spotify is expanding access to audiobooks with two new plans, one of which offers access to family members. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>UAE&#8217;s deal to buy Nvidia AI chips reportedly on hold</title>
-		<link>https://techcrunch.com/2025/07/17/uaes-deal-to-buy-nvidia-ai-chips-reportedly-on-hold/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Thu, 17 Jul 2025 13:37:37 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[AI chips]]></category>
-		<category><![CDATA[artificial intelligence]]></category>
-		<category><![CDATA[Chip restrictions]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<category><![CDATA[semiconductors]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3028707</guid>
-
-					<description><![CDATA[The U.S. is reportedly holding up the deal due to concerns that AI chips could be smuggled to China from the UAE.]]></description>
 		
 		
 		

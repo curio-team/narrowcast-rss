@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 18 Jul 2025 15:41:02 +0200</pubDate>
-        <lastBuildDate>Fri, 18 Jul 2025 15:41:02 +0200</lastBuildDate>
+        <pubDate>Fri, 18 Jul 2025 16:36:02 +0200</pubDate>
+        <lastBuildDate>Fri, 18 Jul 2025 16:36:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,12 +18,32 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
-            <title>NPO Start biedt 1080p-livestreams gratis aan, niet langer alleen voor abonnees</title>
-            <link>https://tweakers.net/nieuws/237286/npo-start-biedt-1080p-livestreams-gratis-aan-niet-langer-alleen-voor-abonnees.html</link>
-            <description>Gebruikers van NPO Start kunnen livestreams van de zenders van de Nederlandse Publieke Omroep in full-hd-resolutie kijken zonder betaald abonnement, melden verschillende tweakers op het forum. Eerder was live-tv in 1080p alleen te bekijken door betalende gebruikers.</description>
+            <title>Viaplay verliest 460.000 abonnees in belangrijke regio&#039;s</title>
+            <link>https://tweakers.net/nieuws/237288/viaplay-verliest-460000-abonnees-in-belangrijke-regios.html</link>
+            <description>Viaplay heeft in zijn belangrijkste regio&#039;s 460.000 abonnees minder dan vorig jaar. Het Zweedse mediabedrijf, dat in Nederland een streamingdienst en een tv-zender aanbiedt, heeft nu 4,25 miljoen abonnees in zijn &#039;coreregio&#039;s&#039;. Vorig jaar waren dat er 4,71 miljoen.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237288/viaplay-verliest-460000-abonnees-in-belangrijke-regios.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237288</guid>
+            <pubDate>Fri, 18 Jul 2025 16:31:12 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - openHAB 4.3.6</title>
+            <link>https://tweakers.net/downloads/73348/openhab-436.html</link>
+            <description>OpenHAB is domoticasoftware waarmee componenten uitgelezen en aangestuurd kunnen worden. Daarbij kun je denken aan lichtschakelaars, diverse sensors, ledlampen, beveiligingsapparatuur en tal van andere domoticahardware. Het kan door middel van zogenaamde bindings onder andere praten via Z-Wave, Nest en Zigbee, of producten van Ikea Trådfri, Xiaomi Smart Home en Philips Hue aansturen. Voor meer informatie verwijzen we naar deze pagina en voor gebruikerservaringen kun je ook op ons forum terecht in Het Grote openHAB-topic. De ontwikkelaars hebben openHAB 4.3.6 uitgebracht en hierin zijn de volgende veranderingen en verbeteringen aangebracht: Runtime</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73348/openhab-436.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73348</guid>
+            <pubDate>Fri, 18 Jul 2025 16:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>NPO Start biedt livestreams van NPO-zenders in full hd aan - update</title>
+            <link>https://tweakers.net/nieuws/237286/npo-start-biedt-livestreams-van-npo-zenders-in-full-hd-aan.html</link>
+            <description>NPO Start-gebruikers kunnen livestreams van de zenders van de Nederlandse Publieke Omroep in full-hd-resolutie kijken, bevestigt een woordvoerder na meldingen van tweakers op het forum. Eerder was de standaard resolutie 576p.</description>
             <author>Imre Himmelbauer</author>
             <category>Nieuws / Beeld en geluid / Televisies</category>
-            <comments>https://tweakers.net/nieuws/237286/npo-start-biedt-1080p-livestreams-gratis-aan-niet-langer-alleen-voor-abonnees.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/237286/npo-start-biedt-livestreams-van-npo-zenders-in-full-hd-aan.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237286</guid>
             <pubDate>Fri, 18 Jul 2025 15:30:39 +0200</pubDate>
         </item>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/geek/237212/tweakers-podcast-382-ikea-spullen-burgerinitiatieven-en-custom-roms.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/geek/237212</guid>
             <pubDate>Thu, 17 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google kondigt evenement aan op 20 augustus voor Pixel 10-presentatie</title>
-            <link>https://tweakers.net/nieuws/237232/google-kondigt-evenement-aan-op-20-augustus-voor-pixel-10-presentatie.html</link>
-            <description>Google heeft een evenement aangekondigd voor 20 augustus om zijn nieuwste portfolio van Pixel-producten te presenteren.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/237232/google-kondigt-evenement-aan-op-20-augustus-voor-pixel-10-presentatie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237232</guid>
-            <pubDate>Wed, 16 Jul 2025 21:20:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - ScreenToGif 2.41.4</title>
-            <link>https://tweakers.net/downloads/73324/screentogif-2414.html</link>
-            <description>Versie 2.41.4 van ScreenToGif is uitgekomen. Met deze opensourceapplicatie kunnen de handelingen op het scherm of de beelden van de webcam worden opgenomen. Het resultaat kan eventueel worden bewerkt met de ingebakken editor en vervolgens worden opgeslagen als gif, apng, video, afbeeldingen, ScreenToGif-projectbestanden of psd. Daarrmee kan het programma bijvoorbeeld goed worden gebruikt voor het maken van korte instructievideo&#039;s. De changelog voor deze uitgave kan hieronder worden gevonden. What&#039;s new?</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73324/screentogif-2414.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73324</guid>
-            <pubDate>Wed, 16 Jul 2025 20:57:25 +0200</pubDate>
         </item>
     </channel>
 </rss>
