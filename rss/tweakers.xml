@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 21 Jul 2025 10:41:01 +0200</pubDate>
-        <lastBuildDate>Mon, 21 Jul 2025 10:41:01 +0200</lastBuildDate>
+        <pubDate>Mon, 21 Jul 2025 11:36:01 +0200</pubDate>
+        <lastBuildDate>Mon, 21 Jul 2025 11:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>VK lijkt eis voor iCloud-achterdeur te schrappen na Amerikaanse druk</title>
+            <link>https://tweakers.net/nieuws/237332/vk-lijkt-eis-voor-icloud-achterdeur-te-schrappen-na-amerikaanse-druk.html</link>
+            <description>Het Verenigd Koninkrijk wil Apple naar verluidt niet langer verplichten om een achterdeur in iCloud te bouwen. Britse ambtenaren zeggen tegen The Financial Times dat deze eis mogelijk indruist tegen overeenkomsten die het VK met de VS heeft gesloten.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/237332/vk-lijkt-eis-voor-icloud-achterdeur-te-schrappen-na-amerikaanse-druk.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237332</guid>
+            <pubDate>Mon, 21 Jul 2025 11:04:37 +0200</pubDate>
+        </item>
         <item>
             <title>Microsoft brengt fix uit voor misbruikte kwetsbaarheden in SharePoint Server</title>
             <link>https://tweakers.net/nieuws/237330/microsoft-brengt-fix-uit-voor-misbruikte-kwetsbaarheden-in-sharepoint-server.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/237280/nieuwe-intel-core-ultra-cpus-voor-desktop-kunnen-geen-copilot+-draaien.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237280</guid>
             <pubDate>Fri, 18 Jul 2025 13:53:17 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Sigil 2.6.0</title>
-            <link>https://tweakers.net/downloads/73344/sigil-260.html</link>
-            <description>Versie 2.6.0 van Sigil is uitgekomen. Sigil is een opensource e-bookeditor met uitgebreide mogelijkheden die ontwikkeld wordt voor Windows, Linux en macOS. Het programma kan zowel EPUB- als HTML-bestanden importeren, inclusief opmaak en afbeeldingen. Er is volledige ondersteuning aanwezig voor EPUB 2 en EPUB 3. Het kan verder een inhoudsopgave met verscheidene niveaus genereren en de EPUB-syntax direct bewerken in de code view. De changelog voor deze uitgave kan hieronder worden gevonden. New Features</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73344/sigil-260.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73344</guid>
-            <pubDate>Fri, 18 Jul 2025 12:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
