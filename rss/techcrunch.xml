@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 21 Jul 2025 11:12:23 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 21 Jul 2025 13:24:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,61 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Dia launches a skill gallery, Perplexity to add tasks to Comet</title>
+		<link>https://techcrunch.com/2025/07/21/dia-launches-a-skill-gallery-perplexity-to-add-tasks-to-comet/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Mon, 21 Jul 2025 13:24:44 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Comet]]></category>
+		<category><![CDATA[Perplexity]]></category>
+		<category><![CDATA[The Browser Company]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3029451</guid>
+
+					<description><![CDATA[The Browser Company has launched an official repository of "skills" for its Dia browser —  shortcuts for prompts that are used frequently.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Indian crypto exchange CoinDCX confirms $44 million stolen during hack</title>
+		<link>https://techcrunch.com/2025/07/21/indian-crypto-exchange-coindcx-confirms-44-million-stolen-during-hack/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Mon, 21 Jul 2025 12:50:33 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[CoinDCX]]></category>
+		<category><![CDATA[crypto exchange]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3029461</guid>
+
+					<description><![CDATA[The crypto exchange, the largest in India, said it plans to absorb the costs of the breach.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New zero-day bug in Microsoft SharePoint under widespread attack</title>
+		<link>https://techcrunch.com/2025/07/21/new-zero-day-bug-in-microsoft-sharepoint-under-widespread-attack/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Mon, 21 Jul 2025 12:50:00 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[sharepoint]]></category>
+		<category><![CDATA[us government]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3029455</guid>
+
+					<description><![CDATA[Security researchers say Microsoft customers should take immediate action to defend against the ongoing cyberattacks, and must assume they have already been compromised.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Former Tesla president discloses the secret to scaling a company</title>
 		<link>https://techcrunch.com/2025/07/20/former-tesla-president-discloses-the-secret-to-scaling-a-company/</link>
 		
@@ -349,61 +404,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3029181</guid>
 
 					<description><![CDATA[The US Attorney for the Southern District of New York unsealed an indictment against Christine Hunsicker, charging her with wire fraud, securities fraud, money laundering, aggravated identity theft, and lying to financial institutions.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SpaceX worker injury rates at Starbase outpace industry rivals</title>
-		<link>https://techcrunch.com/2025/07/18/spacex-worker-injury-rates-at-starbase-outpace-industry-rivals/</link>
-		
-		<dc:creator><![CDATA[Aria Alamalhodaei]]></dc:creator>
-		<pubDate>Fri, 18 Jul 2025 16:29:06 +0000</pubDate>
-				<category><![CDATA[Space]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[SpaceX]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[labor]]></category>
-		<category><![CDATA[OSHA]]></category>
-		<category><![CDATA[worker rights]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3029043</guid>
-
-					<description><![CDATA[SpaceX has been moving at a breakneck pace, and rapid progress comes at a cost. Worker injury rates at its Starbase facility are almost 6x higher than the average, data reveals. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>DuckDuckGo now lets you hide AI-generated images in search results</title>
-		<link>https://techcrunch.com/2025/07/18/duckduckgo-now-lets-you-hide-ai-generated-images-in-search-results/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Fri, 18 Jul 2025 16:23:54 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[ai slop]]></category>
-		<category><![CDATA[DuckDuckGo]]></category>
-		<category><![CDATA[images]]></category>
-		<category><![CDATA[Search]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3029125</guid>
-
-					<description><![CDATA[DuckDuckGo's new search feature comes as the internet is being flooded with AI-generated slop.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>With her app Smash, Kesha can be whoever she wants — even a tech CEO</title>
-		<link>https://techcrunch.com/2025/07/18/with-her-app-smash-kesha-can-be-whoever-she-wants-even-a-tech-ceo/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Fri, 18 Jul 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[kesha]]></category>
-		<category><![CDATA[Music]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3028778</guid>
-
-					<description><![CDATA[Kesha is building an app called Smash, which is a way for musicians to find one another, make music together, and establish clear, artist-friendly contracts among collaborators.]]></description>
 		
 		
 		

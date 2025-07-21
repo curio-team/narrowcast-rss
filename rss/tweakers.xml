@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 21 Jul 2025 14:41:01 +0200</pubDate>
-        <lastBuildDate>Mon, 21 Jul 2025 14:41:01 +0200</lastBuildDate>
+        <pubDate>Mon, 21 Jul 2025 15:41:01 +0200</pubDate>
+        <lastBuildDate>Mon, 21 Jul 2025 15:41:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Dit waren de beste +3-reacties van juni</title>
+            <link>https://tweakers.net/nieuws/237336/dit-waren-de-beste-+3-reacties-van-juni.html</link>
+            <description>De reacties zijn een van de waardevolste onderdelen van Tweakers. Regelmatig vind je daar interessante, diepgaande extra informatie van experts en gebruikers met praktijkervaring over een onderwerp. In dit artikel zetten we de beste reacties met een +3-moderatie van juni op een rij.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/237336/dit-waren-de-beste-+3-reacties-van-juni.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237336</guid>
+            <pubDate>Mon, 21 Jul 2025 15:15:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>WhatsApp test pwa-versie op Windows, &#039;geheugenverbruik stijgt met 30 procent&#039;</title>
+            <link>https://tweakers.net/nieuws/237342/whatsapp-test-pwa-versie-op-windows-geheugenverbruik-stijgt-met-30-procent.html</link>
+            <description>Meta lijkt de huidige native WhatsApp-app voor Windows te gaan vervangen door een progressive webapp gebaseerd op Chromium. Dat blijkt uit de nieuwste bètaversie van de chatdienst.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Computers / Desktop applications</category>
+            <comments>https://tweakers.net/nieuws/237342/whatsapp-test-pwa-versie-op-windows-geheugenverbruik-stijgt-met-30-procent.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237342</guid>
+            <pubDate>Mon, 21 Jul 2025 14:42:13 +0200</pubDate>
+        </item>
         <item>
             <title>Lutris voegt ondersteuning voor Steam-gezinnen toe</title>
             <link>https://tweakers.net/nieuws/237340/lutris-voegt-ondersteuning-voor-steam-gezinnen-toe.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/downloads/73350/calibre-87.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73350</guid>
             <pubDate>Fri, 18 Jul 2025 18:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Viaplay verliest 460.000 abonnees in belangrijke regio&#039;s</title>
-            <link>https://tweakers.net/nieuws/237288/viaplay-verliest-460000-abonnees-in-belangrijke-regios.html</link>
-            <description>Viaplay heeft in zijn belangrijkste regio&#039;s 460.000 abonnees minder dan vorig jaar. Het Zweedse mediabedrijf, dat in Nederland een streamingdienst en een tv-zender aanbiedt, heeft nu 4,25 miljoen abonnees in zijn &#039;coreregio&#039;s&#039;. Vorig jaar waren dat er 4,71 miljoen.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237288/viaplay-verliest-460000-abonnees-in-belangrijke-regios.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237288</guid>
-            <pubDate>Fri, 18 Jul 2025 16:31:12 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - openHAB 4.3.6</title>
-            <link>https://tweakers.net/downloads/73348/openhab-436.html</link>
-            <description>OpenHAB is domoticasoftware waarmee componenten uitgelezen en aangestuurd kunnen worden. Daarbij kun je denken aan lichtschakelaars, diverse sensors, ledlampen, beveiligingsapparatuur en tal van andere domoticahardware. Het kan door middel van zogenaamde bindings onder andere praten via Z-Wave, Nest en Zigbee, of producten van Ikea Trådfri, Xiaomi Smart Home en Philips Hue aansturen. Voor meer informatie verwijzen we naar deze pagina en voor gebruikerservaringen kun je ook op ons forum terecht in Het Grote openHAB-topic. De ontwikkelaars hebben openHAB 4.3.6 uitgebracht en hierin zijn de volgende veranderingen en verbeteringen aangebracht: Runtime</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73348/openhab-436.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73348</guid>
-            <pubDate>Fri, 18 Jul 2025 16:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
