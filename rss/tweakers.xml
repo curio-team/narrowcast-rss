@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 21 Jul 2025 11:36:01 +0200</pubDate>
-        <lastBuildDate>Mon, 21 Jul 2025 11:36:01 +0200</lastBuildDate>
+        <pubDate>Mon, 21 Jul 2025 12:36:01 +0200</pubDate>
+        <lastBuildDate>Mon, 21 Jul 2025 12:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Nvidia werkt aan CUDA-ondersteuning voor RISC-V-processors</title>
+            <link>https://tweakers.net/nieuws/237338/nvidia-werkt-aan-cuda-ondersteuning-voor-risc-v-processors.html</link>
+            <description>Nvidia gaat zijn CUDA-softwareplatform integreren in de processorarchitectuur RISC-V. Daardoor kunnen RISC-V-cpu&#039;s CUDA-systemen aansturen, net zoals onder andere x86- en Arm-processors momenteel al kunnen.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/237338/nvidia-werkt-aan-cuda-ondersteuning-voor-risc-v-processors.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237338</guid>
+            <pubDate>Mon, 21 Jul 2025 12:15:06 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nieuwe Japanese chipmaker Rapidus heeft eerste 2nm-prototypechips gemaakt</title>
+            <link>https://tweakers.net/nieuws/237334/nieuwe-japanese-chipmaker-rapidus-heeft-eerste-2nm-prototypechips-gemaakt.html</link>
+            <description>De Japanse chipfabrikant Rapidus heeft de eerste prototypewafers geproduceerd op zijn 2nm-procedé. Het bedrijf maakt nog niet bekend wat de yields precies zijn. Rapidus werd eind 2022 opgericht en wil in 2027 beginnen met de massaproductie van 2nm-chips.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237334/nieuwe-japanese-chipmaker-rapidus-heeft-eerste-2nm-prototypechips-gemaakt.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237334</guid>
+            <pubDate>Mon, 21 Jul 2025 12:08:50 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - ScreenToGif 2.41.5</title>
+            <link>https://tweakers.net/downloads/73370/screentogif-2415.html</link>
+            <description>Versie 2.41.5 van ScreenToGif is uitgekomen. Met deze opensourceapplicatie kunnen de handelingen op het scherm of de beelden van de webcam worden opgenomen. Het resultaat kan eventueel worden bewerkt met de ingebakken editor en vervolgens worden opgeslagen als GIF, APNG, video, afbeeldingen, ScreenToGif-projectbestanden of PSD. Daarrmee kan het programma bijvoorbeeld goed worden gebruikt voor het maken van korte instructievideo&#039;s. De changelog voor deze uitgave kan hieronder worden gevonden. What&#039;s new?</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73370/screentogif-2415.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73370</guid>
+            <pubDate>Mon, 21 Jul 2025 12:00:00 +0200</pubDate>
+        </item>
         <item>
             <title>VK lijkt eis voor iCloud-achterdeur te schrappen na Amerikaanse druk</title>
             <link>https://tweakers.net/nieuws/237332/vk-lijkt-eis-voor-icloud-achterdeur-te-schrappen-na-amerikaanse-druk.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/237286/npo-start-biedt-livestreams-van-npo-zenders-in-full-hd-aan.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237286</guid>
             <pubDate>Fri, 18 Jul 2025 15:30:39 +0200</pubDate>
-        </item>
-        <item>
-            <title>Spotify maakt abonnement op luisterboeken in Nederland en België beschikbaar</title>
-            <link>https://tweakers.net/nieuws/237282/spotify-maakt-abonnement-op-luisterboeken-in-nederland-en-belgie-beschikbaar.html</link>
-            <description>Spotify heeft zijn add-on Audiobooks+ beschikbaar gemaakt in onder meer Nederland en België. Daardoor kunnen gebruikers elke maand vijftien uur extra luisterboeken beluisteren. De dienst kost 8,99 euro per maand.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237282/spotify-maakt-abonnement-op-luisterboeken-in-nederland-en-belgie-beschikbaar.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237282</guid>
-            <pubDate>Fri, 18 Jul 2025 14:25:22 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Enpass 6.11.13</title>
-            <link>https://tweakers.net/downloads/73346/enpass-61113.html</link>
-            <description>Versie 6.11.13 van Enpass voor Windows is uitgekomen. Deze wachtwoordmanager is beschikbaar voor Windows, macOS, Linux, Android en iOS. Het programma stelt je in staat om eenvoudig bij websites in te loggen en je wachtwoorden te beheren. Zo kunnen nieuwe wachtwoorden worden gegenereerd en laat het programma weten of een wachtwoord zwak is, oud is of vaker wordt gebruikt. Data wordt versleuteld lokaal opgeslagen, maar synchroniseren via diensten als iCloud, Dropbox, Google Drive en OneDrive is ook mogelijk. Enpass is gratis te gebruiken op de desktop; voor gebruik op een mobiel apparaat of met verschillende gebruikers zal een abonnement afgesloten moeten worden. Ook is het mogelijk om een levenslange licentie aan te schaffen. Sinds versie 6.11.`10 zijn de volgende verbeteringen aangebracht:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73346/enpass-61113.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73346</guid>
-            <pubDate>Fri, 18 Jul 2025 14:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Nieuwe Intel Core Ultra-cpu&#039;s voor desktop kunnen geen Copilot+ draaien&#039;</title>
-            <link>https://tweakers.net/nieuws/237280/nieuwe-intel-core-ultra-cpus-voor-desktop-kunnen-geen-copilot+-draaien.html</link>
-            <description>De nieuwe Intel Core Ultra-cpu&#039;s voor desktops krijgen toch geen npu die krachtig genoeg is om Copilot+ te draaien, meldt de bekende Intel-leaker Jaykihn. Eerder werd gemeld dat de nieuwe processors een krachtigere npu zouden krijgen, maar dat is volgens Jaykihn onjuist.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / Computers / Processors</category>
-            <comments>https://tweakers.net/nieuws/237280/nieuwe-intel-core-ultra-cpus-voor-desktop-kunnen-geen-copilot+-draaien.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237280</guid>
-            <pubDate>Fri, 18 Jul 2025 13:53:17 +0200</pubDate>
         </item>
     </channel>
 </rss>
