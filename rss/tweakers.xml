@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 21 Jul 2025 16:36:00 +0200</pubDate>
-        <lastBuildDate>Mon, 21 Jul 2025 16:36:00 +0200</lastBuildDate>
+        <pubDate>Tue, 22 Jul 2025 09:31:01 +0200</pubDate>
+        <lastBuildDate>Tue, 22 Jul 2025 09:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,86 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Tixati 3.35</title>
+            <link>https://tweakers.net/downloads/73376/tixati-335.html</link>
+            <description>Versie 3.35 van Tixati is uitgekomen, als opvolger voor versie 3.33. Tixati is een uitgebreide en efficiënte bittorrentclient voor Windows en Linux met ondersteuning voor dht, magnetlinks en RSS-feeds. Het programma geeft uitgebreide informatie over alle aspecten van de download en het in- en uitgaande netwerkverkeer. Downloads zijn beschikbaar voor Windows en Linux en het programma toont geen advertenties. De changelog voor deze uitgave ziet er als volgt uit: Tixati version 3.35</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73376/tixati-335.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73376</guid>
+            <pubDate>Tue, 22 Jul 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>ChatGPT-gebruikers sturen dagelijks 2,5 miljard prompts</title>
+            <link>https://tweakers.net/nieuws/237360/chatgpt-gebruikers-sturen-dagelijks-2-komma-5-miljard-prompts.html</link>
+            <description>ChatGPT-gebruikers sturen dagelijks meer dan 2,5 miljard prompts. Dat blijkt uit data die Axios heeft bemachtigd en is bevestigd door OpenAI. De AI-chatbot zou wekelijks ruim 500 miljoen verschillende actieve gebruikers hebben.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/237360/chatgpt-gebruikers-sturen-dagelijks-2-komma-5-miljard-prompts.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237360</guid>
+            <pubDate>Tue, 22 Jul 2025 08:57:52 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - Hunter 3- en Night Hunter-behuizingen - Chieftec is op jacht naar groter</title>
+            <link>https://tweakers.net/reviews/13450/hunter-3-en-night-hunter-behuizingen-chieftec-is-op-jacht-naar-groter.html</link>
+            <description>Met de twee varianten van de Hunter-kasten heeft Chieftec zijn assortiment uitgebreid in het budgetsegment. Is het een behuizing die voldoet aan alle moderne eisen?</description>
+            <author>Willem de Moor</author>
+            <category>Review / Computers / Behuizingen</category>
+            <comments>https://tweakers.net/reviews/13450/hunter-3-en-night-hunter-behuizingen-chieftec-is-op-jacht-naar-groter.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13450</guid>
+            <pubDate>Tue, 22 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Usenet Explorer 7.5.2</title>
+            <link>https://tweakers.net/downloads/73374/usenet-explorer-752.html</link>
+            <description>Alex Birj heeft versie 7.5.2 van Usenet Explorer uitgebracht. Met dit programma kunnen bestanden van Usenet worden gedownload. Usenet Explorer kenmerkt zich onder meer door een laag processor- en geheugengebruik en uitgebreide mogelijkheden, wat het voor beginnende gebruikers misschien minder geschikt maakt. Sinds versie 7.5 zijn de volgende veranderingen en verbeteringen zijn doorgevoerd: Changes in version 7.5.2:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73374/usenet-explorer-752.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73374</guid>
+            <pubDate>Mon, 21 Jul 2025 21:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google toont teaser Pixel 10 met hetzelfde ontwerp als Pixel 9</title>
+            <link>https://tweakers.net/nieuws/237356/google-toont-teaser-pixel-10-met-hetzelfde-ontwerp-als-pixel-9.html</link>
+            <description>Google toont op zijn website de eerste teaser van de aankomende Pixel 10-smartphone. Het toestel ziet er vrijwel exact hetzelfde uit als de Pixel 9. Op 20 augustus houdt Google een presentatie. Dan wordt de smartphonereeks officieel aangekondigd.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/237356/google-toont-teaser-pixel-10-met-hetzelfde-ontwerp-als-pixel-9.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237356</guid>
+            <pubDate>Mon, 21 Jul 2025 19:45:29 +0200</pubDate>
+        </item>
+        <item>
+            <title>Microsoft werkt mogelijk aan makkelijker audio-output Windows 11 delen</title>
+            <link>https://tweakers.net/nieuws/237354/microsoft-werkt-mogelijk-aan-makkelijker-audio-output-windows-11-delen.html</link>
+            <description>Microsoft werkt mogelijk aan een eenvoudigere manier om audio in Windows 11 naar twee outputapparaten te sturen. De functie is in een Dev-build van Windows 11 gevonden en is vooralsnog niet ingeschakeld. Het is niet duidelijk wanneer Microsoft de optie eventueel uitbrengt.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Beeld en geluid / Audio</category>
+            <comments>https://tweakers.net/nieuws/237354/microsoft-werkt-mogelijk-aan-makkelijker-audio-output-windows-11-delen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237354</guid>
+            <pubDate>Mon, 21 Jul 2025 19:12:08 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - openHAB 5.0.0</title>
+            <link>https://tweakers.net/downloads/73372/openhab-500.html</link>
+            <description>OpenHAB is domoticasoftware waarmee componenten uitgelezen en aangestuurd kunnen worden. Daarbij kun je denken aan lichtschakelaars, diverse sensors, ledlampen, beveiligingsapparatuur en tal van andere domoticahardware. Het kan door middel van zogenaamde bindings onder andere praten via Z-Wave, Nest en Zigbee, of producten van Ikea Trådfri, Xiaomi Smart Home en Philips Hue aansturen. Voor meer informatie verwijzen we naar deze pagina en voor gebruikerservaringen kun je ook op ons forum terecht in Het Grote openHAB-topic. De ontwikkelaars hebben na een lange reeks van bèta&#039;s openHAB 5.0.0 uitgebracht en de releasenotes daarvan kunnen hieronder worden gevonden: New and Noteworthy</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73372/openhab-500.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73372</guid>
+            <pubDate>Mon, 21 Jul 2025 18:59:50 +0200</pubDate>
+        </item>
+        <item>
+            <title>Ubisoft-ceo reageert op initiatief Stop Killing Games: &#039;niets is voor eeuwig&#039;</title>
+            <link>https://tweakers.net/nieuws/237350/ubisoft-ceo-reageert-op-initiatief-stop-killing-games-niets-is-voor-eeuwig.html</link>
+            <description>De ceo van Ubisoft, Yves Guillemot, heeft tijdens een vergadering van aandeelhouders gereageerd op de eisen van het Stop Killing Games-initiatief. Volgens hem zijn games eindig maar werkt Ubisoft aan manieren om de &#039;impact op spelers te minimaliseren&#039;.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/237350/ubisoft-ceo-reageert-op-initiatief-stop-killing-games-niets-is-voor-eeuwig.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237350</guid>
+            <pubDate>Mon, 21 Jul 2025 17:50:51 +0200</pubDate>
+        </item>
         <item>
             <title>OM verwacht nog weken grotendeels offline te zijn door Citrix NetScaler-lek</title>
             <link>https://tweakers.net/nieuws/237346/om-verwacht-nog-weken-grotendeels-offline-te-zijn-door-citrix-netscaler-lek.html</link>
@@ -200,7 +280,7 @@
         <item>
             <title>Software-update - VMware Workstation Pro 17.6.4</title>
             <link>https://tweakers.net/downloads/73366/vmware-workstation-pro-1764.html</link>
-            <description>Broadcom heeft versie 17.6.4 van zijn virtualisatiesoftware Workstation Pro uitgebracht. Met dit programma is het mogelijk om een of meer virtuele computers aan te maken, waarop een groot aantal verschillende besturingssystemen kan worden geïnstalleerd. Op die manier kunnen ze naast elkaar worden gebruikt, in tegenstelling tot een dualbootopstelling, waarbij voor het ene of het andere OS moet worden gekozen. VMware Workstation is beschikbaar voor Windows en Linux, en sinds het in handen van Broadcom is gekomen is het voor iedereen gratis te gebruiken. Wel is een account nodig om het te kunnen downloaden. Nieuw in versie 17 is onder meer een virtuele TPM 2.0-module, wat ondersteuning voor Windows 11 en Windows Server 2022 en hoger mogelijk maakt. Ook kunnen virtuele machines nu automatisch starten wanneer de gastmachine start en is er ondersteuning voor OpenGL 4.3 en WDM 1.2. Versie 17.6.4 is een zogenaamde bugfixrelease waarin enkele beveiligingsproblemen en fouten zijn verholpen. VMware Workstation Pro 17.6.4 provides the following new capabilities:</description>
+            <description>Broadcom heeft versie 17.6.4 van zijn virtualisatiesoftware Workstation Pro uitgebracht. Met dit programma is het mogelijk om een of meer virtuele computers aan te maken, waarop een groot aantal verschillende besturingssystemen kan worden geïnstalleerd. Op die manier kunnen ze naast elkaar worden gebruikt, in tegenstelling tot een dualbootopstelling, waarbij voor het ene of het andere OS moet worden gekozen. VMware Workstation is beschikbaar voor Windows en Linux, en sinds het in handen van Broadcom is gekomen is het voor iedereen gratis te gebruiken. Wel is een account nodig om het te kunnen downloaden. Nieuw in versie 17 is onder meer een virtuele TPM 2.0-module, wat ondersteuning voor Windows 11 en Windows Server 2022 en hoger mogelijk maakt. Ook kunnen virtuele machines nu automatisch starten wanneer de hostmachine start en is er ondersteuning voor OpenGL 4.3 en WDM 1.2. Versie 17.6.4 is een zogenaamde bugfixrelease waarin enkele beveiligingsproblemen en fouten zijn verholpen. VMware Workstation Pro 17.6.4 provides the following new capabilities:</description>
             <author>Bart van Klaveren</author>
             <category>Software</category>
             <comments>https://tweakers.net/downloads/73366/vmware-workstation-pro-1764.html#reacties</comments>
@@ -336,86 +416,6 @@
             <comments>https://tweakers.net/nieuws/237300/gorilla-glass-maker-corning-krijgt-geen-eu-boete-om-beperken-van-concurrenten.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237300</guid>
             <pubDate>Sat, 19 Jul 2025 09:58:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - WinNc 11.3.0.0</title>
-            <link>https://tweakers.net/downloads/73354/winnc-11300.html</link>
-            <description>Dunes MultiMedia heeft versie 11.3.0.0 van bestandsbeheerprogramma WinNc uitgebracht. Dit programma is, zoals de naam al probeert aan te geven, een kloon van het aloude Norton Commander. Het kan worden gebruikt als alternatief voor Windows Verkenner en moet concurreren met programma&#039;s als Total Commander, Double Commander en Directory Opus. Een licentie kost normaal drie tientjes. De changelog voor deze uitgave ziet er als volgt uit: Changes in version 11.3.0.0:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73354/winnc-11300.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73354</guid>
-            <pubDate>Sat, 19 Jul 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Best Buy Guide - De beste 1080p-game-pc</title>
-            <link>https://tweakers.net/best-buy-guide/desktops/beste-1080p-game-pc</link>
-            <description>Met dit actuele advies voor een betaalbare game-pc kun je uitstekend gamen op 1080p-resolutie. Bekijk hier alle onderdelen en benchmarks.</description>
-            <author>Willem de Moor</author>
-            <category>Best Buy Guide / Computers / Pc&#039;s</category>
-            <comments>https://tweakers.net/best-buy-guide/desktops/beste-1080p-game-pc#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/best-buy-guide/desktops/beste-1080p-game-pc</guid>
-            <pubDate>Sat, 19 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Videoreview - De beste game-pc voor minder dan 1000 euro - 1080p-gaming in 2025</title>
-            <link>https://tweakers.net/video/20016/de-beste-game-pc-voor-minder-dan-1000-euro-1080p-gaming-in-2025.html</link>
-            <description>Wil je kunnen gamen op je pc, maar is je budget niet al te groot? Dan is ons instapsysteem om te kunnen spelen op 1080p een mooie optie. We hebben een systeem samengesteld op basis van de Radeon RX 9060 XT: dat kost je om en nabij de duizend euro.</description>
-            <author>Mark van der Kruit</author>
-            <category>Videoreview / Computers / Pc&#039;s</category>
-            <comments>https://tweakers.net/video/20016/de-beste-game-pc-voor-minder-dan-1000-euro-1080p-gaming-in-2025.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/video/20016</guid>
-            <pubDate>Sat, 19 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>DuckDuckGo introduceert filter om AI-afbeeldingen te verbergen</title>
-            <link>https://tweakers.net/nieuws/237298/duckduckgo-introduceert-filter-om-ai-afbeeldingen-te-verbergen.html</link>
-            <description>DuckDuckGo introduceert een nieuwe functie om door AI gegenereerde afbeeldingen uit de zoekresultaten te filteren. De functie gebruikt gecureerde datasets van onder meer uBlockOrigin om de AI-afbeeldingen uit de zoekresultaten te filteren.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/nieuws/237298/duckduckgo-introduceert-filter-om-ai-afbeeldingen-te-verbergen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237298</guid>
-            <pubDate>Fri, 18 Jul 2025 21:01:54 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft stopt per direct met verkoop en verhuur van films en tv-series</title>
-            <link>https://tweakers.net/nieuws/237296/microsoft-stopt-per-direct-met-verkoop-en-verhuur-van-films-en-tv-series.html</link>
-            <description>Microsoft stopt per direct met de verkoop en verhuur van films en tv-series. Het bedrijf verwijst klanten door naar andere &#039;transactionele diensten&#039;, zoals Amazon Prime Video en Apple TV. Het bedrijf zegt niets over de reden voor het stoppen van de dienst.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Computers / Besturingssystemen</category>
-            <comments>https://tweakers.net/nieuws/237296/microsoft-stopt-per-direct-met-verkoop-en-verhuur-van-films-en-tv-series.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237296</guid>
-            <pubDate>Fri, 18 Jul 2025 20:26:29 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - GlassWire 3.6.859</title>
-            <link>https://tweakers.net/downloads/73352/glasswire-36859.html</link>
-            <description>Versie 3.6.859 van GlassWire is uitgekomen. GlassWire is een programma dat in overzichtelijke grafieken inzicht geeft in het netwerkverkeer op de pc. Ook kan het waarschuwen wanneer er contact met bekende kwaadaardige domeinen wordt gemaakt of als er ongebruikelijke activiteiten plaatsvinden en deze eventueel blokkeren. Naast de gratis basisversie kan er ook een abonnement worden genomen op een Premium- of Business-versie, die extra mogelijkheden hebben, waaronder een firewall en het langer kunnen opslaan van historie. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 3.6.859:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73352/glasswire-36859.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73352</guid>
-            <pubDate>Fri, 18 Jul 2025 20:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>EU deelt richtlijnen voor gebruik van AI-modellen met &#039;systemisch risico&#039;</title>
-            <link>https://tweakers.net/nieuws/237292/eu-deelt-richtlijnen-voor-gebruik-van-ai-modellen-met-systemisch-risico.html</link>
-            <description>De Europese Commissie deelt richtlijnen voor aanbieders van generatieve-AI-modellen voor algemeen gebruik. Deze richtlijnen moeten bedrijven als OpenAI, Anthropic, Meta, Google en Microsoft helpen om vanaf 2 augustus 2025 aan de AI-verordening te voldoen.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/237292/eu-deelt-richtlijnen-voor-gebruik-van-ai-modellen-met-systemisch-risico.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237292</guid>
-            <pubDate>Fri, 18 Jul 2025 19:55:34 +0200</pubDate>
-        </item>
-        <item>
-            <title>Reuters: Clouddienst Amazon Web Services ontslaat honderden werknemers</title>
-            <link>https://tweakers.net/nieuws/237294/reuters-clouddienst-amazon-web-services-ontslaat-honderden-werknemers.html</link>
-            <description>Amazon Web Services bevestigt dat er medewerkers bij de clouddienstafdeling ontslagen worden. Volgens bronnen van Reuters gaat het om ten minste honderden werknemers. AWS is het meest winstgevende bedrijfsonderdeel van Amazon.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237294/reuters-clouddienst-amazon-web-services-ontslaat-honderden-werknemers.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237294</guid>
-            <pubDate>Fri, 18 Jul 2025 18:45:34 +0200</pubDate>
         </item>
     </channel>
 </rss>
