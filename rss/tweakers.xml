@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 22 Jul 2025 11:36:01 +0200</pubDate>
-        <lastBuildDate>Tue, 22 Jul 2025 11:36:01 +0200</lastBuildDate>
+        <pubDate>Tue, 22 Jul 2025 12:36:01 +0200</pubDate>
+        <lastBuildDate>Tue, 22 Jul 2025 12:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Gerucht: Motorola brengt de Moto 360-smartwatch dit jaar terug</title>
+            <link>https://tweakers.net/nieuws/237370/gerucht-motorola-brengt-de-moto-360-smartwatch-dit-jaar-terug.html</link>
+            <description>Motorola is mogelijk van plan om de Moto 360-smartwatch terug te brengen. Dat claimt Android Headlines, dat ook afbeeldingen van het aanstaande horloge online heeft gezet. De nieuwe Moto 360 zou dit jaar nog verschijnen.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Tablets en telefoons / Smartwatches</category>
+            <comments>https://tweakers.net/nieuws/237370/gerucht-motorola-brengt-de-moto-360-smartwatch-dit-jaar-terug.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237370</guid>
+            <pubDate>Tue, 22 Jul 2025 12:07:09 +0200</pubDate>
+        </item>
         <item>
             <title>Firmware-update - FRITZ!Box 7590 8.20</title>
             <link>https://tweakers.net/downloads/73378/fritzbox-7590-820.html</link>
@@ -50,7 +60,7 @@
         <item>
             <title>Software-update - Tixati 3.35</title>
             <link>https://tweakers.net/downloads/73376/tixati-335.html</link>
-            <description>Versie 3.35 van Tixati is uitgekomen, als opvolger voor versie 3.33. Tixati is een uitgebreide en efficiënte bittorrentclient voor Windows en Linux met ondersteuning voor dht, magnetlinks en RSS-feeds. Het programma geeft uitgebreide informatie over alle aspecten van de download en het in- en uitgaande netwerkverkeer. Downloads zijn beschikbaar voor Windows en Linux en het programma toont geen advertenties. De changelog voor deze uitgave ziet er als volgt uit: Tixati version 3.35</description>
+            <description>Versie 3.35 van Tixati is uitgekomen, als opvolger voor versie 3.34. Tixati is een uitgebreide en efficiënte bittorrentclient voor Windows en Linux met ondersteuning voor dht, magnetlinks en RSS-feeds. Het programma geeft uitgebreide informatie over alle aspecten van de download en het in- en uitgaande netwerkverkeer. Downloads zijn beschikbaar voor Windows en Linux en het programma toont geen advertenties. De changelog voor deze uitgave ziet er als volgt uit: Tixati version 3.35</description>
             <author>Bart van Klaveren</author>
             <category>Software</category>
             <comments>https://tweakers.net/downloads/73376/tixati-335.html#reacties</comments>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/downloads/73358/resolume-avenue-arena-723.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73358</guid>
             <pubDate>Sat, 19 Jul 2025 15:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Mark Zuckerberg schikt met Meta-aandeelhouders om schade door privacyinbreuken</title>
-            <link>https://tweakers.net/nieuws/237304/mark-zuckerberg-schikt-met-meta-aandeelhouders-om-schade-door-privacyinbreuken.html</link>
-            <description>Mark Zuckerberg en andere Meta-topmensen hebben een schikking getroffen met investeerders. Deze aandeelhouders hadden de Meta-top aangeklaagd vanwege de financiële schade die het bedrijf leed door privacyinbreuken. Een bedrag wordt niet genoemd.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/237304/mark-zuckerberg-schikt-met-meta-aandeelhouders-om-schade-door-privacyinbreuken.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237304</guid>
-            <pubDate>Sat, 19 Jul 2025 14:37:42 +0200</pubDate>
         </item>
     </channel>
 </rss>
