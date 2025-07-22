@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 22 Jul 2025 15:41:01 +0200</pubDate>
-        <lastBuildDate>Tue, 22 Jul 2025 15:41:01 +0200</lastBuildDate>
+        <pubDate>Tue, 22 Jul 2025 16:36:02 +0200</pubDate>
+        <lastBuildDate>Tue, 22 Jul 2025 16:36:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>AMD en Stability AI ontwikkelen Stable Diffusion-model dat lokaal draait op npu</title>
+            <link>https://tweakers.net/nieuws/237384/amd-en-stability-ai-ontwikkelen-stable-diffusion-model-dat-lokaal-draait-op-npu.html</link>
+            <description>AMD en Stability AI hebben samen een nieuw AI-model ontwikkeld dat beelden kan genereren. Het model is een variant op het bestaande SD 3.0 Medium-model, die specifiek is bedoeld om lokaal te draaien op laptops met een compatibele Ryzen AI-processor.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/237384/amd-en-stability-ai-ontwikkelen-stable-diffusion-model-dat-lokaal-draait-op-npu.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237384</guid>
+            <pubDate>Tue, 22 Jul 2025 16:30:44 +0200</pubDate>
+        </item>
         <item>
             <title>Studio achter Evil Dead-game werkt aan horrorspel op basis van Hellraiser</title>
             <link>https://tweakers.net/nieuws/237382/studio-achter-evil-dead-game-werkt-aan-horrorspel-op-basis-van-hellraiser.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/downloads/73364/roboform-978.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73364</guid>
             <pubDate>Sun, 20 Jul 2025 10:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Emulator felix86 ondersteunt voortaan enkele Steam-games op Linux met RISC-V</title>
-            <link>https://tweakers.net/nieuws/237312/emulator-felix86-ondersteunt-voortaan-enkele-steam-games-op-linux-met-risc-v.html</link>
-            <description>De emulator felix86 voor x86-64-apps op een Linux-systeem op basis van RISC-V ondersteunt voortaan enkele Steam-games, waaronder Crysis en The Witcher 2 en 3. Dankzij de emulatie van de Steam-client naar RISC-V worden in principe ook andere games met Steams drm ondersteund.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Computers / Besturingssystemen</category>
-            <comments>https://tweakers.net/nieuws/237312/emulator-felix86-ondersteunt-voortaan-enkele-steam-games-op-linux-met-risc-v.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237312</guid>
-            <pubDate>Sun, 20 Jul 2025 09:28:58 +0200</pubDate>
         </item>
     </channel>
 </rss>
