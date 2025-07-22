@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 22 Jul 2025 10:36:01 +0200</pubDate>
-        <lastBuildDate>Tue, 22 Jul 2025 10:36:01 +0200</lastBuildDate>
+        <pubDate>Tue, 22 Jul 2025 11:36:01 +0200</pubDate>
+        <lastBuildDate>Tue, 22 Jul 2025 11:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Firmware-update - FRITZ!Box 7590 8.20</title>
+            <link>https://tweakers.net/downloads/73378/fritzbox-7590-820.html</link>
+            <description>De AVM Fritz!Box 7590 is een vdsl2/adsl2+-modem, gigabitrouter, accesspoint tot en met 802.11ac en dect-basestation voor maximaal zes handsets in een. Verder beschikt het apparaat over twee USB 3.0-aansluitingen, waarmee een printer of externe opslagcapaciteit op het netwerk kan worden gedeeld. Terugkeren naar de oorspronkelijke firmware is altijd mogelijk; zorg dus voor een back-up. Bijwerken van de firmware kan vanuit de gebruikersinterface zelf, maar los downloaden kan ook. AVM heeft Fritz!OS 8.20 uitgebracht en hieronder is te vinden wat daar allemaal in veranderd is.</description>
+            <author>Bart van Klaveren</author>
+            <category>Firmware</category>
+            <comments>https://tweakers.net/downloads/73378/fritzbox-7590-820.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73378</guid>
+            <pubDate>Tue, 22 Jul 2025 11:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Uitgelekte Google Pixel 10-renders bevestigen derde camera in basismodel</title>
+            <link>https://tweakers.net/nieuws/237364/uitgelekte-google-pixel-10-renders-bevestigen-derde-camera-in-basismodel.html</link>
+            <description>Google lijkt de Pixel 10 te voorzien van een derde camerasensor aan de achterkant. Dat claimt Android Headlines, dat ook officiële renders van de smartphone heeft gepubliceerd. Momenteel hebben alleen de Pro-modellen een derde camera.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/237364/uitgelekte-google-pixel-10-renders-bevestigen-derde-camera-in-basismodel.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237364</guid>
+            <pubDate>Tue, 22 Jul 2025 10:37:21 +0200</pubDate>
+        </item>
         <item>
             <title>Kioxia introduceert grootste ssd tot nu toe met 246TB opslagruimte</title>
             <link>https://tweakers.net/nieuws/237362/kioxia-introduceert-grootste-ssd-tot-nu-toe-met-246tb-opslagruimte.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/237304/mark-zuckerberg-schikt-met-meta-aandeelhouders-om-schade-door-privacyinbreuken.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237304</guid>
             <pubDate>Sat, 19 Jul 2025 14:37:42 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - LibreOffice 25.2.5</title>
-            <link>https://tweakers.net/downloads/73356/libreoffice-2525.html</link>
-            <description>De Document Foundation heeft versie 25.2.5 van LibreOffice uitgebracht. Dit opensource officepakket wordt geleverd met tekstverwerker Writer, spreadsheetprogramma Calc, presentatieprogramma Impress, tekenprogramma Draw, databaseprogramma Base en Formula, een applicatie om wetenschappelijke notaties mee te maken. Uitgebreide informatie over de veranderingen in versie 25.2 kunnen op deze pagina worden gevonden. Versie 25.2.5 is een zogenaamde bugfixuitgave en kende twee releasecandidates, waarin in totaal 63 verbeteringen zijn aangebracht: Bugs fixed in LibreOffice 25.2.5 RC 1:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73356/libreoffice-2525.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73356</guid>
-            <pubDate>Sat, 19 Jul 2025 13:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Greenshot 1.3.292</title>
-            <link>https://tweakers.net/downloads/73308/greenshot-13292.html</link>
-            <description>Er is een nieuwe stabiele uitgave van Greenshot uitgekomen. Met dit opensourceprogramma voor Windows kunnen screenshots worden gemaakt. Na het maken van een screenshot krijg je de mogelijkheid om de afbeelding te bewerken, om zo bijvoorbeeld tekst of pijlen toe te voegen. De afbeelding kan worden opgeslagen als een bestand of direct worden geïmporteerd in een programma, of op het klembord of zelfs op een onlineopslagdienst worden gezet. De releasenotes voor deze uitgave zien er als volgt uit: Fixed Vulnerability Issue</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73308/greenshot-13292.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73308</guid>
-            <pubDate>Sat, 19 Jul 2025 11:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
