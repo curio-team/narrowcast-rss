@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 23 Jul 2025 10:36:01 +0200</pubDate>
-        <lastBuildDate>Wed, 23 Jul 2025 10:36:01 +0200</lastBuildDate>
+        <pubDate>Wed, 23 Jul 2025 11:36:01 +0200</pubDate>
+        <lastBuildDate>Wed, 23 Jul 2025 11:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - 1Password 8.11.2</title>
+            <link>https://tweakers.net/downloads/73388/1password-8112.html</link>
+            <description>Voor de veiligheid is het beter om voor ieder account een ander en sterk wachtwoord te gebruiken. Als een bepaalde dienst wachtwoorden laat uitlekken, zijn niet al je andere accounts met hetzelfde wachtwoord toegankelijk. Voor het bijhouden van al deze verschillende wachtwoorden zijn wachtwoordmanagers een uitkomst. 1Password is er hier een van en is beschikbaar als webapplicatie, als app op verschillende platforms en als extensie voor de meestgebruikte browsers. Het kan twee weken geprobeerd worden, waarna een licentie moet worden aangeschaft. Voor meer informatie over de mogelijkheden verwijzen we naar deze pagina. In versie 8.11.2 zijn de volgende verbeteringen en bugfixes doorgevoerd: 1Password for Windows 8.11.2</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73388/1password-8112.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73388</guid>
+            <pubDate>Wed, 23 Jul 2025 11:30:00 +0200</pubDate>
+        </item>
         <item>
             <title>Microsoft introduceert tool om makkelijk naar Windows 11-systeem te switchen</title>
             <link>https://tweakers.net/nieuws/237402/microsoft-introduceert-tool-om-makkelijk-naar-windows-11-systeem-te-switchen.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/237338/nvidia-werkt-aan-cuda-ondersteuning-voor-risc-v-processors.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237338</guid>
             <pubDate>Mon, 21 Jul 2025 12:15:06 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nieuwe Japanse chipmaker Rapidus heeft eerste 2nm-prototypechips gemaakt</title>
-            <link>https://tweakers.net/nieuws/237334/nieuwe-japanse-chipmaker-rapidus-heeft-eerste-2nm-prototypechips-gemaakt.html</link>
-            <description>De Japanse chipfabrikant Rapidus heeft de eerste prototypewafers geproduceerd op zijn 2nm-procedé. Het bedrijf maakt nog niet bekend wat de yields precies zijn. Rapidus werd eind 2022 opgericht en wil in 2027 beginnen met de massaproductie van 2nm-chips.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237334/nieuwe-japanse-chipmaker-rapidus-heeft-eerste-2nm-prototypechips-gemaakt.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237334</guid>
-            <pubDate>Mon, 21 Jul 2025 12:08:50 +0200</pubDate>
         </item>
     </channel>
 </rss>
