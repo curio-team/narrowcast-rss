@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 23 Jul 2025 14:41:01 +0200</pubDate>
-        <lastBuildDate>Wed, 23 Jul 2025 14:41:01 +0200</lastBuildDate>
+        <pubDate>Wed, 23 Jul 2025 15:41:01 +0200</pubDate>
+        <lastBuildDate>Wed, 23 Jul 2025 15:41:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Camtasia 2025.2.0</title>
+            <link>https://tweakers.net/downloads/73394/camtasia-202520.html</link>
+            <description>TechSmith heeft versie 2025.2.0 van Camtasia uitgebracht. Met dit programma, wat voor Windows en macOS beschikbaar is, kunnen op een eenvoudige manier video&#039;s voor onder meer trainingen en presentaties worden gemaakt. Het kan op aparte sporen de microfoon, de webcam, wat er op het beeldscherm gebeurt, het geluid dat op de computer wordt afgespeeld en de invoer van muis en toetsenbord opnemen. Dit alles kan vervolgens afzonderlijk worden bewerkt en verder kunnen er effecten aan worden toegevoegd om zo professionele video&#039;s te maken. Voor meer informatie verwijzen we naar deze pagina, waar alle mogelijkheden op een rijtje worden gezet. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Single Window Recording</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73394/camtasia-202520.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73394</guid>
+            <pubDate>Wed, 23 Jul 2025 15:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Apple zet AI-samenvattingen van nieuwsmeldingen weer aan in nieuwste iOS 26-bèta</title>
+            <link>https://tweakers.net/nieuws/237398/apple-zet-ai-samenvattingen-van-nieuwsmeldingen-weer-aan-in-nieuwste-ios-26-beta.html</link>
+            <description>Apple heeft de transparantie van meerdere menu&#039;s verhoogd in de vierde bèta van iOS 26. In de vorige bèta van het besturingssysteem verminderde het bedrijf juist de transparantie van veel menu&#039;s. Daarnaast staan AI-samenvattingen van nieuwsmeldingen weer aan.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/237398/apple-zet-ai-samenvattingen-van-nieuwsmeldingen-weer-aan-in-nieuwste-ios-26-beta.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237398</guid>
+            <pubDate>Wed, 23 Jul 2025 15:22:38 +0200</pubDate>
+        </item>
+        <item>
+            <title>Amazon voegt vanaf 26 augustus advertenties toe aan Prime Video</title>
+            <link>https://tweakers.net/nieuws/237410/amazon-voegt-vanaf-26-augustus-advertenties-toe-aan-prime-video.html</link>
+            <description>Amazon voegt vanaf 26 augustus &#039;in beperkte mate&#039; advertenties toe aan Prime Video, zo schrijft het bedrijf in een e-mail naar klanten. Amazon introduceert ook een advertentievrije optie. Die optie kost drie euro meer dan het abonnement met advertenties.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / Beeld en geluid / Televisies</category>
+            <comments>https://tweakers.net/nieuws/237410/amazon-voegt-vanaf-26-augustus-advertenties-toe-aan-prime-video.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237410</guid>
+            <pubDate>Wed, 23 Jul 2025 14:55:08 +0200</pubDate>
+        </item>
         <item>
             <title>Microsoft maakt omstreden Recall-functie beschikbaar voor Europese gebruikers</title>
             <link>https://tweakers.net/nieuws/237408/microsoft-maakt-omstreden-recall-functie-beschikbaar-voor-europese-gebruikers.html</link>
@@ -258,12 +288,12 @@
             <pubDate>Tue, 22 Jul 2025 14:11:55 +0200</pubDate>
         </item>
         <item>
-            <title>Achtergrond - Advertenties in streamingdiensten: niet leuk, maar het zorgt voor meer inkomsten</title>
-            <link>https://tweakers.net/reviews/13536/advertenties-in-streamingdiensten-niet-leuk-maar-het-zorgt-voor-meer-inkomsten.html</link>
+            <title>Achtergrond - Waarom Netflix en Prime Video liever willen dat je een abo met reclame neemt</title>
+            <link>https://tweakers.net/reviews/13536/waarom-netflix-en-prime-video-liever-willen-dat-je-een-abo-met-reclame-neemt.html</link>
             <description>Steeds meer streamingdiensten hebben of krijgen advertenties. Dat is vervelend voor klanten, maar levert veel geld op.</description>
             <author>Arnoud Wokke</author>
             <category>Achtergrond / Beeld en geluid / Televisies</category>
-            <comments>https://tweakers.net/reviews/13536/advertenties-in-streamingdiensten-niet-leuk-maar-het-zorgt-voor-meer-inkomsten.html#reacties</comments>
+            <comments>https://tweakers.net/reviews/13536/waarom-netflix-en-prime-video-liever-willen-dat-je-een-abo-met-reclame-neemt.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13536</guid>
             <pubDate>Tue, 22 Jul 2025 14:00:00 +0200</pubDate>
         </item>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/downloads/73372/openhab-500.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73372</guid>
             <pubDate>Mon, 21 Jul 2025 18:59:50 +0200</pubDate>
-        </item>
-        <item>
-            <title>Ubisoft-ceo reageert op initiatief Stop Killing Games: &#039;niets is voor eeuwig&#039;</title>
-            <link>https://tweakers.net/nieuws/237350/ubisoft-ceo-reageert-op-initiatief-stop-killing-games-niets-is-voor-eeuwig.html</link>
-            <description>De ceo van Ubisoft, Yves Guillemot, heeft tijdens een vergadering van aandeelhouders gereageerd op de eisen van het Stop Killing Games-initiatief. Volgens hem zijn games eindig maar werkt Ubisoft aan manieren om de &#039;impact op spelers te minimaliseren&#039;.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/237350/ubisoft-ceo-reageert-op-initiatief-stop-killing-games-niets-is-voor-eeuwig.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237350</guid>
-            <pubDate>Mon, 21 Jul 2025 17:50:51 +0200</pubDate>
-        </item>
-        <item>
-            <title>OM verwacht nog weken grotendeels offline te zijn door Citrix NetScaler-lek</title>
-            <link>https://tweakers.net/nieuws/237346/om-verwacht-nog-weken-grotendeels-offline-te-zijn-door-citrix-netscaler-lek.html</link>
-            <description>Het Openbaar Ministerie verwacht nog &#039;weken&#039; uit voorzorg afgesloten te zijn van het internet vanwege beveiligingsproblemen die vorige week werden ontdekt. Het OM gebruikt de software Citrix NetScaler, die een kritieke kwetsbaarheid bevat.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/237346/om-verwacht-nog-weken-grotendeels-offline-te-zijn-door-citrix-netscaler-lek.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237346</guid>
-            <pubDate>Mon, 21 Jul 2025 16:32:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>KPN past data en prijzen van roamingbundels aan voor achttien niet-EU-landen</title>
-            <link>https://tweakers.net/nieuws/237344/kpn-past-data-en-prijzen-van-roamingbundels-aan-voor-achttien-niet-eu-landen.html</link>
-            <description>KPN komt met nieuwe roamingbundels voor Thailand, Japan en Indonesië. Daarnaast heeft de provider de hoeveelheid data en prijzen van de bundels voor vijftien andere niet-EU-landen aangepast.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
-            <comments>https://tweakers.net/nieuws/237344/kpn-past-data-en-prijzen-van-roamingbundels-aan-voor-achttien-niet-eu-landen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237344</guid>
-            <pubDate>Mon, 21 Jul 2025 15:52:51 +0200</pubDate>
         </item>
     </channel>
 </rss>

@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 23 Jul 2025 12:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 23 Jul 2025 13:32:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,82 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Hundreds of organizations breached by SharePoint mass-hacks</title>
+		<link>https://techcrunch.com/2025/07/23/hundreds-of-organizations-breached-by-sharepoint-mass-hacks/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Wed, 23 Jul 2025 13:32:09 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[nuclear]]></category>
+		<category><![CDATA[sharepoint]]></category>
+		<category><![CDATA[us government]]></category>
+		<category><![CDATA[zero-day]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3030427</guid>
+
+					<description><![CDATA[One of the hacked organizations reportedly includes the U.S. agency responsible for maintaining the country's stockpile of nuclear weapons. China-backed hackers have been observed carrying out the hacks targeting SharePoint servers.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Eight months in, Swedish unicorn Lovable crosses the $100M ARR milestone</title>
+		<link>https://techcrunch.com/2025/07/23/eight-months-in-swedish-unicorn-lovable-crosses-the-100m-arr-milestone/</link>
+		
+		<dc:creator><![CDATA[Anna Heim]]></dc:creator>
+		<pubDate>Wed, 23 Jul 2025 13:08:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[centaurs]]></category>
+		<category><![CDATA[Lovable]]></category>
+		<category><![CDATA[unicorns]]></category>
+		<category><![CDATA[vibe coding]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3030412</guid>
+
+					<description><![CDATA[Less than a week after becoming Europe’s latest unicorn, Swedish vibe coding startup Lovable has now crossed the $100 million annual recurring revenue mark.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Uber is finally letting women riders in the US match with women drivers</title>
+		<link>https://techcrunch.com/2025/07/23/uber-is-finally-bringing-a-feature-to-the-u-s-that-lets-women-riders-match-with-women-drivers/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Wed, 23 Jul 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Saudi Arabia]]></category>
+		<category><![CDATA[Uber]]></category>
+		<category><![CDATA[ride-hailing]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3030379</guid>
+
+					<description><![CDATA[Uber will soon roll out its "women preference" feature in the U.S., starting with Detroit, Los Angeles, and San Francisco.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Proton&#8217;s new privacy-first AI assistant encrypts all chats, keeps no logs</title>
+		<link>https://techcrunch.com/2025/07/23/protons-new-privacy-first-ai-assistant-encrypts-all-chats-keeps-no-logs/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Wed, 23 Jul 2025 12:49:08 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[AI assistant]]></category>
+		<category><![CDATA[privacy]]></category>
+		<category><![CDATA[Proton]]></category>
+		<category><![CDATA[user data]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3030405</guid>
+
+					<description><![CDATA[Proton's new AI assistant Lumo promises to keep user data private with zero-access encryption, no logging, and an incognito mode.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Trump is set to unveil his AI roadmap: Here&#8217;s what to know</title>
 		<link>https://techcrunch.com/2025/07/23/trump-is-set-to-unveil-his-ai-roadmap-heres-what-to-know/</link>
 		
@@ -322,84 +398,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3029435</guid>
 
 					<description><![CDATA[Cloaked is releasing a new call guard feature to let an AI-powered bot chat to scammers on a user's behalf.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google, Microsoft say Chinese hackers are exploiting SharePoint zero-day</title>
-		<link>https://techcrunch.com/2025/07/22/google-microsoft-say-chinese-hackers-are-exploiting-sharepoint-zero-day/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Tue, 22 Jul 2025 14:45:08 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[cyberattacks]]></category>
-		<category><![CDATA[sharepoint]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3030001</guid>
-
-					<description><![CDATA[The tech giants have evidence that Chinese hackers are exploiting the new bug, but warned "multiple actors" are also hacking into affected SharePoint systems.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Onstage at TechCrunch Disrupt 2025: How AI is forcing late-stage startups to rewire GTM — or be left behind</title>
-		<link>https://techcrunch.com/2025/07/22/on-stage-at-techcrunch-disrupt-2025-how-ai-is-forcing-late-stage-startups-to-rewire-gtm-or-be-left-behind/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Tue, 22 Jul 2025 14:30:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[TechCrunch Disrupt]]></category>
-		<category><![CDATA[TechCrunch Disrupt 2025]]></category>
-		<category><![CDATA[Disrupt 2025]]></category>
-		<category><![CDATA[TC Event Promo]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3029386</guid>
-
-					<description><![CDATA[AI isn’t just disrupting products — it’s upending how companies sell, scale, and succeed. At TechCrunch Disrupt 2025, happening October 27-29 in San Francisco, we’re diving deep into how late-stage startups are navigating this shift.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>VSCO&#8217;s iPhone camera app is now available globally</title>
-		<link>https://techcrunch.com/2025/07/22/vscos-iphone-camera-app-is-now-available-globally/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Tue, 22 Jul 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[iOS]]></category>
-		<category><![CDATA[iPhone]]></category>
-		<category><![CDATA[photograpy]]></category>
-		<category><![CDATA[VSCO]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3029463</guid>
-
-					<description><![CDATA[Photo editing and sharing app VSCO is making its iOS camera app, Capture, available across the world, following a limited launch in June, when the app came to Ireland, Australia, and New Zealand.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>21-year-old MIT dropouts raise $32M at $300M valuation led by Insight</title>
-		<link>https://techcrunch.com/2025/07/22/21-year-old-mit-dropouts-raise-32m-at-300m-valuation-led-by-insight/</link>
-		
-		<dc:creator><![CDATA[Tage Kene-Okafor]]></dc:creator>
-		<pubDate>Tue, 22 Jul 2025 13:59:35 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[ai compliance]]></category>
-		<category><![CDATA[compliance]]></category>
-		<category><![CDATA[Delve]]></category>
-		<category><![CDATA[Insight Partners]]></category>
-		<category><![CDATA[Y Combinator]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3029757</guid>
-
-					<description><![CDATA[Karun Kaushik and Selin Kocalar weren’t planning to raise a Series A so soon for their startup Delve. But inbound interest started rolling in, and the startup recently closed a $32 million Series A at a $300 million valuation. ]]></description>
 		
 		
 		
