@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 23 Jul 2025 09:31:01 +0200</pubDate>
-        <lastBuildDate>Wed, 23 Jul 2025 09:31:01 +0200</lastBuildDate>
+        <pubDate>Wed, 23 Jul 2025 10:36:01 +0200</pubDate>
+        <lastBuildDate>Wed, 23 Jul 2025 10:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Microsoft introduceert tool om makkelijk naar Windows 11-systeem te switchen</title>
+            <link>https://tweakers.net/nieuws/237402/microsoft-introduceert-tool-om-makkelijk-naar-windows-11-systeem-te-switchen.html</link>
+            <description>Microsoft heeft een supporthandleiding gepubliceerd voor een tool waarmee gebruikers hun instellingen en bestanden naar een ander Windows-systeem kunnen overzetten. De tool zit al in Windows 11 24H2, maar is nog niet te gebruiken.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
+            <comments>https://tweakers.net/nieuws/237402/microsoft-introduceert-tool-om-makkelijk-naar-windows-11-systeem-te-switchen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237402</guid>
+            <pubDate>Wed, 23 Jul 2025 10:08:05 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - IPFire 2.29 - Core Update 196</title>
             <link>https://tweakers.net/downloads/73386/ipfire-229-core.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/237334/nieuwe-japanse-chipmaker-rapidus-heeft-eerste-2nm-prototypechips-gemaakt.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237334</guid>
             <pubDate>Mon, 21 Jul 2025 12:08:50 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - ScreenToGif 2.41.5</title>
-            <link>https://tweakers.net/downloads/73370/screentogif-2415.html</link>
-            <description>Versie 2.41.5 van ScreenToGif is uitgekomen. Met deze opensourceapplicatie kunnen de handelingen op het scherm of de beelden van de webcam worden opgenomen. Het resultaat kan eventueel worden bewerkt met de ingebakken editor en vervolgens worden opgeslagen als GIF, APNG, video, afbeeldingen, ScreenToGif-projectbestanden of PSD. Daarrmee kan het programma bijvoorbeeld goed worden gebruikt voor het maken van korte instructievideo&#039;s. De changelog voor deze uitgave kan hieronder worden gevonden. What&#039;s new?</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73370/screentogif-2415.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73370</guid>
-            <pubDate>Mon, 21 Jul 2025 12:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
