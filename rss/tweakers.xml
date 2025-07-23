@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 23 Jul 2025 12:36:01 +0200</pubDate>
-        <lastBuildDate>Wed, 23 Jul 2025 12:36:01 +0200</lastBuildDate>
+        <pubDate>Wed, 23 Jul 2025 13:31:01 +0200</pubDate>
+        <lastBuildDate>Wed, 23 Jul 2025 13:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Beyond Compare 5.1.1</title>
+            <link>https://tweakers.net/downloads/73390/beyond-compare-511.html</link>
+            <description>Scooter Software heeft versie 5.1.1 van Beyond Compare uitgebracht. Met dit zeer uitgebreide programma, dat beschikbaar is voor Windows, Linux en macOS, kunnen bestanden met elkaar worden vergeleken. Daarnaast is het mogelijk om complete mappen, FTP-locaties en archieven te vergelijken. Beyond Compare is beschikbaar in een standaard- en een pro-uitvoering, voor prijzen die beginnen bij 35 dollar. De onderlinge verschillen kunnen op deze pagina worden gevonden. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Notable Changes</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73390/beyond-compare-511.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73390</guid>
+            <pubDate>Wed, 23 Jul 2025 13:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Proton brengt privacyvriendelijke AI-chatbot Lumo uit</title>
+            <link>https://tweakers.net/nieuws/237406/proton-brengt-privacyvriendelijke-ai-chatbot-lumo-uit.html</link>
+            <description>Proton komt met een eigen AI-assistent, genaamd Lumo. De assistent wordt gebaseerd op opensource-llm&#039;s en is volgens het Zwitserse bedrijf privé. Er is een gratis versie van Lumo, hoewel er ook een betaalde Plus-variant komt met onbegrenst gebruik en andere voordelen.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/237406/proton-brengt-privacyvriendelijke-ai-chatbot-lumo-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237406</guid>
+            <pubDate>Wed, 23 Jul 2025 13:09:23 +0200</pubDate>
+        </item>
         <item>
             <title>&#039;MediaTek gaat 2nm-AI-chip ontwerpen voor Meta&#039;</title>
             <link>https://tweakers.net/nieuws/237404/mediatek-gaat-2nm-ai-chip-ontwerpen-voor-meta.html</link>
@@ -340,7 +360,7 @@
         <item>
             <title>Microsoft werkt mogelijk aan makkelijker audio-output Windows 11 delen</title>
             <link>https://tweakers.net/nieuws/237354/microsoft-werkt-mogelijk-aan-makkelijker-audio-output-windows-11-delen.html</link>
-            <description>Microsoft werkt mogelijk aan een eenvoudigere manier om audio in Windows 11 naar twee outputapparaten te sturen. De functie is in een Dev-build van Windows 11 gevonden en is vooralsnog niet ingeschakeld. Het is niet duidelijk wanneer Microsoft de optie eventueel uitbrengt.</description>
+            <description>Microsoft werkt mogelijk aan een eenvoudigere manier om audio in Windows 11 naar twee outputapparaten te sturen. De functie is in een devbuild van Windows 11 gevonden en is vooralsnog niet ingeschakeld. Het is niet duidelijk wanneer Microsoft de optie eventueel uitbrengt.</description>
             <author>Yannick Spinner</author>
             <category>Nieuws / Beeld en geluid / Audio</category>
             <comments>https://tweakers.net/nieuws/237354/microsoft-werkt-mogelijk-aan-makkelijker-audio-output-windows-11-delen.html#reacties</comments>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/237336/dit-waren-de-beste-+3-reacties-van-juni.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237336</guid>
             <pubDate>Mon, 21 Jul 2025 15:15:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>WhatsApp test pwa-versie op Windows, &#039;geheugenverbruik stijgt met 30 procent&#039;</title>
-            <link>https://tweakers.net/nieuws/237342/whatsapp-test-pwa-versie-op-windows-geheugenverbruik-stijgt-met-30-procent.html</link>
-            <description>Meta lijkt de huidige native WhatsApp-app voor Windows te gaan vervangen door een progressive webapp. Dat blijkt uit de nieuwste bètaversie van de chatdienst.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Computers / Desktop applications</category>
-            <comments>https://tweakers.net/nieuws/237342/whatsapp-test-pwa-versie-op-windows-geheugenverbruik-stijgt-met-30-procent.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237342</guid>
-            <pubDate>Mon, 21 Jul 2025 14:42:13 +0200</pubDate>
-        </item>
-        <item>
-            <title>Lutris voegt ondersteuning voor Steam-gezinnen toe</title>
-            <link>https://tweakers.net/nieuws/237340/lutris-voegt-ondersteuning-voor-steam-gezinnen-toe.html</link>
-            <description>Lutris voegt ondersteuning voor Steam-gezinnen toe. Met deze functie kunnen gebruikers hun games delen met maximaal vier andere familieleden. Valve maakte de functie op 11 september 2024 officieel beschikbaar op Steam.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Software development</category>
-            <comments>https://tweakers.net/nieuws/237340/lutris-voegt-ondersteuning-voor-steam-gezinnen-toe.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237340</guid>
-            <pubDate>Mon, 21 Jul 2025 13:08:39 +0200</pubDate>
         </item>
     </channel>
 </rss>
