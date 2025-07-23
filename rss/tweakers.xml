@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 22 Jul 2025 16:36:02 +0200</pubDate>
-        <lastBuildDate>Tue, 22 Jul 2025 16:36:02 +0200</lastBuildDate>
+        <pubDate>Wed, 23 Jul 2025 09:31:01 +0200</pubDate>
+        <lastBuildDate>Wed, 23 Jul 2025 09:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,146 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - IPFire 2.29 - Core Update 196</title>
+            <link>https://tweakers.net/downloads/73386/ipfire-229-core.html</link>
+            <description>IPFire is een opensourcefirewall voor i586-, x86_64- en Arm-systemen. Het bevat onder andere een intrusion detection/prevention system, deelt het netwerk op in zones, doet stateful packet inspection en biedt vpn-mogelijkheden. Voor meer informatie verwijzen we naar deze pagina. De ontwikkelaars hebben versie 2.29 Core Update 196 uitgebracht en de changelog daarvan kan hieronder worden gevonden: IPFire 2.29 - Core Update 196 released</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73386/ipfire-229-core.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73386</guid>
+            <pubDate>Wed, 23 Jul 2025 09:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Openbaar Ministerie bevestigt dat lek in Citrix NetScaler is misbruikt</title>
+            <link>https://tweakers.net/nieuws/237396/openbaar-ministerie-bevestigt-dat-lek-in-citrix-netscaler-is-misbruikt.html</link>
+            <description>Het Nederlandse Openbaar Ministerie is daadwerkelijk gehackt, blijkt uit een toelichting van directeur Informatievoorziening OM Hans Moonen, die in handen is van NRC. Het duurt mogelijk nog weken om het netwerk veilig te stellen en te achterhalen of en welke informatie gestolen is.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/237396/openbaar-ministerie-bevestigt-dat-lek-in-citrix-netscaler-is-misbruikt.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237396</guid>
+            <pubDate>Wed, 23 Jul 2025 08:49:24 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Mozilla Firefox 141.0</title>
+            <link>https://tweakers.net/downloads/73380/mozilla-firefox-1410.html</link>
+            <description>Mozilla heeft versie 141 van zijn webbrowser Firefox uitgebracht. In deze uitgave is onder meer de mogelijkheid toegevoegd om tabbladen automatisch te organiseren met behulp van een lokaal AI, kunnen waarden voor onder meer gewicht, lengte en temperatuur in de adresbalk worden geconverteerd en gebruikt de Linux-versie minder geheugen en heeft deze ook geen herstart meer nodig na een update. De complete changelog voor deze uitgave kan hieronder worden gevonden. New</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73380/mozilla-firefox-1410.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73380</guid>
+            <pubDate>Wed, 23 Jul 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - ASUS NUC 15 Pro en NUC 15 Pro+ - Heethoofden met nieuwe cpu&#039;s en garantie</title>
+            <link>https://tweakers.net/reviews/13408/asus-nuc-15-pro-en-nuc-15-pro+-heethoofden-met-nieuwe-cpus-en-garantie.html</link>
+            <description>Bij de nieuwe NUC Pro 15 durft ASUS steeds meer te veranderen aan het NUC-concept. Zo is er nu de grotere Pro+ met aluminium behuizing en koeling met betere specificaties.</description>
+            <author>Tomas Hochstenbach</author>
+            <category>Review / Computers / Barebones</category>
+            <comments>https://tweakers.net/reviews/13408/asus-nuc-15-pro-en-nuc-15-pro+-heethoofden-met-nieuwe-cpus-en-garantie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13408</guid>
+            <pubDate>Wed, 23 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Videoreview - De helderste miniled is verrassend betaalbaar - TCL C8K</title>
+            <link>https://tweakers.net/video/20018/de-helderste-miniled-is-verrassend-betaalbaar-tcl-c8k.html</link>
+            <description>De TCL C8K is een van de indrukwekkendste hdr-televisies van het moment, met piekhelderheden die zelfs in de zeer nauwkeurige Filmmaker-modus bijna de 3500cd/m² aantikken. Verder heeft deze tv een redelijk ontspiegeld, contrastrijk paneel met voor miniledbegrippen prima kijkhoeken.</description>
+            <author>Mark van der Kruit</author>
+            <category>Videoreview / Beeld en geluid / Televisies</category>
+            <comments>https://tweakers.net/video/20018/de-helderste-miniled-is-verrassend-betaalbaar-tcl-c8k.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/video/20018</guid>
+            <pubDate>Wed, 23 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - OPNsense 25.1.12</title>
+            <link>https://tweakers.net/downloads/73382/opnsense-25112.html</link>
+            <description>Het pakket OPNsense is een firewall met uitgebreide mogelijkheden. Het is gebaseerd op het besturingssysteem FreeBSD en is oorspronkelijk een fork van m0n0wall en pfSense. Het pakket kan volledig via een webinterface worden ingesteld en heeft onder andere ondersteuning voor mfa, OpenVPN, IPsec, CARP en captive portal. Daarnaast kan het packetfiltering toepassen en beschikt het over een traffic shaper. De ontwikkelaars achter OPNsense hebben ondanks dat versie 25.1.11 de laatste uitgave uit de 25.1-reeks zou zijn toch nog een update uitgebracht en de releasenotes voor die uitgave kunnen hieronder worden gevonden. OPNsense 25.1.12 released</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73382/opnsense-25112.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73382</guid>
+            <pubDate>Tue, 22 Jul 2025 22:15:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Driver-update - GeForce Game Ready Driver 577.00 WHQL</title>
+            <link>https://tweakers.net/downloads/73384/geforce-game-ready-driver-57700-whql.html</link>
+            <description>Nvidia heeft nieuwe stabiele GeForce-drivers uitgebracht. De drivers dragen versienummer 577.00 en zijn voorzien van een Windows Hardware Quality Labs-certificaat. Ze zijn geschikt voor Windows 10 en hoger, en kunnen worden gebruikt op kaarten gebaseerd op de Maxwell-architectuur of nieuwer. Deze uitgave voegt onder meer ondersteuning toe voor de GeForce RTX 5050 en bevat verbeteringen voor het spel Wuchang: Fallen Feathers en de Unreal 5-update voor Valorant. Ook zijn er weer de nodige problemen verholpen. De changelog voor deze uitgave kan hieronder worden gevonden: Game Ready</description>
+            <author>Bart van Klaveren</author>
+            <category>Driver</category>
+            <comments>https://tweakers.net/downloads/73384/geforce-game-ready-driver-57700-whql.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73384</guid>
+            <pubDate>Tue, 22 Jul 2025 21:09:26 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gerucht: Europese Commissie gaat akkoord met Apple-wijzigingen aan App Store</title>
+            <link>https://tweakers.net/nieuws/237394/gerucht-europese-commissie-gaat-akkoord-met-apple-wijzigingen-aan-app-store.html</link>
+            <description>De Europese Commissie zou ergens in de komende weken akkoord gaan met de wijzigingen die Apple eind juni heeft doorgevoerd in de App Store. Daarmee voorkomt Apple een boete voor zijn handelspraktijken in de eigen downloadwinkel.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/237394/gerucht-europese-commissie-gaat-akkoord-met-apple-wijzigingen-aan-app-store.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237394</guid>
+            <pubDate>Tue, 22 Jul 2025 20:57:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Microsoft: drie Chinese hackersgroepen misbruiken SharePoint-kwetsbaarheid</title>
+            <link>https://tweakers.net/nieuws/237390/microsoft-drie-chinese-hackersgroepen-misbruiken-sharepoint-kwetsbaarheid.html</link>
+            <description>Drie Chinese hackersgroepen misbruiken de onlangs gevonden kwetsbaarheid in SharePoint Server. Dat heeft Microsoft bekendgemaakt. Twee daarvan linkt het bedrijf aan de Chinese staat. Door het lek kunnen kwaadwillenden schadelijke code uitvoeren op servers bij organisaties.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Computers / Programming</category>
+            <comments>https://tweakers.net/nieuws/237390/microsoft-drie-chinese-hackersgroepen-misbruiken-sharepoint-kwetsbaarheid.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237390</guid>
+            <pubDate>Tue, 22 Jul 2025 20:23:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>EA kondigt Battlefield 6 donderdag aan</title>
+            <link>https://tweakers.net/nieuws/237392/ea-kondigt-battlefield-6-donderdag-aan.html</link>
+            <description>EA gaat Battlefield 6 donderdag aankondigen. Dat heeft het bedrijf bekendgemaakt. EA laat donderdag een trailer van de game zien. Battlefield 6 verschijnt in de eerste maanden van volgend jaar.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/237392/ea-kondigt-battlefield-6-donderdag-aan.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237392</guid>
+            <pubDate>Tue, 22 Jul 2025 19:30:26 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Apple maakt AI-modellen niet opensource om prestaties van lokale model&#039;</title>
+            <link>https://tweakers.net/nieuws/237388/apple-maakt-ai-modellen-niet-opensource-om-prestaties-van-lokale-model.html</link>
+            <description>Apple maakt zijn AI-modellen niet opensource, omdat het publiek dan zou denken dat Apple te veel compromissen sluit om AI lokaal op iPhones te draaien. Er zit een groot verschil in prestaties tussen de kleine modellen op telefoons en de grotere modellen op servers.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237388/apple-maakt-ai-modellen-niet-opensource-om-prestaties-van-lokale-model.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237388</guid>
+            <pubDate>Tue, 22 Jul 2025 19:09:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nederlandse telecomsector: Defensie, kijk uit met jammen en spoofen van 5G</title>
+            <link>https://tweakers.net/nieuws/237386/nederlandse-telecomsector-defensie-kijk-uit-met-jammen-en-spoofen-van-5g.html</link>
+            <description>De Nederlandse brancheorganisatie voor telecom, NLconnect, roept Defensie op om voorzichtig te zijn en te overleggen bij het oefenen met jammen en spoofen op frequenties die voor bijvoorbeeld 5G in gebruik zijn. Onder een nieuwe wet mag Defensie dat in vredestijd doen om te oefenen.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/237386/nederlandse-telecomsector-defensie-kijk-uit-met-jammen-en-spoofen-van-5g.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237386</guid>
+            <pubDate>Tue, 22 Jul 2025 18:28:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Netflix gebruikt video-AI en Disney zou het ook hebben getest</title>
+            <link>https://tweakers.net/nieuws/237378/netflix-gebruikt-video-ai-en-disney-zou-het-ook-hebben-getest.html</link>
+            <description>Disney zou een video-AI-tool hebben getest van Runway, bijvoorbeeld voor het maken van special effects in films en series. Netflix zei vorige week dat het AI heeft gebruikt in een Argentijnse serie.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Beeld en geluid / Televisies</category>
+            <comments>https://tweakers.net/nieuws/237378/netflix-gebruikt-video-ai-en-disney-zou-het-ook-hebben-getest.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237378</guid>
+            <pubDate>Tue, 22 Jul 2025 17:50:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Firefox 141 krijgt suggesties voor toevoegen tabbladen aan groepen</title>
+            <link>https://tweakers.net/nieuws/237372/firefox-141-krijgt-suggesties-voor-toevoegen-tabbladen-aan-groepen.html</link>
+            <description>Mozilla heeft Firefox 141 een functie meegegeven om suggesties te doen in welke tabbladgroep een bepaald tabblad moet. Daarvoor kijkt de software naar onder meer de titel, beschrijving en de URL. Dat gebeurt lokaal.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Computers / Browsers</category>
+            <comments>https://tweakers.net/nieuws/237372/firefox-141-krijgt-suggesties-voor-toevoegen-tabbladen-aan-groepen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237372</guid>
+            <pubDate>Tue, 22 Jul 2025 17:08:49 +0200</pubDate>
+        </item>
         <item>
             <title>AMD en Stability AI ontwikkelen Stable Diffusion-model dat lokaal draait op npu</title>
             <link>https://tweakers.net/nieuws/237384/amd-en-stability-ai-ontwikkelen-stable-diffusion-model-dat-lokaal-draait-op-npu.html</link>
@@ -88,9 +228,9 @@
             <pubDate>Tue, 22 Jul 2025 12:07:09 +0200</pubDate>
         </item>
         <item>
-            <title>Firmware-update - FRITZ!Box 7590 8.20</title>
+            <title>Firmware-update - FritzBox 7590 8.20</title>
             <link>https://tweakers.net/downloads/73378/fritzbox-7590-820.html</link>
-            <description>De AVM Fritz!Box 7590 is een vdsl2/adsl2+-modem, gigabitrouter, accesspoint tot en met 802.11ac en dect-basestation voor maximaal zes handsets in een. Verder beschikt het apparaat over twee USB 3.0-aansluitingen, waarmee een printer of externe opslagcapaciteit op het netwerk kan worden gedeeld. Terugkeren naar de oorspronkelijke firmware is altijd mogelijk; zorg dus voor een back-up. Bijwerken van de firmware kan vanuit de gebruikersinterface zelf, maar los downloaden kan ook. AVM heeft Fritz!OS 8.20 uitgebracht en hieronder is te vinden wat daar allemaal in veranderd is.</description>
+            <description>De AVM FritzBox 7590 is een VDSL2/ADSL2+-modem, gigabitrouter, accesspoint tot en met 802.11ac en DECT-basestation voor maximaal zes handsets ineen. Verder beschikt het apparaat over twee USB 3.0-aansluitingen, waarmee een printer of externe opslagcapaciteit op het netwerk kan worden gedeeld. Terugkeren naar de oorspronkelijke firmware is altijd mogelijk; zorg dus voor een back-up. Bijwerken van de firmware kan vanuit de gebruikersinterface zelf, maar los downloaden kan ook. AVM heeft FritzOS 8.20 uitgebracht en hieronder is te vinden wat daar allemaal in veranderd is.</description>
             <author>Bart van Klaveren</author>
             <category>Firmware</category>
             <comments>https://tweakers.net/downloads/73378/fritzbox-7590-820.html#reacties</comments>
@@ -276,146 +416,6 @@
             <comments>https://tweakers.net/downloads/73370/screentogif-2415.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73370</guid>
             <pubDate>Mon, 21 Jul 2025 12:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>VK lijkt eis voor iCloud-achterdeur te schrappen na Amerikaanse druk</title>
-            <link>https://tweakers.net/nieuws/237332/vk-lijkt-eis-voor-icloud-achterdeur-te-schrappen-na-amerikaanse-druk.html</link>
-            <description>Het Verenigd Koninkrijk wil Apple naar verluidt niet langer verplichten om een achterdeur in iCloud te bouwen. Britse ambtenaren zeggen tegen The Financial Times dat deze eis mogelijk indruist tegen overeenkomsten die het VK met de VS heeft gesloten.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/237332/vk-lijkt-eis-voor-icloud-achterdeur-te-schrappen-na-amerikaanse-druk.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237332</guid>
-            <pubDate>Mon, 21 Jul 2025 11:04:37 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft brengt fix uit voor misbruikte kwetsbaarheden in SharePoint Server</title>
-            <link>https://tweakers.net/nieuws/237330/microsoft-brengt-fix-uit-voor-misbruikte-kwetsbaarheden-in-sharepoint-server.html</link>
-            <description>Microsoft heeft fixes uitgebracht voor twee actief misbruikte kwetsbaarheden in zijn SharePoint Server. Daardoor kunnen kwaadwillenden schadelijke code uitvoeren op fysieke servers bij organisaties.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Computers / Servers</category>
-            <comments>https://tweakers.net/nieuws/237330/microsoft-brengt-fix-uit-voor-misbruikte-kwetsbaarheden-in-sharepoint-server.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237330</guid>
-            <pubDate>Mon, 21 Jul 2025 10:12:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - DBeaver 25.1.3</title>
-            <link>https://tweakers.net/downloads/73368/dbeaver-2513.html</link>
-            <description>Versie 25.1.3 van DBeaver is uitgekomen. Met dit programma kunnen databases worden beheerd. Het kan onder andere query&#039;s uitvoeren en data tonen, filteren en bewerken. Er is ondersteuning aanwezig voor de bekende databases, zoals MySQL, Oracle, DB2, SQL Server, PostgreSQL, Firebird en SQLite. Het is verkrijgbaar in een opensource CE-uitvoering en drie verschillende commerciële uitvoeringen. Deze voegen onder meer ondersteuning voor verschillende nosql-databases toe, zoals MongoDB, Apache Cassandra en Apache Hive, en bevatten verder extra plug-ins en JDBC-drivers. De changelog voor deze uitgave ziet er als volgt uit: Changes in DBeaver version 25.1.3:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73368/dbeaver-2513.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73368</guid>
-            <pubDate>Mon, 21 Jul 2025 09:49:36 +0200</pubDate>
-        </item>
-        <item>
-            <title>Bloomberg: Apples iPad Pro met M5-chip krijgt twee frontcamera&#039;s</title>
-            <link>https://tweakers.net/nieuws/237324/bloomberg-apples-ipad-pro-met-m5-chip-krijgt-twee-frontcameras.html</link>
-            <description>De aankomende iPad Pro met M5-chip krijgt twee camera&#039;s aan de voorzijde. Dat schrijft Mark Gurman van persbureau Bloomberg op basis van gesprekken met ingewijden. Het moet daardoor makkelijker worden om de camera te gebruiken in zowel de verticale als horizontale stand.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Tablets en telefoons / Tablets</category>
-            <comments>https://tweakers.net/nieuws/237324/bloomberg-apples-ipad-pro-met-m5-chip-krijgt-twee-frontcameras.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237324</guid>
-            <pubDate>Mon, 21 Jul 2025 08:54:25 +0200</pubDate>
-        </item>
-        <item>
-            <title>Eerste versie Debian met RISC-V-ondersteuning komt binnen drie weken uit</title>
-            <link>https://tweakers.net/nieuws/237320/eerste-versie-debian-met-risc-v-ondersteuning-komt-binnen-drie-weken-uit.html</link>
-            <description>Debian 13 &#039;Trixie&#039;, de eerste versie met ondersteuning voor processorarchitectuur RISC-V, komt binnen drie weken uit. De release is op 9 augustus. Dat is ruim twee jaar na de vorige versie van Debian.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Computers / Besturingssystemen</category>
-            <comments>https://tweakers.net/nieuws/237320/eerste-versie-debian-met-risc-v-ondersteuning-komt-binnen-drie-weken-uit.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237320</guid>
-            <pubDate>Mon, 21 Jul 2025 08:11:32 +0200</pubDate>
-        </item>
-        <item>
-            <title>Ceo DataOps-bedrijf legt functie neer na virale video bij Coldplay-concert</title>
-            <link>https://tweakers.net/nieuws/237322/ceo-dataops-bedrijf-legt-functie-neer-na-virale-video-bij-coldplay-concert.html</link>
-            <description>De ceo van DataOps-bedrijf Astronomer, Andy Byron, heeft zijn functie neergelegd. Dat gebeurt enkele dagen nadat hij op camera verscheen bij een Coldplay-concert, waarbij de beelden de indruk wekten dat hij een affaire heeft met een topvrouw van zijn bedrijf.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237322/ceo-dataops-bedrijf-legt-functie-neer-na-virale-video-bij-coldplay-concert.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237322</guid>
-            <pubDate>Mon, 21 Jul 2025 07:54:20 +0200</pubDate>
-        </item>
-        <item>
-            <title>Video - Slimmer werken met AI en leuke kijkersvragen - Tweakers-vlog #3</title>
-            <link>https://tweakers.net/video/20008/slimmer-werken-met-ai-en-leuke-kijkersvragen-tweakers-vlog-3.html</link>
-            <description>In deze vlog nemen we je weer mee achter de schermen bij Tweakers. We laten zien hoe we AI-tools gebruiken om ons werk nét wat slimmer (en soms sneller) te doen. Ook beantwoorden we een aantal vragen uit de reacties op de vorige vlog.</description>
-            <author>Luke van Drie</author>
-            <category>Video / IT Pro / Economie en maatschappij</category>
-            <comments>https://tweakers.net/video/20008/slimmer-werken-met-ai-en-leuke-kijkersvragen-tweakers-vlog-3.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/video/20008</guid>
-            <pubDate>Mon, 21 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Review - Wi-Fi 7-router ASUS RT-BE86U - Sprong vooruit blijft achterwege</title>
-            <link>https://tweakers.net/reviews/13480/wi-fi-7-router-asus-rt-be86u-sprong-vooruit-blijft-achterwege.html</link>
-            <description>In dit artikel bekijken we de ASUS BE86U en vergelijken hem met twee voorgangers uit dezelfde serie. Is een router met Wi-Fi 7 maar zonder 6GHz-support interessant?</description>
-            <author>Olaf Weijers</author>
-            <category>Review / Computers / Modems en routers</category>
-            <comments>https://tweakers.net/reviews/13480/wi-fi-7-router-asus-rt-be86u-sprong-vooruit-blijft-achterwege.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13480</guid>
-            <pubDate>Mon, 21 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - VMware Fusion 13.6.4</title>
-            <link>https://tweakers.net/downloads/73320/vmware-fusion-1364.html</link>
-            <description>Broadcom heeft versie 13.6.4 van Fusion uitgebracht. Fusion is voor macOS wat Workstation Pro en Workstation Player zijn voor Windows en Linux. Het programma maakt het mogelijk om virtuele machines aan te maken op macOS-machines, om zo bijvoorbeeld Windows, Linux of Solaris naast het bestaande besturingssysteem te draaien. Nieuw in versie 13 is onder meer dat het programma nu ook op een met een Arm-processor uitgeruste machine werkt. Verder is er een virtuele TPM 2.0-module, wat ondersteuning voor onder meer Windows 11 en Windows Server 2022 mogelijk maakt, en is er ondersteuning voor OpenGL 4.3 en Windows Display Driver Model 1.2. De changelog voor deze uitgave ziet er als volgt uit: VMware Workstation Pro 17.6.4 provides the following new capabilities:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73320/vmware-fusion-1364.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73320</guid>
-            <pubDate>Sun, 20 Jul 2025 14:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft stopt met inzet Chinese werknemers voor ondersteuning leger VS</title>
-            <link>https://tweakers.net/nieuws/237318/microsoft-stopt-met-inzet-chinese-werknemers-voor-ondersteuning-leger-vs.html</link>
-            <description>Microsoft stopt met het inzetten van Chinees personeel voor de technische ondersteuning van clouddiensten voor het Amerikaanse ministerie van Defensie. Deze praktijk werd eerder door journalisten ontdekt en zou mogelijk voor cyberbeveiligingsrisico&#039;s kunnen zorgen.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/237318/microsoft-stopt-met-inzet-chinese-werknemers-voor-ondersteuning-leger-vs.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237318</guid>
-            <pubDate>Sun, 20 Jul 2025 12:33:29 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - VMware Workstation Pro 17.6.4</title>
-            <link>https://tweakers.net/downloads/73366/vmware-workstation-pro-1764.html</link>
-            <description>Broadcom heeft versie 17.6.4 van zijn virtualisatiesoftware Workstation Pro uitgebracht. Met dit programma is het mogelijk om een of meer virtuele computers aan te maken, waarop een groot aantal verschillende besturingssystemen kan worden geïnstalleerd. Op die manier kunnen ze naast elkaar worden gebruikt, in tegenstelling tot een dualbootopstelling, waarbij voor het ene of het andere OS moet worden gekozen. VMware Workstation is beschikbaar voor Windows en Linux, en sinds het in handen van Broadcom is gekomen is het voor iedereen gratis te gebruiken. Wel is een account nodig om het te kunnen downloaden. Nieuw in versie 17 is onder meer een virtuele TPM 2.0-module, wat ondersteuning voor Windows 11 en Windows Server 2022 en hoger mogelijk maakt. Ook kunnen virtuele machines nu automatisch starten wanneer de hostmachine start en is er ondersteuning voor OpenGL 4.3 en WDM 1.2. Versie 17.6.4 is een zogenaamde bugfixrelease waarin enkele beveiligingsproblemen en fouten zijn verholpen. VMware Workstation Pro 17.6.4 provides the following new capabilities:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73366/vmware-workstation-pro-1764.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73366</guid>
-            <pubDate>Sun, 20 Jul 2025 12:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Gerucht: EA stuurt &#039;Battlefield 6&#039;-pakket met vermelding gamemodi naar youtubers</title>
-            <link>https://tweakers.net/nieuws/237316/gerucht-ea-stuurt-battlefield-6-pakket-met-vermelding-gamemodi-naar-youtubers.html</link>
-            <description>Electronic Arts heeft naar verluidt een fysiek pakket met daarop de tekst &#039;Battlefield 6&#039; naar youtubers en andere contentcreators gestuurd. Het zou om een uitnodiging voor een onthullingsevenement gaan, dat eind juli plaats moet vinden.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/237316/gerucht-ea-stuurt-battlefield-6-pakket-met-vermelding-gamemodi-naar-youtubers.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237316</guid>
-            <pubDate>Sun, 20 Jul 2025 11:11:51 +0200</pubDate>
-        </item>
-        <item>
-            <title>Intel stopt per direct ontwikkeling Clear Linux</title>
-            <link>https://tweakers.net/nieuws/237314/intel-stopt-per-direct-ontwikkeling-clear-linux.html</link>
-            <description>Intel stopt per direct met de ontwikkeling en ondersteuning van de Linux-distro Clear Linux OS. Er komen geen beveiligingsupdates, nieuwe functies of patches meer voor de software uit. Het stoppen van de ondersteuning is het gevolg van een herstructurering binnen Intel.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Computers / Besturingssystemen</category>
-            <comments>https://tweakers.net/nieuws/237314/intel-stopt-per-direct-ontwikkeling-clear-linux.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237314</guid>
-            <pubDate>Sun, 20 Jul 2025 10:33:46 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - RoboForm 9.7.8</title>
-            <link>https://tweakers.net/downloads/73364/roboform-978.html</link>
-            <description>Versie 9.7.8 van RoboForm is uitgekomen. Dit programma is ruim twintig jaar geleden ontstaan als een hulpmiddel bij het invullen van formulieren en is inmiddels doorgegroeid naar een complete wachtwoordmanager. Het programma is beschikbaar voor Windows, Linux, macOS, Android en iOS, en als plug-in voor de bekendste webbrowsers. Het programma is gratis te gebruiken, maar wel met enkele beperkingen. Naast het veilig opslaan van wachtwoorden en passkeys, kan het ook sterke wachtwoorden genereren en waarschuwen als een wachtwoord voorkomt in een lijst met gelekte wachtwoorden. In deze uitgave zijn de volgende twee problemen verholpen: Changes in version 9.7.8</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73364/roboform-978.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73364</guid>
-            <pubDate>Sun, 20 Jul 2025 10:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
