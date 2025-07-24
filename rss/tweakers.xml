@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 23 Jul 2025 16:36:02 +0200</pubDate>
-        <lastBuildDate>Wed, 23 Jul 2025 16:36:02 +0200</lastBuildDate>
+        <pubDate>Thu, 24 Jul 2025 09:31:04 +0200</pubDate>
+        <lastBuildDate>Thu, 24 Jul 2025 09:31:04 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,166 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - GPU-Z 2.67.0</title>
+            <link>https://tweakers.net/downloads/73402/gpu-z-2670.html</link>
+            <description>Versie 2.67.0 van GPU-Z is uitgekomen. Dit programma kan precies vertellen welke grafische kaart in de pc zit. Zo vermeldt het onder meer fabrikant, model, type, revisie en snelheid van de grafische processor, maar ook de hoeveelheid, type en snelheid van het geheugen. Hoewel de naam en het uiterlijk doen denken aan CPU-Z en PCI-Z, vergelijkbare programma&#039;s voor processors en PCI-devices, zijn die programma&#039;s van andere makers. In deze uitgave zijn de volgende veranderingen en verbeteringen doorgevoerd: Changes in version 2.67.0:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73402/gpu-z-2670.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73402</guid>
+            <pubDate>Thu, 24 Jul 2025 09:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>AD: Russische hackers hebben ingebroken in systemen OM door Citrix NetScaler-lek</title>
+            <link>https://tweakers.net/nieuws/237432/ad-russische-hackers-hebben-ingebroken-in-systemen-om-door-citrix-netscaler-lek.html</link>
+            <description>Er zijn &#039;sterke aanwijzingen&#039; dat Russische hackersgroepen de kwetsbaarheid in de Citrix NetScaler-software hebben misbruikt om in te breken in de systemen van het Nederlandse Openbaar Ministerie. Dat zeggen bronnen tegen het Algemeen Dagblad.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/237432/ad-russische-hackers-hebben-ingebroken-in-systemen-om-door-citrix-netscaler-lek.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237432</guid>
+            <pubDate>Thu, 24 Jul 2025 09:06:39 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Adv - Werken bij Beveco: “Systemen praten niet met elkaar, maar wel met ons”</title>
+            <link>https://tweakers.net/plan/4468/werken-bij-beveco-systemen-praten-niet-met-elkaar-maar-wel-met-ons.html</link>
+            <description>Erik Keemink werkt al sinds 2013 bij Beveco en kent het bedrijf van binnen en buiten. Wat voor hem begon met een rol in systeemintegratie is uitgegroeid tot een functie als hoofd ontwikkeling. “Ik ben ooit begonnen als systeem-engineer, vooral aan de visualisatie- en integratiekant. Nieuwsgierigheid naar protocollen en systemen zat er altijd al in.”</description>
+            <author>Tweakers Partners</author>
+            <category>.adv</category>
+            <comments>https://tweakers.net/plan/4468/werken-bij-beveco-systemen-praten-niet-met-elkaar-maar-wel-met-ons.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/plan/4468</guid>
+            <pubDate>Thu, 24 Jul 2025 08:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Tor Browser 14.5.5</title>
+            <link>https://tweakers.net/downloads/73398/tor-browser-1455.html</link>
+            <description>Versie 14.5.5 van Tor Browser is uitgekomen. Tor staat voor &#039;The Onion Router&#039; en is een netwerk dat gebruikt kan worden om redelijk anoniem over internet te surfen. Al het TCP-verkeer van gebruikers wordt langs verschillende Tor-routers geleid, waarna het voor de ontvanger vrijwel niet meer mogelijk is om te achterhalen wie de oorspronkelijke verzender was. Binnen het Tor-netwerk is die informatie nog wel aanwezig, zodat antwoorden, uiteraard ook weer via het stelsel van routers, uiteindelijk weer op de juiste plek aankomen. De changelog voor deze uitgave kan hieronder worden gevonden. All Platforms</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73398/tor-browser-1455.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73398</guid>
+            <pubDate>Thu, 24 Jul 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - TCL C6K en C7K - Complete miniled-tv&#039;s voor een prikkie</title>
+            <link>https://tweakers.net/reviews/13504/tcl-c6k-en-c7k-complete-miniled-tvs-voor-een-prikkie.html</link>
+            <description>Met de C6K en C7K bracht TCL onlangs twee betaalbare miniledtelevisies uit. Maar is goedkoop ook een goede koop? We zochten het uit.</description>
+            <author>Sjef Weller</author>
+            <category>Review / Beeld en geluid / Televisies</category>
+            <comments>https://tweakers.net/reviews/13504/tcl-c6k-en-c7k-complete-miniled-tvs-voor-een-prikkie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13504</guid>
+            <pubDate>Thu, 24 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Video - Tweakers Podcast #383 - Gamemislukkingen, streamingads en adreswijzigingen</title>
+            <link>https://tweakers.net/video/20020/tweakers-podcast-383-gamemislukkingen-streamingads-en-adreswijzigingen.html</link>
+            <description>Deze week praten Wout Funnekotter, Jurian Ubachs en Arnoud Wokke over het verhuizen van internetabonnementen, advertenties die in de goedkoopste abonnementen van streamingdiensten zitten en boeken over de game-industrie.</description>
+            <author>Mark van der Kruit</author>
+            <category>Video / Beeld en geluid / Audio</category>
+            <comments>https://tweakers.net/video/20020/tweakers-podcast-383-gamemislukkingen-streamingads-en-adreswijzigingen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/video/20020</guid>
+            <pubDate>Thu, 24 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Tweakers Podcast #383 - Gamemislukkingen, streamingads en adreswijzigingen</title>
+            <link>https://tweakers.net/geek/237412/tweakers-podcast-383-gamemislukkingen-streamingads-en-adreswijzigingen.html</link>
+            <description>Deze week praten Wout Funnekotter, Jurian Ubachs en Arnoud Wokke over het verhuizen van internetabonnementen, advertenties die in de goedkoopste abonnementen van streamingdiensten zitten en boeken over de game-industrie.</description>
+            <author>Arnoud Wokke</author>
+            <category>.Geek / Beeld en geluid / Audio</category>
+            <comments>https://tweakers.net/geek/237412/tweakers-podcast-383-gamemislukkingen-streamingads-en-adreswijzigingen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/237412</guid>
+            <pubDate>Thu, 24 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Borderlands 4 komt in oktober uit voor Switch 2</title>
+            <link>https://tweakers.net/nieuws/237420/borderlands-4-komt-in-oktober-uit-voor-switch-2.html</link>
+            <description>Borderlands 4 komt op 3 oktober uit voor de Nintendo Switch 2. Dat bevestigt ontwikkelaar Gearbox op sociale media. Het was al bekend dat de game naar die console zou komen, maar de makers deelden niet eerder een concrete releasedatum voor dat platform.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/237420/borderlands-4-komt-in-oktober-uit-voor-switch-2.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237420</guid>
+            <pubDate>Wed, 23 Jul 2025 21:07:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>PS5-controllers kunnen straks aan meerdere apparaten gekoppeld worden</title>
+            <link>https://tweakers.net/nieuws/237430/ps5-controllers-kunnen-straks-aan-meerdere-apparaten-gekoppeld-worden.html</link>
+            <description>Sony werkt aan een PS5-update die het mogelijk maakt om de DualSense-controller aan meerdere apparaten te koppelen. Momenteel moet de controller telkens worden gehersynchroniseerd om te wisselen tussen meerdere apparaten. De update verschijnt deze week als bèta.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Gaming / Gamecontrollers</category>
+            <comments>https://tweakers.net/nieuws/237430/ps5-controllers-kunnen-straks-aan-meerdere-apparaten-gekoppeld-worden.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237430</guid>
+            <pubDate>Wed, 23 Jul 2025 20:49:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Toezichthouder VK wil maatregelen nemen tegen &#039;duopolie&#039; van Android en iOS</title>
+            <link>https://tweakers.net/nieuws/237424/toezichthouder-vk-wil-maatregelen-nemen-tegen-duopolie-van-android-en-ios.html</link>
+            <description>De Britse concurrentietoezichthouder CMA is van plan om actie te ondernemen tegen Apple en Google. De toezichthouder concludeert dat de twee techgiganten een &#039;effectief duopolie&#039; hebben met Android en iOS en wil deze mobiele platforms openbreken voor de concurrentie.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/237424/toezichthouder-vk-wil-maatregelen-nemen-tegen-duopolie-van-android-en-ios.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237424</guid>
+            <pubDate>Wed, 23 Jul 2025 20:28:30 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - CCleaner 6.38</title>
+            <link>https://tweakers.net/downloads/73400/ccleaner-638.html</link>
+            <description>Piriform heeft versie 6.38 van CCleaner uitgebracht. Met dit programma kunnen diverse onderdelen van Windows worden opgeschoond. Hierbij valt te denken aan tijdelijke Windows- en internetbestanden, maar ook aan overbodige rommel van een groot aantal andere programma&#039;s, waaronder Windows Media Player, Google Toolbar, Microsoft Office, Photoshop, WinRAR en ga zo maar door. Bovendien is het aantal programma&#039;s waarvan CCleaner de rommel kan opruimen, eenvoudig uit te breiden met het programma CCEnhancer. Naast opruimen kan CCleaner ook fouten in het register en in snelkoppelingen verhelpen, de lijst met programma&#039;s aanpassen die met Windows starten en is het mogelijk om cookies te beheren. Vanaf deze versie kan ook de algehele conditie van de computer worden getest. Naast een gratis uitvoering is er ook een pro-versie, die onder meer een automatische-updatefunctie biedt. In deze release is het probleem verholpen dat de browsergeschiedenis is Chromium-browsers niet goed werd opgeruimd. CCleaner v6.38.11537</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73400/ccleaner-638.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73400</guid>
+            <pubDate>Wed, 23 Jul 2025 19:50:31 +0200</pubDate>
+        </item>
+        <item>
+            <title>Overheid VS wil AI-ontwikkeling versnellen door minder te reguleren</title>
+            <link>https://tweakers.net/nieuws/237426/overheid-vs-wil-ai-ontwikkeling-versnellen-door-minder-te-reguleren.html</link>
+            <description>De regering-Trump heeft zijn AI Action Plan aangekondigd. Met dat plan moet de ontwikkeling van AI binnen de Verenigde Staten versneld worden. Om dat te bereiken, zou AI minder gereguleerd moeten worden, zegt het Witte Huis.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/237426/overheid-vs-wil-ai-ontwikkeling-versnellen-door-minder-te-reguleren.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237426</guid>
+            <pubDate>Wed, 23 Jul 2025 19:17:10 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nieuwe versie Qi2-standaard krijgt ondersteuning voor draadloos laden op 25W</title>
+            <link>https://tweakers.net/nieuws/237422/nieuwe-versie-qi2-standaard-krijgt-ondersteuning-voor-draadloos-laden-op-25w.html</link>
+            <description>Het Wireless Power Consortium heeft een nieuwe versie van de Qi2-standaard aangekondigd. Deze biedt een hoger laadvermogen van 25W. Er verschijnen binnenkort &#039;meerdere grote Android-smartphones&#039; die 25W-laden ondersteunen.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/237422/nieuwe-versie-qi2-standaard-krijgt-ondersteuning-voor-draadloos-laden-op-25w.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237422</guid>
+            <pubDate>Wed, 23 Jul 2025 18:26:43 +0200</pubDate>
+        </item>
+        <item>
+            <title>Sonos benoemt interim-ceo Tom Conrad officieel tot nieuwe topman</title>
+            <link>https://tweakers.net/nieuws/237418/sonos-benoemt-interim-ceo-tom-conrad-officieel-tot-nieuwe-topman.html</link>
+            <description>Sonos heeft Tom Conrad officieel benoemd tot de nieuwe ceo van het audiobedrijf. Conrad was sinds dit jaar al de interim-ceo van Sonos, nadat zijn voorganger opstapte na een mislukte softwarerelease.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Beeld en geluid / Speakers</category>
+            <comments>https://tweakers.net/nieuws/237418/sonos-benoemt-interim-ceo-tom-conrad-officieel-tot-nieuwe-topman.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237418</guid>
+            <pubDate>Wed, 23 Jul 2025 17:47:14 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Mozilla Thunderbird 141.0</title>
+            <link>https://tweakers.net/downloads/73396/mozilla-thunderbird-1410.html</link>
+            <description>De Mozilla Foundation heeft versie 141.0 van Thunderbird uitgebracht. Thunderbird is een opensourceclient voor e-mail en nieuwsgroepen met ondersteuning voor verschillende mail- en newsaccounts. Verder zijn er een spamfilter, spellingscontrole, kalender en adresboek, en heeft het een aanpasbaar uiterlijk. Thunderbird is beschikbaar in twee verschillende versies, die beide als stabiel worden aangeduid. De eerste wordt vaker voorzien van nieuwe functionaliteit en wordt als Release-versie aangeboden; de andere, de Extra Support Release-versie, wordt alleen van bugfixes en stabiliteitsverbeteringen voorzien. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: What’s Fixed</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73396/mozilla-thunderbird-1410.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73396</guid>
+            <pubDate>Wed, 23 Jul 2025 17:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>KPN heeft infrastructuur om twee derde Nederland op glasvezel aan te sluiten</title>
+            <link>https://tweakers.net/nieuws/237416/kpn-heeft-infrastructuur-om-twee-derde-nederland-op-glasvezel-aan-te-sluiten.html</link>
+            <description>KPN en Glaspoort kunnen samen twee derde van Nederland op glasvezel aansluiten, maakt de operator bekend in zijn jaarcijfers. Dat komt neer op ongeveer 5,5 miljoen huishoudens. In de eerste helft van 2025 legden KPN en Glaspoort de infrastructuur bij 462.000 huishoudens aan.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237416/kpn-heeft-infrastructuur-om-twee-derde-nederland-op-glasvezel-aan-te-sluiten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237416</guid>
+            <pubDate>Wed, 23 Jul 2025 16:45:17 +0200</pubDate>
+        </item>
         <item>
             <title>Brave-browser blokkeert standaard omstreden Windows Recall-functie</title>
             <link>https://tweakers.net/nieuws/237400/brave-browser-blokkeert-standaard-omstreden-windows-recall-functie.html</link>
@@ -48,12 +208,12 @@
             <pubDate>Wed, 23 Jul 2025 15:22:38 +0200</pubDate>
         </item>
         <item>
-            <title>Amazon voegt vanaf 26 augustus advertenties toe aan Prime Video</title>
-            <link>https://tweakers.net/nieuws/237410/amazon-voegt-vanaf-26-augustus-advertenties-toe-aan-prime-video.html</link>
-            <description>Amazon voegt vanaf 26 augustus &#039;in beperkte mate&#039; advertenties toe aan Prime Video, zo schrijft het bedrijf in een e-mail naar klanten. Amazon introduceert ook een advertentievrije optie. Die optie kost 3 euro meer dan het abonnement met advertenties.</description>
+            <title>Amazon voegt vanaf 26 augustus advertenties toe aan Prime Video in Nederland</title>
+            <link>https://tweakers.net/nieuws/237410/amazon-voegt-vanaf-26-augustus-advertenties-toe-aan-prime-video-in-nederland.html</link>
+            <description>Amazon voegt vanaf 26 augustus &#039;in beperkte mate&#039; advertenties toe aan Prime Video in Nederland, zo schrijft het bedrijf in een e-mail naar klanten. Amazon introduceert ook een advertentievrije optie. Die optie kost 3 euro meer dan het abonnement met advertenties.</description>
             <author>Imre Himmelbauer</author>
             <category>Nieuws / Beeld en geluid / Televisies</category>
-            <comments>https://tweakers.net/nieuws/237410/amazon-voegt-vanaf-26-augustus-advertenties-toe-aan-prime-video.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/237410/amazon-voegt-vanaf-26-augustus-advertenties-toe-aan-prime-video-in-nederland.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237410</guid>
             <pubDate>Wed, 23 Jul 2025 14:55:08 +0200</pubDate>
         </item>
@@ -256,166 +416,6 @@
             <comments>https://tweakers.net/nieuws/237372/firefox-141-krijgt-suggesties-voor-toevoegen-tabbladen-aan-groepen.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237372</guid>
             <pubDate>Tue, 22 Jul 2025 17:08:49 +0200</pubDate>
-        </item>
-        <item>
-            <title>AMD en Stability AI ontwikkelen Stable Diffusion-model dat lokaal draait op npu</title>
-            <link>https://tweakers.net/nieuws/237384/amd-en-stability-ai-ontwikkelen-stable-diffusion-model-dat-lokaal-draait-op-npu.html</link>
-            <description>AMD en Stability AI hebben samen een nieuw AI-model ontwikkeld dat beelden kan genereren. Het model is een variant op het bestaande SD 3.0 Medium-model, die specifiek is bedoeld om lokaal te draaien op laptops met een compatibele Ryzen AI-processor.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / Processors</category>
-            <comments>https://tweakers.net/nieuws/237384/amd-en-stability-ai-ontwikkelen-stable-diffusion-model-dat-lokaal-draait-op-npu.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237384</guid>
-            <pubDate>Tue, 22 Jul 2025 16:30:44 +0200</pubDate>
-        </item>
-        <item>
-            <title>Studio achter Evil Dead-game werkt aan horrorspel op basis van Hellraiser</title>
-            <link>https://tweakers.net/nieuws/237382/studio-achter-evil-dead-game-werkt-aan-horrorspel-op-basis-van-hellraiser.html</link>
-            <description>Er komt een horrorgame aan op basis van de Hellraiser-filmfranchise. Dat maken ontwikkelaar Boss Team Games en uitgever Saber Interactive bekend. De game, genaamd Hellraiser: Revival, is momenteel in ontwikkeling voor consoles en de pc, maar er is nog geen releasedatum bekend.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/237382/studio-achter-evil-dead-game-werkt-aan-horrorspel-op-basis-van-hellraiser.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237382</guid>
-            <pubDate>Tue, 22 Jul 2025 15:27:07 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nieuwe Nothing CMF-smartwatch heeft groter scherm maar geen verwisselbare bezel</title>
-            <link>https://tweakers.net/nieuws/237380/nieuwe-nothing-cmf-smartwatch-heeft-groter-scherm-maar-geen-verwisselbare-bezel.html</link>
-            <description>Nothing heeft een nieuwe smartwatch uitgebracht onder zijn betaalbaardere CMF-submerk. De Watch 3 Pro beschikt over een groter scherm en een betere hartslagsensor, maar heeft niet langer een verwisselbare bezel. Het horloge is per direct beschikbaar en kost 99 euro.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Tablets en telefoons / Smartwatches</category>
-            <comments>https://tweakers.net/nieuws/237380/nieuwe-nothing-cmf-smartwatch-heeft-groter-scherm-maar-geen-verwisselbare-bezel.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237380</guid>
-            <pubDate>Tue, 22 Jul 2025 15:01:01 +0200</pubDate>
-        </item>
-        <item>
-            <title>Renders tonen goedkopere Samsung Galaxy Buds3 FE-oordopjes</title>
-            <link>https://tweakers.net/nieuws/237376/renders-tonen-goedkopere-samsung-galaxy-buds3-fe-oordopjes.html</link>
-            <description>Bekende leaker Evan Blass heeft een render van de onaangekondigde Samsung Galaxy Buds3 FE-oordopjes gepubliceerd. Ze lijken qua ontwerp op de Galaxy Buds3 Pro, maar zullen betaalbaarder worden. Het is niet bekend wanneer ze precies uitkomen.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Beeld en geluid / Oordopjes</category>
-            <comments>https://tweakers.net/nieuws/237376/renders-tonen-goedkopere-samsung-galaxy-buds3-fe-oordopjes.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237376</guid>
-            <pubDate>Tue, 22 Jul 2025 14:11:55 +0200</pubDate>
-        </item>
-        <item>
-            <title>Achtergrond - Waarom Prime Video en Netflix liever willen dat je een abo met reclame neemt</title>
-            <link>https://tweakers.net/reviews/13536/waarom-prime-video-en-netflix-liever-willen-dat-je-een-abo-met-reclame-neemt.html</link>
-            <description>Steeds meer streamingdiensten hebben of krijgen advertenties. Dat is vervelend voor klanten, maar levert veel geld op.</description>
-            <author>Arnoud Wokke</author>
-            <category>Achtergrond / Beeld en geluid / Televisies</category>
-            <comments>https://tweakers.net/reviews/13536/waarom-prime-video-en-netflix-liever-willen-dat-je-een-abo-met-reclame-neemt.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13536</guid>
-            <pubDate>Tue, 22 Jul 2025 14:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>OpenAI en VK gaan samen bekijken hoe AI gebruikt kan worden binnen de overheid</title>
-            <link>https://tweakers.net/nieuws/237374/openai-en-vk-gaan-samen-bekijken-hoe-ai-gebruikt-kan-worden-binnen-de-overheid.html</link>
-            <description>OpenAI en de Britse overheid hebben een strategische samenwerking ondertekend. De twee gaan onder andere bekijken hoe AI gebruikt kan worden binnen de overheid en de private sector. Ook wordt overwogen om nieuwe AI-infrastructuur binnen het VK te bouwen.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237374/openai-en-vk-gaan-samen-bekijken-hoe-ai-gebruikt-kan-worden-binnen-de-overheid.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237374</guid>
-            <pubDate>Tue, 22 Jul 2025 13:38:15 +0200</pubDate>
-        </item>
-        <item>
-            <title>Gerucht: Motorola brengt de Moto 360-smartwatch dit jaar terug</title>
-            <link>https://tweakers.net/nieuws/237370/gerucht-motorola-brengt-de-moto-360-smartwatch-dit-jaar-terug.html</link>
-            <description>Motorola is mogelijk van plan om de Moto 360-smartwatch terug te brengen. Dat claimt Android Headlines, dat ook afbeeldingen van het aanstaande horloge online heeft gezet. De nieuwe Moto 360 zou dit jaar nog verschijnen.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Tablets en telefoons / Smartwatches</category>
-            <comments>https://tweakers.net/nieuws/237370/gerucht-motorola-brengt-de-moto-360-smartwatch-dit-jaar-terug.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237370</guid>
-            <pubDate>Tue, 22 Jul 2025 12:07:09 +0200</pubDate>
-        </item>
-        <item>
-            <title>Firmware-update - FritzBox 7590 8.20</title>
-            <link>https://tweakers.net/downloads/73378/fritzbox-7590-820.html</link>
-            <description>De AVM FritzBox 7590 is een VDSL2/ADSL2+-modem, gigabitrouter, accesspoint tot en met 802.11ac en DECT-basestation voor maximaal zes handsets ineen. Verder beschikt het apparaat over twee USB 3.0-aansluitingen, waarmee een printer of externe opslagcapaciteit op het netwerk kan worden gedeeld. Terugkeren naar de oorspronkelijke firmware is altijd mogelijk; zorg dus voor een back-up. Bijwerken van de firmware kan vanuit de gebruikersinterface zelf, maar los downloaden kan ook. AVM heeft FritzOS 8.20 uitgebracht en hieronder is te vinden wat daar allemaal in veranderd is.</description>
-            <author>Bart van Klaveren</author>
-            <category>Firmware</category>
-            <comments>https://tweakers.net/downloads/73378/fritzbox-7590-820.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73378</guid>
-            <pubDate>Tue, 22 Jul 2025 11:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Uitgelekte Google Pixel 10-renders bevestigen derde camera in basismodel</title>
-            <link>https://tweakers.net/nieuws/237364/uitgelekte-google-pixel-10-renders-bevestigen-derde-camera-in-basismodel.html</link>
-            <description>Google lijkt de Pixel 10 te voorzien van een derde camerasensor aan de achterkant. Dat claimt Android Headlines, dat ook officiële renders van de smartphone heeft gepubliceerd. Momenteel hebben alleen de Pro-modellen een derde camera.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/237364/uitgelekte-google-pixel-10-renders-bevestigen-derde-camera-in-basismodel.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237364</guid>
-            <pubDate>Tue, 22 Jul 2025 10:37:21 +0200</pubDate>
-        </item>
-        <item>
-            <title>Kioxia introduceert grootste ssd tot nu toe met 246TB opslagruimte</title>
-            <link>https://tweakers.net/nieuws/237362/kioxia-introduceert-grootste-ssd-tot-nu-toe-met-246tb-opslagruimte.html</link>
-            <description>Kioxia heeft een ssd met 245,76TB aan opslagruimte geïntroduceerd. Het is daarmee de grootste ssd die momenteel op de markt is. Deze LC9-ssd haalt deze capaciteit door middel van qlc-nand. De ssd komt beschikbaar in meerdere formfactors en is bedoeld voor datacenters.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / Interne SSD&#039;s</category>
-            <comments>https://tweakers.net/nieuws/237362/kioxia-introduceert-grootste-ssd-tot-nu-toe-met-246tb-opslagruimte.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237362</guid>
-            <pubDate>Tue, 22 Jul 2025 09:53:51 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Tixati 3.35</title>
-            <link>https://tweakers.net/downloads/73376/tixati-335.html</link>
-            <description>Versie 3.35 van Tixati is uitgekomen, als opvolger voor versie 3.34. Tixati is een uitgebreide en efficiënte bittorrentclient voor Windows en Linux met ondersteuning voor dht, magnetlinks en RSS-feeds. Het programma geeft uitgebreide informatie over alle aspecten van de download en het in- en uitgaande netwerkverkeer. Downloads zijn beschikbaar voor Windows en Linux en het programma toont geen advertenties. De changelog voor deze uitgave ziet er als volgt uit: Tixati version 3.35</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73376/tixati-335.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73376</guid>
-            <pubDate>Tue, 22 Jul 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>ChatGPT-gebruikers sturen dagelijks 2,5 miljard prompts</title>
-            <link>https://tweakers.net/nieuws/237360/chatgpt-gebruikers-sturen-dagelijks-2-komma-5-miljard-prompts.html</link>
-            <description>ChatGPT-gebruikers sturen dagelijks meer dan 2,5 miljard prompts. Dat blijkt uit data die Axios heeft bemachtigd en is bevestigd door OpenAI. De AI-chatbot zou wekelijks ruim 500 miljoen verschillende actieve gebruikers hebben.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/nieuws/237360/chatgpt-gebruikers-sturen-dagelijks-2-komma-5-miljard-prompts.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237360</guid>
-            <pubDate>Tue, 22 Jul 2025 08:57:52 +0200</pubDate>
-        </item>
-        <item>
-            <title>Review - Hunter 3- en Night Hunter-behuizingen - Chieftec is op jacht naar groter</title>
-            <link>https://tweakers.net/reviews/13450/hunter-3-en-night-hunter-behuizingen-chieftec-is-op-jacht-naar-groter.html</link>
-            <description>Met de twee varianten van de Hunter-kasten heeft Chieftec zijn assortiment uitgebreid in het budgetsegment. Is het een behuizing die voldoet aan alle moderne eisen?</description>
-            <author>Willem de Moor</author>
-            <category>Review / Computers / Behuizingen</category>
-            <comments>https://tweakers.net/reviews/13450/hunter-3-en-night-hunter-behuizingen-chieftec-is-op-jacht-naar-groter.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13450</guid>
-            <pubDate>Tue, 22 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Usenet Explorer 7.5.2</title>
-            <link>https://tweakers.net/downloads/73374/usenet-explorer-752.html</link>
-            <description>Alex Birj heeft versie 7.5.2 van Usenet Explorer uitgebracht. Met dit programma kunnen bestanden van Usenet worden gedownload. Usenet Explorer kenmerkt zich onder meer door een laag processor- en geheugengebruik en uitgebreide mogelijkheden, wat het voor beginnende gebruikers misschien minder geschikt maakt. Sinds versie 7.5 zijn de volgende veranderingen en verbeteringen zijn doorgevoerd: Changes in version 7.5.2:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73374/usenet-explorer-752.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73374</guid>
-            <pubDate>Mon, 21 Jul 2025 21:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google toont teaser Pixel 10 met hetzelfde ontwerp als Pixel 9</title>
-            <link>https://tweakers.net/nieuws/237356/google-toont-teaser-pixel-10-met-hetzelfde-ontwerp-als-pixel-9.html</link>
-            <description>Google toont op zijn website de eerste teaser van de aankomende Pixel 10-smartphone. Het toestel ziet er vrijwel exact hetzelfde uit als de Pixel 9. Op 20 augustus houdt Google een presentatie. Dan wordt de smartphonereeks officieel aangekondigd.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/237356/google-toont-teaser-pixel-10-met-hetzelfde-ontwerp-als-pixel-9.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237356</guid>
-            <pubDate>Mon, 21 Jul 2025 19:45:29 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft werkt mogelijk aan makkelijker audio-output Windows 11 delen</title>
-            <link>https://tweakers.net/nieuws/237354/microsoft-werkt-mogelijk-aan-makkelijker-audio-output-windows-11-delen.html</link>
-            <description>Microsoft werkt mogelijk aan een eenvoudigere manier om audio in Windows 11 naar twee outputapparaten te sturen. De functie is in een devbuild van Windows 11 gevonden en is vooralsnog niet ingeschakeld. Het is niet duidelijk wanneer Microsoft de optie eventueel uitbrengt.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Beeld en geluid / Audio</category>
-            <comments>https://tweakers.net/nieuws/237354/microsoft-werkt-mogelijk-aan-makkelijker-audio-output-windows-11-delen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237354</guid>
-            <pubDate>Mon, 21 Jul 2025 19:12:08 +0200</pubDate>
         </item>
     </channel>
 </rss>
