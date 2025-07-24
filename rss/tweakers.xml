@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 24 Jul 2025 09:31:04 +0200</pubDate>
-        <lastBuildDate>Thu, 24 Jul 2025 09:31:04 +0200</lastBuildDate>
+        <pubDate>Thu, 24 Jul 2025 10:36:01 +0200</pubDate>
+        <lastBuildDate>Thu, 24 Jul 2025 10:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,6 +18,26 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
+            <title>Xbox schrapt geplande prijsverhoging: games blijven dit najaar 70 euro kosten</title>
+            <link>https://tweakers.net/nieuws/237434/xbox-schrapt-geplande-prijsverhoging-games-blijven-dit-najaar-70-euro-kosten.html</link>
+            <description>Microsoft verhoogt de adviesprijzen van Xbox-games dit najaar toch niet naar 80 euro. The Outer Worlds 2 zou in oktober de eerste Xbox-game worden met deze hogere prijs, maar inmiddels is de prijs verlaagd naar 70 euro.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/237434/xbox-schrapt-geplande-prijsverhoging-games-blijven-dit-najaar-70-euro-kosten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237434</guid>
+            <pubDate>Thu, 24 Jul 2025 09:56:08 +0200</pubDate>
+        </item>
+        <item>
+            <title>KPN gaat sms-tweetrapsauthenticatie verplichten voor alle accounts</title>
+            <link>https://tweakers.net/nieuws/237436/kpn-gaat-sms-tweetrapsauthenticatie-verplichten-voor-alle-accounts.html</link>
+            <description>KPN gaat tweetrapsauthenticatie verplichten voor alle MijnKPN-accounts. Dit is alleen mogelijk met hotp, specifiek sms, en niet met totp of een fysieke beveiligingssleutel. Als gebruikers hun telefoonnummer kwijt zijn, moeten ze een nieuw account registreren.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/237436/kpn-gaat-sms-tweetrapsauthenticatie-verplichten-voor-alle-accounts.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237436</guid>
+            <pubDate>Thu, 24 Jul 2025 09:51:55 +0200</pubDate>
+        </item>
+        <item>
             <title>Software-update - GPU-Z 2.67.0</title>
             <link>https://tweakers.net/downloads/73402/gpu-z-2670.html</link>
             <description>Versie 2.67.0 van GPU-Z is uitgekomen. Dit programma kan precies vertellen welke grafische kaart in de pc zit. Zo vermeldt het onder meer fabrikant, model, type, revisie en snelheid van de grafische processor, maar ook de hoeveelheid, type en snelheid van het geheugen. Hoewel de naam en het uiterlijk doen denken aan CPU-Z en PCI-Z, vergelijkbare programma&#039;s voor processors en PCI-devices, zijn die programma&#039;s van andere makers. In deze uitgave zijn de volgende veranderingen en verbeteringen doorgevoerd: Changes in version 2.67.0:</description>
@@ -28,12 +48,12 @@
             <pubDate>Thu, 24 Jul 2025 09:30:00 +0200</pubDate>
         </item>
         <item>
-            <title>AD: Russische hackers hebben ingebroken in systemen OM door Citrix NetScaler-lek</title>
-            <link>https://tweakers.net/nieuws/237432/ad-russische-hackers-hebben-ingebroken-in-systemen-om-door-citrix-netscaler-lek.html</link>
+            <title>AD: Russische hackers zitten mogelijk achter hack in systemen van OM</title>
+            <link>https://tweakers.net/nieuws/237432/ad-russische-hackers-zitten-mogelijk-achter-hack-in-systemen-van-om.html</link>
             <description>Er zijn &#039;sterke aanwijzingen&#039; dat Russische hackersgroepen de kwetsbaarheid in de Citrix NetScaler-software hebben misbruikt om in te breken in de systemen van het Nederlandse Openbaar Ministerie. Dat zeggen bronnen tegen het Algemeen Dagblad.</description>
             <author>Kevin Krikhaar</author>
             <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/237432/ad-russische-hackers-hebben-ingebroken-in-systemen-om-door-citrix-netscaler-lek.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/237432/ad-russische-hackers-zitten-mogelijk-achter-hack-in-systemen-van-om.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237432</guid>
             <pubDate>Thu, 24 Jul 2025 09:06:39 +0200</pubDate>
         </item>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/237386/nederlandse-telecomsector-defensie-kijk-uit-met-jammen-en-spoofen-van-5g.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237386</guid>
             <pubDate>Tue, 22 Jul 2025 18:28:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Netflix gebruikt video-AI en Disney zou het ook hebben getest</title>
-            <link>https://tweakers.net/nieuws/237378/netflix-gebruikt-video-ai-en-disney-zou-het-ook-hebben-getest.html</link>
-            <description>Disney zou een video-AI-tool hebben getest van Runway, bijvoorbeeld voor het maken van special effects in films en series. Netflix zei vorige week dat het AI heeft gebruikt in een Argentijnse serie.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Beeld en geluid / Televisies</category>
-            <comments>https://tweakers.net/nieuws/237378/netflix-gebruikt-video-ai-en-disney-zou-het-ook-hebben-getest.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237378</guid>
-            <pubDate>Tue, 22 Jul 2025 17:50:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Firefox 141 krijgt suggesties voor toevoegen tabbladen aan groepen</title>
-            <link>https://tweakers.net/nieuws/237372/firefox-141-krijgt-suggesties-voor-toevoegen-tabbladen-aan-groepen.html</link>
-            <description>Mozilla heeft Firefox 141 een functie meegegeven om suggesties te doen in welke tabbladgroep een bepaald tabblad moet. Daarvoor kijkt de software naar onder meer de titel, beschrijving en de URL. Dat gebeurt lokaal.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Computers / Browsers</category>
-            <comments>https://tweakers.net/nieuws/237372/firefox-141-krijgt-suggesties-voor-toevoegen-tabbladen-aan-groepen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237372</guid>
-            <pubDate>Tue, 22 Jul 2025 17:08:49 +0200</pubDate>
         </item>
     </channel>
 </rss>
