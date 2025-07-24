@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 24 Jul 2025 12:36:02 +0200</pubDate>
-        <lastBuildDate>Thu, 24 Jul 2025 12:36:02 +0200</lastBuildDate>
+        <pubDate>Thu, 24 Jul 2025 13:31:01 +0200</pubDate>
+        <lastBuildDate>Thu, 24 Jul 2025 13:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Visual Studio Code 1.102.2</title>
+            <link>https://tweakers.net/downloads/73406/visual-studio-code-11022.html</link>
+            <description>Versie 1.102.2 van Visual Studio Code uitgekomen. Deze opensource code-editor heeft ondersteuning voor IntelliSense, debugging, Git en code snippets. Downloads zijn beschikbaar voor Windows, Linux en macOS. Ondersteuning voor de gangbare script- en programmeertalen is aanwezig en het kan daarnaast via extensies uitgebreid worden. Uitgebreide informatie over versie 1.102.0 is op deze pagina te vinden; sindsdien zijn nog de volgende veranderingen en verbeteringen aangebracht:: Visual Studio Code 1.102.2</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73406/visual-studio-code-11022.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73406</guid>
+            <pubDate>Thu, 24 Jul 2025 13:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gameplatform Itch.io verbergt nsfw-games vanwege druk van betaalverwerkers</title>
+            <link>https://tweakers.net/nieuws/237442/gameplatform-itch-punt-io-verbergt-nsfw-games-vanwege-druk-van-betaalverwerkers.html</link>
+            <description>Gameplatform Itch.io heeft bijna alle nsfw-games verborgen op het platform. Ze verschijnen niet langer in de zoekfunctie, maar kunnen nog wel via een directe link worden bezocht. Volgens het platform worden &#039;sommige&#039; games permanent verwijderd van het platform.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/237442/gameplatform-itch-punt-io-verbergt-nsfw-games-vanwege-druk-van-betaalverwerkers.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237442</guid>
+            <pubDate>Thu, 24 Jul 2025 13:23:05 +0200</pubDate>
+        </item>
         <item>
             <title>.Geek - LEGO-versie van Game Boy verschijnt op 1 oktober voor 60 euro</title>
             <link>https://tweakers.net/geek/237440/lego-versie-van-game-boy-verschijnt-op-1-oktober-voor-60-euro.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/downloads/73384/geforce-game-ready-driver-57700-whql.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73384</guid>
             <pubDate>Tue, 22 Jul 2025 21:09:26 +0200</pubDate>
-        </item>
-        <item>
-            <title>Gerucht: Europese Commissie gaat akkoord met Apple-wijzigingen aan App Store</title>
-            <link>https://tweakers.net/nieuws/237394/gerucht-europese-commissie-gaat-akkoord-met-apple-wijzigingen-aan-app-store.html</link>
-            <description>De Europese Commissie zou ergens in de komende weken akkoord gaan met de wijzigingen die Apple eind juni heeft doorgevoerd in de App Store. Daarmee voorkomt Apple een boete voor zijn handelspraktijken in de eigen downloadwinkel.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/237394/gerucht-europese-commissie-gaat-akkoord-met-apple-wijzigingen-aan-app-store.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237394</guid>
-            <pubDate>Tue, 22 Jul 2025 20:57:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft: drie Chinese hackersgroepen misbruiken SharePoint-kwetsbaarheid</title>
-            <link>https://tweakers.net/nieuws/237390/microsoft-drie-chinese-hackersgroepen-misbruiken-sharepoint-kwetsbaarheid.html</link>
-            <description>Drie Chinese hackersgroepen misbruiken de onlangs gevonden kwetsbaarheid in SharePoint Server. Dat heeft Microsoft bekendgemaakt. Twee daarvan linkt het bedrijf aan de Chinese staat. Door het lek kunnen kwaadwillenden schadelijke code uitvoeren op servers bij organisaties.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Computers / Programming</category>
-            <comments>https://tweakers.net/nieuws/237390/microsoft-drie-chinese-hackersgroepen-misbruiken-sharepoint-kwetsbaarheid.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237390</guid>
-            <pubDate>Tue, 22 Jul 2025 20:23:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
