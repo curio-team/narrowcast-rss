@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 24 Jul 2025 14:41:01 +0200</pubDate>
-        <lastBuildDate>Thu, 24 Jul 2025 14:41:01 +0200</lastBuildDate>
+        <pubDate>Thu, 24 Jul 2025 15:41:02 +0200</pubDate>
+        <lastBuildDate>Thu, 24 Jul 2025 15:41:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Homebrew 4.5.12</title>
+            <link>https://tweakers.net/downloads/73408/homebrew-4512.html</link>
+            <description>Homebrew is een pakketbeheerder die wordt bijgehouden door een groep vrijwilligers, waarbij vanuit verschillende &#039;taps&#039; (pakketbronnen) &#039;formula&#039; (softwarepakketten) kunnen worden geïnstalleerd via de terminal. Homebrew begon als een project om een tot dan toe ontbrekende pakketbeheerder aan te bieden op macOS, maar Homebrew biedt al langer ook ondersteuning voor Linux. Inmiddels zijn de Homebrew-repository&#039;s op GitHub uitgegroeid tot de grootste qua aantallen bijdragers. Via zogeheten &#039;casks&#039; is het verder mogelijk om apps en lettertypen te installeren en beheren op een macOS-installatie. Versie 4.5.12 is uitgekomen en sinds versie 4.5.9 zijn de volgende veranderingen en verbeteringen doorgevoerd: Homebrew 4.5.12:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73408/homebrew-4512.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73408</guid>
+            <pubDate>Thu, 24 Jul 2025 15:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Achtergrond - Voor betere AI in WhatsApp en Instagram speelt Zuckerberg zelf recruiter</title>
+            <link>https://tweakers.net/reviews/13562/voor-betere-ai-in-whatsapp-en-instagram-speelt-zuckerberg-zelf-recruiter.html</link>
+            <description>Meta heeft grote ambities voor AI en heeft een krachtig wapen ingezet: oprichter Mark Zuckerberg speelt recruiter om een team samen te stellen met haast onbeperkt budget.</description>
+            <author>Arnoud Wokke</author>
+            <category>Achtergrond / IT Pro / Wetenschap</category>
+            <comments>https://tweakers.net/reviews/13562/voor-betere-ai-in-whatsapp-en-instagram-speelt-zuckerberg-zelf-recruiter.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13562</guid>
+            <pubDate>Thu, 24 Jul 2025 15:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Chips uit TSMC&#039;s fabriek in VS zijn tot 20 procent duurder dan die uit Taiwan</title>
+            <link>https://tweakers.net/nieuws/237444/chips-uit-tsmcs-fabriek-in-vs-zijn-tot-20-procent-duurder-dan-die-uit-taiwan.html</link>
+            <description>Chips die in de Amerikaanse fabrieken van TSMC worden geproduceerd, kosten tot twintig procent meer dan chips die afkomstig zijn uit de fabs in Taiwan. Dat zegt de ceo van AMD, Lisa Su, tegen Bloomberg.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237444/chips-uit-tsmcs-fabriek-in-vs-zijn-tot-20-procent-duurder-dan-die-uit-taiwan.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237444</guid>
+            <pubDate>Thu, 24 Jul 2025 14:47:50 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Visual Studio Code 1.102.2</title>
             <link>https://tweakers.net/downloads/73406/visual-studio-code-11022.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/reviews/13408/asus-nuc-15-pro-en-nuc-15-pro+-heethoofden-met-nieuwe-cpus-en-garantie.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13408</guid>
             <pubDate>Wed, 23 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Videoreview - De helderste miniled is verrassend betaalbaar - TCL C8K</title>
-            <link>https://tweakers.net/video/20018/de-helderste-miniled-is-verrassend-betaalbaar-tcl-c8k.html</link>
-            <description>De TCL C8K is een van de indrukwekkendste hdr-televisies van het moment, met piekhelderheden die zelfs in de zeer nauwkeurige Filmmaker-modus bijna de 3500cd/m² aantikken. Verder heeft deze tv een redelijk ontspiegeld, contrastrijk paneel met voor miniledbegrippen prima kijkhoeken.</description>
-            <author>Mark van der Kruit</author>
-            <category>Videoreview / Beeld en geluid / Televisies</category>
-            <comments>https://tweakers.net/video/20018/de-helderste-miniled-is-verrassend-betaalbaar-tcl-c8k.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/video/20018</guid>
-            <pubDate>Wed, 23 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - OPNsense 25.1.12</title>
-            <link>https://tweakers.net/downloads/73382/opnsense-25112.html</link>
-            <description>Het pakket OPNsense is een firewall met uitgebreide mogelijkheden. Het is gebaseerd op het besturingssysteem FreeBSD en is oorspronkelijk een fork van m0n0wall en pfSense. Het pakket kan volledig via een webinterface worden ingesteld en heeft onder andere ondersteuning voor MFA, WireGuard, OpenVPN, IPsec, CARP en captive portal. Daarnaast kan het packetfiltering toepassen en beschikt het over een traffic shaper. De ontwikkelaars achter OPNsense hebben ondanks dat versie 25.1.11 de laatste uitgave uit de 25.1-reeks zou zijn toch nog een update uitgebracht en de releasenotes voor die uitgave kunnen hieronder worden gevonden. OPNsense 25.1.12 released</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73382/opnsense-25112.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73382</guid>
-            <pubDate>Tue, 22 Jul 2025 22:15:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Driver-update - GeForce Game Ready Driver 577.00 WHQL</title>
-            <link>https://tweakers.net/downloads/73384/geforce-game-ready-driver-57700-whql.html</link>
-            <description>Nvidia heeft nieuwe stabiele GeForce-drivers uitgebracht. De drivers dragen versienummer 577.00 en zijn voorzien van een Windows Hardware Quality Labs-certificaat. Ze zijn geschikt voor Windows 10 en hoger, en kunnen worden gebruikt op kaarten gebaseerd op de Maxwell-architectuur of nieuwer. Deze uitgave voegt onder meer ondersteuning toe voor de GeForce RTX 5050 en bevat verbeteringen voor het spel Wuchang: Fallen Feathers en de Unreal 5-update voor Valorant. Ook zijn er weer de nodige problemen verholpen. De changelog voor deze uitgave kan hieronder worden gevonden: Game Ready</description>
-            <author>Bart van Klaveren</author>
-            <category>Driver</category>
-            <comments>https://tweakers.net/downloads/73384/geforce-game-ready-driver-57700-whql.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73384</guid>
-            <pubDate>Tue, 22 Jul 2025 21:09:26 +0200</pubDate>
         </item>
     </channel>
 </rss>
