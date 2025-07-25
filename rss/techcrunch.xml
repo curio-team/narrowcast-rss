@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 25 Jul 2025 11:22:56 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 25 Jul 2025 13:24:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Meta to stop selling political ads in the EU from October</title>
+		<link>https://techcrunch.com/2025/07/25/meta-to-stop-selling-political-ads-in-the-eu-from-october/</link>
+		
+		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
+		<pubDate>Fri, 25 Jul 2025 13:24:43 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[advertising]]></category>
+		<category><![CDATA[european union]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Meta]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3031213</guid>
+
+					<description><![CDATA[In response to the European Union's incoming regulation of political advertising, Meta said on Friday that it would stop selling and showing political ads in the EU from October 2025. ]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Google is testing a vibe-coding app called Opal</title>
 		<link>https://techcrunch.com/2025/07/25/google-is-testing-a-vibe-coding-app-called-opal/</link>
 		
@@ -369,27 +387,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3030719</guid>
 
 					<description><![CDATA[Snap Map's new "Home Safe" feature sends one-time alerts to friends, so you don't need to remember to message others that you're back safely.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SoftBank-backed LegalOn lands $50M to streamline legal workflows with AI</title>
-		<link>https://techcrunch.com/2025/07/24/softbank-backed-legalon-fuels-ai-for-in-house-legal-team-with-50m-series-e/</link>
-		
-		<dc:creator><![CDATA[Kate Park]]></dc:creator>
-		<pubDate>Thu, 24 Jul 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[legal software]]></category>
-		<category><![CDATA[legal tech]]></category>
-		<category><![CDATA[legal technology]]></category>
-		<category><![CDATA[LegalOn]]></category>
-		<category><![CDATA[LegalOn Technologies]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3030871</guid>
-
-					<description><![CDATA[LegalOn, which provides AI-powered contract review software for legal teams, has raised $50 million in a Series C round. ]]></description>
 		
 		
 		
