@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 25 Jul 2025 12:36:01 +0200</pubDate>
-        <lastBuildDate>Fri, 25 Jul 2025 12:36:01 +0200</lastBuildDate>
+        <pubDate>Fri, 25 Jul 2025 13:31:01 +0200</pubDate>
+        <lastBuildDate>Fri, 25 Jul 2025 13:31:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Firmware-update - Synology DSM 7.2.2 build 72806 Update 4</title>
+            <link>https://tweakers.net/downloads/73422/synology-dsm-722-build-72806.html</link>
+            <description>Synology heeft een nieuwe versie van Disk Station Manager uitgebracht. Synology DSM is de beheersoftware die op diverse nasproducten van het bedrijf draait. De Disk en Rack Stations bieden meer dan alleen extra opslagruimte. Zo kunnen er extra pakketten worden geïnstalleerd om het apparaat bijvoorbeeld ook als mediaserver, home-automationserver, webserver, printserver of back-upserver te laten functioneren. De mogelijkheden zijn eindeloos. Om versie 7.2 te kunnen installeren zal minimaal versie 7.1 aanwezig moeten zijn. Verder is deze versie uitsluitend geschikt voor de nasmodellen waarvan het typenummer eindigt op 16 of hoger; versie 7.1 is de laatste update voor modellen die eindigen op 13, 14 of 15. Kijk voor de overige voorwaarden en de verschillende downloads op deze pagina. Belangrijk om te weten is dat in versie 7.2.2 het transcoderen van videobestanden is verwijderd. Dat betekent onder meer dat de app Video Station is niet meer aanwezig is en dat Plex een aparte update nodig heeft voordat dit weer werkt. Deze uitgave moet enkele beveiligingsproblemen verhelpen: Important notes</description>
+            <author>Bart van Klaveren</author>
+            <category>Firmware</category>
+            <comments>https://tweakers.net/downloads/73422/synology-dsm-722-build-72806.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73422</guid>
+            <pubDate>Fri, 25 Jul 2025 13:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nederlandse politie ziet toename van cryptovalutagebruik onder criminelen</title>
+            <link>https://tweakers.net/nieuws/237474/nederlandse-politie-ziet-toename-van-cryptovalutagebruik-onder-criminelen.html</link>
+            <description>Criminelen gebruiken in toenemende mate cryptovaluta als alternatief voor contant geld. Daarvoor waarschuwt de Nederlandse politie, die zich zorgen maakt over hoe makkelijk criminelen cryptovaluta kunnen omzetten naar echt geld.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/237474/nederlandse-politie-ziet-toename-van-cryptovalutagebruik-onder-criminelen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237474</guid>
+            <pubDate>Fri, 25 Jul 2025 13:12:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>FreeBSD krijgt optie om grafische KDE-desktopomgeving mee te installeren</title>
+            <link>https://tweakers.net/nieuws/237478/freebsd-krijgt-optie-om-grafische-kde-desktopomgeving-mee-te-installeren.html</link>
+            <description>De makers van FreeBSD werken aan de mogelijkheid om bij de oorspronkelijke installatie ook een grafische desktopinterface mee te installeren. Dat is op dit moment niet mogelijk. De makers willen in FreeBSD voor het eerst KDE meeleveren.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Besturingssystemen</category>
+            <comments>https://tweakers.net/nieuws/237478/freebsd-krijgt-optie-om-grafische-kde-desktopomgeving-mee-te-installeren.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237478</guid>
+            <pubDate>Fri, 25 Jul 2025 12:54:34 +0200</pubDate>
+        </item>
         <item>
             <title>Intel ontslaat dit jaar 24.000 medewerkers en schrapt chipfabriek in Duitsland</title>
             <link>https://tweakers.net/nieuws/237486/intel-ontslaat-dit-jaar-24000-medewerkers-en-schrapt-chipfabriek-in-duitsland.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/video/20020/tweakers-podcast-383-gamemislukkingen-streamingads-en-adreswijzigingen.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/video/20020</guid>
             <pubDate>Thu, 24 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Tweakers Podcast #383 - Gamemislukkingen, streamingads en adreswijzigingen</title>
-            <link>https://tweakers.net/geek/237412/tweakers-podcast-383-gamemislukkingen-streamingads-en-adreswijzigingen.html</link>
-            <description>Deze week praten Wout Funnekotter, Jurian Ubachs en Arnoud Wokke over het verhuizen van internetabonnementen, advertenties die in de goedkoopste abonnementen van streamingdiensten zitten en boeken over de game-industrie.</description>
-            <author>Arnoud Wokke</author>
-            <category>.Geek / Beeld en geluid / Audio</category>
-            <comments>https://tweakers.net/geek/237412/tweakers-podcast-383-gamemislukkingen-streamingads-en-adreswijzigingen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/237412</guid>
-            <pubDate>Thu, 24 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Borderlands 4 komt in oktober uit voor Switch 2</title>
-            <link>https://tweakers.net/nieuws/237420/borderlands-4-komt-in-oktober-uit-voor-switch-2.html</link>
-            <description>Borderlands 4 komt op 3 oktober uit voor de Nintendo Switch 2. Dat bevestigt ontwikkelaar Gearbox op sociale media. Het was al bekend dat de game naar die console zou komen, maar de makers deelden niet eerder een concrete releasedatum voor dat platform.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/237420/borderlands-4-komt-in-oktober-uit-voor-switch-2.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237420</guid>
-            <pubDate>Wed, 23 Jul 2025 21:07:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>PS5-controllers kunnen straks aan meerdere apparaten gekoppeld worden</title>
-            <link>https://tweakers.net/nieuws/237430/ps5-controllers-kunnen-straks-aan-meerdere-apparaten-gekoppeld-worden.html</link>
-            <description>Sony werkt aan een PS5-update die het mogelijk maakt om de DualSense-controller aan meerdere apparaten te koppelen. Momenteel moet de controller telkens worden gehersynchroniseerd om te wisselen tussen meerdere apparaten. De update verschijnt deze week als bèta.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Gaming / Gamecontrollers</category>
-            <comments>https://tweakers.net/nieuws/237430/ps5-controllers-kunnen-straks-aan-meerdere-apparaten-gekoppeld-worden.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237430</guid>
-            <pubDate>Wed, 23 Jul 2025 20:49:00 +0200</pubDate>
         </item>
     </channel>
 </rss>

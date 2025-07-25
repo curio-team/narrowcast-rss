@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 25 Jul 2025 10:27:53 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 25 Jul 2025 11:22:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Google is testing a vibe-coding app called Opal</title>
+		<link>https://techcrunch.com/2025/07/25/google-is-testing-a-vibe-coding-app-called-opal/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Fri, 25 Jul 2025 11:22:51 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[ai apps]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[google labs]]></category>
+		<category><![CDATA[vibe coding]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3031199</guid>
+
+					<description><![CDATA[Google is testing a new vibe-coding tool called Opal, available in the U.S. through Google Labs, that lets users quickly spin up web apps with just a few prompts.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Amid increased momentum for defense, the NATO Innovation Fund refreshes its investment team</title>
 		<link>https://techcrunch.com/2025/07/24/amid-increased-momentum-for-defense-the-nato-innovation-fund-refreshes-its-investment-team/</link>
 		
@@ -229,8 +248,8 @@
 		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
 		<pubDate>Thu, 24 Jul 2025 15:48:32 +0000</pubDate>
 				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[turso]]></category>
 		<category><![CDATA[preston thorpe]]></category>
+		<category><![CDATA[turso]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3030933</guid>
 
 					<description><![CDATA[A senior software engineer for Turso, Thorpe is part of an experimental program in the Maine state prison system that allows incarcerated people to work remote jobs from custody. ]]></description>
@@ -371,24 +390,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3030871</guid>
 
 					<description><![CDATA[LegalOn, which provides AI-powered contract review software for legal teams, has raised $50 million in a Series C round. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mission Barns is betting that animal-free pork fat will make artificial meat delicious</title>
-		<link>https://techcrunch.com/2025/07/24/mission-barns-is-betting-that-animal-free-pork-fat-will-make-artificial-meat-delicious/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Thu, 24 Jul 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[alternative meat]]></category>
-		<category><![CDATA[Mission Barns]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3030668</guid>
-
-					<description><![CDATA[It’s the first such product to reach the market, and it could unlock a host of fattened-up meat alternatives.]]></description>
 		
 		
 		
