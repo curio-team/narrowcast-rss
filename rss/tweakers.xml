@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 25 Jul 2025 10:36:01 +0200</pubDate>
-        <lastBuildDate>Fri, 25 Jul 2025 10:36:01 +0200</lastBuildDate>
+        <pubDate>Fri, 25 Jul 2025 11:36:01 +0200</pubDate>
+        <lastBuildDate>Fri, 25 Jul 2025 11:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Immich 1.136.0</title>
+            <link>https://tweakers.net/downloads/73420/immich-11360.html</link>
+            <description>Immich is een opensource oplossing voor het opslaan en beheren van foto&#039;s en video&#039;s. Het draait in Docker, waardoor je alles in eigen hand hebt en niet afhankelijk bent van een derde partij. Het wordt door velen als een serieuze concurrent van bijvoorbeeld Google Photos beschouwd. De media kan via een webbrowser worden benaderd en er zijn ook apps voor Android en iOS. Een demo van Immich is hier te vinden. Versie 1.136.0 is uitgekomen en daar zijn enkele grote veranderingen in aangebracht die mogelijk consequenties hebben, dus lees de releasenotes eerst door voor je bijwerkt.</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73420/immich-11360.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73420</guid>
+            <pubDate>Fri, 25 Jul 2025 11:30:00 +0200</pubDate>
+        </item>
         <item>
             <title>Starlink was door storing wereldwijd ruim 2,5 uur niet te gebruiken</title>
             <link>https://tweakers.net/nieuws/237480/starlink-was-door-storing-wereldwijd-ruim-2-komma-5-uur-niet-te-gebruiken.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/237424/toezichthouder-vk-wil-maatregelen-nemen-tegen-duopolie-van-android-en-ios.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237424</guid>
             <pubDate>Wed, 23 Jul 2025 20:28:30 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - CCleaner 6.38</title>
-            <link>https://tweakers.net/downloads/73400/ccleaner-638.html</link>
-            <description>Piriform heeft versie 6.38 van CCleaner uitgebracht. Met dit programma kunnen diverse onderdelen van Windows worden opgeschoond. Hierbij valt te denken aan tijdelijke Windows- en internetbestanden, maar ook aan overbodige rommel van een groot aantal andere programma&#039;s, waaronder Windows Media Player, Google Toolbar, Microsoft Office, Photoshop, WinRAR en ga zo maar door. Bovendien is het aantal programma&#039;s waarvan CCleaner de rommel kan opruimen, eenvoudig uit te breiden met het programma CCEnhancer. Naast opruimen kan CCleaner ook fouten in het register en in snelkoppelingen verhelpen, de lijst met programma&#039;s aanpassen die met Windows starten en is het mogelijk om cookies te beheren. Vanaf deze versie kan ook de algehele conditie van de computer worden getest. Naast een gratis uitvoering is er ook een pro-versie, die onder meer een automatische-updatefunctie biedt. In deze release is het probleem verholpen dat de browsergeschiedenis is Chromium-browsers niet goed werd opgeruimd. CCleaner v6.38.11537</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73400/ccleaner-638.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73400</guid>
-            <pubDate>Wed, 23 Jul 2025 19:50:31 +0200</pubDate>
         </item>
     </channel>
 </rss>
