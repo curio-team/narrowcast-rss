@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 25 Jul 2025 15:41:02 +0200</pubDate>
-        <lastBuildDate>Fri, 25 Jul 2025 15:41:02 +0200</lastBuildDate>
+        <pubDate>Fri, 25 Jul 2025 16:36:01 +0200</pubDate>
+        <lastBuildDate>Fri, 25 Jul 2025 16:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Ronde Zet 5-cpu-luchtkoeler met 120mm-fans van Zalman kost 72 euro</title>
+            <link>https://tweakers.net/nieuws/237494/ronde-zet-5-cpu-luchtkoeler-met-120mm-fans-van-zalman-kost-72-euro.html</link>
+            <description>Zalman heeft de Zet 5-luchtkoeler uitgebracht. Het is een ronde koeler met een twee 120mm-fans die met pogopins kunnen worden opgezet en zo ook makkelijk kunnen worden verwijderd.  De koeler heeft een tdp van 200W.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Processorkoeling</category>
+            <comments>https://tweakers.net/nieuws/237494/ronde-zet-5-cpu-luchtkoeler-met-120mm-fans-van-zalman-kost-72-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237494</guid>
+            <pubDate>Fri, 25 Jul 2025 15:53:42 +0200</pubDate>
+        </item>
         <item>
             <title>Meta schrapt politieke advertenties in Europa vlak voor Nederlandse verkiezingen</title>
             <link>https://tweakers.net/nieuws/237492/meta-schrapt-politieke-advertenties-in-europa-vlak-voor-nederlandse-verkiezingen.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/237436/kpn-gaat-sms-tweetrapsauthenticatie-verplichten-voor-alle-accounts.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237436</guid>
             <pubDate>Thu, 24 Jul 2025 09:51:55 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - GPU-Z 2.67.0</title>
-            <link>https://tweakers.net/downloads/73402/gpu-z-2670.html</link>
-            <description>Versie 2.67.0 van GPU-Z is uitgekomen. Dit programma kan precies vertellen welke grafische kaart in de pc zit. Zo vermeldt het onder meer fabrikant, model, type, revisie en snelheid van de grafische processor, maar ook de hoeveelheid, type en snelheid van het geheugen. Hoewel de naam en het uiterlijk doen denken aan CPU-Z en PCI-Z, vergelijkbare programma&#039;s voor processors en PCI-devices, zijn die programma&#039;s van andere makers. In deze uitgave zijn de volgende veranderingen en verbeteringen doorgevoerd: Changes in version 2.67.0:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73402/gpu-z-2670.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73402</guid>
-            <pubDate>Thu, 24 Jul 2025 09:30:00 +0200</pubDate>
         </item>
     </channel>
 </rss>

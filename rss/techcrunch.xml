@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 25 Jul 2025 13:24:51 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 25 Jul 2025 14:15:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,43 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Apple broadens App Store&#8217;s age rating system</title>
+		<link>https://techcrunch.com/2025/07/25/apple-broadens-app-stores-age-rating-system/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Fri, 25 Jul 2025 14:15:40 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[app store]]></category>
+		<category><![CDATA[Apple]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3031225</guid>
+
+					<description><![CDATA[Apple has expanded its age rating system to include 13+, 16+, and 18+ ratings, in addition to the existing ratings for younger users.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tesla is reportedly behind on its pledge to build 5,000 Optimus bots this year</title>
+		<link>https://techcrunch.com/2025/07/25/tesla-is-reportedly-behind-on-its-pledge-to-build-5000-optimus-bots-this-year/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Fri, 25 Jul 2025 14:14:19 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[humanoid robot]]></category>
+		<category><![CDATA[Optimus]]></category>
+		<category><![CDATA[robotics]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<category><![CDATA[tesla optimus]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3031231</guid>
+
+					<description><![CDATA[Tesla is behind on its goal to produce at least 5,000 Optimus humanoid robots by the end of 2025.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Meta to stop selling political ads in the EU from October</title>
 		<link>https://techcrunch.com/2025/07/25/meta-to-stop-selling-political-ads-in-the-eu-from-october/</link>
 		
@@ -353,40 +390,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3030398</guid>
 
 					<description><![CDATA[Memories.ai's platform can process up to 10 million hours of video. For companies with a lot of video to analyze, the startup wants to provide a contextual layer, complete with searchable indexing, tagging, segments and aggregation.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google&#8217;s new AI feature lets you virtually try on clothes</title>
-		<link>https://techcrunch.com/2025/07/24/googles-new-ai-feature-lets-you-virtually-try-on-clothes/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Thu, 24 Jul 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[Google Shopping]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3030612</guid>
-
-					<description><![CDATA[The feature is launching in the United States today, letting users try on apparel items in Google's Shopping Graph across Search, Google Shopping and product results on Google Images. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Snapchat will now let your friends know you&#8217;ve made it home safe</title>
-		<link>https://techcrunch.com/2025/07/24/snapchat-will-now-let-your-friends-know-youve-made-it-home-safe/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Thu, 24 Jul 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Snap]]></category>
-		<category><![CDATA[Snapchat]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3030719</guid>
-
-					<description><![CDATA[Snap Map's new "Home Safe" feature sends one-time alerts to friends, so you don't need to remember to message others that you're back safely.]]></description>
 		
 		
 		
