@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 24 Jul 2025 16:36:05 +0200</pubDate>
-        <lastBuildDate>Thu, 24 Jul 2025 16:36:05 +0200</lastBuildDate>
+        <pubDate>Fri, 25 Jul 2025 09:31:02 +0200</pubDate>
+        <lastBuildDate>Fri, 25 Jul 2025 09:31:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,166 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Tails 6.18</title>
+            <link>https://tweakers.net/downloads/73418/tails-618.html</link>
+            <description>Tails staat voor &#039;The amnesic incognito live system&#039; en is een live Linux-distributie die zich richt op privacy en anonimiteit. Als basis maakt het gebruik van Debian GNU/Linux en het voegt daaraan een Gnome-omgeving met Tor, Tor Browser, Pidgin, Thunderbird, Electrum, LibreOffice, GPG en KeePassXC toe. Voor meer informatie verwijzen we naar deze pagina. Versie 6 is op Debian 12 gebaseerd en heeft Gnome 43 als desktopomgeving. In versie 6.18 zijn de volgende veranderingen en verbeteringen aangebracht: Changes and updates</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73418/tails-618.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73418</guid>
+            <pubDate>Fri, 25 Jul 2025 09:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Kobo gaat Instapaper integreren als vervanger van Pocket</title>
+            <link>https://tweakers.net/nieuws/237472/kobo-gaat-instapaper-integreren-als-vervanger-van-pocket.html</link>
+            <description>E-readerfabrikant Kobo gaat een Instapaper-integratie bouwen. Het bedrijf wil een alternatieve manier voor gebruikers om opgeslagen artikelen te kunnen lezen, nadat Mozilla eerder dit jaar stopte met Pocket.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Tablets en telefoons / E-readers</category>
+            <comments>https://tweakers.net/nieuws/237472/kobo-gaat-instapaper-integreren-als-vervanger-van-pocket.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237472</guid>
+            <pubDate>Fri, 25 Jul 2025 09:13:17 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Dit is de WHY2025-badge met twee ESP32&#039;s en een loramodule</title>
+            <link>https://tweakers.net/geek/237414/dit-is-de-why2025-badge-met-twee-esp32s-en-een-loramodule.html</link>
+            <description>Als je hackersconferentie geen veel te overpowerd minicomputer als badge heeft, ben je dan wel een echte hackersconferentie? WHY2025 nam het zekere voor het onzekere door een ESP32-controller, een lora-chip en een kraakhelder scherm in zijn badge te verwerken. Tweakers kreeg een voorproefje van de badge, die in augustus tijdens de hackercon wordt gebruikt.</description>
+            <author>Tijs Hofmans</author>
+            <category>.Geek / Computers / Hardware modding</category>
+            <comments>https://tweakers.net/geek/237414/dit-is-de-why2025-badge-met-twee-esp32s-en-een-loramodule.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/237414</guid>
+            <pubDate>Fri, 25 Jul 2025 08:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Audacious 4.5</title>
+            <link>https://tweakers.net/downloads/73416/audacious-45.html</link>
+            <description>Versie 4.5 van Audacious is uitgekomen. Audacious is een lichtgewicht en opensource muziekspeler en in zekere zin de opvolger van xmms. Het programma kan audio-cd&#039;s afspelen of muziekbestanden op de computer, maar ook direct streamen van internet. Het heeft een equalizer aan boord en kan overweg met Winamp-skins. Downloads zijn beschikbaar voor Windows en verschillende Linux-distributies. De changelog voor deze uitgave ziet er als volgt uit: New plugins and features:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73416/audacious-45.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73416</guid>
+            <pubDate>Fri, 25 Jul 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - Samsung Odyssey OLED G81SF 27&quot; en 32&quot; - Extra matte oled is niet in alles beter</title>
+            <link>https://tweakers.net/reviews/13484/samsung-odyssey-oled-g81sf-27-inch-en-32-inch-extra-matte-oled-is-niet-in-alles-beter.html</link>
+            <description>De Odyssey OLED G8 G81SF is Samsungs high-end 4k-gamingmonitor voor dit jaar. Naast een 32&quot;-scherm is er nu ook een kleiner 27&quot;-model. Hoe presteren ze in de praktijk?</description>
+            <author>Friso Weijers</author>
+            <category>Review / Computers / Monitors</category>
+            <comments>https://tweakers.net/reviews/13484/samsung-odyssey-oled-g81sf-27-inch-en-32-inch-extra-matte-oled-is-niet-in-alles-beter.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13484</guid>
+            <pubDate>Fri, 25 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google zet afbeelding van alle Pixel 10-telefoons in de Play Store</title>
+            <link>https://tweakers.net/nieuws/237470/google-zet-afbeelding-van-alle-pixel-10-telefoons-in-de-play-store.html</link>
+            <description>Een site heeft een afbeelding van alle Pixel 10-telefoons aangetroffen in de app van de Play Store, waar Google zijn telefoons vermoedelijk wil promoten. De afbeelding toont vier modellen, waaronder de nieuwe Fold.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/237470/google-zet-afbeelding-van-alle-pixel-10-telefoons-in-de-play-store.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237470</guid>
+            <pubDate>Thu, 24 Jul 2025 21:41:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - FileZilla Server 1.10.5</title>
+            <link>https://tweakers.net/downloads/73414/filezilla-server-1105.html</link>
+            <description>Versie 1.10.5 van de opensource FTP-server FileZilla Server is uitgekomen. FileZilla Server is een kleine en krachtige FTP-server met onder andere ondersteuning voor FXP (het versturen van bestanden van de ene naar de andere FTP-server), beveiligde verbindingen (SSL en TLS), GSS-authenticatie en Kerberos-encryptie. Het programma was lange tijd alleen beschikbaar voor Windows, maar sinds versie 1.2.0 ook voor Linux en macOS. In deze uitgave zijn de volgende twee problemen verholpen. Bugfixes and minor changes:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73414/filezilla-server-1105.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73414</guid>
+            <pubDate>Thu, 24 Jul 2025 21:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Apple brengt publieke bèta&#039;s uit van onder meer iOS 26 en macOS 26</title>
+            <link>https://tweakers.net/nieuws/237468/apple-brengt-publieke-betas-uit-van-onder-meer-ios-26-en-macos-26.html</link>
+            <description>Apple heeft de publieke bèta&#039;s van iOS 26, iPadOS 26, watchOS 26, tvOS 26 en macOS 26 Tahoe uitgebracht. De bèta&#039;s voor ontwikkelaars waren er sinds vorige maand. De release volgt in het najaar.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Computers / Software</category>
+            <comments>https://tweakers.net/nieuws/237468/apple-brengt-publieke-betas-uit-van-onder-meer-ios-26-en-macos-26.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237468</guid>
+            <pubDate>Thu, 24 Jul 2025 20:33:15 +0200</pubDate>
+        </item>
+        <item>
+            <title>Snapchat krijgt functie om te laten weten dat gebruiker veilig thuis is gekomen</title>
+            <link>https://tweakers.net/nieuws/237466/snapchat-krijgt-functie-om-te-laten-weten-dat-gebruiker-veilig-thuis-is-gekomen.html</link>
+            <description>Snapchat heeft een functie gekregen waarmee gebruikers hun contacten kunnen laten weten dat ze veilig thuis zijn gekomen. Dit werkt alleen met contacten met wie de gebruiker al de locatie heeft gedeeld. Het gaat om een eenmalige notificatie.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/237466/snapchat-krijgt-functie-om-te-laten-weten-dat-gebruiker-veilig-thuis-is-gekomen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237466</guid>
+            <pubDate>Thu, 24 Jul 2025 20:12:23 +0200</pubDate>
+        </item>
+        <item>
+            <title>EU onderzoekt of KKR foute info gaf bij overname Italiaanse glasvezelbeheerder</title>
+            <link>https://tweakers.net/nieuws/237464/eu-onderzoekt-of-kkr-foute-info-gaf-bij-overname-italiaanse-glasvezelbeheerder.html</link>
+            <description>De Europese Commissie onderzoekt of investeerder KKR foute informatie gaf bij het vragen van toestemming voor de overname van een beheerder van glasvezelverbindingen in Italië. De Commissie keurde de overname vorig jaar goed zonder voorwaarden.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237464/eu-onderzoekt-of-kkr-foute-info-gaf-bij-overname-italiaanse-glasvezelbeheerder.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237464</guid>
+            <pubDate>Thu, 24 Jul 2025 19:50:11 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - WinRAR 7.13 bèta 1</title>
+            <link>https://tweakers.net/downloads/73412/winrar-713-beta-1.html</link>
+            <description>RAR Labs heeft de eerste bètarelease van versie 7.13 van zijn archiveringsprogramma WinRAR uitgebracht. Deze populaire compressietool is beschikbaar voor diverse besturingssystemen, waaronder Windows, Linux en macOS, deze bèta is echter alleen voor Windows uitgebracht. De programma&#039;s kunnen overweg met de gangbaarste formaten - waaronder rar, zip, cab, arj, lzh, tar, gz, uue, bz2, jar, iso, 7z en z -, hebben een skinnable interface en ondersteuning voor Zip64- en multivolume cabbestanden. In deze uitgave zijn de volgende verbeteringen aangebracht: Changes in version WinRAR version 7.13 beta 1</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73412/winrar-713-beta-1.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73412</guid>
+            <pubDate>Thu, 24 Jul 2025 19:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Bèta iOS 26 bevat code die hint op Apple HomePod met scherm</title>
+            <link>https://tweakers.net/nieuws/237462/beta-ios-26-bevat-code-die-hint-op-apple-homepod-met-scherm.html</link>
+            <description>De vierde bèta van iOS 26, die afgelopen week uitkwam, bevat een hint dat Apple werkt aan een HomePod met scherm. De geruchten over zo&#039;n apparaat gaan al jaren, maar de fabrikant heeft daar zelf niets over gezegd.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Beeld en geluid / Speakers</category>
+            <comments>https://tweakers.net/nieuws/237462/beta-ios-26-bevat-code-die-hint-op-apple-homepod-met-scherm.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237462</guid>
+            <pubDate>Thu, 24 Jul 2025 19:10:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Pixel Watch 4 is niet compatibel met laders van voorgaande Google-horloges&#039;</title>
+            <link>https://tweakers.net/nieuws/237460/pixel-watch-4-is-niet-compatibel-met-laders-van-voorgaande-google-horloges.html</link>
+            <description>Google zou de laadpunten op de Pixel Watch 4 hebben aangepast ten opzichte van voorgaande Pixel Watch-generaties. Daardoor werken laders van alle voorgaande Pixel Watch-generaties niet met het nieuwe klokje.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartwatches</category>
+            <comments>https://tweakers.net/nieuws/237460/pixel-watch-4-is-niet-compatibel-met-laders-van-voorgaande-google-horloges.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237460</guid>
+            <pubDate>Thu, 24 Jul 2025 18:45:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>WhatsApp-bèta krijgt Meta AI met &#039;spraakmodus&#039; die moet lijken op telefoontje</title>
+            <link>https://tweakers.net/nieuws/237458/whatsapp-beta-krijgt-meta-ai-met-spraakmodus-die-moet-lijken-op-telefoontje.html</link>
+            <description>WhatsApp krijgt een Meta AI-interface met spraak, die zich moet gedragen als een telefoontje. Zo blijft het gesprek actief, ook als gebruikers van app wisselen. De interface is ook op te roepen vanuit het tabblad met telefoontjes.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/237458/whatsapp-beta-krijgt-meta-ai-met-spraakmodus-die-moet-lijken-op-telefoontje.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237458</guid>
+            <pubDate>Thu, 24 Jul 2025 18:01:23 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Directory Opus 13.17</title>
+            <link>https://tweakers.net/downloads/73410/directory-opus-1317.html</link>
+            <description>GPSoftware heeft versie 13.17 van zijn bestandsmanager Directory Opus uitgebracht. Dit programma is in zekere zin vergelijkbaar met Total Commander, maar dan met uitgebreidere mogelijkheden over welke informatie precies moet worden weergegeven en op welke manier. Directory Opus is veelzijdig en extreem configureerbaar, zowel wat functionaliteit als wat uiterlijk betreft. Dat is meteen ook het grootste probleem, want het programma kan zeker op beginnende gebruikers complex overkomen. Het programma kan na registratie 60 dagen worden getest; daarna moet een licentie van 89 Australische dollar worden aangeschaft, wat neerkomt op ongeveer 55 euro. De changelog voor deze uitgave kan hieronder worden gevonden: Compatibility</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73410/directory-opus-1317.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73410</guid>
+            <pubDate>Thu, 24 Jul 2025 17:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>EA kondigt Battlefield 6 aan en deelt eerste trailer</title>
+            <link>https://tweakers.net/nieuws/237454/ea-kondigt-battlefield-6-aan-en-deelt-eerste-trailer.html</link>
+            <description>EA heeft de volgende Battlefield-game aangekondigd, hoewel het bedrijf daarbij weinig concrete details deelde. In een aankondigingstrailer worden wel al details gedeeld over het verhaal van de shooter. EA belooft volgende week meer details te delen, waaronder beelden van de multiplayer.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/237454/ea-kondigt-battlefield-6-aan-en-deelt-eerste-trailer.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237454</guid>
+            <pubDate>Thu, 24 Jul 2025 17:24:00 +0200</pubDate>
+        </item>
         <item>
             <title>Amazon brengt eerste e-reader met kleurenscherm uit in Nederland en België</title>
             <link>https://tweakers.net/nieuws/237452/amazon-brengt-eerste-e-reader-met-kleurenscherm-uit-in-nederland-en-belgie.html</link>
@@ -256,166 +416,6 @@
             <comments>https://tweakers.net/nieuws/237426/overheid-vs-wil-ai-ontwikkeling-versnellen-door-minder-te-reguleren.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237426</guid>
             <pubDate>Wed, 23 Jul 2025 19:17:10 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nieuwe versie Qi2-standaard krijgt ondersteuning voor draadloos laden op 25W</title>
-            <link>https://tweakers.net/nieuws/237422/nieuwe-versie-qi2-standaard-krijgt-ondersteuning-voor-draadloos-laden-op-25w.html</link>
-            <description>Het Wireless Power Consortium heeft een nieuwe versie van de Qi2-standaard aangekondigd. Deze biedt een hoger laadvermogen van 25W. Er verschijnen binnenkort &#039;meerdere grote Android-smartphones&#039; die 25W-laden ondersteunen.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/237422/nieuwe-versie-qi2-standaard-krijgt-ondersteuning-voor-draadloos-laden-op-25w.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237422</guid>
-            <pubDate>Wed, 23 Jul 2025 18:26:43 +0200</pubDate>
-        </item>
-        <item>
-            <title>Sonos benoemt interim-ceo Tom Conrad officieel tot nieuwe topman</title>
-            <link>https://tweakers.net/nieuws/237418/sonos-benoemt-interim-ceo-tom-conrad-officieel-tot-nieuwe-topman.html</link>
-            <description>Sonos heeft Tom Conrad officieel benoemd tot de nieuwe ceo van het audiobedrijf. Conrad was sinds dit jaar al de interim-ceo van Sonos, nadat zijn voorganger opstapte na een mislukte softwarerelease.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Beeld en geluid / Speakers</category>
-            <comments>https://tweakers.net/nieuws/237418/sonos-benoemt-interim-ceo-tom-conrad-officieel-tot-nieuwe-topman.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237418</guid>
-            <pubDate>Wed, 23 Jul 2025 17:47:14 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Mozilla Thunderbird 141.0</title>
-            <link>https://tweakers.net/downloads/73396/mozilla-thunderbird-1410.html</link>
-            <description>De Mozilla Foundation heeft versie 141.0 van Thunderbird uitgebracht. Thunderbird is een opensourceclient voor e-mail en nieuwsgroepen met ondersteuning voor verschillende mail- en newsaccounts. Verder zijn er een spamfilter, spellingscontrole, kalender en adresboek, en heeft het een aanpasbaar uiterlijk. Thunderbird is beschikbaar in twee verschillende versies, die beide als stabiel worden aangeduid. De eerste wordt vaker voorzien van nieuwe functionaliteit en wordt als Release-versie aangeboden; de andere, de Extra Support Release-versie, wordt alleen van bugfixes en stabiliteitsverbeteringen voorzien. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: What’s Fixed</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73396/mozilla-thunderbird-1410.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73396</guid>
-            <pubDate>Wed, 23 Jul 2025 17:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>KPN heeft infrastructuur om twee derde Nederland op glasvezel aan te sluiten</title>
-            <link>https://tweakers.net/nieuws/237416/kpn-heeft-infrastructuur-om-twee-derde-nederland-op-glasvezel-aan-te-sluiten.html</link>
-            <description>KPN en Glaspoort kunnen samen twee derde van Nederland op glasvezel aansluiten, maakt de operator bekend in zijn jaarcijfers. Dat komt neer op ongeveer 5,5 miljoen huishoudens. In de eerste helft van 2025 legden KPN en Glaspoort de infrastructuur bij 462.000 huishoudens aan.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237416/kpn-heeft-infrastructuur-om-twee-derde-nederland-op-glasvezel-aan-te-sluiten.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237416</guid>
-            <pubDate>Wed, 23 Jul 2025 16:45:17 +0200</pubDate>
-        </item>
-        <item>
-            <title>Brave-browser blokkeert standaard omstreden Windows Recall-functie</title>
-            <link>https://tweakers.net/nieuws/237400/brave-browser-blokkeert-standaard-omstreden-windows-recall-functie.html</link>
-            <description>Brave blokkeert standaard de nieuwe Windows Recall-functie, schrijft het bedrijf op X. Bij gebruikers die de 1.81-update installeren, kan de nieuwe functie van Windows geen screenshots van Brave-tabbladen maken.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237400/brave-browser-blokkeert-standaard-omstreden-windows-recall-functie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237400</guid>
-            <pubDate>Wed, 23 Jul 2025 15:54:43 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Camtasia 2025.2.0</title>
-            <link>https://tweakers.net/downloads/73394/camtasia-202520.html</link>
-            <description>TechSmith heeft versie 2025.2.0 van Camtasia uitgebracht. Met dit programma, wat voor Windows en macOS beschikbaar is, kunnen op een eenvoudige manier video&#039;s voor onder meer trainingen en presentaties worden gemaakt. Het kan op aparte sporen de microfoon, de webcam, wat er op het beeldscherm gebeurt, het geluid dat op de computer wordt afgespeeld en de invoer van muis en toetsenbord opnemen. Dit alles kan vervolgens afzonderlijk worden bewerkt en verder kunnen er effecten aan worden toegevoegd om zo professionele video&#039;s te maken. Voor meer informatie verwijzen we naar deze pagina, waar alle mogelijkheden op een rijtje worden gezet. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Single Window Recording</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73394/camtasia-202520.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73394</guid>
-            <pubDate>Wed, 23 Jul 2025 15:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Apple maakt menu&#039;s weer transparanter in vierde bèta iOS 26</title>
-            <link>https://tweakers.net/nieuws/237398/apple-maakt-menus-weer-transparanter-in-vierde-beta-ios-26.html</link>
-            <description>Apple heeft de transparantie van meerdere menu&#039;s verhoogd in de vierde bèta van iOS 26. In de vorige bèta van het besturingssysteem verminderde het bedrijf juist de transparantie van veel menu&#039;s. Daarnaast staan AI-samenvattingen van nieuwsmeldingen weer aan.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/237398/apple-maakt-menus-weer-transparanter-in-vierde-beta-ios-26.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237398</guid>
-            <pubDate>Wed, 23 Jul 2025 15:22:38 +0200</pubDate>
-        </item>
-        <item>
-            <title>Amazon voegt vanaf 26 augustus advertenties toe aan Prime Video in Nederland</title>
-            <link>https://tweakers.net/nieuws/237410/amazon-voegt-vanaf-26-augustus-advertenties-toe-aan-prime-video-in-nederland.html</link>
-            <description>Amazon voegt vanaf 26 augustus &#039;in beperkte mate&#039; advertenties toe aan Prime Video in Nederland, zo schrijft het bedrijf in een e-mail naar klanten. Amazon introduceert ook een advertentievrije optie. Die optie kost 3 euro meer dan het abonnement met advertenties.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / Beeld en geluid / Televisies</category>
-            <comments>https://tweakers.net/nieuws/237410/amazon-voegt-vanaf-26-augustus-advertenties-toe-aan-prime-video-in-nederland.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237410</guid>
-            <pubDate>Wed, 23 Jul 2025 14:55:08 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft maakt omstreden Recall-functie beschikbaar voor Europese gebruikers</title>
-            <link>https://tweakers.net/nieuws/237408/microsoft-maakt-omstreden-recall-functie-beschikbaar-voor-europese-gebruikers.html</link>
-            <description>Microsoft heeft de Windows Recall-functie beschikbaar gemaakt voor gebruikers in Europa. Die functie maakt continu screenshots van het beeldscherm van gebruikers. Microsoft introduceerde de functie in mei 2024. In april 2025 was de functie al beschikbaar voor gebruikers buiten de EU.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237408/microsoft-maakt-omstreden-recall-functie-beschikbaar-voor-europese-gebruikers.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237408</guid>
-            <pubDate>Wed, 23 Jul 2025 14:11:24 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Beyond Compare 5.1.1</title>
-            <link>https://tweakers.net/downloads/73390/beyond-compare-511.html</link>
-            <description>Scooter Software heeft versie 5.1.1 van Beyond Compare uitgebracht. Met dit zeer uitgebreide programma, dat beschikbaar is voor Windows, Linux en macOS, kunnen bestanden met elkaar worden vergeleken. Daarnaast is het mogelijk om complete mappen, FTP-locaties en archieven te vergelijken. Beyond Compare is beschikbaar in een standaard- en een pro-uitvoering, voor prijzen die beginnen bij 35 dollar. De onderlinge verschillen kunnen op deze pagina worden gevonden. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Notable Changes</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73390/beyond-compare-511.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73390</guid>
-            <pubDate>Wed, 23 Jul 2025 13:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Proton brengt privacyvriendelijke AI-chatbot Lumo uit</title>
-            <link>https://tweakers.net/nieuws/237406/proton-brengt-privacyvriendelijke-ai-chatbot-lumo-uit.html</link>
-            <description>Proton komt met een eigen AI-assistent, genaamd Lumo. De assistent wordt gebaseerd op opensource-llm&#039;s en is volgens het Zwitserse bedrijf privé. Er is een gratis versie van Lumo, hoewel er ook een betaalde Plus-variant komt met onbegrensd gebruik en andere voordelen.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/nieuws/237406/proton-brengt-privacyvriendelijke-ai-chatbot-lumo-uit.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237406</guid>
-            <pubDate>Wed, 23 Jul 2025 13:09:23 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;MediaTek wint aanbesteding van Broadcom voor productie AI-chip van Meta&#039;</title>
-            <link>https://tweakers.net/nieuws/237404/mediatek-wint-aanbesteding-van-broadcom-voor-productie-ai-chip-van-meta.html</link>
-            <description>MediaTek zal waarschijnlijk de Arke-chip gaan ontwerpen die Meta wil gebruiken voor zijn AI. Volgens DigiTimes gaat het om een 2nm-asic en begint de massaproductie in 2027. Er wordt verwacht dat het bedrijf de aanbesteding, waaraan onder meer Broadcom deelneemt, zal winnen.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237404/mediatek-wint-aanbesteding-van-broadcom-voor-productie-ai-chip-van-meta.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237404</guid>
-            <pubDate>Wed, 23 Jul 2025 11:58:32 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - 1Password 8.11.2</title>
-            <link>https://tweakers.net/downloads/73388/1password-8112.html</link>
-            <description>Voor de veiligheid is het beter om voor ieder account een ander en sterk wachtwoord te gebruiken. Als een bepaalde dienst wachtwoorden laat uitlekken, zijn niet al je andere accounts met hetzelfde wachtwoord toegankelijk. Voor het bijhouden van al deze verschillende wachtwoorden zijn wachtwoordmanagers een uitkomst. 1Password is er hier een van en is beschikbaar als webapplicatie, als app op verschillende platforms en als extensie voor de meestgebruikte browsers. Het kan twee weken geprobeerd worden, waarna een licentie moet worden aangeschaft. Voor meer informatie over de mogelijkheden verwijzen we naar deze pagina. In versie 8.11.2 zijn de volgende verbeteringen en bugfixes doorgevoerd: 1Password for Windows 8.11.2</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73388/1password-8112.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73388</guid>
-            <pubDate>Wed, 23 Jul 2025 11:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft introduceert tool om makkelijk naar Windows 11-systeem te switchen</title>
-            <link>https://tweakers.net/nieuws/237402/microsoft-introduceert-tool-om-makkelijk-naar-windows-11-systeem-te-switchen.html</link>
-            <description>Microsoft heeft een supporthandleiding gepubliceerd voor een tool waarmee gebruikers hun instellingen en bestanden naar een ander Windows-systeem kunnen overzetten. De tool zit al in Windows 11 24H2, maar is nog niet te gebruiken.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
-            <comments>https://tweakers.net/nieuws/237402/microsoft-introduceert-tool-om-makkelijk-naar-windows-11-systeem-te-switchen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237402</guid>
-            <pubDate>Wed, 23 Jul 2025 10:08:05 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - IPFire 2.29 - Core Update 196</title>
-            <link>https://tweakers.net/downloads/73386/ipfire-229-core.html</link>
-            <description>IPFire is een opensourcefirewall voor i586-, x86_64- en Arm-systemen. Het bevat onder andere een intrusion detection/prevention system, deelt het netwerk op in zones, doet stateful packet inspection en biedt vpn-mogelijkheden. Voor meer informatie verwijzen we naar deze pagina. De ontwikkelaars hebben versie 2.29 Core Update 196 uitgebracht en de changelog daarvan kan hieronder worden gevonden: IPFire 2.29 - Core Update 196 released</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73386/ipfire-229-core.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73386</guid>
-            <pubDate>Wed, 23 Jul 2025 09:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Openbaar Ministerie bevestigt dat lek in Citrix NetScaler is misbruikt</title>
-            <link>https://tweakers.net/nieuws/237396/openbaar-ministerie-bevestigt-dat-lek-in-citrix-netscaler-is-misbruikt.html</link>
-            <description>Het Nederlandse Openbaar Ministerie is daadwerkelijk gehackt, blijkt uit een toelichting van directeur Informatievoorziening OM Hans Moonen, die in handen is van NRC. Het duurt mogelijk nog weken om het netwerk veilig te stellen en te achterhalen of en welke informatie gestolen is.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/237396/openbaar-ministerie-bevestigt-dat-lek-in-citrix-netscaler-is-misbruikt.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237396</guid>
-            <pubDate>Wed, 23 Jul 2025 08:49:24 +0200</pubDate>
         </item>
     </channel>
 </rss>
