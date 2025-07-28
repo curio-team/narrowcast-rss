@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 28 Jul 2025 13:31:03 +0200</pubDate>
-        <lastBuildDate>Mon, 28 Jul 2025 13:31:03 +0200</lastBuildDate>
+        <pubDate>Mon, 28 Jul 2025 14:41:01 +0200</pubDate>
+        <lastBuildDate>Mon, 28 Jul 2025 14:41:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,12 +18,22 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
-            <title>Investeerder: techbedrijven gaan mensen ontslaan, ook als omzet en winst groeien</title>
-            <link>https://tweakers.net/nieuws/237550/investeerder-techbedrijven-gaan-mensen-ontslaan-ook-als-omzet-en-winst-groeien.html</link>
+            <title>INNO3D past RTX5090 en RTX5080 in enkel slot dankzij waterkoeling van Alphacool</title>
+            <link>https://tweakers.net/nieuws/237552/inno3d-past-rtx5090-en-rtx5080-in-enkel-slot-dankzij-waterkoeling-van-alphacool.html</link>
+            <description>INNO3D heeft varianten van de Nvidia RTX 5090 en RTX 5080 uitgebracht die in een enkel slot passen. Daarmee zijn dat de eerste verkrijgbare RTX 5090- en RTX 5080-kaarten die dat kunnen. Dat is mogelijk door waterkoeling.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/237552/inno3d-past-rtx5090-en-rtx5080-in-enkel-slot-dankzij-waterkoeling-van-alphacool.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237552</guid>
+            <pubDate>Mon, 28 Jul 2025 13:57:41 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Techbedrijven gaan mensen ontslaan door AI-strategie, zelfs als omzet groeit&#039;</title>
+            <link>https://tweakers.net/nieuws/237550/techbedrijven-gaan-mensen-ontslaan-door-ai-strategie-zelfs-als-omzet-groeit.html</link>
             <description>Techbedrijven gaan mensen de komende tijd ontslaan, zelfs als die bedrijven financieel gezond zijn. Dat claimt investeerder en Silicon Valley-veteraan Om Malik. Bedrijven zullen mensen alleen willen houden als die passen bij hun AI-strategie.</description>
             <author>Arnoud Wokke</author>
             <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237550/investeerder-techbedrijven-gaan-mensen-ontslaan-ook-als-omzet-en-winst-groeien.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/237550/techbedrijven-gaan-mensen-ontslaan-door-ai-strategie-zelfs-als-omzet-groeit.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237550</guid>
             <pubDate>Mon, 28 Jul 2025 11:56:33 +0200</pubDate>
         </item>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/237496/id-bewijzen-gebruikers-anonieme-datingveiligheidsapp-tea-app-verschijnen-online.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237496</guid>
             <pubDate>Fri, 25 Jul 2025 18:15:46 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Vader van The Elder Scrolls&#039; Julian LeFay is overleden</title>
-            <link>https://tweakers.net/nieuws/237498/vader-van-the-elder-scrolls-julian-lefay-is-overleden.html</link>
-            <description>De Deense gamemaker en muzikant Julian LeFay is op 59-jarige leeftijd overleden aan de gevolgen van kanker. LeFay wordt gezien als de &#039;vader van The Elder Scrolls&#039; vanwege zijn belangrijke rol in de begindagen van Bethesda&#039;s iconische rpg-franchise.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237498/vader-van-the-elder-scrolls-julian-lefay-is-overleden.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237498</guid>
-            <pubDate>Fri, 25 Jul 2025 17:45:25 +0200</pubDate>
         </item>
     </channel>
 </rss>
