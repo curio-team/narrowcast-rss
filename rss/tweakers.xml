@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 25 Jul 2025 16:36:01 +0200</pubDate>
-        <lastBuildDate>Fri, 25 Jul 2025 16:36:01 +0200</lastBuildDate>
+        <pubDate>Mon, 28 Jul 2025 09:36:01 +0200</pubDate>
+        <lastBuildDate>Mon, 28 Jul 2025 09:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,12 +18,372 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
-            <title>Ronde Zet 5-cpu-luchtkoeler met 120mm-fans van Zalman kost 72 euro</title>
-            <link>https://tweakers.net/nieuws/237494/ronde-zet-5-cpu-luchtkoeler-met-120mm-fans-van-zalman-kost-72-euro.html</link>
+            <title>Software-update - Vaultwarden 1.34.2</title>
+            <link>https://tweakers.net/downloads/73444/vaultwarden-1342.html</link>
+            <description>Bitwarden is een wachtwoordmanager die regelmatig op Tweakers voorbijkomt. Het is opensource en heeft ook de mogelijkheid om het op een eigen server te draaien. Ontwikkelaar Daniel García heeft een onofficiële in Rust ontwikkelde implementatie van Bitwarden gemaakt, in eerste instantie onder de naam Bitwarden_rs maar sinds een paar jaar als Vaultwarden. Het gaat alleen om de serverkant van de wachtwoordmanager; voor de clients kan de officiële software van Bitwarden worden gebruikt. Vaultwarden is lichter in gebruik en heeft ook functionaliteit waarvoor bij Bitwarden moet worden betaald, waaronder functionaliteit voor het beheer van wachtwoorden op organisatieniveau. Versie 1.34.2 van Vaultwarden is uitgekomen en hier zijn de volgende veranderingen en verbeteringen in aangebracht: Notable changes</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73444/vaultwarden-1342.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73444</guid>
+            <pubDate>Mon, 28 Jul 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Britten hebben meer interesse in vpn-diensten door leeftijdscontrole op websites</title>
+            <link>https://tweakers.net/nieuws/237538/britten-hebben-meer-interesse-in-vpn-diensten-door-leeftijdscontrole-op-websites.html</link>
+            <description>Britten hebben de afgelopen dagen meer interesse in vpn-diensten dan voorheen, waarschijnlijk omdat veel internetdiensten sinds vrijdag een leeftijdscontrole hebben ingevoerd. Dat is een wettelijke vereiste.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/237538/britten-hebben-meer-interesse-in-vpn-diensten-door-leeftijdscontrole-op-websites.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237538</guid>
+            <pubDate>Mon, 28 Jul 2025 08:02:24 +0200</pubDate>
+        </item>
+        <item>
+            <title>Roamen zonder extra kosten kan vanaf volgend jaar in Moldavië</title>
+            <link>https://tweakers.net/nieuws/237542/roamen-zonder-extra-kosten-kan-vanaf-volgend-jaar-in-moldavie.html</link>
+            <description>Moldavië valt vanaf 2026 onder het Europese gebied waarvoor klanten geen extra kosten hoeven te betalen voor roaming. Het is na Oekraïne het tweede land waarvoor dat gaat gelden vanaf volgend jaar.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
+            <comments>https://tweakers.net/nieuws/237542/roamen-zonder-extra-kosten-kan-vanaf-volgend-jaar-in-moldavie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237542</guid>
+            <pubDate>Mon, 28 Jul 2025 07:48:04 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Bulk Rename Utility 4.0.1.0</title>
+            <link>https://tweakers.net/downloads/73442/bulk-rename-utility-4010.html</link>
+            <description>Bulk Rename Utility is een programma waarmee de naam of locatie van meerdere bestanden en/of mappen tegelijk kan worden gewijzigd. Zo kunnen er bijvoorbeeld tekens worden toegevoegd, vervangen of verwijderd worden, of kan de naam aan de hand van metadata of ID3-tags worden aangepast. Het programma is gratis voor persoonlijk gebruik; voor gebruik in commerciële omgevingen wordt wel een vergoeding gevraagd. Versie 4.0.1.0 van Bulk Rename Utility uitgekomen en hierin zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 4.0.1.0</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73442/bulk-rename-utility-4010.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73442</guid>
+            <pubDate>Mon, 28 Jul 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Quicktest - AMD Ryzen 5 7500F - Budgetknaller voor de prijsbewuste gamer</title>
+            <link>https://tweakers.net/reviews/13514/amd-ryzen-5-7500f-budgetknaller-voor-de-prijsbewuste-gamer.html</link>
+            <description>De AMD Ryzen 5 7500F biedt op papier uitstekende prestaties voor weinig geld. Hoe presteert deze cpu in de echte wereld?</description>
+            <author>Daan van Monsjou</author>
+            <category>Quicktest / Computers / Processors</category>
+            <comments>https://tweakers.net/reviews/13514/amd-ryzen-5-7500f-budgetknaller-voor-de-prijsbewuste-gamer.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13514</guid>
+            <pubDate>Mon, 28 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - WinMerge 2.16.50</title>
+            <link>https://tweakers.net/downloads/73440/winmerge-21650.html</link>
+            <description>Er is een nieuwe stabiele versie van WinMerge verschenen. Met WinMerge kunnen bestanden of mappen met elkaar worden vergeleken: handig, bijvoorbeeld om te zien wat er is veranderd tussen verschillende stukken broncode of om de inhoud van logbestanden door te pluizen. Het programma bevat syntaxhighlighting en de applicatie kan op basis van de ontdekte verschillen patchbestanden aanmaken. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73440/winmerge-21650.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73440</guid>
+            <pubDate>Sun, 27 Jul 2025 17:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - AMD Ryzen Master 3.0.0.4199</title>
+            <link>https://tweakers.net/downloads/73438/amd-ryzen-master-3004199.html</link>
+            <description>AMD Ryzen Master is een programma waarmee instellingen van een AMD processor, waaronder de CPU multiplier, geheugeninstellingen en de frequentie van de geïntegreerde GPU kunnen worden aangepast. Ook is er een standaard en geavanceerd scherm waar systeeminstellingen worden weergegeven. Enkele dagen geleden is versie 3.0.0.4199 uitgekomen, een versie die alleen voor de Ryzen 9000-serie geschikt is. Voor de Ryzen 3000 tot en met 8000 is een aparte download beschikbaar. De changelog voor deze uitgave kan hieronder worden gevonden. Release Highlights</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73438/amd-ryzen-master-3004199.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73438</guid>
+            <pubDate>Sun, 27 Jul 2025 15:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Greenshot 1.3.296</title>
+            <link>https://tweakers.net/downloads/73436/greenshot-13296.html</link>
+            <description>Versie 1.3.296 van Greenshot is uitgekomen. Met dit opensourceprogramma voor Windows kunnen screenshots worden gemaakt. Na het maken van een screenshot krijg je de mogelijkheid om de afbeelding te bewerken, om zo bijvoorbeeld tekst of pijlen toe te voegen. De afbeelding kan worden opgeslagen als een bestand of direct worden geïmporteerd in een programma, of op het klembord of zelfs op een onlineopslagdienst worden gezet. Sinds versie 1.3.292 zijn de volgende verbeteringen aangebracht: What&#039;s Changed</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73436/greenshot-13296.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73436</guid>
+            <pubDate>Sun, 27 Jul 2025 13:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Youtuber bouwt werkende computer van K&#039;nex</title>
+            <link>https://tweakers.net/geek/237536/youtuber-bouwt-werkende-computer-van-knex.html</link>
+            <description>Als je het woord &#039;computer&#039; etymologisch bekijkt, is dat natuurlijk niets anders dan een &#039;berekenaar&#039;. Theoretisch gezien kan dus ieder apparaat een computer worden als het getallen kan berekenen. Praktisch ook, zoals youtuber Shadowman39 deed met het speelgoed K&#039;nex. Hij maakte een apparaat dat getallen kan onthouden en optellen.</description>
+            <author>Tijs Hofmans</author>
+            <category>.Geek / Computers / Pc&#039;s</category>
+            <comments>https://tweakers.net/geek/237536/youtuber-bouwt-werkende-computer-van-knex.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/237536</guid>
+            <pubDate>Sun, 27 Jul 2025 12:42:06 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google test functie om zoekresultaten te ordenen met AI op basis van Gemini</title>
+            <link>https://tweakers.net/nieuws/237534/google-test-functie-om-zoekresultaten-te-ordenen-met-ai-op-basis-van-gemini.html</link>
+            <description>Google experimenteert met de mogelijkheid om resultaten in de zoekmachine te rangschikken op basis van AI. Het bedrijf heeft daarvoor een experimentele tool uitgebracht, genaamd Web Guide. Die werkt op basis van Gemini.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/237534/google-test-functie-om-zoekresultaten-te-ordenen-met-ai-op-basis-van-gemini.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237534</guid>
+            <pubDate>Sun, 27 Jul 2025 12:19:18 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Amazon werkt aan serie over Wolfenstein</title>
+            <link>https://tweakers.net/geek/237532/amazon-werkt-aan-serie-over-wolfenstein.html</link>
+            <description>Amazon werkt aan een tv-serie over de Wolfenstein-games. Variety schrijft dat deze serie er komt, al zijn er nog geen details bekend over het plot en wanneer de serie definitief uit moet komen.</description>
+            <author>Tijs Hofmans</author>
+            <category>.Geek / Gaming / Games</category>
+            <comments>https://tweakers.net/geek/237532/amazon-werkt-aan-serie-over-wolfenstein.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/237532</guid>
+            <pubDate>Sun, 27 Jul 2025 11:53:07 +0200</pubDate>
+        </item>
+        <item>
+            <title>Samsung lijkt bootloaderontgrendeling te verwijderen uit One UI 8</title>
+            <link>https://tweakers.net/nieuws/237528/samsung-lijkt-bootloaderontgrendeling-te-verwijderen-uit-one-ui-8.html</link>
+            <description>Samsung lijkt het onmogelijk te maken de bootloader op recente toestellen te ontgrendelen. Die optie lijkt verdwenen in One UI 8 op in ieder geval de recent uitgebrachte Z Flip en Z Fold, maar ook de Galaxy S25. Samsung lijkt die optie zelf te hebben verwijderd.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Tablets en telefoons / Mobiele besturingssystemen</category>
+            <comments>https://tweakers.net/nieuws/237528/samsung-lijkt-bootloaderontgrendeling-te-verwijderen-uit-one-ui-8.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237528</guid>
+            <pubDate>Sun, 27 Jul 2025 11:42:18 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - CrystalDiskInfo 9.7.1</title>
+            <link>https://tweakers.net/downloads/73434/crystaldiskinfo-971.html</link>
+            <description>Crystal Dew World heeft versie 9.7.1 van CrystalDiskInfo uitgebracht. Dit programma, dat onder de MIT-licentie wordt uitgebracht, geeft uitgebreide informatie over de drives in de computer. Er is ondersteuning voor traditionele harde schijven, maar ook voor ssd&#039;s en in mindere mate voor externe USB- en FireWire-schijven. Naast het weergeven van Smart-informatie is het mogelijk om de aam- en apm-instellingen aan te passen, mits de hardware dit ondersteunt. De verzamelde informatie kan in overzichtelijke grafieken worden weergegeven. Naast de standaardversie zijn er ook de drie uitvoeringen die elk een specifiek animethema bevatten, namelijk Shizuku, Kurei Kei en Aoi. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 9.7.1:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73434/crystaldiskinfo-971.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73434</guid>
+            <pubDate>Sun, 27 Jul 2025 11:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Windows&#039; Phone Link krijgt optie Klembord-bestanden met telefoon uit te wisselen</title>
+            <link>https://tweakers.net/nieuws/237526/windows-phone-link-krijgt-optie-klembord-bestanden-met-telefoon-uit-te-wisselen.html</link>
+            <description>Microsoft voegt de mogelijkheid toe om een Windows-pc op afstand te vergrendelen via de Phone Link-app. Ook wordt het mogelijk om opgeslagen bestanden van het Klembord op een Android-toestel te openen, schrijft Android Authority.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Besturingssystemen</category>
+            <comments>https://tweakers.net/nieuws/237526/windows-phone-link-krijgt-optie-klembord-bestanden-met-telefoon-uit-te-wisselen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237526</guid>
+            <pubDate>Sun, 27 Jul 2025 10:32:56 +0200</pubDate>
+        </item>
+        <item>
+            <title>Team Meat toont eerste gameplaytrailer van Super Meat Boy 3D</title>
+            <link>https://tweakers.net/nieuws/237520/team-meat-toont-eerste-gameplaytrailer-van-super-meat-boy-3d.html</link>
+            <description>Ontwikkelaar Team Meat heeft een eerste gameplaytrailer vrijgegeven van platformer Super Meat Boy 3D. Die game komt begin volgend jaar uit.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/237520/team-meat-toont-eerste-gameplaytrailer-van-super-meat-boy-3d.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237520</guid>
+            <pubDate>Sun, 27 Jul 2025 10:08:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Bordspellencrowdfunder Gamefound neemt Indiegogo over</title>
+            <link>https://tweakers.net/nieuws/237518/bordspellencrowdfunder-gamefound-neemt-indiegogo-over.html</link>
+            <description>Crowdfundingplatform Indiegogo wordt overgenomen. Het bedrijf wordt gekocht door Gamefound, een platform voor bordspellen. Gamefound wil meerdere eigen functies naar Indiegogo brengen, waaronder meer betaalmethoden en specifieke einddoelen zoals Endgame.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Economie en maatschappij</category>
+            <comments>https://tweakers.net/nieuws/237518/bordspellencrowdfunder-gamefound-neemt-indiegogo-over.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237518</guid>
+            <pubDate>Sun, 27 Jul 2025 09:52:08 +0200</pubDate>
+        </item>
+        <item>
+            <title>Intel gaat netwerkafdeling NEX verkopen</title>
+            <link>https://tweakers.net/nieuws/237522/intel-gaat-netwerkafdeling-nex-verkopen.html</link>
+            <description>Intel gaat definitief stoppen met zijn netwerkafdeling. Het bedrijf schrijft in een memo aan klanten dat het de Network and Edge Group afsplitst naar een apart bedrijfsonderdeel. Er gingen al langer geruchten dat Intel dat wilde doen.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Economie en maatschappij</category>
+            <comments>https://tweakers.net/nieuws/237522/intel-gaat-netwerkafdeling-nex-verkopen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237522</guid>
+            <pubDate>Sun, 27 Jul 2025 09:31:20 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Shotcut 25.07</title>
+            <link>https://tweakers.net/downloads/73432/shotcut-2507.html</link>
+            <description>Shotcut is een uitgebreid opensource en crossplatform videobewerkingsprogramma voor Windows, Linux en macOS. Het maakt gebruik van FFmpeg en heeft daardoor ondersteuning voor de gangbaarste formaten audio en video. De bestanden worden niet geïmporteerd, maar worden in hun originele formaat bewerkt. Het kan overweg met verschillende sporen en binnen een project kan er een mix van formaten en resoluties worden gebruikt. In versie 25.07 zijn de volgende veranderingen en verbeteringen aangebracht: New Features</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73432/shotcut-2507.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73432</guid>
+            <pubDate>Sun, 27 Jul 2025 09:02:46 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - Aqara Smart Lock U200 Lite - Lage prijs en beperkt gebruiksgemak</title>
+            <link>https://tweakers.net/reviews/13478/aqara-smart-lock-u200-lite-lage-prijs-en-beperkt-gebruiksgemak.html</link>
+            <description>In dit artikel bekijken we de Aqara Smart Lock U200 Lite, een variant van de U200 zonder keypad. Maakt dat een smartlock te mank of is dit slot een koopje?</description>
+            <author>Olaf Weijers</author>
+            <category>Review / Beeld en geluid / Deursloten</category>
+            <comments>https://tweakers.net/reviews/13478/aqara-smart-lock-u200-lite-lage-prijs-en-beperkt-gebruiksgemak.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13478</guid>
+            <pubDate>Sun, 27 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Terug in de tijd #46 - Gevallen chipgrootmachten, Office voor Mac en gpu-cloud</title>
+            <link>https://tweakers.net/geek/237008/terug-in-de-tijd-46-gevallen-chipgrootmachten-office-voor-mac-en-gpu-cloud.html</link>
+            <description>Op Tweakers verschijnen dagelijks tientallen nieuwsberichten, maar bij het schrijven weten we zelden hoe het afloopt met de producten, technieken en ontwikkelingen die we bespreken. In deze rubriek lezen we oude berichten terug en kijken we hoe het verderging.</description>
+            <author>Jasper Bakker</author>
+            <category>.Geek / IT Pro / Internet</category>
+            <comments>https://tweakers.net/geek/237008/terug-in-de-tijd-46-gevallen-chipgrootmachten-office-voor-mac-en-gpu-cloud.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/237008</guid>
+            <pubDate>Sun, 27 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - FreeFileSync 14.4</title>
+            <link>https://tweakers.net/downloads/73430/freefilesync-144.html</link>
+            <description>Versie 14.4 van FreeFileSync is uitgekomen. Met dit opensourceprogramma kan een back-up worden gemaakt of de inhoud van twee verschillende locaties worden gesynchroniseerd. Het is beschikbaar voor Windows, Linux en macOS, is niet afhankelijk van zaken als Java of een .NET Framework en is bovendien licht in gebruik. De Windows-download bevat aparte 32-bit- en 64-bitversies en biedt ook de mogelijkheid om het te gebruiken zonder het te eerst installeren. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changes in FreeFileSync version 14.4:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73430/freefilesync-144.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73430</guid>
+            <pubDate>Sat, 26 Jul 2025 20:10:11 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - CorsixTH 0.69.0</title>
+            <link>https://tweakers.net/downloads/73428/corsixth-0690.html</link>
+            <description>CorsixTH is een opensource-clone van het door Bulfrog in 1997 uitgegeven spel Theme Hospital, waarin de speler een ziekenhuis moet ontwerpen en uitbaten. Om CorsixTH te kunnen spelen zijn overigens wel de databestanden van het originele spel nodig. Het is momenteel echter voor nog geen drie euro in de aanbieding bij GOG. Downloads zijn beschikbaar voor Windows, Linux en macOS. Het spel kan in een hogere resolutie dan het origineel worden gespeeld, is in meer talen beschikbaar en bevat diverse verbeteringen. Bijna alle mogelijkheden van het origineel zijn al aanwezig, maar het is de bedoeling dat er in de toekomst ook nieuwe zaken worden toegevoegd. Versie 0.69 is uitgekomen en de changelog voor die uitgave ziet er als volgt uit: Features</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73428/corsixth-0690.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73428</guid>
+            <pubDate>Sat, 26 Jul 2025 17:30:02 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google voegt ondersteuning voor grafische apps toe aan Linux-terminal in Android</title>
+            <link>https://tweakers.net/nieuws/237516/google-voegt-ondersteuning-voor-grafische-apps-toe-aan-linux-terminal-in-android.html</link>
+            <description>Android kan grafische programma&#039;s draaien in zijn Linux-terminal, schrijft Android Authority. Google heeft die functie in de Canary-build van juli toegevoegd. Daarnaast heeft het bedrijf ondersteuning voor hardwareversnelling toegevoegd.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Software development</category>
+            <comments>https://tweakers.net/nieuws/237516/google-voegt-ondersteuning-voor-grafische-apps-toe-aan-linux-terminal-in-android.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237516</guid>
+            <pubDate>Sat, 26 Jul 2025 13:08:23 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - WinSSHTerm 2.41.1</title>
+            <link>https://tweakers.net/downloads/73426/winsshterm-2411.html</link>
+            <description>WinSSHTerm is een gratis programma voor Windows dat PuTTY, WinSCP en VcXsrv combineert in één applicatie. Het gebruikt snelkoppelingen om nieuwe SSH-sessies te starten of tussen de verschillende sessies te wisselen, werkt met meerdere tabs of schermen en kan eenvoudig gegevens van programma&#039;s als PuTTY, PuTTY Session Manager, MobaXterm, SuperPuTTY, mRemoteNG en MTPuTTY importeren en beschermen met een hoofdwachtwoord. In versie 2.41.1 zijn de volgende veranderingen en veranderingen aangebracht: WinSSHTerm-2.41.1</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73426/winsshterm-2411.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73426</guid>
+            <pubDate>Sat, 26 Jul 2025 11:24:37 +0200</pubDate>
+        </item>
+        <item>
+            <title>Steam verandert zoekpaneel in nieuw ontwerp van winkelmenu</title>
+            <link>https://tweakers.net/nieuws/237514/steam-verandert-zoekpaneel-in-nieuw-ontwerp-van-winkelmenu.html</link>
+            <description>Steam toont in de bètaversie een nieuw ontwerp van het winkelmenu. Het nieuwe menu is volgens Valve ontworpen &#039;om Steam-gebruikers makkelijker toegang te bieden tot de plekken die ze het vaakst bezoeken.&#039; Valve heeft onder meer het zoekpaneel aangepast.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/237514/steam-verandert-zoekpaneel-in-nieuw-ontwerp-van-winkelmenu.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237514</guid>
+            <pubDate>Sat, 26 Jul 2025 11:14:49 +0200</pubDate>
+        </item>
+        <item>
+            <title>Migicovsky krijgt Pebble-merk terug en verbetert waterbestendigheid smartwatch</title>
+            <link>https://tweakers.net/nieuws/237512/migicovsky-krijgt-pebble-merk-terug-en-verbetert-waterbestendigheid-smartwatch.html</link>
+            <description>Core Devices, het bedrijf van Pebble-oprichter Eric Migicovsky, heeft de Pebble-merknaam overgenomen. Daarom verandert het bedrijf direct de namen van zijn twee smartwatches: de Core 2 Duo wordt de Pebble 2 Duo en de Core Time 2 wordt de Pebble Time 2*.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / Tablets en telefoons / Smartwatches</category>
+            <comments>https://tweakers.net/nieuws/237512/migicovsky-krijgt-pebble-merk-terug-en-verbetert-waterbestendigheid-smartwatch.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237512</guid>
+            <pubDate>Sat, 26 Jul 2025 10:38:22 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;OpenAI wil GPT-5-model met o3-redeneercapaciteiten in augustus uitbrengen&#039;</title>
+            <link>https://tweakers.net/nieuws/237510/openai-wil-gpt-5-model-met-o3-redeneercapaciteiten-in-augustus-uitbrengen.html</link>
+            <description>OpenAI zou het nieuwe model van ChatGPT, GPT-5, in augustus willen uitbrengen, schrijft The Verge op basis van bronnen die bekend zijn met de plannen van OpenAI. Tegelijkertijd wil het bedrijf ook mini- en nano-versies van het model uitbrengen.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237510/openai-wil-gpt-5-model-met-o3-redeneercapaciteiten-in-augustus-uitbrengen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237510</guid>
+            <pubDate>Sat, 26 Jul 2025 09:49:56 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - ExifTool 13.33</title>
+            <link>https://tweakers.net/downloads/73424/exiftool-1333.html</link>
+            <description>Phil Harvey heeft versie 13.33 van ExifTool uitgebracht. ExifTool is een gratis crossplatformprogramma waarmee de metadata van een groot aantal bestanden kan worden beheerd en bewerkt. Het werkt vanaf de commandline, maar er zijn oplossingen van derden beschikbaar waardoor het ook met een grafische gebruikersinterface kan worden gebruikt. Met enige regelmaat verschijnen er nieuwe versies, maar de meeste uitgaven worden onder de bètavlag beschikbaar gesteld, ondanks dat deze als stabiel kunnen worden beschouwd. Ook deze update wordt als ontwikkelversie aangeduid; de laatste stabiele uitgave is versie 13.30. Sinds versie 13.31 zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 13.33:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73424/exiftool-1333.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73424</guid>
+            <pubDate>Sat, 26 Jul 2025 08:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Videoreview - De nieuwe Fairphone is stukken beter! - Fairphone Gen 6</title>
+            <link>https://tweakers.net/video/20022/de-nieuwe-fairphone-is-stukken-beter-fairphone-gen-6.html</link>
+            <description>Steeds meer mensen letten op de herkomst van hun tech en op de manier waarop deze wordt geproduceerd. Als jij zo iemand bent, kan het bijna niet anders dan dat je bekend bent met het Nederlandse bedrijf Fairphone. In plaats van aan de lopende band producten de wereld in te slingeren, zoals sommige Chinese fabrikanten doen, brengt Fairphone doorgaans één telefoon per twee jaar uit. Dit jaar is dat de Fairphone Gen 6.</description>
+            <author>Mark van der Kruit</author>
+            <category>Videoreview / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/video/20022/de-nieuwe-fairphone-is-stukken-beter-fairphone-gen-6.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/video/20022</guid>
+            <pubDate>Sat, 26 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - Fairphone Gen 6 - Eerlijke telefoon maakt grote stappen</title>
+            <link>https://tweakers.net/reviews/13524/fairphone-gen-6-eerlijke-telefoon-maakt-grote-stappen.html</link>
+            <description>Fairphone zegt niet langer alleen groene, maar ook goede producten te maken. De Fairphone Gen 6 is het eerste toestel van de fabrikant dat daaraan moet voldoen.</description>
+            <author>Dennis de Vries</author>
+            <category>Review / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/reviews/13524/fairphone-gen-6-eerlijke-telefoon-maakt-grote-stappen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13524</guid>
+            <pubDate>Sat, 26 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>AMD-Linux-kerneldriver voor gpu&#039;s krijgt ondersteuning voor oudere videokaarten</title>
+            <link>https://tweakers.net/nieuws/237504/amd-linux-kerneldriver-voor-gpus-krijgt-ondersteuning-voor-oudere-videokaarten.html</link>
+            <description>Een Valve-medewerker van het Linux-gpu-driverteam werkt aan de verbeterde ondersteuning van oude AMD-videokaarten in de opensource kerneldriver Amdgpu. Hij richt zich specifiek aan de ondersteuning van analoge video-outputs van AMD-gpu&#039;s.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/237504/amd-linux-kerneldriver-voor-gpus-krijgt-ondersteuning-voor-oudere-videokaarten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237504</guid>
+            <pubDate>Fri, 25 Jul 2025 21:21:03 +0200</pubDate>
+        </item>
+        <item>
+            <title>Intel is gestopt met ontwikkeling opensource llm-software PlaidML</title>
+            <link>https://tweakers.net/nieuws/237502/intel-is-gestopt-met-ontwikkeling-opensource-llm-software-plaidml.html</link>
+            <description>Intel lijkt eerder dit jaar te zijn gestopt met de ontwikkeling van de opensource deeplearningsoftware PlaidML. De software werd oorspronkelijk door Vertex.AI gemaakt, een bedrijf dat in 2018 door Intel werd overgenomen.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237502/intel-is-gestopt-met-ontwikkeling-opensource-llm-software-plaidml.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237502</guid>
+            <pubDate>Fri, 25 Jul 2025 20:08:53 +0200</pubDate>
+        </item>
+        <item>
+            <title>Samsung maakt Galaxy Z Fold7, Z Flip7 en Watch8 vandaag beschikbaar</title>
+            <link>https://tweakers.net/nieuws/237500/samsung-maakt-galaxy-z-fold7-z-flip7-en-watch8-vandaag-beschikbaar.html</link>
+            <description>Samsung maakt vrijdag de Galaxy Z Fold7, Z Flip7 en Watch8 beschikbaar. De dunste foldable van Samsung, de Z Fold7, is vanaf 2099 euro verkrijgbaar. De Z Flip7 kost minimaal 1199 euro. Voor de Galaxy Watch8 heeft Samsung een adviesprijs van 380 euro.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Tablets en telefoons / Smartwatches</category>
+            <comments>https://tweakers.net/nieuws/237500/samsung-maakt-galaxy-z-fold7-z-flip7-en-watch8-vandaag-beschikbaar.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237500</guid>
+            <pubDate>Fri, 25 Jul 2025 19:36:06 +0200</pubDate>
+        </item>
+        <item>
+            <title>ID-bewijzen gebruikers anonieme datingveiligheidsapp Tea App verschijnen online</title>
+            <link>https://tweakers.net/nieuws/237496/id-bewijzen-gebruikers-anonieme-datingveiligheidsapp-tea-app-verschijnen-online.html</link>
+            <description>De identiteitsbewijzen van een onbekend aantal gebruikers van de datingveiligheidsapp Tea App waren openbaar toegankelijk. Tea App is een dienst voor vrouwen om anoniem te controleren of de man waarmee zij daten betrouwbaar is.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/237496/id-bewijzen-gebruikers-anonieme-datingveiligheidsapp-tea-app-verschijnen-online.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237496</guid>
+            <pubDate>Fri, 25 Jul 2025 18:15:46 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Vader van The Elder Scrolls&#039; Julian LeFay is overleden</title>
+            <link>https://tweakers.net/nieuws/237498/vader-van-the-elder-scrolls-julian-lefay-is-overleden.html</link>
+            <description>De Deense gamemaker en muzikant Julian LeFay is op 59-jarige leeftijd overleden aan de gevolgen van kanker. LeFay wordt gezien als de &#039;vader van The Elder Scrolls&#039; vanwege zijn belangrijke rol in de begindagen van Bethesda&#039;s iconische rpg-franchise.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237498/vader-van-the-elder-scrolls-julian-lefay-is-overleden.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237498</guid>
+            <pubDate>Fri, 25 Jul 2025 17:45:25 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Redactieblog #15: een siliconen 3d-print van een gefaalde bureaustoel</title>
+            <link>https://tweakers.net/geek/237484/redactieblog-15-een-siliconen-3d-print-van-een-gefaalde-bureaustoel.html</link>
+            <description>Een kort blogje: veel collega&#039;s zijn op vakantie geweest of gaan juist nog, waardoor er minder tijd is om uitgebreid aan een project te prutsen. Ondergetekende is nog niet weg geweest en was dus aan de bureaustoel gekluisterd. Dat was geen pretje.</description>
+            <author>Willem de Moor</author>
+            <category>.Geek / Computers / 3D Printers</category>
+            <comments>https://tweakers.net/geek/237484/redactieblog-15-een-siliconen-3d-print-van-een-gefaalde-bureaustoel.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/237484</guid>
+            <pubDate>Fri, 25 Jul 2025 17:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Zalman brengt ronde cpu-luchtkoeler met 120mm-fans uit voor 72 euro</title>
+            <link>https://tweakers.net/nieuws/237494/zalman-brengt-ronde-cpu-luchtkoeler-met-120mm-fans-uit-voor-72-euro.html</link>
             <description>Zalman heeft de Zet 5-luchtkoeler uitgebracht. Het is een ronde koeler met een twee 120mm-fans die met pogopins kunnen worden opgezet en zo ook makkelijk kunnen worden verwijderd.  De koeler heeft een tdp van 200W.</description>
             <author>Tijs Hofmans</author>
             <category>Nieuws / Computers / Processorkoeling</category>
-            <comments>https://tweakers.net/nieuws/237494/ronde-zet-5-cpu-luchtkoeler-met-120mm-fans-van-zalman-kost-72-euro.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/237494/zalman-brengt-ronde-cpu-luchtkoeler-met-120mm-fans-uit-voor-72-euro.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237494</guid>
             <pubDate>Fri, 25 Jul 2025 15:53:42 +0200</pubDate>
         </item>
@@ -56,366 +416,6 @@
             <comments>https://tweakers.net/nieuws/237490/chinese-retailer-jd-punt-com-is-in-gesprek-om-mediamarkt-moederbedrijf-over-te-nemen.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237490</guid>
             <pubDate>Fri, 25 Jul 2025 13:54:05 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nieuwsblog: is Belgisch nieuws net zo belangrijk als Nederlands nieuws?</title>
-            <link>https://tweakers.net/nieuws/237450/nieuwsblog-is-belgisch-nieuws-net-zo-belangrijk-als-nederlands-nieuws.html</link>
-            <description>Volgens de Over Ons-pagina is Tweakers &#039;de grootste elektronica- en technologiewebsite van Nederland en België&#039;. Maar betekent dit ook dat we voldoende en correct schrijven voor onze Vlaamse bezoekers? Op dat vlak kunnen we nog stappen zetten.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/nieuws/237450/nieuwsblog-is-belgisch-nieuws-net-zo-belangrijk-als-nederlands-nieuws.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237450</guid>
-            <pubDate>Fri, 25 Jul 2025 13:37:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Vrijdag is de Dag van de Systeembeheerder</title>
-            <link>https://tweakers.net/geek/237488/vrijdag-is-de-dag-van-de-systeembeheerder.html</link>
-            <description>Dat dit artikel zonder problemen opent, dat het snel laadt en dat gegevens niet ineens door malvertising worden gestolen, is te danken aan het bloed, het zweet en de tranen van systeembeheerders. Zeker vandaag, op de Dag van de Systeembeheerder, bedanken we de sysadmins.</description>
-            <author>Tijs Hofmans</author>
-            <category>.Geek / Computers / Servers</category>
-            <comments>https://tweakers.net/geek/237488/vrijdag-is-de-dag-van-de-systeembeheerder.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/237488</guid>
-            <pubDate>Fri, 25 Jul 2025 13:37:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Firmware-update - Synology DSM 7.2.2 build 72806 Update 4</title>
-            <link>https://tweakers.net/downloads/73422/synology-dsm-722-build-72806.html</link>
-            <description>Synology heeft een nieuwe versie van Disk Station Manager uitgebracht. Synology DSM is de beheersoftware die op diverse nasproducten van het bedrijf draait. De Disk en Rack Stations bieden meer dan alleen extra opslagruimte. Zo kunnen er extra pakketten worden geïnstalleerd om het apparaat bijvoorbeeld ook als mediaserver, home-automationserver, webserver, printserver of back-upserver te laten functioneren. De mogelijkheden zijn eindeloos. Om versie 7.2 te kunnen installeren zal minimaal versie 7.1 aanwezig moeten zijn. Verder is deze versie uitsluitend geschikt voor de nasmodellen waarvan het typenummer eindigt op 16 of hoger; versie 7.1 is de laatste update voor modellen die eindigen op 13, 14 of 15. Kijk voor de overige voorwaarden en de verschillende downloads op deze pagina. Belangrijk om te weten is dat in versie 7.2.2 het transcoderen van videobestanden is verwijderd. Dat betekent onder meer dat de app Video Station is niet meer aanwezig is en dat Plex een aparte update nodig heeft voordat dit weer werkt. Deze uitgave moet enkele beveiligingsproblemen verhelpen: Important notes</description>
-            <author>Bart van Klaveren</author>
-            <category>Firmware</category>
-            <comments>https://tweakers.net/downloads/73422/synology-dsm-722-build-72806.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73422</guid>
-            <pubDate>Fri, 25 Jul 2025 13:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nederlandse politie ziet toename van cryptovalutagebruik onder criminelen</title>
-            <link>https://tweakers.net/nieuws/237474/nederlandse-politie-ziet-toename-van-cryptovalutagebruik-onder-criminelen.html</link>
-            <description>Criminelen gebruiken in toenemende mate cryptovaluta als alternatief voor contant geld. Daarvoor waarschuwt de Nederlandse politie, die zich zorgen maakt over hoe makkelijk criminelen cryptovaluta kunnen omzetten naar echt geld.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/237474/nederlandse-politie-ziet-toename-van-cryptovalutagebruik-onder-criminelen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237474</guid>
-            <pubDate>Fri, 25 Jul 2025 13:12:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>FreeBSD krijgt optie om grafische KDE-desktopomgeving mee te installeren</title>
-            <link>https://tweakers.net/nieuws/237478/freebsd-krijgt-optie-om-grafische-kde-desktopomgeving-mee-te-installeren.html</link>
-            <description>De makers van FreeBSD werken aan de mogelijkheid om bij de oorspronkelijke installatie ook een grafische desktopinterface mee te installeren. Dat is op dit moment niet mogelijk. De makers willen in FreeBSD voor het eerst KDE meeleveren.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Besturingssystemen</category>
-            <comments>https://tweakers.net/nieuws/237478/freebsd-krijgt-optie-om-grafische-kde-desktopomgeving-mee-te-installeren.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237478</guid>
-            <pubDate>Fri, 25 Jul 2025 12:54:34 +0200</pubDate>
-        </item>
-        <item>
-            <title>Intel ontslaat dit jaar 24.000 medewerkers en schrapt chipfabriek in Duitsland</title>
-            <link>https://tweakers.net/nieuws/237486/intel-ontslaat-dit-jaar-24000-medewerkers-en-schrapt-chipfabriek-in-duitsland.html</link>
-            <description>Intel ontslaat dit jaar zo&#039;n 24.000 mensen. Dat bevestigt ceo Lip-Bu Tan tijdens de presentatie van de kwartaalcijfers. Het bedrijf schrapt ook verschillende uitbreidingsplannen, waaronder de grote chipfabriek in Duitsland. Die stond al op pauze, maar is nu definitief van de baan.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237486/intel-ontslaat-dit-jaar-24000-medewerkers-en-schrapt-chipfabriek-in-duitsland.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237486</guid>
-            <pubDate>Fri, 25 Jul 2025 11:38:27 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Immich 1.136.0</title>
-            <link>https://tweakers.net/downloads/73420/immich-11360.html</link>
-            <description>Immich is een opensource oplossing voor het opslaan en beheren van foto&#039;s en video&#039;s. Het draait in Docker, waardoor je alles in eigen hand hebt en niet afhankelijk bent van een derde partij. Het wordt door velen als een serieuze concurrent van bijvoorbeeld Google Photos beschouwd. De media kan via een webbrowser worden benaderd en er zijn ook apps voor Android en iOS. Een demo van Immich is hier te vinden. Versie 1.136.0 is uitgekomen en daar zijn enkele grote veranderingen in aangebracht die mogelijk consequenties hebben, dus lees de releasenotes eerst door voor je bijwerkt.</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73420/immich-11360.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73420</guid>
-            <pubDate>Fri, 25 Jul 2025 11:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Starlink was door storing wereldwijd ruim 2,5 uur niet te gebruiken</title>
-            <link>https://tweakers.net/nieuws/237480/starlink-was-door-storing-wereldwijd-ruim-2-komma-5-uur-niet-te-gebruiken.html</link>
-            <description>SpaceX&#039; Starlink-internet is in de nacht van donderdag op vrijdag zo&#039;n 2,5 uur volledig offline geweest. De storing was wereldwijd en gold voor vrijwel alle gebruikers. Dat kwam door een fout in het corenetwerk, zegt Starlink.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
-            <comments>https://tweakers.net/nieuws/237480/starlink-was-door-storing-wereldwijd-ruim-2-komma-5-uur-niet-te-gebruiken.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237480</guid>
-            <pubDate>Fri, 25 Jul 2025 10:14:19 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Tails 6.18</title>
-            <link>https://tweakers.net/downloads/73418/tails-618.html</link>
-            <description>Tails staat voor &#039;The amnesic incognito live system&#039; en is een live Linux-distributie die zich richt op privacy en anonimiteit. Als basis maakt het gebruik van Debian GNU/Linux en het voegt daaraan een Gnome-omgeving met Tor, Tor Browser, Pidgin, Thunderbird, Electrum, LibreOffice, GPG en KeePassXC toe. Voor meer informatie verwijzen we naar deze pagina. Versie 6 is op Debian 12 gebaseerd en heeft Gnome 43 als desktopomgeving. Nieuw in versie 6.18 is onder meer de mogelijkheid om WebTunnel bridges te kunnen maken. WebTunnel bridges</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73418/tails-618.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73418</guid>
-            <pubDate>Fri, 25 Jul 2025 09:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Kobo gaat Instapaper integreren als vervanger van Pocket</title>
-            <link>https://tweakers.net/nieuws/237472/kobo-gaat-instapaper-integreren-als-vervanger-van-pocket.html</link>
-            <description>E-readerfabrikant Kobo gaat een Instapaper-integratie bouwen. Het bedrijf wil een alternatieve manier voor gebruikers om opgeslagen artikelen te kunnen lezen, nadat Mozilla eerder dit jaar stopte met Pocket.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Tablets en telefoons / E-readers</category>
-            <comments>https://tweakers.net/nieuws/237472/kobo-gaat-instapaper-integreren-als-vervanger-van-pocket.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237472</guid>
-            <pubDate>Fri, 25 Jul 2025 09:13:17 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Dit is de WHY2025-badge met twee ESP32&#039;s en een loramodule</title>
-            <link>https://tweakers.net/geek/237414/dit-is-de-why2025-badge-met-twee-esp32s-en-een-loramodule.html</link>
-            <description>Als je hackersconferentie geen veel te overpowerde minicomputer als badge heeft, ben je dan wel een echte hackersconferentie? WHY2025 nam het zekere voor het onzekere door een ESP32-controller, een lorachip en een kraakhelder scherm in zijn badge te verwerken. Tweakers kreeg een voorproefje van de badge, die in augustus tijdens de hackercon wordt gebruikt.</description>
-            <author>Tijs Hofmans</author>
-            <category>.Geek / Computers / Hardware modding</category>
-            <comments>https://tweakers.net/geek/237414/dit-is-de-why2025-badge-met-twee-esp32s-en-een-loramodule.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/237414</guid>
-            <pubDate>Fri, 25 Jul 2025 08:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Audacious 4.5</title>
-            <link>https://tweakers.net/downloads/73416/audacious-45.html</link>
-            <description>Versie 4.5 van Audacious is uitgekomen. Audacious is een lichtgewicht en opensource muziekspeler en in zekere zin de opvolger van xmms. Het programma kan audio-cd&#039;s afspelen of muziekbestanden op de computer, maar ook direct streamen van internet. Het heeft een equalizer aan boord en kan overweg met Winamp-skins. Downloads zijn beschikbaar voor Windows en verschillende Linux-distributies. De changelog voor deze uitgave ziet er als volgt uit: New plugins and features:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73416/audacious-45.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73416</guid>
-            <pubDate>Fri, 25 Jul 2025 07:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Review - Samsung Odyssey OLED G81SF 27&quot; en 32&quot; - Extra matte oled is niet in alles beter</title>
-            <link>https://tweakers.net/reviews/13484/samsung-odyssey-oled-g81sf-27-inch-en-32-inch-extra-matte-oled-is-niet-in-alles-beter.html</link>
-            <description>De Odyssey OLED G8 G81SF is Samsungs high-end 4k-gamingmonitor voor dit jaar. Naast een 32&quot;-scherm is er nu ook een kleiner 27&quot;-model. Hoe presteren ze in de praktijk?</description>
-            <author>Friso Weijers</author>
-            <category>Review / Computers / Monitors</category>
-            <comments>https://tweakers.net/reviews/13484/samsung-odyssey-oled-g81sf-27-inch-en-32-inch-extra-matte-oled-is-niet-in-alles-beter.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13484</guid>
-            <pubDate>Fri, 25 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google zet afbeelding van alle Pixel 10-telefoons in de Play Store</title>
-            <link>https://tweakers.net/nieuws/237470/google-zet-afbeelding-van-alle-pixel-10-telefoons-in-de-play-store.html</link>
-            <description>Een site heeft een afbeelding van alle Pixel 10-telefoons aangetroffen in de app van de Play Store, waar Google zijn telefoons vermoedelijk wil promoten. De afbeelding toont vier modellen, waaronder de nieuwe Fold.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/237470/google-zet-afbeelding-van-alle-pixel-10-telefoons-in-de-play-store.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237470</guid>
-            <pubDate>Thu, 24 Jul 2025 21:41:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - FileZilla Server 1.10.5</title>
-            <link>https://tweakers.net/downloads/73414/filezilla-server-1105.html</link>
-            <description>Versie 1.10.5 van de opensource FTP-server FileZilla Server is uitgekomen. FileZilla Server is een kleine en krachtige FTP-server met onder andere ondersteuning voor FXP (het versturen van bestanden van de ene naar de andere FTP-server), beveiligde verbindingen (SSL en TLS), GSS-authenticatie en Kerberos-encryptie. Het programma was lange tijd alleen beschikbaar voor Windows, maar sinds versie 1.2.0 ook voor Linux en macOS. In deze uitgave zijn de volgende twee problemen verholpen. Bugfixes and minor changes:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73414/filezilla-server-1105.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73414</guid>
-            <pubDate>Thu, 24 Jul 2025 21:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Apple brengt publieke bèta&#039;s uit van onder meer iOS 26 en macOS 26</title>
-            <link>https://tweakers.net/nieuws/237468/apple-brengt-publieke-betas-uit-van-onder-meer-ios-26-en-macos-26.html</link>
-            <description>Apple heeft de publieke bèta&#039;s van iOS 26, iPadOS 26, watchOS 26, tvOS 26 en macOS 26 Tahoe uitgebracht. De bèta&#039;s voor ontwikkelaars waren er sinds vorige maand. De release volgt in het najaar.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Computers / Software</category>
-            <comments>https://tweakers.net/nieuws/237468/apple-brengt-publieke-betas-uit-van-onder-meer-ios-26-en-macos-26.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237468</guid>
-            <pubDate>Thu, 24 Jul 2025 20:33:15 +0200</pubDate>
-        </item>
-        <item>
-            <title>Snapchat krijgt functie om te laten weten dat gebruiker veilig thuis is gekomen</title>
-            <link>https://tweakers.net/nieuws/237466/snapchat-krijgt-functie-om-te-laten-weten-dat-gebruiker-veilig-thuis-is-gekomen.html</link>
-            <description>Snapchat heeft een functie gekregen waarmee gebruikers hun contacten kunnen laten weten dat ze veilig thuis zijn gekomen. Dit werkt alleen met contacten met wie de gebruiker al de locatie heeft gedeeld. Het gaat om een eenmalige notificatie.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/nieuws/237466/snapchat-krijgt-functie-om-te-laten-weten-dat-gebruiker-veilig-thuis-is-gekomen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237466</guid>
-            <pubDate>Thu, 24 Jul 2025 20:12:23 +0200</pubDate>
-        </item>
-        <item>
-            <title>EU onderzoekt of KKR foute info gaf bij overname Italiaanse glasvezelbeheerder</title>
-            <link>https://tweakers.net/nieuws/237464/eu-onderzoekt-of-kkr-foute-info-gaf-bij-overname-italiaanse-glasvezelbeheerder.html</link>
-            <description>De Europese Commissie onderzoekt of investeerder KKR foute informatie gaf bij het vragen van toestemming voor de overname van een beheerder van glasvezelverbindingen in Italië. De Commissie keurde de overname vorig jaar goed zonder voorwaarden.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237464/eu-onderzoekt-of-kkr-foute-info-gaf-bij-overname-italiaanse-glasvezelbeheerder.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237464</guid>
-            <pubDate>Thu, 24 Jul 2025 19:50:11 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - WinRAR 7.13 bèta 1</title>
-            <link>https://tweakers.net/downloads/73412/winrar-713-beta-1.html</link>
-            <description>RAR Labs heeft de eerste bètarelease van versie 7.13 van zijn archiveringsprogramma WinRAR uitgebracht. Deze populaire compressietool is beschikbaar voor diverse besturingssystemen, waaronder Windows, Linux en macOS, deze bèta is echter alleen voor Windows uitgebracht. De programma&#039;s kunnen overweg met de gangbaarste formaten - waaronder rar, zip, cab, arj, lzh, tar, gz, uue, bz2, jar, iso, 7z en z -, hebben een skinnable interface en ondersteuning voor Zip64- en multivolume cabbestanden. In deze uitgave zijn de volgende verbeteringen aangebracht: Changes in version WinRAR version 7.13 beta 1</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73412/winrar-713-beta-1.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73412</guid>
-            <pubDate>Thu, 24 Jul 2025 19:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Bèta iOS 26 bevat code die hint op Apple HomePod met scherm</title>
-            <link>https://tweakers.net/nieuws/237462/beta-ios-26-bevat-code-die-hint-op-apple-homepod-met-scherm.html</link>
-            <description>De vierde bèta van iOS 26, die afgelopen week uitkwam, bevat een hint dat Apple werkt aan een HomePod met scherm. De geruchten over zo&#039;n apparaat gaan al jaren, maar de fabrikant heeft daar zelf niets over gezegd.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Beeld en geluid / Speakers</category>
-            <comments>https://tweakers.net/nieuws/237462/beta-ios-26-bevat-code-die-hint-op-apple-homepod-met-scherm.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237462</guid>
-            <pubDate>Thu, 24 Jul 2025 19:10:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Pixel Watch 4 is niet compatibel met laders van voorgaande Google-horloges&#039;</title>
-            <link>https://tweakers.net/nieuws/237460/pixel-watch-4-is-niet-compatibel-met-laders-van-voorgaande-google-horloges.html</link>
-            <description>Google zou de laadpunten op de Pixel Watch 4 hebben aangepast ten opzichte van voorgaande Pixel Watch-generaties. Daardoor werken laders van alle voorgaande Pixel Watch-generaties niet met het nieuwe klokje.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Tablets en telefoons / Smartwatches</category>
-            <comments>https://tweakers.net/nieuws/237460/pixel-watch-4-is-niet-compatibel-met-laders-van-voorgaande-google-horloges.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237460</guid>
-            <pubDate>Thu, 24 Jul 2025 18:45:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>WhatsApp-bèta krijgt Meta AI met &#039;spraakmodus&#039; die moet lijken op telefoontje</title>
-            <link>https://tweakers.net/nieuws/237458/whatsapp-beta-krijgt-meta-ai-met-spraakmodus-die-moet-lijken-op-telefoontje.html</link>
-            <description>WhatsApp krijgt een Meta AI-interface met spraak, die zich moet gedragen als een telefoontje. Zo blijft het gesprek actief, ook als gebruikers van app wisselen. De interface is ook op te roepen vanuit het tabblad met telefoontjes.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/237458/whatsapp-beta-krijgt-meta-ai-met-spraakmodus-die-moet-lijken-op-telefoontje.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237458</guid>
-            <pubDate>Thu, 24 Jul 2025 18:01:23 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Directory Opus 13.17</title>
-            <link>https://tweakers.net/downloads/73410/directory-opus-1317.html</link>
-            <description>GPSoftware heeft versie 13.17 van zijn bestandsmanager Directory Opus uitgebracht. Dit programma is in zekere zin vergelijkbaar met Total Commander, maar dan met uitgebreidere mogelijkheden over welke informatie precies moet worden weergegeven en op welke manier. Directory Opus is veelzijdig en extreem configureerbaar, zowel wat functionaliteit als wat uiterlijk betreft. Dat is meteen ook het grootste probleem, want het programma kan zeker op beginnende gebruikers complex overkomen. Het programma kan na registratie 60 dagen worden getest; daarna moet een licentie van 89 Australische dollar worden aangeschaft, wat neerkomt op ongeveer 55 euro. De changelog voor deze uitgave kan hieronder worden gevonden: Compatibility</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73410/directory-opus-1317.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73410</guid>
-            <pubDate>Thu, 24 Jul 2025 17:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>EA kondigt Battlefield 6 aan en deelt eerste trailer</title>
-            <link>https://tweakers.net/nieuws/237454/ea-kondigt-battlefield-6-aan-en-deelt-eerste-trailer.html</link>
-            <description>EA heeft de volgende Battlefield-game aangekondigd, hoewel het bedrijf daarbij weinig concrete details deelde. In een aankondigingstrailer worden wel al details gedeeld over het verhaal van de shooter. EA belooft volgende week meer details te delen, waaronder beelden van de multiplayer.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/237454/ea-kondigt-battlefield-6-aan-en-deelt-eerste-trailer.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237454</guid>
-            <pubDate>Thu, 24 Jul 2025 17:24:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Amazon brengt eerste e-reader met kleurenscherm uit in Nederland en België</title>
-            <link>https://tweakers.net/nieuws/237452/amazon-brengt-eerste-e-reader-met-kleurenscherm-uit-in-nederland-en-belgie.html</link>
-            <description>Amazon heeft zijn eerste e-reader met kleurenscherm uitgebracht in Nederland en België. De instapversie kost 270 euro, terwijl een versie met meer opslagcapaciteit en ingebouwde verlichting 300 euro kost .</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Tablets en telefoons / E-readers</category>
-            <comments>https://tweakers.net/nieuws/237452/amazon-brengt-eerste-e-reader-met-kleurenscherm-uit-in-nederland-en-belgie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237452</guid>
-            <pubDate>Thu, 24 Jul 2025 16:28:29 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft: lek in Sharepoint Server wordt misbruikt voor ransomwareaanvallen</title>
-            <link>https://tweakers.net/nieuws/237448/microsoft-lek-in-sharepoint-server-wordt-misbruikt-voor-ransomwareaanvallen.html</link>
-            <description>De kwetsbaarheid in SharePoint Server wordt misbruikt voor het verspreiden van ransomware, schrijft Microsoft. Volgens onderzoekers van Eye Security zijn meer dan vierhonderd organisaties slachtoffer geworden van het lek.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Computers / Programming</category>
-            <comments>https://tweakers.net/nieuws/237448/microsoft-lek-in-sharepoint-server-wordt-misbruikt-voor-ransomwareaanvallen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237448</guid>
-            <pubDate>Thu, 24 Jul 2025 15:52:46 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Homebrew 4.5.12</title>
-            <link>https://tweakers.net/downloads/73408/homebrew-4512.html</link>
-            <description>Homebrew is een pakketbeheerder die wordt bijgehouden door een groep vrijwilligers, waarbij vanuit verschillende &#039;taps&#039; (pakketbronnen) &#039;formula&#039; (softwarepakketten) kunnen worden geïnstalleerd via de terminal. Homebrew begon als een project om een tot dan toe ontbrekende pakketbeheerder aan te bieden op macOS, maar Homebrew biedt al langer ook ondersteuning voor Linux. Inmiddels zijn de Homebrew-repository&#039;s op GitHub uitgegroeid tot de grootste qua aantallen bijdragers. Via zogeheten &#039;casks&#039; is het verder mogelijk om apps en lettertypen te installeren en beheren op een macOS-installatie. Versie 4.5.12 is uitgekomen en sinds versie 4.5.9 zijn de volgende veranderingen en verbeteringen doorgevoerd: Homebrew 4.5.12:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73408/homebrew-4512.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73408</guid>
-            <pubDate>Thu, 24 Jul 2025 15:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Achtergrond - Voor betere AI in WhatsApp en Instagram speelt Zuckerberg zelf recruiter</title>
-            <link>https://tweakers.net/reviews/13562/voor-betere-ai-in-whatsapp-en-instagram-speelt-zuckerberg-zelf-recruiter.html</link>
-            <description>Meta heeft grote ambities voor AI en heeft een krachtig wapen ingezet: oprichter Mark Zuckerberg speelt recruiter om een team samen te stellen met haast onbeperkt budget.</description>
-            <author>Arnoud Wokke</author>
-            <category>Achtergrond / IT Pro / Wetenschap</category>
-            <comments>https://tweakers.net/reviews/13562/voor-betere-ai-in-whatsapp-en-instagram-speelt-zuckerberg-zelf-recruiter.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13562</guid>
-            <pubDate>Thu, 24 Jul 2025 15:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Chips uit TSMC&#039;s fabriek in VS zijn tot 20 procent duurder dan die uit Taiwan</title>
-            <link>https://tweakers.net/nieuws/237444/chips-uit-tsmcs-fabriek-in-vs-zijn-tot-20-procent-duurder-dan-die-uit-taiwan.html</link>
-            <description>Chips die in de Amerikaanse fabrieken van TSMC worden geproduceerd, kosten tot twintig procent meer dan chips die afkomstig zijn uit de fabs in Taiwan. Dat zegt de ceo van AMD, Lisa Su, tegen Bloomberg.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237444/chips-uit-tsmcs-fabriek-in-vs-zijn-tot-20-procent-duurder-dan-die-uit-taiwan.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237444</guid>
-            <pubDate>Thu, 24 Jul 2025 14:47:50 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Visual Studio Code 1.102.2</title>
-            <link>https://tweakers.net/downloads/73406/visual-studio-code-11022.html</link>
-            <description>Versie 1.102.2 van Visual Studio Code uitgekomen. Deze opensource code-editor heeft ondersteuning voor IntelliSense, debugging, Git en code snippets. Downloads zijn beschikbaar voor Windows, Linux en macOS. Ondersteuning voor de gangbare script- en programmeertalen is aanwezig en het kan daarnaast via extensies uitgebreid worden. Uitgebreide informatie over versie 1.102.0 is op deze pagina te vinden; sindsdien zijn nog de volgende veranderingen en verbeteringen aangebracht:: Visual Studio Code 1.102.2</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73406/visual-studio-code-11022.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73406</guid>
-            <pubDate>Thu, 24 Jul 2025 13:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Gameplatform Itch.io verbergt nsfw-games vanwege druk van betaalverwerkers</title>
-            <link>https://tweakers.net/nieuws/237442/gameplatform-itch-punt-io-verbergt-nsfw-games-vanwege-druk-van-betaalverwerkers.html</link>
-            <description>Gameplatform Itch.io heeft bijna alle nsfw-games verborgen op het platform. Ze verschijnen niet langer in de zoekfunctie, maar kunnen nog wel via een directe link worden bezocht. Volgens het platform worden &#039;sommige&#039; games permanent verwijderd van het platform.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/237442/gameplatform-itch-punt-io-verbergt-nsfw-games-vanwege-druk-van-betaalverwerkers.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237442</guid>
-            <pubDate>Thu, 24 Jul 2025 13:23:05 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - LEGO-versie van Game Boy verschijnt op 1 oktober voor 60 euro</title>
-            <link>https://tweakers.net/geek/237440/lego-versie-van-game-boy-verschijnt-op-1-oktober-voor-60-euro.html</link>
-            <description>Nintendo heeft de LEGO-replica van de Game Boy officieel onthuld. De bouwbare grijze baksteen bestaat uit 421 onderdelen en is volgens de maker bijna net zo groot als het origineel. De LEGO Game Boy moet op 1 oktober verschijnen en kost 60 euro.</description>
-            <author>Kevin Krikhaar</author>
-            <category>.Geek / Gaming / Consoles</category>
-            <comments>https://tweakers.net/geek/237440/lego-versie-van-game-boy-verschijnt-op-1-oktober-voor-60-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/237440</guid>
-            <pubDate>Thu, 24 Jul 2025 11:59:48 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - OPNsense 25.7</title>
-            <link>https://tweakers.net/downloads/73404/opnsense-257.html</link>
-            <description>Het pakket OPNsense is een firewall met uitgebreide mogelijkheden. Het is gebaseerd op het besturingssysteem FreeBSD en is oorspronkelijk een fork van m0n0wall en pfSense. Het pakket kan volledig via een webinterface worden ingesteld en heeft onder andere ondersteuning voor MFA, WireGuard, OpenVPN, IPsec, CARP en captive portal. Daarnaast kan het packetfiltering toepassen en beschikt het over een traffic shaper. De ontwikkelaars hebben OPNsense 25.7 uitgebracht en de releasenotes voor die uitgave kunnen hieronder worden gevonden. OPNsense 25.7 released</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73404/opnsense-257.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73404</guid>
-            <pubDate>Thu, 24 Jul 2025 11:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Verkeersapps laten lichten op 230 Vlaamse kruispunten sneller op groen springen</title>
-            <link>https://tweakers.net/nieuws/237438/verkeersapps-laten-lichten-op-230-vlaamse-kruispunten-sneller-op-groen-springen.html</link>
-            <description>In de afgelopen twee jaar zijn op 230 kruispunten in Vlaanderen &#039;intelligente&#039; verkeerslichten geplaatst. Deze verkeerslichten kunnen verbinding maken met de verkeersapps van naderende weggebruikers, zodat ze beter rekening kunnen houden met de verkeerssituatie.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Economie en maatschappij</category>
-            <comments>https://tweakers.net/nieuws/237438/verkeersapps-laten-lichten-op-230-vlaamse-kruispunten-sneller-op-groen-springen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237438</guid>
-            <pubDate>Thu, 24 Jul 2025 11:04:04 +0200</pubDate>
-        </item>
-        <item>
-            <title>Xbox schrapt geplande prijsverhoging: games blijven dit najaar 70 euro kosten</title>
-            <link>https://tweakers.net/nieuws/237434/xbox-schrapt-geplande-prijsverhoging-games-blijven-dit-najaar-70-euro-kosten.html</link>
-            <description>Microsoft verhoogt de adviesprijzen van Xbox-games dit najaar toch niet naar 80 euro. The Outer Worlds 2 zou in oktober de eerste Xbox-game worden met deze hogere prijs, maar inmiddels is de prijs verlaagd naar 70 euro.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/237434/xbox-schrapt-geplande-prijsverhoging-games-blijven-dit-najaar-70-euro-kosten.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237434</guid>
-            <pubDate>Thu, 24 Jul 2025 09:56:08 +0200</pubDate>
-        </item>
-        <item>
-            <title>KPN gaat sms-tweetrapsauthenticatie verplichten voor alle accounts</title>
-            <link>https://tweakers.net/nieuws/237436/kpn-gaat-sms-tweetrapsauthenticatie-verplichten-voor-alle-accounts.html</link>
-            <description>KPN gaat tweetrapsauthenticatie verplichten voor alle MijnKPN-accounts. Dit is alleen mogelijk met hotp, specifiek sms, en niet met totp of een fysieke beveiligingssleutel. Als gebruikers hun telefoonnummer kwijt zijn, moeten ze een nieuw account registreren.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/237436/kpn-gaat-sms-tweetrapsauthenticatie-verplichten-voor-alle-accounts.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237436</guid>
-            <pubDate>Thu, 24 Jul 2025 09:51:55 +0200</pubDate>
         </item>
     </channel>
 </rss>
