@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 28 Jul 2025 14:41:01 +0200</pubDate>
-        <lastBuildDate>Mon, 28 Jul 2025 14:41:01 +0200</lastBuildDate>
+        <pubDate>Mon, 28 Jul 2025 15:41:01 +0200</pubDate>
+        <lastBuildDate>Mon, 28 Jul 2025 15:41:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,12 +18,22 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
-            <title>INNO3D past RTX5090 en RTX5080 in enkel slot dankzij waterkoeling van Alphacool</title>
-            <link>https://tweakers.net/nieuws/237552/inno3d-past-rtx5090-en-rtx5080-in-enkel-slot-dankzij-waterkoeling-van-alphacool.html</link>
-            <description>INNO3D heeft varianten van de Nvidia RTX 5090 en RTX 5080 uitgebracht die in een enkel slot passen. Daarmee zijn dat de eerste verkrijgbare RTX 5090- en RTX 5080-kaarten die dat kunnen. Dat is mogelijk door waterkoeling.</description>
+            <title>Europa maakt nieuwe afspraken met Microsoft over datagebruik na wetsovertreding</title>
+            <link>https://tweakers.net/nieuws/237554/europa-maakt-nieuwe-afspraken-met-microsoft-over-datagebruik-na-wetsovertreding.html</link>
+            <description>De Europese Commissie blijft Microsoft 365 gebruiken, nadat de commissie met Microsoft nieuwe afspraken heeft gemaakt over onder meer transport van data. Andere overheden kunnen deze afspraken nu ook overnemen.</description>
+            <author>Arnoud Wokke</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/237554/europa-maakt-nieuwe-afspraken-met-microsoft-over-datagebruik-na-wetsovertreding.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237554</guid>
+            <pubDate>Mon, 28 Jul 2025 15:31:47 +0200</pubDate>
+        </item>
+        <item>
+            <title>RTX 5090 en 5080 van INNO3D passen in één slot dankzij Alphacool-waterkoeling</title>
+            <link>https://tweakers.net/nieuws/237552/rtx-5090-en-5080-van-inno3d-passen-in-een-slot-dankzij-alphacool-waterkoeling.html</link>
+            <description>INNO3D heeft varianten van de Nvidia RTX 5090 en RTX 5080 uitgebracht die in één slot passen. Daarmee zijn het de eerste verkrijgbare RTX 5090- en RTX 5080-kaarten die dat kunnen. Dat is mogelijk dankzij waterkoeling van Alphacool.</description>
             <author>Arnoud Wokke</author>
             <category>Nieuws / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/nieuws/237552/inno3d-past-rtx5090-en-rtx5080-in-enkel-slot-dankzij-waterkoeling-van-alphacool.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/237552/rtx-5090-en-5080-van-inno3d-passen-in-een-slot-dankzij-alphacool-waterkoeling.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237552</guid>
             <pubDate>Mon, 28 Jul 2025 13:57:41 +0200</pubDate>
         </item>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/237500/samsung-maakt-galaxy-z-fold7-z-flip7-en-watch8-vandaag-beschikbaar.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237500</guid>
             <pubDate>Fri, 25 Jul 2025 19:36:06 +0200</pubDate>
-        </item>
-        <item>
-            <title>ID-bewijzen gebruikers anonieme datingveiligheidsapp Tea App verschijnen online</title>
-            <link>https://tweakers.net/nieuws/237496/id-bewijzen-gebruikers-anonieme-datingveiligheidsapp-tea-app-verschijnen-online.html</link>
-            <description>De identiteitsbewijzen van een onbekend aantal gebruikers van de datingveiligheidsapp Tea App waren openbaar toegankelijk. Tea App is een dienst voor vrouwen om anoniem te controleren of de man waarmee zij daten betrouwbaar is.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/237496/id-bewijzen-gebruikers-anonieme-datingveiligheidsapp-tea-app-verschijnen-online.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237496</guid>
-            <pubDate>Fri, 25 Jul 2025 18:15:46 +0200</pubDate>
         </item>
     </channel>
 </rss>
