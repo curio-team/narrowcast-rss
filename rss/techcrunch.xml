@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 28 Jul 2025 14:30:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 29 Jul 2025 05:31:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,22 +28,255 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>AI data analyst startup Julius nabs $10M seed round</title>
+		<link>https://techcrunch.com/2025/07/28/ai-data-analyst-startup-julius-nabs-10m-seed-round/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Tue, 29 Jul 2025 00:42:48 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Bessemer Venture Partners]]></category>
+		<category><![CDATA[data analysis]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3031780</guid>
+
+					<description><![CDATA[Julius is designed to act like a data scientist by analyzing and visualizing extensive datasets and then performing predictive modeling from natural language prompts.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Waymo taps Avis to manage robotaxi fleet in Dallas</title>
+		<link>https://techcrunch.com/2025/07/28/waymo-taps-avis-to-manage-robotaxi-fleet-in-dallas/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Mon, 28 Jul 2025 23:42:19 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[autonomous vehicles]]></category>
+		<category><![CDATA[AVIS budget]]></category>
+		<category><![CDATA[rental cars]]></category>
+		<category><![CDATA[Waymo]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3031764</guid>
+
+					<description><![CDATA[Avis will handle general depot operations, including charging and maintaining the vehicles. Users will be able to hail a robotaxi through the Waymo app.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Harmonic, the Robinhood CEO&#8217;s AI math startup, launches an AI chatbot app</title>
+		<link>https://techcrunch.com/2025/07/28/harmonic-the-robinhood-ceos-ai-math-startup-launches-an-ai-chatbot-app/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Mon, 28 Jul 2025 22:27:18 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI chatbot]]></category>
+		<category><![CDATA[AI math]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3031717</guid>
+
+					<description><![CDATA[The chatbot app, which is available in beta on iOS and Android, lets users access its AI model, Aristotle. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Flexport sells former freight unicorn Convoy&#8217;s tech 2 years after buying it</title>
+		<link>https://techcrunch.com/2025/07/28/flexport-sells-former-freight-unicorn-convoys-tech-two-years-after-buying-it/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Mon, 28 Jul 2025 20:49:23 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Convoy]]></category>
+		<category><![CDATA[Flexport]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3031656</guid>
+
+					<description><![CDATA[The assets of Convoy are now in the hands of DAT Freight &#038; Analytics. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Edge is now an AI browser with launch of &#8216;Copilot Mode&#8217;</title>
+		<link>https://techcrunch.com/2025/07/28/microsoft-edge-is-now-an-ai-browser-with-launch-of-copilot-mode/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Mon, 28 Jul 2025 19:43:22 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Browser]]></category>
+		<category><![CDATA[Copilot]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3031655</guid>
+
+					<description><![CDATA[Microsoft's Edge browser introduces an AI-powered "Copilot Mode" for smarter web browsing.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anthropic unveils new rate limits to curb Claude Code power users</title>
+		<link>https://techcrunch.com/2025/07/28/anthropic-unveils-new-rate-limits-to-curb-claude-code-power-users/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Mon, 28 Jul 2025 19:21:15 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI coding tools]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Claude]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3031660</guid>
+
+					<description><![CDATA[The new rate limits will go into effect August 28 for subscribers to Anthropic's $20-per-month Pro plan, as well as its $100- and $200-per-month Max plans.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New York state cyber chief calls out Trump for cybersecurity cuts</title>
+		<link>https://techcrunch.com/2025/07/28/new-york-state-cyber-chief-calls-out-trump-for-cybersecurity-cuts/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Mon, 28 Jul 2025 18:53:34 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[Colin Ahern]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[DHS]]></category>
+		<category><![CDATA[Donald Trump]]></category>
+		<category><![CDATA[infosec]]></category>
+		<category><![CDATA[kathy hochul]]></category>
+		<category><![CDATA[New York]]></category>
+		<category><![CDATA[new york state]]></category>
+		<category><![CDATA[Politics]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3031645</guid>
+
+					<description><![CDATA[The top cybersecurity official in New York told TechCrunch in an interview that Trump's budget cuts are going to put the government at risk from cyberattacks, and will put more pressure on states to secure themselves. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Amazon disputes report that it raised prices of popular items since Trump took office</title>
+		<link>https://techcrunch.com/2025/07/28/amazon-disputes-report-that-it-raised-prices-of-popular-items-since-trump-took-office/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Mon, 28 Jul 2025 18:39:13 +0000</pubDate>
+				<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[inflation]]></category>
+		<category><![CDATA[Tariffs]]></category>
+		<category><![CDATA[WSJ]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3031653</guid>
+
+					<description><![CDATA[Amazon published a lengthy rebuttal to a WSJ report that found that Amazon prices had increased since Trump announced tariff plans.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Why Dispo&#8217;s co-founder made the leap from social media to steelmaking</title>
+		<link>https://techcrunch.com/2025/07/28/why-dispos-co-founder-made-the-leap-from-social-media-to-steelmaking/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Mon, 28 Jul 2025 18:08:23 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[daniel liss]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3031647</guid>
+
+					<description><![CDATA[Daniel Liss, co-founder of the social network Dispo and the dating app Teaser AI, is convinced he’s onto the next big thing: steelmaking. It all started a few op-eds he wrote for TechCrunch about anti-trust enforcement in social media.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Chrome adds AI-powered store summaries to help US shoppers</title>
+		<link>https://techcrunch.com/2025/07/28/google-chrome-adds-ai-powered-store-summaries-to-help-u-s-shoppers/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Mon, 28 Jul 2025 17:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[shopping]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3031526</guid>
+
+					<description><![CDATA[The feature will display a pop-up that informs consumers about the store's reputation for things like product quality, shopping, pricing, customer service, and returns.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>TechCrunch Mobility: Tesla vs GM: A tale of two earnings</title>
+		<link>https://techcrunch.com/2025/07/28/techcrunch-mobility-tesla-vs-gm-a-tale-of-two-earnings/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Mon, 28 Jul 2025 16:06:00 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[GM]]></category>
+		<category><![CDATA[lucid]]></category>
+		<category><![CDATA[Lyft]]></category>
+		<category><![CDATA[techcrunch mobility]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3031350</guid>
+
+					<description><![CDATA[Welcome back to TechCrunch Mobility, your central hub for news and insights on the future of transportation. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tesla signs $16.5B deal with Samsung to make AI chips</title>
+		<link>https://techcrunch.com/2025/07/28/tesla-signs-16-5b-deal-with-samsung-to-make-ai-chips/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Mon, 28 Jul 2025 15:32:25 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[Samsung]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<category><![CDATA[tesla ai6 chips]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3031529</guid>
+
+					<description><![CDATA[The deal for next-generation chips is a boon for Samsung. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>20 national security experts urge Trump administration to restrict Nvidia H20 sales to China</title>
+		<link>https://techcrunch.com/2025/07/28/20-national-security-experts-urge-trump-administration-to-restrict-nvidia-h20-sales-to-china/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Mon, 28 Jul 2025 15:29:44 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<category><![CDATA[semiconductors]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3031527</guid>
+
+					<description><![CDATA[The letter states that allowing sales of the H20 AI chip to China could hurt the U.S.'s AI "edge" and worsen chip bottlenecks in the U.S. ]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Do startups still need Silicon Valley? Hear from the founders and funders challenging old assumptions at TechCrunch Disrupt 2025</title>
 		<link>https://techcrunch.com/2025/07/28/do-startups-still-need-silicon-valley-hear-from-the-founders-and-funders-challenging-old-assumptions-at-techcrunch-disrupt-2025/</link>
 		
 		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
 		<pubDate>Mon, 28 Jul 2025 14:30:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
+				<category><![CDATA[Fundraising]]></category>
 		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
 		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Fundraising]]></category>
 		<category><![CDATA[tc disrupt]]></category>
+		<category><![CDATA[TC Disrupt 2025]]></category>
+		<category><![CDATA[TC Event Promo]]></category>
 		<category><![CDATA[TechCrunch Disrupt]]></category>
 		<category><![CDATA[TechCrunch Disrupt 2025]]></category>
-		<category><![CDATA[TC Disrupt 2025]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3030156</guid>
 
-					<description><![CDATA[As the startup world descends on San Francisco for TechCrunch Disrupt 2025 — happening October 27–29 at Moscone West — one question looms large: does building in Silicon Valley still give founders an edge? With 10,000+ startup and VC leaders gathering for this milestone Disrupt, the conversation around access, geography, and opportunity has never been [&#8230;]]]></description>
+					<description><![CDATA[TechCrunch Disrupt 2025, Oct 27-29, will dive into whether building in Silicon Valley still gives founders an edge. Register now to save up to $625.]]></description>
 		
 		
 		
@@ -60,9 +293,10 @@
 		<category><![CDATA[AI]]></category>
 		<category><![CDATA[TechCrunch Disrupt 2025]]></category>
 		<category><![CDATA[Disrupt 2025]]></category>
+		<category><![CDATA[TC Event Promo]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3031473</guid>
 
-					<description><![CDATA[At TechCrunch Disrupt 2025, the AI Stage comes alive with the voices shaping the future of technology, creativity, and security. Top VCs reveal what it takes to win funding in a rapidly evolving landscape, as they place bets on the next wave of AI founders. Hear groundbreaking insights from leaders at visionary startups like Apptronik, [&#8230;]]]></description>
+					<description><![CDATA[The preview of the AI Stage agenda at TechCrunch Disrupt 2025. Two full days of discussions with the top AI minds. Register now to save up to $625.]]></description>
 		
 		
 		
@@ -79,7 +313,6 @@
 		<category><![CDATA[cybersecurity]]></category>
 		<category><![CDATA[hackers]]></category>
 		<category><![CDATA[russia]]></category>
-		<category><![CDATA[transportation]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3031511</guid>
 
 					<description><![CDATA[Russian prosecutor said it opened a criminal investigation into the cyberattack targeting Aeroflot, the largest airline in Russia.]]></description>
@@ -88,18 +321,19 @@
 		
 			</item>
 		<item>
-		<title>‘Wizard of Oz’ blown up by AI for giant Sphere screen</title>
+		<title>‘The Wizard of Oz’ blown up by AI for giant Sphere screen</title>
 		<link>https://techcrunch.com/2025/07/27/wizard-of-oz-blown-up-by-ai-for-giant-sphere-screen/</link>
 		
 		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
 		<pubDate>Sun, 27 Jul 2025 19:49:34 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<category><![CDATA[Sphere]]></category>
 		<category><![CDATA[wizard of oz]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3031469</guid>
 
-					<description><![CDATA[The massive Las Vegas venue known as Sphere will be screening its first classic movie, “The Wizard of Oz,” starting on August 28. And as detailed in a segment on CBS Sunday Morning, this isn’t just a matter of taking the existing movie and projecting it on Sphere’s 160,000 square foot, wraparound LED screen.]]></description>
+					<description><![CDATA[The massive Las Vegas venue known as Sphere will be screening its first classic movie, “The Wizard of Oz,” starting on August 28. And as detailed in a segment on CBS Sunday Morning, this isn’t just a matter of taking the existing movie and projecting it on Sphere’s 160,000-square-foot, wraparound LED screen.]]></description>
 		
 		
 		
@@ -133,6 +367,7 @@
 		<category><![CDATA[doge]]></category>
 		<category><![CDATA[Donald Trump]]></category>
 		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3031461</guid>
 
 					<description><![CDATA[The Department of Government Efficiency has presented plans to use a new AI tool to eliminate half of the federal government’s regulatory mandates by the first anniversary of President Donald Trump’s return to office, according to The Washington Post.]]></description>
@@ -141,257 +376,18 @@
 		
 			</item>
 		<item>
-		<title>U.K. starts enforcing online age check rules</title>
+		<title>UK starts enforcing online age-check rules</title>
 		<link>https://techcrunch.com/2025/07/26/u-k-starts-enforcing-online-age-check-rules/</link>
 		
 		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
 		<pubDate>Sat, 26 Jul 2025 20:29:26 +0000</pubDate>
 				<category><![CDATA[Government & Policy]]></category>
 		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<category><![CDATA[online safety act]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3031455</guid>
 
 					<description><![CDATA[A U.K. law requiring that pornography websites verify the age of their users took effect Friday.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Astronomer winks at viral notoriety with ‘temporary spokesperson’ Gwyneth Paltrow</title>
-		<link>https://techcrunch.com/2025/07/26/astronomer-winks-at-viral-notoriety-with-temporary-spokesperson-gwyneth-paltrow/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sat, 26 Jul 2025 19:40:33 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Astronomer]]></category>
-		<category><![CDATA[gwyneth paltrow]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3031452</guid>
-
-					<description><![CDATA[After spending the past week-plus in the headlines due to a seemingly inescapable social media scandal, data operations startup Astronomer is trying to shift the narrative with a tongue-in-cheek video starring actress and entrepreneur Gwyneth Paltrow.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Dating safety app Tea breached, exposing 72,000 user images</title>
-		<link>https://techcrunch.com/2025/07/26/dating-safety-app-tea-breached-exposing-72000-user-images/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sat, 26 Jul 2025 16:40:01 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[tea]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3031447</guid>
-
-					<description><![CDATA[Tea, an app that allows women to post anonymous comments about men they’ve supposedly dated, announced Friday that it has suffered a data breach, with hackers gaining access to 72,000 images.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tesla vet says that &#8216;reviewing real products&#8217; — not mockups — is the key to staying innovative</title>
-		<link>https://techcrunch.com/2025/07/26/tesla-vet-says-that-reviewing-real-products-not-mockups-is-the-key-to-staying-innovative/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Sat, 26 Jul 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[GM]]></category>
-		<category><![CDATA[Tesla]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3031373</guid>
-
-					<description><![CDATA[“No slides was our first rule,” McNeil told the audience earlier this month at TC All Stage in Boston. “You have to be reviewing real product.”]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Allianz Life says &#8216;majority&#8217; of customers&#8217; personal data stolen in cyberattack</title>
-		<link>https://techcrunch.com/2025/07/26/allianz-life-says-majority-of-customers-personal-data-stolen-in-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Sat, 26 Jul 2025 13:40:16 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[insurance]]></category>
-		<category><![CDATA[Scattered Spider]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3031435</guid>
-
-					<description><![CDATA[Exclusive: Allianz Life said the "majority" of its customers and employees had data stolen in the July cyberattack. The company said it has notified the FBI.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tesla wants to bring robotaxis to San Francisco. Here&#8217;s what&#8217;s standing in the way.</title>
-		<link>https://techcrunch.com/2025/07/25/tesla-wants-to-bring-its-robotaxis-to-san-francisco-heres-whats-standing-in-the-way/</link>
-		
-		<dc:creator><![CDATA[Sean O'Kane, Kirsten Korosec]]></dc:creator>
-		<pubDate>Fri, 25 Jul 2025 23:41:43 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[robotaxi]]></category>
-		<category><![CDATA[Tesla]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3031218</guid>
-
-					<description><![CDATA[There will be an employee in the driver's seat -- a big change from how things have been working in Austin.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>India bans streaming apps you’ve never heard of — but millions watch</title>
-		<link>https://techcrunch.com/2025/07/25/india-bans-streaming-apps-youve-never-heard-of-but-millions-watch/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Fri, 25 Jul 2025 22:02:42 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[ALTT]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[Google Play Store]]></category>
-		<category><![CDATA[Ullu]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3031361</guid>
-
-					<description><![CDATA[India has ordered the blocking of 25 streaming services — many with millions of viewers and even paying subscribers — for allegedly promoting "obscene" content.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Index Ventures’ Jahanvi Sardana shares the truth about TAM and what founders should focus on instead</title>
-		<link>https://techcrunch.com/2025/07/25/index-ventures-jahanvi-sardana-shares-the-truth-about-tam-and-what-founders-should-focus-on-instead/</link>
-		
-		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
-		<pubDate>Fri, 25 Jul 2025 22:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[All Stage]]></category>
-		<category><![CDATA[events]]></category>
-		<category><![CDATA[VC]]></category>
-		<category><![CDATA[venture capital]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3031398</guid>
-
-					<description><![CDATA[Index Ventures partner Jahanvi Sardana has a reminder for all those founders worried about finding TAM for their product or service: many startups have emerged from markets that, at the time, were essentially nonexistent.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Intel is spinning off its Network and Edge group</title>
-		<link>https://techcrunch.com/2025/07/25/intel-is-spinning-off-its-network-and-edge-group/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Fri, 25 Jul 2025 21:34:18 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Intel]]></category>
-		<category><![CDATA[semiconductor]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3031389</guid>
-
-					<description><![CDATA[Intel will remain an anchor investor in the stand-alone company, which produced $5.8 billion in revenue in 2024. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meta names Shengjia Zhao as chief scientist of AI superintelligence unit</title>
-		<link>https://techcrunch.com/2025/07/25/meta-names-shengjia-zhao-as-chief-scientist-of-ai-superintelligence-unit/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Fri, 25 Jul 2025 20:58:37 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI talent wars]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3031358</guid>
-
-					<description><![CDATA[Shengjia Zhao, a former OpenAI researcher, will round out the leadership team at Meta's new AI lab.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI referrals to top websites were up 357% year-over-year in June, reaching 1.13B</title>
-		<link>https://techcrunch.com/2025/07/25/ai-referrals-to-top-websites-were-up-357-year-over-year-in-june-reaching-1-13b/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Fri, 25 Jul 2025 20:11:08 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[media]]></category>
-		<category><![CDATA[Search]]></category>
-		<category><![CDATA[AI search]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3031342</guid>
-
-					<description><![CDATA[AI platforms in June 2025 generated over 1.13 billion referrals to the top 1,000 websites globally, up 357% year-over-year.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Sam Altman warns there&#8217;s no legal confidentiality when using ChatGPT as a therapist</title>
-		<link>https://techcrunch.com/2025/07/25/sam-altman-warns-theres-no-legal-confidentiality-when-using-chatgpt-as-a-therapist/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Fri, 25 Jul 2025 17:33:29 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[legal]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[sam altman]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3031313</guid>
-
-					<description><![CDATA[In response to a question about how AI works with today's legal system, Altman said one of the problems of not yet having a legal or policy framework for AI is that there's no legal confidentiality for users' conversations.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>A timeline of the US semiconductor market in 2025</title>
-		<link>https://techcrunch.com/2025/07/25/a-timeline-of-the-u-s-semiconductor-market-in-2025/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Fri, 25 Jul 2025 17:01:24 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[chips]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[Intel]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<category><![CDATA[semiconductor]]></category>
-		<category><![CDATA[TSMC]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3005295</guid>
-
-					<description><![CDATA[From leadership changes at legacy semiconductor companies to wishy washy policy around chip exports, a lot has happened already.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google took a month to shut down Catwatchful, a phone spyware operation hosted on its servers</title>
-		<link>https://techcrunch.com/2025/07/25/google-took-a-month-to-shut-down-catwatchful-a-phone-spyware-operation-hosted-on-its-servers/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Fri, 25 Jul 2025 16:25:47 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[Firebase]]></category>
-		<category><![CDATA[stalkerware]]></category>
-		<category><![CDATA[catwatchful]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3031275</guid>
-
-					<description><![CDATA[Google has suspended the Firebase account of Catwatchful following a TechCrunch investigation. The spyware operation was caught using Google's own servers to host and run its surveillance app, which was stealthily monitoring thousands of people's phones.]]></description>
 		
 		
 		

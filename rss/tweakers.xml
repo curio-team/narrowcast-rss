@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 28 Jul 2025 16:36:00 +0200</pubDate>
-        <lastBuildDate>Mon, 28 Jul 2025 16:36:00 +0200</lastBuildDate>
+        <pubDate>Tue, 29 Jul 2025 09:36:00 +0200</pubDate>
+        <lastBuildDate>Tue, 29 Jul 2025 09:36:00 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,136 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Chrome toont in Amerika AI-overzichten van recensies van online winkels</title>
+            <link>https://tweakers.net/nieuws/237582/chrome-toont-in-amerika-ai-overzichten-van-recensies-van-online-winkels.html</link>
+            <description>Google Chrome gaat in de Verenigde Staten door AI gegenereerde overzichten van recensies van online winkels tonen. De functie maakt gebruik van gegevens van Google Shopping en andere recensiewebsites om een profiel van websites op te stellen op basis van gebruikerservaringen.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Internettoegang</category>
+            <comments>https://tweakers.net/nieuws/237582/chrome-toont-in-amerika-ai-overzichten-van-recensies-van-online-winkels.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237582</guid>
+            <pubDate>Tue, 29 Jul 2025 09:28:49 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - DietPi 9.15</title>
+            <link>https://tweakers.net/downloads/73454/dietpi-915.html</link>
+            <description>DietPi is een lichtgewicht besturingssysteem voor zogenaamde singleboardcomputers. Het is op Debian gebaseerd en geoptimaliseerd om maximale prestaties uit de kleine computers te halen. DietPi heeft daarnaast ook een groot aantal ready-to-run applicaties die kunnen worden geïnstalleerd. Hoewel de naam anders doet vermoeden is het niet alleen geschikt voor Raspberry Pi&#039;s, maar ook prima te gebruiken op hardware van bijvoorbeeld Odroid, Orange Rock en Pine. Versie 9.15 is uitgekomen en hier zijn de volgende veranderingen en verbeteringen in aangebracht: Overview</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73454/dietpi-915.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73454</guid>
+            <pubDate>Tue, 29 Jul 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Sony klaagt Tencent aan voor &#039;kopie&#039; van Horizon-games</title>
+            <link>https://tweakers.net/nieuws/237580/sony-klaagt-tencent-aan-voor-kopie-van-horizon-games.html</link>
+            <description>Sony heeft de Chinese gamemaker Tencent aangeklaagd bij een rechtbank in Californië wegens inbreuk op auteursrechten en handelsmerken. Sony stelt dat Tencent met zijn aankomende game Light of Motiram de populaire Horizon-serie kopieert.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/237580/sony-klaagt-tencent-aan-voor-kopie-van-horizon-games.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237580</guid>
+            <pubDate>Tue, 29 Jul 2025 08:52:12 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Navidrome 0.58.0</title>
+            <link>https://tweakers.net/downloads/73452/navidrome-0580.html</link>
+            <description>Versie 0.58 van Navidrome is uitgekomen. Navidrome is wat ze zelf noemen een personal streaming service, en is een opensource mediaserver die je persoonlijke muziekcollectie van overal benaderbaar kan maken. Het is snel, gebruikt weinig resources, heeft geen moeite met hele grote collecties en elke gebruiker kan zijn eigen playlists en favorieten aanmaken. Navidrome is compatibel met Subsonic, dus je hebt een grote keuze uit mediaspelers om naar de muziek te luisteren. Downloads en installatie-instructies zijn beschikbaar voor Docker, Windows, Linux, macOS en FreeBSD. In deze uitgave is onder meer ondersteuning voor meerdere bibliotheken toegevoegd. Dit heeft echter enkele consequenties, dus lees de releasenotes goed door voor je een upgrade uitvoert.</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73452/navidrome-0580.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73452</guid>
+            <pubDate>Tue, 29 Jul 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Achtergrond - Windows 11 is pas na tien jaar groter dan Windows 10: hoe kan dat?</title>
+            <link>https://tweakers.net/reviews/13570/windows-11-is-pas-na-tien-jaar-groter-dan-windows-10-hoe-kan-dat.html</link>
+            <description>Windows 10 is jarig: het besturingssysteem van Microsoft is liefst tien jaar oud. Als ‘cadeautje’ wordt Windows 10 langzaamaan met pensioen gestuurd.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Achtergrond / IT Pro / Software development</category>
+            <comments>https://tweakers.net/reviews/13570/windows-11-is-pas-na-tien-jaar-groter-dan-windows-10-hoe-kan-dat.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13570</guid>
+            <pubDate>Tue, 29 Jul 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Microsoft Edge krijgt Copilot-modus die tabbladen kan doorzoeken met AI</title>
+            <link>https://tweakers.net/nieuws/237572/microsoft-edge-krijgt-copilot-modus-die-tabbladen-kan-doorzoeken-met-ai.html</link>
+            <description>Microsoft voegt een nieuwe Copilot-modus toe aan Edge. Deze functie kan onder andere de tabbladen van gebruikers doorzoeken en taken uitvoeren binnen de browser, als de gebruiker daar toestemming voor geeft. De functie is &#039;voor een beperkte tijd&#039; gratis te gebruiken.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Browsers</category>
+            <comments>https://tweakers.net/nieuws/237572/microsoft-edge-krijgt-copilot-modus-die-tabbladen-kan-doorzoeken-met-ai.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237572</guid>
+            <pubDate>Mon, 28 Jul 2025 21:14:54 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - OBS Studio 31.1.2</title>
+            <link>https://tweakers.net/downloads/73450/obs-studio-3112.html</link>
+            <description>Versie 31.1.2 van OBS Studio is uitgekomen. Open Broadcaster Software Studio is opensource- en crossplatformsoftware bedoeld voor het opnemen en streamen van videobeelden van een of meer bronnen, zoals een webcam, microfoon, mediabestanden en de desktop. De software is beschikbaar voor Windows, Linux en macOS. In deze uitgave zijn de volgende verbeteringen aangebracht: 31.1.2 Hotfix Changes</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73450/obs-studio-3112.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73450</guid>
+            <pubDate>Mon, 28 Jul 2025 21:05:45 +0200</pubDate>
+        </item>
+        <item>
+            <title>Ayaneo brengt dit jaar Next 2-handheld met AMD Ryzen AI Max+ 395-apu uit</title>
+            <link>https://tweakers.net/nieuws/237570/ayaneo-brengt-dit-jaar-next-2-handheld-met-amd-ryzen-ai-max+-395-apu-uit.html</link>
+            <description>Ayaneo werkt aan een Next 2-gaminghandheld. Deze beschikt over een Ryzen AI Max+ 395-apu met zestien cpu-cores en een Radeon 8060S-igpu. Het bedrijf deelt verder nog weinig concrete details, maar zegt wel dat het apparaat later dit jaar beschikbaar komt.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Gaming / Consoles</category>
+            <comments>https://tweakers.net/nieuws/237570/ayaneo-brengt-dit-jaar-next-2-handheld-met-amd-ryzen-ai-max+-395-apu-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237570</guid>
+            <pubDate>Mon, 28 Jul 2025 20:20:47 +0200</pubDate>
+        </item>
+        <item>
+            <title>Insta360-dochterbedrijf Antigravity gaat drone met 360-gradencamera maken</title>
+            <link>https://tweakers.net/nieuws/237568/insta360-dochterbedrijf-antigravity-gaat-drone-met-360-gradencamera-maken.html</link>
+            <description>Insta360 heeft een nieuw merk opgericht dat zich richt op drones. Het bedrijf heet Antigravity en kondigt binnenkort zijn eerste product aan: een drone met een 360-gradencamera. Het is niet bekend wat deze drone gaat kosten.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Beeld en geluid / Drones</category>
+            <comments>https://tweakers.net/nieuws/237568/insta360-dochterbedrijf-antigravity-gaat-drone-met-360-gradencamera-maken.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237568</guid>
+            <pubDate>Mon, 28 Jul 2025 19:50:33 +0200</pubDate>
+        </item>
+        <item>
+            <title>EU: Temu-klanten lopen groot risico om illegale producten tegen te komen</title>
+            <link>https://tweakers.net/nieuws/237566/eu-temu-klanten-lopen-groot-risico-om-illegale-producten-tegen-te-komen.html</link>
+            <description>De Chinese webshop Temu overtreedt mogelijk de Digital Services Act. Dat stelt de Europese Commissie na een onderzoek naar het platform. Volgens de EU neemt Temu te weinig maatregelen om de verkoop van illegale producten te voorkomen.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / IT Pro / E-commerce</category>
+            <comments>https://tweakers.net/nieuws/237566/eu-temu-klanten-lopen-groot-risico-om-illegale-producten-tegen-te-komen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237566</guid>
+            <pubDate>Mon, 28 Jul 2025 18:36:18 +0200</pubDate>
+        </item>
+        <item>
+            <title>Video - Geheime producten en 3000 regels code - Tweakers-vlog #4</title>
+            <link>https://tweakers.net/video/20024/geheime-producten-en-3000-regels-code-tweakers-vlog-4.html</link>
+            <description>In deze vlog laat Wout je zien hoe we de reactietijden van monitors testen met onze zelfgebouwde testopstelling, behandelt hij jullie vragen naar aanleiding van de vorige vlog, toont hij je onze museumstukken en laat hij iets zien wat hij niet mag laten zien.</description>
+            <author>Mark van der Kruit</author>
+            <category>Video / IT Pro / Economie en maatschappij</category>
+            <comments>https://tweakers.net/video/20024/geheime-producten-en-3000-regels-code-tweakers-vlog-4.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/video/20024</guid>
+            <pubDate>Mon, 28 Jul 2025 18:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gerucht: Nvidia N1X-chip voor pc&#039;s krijgt 20 cpu-cores en RTX 5070-achtige igpu</title>
+            <link>https://tweakers.net/nieuws/237560/gerucht-nvidia-n1x-chip-voor-pcs-krijgt-20-cpu-cores-en-rtx-5070-achtige-igpu.html</link>
+            <description>De vermeende Nvidia N1X-soc voor laptops en desktops is opgedoken in de Geekbench-database. Daaruit blijkt dat de pc-chip beschikt over twintig cpu-cores en een RTX 5070-achtige igpu. Naar verluidt verschijnt de chip in 2026.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/237560/gerucht-nvidia-n1x-chip-voor-pcs-krijgt-20-cpu-cores-en-rtx-5070-achtige-igpu.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237560</guid>
+            <pubDate>Mon, 28 Jul 2025 17:49:43 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - AdGuard Home 0.107.64</title>
+            <link>https://tweakers.net/downloads/73448/adguard-home-010764.html</link>
+            <description>AdGuard Home versie 0.107.64 is uitgekomen. Met deze software kan er thuis een DNS-server worden opgezet om zo onder meer advertenties en malware te blokkeren op het hele netwerk, waardoor dat niet langer op elk individueel apparaat nodig is. Het is daarmee dus vergelijkbaar met Pi-hole. AdGuard Home werkt op een machine met Windows, macOS, Linux of FreeBSD, is ook in staat om tegen phishing te beschermen en heeft parental control. Op ons eigen forum kan over het programma worden gediscussieerd. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Security</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73448/adguard-home-010764.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73448</guid>
+            <pubDate>Mon, 28 Jul 2025 17:34:42 +0200</pubDate>
+        </item>
         <item>
             <title>Hackersgroep claimt vernietiging 7000 servers van Russische vliegmaatschappij</title>
             <link>https://tweakers.net/nieuws/237558/hackersgroep-claimt-vernietiging-7000-servers-van-russische-vliegmaatschappij.html</link>
@@ -286,136 +416,6 @@
             <comments>https://tweakers.net/reviews/13478/aqara-smart-lock-u200-lite-lage-prijs-en-beperkt-gebruiksgemak.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13478</guid>
             <pubDate>Sun, 27 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Terug in de tijd #46 - Gevallen chipgrootmachten, Office voor Mac en gpu-cloud</title>
-            <link>https://tweakers.net/geek/237008/terug-in-de-tijd-46-gevallen-chipgrootmachten-office-voor-mac-en-gpu-cloud.html</link>
-            <description>Op Tweakers verschijnen dagelijks tientallen nieuwsberichten, maar bij het schrijven weten we zelden hoe het afloopt met de producten, technieken en ontwikkelingen die we bespreken. In deze rubriek lezen we oude berichten terug en kijken we hoe het verderging.</description>
-            <author>Jasper Bakker</author>
-            <category>.Geek / IT Pro / Internet</category>
-            <comments>https://tweakers.net/geek/237008/terug-in-de-tijd-46-gevallen-chipgrootmachten-office-voor-mac-en-gpu-cloud.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/237008</guid>
-            <pubDate>Sun, 27 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - FreeFileSync 14.4</title>
-            <link>https://tweakers.net/downloads/73430/freefilesync-144.html</link>
-            <description>Versie 14.4 van FreeFileSync is uitgekomen. Met dit opensourceprogramma kan een back-up worden gemaakt of de inhoud van twee verschillende locaties worden gesynchroniseerd. Het is beschikbaar voor Windows, Linux en macOS, is niet afhankelijk van zaken als Java of een .NET Framework en is bovendien licht in gebruik. De Windows-download bevat aparte 32-bit- en 64-bitversies en biedt ook de mogelijkheid om het te gebruiken zonder het te eerst installeren. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changes in FreeFileSync version 14.4:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73430/freefilesync-144.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73430</guid>
-            <pubDate>Sat, 26 Jul 2025 20:10:11 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - CorsixTH 0.69.0</title>
-            <link>https://tweakers.net/downloads/73428/corsixth-0690.html</link>
-            <description>CorsixTH is een opensource-clone van het door Bulfrog in 1997 uitgegeven spel Theme Hospital, waarin de speler een ziekenhuis moet ontwerpen en uitbaten. Om CorsixTH te kunnen spelen zijn overigens wel de databestanden van het originele spel nodig. Het is momenteel echter voor nog geen drie euro in de aanbieding bij GOG. Downloads zijn beschikbaar voor Windows, Linux en macOS. Het spel kan in een hogere resolutie dan het origineel worden gespeeld, is in meer talen beschikbaar en bevat diverse verbeteringen. Bijna alle mogelijkheden van het origineel zijn al aanwezig, maar het is de bedoeling dat er in de toekomst ook nieuwe zaken worden toegevoegd. Versie 0.69 is uitgekomen en de changelog voor die uitgave ziet er als volgt uit: Features</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73428/corsixth-0690.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73428</guid>
-            <pubDate>Sat, 26 Jul 2025 17:30:02 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google voegt ondersteuning voor grafische apps toe aan Linux-terminal in Android</title>
-            <link>https://tweakers.net/nieuws/237516/google-voegt-ondersteuning-voor-grafische-apps-toe-aan-linux-terminal-in-android.html</link>
-            <description>Android kan grafische programma&#039;s draaien in zijn Linux-terminal, schrijft Android Authority. Google heeft die functie in de Canary-build van juli toegevoegd. Daarnaast heeft het bedrijf ondersteuning voor hardwareversnelling toegevoegd.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Software development</category>
-            <comments>https://tweakers.net/nieuws/237516/google-voegt-ondersteuning-voor-grafische-apps-toe-aan-linux-terminal-in-android.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237516</guid>
-            <pubDate>Sat, 26 Jul 2025 13:08:23 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - WinSSHTerm 2.41.1</title>
-            <link>https://tweakers.net/downloads/73426/winsshterm-2411.html</link>
-            <description>WinSSHTerm is een gratis programma voor Windows dat PuTTY, WinSCP en VcXsrv combineert in één applicatie. Het gebruikt snelkoppelingen om nieuwe SSH-sessies te starten of tussen de verschillende sessies te wisselen, werkt met meerdere tabs of schermen en kan eenvoudig gegevens van programma&#039;s als PuTTY, PuTTY Session Manager, MobaXterm, SuperPuTTY, mRemoteNG en MTPuTTY importeren en beschermen met een hoofdwachtwoord. In versie 2.41.1 zijn de volgende veranderingen en veranderingen aangebracht: WinSSHTerm-2.41.1</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73426/winsshterm-2411.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73426</guid>
-            <pubDate>Sat, 26 Jul 2025 11:24:37 +0200</pubDate>
-        </item>
-        <item>
-            <title>Steam verandert zoekpaneel in nieuw ontwerp van winkelmenu</title>
-            <link>https://tweakers.net/nieuws/237514/steam-verandert-zoekpaneel-in-nieuw-ontwerp-van-winkelmenu.html</link>
-            <description>Steam toont in de bètaversie een nieuw ontwerp van het winkelmenu. Het nieuwe menu is volgens Valve ontworpen &#039;om Steam-gebruikers makkelijker toegang te bieden tot de plekken die ze het vaakst bezoeken.&#039; Valve heeft onder meer het zoekpaneel aangepast.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/237514/steam-verandert-zoekpaneel-in-nieuw-ontwerp-van-winkelmenu.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237514</guid>
-            <pubDate>Sat, 26 Jul 2025 11:14:49 +0200</pubDate>
-        </item>
-        <item>
-            <title>Migicovsky krijgt Pebble-merk terug en verbetert waterbestendigheid smartwatch</title>
-            <link>https://tweakers.net/nieuws/237512/migicovsky-krijgt-pebble-merk-terug-en-verbetert-waterbestendigheid-smartwatch.html</link>
-            <description>Core Devices, het bedrijf van Pebble-oprichter Eric Migicovsky, heeft de Pebble-merknaam overgenomen. Daarom verandert het bedrijf direct de namen van zijn twee smartwatches: de Core 2 Duo wordt de Pebble 2 Duo en de Core Time 2 wordt de Pebble Time 2.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / Tablets en telefoons / Smartwatches</category>
-            <comments>https://tweakers.net/nieuws/237512/migicovsky-krijgt-pebble-merk-terug-en-verbetert-waterbestendigheid-smartwatch.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237512</guid>
-            <pubDate>Sat, 26 Jul 2025 10:38:22 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;OpenAI wil GPT-5-model met o3-redeneercapaciteiten in augustus uitbrengen&#039;</title>
-            <link>https://tweakers.net/nieuws/237510/openai-wil-gpt-5-model-met-o3-redeneercapaciteiten-in-augustus-uitbrengen.html</link>
-            <description>OpenAI zou het nieuwe model van ChatGPT, GPT-5, in augustus willen uitbrengen, schrijft The Verge op basis van bronnen die bekend zijn met de plannen van OpenAI. Tegelijkertijd wil het bedrijf ook mini- en nano-versies van het model uitbrengen.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237510/openai-wil-gpt-5-model-met-o3-redeneercapaciteiten-in-augustus-uitbrengen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237510</guid>
-            <pubDate>Sat, 26 Jul 2025 09:49:56 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - ExifTool 13.33</title>
-            <link>https://tweakers.net/downloads/73424/exiftool-1333.html</link>
-            <description>Phil Harvey heeft versie 13.33 van ExifTool uitgebracht. ExifTool is een gratis crossplatformprogramma waarmee de metadata van een groot aantal bestanden kan worden beheerd en bewerkt. Het werkt vanaf de commandline, maar er zijn oplossingen van derden beschikbaar waardoor het ook met een grafische gebruikersinterface kan worden gebruikt. Met enige regelmaat verschijnen er nieuwe versies, maar de meeste uitgaven worden onder de bètavlag beschikbaar gesteld, ondanks dat deze als stabiel kunnen worden beschouwd. Ook deze update wordt als ontwikkelversie aangeduid; de laatste stabiele uitgave is versie 13.30. Sinds versie 13.31 zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 13.33:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73424/exiftool-1333.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73424</guid>
-            <pubDate>Sat, 26 Jul 2025 08:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Videoreview - De nieuwe Fairphone is stukken beter! - Fairphone Gen 6</title>
-            <link>https://tweakers.net/video/20022/de-nieuwe-fairphone-is-stukken-beter-fairphone-gen-6.html</link>
-            <description>Steeds meer mensen letten op de herkomst van hun tech en op de manier waarop deze wordt geproduceerd. Als jij zo iemand bent, kan het bijna niet anders dan dat je bekend bent met het Nederlandse bedrijf Fairphone. In plaats van aan de lopende band producten de wereld in te slingeren, zoals sommige Chinese fabrikanten doen, brengt Fairphone doorgaans één telefoon per twee jaar uit. Dit jaar is dat de Fairphone Gen 6.</description>
-            <author>Mark van der Kruit</author>
-            <category>Videoreview / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/video/20022/de-nieuwe-fairphone-is-stukken-beter-fairphone-gen-6.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/video/20022</guid>
-            <pubDate>Sat, 26 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Review - Fairphone Gen 6 - Eerlijke telefoon maakt grote stappen</title>
-            <link>https://tweakers.net/reviews/13524/fairphone-gen-6-eerlijke-telefoon-maakt-grote-stappen.html</link>
-            <description>Fairphone zegt niet langer alleen groene, maar ook goede producten te maken. De Fairphone Gen 6 is het eerste toestel van de fabrikant dat daaraan moet voldoen.</description>
-            <author>Dennis de Vries</author>
-            <category>Review / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/reviews/13524/fairphone-gen-6-eerlijke-telefoon-maakt-grote-stappen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13524</guid>
-            <pubDate>Sat, 26 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>AMD-Linux-kerneldriver voor gpu&#039;s krijgt ondersteuning voor oudere videokaarten</title>
-            <link>https://tweakers.net/nieuws/237504/amd-linux-kerneldriver-voor-gpus-krijgt-ondersteuning-voor-oudere-videokaarten.html</link>
-            <description>Een Valve-medewerker van het Linux-gpu-driverteam werkt aan de verbeterde ondersteuning van oude AMD-videokaarten in de opensource kerneldriver Amdgpu. Hij richt zich specifiek aan de ondersteuning van analoge video-outputs van AMD-gpu&#039;s.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/nieuws/237504/amd-linux-kerneldriver-voor-gpus-krijgt-ondersteuning-voor-oudere-videokaarten.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237504</guid>
-            <pubDate>Fri, 25 Jul 2025 21:21:03 +0200</pubDate>
-        </item>
-        <item>
-            <title>Intel is gestopt met ontwikkeling opensource llm-software PlaidML</title>
-            <link>https://tweakers.net/nieuws/237502/intel-is-gestopt-met-ontwikkeling-opensource-llm-software-plaidml.html</link>
-            <description>Intel lijkt eerder dit jaar te zijn gestopt met de ontwikkeling van de opensource deeplearningsoftware PlaidML. De software werd oorspronkelijk door Vertex.AI gemaakt, een bedrijf dat in 2018 door Intel werd overgenomen.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237502/intel-is-gestopt-met-ontwikkeling-opensource-llm-software-plaidml.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237502</guid>
-            <pubDate>Fri, 25 Jul 2025 20:08:53 +0200</pubDate>
         </item>
     </channel>
 </rss>
