@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 29 Jul 2025 15:41:00 +0200</pubDate>
-        <lastBuildDate>Tue, 29 Jul 2025 15:41:00 +0200</lastBuildDate>
+        <pubDate>Tue, 29 Jul 2025 16:36:01 +0200</pubDate>
+        <lastBuildDate>Tue, 29 Jul 2025 16:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,12 +18,22 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
-            <title>Engelse Windows 11-gebruikers krijgen AI-agent in instellingenmenu</title>
-            <link>https://tweakers.net/nieuws/237592/engelse-windows-11-gebruikers-krijgen-ai-agent-in-instellingenmenu.html</link>
+            <title>&#039;Samsung Galaxy S26 Ultra wordt dunner dan voorganger en krijgt 60W-snelladen&#039;</title>
+            <link>https://tweakers.net/nieuws/237594/samsung-galaxy-s26-ultra-wordt-dunner-dan-voorganger-en-krijgt-60w-snelladen.html</link>
+            <description>De Samsung Galaxy S26 Ultra krijgt een dunnere behuizing dan zijn voorganger, beweert leaker Ice Universe. De behuizing wordt volgens hem tussen de 7 en 8mm dik worden. Daarnaast krijgt de smartphone naar verluidt een 5000mAh-accu die 60W-snelladen ondersteunt.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/237594/samsung-galaxy-s26-ultra-wordt-dunner-dan-voorganger-en-krijgt-60w-snelladen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237594</guid>
+            <pubDate>Tue, 29 Jul 2025 15:58:26 +0200</pubDate>
+        </item>
+        <item>
+            <title>Engelstalige Windows 11-gebruikers krijgen AI-agent in instellingenmenu</title>
+            <link>https://tweakers.net/nieuws/237592/engelstalige-windows-11-gebruikers-krijgen-ai-agent-in-instellingenmenu.html</link>
             <description>Windows 11 krijgt een AI-agent in het instellingenmenu. Die agent kan aan de hand van commando&#039;s gebruikers de weg wijzen door de menu&#039;s. De functie is voorlopig alleen beschikbaar voor Engelstalige Copilot+-gebruikers in de nieuwste Insider Preview Build van Windows 11.</description>
             <author>Imre Himmelbauer</author>
             <category>Nieuws / IT Pro / Software development</category>
-            <comments>https://tweakers.net/nieuws/237592/engelse-windows-11-gebruikers-krijgen-ai-agent-in-instellingenmenu.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/237592/engelstalige-windows-11-gebruikers-krijgen-ai-agent-in-instellingenmenu.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237592</guid>
             <pubDate>Tue, 29 Jul 2025 15:05:34 +0200</pubDate>
         </item>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/downloads/73436/greenshot-13296.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73436</guid>
             <pubDate>Sun, 27 Jul 2025 13:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Youtuber bouwt werkende computer van K&#039;nex</title>
-            <link>https://tweakers.net/geek/237536/youtuber-bouwt-werkende-computer-van-knex.html</link>
-            <description>Als je het woord &#039;computer&#039; etymologisch bekijkt, is dat natuurlijk niets anders dan een &#039;berekenaar&#039;. Theoretisch gezien kan dus ieder apparaat een computer worden als het getallen kan berekenen. Praktisch ook, zoals youtuber Shadowman39 deed met het speelgoed K&#039;nex. Hij maakte een apparaat dat getallen kan onthouden en optellen.</description>
-            <author>Tijs Hofmans</author>
-            <category>.Geek / Computers / Pc&#039;s</category>
-            <comments>https://tweakers.net/geek/237536/youtuber-bouwt-werkende-computer-van-knex.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/237536</guid>
-            <pubDate>Sun, 27 Jul 2025 12:42:06 +0200</pubDate>
         </item>
     </channel>
 </rss>
