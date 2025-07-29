@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 29 Jul 2025 14:41:01 +0200</pubDate>
-        <lastBuildDate>Tue, 29 Jul 2025 14:41:01 +0200</lastBuildDate>
+        <pubDate>Tue, 29 Jul 2025 15:41:00 +0200</pubDate>
+        <lastBuildDate>Tue, 29 Jul 2025 15:41:00 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Engelse Windows 11-gebruikers krijgen AI-agent in instellingenmenu</title>
+            <link>https://tweakers.net/nieuws/237592/engelse-windows-11-gebruikers-krijgen-ai-agent-in-instellingenmenu.html</link>
+            <description>Windows 11 krijgt een AI-agent in het instellingenmenu. Die agent kan aan de hand van commando&#039;s gebruikers de weg wijzen door de menu&#039;s. De functie is voorlopig alleen beschikbaar voor Engelstalige Copilot+-gebruikers in de nieuwste Insider Preview Build van Windows 11.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Software development</category>
+            <comments>https://tweakers.net/nieuws/237592/engelse-windows-11-gebruikers-krijgen-ai-agent-in-instellingenmenu.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237592</guid>
+            <pubDate>Tue, 29 Jul 2025 15:05:34 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Blender 4.5.1</title>
+            <link>https://tweakers.net/downloads/73462/blender-451.html</link>
+            <description>Versie 4.5 van het crossplatform- en opensourceprogramma Blender is uitgekomen, een versie met extra lange ondersteuning. Deze applicatie is bedoeld voor 3d-modelling, animatie, rendering, postproduction, interactive creation en playback. Meer informatie over de uitgebreide mogelijkheden van Blender kan op deze pagina worden gevonden. Met dit programma zijn onder meer de korte opensource animatiefilms Elephants Dream, Big Buck Bunny, Sintel, Tears of Steel, Cosmos Laundromat en Sprite Fright gemaakt. Ook Flow, wat dit jaar onder meer een Oscar en Golden Globe voor beste animatiefilm in de wacht sleepte, is met Blender gemaakt. Uitgebreide informatie over de veranderingen en versie 4.5 zijn op deze pagina te vinden; in versie 4.5.1 zijn verder de volgende veranderingen en verbeteringen aangebracht: Blender 4.5.1 features 89 bug fixes:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73462/blender-451.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73462</guid>
+            <pubDate>Tue, 29 Jul 2025 15:00:00 +0200</pubDate>
+        </item>
         <item>
             <title>Justitie onderzoekt mogelijk Netscaler-lek bij Dienst Justitiële Inrichtingen</title>
             <link>https://tweakers.net/nieuws/237590/justitie-onderzoekt-mogelijk-netscaler-lek-bij-dienst-justitiele-inrichtingen.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/geek/237536/youtuber-bouwt-werkende-computer-van-knex.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/geek/237536</guid>
             <pubDate>Sun, 27 Jul 2025 12:42:06 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google test functie om zoekresultaten te ordenen met AI op basis van Gemini</title>
-            <link>https://tweakers.net/nieuws/237534/google-test-functie-om-zoekresultaten-te-ordenen-met-ai-op-basis-van-gemini.html</link>
-            <description>Google experimenteert met de mogelijkheid om resultaten in de zoekmachine te rangschikken op basis van AI. Het bedrijf heeft daarvoor een experimentele tool uitgebracht, genaamd Web Guide. Die werkt op basis van Gemini.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/nieuws/237534/google-test-functie-om-zoekresultaten-te-ordenen-met-ai-op-basis-van-gemini.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237534</guid>
-            <pubDate>Sun, 27 Jul 2025 12:19:18 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Amazon werkt aan serie over Wolfenstein</title>
-            <link>https://tweakers.net/geek/237532/amazon-werkt-aan-serie-over-wolfenstein.html</link>
-            <description>Amazon werkt aan een tv-serie over de Wolfenstein-games. Variety schrijft dat deze serie er komt, al zijn er nog geen details bekend over het plot en wanneer de serie definitief uit moet komen.</description>
-            <author>Tijs Hofmans</author>
-            <category>.Geek / Gaming / Games</category>
-            <comments>https://tweakers.net/geek/237532/amazon-werkt-aan-serie-over-wolfenstein.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/237532</guid>
-            <pubDate>Sun, 27 Jul 2025 11:53:07 +0200</pubDate>
         </item>
     </channel>
 </rss>
