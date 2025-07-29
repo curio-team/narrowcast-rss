@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 29 Jul 2025 10:34:07 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 29 Jul 2025 11:30:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Aeva strikes lidar chip-making deal with LG subsidiary</title>
+		<link>https://techcrunch.com/2025/07/29/aeva-strikes-lidar-chipmaking-deal-with-lg-subsidiary/</link>
+		
+		<dc:creator><![CDATA[Kate Park]]></dc:creator>
+		<pubDate>Tue, 29 Jul 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Aeva]]></category>
+		<category><![CDATA[LG Innotek]]></category>
+		<category><![CDATA[Lidar]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3031811</guid>
+
+					<description><![CDATA[LG Innotek, the components and materials subsidiary of South Korea’s LG Group, has struck a manufacturing partnership with Aeva Technologies, a developer of 4D LiDAR sensing systems. ]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>AI data analyst startup Julius nabs $10M seed round</title>
 		<link>https://techcrunch.com/2025/07/28/ai-data-analyst-startup-julius-nabs-10m-seed-round/</link>
 		
@@ -371,23 +388,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3031461</guid>
 
 					<description><![CDATA[The Department of Government Efficiency has presented plans to use a new AI tool to eliminate half of the federal government’s regulatory mandates by the first anniversary of President Donald Trump’s return to office, according to The Washington Post.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>UK starts enforcing online age-check rules</title>
-		<link>https://techcrunch.com/2025/07/26/u-k-starts-enforcing-online-age-check-rules/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sat, 26 Jul 2025 20:29:26 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[online safety act]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3031455</guid>
-
-					<description><![CDATA[A U.K. law requiring that pornography websites verify the age of their users took effect Friday.]]></description>
 		
 		
 		
