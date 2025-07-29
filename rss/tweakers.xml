@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 29 Jul 2025 11:36:00 +0200</pubDate>
-        <lastBuildDate>Tue, 29 Jul 2025 11:36:00 +0200</lastBuildDate>
+        <pubDate>Tue, 29 Jul 2025 12:36:01 +0200</pubDate>
+        <lastBuildDate>Tue, 29 Jul 2025 12:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - EMDB 5.38</title>
+            <link>https://tweakers.net/downloads/73458/emdb-538.html</link>
+            <description>Versie 5.38 van EMDB is uitgekomen. EMDB, wat staat voor Eric&#039;s Movie Database, is een gratis programma waarmee een filmcollectie kan worden beheerd. Hoewel de download maar slechts 6MB groot is, beschikt het programma over uitgebreide functionaliteit. Zo kan onder meer relevante informatie van onlinedatabases als IMDb, MovieMeter, TMDb en TheTVDB worden opgehaald, kan worden bijgehouden welke films uitgeleend zijn en kunnen films die op de harde schijf staan direct vanuit het programma gestart worden. EMDB kan worden gebruikt in diverse talen, waaronder in het Nederlands. In deze uitgave zijn de volgende veranderingen en verbeteringen doorgevoerd: Changes in release 5.38:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73458/emdb-538.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73458</guid>
+            <pubDate>Tue, 29 Jul 2025 12:00:00 +0200</pubDate>
+        </item>
         <item>
             <title>&#039;Nvidia bestelt 300.000 H20-chips bij TSMC door vraag vanuit China&#039;</title>
             <link>https://tweakers.net/nieuws/237578/nvidia-bestelt-300000-h20-chips-bij-tsmc-door-vraag-vanuit-china.html</link>
@@ -48,12 +58,12 @@
             <pubDate>Tue, 29 Jul 2025 10:30:00 +0200</pubDate>
         </item>
         <item>
-            <title>Achtergrond - Europa sluit handelsdeal met VS: heffingen op tech, maar ASML komt ermee weg</title>
-            <link>https://tweakers.net/reviews/13578/europa-sluit-handelsdeal-met-vs-heffingen-op-tech-maar-asml-komt-ermee-weg.html</link>
+            <title>Achtergrond - Europa sluit handelsdeal met VS: heffingen op tech, maar ASML komt goed weg</title>
+            <link>https://tweakers.net/reviews/13578/europa-sluit-handelsdeal-met-vs-heffingen-op-tech-maar-asml-komt-goed-weg.html</link>
             <description>Europa en de Verenigde Staten hebben een handelsakkoord gesloten. Welke afspraken zijn er gemaakt voor de techsector?</description>
             <author>Kevin Krikhaar</author>
             <category>Achtergrond / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/reviews/13578/europa-sluit-handelsdeal-met-vs-heffingen-op-tech-maar-asml-komt-ermee-weg.html#reacties</comments>
+            <comments>https://tweakers.net/reviews/13578/europa-sluit-handelsdeal-met-vs-heffingen-op-tech-maar-asml-komt-goed-weg.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13578</guid>
             <pubDate>Tue, 29 Jul 2025 10:00:00 +0200</pubDate>
         </item>
@@ -98,12 +108,12 @@
             <pubDate>Tue, 29 Jul 2025 07:30:00 +0200</pubDate>
         </item>
         <item>
-            <title>Achtergrond - Windows 11 is pas na tien jaar groter dan Windows 10: hoe kan dat?</title>
-            <link>https://tweakers.net/reviews/13570/windows-11-is-pas-na-tien-jaar-groter-dan-windows-10-hoe-kan-dat.html</link>
+            <title>Achtergrond - Waarom het zo lang duurde voordat Windows 11 zijn voorganger voorbijstreefde</title>
+            <link>https://tweakers.net/reviews/13570/waarom-het-zo-lang-duurde-voordat-windows-11-zijn-voorganger-voorbijstreefde.html</link>
             <description>Windows 10 is jarig: het besturingssysteem van Microsoft is liefst tien jaar oud. Als ‘cadeautje’ wordt Windows 10 langzaamaan met pensioen gestuurd.</description>
             <author>Imre Himmelbauer</author>
             <category>Achtergrond / IT Pro / Software development</category>
-            <comments>https://tweakers.net/reviews/13570/windows-11-is-pas-na-tien-jaar-groter-dan-windows-10-hoe-kan-dat.html#reacties</comments>
+            <comments>https://tweakers.net/reviews/13570/waarom-het-zo-lang-duurde-voordat-windows-11-zijn-voorganger-voorbijstreefde.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13570</guid>
             <pubDate>Tue, 29 Jul 2025 06:00:00 +0200</pubDate>
         </item>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/237526/windows-phone-link-krijgt-optie-uitwisselen-klembord-bestanden-met-telefoon.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237526</guid>
             <pubDate>Sun, 27 Jul 2025 10:32:56 +0200</pubDate>
-        </item>
-        <item>
-            <title>Team Meat toont eerste gameplaytrailer van Super Meat Boy 3D</title>
-            <link>https://tweakers.net/nieuws/237520/team-meat-toont-eerste-gameplaytrailer-van-super-meat-boy-3d.html</link>
-            <description>Ontwikkelaar Team Meat heeft een eerste gameplaytrailer vrijgegeven van platformer Super Meat Boy 3D. Die game komt begin volgend jaar uit.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/237520/team-meat-toont-eerste-gameplaytrailer-van-super-meat-boy-3d.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237520</guid>
-            <pubDate>Sun, 27 Jul 2025 10:08:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
