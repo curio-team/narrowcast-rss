@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 29 Jul 2025 16:36:01 +0200</pubDate>
-        <lastBuildDate>Tue, 29 Jul 2025 16:36:01 +0200</lastBuildDate>
+        <pubDate>Wed, 30 Jul 2025 09:36:02 +0200</pubDate>
+        <lastBuildDate>Wed, 30 Jul 2025 09:36:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,9 +18,89 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
+            <title>Software-update - Proton 10.0-2 bèta</title>
+            <link>https://tweakers.net/downloads/73468/proton-100-2-beta.html</link>
+            <description>Versie 10.0-2 van Proton is uitgekomen, een bètarelease. Proton is een door Valve en met hulp van CodeWeavers ontwikkelde compatibiliteitslaag die bedoeld is om Windows-spellen zo goed mogelijk onder Linux en dan met name op de Steam Deck te laten draaien. Het geheel bestaat uit verschillende softwarebibliotheken en een aangepaste versie van Wine. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changes in Proton version 10.0-2 (beta)</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73468/proton-100-2-beta.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73468</guid>
+            <pubDate>Wed, 30 Jul 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - MediaInfo 25.07</title>
+            <link>https://tweakers.net/downloads/73464/mediainfo-2507.html</link>
+            <description>Versie 25.07 van MediaInfo is uitgekomen, als opvolger van 25.04. Dit programma is bedoeld om te informeren over de eigenschappen van audio- en videobestanden. Het programma geeft uitgebreide informatie over de tags, gebruikte codecs en containers. MediaInfo is beschikbaar voor Windows, Linux en macOS en kan met een grafische gebruikersinterface of via de commandline worden gebruikt. Het programma is geheel naar eigen smaak aan te passen en ook in het Nederlands te gebruiken. Verder zijn er uitgebreide mogelijkheden om de verzamelde informatie te exporteren. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changed:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73464/mediainfo-2507.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73464</guid>
+            <pubDate>Wed, 30 Jul 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - RouterOS 7.19.4</title>
+            <link>https://tweakers.net/downloads/73466/routeros-7194.html</link>
+            <description>MikroTik heeft versie 7.19.4 van RouterOS uitgebracht, een besturingssysteem dat zich richt op het uitvoeren van routertaken en meer. Denk daarbij natuurlijk aan het routeren van netwerkverkeer, maar ook aan bandbreedtemanagement, een firewall, het aansturen van draadlozeaccesspoints, een hotspotgateway en een vpn-server. Het kan zowel op de hardware van MikroTik als op x86- of virtuele machines zijn werk doen. Voor het gebruik is een licentie nodig, die bij de aankoop van MikroTik-hardware is inbegrepen. De changelog voor deze uitgave kan hieronder worden gevonden. What&#039;s new in 7.19.4:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73466/routeros-7194.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73466</guid>
+            <pubDate>Tue, 29 Jul 2025 21:49:13 +0200</pubDate>
+        </item>
+        <item>
+            <title>Apple brengt iOS 18.6 uit, maakt het makkelijker om appwinkels te installeren</title>
+            <link>https://tweakers.net/nieuws/237606/apple-brengt-ios-186-uit-maakt-het-makkelijker-om-appwinkels-te-installeren.html</link>
+            <description>Apple heeft iOS en iPadOS 18.6 uitgebracht. Deze update maakt het onder andere makkelijker om alternatieve appwinkels te installeren op iPhones en iPads, onder druk van de Europese Unie. De update is per direct te downloaden.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/237606/apple-brengt-ios-186-uit-maakt-het-makkelijker-om-appwinkels-te-installeren.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237606</guid>
+            <pubDate>Tue, 29 Jul 2025 21:14:34 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Microsoft nadert deal om OpenAI-modellen te blijven gebruiken&#039;</title>
+            <link>https://tweakers.net/nieuws/237604/microsoft-nadert-deal-om-openai-modellen-te-blijven-gebruiken.html</link>
+            <description>Microsoft voert vergevorderde gesprekken om de AI-modellen van OpenAI ook in de toekomst te mogen blijven gebruiken. Dat melden ingewijden aan Bloomberg. De huidige deal tussen de twee bedrijven bevat bepaalde exitclausules.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237604/microsoft-nadert-deal-om-openai-modellen-te-blijven-gebruiken.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237604</guid>
+            <pubDate>Tue, 29 Jul 2025 20:09:52 +0200</pubDate>
+        </item>
+        <item>
+            <title>Razer brengt BlackShark V3 Pro-headset met noisecancellation uit voor 270 euro</title>
+            <link>https://tweakers.net/nieuws/237602/razer-brengt-blackshark-v3-pro-headset-met-noisecancellation-uit-voor-270-euro.html</link>
+            <description>Razer komt met een nieuwe BlackShark V3 Pro. Deze gamingheadset beschikt onder andere over actieve noisecancellation en heeft volgens de fabrikant minder latency bij draadloos gebruik. De headset krijgt een adviesprijs van 270 euro en komt per direct beschikbaar.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Gaming / Gaming headsets</category>
+            <comments>https://tweakers.net/nieuws/237602/razer-brengt-blackshark-v3-pro-headset-met-noisecancellation-uit-voor-270-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237602</guid>
+            <pubDate>Tue, 29 Jul 2025 19:24:32 +0200</pubDate>
+        </item>
+        <item>
+            <title>Microns eerste PCIe 6.0-ssd&#039;s bieden 30,72TB-capaciteit en snelheden tot 28GB/s</title>
+            <link>https://tweakers.net/nieuws/237596/microns-eerste-pcie-60-ssds-bieden-30-komma-72tb-capaciteit-en-snelheden-tot-28gb-s.html</link>
+            <description>Micron heeft de eerste PCIe 6.0-ssd&#039;s aangekondigd. Het gaat om enterprise-ssd&#039;s met capaciteiten tot 30,72TB en met sequentiële leessnelheden van maximaal 28GB/s. De ssd&#039;s worden al geleverd aan datacenterklanten.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Interne SSD&#039;s</category>
+            <comments>https://tweakers.net/nieuws/237596/microns-eerste-pcie-60-ssds-bieden-30-komma-72tb-capaciteit-en-snelheden-tot-28gb-s.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237596</guid>
+            <pubDate>Tue, 29 Jul 2025 18:19:35 +0200</pubDate>
+        </item>
+        <item>
+            <title>Elgato introduceert Facecam 4K-webcam met 4k60-ondersteuning voor 200 euro</title>
+            <link>https://tweakers.net/nieuws/237598/elgato-introduceert-facecam-4k-webcam-met-4k60-ondersteuning-voor-200-euro.html</link>
+            <description>Elgato kondigt zijn Facecam 4K aan. Het is een webcam die 4k-beelden op 60fps ondersteunt en ruimte biedt voor fysieke lensfilters. De webcam komt per direct beschikbaar en krijgt een adviesprijs van 200 euro.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Webcams</category>
+            <comments>https://tweakers.net/nieuws/237598/elgato-introduceert-facecam-4k-webcam-met-4k60-ondersteuning-voor-200-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237598</guid>
+            <pubDate>Tue, 29 Jul 2025 17:32:26 +0200</pubDate>
+        </item>
+        <item>
             <title>&#039;Samsung Galaxy S26 Ultra wordt dunner dan voorganger en krijgt 60W-snelladen&#039;</title>
             <link>https://tweakers.net/nieuws/237594/samsung-galaxy-s26-ultra-wordt-dunner-dan-voorganger-en-krijgt-60w-snelladen.html</link>
-            <description>De Samsung Galaxy S26 Ultra krijgt een dunnere behuizing dan zijn voorganger, beweert leaker Ice Universe. De behuizing wordt volgens hem tussen de 7 en 8mm dik worden. Daarnaast krijgt de smartphone naar verluidt een 5000mAh-accu die 60W-snelladen ondersteunt.</description>
+            <description>De Samsung Galaxy S26 Ultra krijgt een dunnere behuizing dan zijn voorganger, beweert leaker Ice Universe. De behuizing wordt volgens hem tussen de 7 en 8mm dik. Daarnaast krijgt de smartphone naar verluidt een 5000mAh-accu die 60W-snelladen ondersteunt.</description>
             <author>Imre Himmelbauer</author>
             <category>Nieuws / Tablets en telefoons / Smartphones</category>
             <comments>https://tweakers.net/nieuws/237594/samsung-galaxy-s26-ultra-wordt-dunner-dan-voorganger-en-krijgt-60w-snelladen.html#reacties</comments>
@@ -28,19 +108,19 @@
             <pubDate>Tue, 29 Jul 2025 15:58:26 +0200</pubDate>
         </item>
         <item>
-            <title>Engelstalige Windows 11-gebruikers krijgen AI-agent in instellingenmenu</title>
-            <link>https://tweakers.net/nieuws/237592/engelstalige-windows-11-gebruikers-krijgen-ai-agent-in-instellingenmenu.html</link>
-            <description>Windows 11 krijgt een AI-agent in het instellingenmenu. Die agent kan aan de hand van commando&#039;s gebruikers de weg wijzen door de menu&#039;s. De functie is voorlopig alleen beschikbaar voor Engelstalige Copilot+-gebruikers in de nieuwste Insider Preview Build van Windows 11.</description>
+            <title>Microsoft maakt AI-agent in Windows-instellingenmenu breder beschikbaar - Update</title>
+            <link>https://tweakers.net/nieuws/237592/microsoft-maakt-ai-agent-in-windows-instellingenmenu-breder-beschikbaar.html</link>
+            <description>Microsoft heeft zijn AI-agent in het instellingenmenu beschikbaar gemaakt voor pc&#039;s met Intel- en AMD-cpu&#039;s. De functie is beschikbaar voor Engelstalige gebruikers in de nieuwste Insider Preview Build van Windows 11. De functie werd in juni geïntroduceerd voor pc&#039;s met Arm-cpu&#039;s.</description>
             <author>Imre Himmelbauer</author>
             <category>Nieuws / IT Pro / Software development</category>
-            <comments>https://tweakers.net/nieuws/237592/engelstalige-windows-11-gebruikers-krijgen-ai-agent-in-instellingenmenu.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/237592/microsoft-maakt-ai-agent-in-windows-instellingenmenu-breder-beschikbaar.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237592</guid>
             <pubDate>Tue, 29 Jul 2025 15:05:34 +0200</pubDate>
         </item>
         <item>
             <title>Software-update - Blender 4.5.1</title>
             <link>https://tweakers.net/downloads/73462/blender-451.html</link>
-            <description>Versie 4.5 van het crossplatform- en opensourceprogramma Blender is uitgekomen, een versie met extra lange ondersteuning. Deze applicatie is bedoeld voor 3d-modelling, animatie, rendering, postproduction, interactive creation en playback. Meer informatie over de uitgebreide mogelijkheden van Blender kan op deze pagina worden gevonden. Met dit programma zijn onder meer de korte opensource animatiefilms Elephants Dream, Big Buck Bunny, Sintel, Tears of Steel, Cosmos Laundromat en Sprite Fright gemaakt. Ook Flow, wat dit jaar onder meer een Oscar en Golden Globe voor beste animatiefilm in de wacht sleepte, is met Blender gemaakt. Uitgebreide informatie over de veranderingen en versie 4.5 zijn op deze pagina te vinden; in versie 4.5.1 zijn verder de volgende veranderingen en verbeteringen aangebracht: Blender 4.5.1 features 89 bug fixes:</description>
+            <description>Versie 4.5 van het crossplatform- en opensourceprogramma Blender is uitgekomen, een versie met extra lange ondersteuning. Deze applicatie is bedoeld voor 3d-modelling, animatie, rendering, postproduction, interactive creation en playback. Meer informatie over de uitgebreide mogelijkheden van Blender kan op deze pagina worden gevonden. Met dit programma zijn onder meer de korte opensource animatiefilms Elephants Dream, Big Buck Bunny, Sintel, Tears of Steel, Cosmos Laundromat en Sprite Fright gemaakt. Ook Flow, dat dit jaar onder meer een Oscar en Golden Globe voor beste animatiefilm in de wacht sleepte, is met Blender gemaakt. Uitgebreide informatie over de veranderingen en versie 4.5 zijn op deze pagina te vinden; in versie 4.5.1 zijn verder de volgende veranderingen en verbeteringen aangebracht: Blender 4.5.1 features 89 bug fixes:</description>
             <author>Bart van Klaveren</author>
             <category>Software</category>
             <comments>https://tweakers.net/downloads/73462/blender-451.html#reacties</comments>
@@ -336,86 +416,6 @@
             <comments>https://tweakers.net/nieuws/237544/samsung-gaat-ai6-chips-maken-voor-tesla-met-contract-van-14-miljard-euro.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237544</guid>
             <pubDate>Mon, 28 Jul 2025 09:43:18 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Vaultwarden 1.34.2</title>
-            <link>https://tweakers.net/downloads/73444/vaultwarden-1342.html</link>
-            <description>Bitwarden is een wachtwoordmanager die regelmatig op Tweakers voorbijkomt. Het is opensource en heeft ook de mogelijkheid om het op een eigen server te draaien. Ontwikkelaar Daniel García heeft een onofficiële in Rust ontwikkelde implementatie van Bitwarden gemaakt, in eerste instantie onder de naam Bitwarden_rs maar sinds een paar jaar als Vaultwarden. Het gaat alleen om de serverkant van de wachtwoordmanager; voor de clients kan de officiële software van Bitwarden worden gebruikt. Vaultwarden is lichter in gebruik en heeft ook functionaliteit waarvoor bij Bitwarden moet worden betaald, waaronder functionaliteit voor het beheer van wachtwoorden op organisatieniveau. Versie 1.34.2 van Vaultwarden is uitgekomen en hier zijn de volgende veranderingen en verbeteringen in aangebracht: Notable changes</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73444/vaultwarden-1342.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73444</guid>
-            <pubDate>Mon, 28 Jul 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Britten hebben meer interesse in vpn-diensten door leeftijdscontrole op websites</title>
-            <link>https://tweakers.net/nieuws/237538/britten-hebben-meer-interesse-in-vpn-diensten-door-leeftijdscontrole-op-websites.html</link>
-            <description>Britten hebben de afgelopen dagen meer interesse in vpn-diensten dan voorheen, waarschijnlijk omdat veel internetdiensten sinds vrijdag een leeftijdscontrole hebben ingevoerd. Dat is een wettelijke vereiste.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/237538/britten-hebben-meer-interesse-in-vpn-diensten-door-leeftijdscontrole-op-websites.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237538</guid>
-            <pubDate>Mon, 28 Jul 2025 08:02:24 +0200</pubDate>
-        </item>
-        <item>
-            <title>Roamen zonder extra kosten kan vanaf volgend jaar in Moldavië</title>
-            <link>https://tweakers.net/nieuws/237542/roamen-zonder-extra-kosten-kan-vanaf-volgend-jaar-in-moldavie.html</link>
-            <description>Moldavië valt vanaf 2026 onder het Europese gebied waarvoor klanten geen extra kosten hoeven te betalen voor roaming. Het is na Oekraïne het tweede land waarvoor dat gaat gelden vanaf volgend jaar.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
-            <comments>https://tweakers.net/nieuws/237542/roamen-zonder-extra-kosten-kan-vanaf-volgend-jaar-in-moldavie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237542</guid>
-            <pubDate>Mon, 28 Jul 2025 07:48:04 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Bulk Rename Utility 4.0.1.0</title>
-            <link>https://tweakers.net/downloads/73442/bulk-rename-utility-4010.html</link>
-            <description>Bulk Rename Utility is een programma waarmee de naam of locatie van meerdere bestanden en/of mappen tegelijk kan worden gewijzigd. Zo kunnen er bijvoorbeeld tekens worden toegevoegd, vervangen of verwijderd worden, of kan de naam aan de hand van metadata of ID3-tags worden aangepast. Het programma is gratis voor persoonlijk gebruik; voor gebruik in commerciële omgevingen wordt wel een vergoeding gevraagd. Versie 4.0.1.0 van Bulk Rename Utility uitgekomen en hierin zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 4.0.1.0</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73442/bulk-rename-utility-4010.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73442</guid>
-            <pubDate>Mon, 28 Jul 2025 07:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Quicktest - AMD Ryzen 5 7500F - Budgetknaller voor de prijsbewuste gamer</title>
-            <link>https://tweakers.net/reviews/13514/amd-ryzen-5-7500f-budgetknaller-voor-de-prijsbewuste-gamer.html</link>
-            <description>De AMD Ryzen 5 7500F biedt op papier uitstekende prestaties voor weinig geld. Hoe presteert deze cpu in de echte wereld?</description>
-            <author>Daan van Monsjou</author>
-            <category>Quicktest / Computers / Processors</category>
-            <comments>https://tweakers.net/reviews/13514/amd-ryzen-5-7500f-budgetknaller-voor-de-prijsbewuste-gamer.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13514</guid>
-            <pubDate>Mon, 28 Jul 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - WinMerge 2.16.50</title>
-            <link>https://tweakers.net/downloads/73440/winmerge-21650.html</link>
-            <description>Er is een nieuwe stabiele versie van WinMerge verschenen. Met WinMerge kunnen bestanden of mappen met elkaar worden vergeleken: handig, bijvoorbeeld om te zien wat er is veranderd tussen verschillende stukken broncode of om de inhoud van logbestanden door te pluizen. Het programma bevat syntaxhighlighting en de applicatie kan op basis van de ontdekte verschillen patchbestanden aanmaken. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73440/winmerge-21650.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73440</guid>
-            <pubDate>Sun, 27 Jul 2025 17:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - AMD Ryzen Master 3.0.0.4199</title>
-            <link>https://tweakers.net/downloads/73438/amd-ryzen-master-3004199.html</link>
-            <description>AMD Ryzen Master is een programma waarmee instellingen van een AMD processor, waaronder de CPU multiplier, geheugeninstellingen en de frequentie van de geïntegreerde GPU kunnen worden aangepast. Ook is er een standaard en geavanceerd scherm waar systeeminstellingen worden weergegeven. Enkele dagen geleden is versie 3.0.0.4199 uitgekomen, een versie die alleen voor de Ryzen 9000-serie geschikt is. Voor de Ryzen 3000 tot en met 8000 is een aparte download beschikbaar. De changelog voor deze uitgave kan hieronder worden gevonden. Release Highlights</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73438/amd-ryzen-master-3004199.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73438</guid>
-            <pubDate>Sun, 27 Jul 2025 15:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Greenshot 1.3.296</title>
-            <link>https://tweakers.net/downloads/73436/greenshot-13296.html</link>
-            <description>Versie 1.3.296 van Greenshot is uitgekomen. Met dit opensourceprogramma voor Windows kunnen screenshots worden gemaakt. Na het maken van een screenshot krijg je de mogelijkheid om de afbeelding te bewerken, om zo bijvoorbeeld tekst of pijlen toe te voegen. De afbeelding kan worden opgeslagen als een bestand of direct worden geïmporteerd in een programma, of op het klembord of zelfs op een onlineopslagdienst worden gezet. Sinds versie 1.3.292 zijn de volgende verbeteringen aangebracht: What&#039;s Changed</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73436/greenshot-13296.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73436</guid>
-            <pubDate>Sun, 27 Jul 2025 13:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
