@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 30 Jul 2025 09:36:02 +0200</pubDate>
-        <lastBuildDate>Wed, 30 Jul 2025 09:36:02 +0200</lastBuildDate>
+        <pubDate>Wed, 30 Jul 2025 10:36:02 +0200</pubDate>
+        <lastBuildDate>Wed, 30 Jul 2025 10:36:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - PowerDNS Recursor 5.1.7 / 5.2.5</title>
+            <link>https://tweakers.net/downloads/73472/powerdns-recursor-517-525.html</link>
+            <description>PowerDNS is een dns-server met een database als backend, waardoor het beheer van een groot aantal dns-entries op een gemakkelijke manier kan plaatsvinden. De ontwikkelaars hebben eerder besloten om de twee delen waaruit PowerDNS bestaat, een recursor en een authoritative nameserver, apart uit te geven, waardoor sneller en gerichter een nieuwe versie kan worden uitgebracht, aldus de ontwikkelaars. Als je een dns-look-up uitvoert, begint een recursor in eerste instantie met het stellen van de look-upvraag aan een dns-rootserver. Deze kan dan doorverwijzen naar andere servers, vanaf waar weer doorverwezen kan worden naar andere servers enzovoort, totdat uiteindelijk een server is bereikt die het antwoord weet of weet dat de look-up niet mogelijk is. Van dit laatste kan sprake zijn als de naam niet bestaat of de servers niet reageren. Het proces van het langslopen van verschillende authoritative servers heet recursie. De ontwikkelaars hebben begin dit jaar PowerDNS Recursor versie 5.0 uitgebracht en nu is er een eerste update verschenen die enkele beveiligingsproblemen moet verhelpen. PowerDNS Recursor 5.1.7 and 5.2.5 Released</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73472/powerdns-recursor-517-525.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73472</guid>
+            <pubDate>Wed, 30 Jul 2025 10:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>OpenAI introduceert studiemodus in ChatGPT met interactieve prompts</title>
+            <link>https://tweakers.net/nieuws/237608/openai-introduceert-studiemodus-in-chatgpt-met-interactieve-prompts.html</link>
+            <description>OpenAI introduceert een studiemodus in ChatGPT, die gebruikers helpt om problemen te begrijpen en stap voor stap op te lossen. Deze modus is beschikbaar voor gebruikers met een gratis, Plus-, Pro- en Team-abonnement. Edu-gebruikers krijgen de modus over &#039;enkele weken&#039;.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Software development</category>
+            <comments>https://tweakers.net/nieuws/237608/openai-introduceert-studiemodus-in-chatgpt-met-interactieve-prompts.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237608</guid>
+            <pubDate>Wed, 30 Jul 2025 09:38:36 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Proton 10.0-2 bèta</title>
             <link>https://tweakers.net/downloads/73468/proton-100-2-beta.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/downloads/73446/mkvtoolnix-940.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73446</guid>
             <pubDate>Mon, 28 Jul 2025 10:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Alibaba brengt AI-model uit dat alleen redeneermodus heeft</title>
-            <link>https://tweakers.net/nieuws/237546/alibaba-brengt-ai-model-uit-dat-alleen-redeneermodus-heeft.html</link>
-            <description>Alibaba heeft Qwen3-235B-A22B-Thinking-2507 uitgebracht, een AI-model dat alleen een redeneermodus heeft. In andere Qwen-modellen moeten gebruikers wisselen tussen een snellere modus en een langzamere redeneermodus.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / IT Pro / Internet</category>
-            <comments>https://tweakers.net/nieuws/237546/alibaba-brengt-ai-model-uit-dat-alleen-redeneermodus-heeft.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237546</guid>
-            <pubDate>Mon, 28 Jul 2025 10:04:31 +0200</pubDate>
-        </item>
-        <item>
-            <title>Samsung gaat AI6-chips maken voor Tesla met contract van 14 miljard euro</title>
-            <link>https://tweakers.net/nieuws/237544/samsung-gaat-ai6-chips-maken-voor-tesla-met-contract-van-14-miljard-euro.html</link>
-            <description>Samsung gaat AI-chips maken voor Tesla, zo heeft Elon Musk bevestigd na een artikel van financieel persbureau Bloomberg. Het Zuid-Koreaanse bedrijf maakt al de AI4 en gaat in de toekomst de AI6 maken.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Computers / Processors</category>
-            <comments>https://tweakers.net/nieuws/237544/samsung-gaat-ai6-chips-maken-voor-tesla-met-contract-van-14-miljard-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237544</guid>
-            <pubDate>Mon, 28 Jul 2025 09:43:18 +0200</pubDate>
         </item>
     </channel>
 </rss>
