@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 30 Jul 2025 14:41:01 +0200</pubDate>
-        <lastBuildDate>Wed, 30 Jul 2025 14:41:01 +0200</lastBuildDate>
+        <pubDate>Wed, 30 Jul 2025 15:41:02 +0200</pubDate>
+        <lastBuildDate>Wed, 30 Jul 2025 15:41:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>AMD brengt Threadripper 9000-serie met Zen 5-cores uit vanaf 1569 euro</title>
+            <link>https://tweakers.net/nieuws/237616/amd-brengt-threadripper-9000-serie-met-zen-5-cores-uit-vanaf-1569-euro.html</link>
+            <description>AMD brengt de Threadripper 9000-serie uit in de Benelux vanaf 1569 euro. De desktopprocessors beschikken nu over cores gebaseerd op Zen 5-architectuur, geproduceerd op 4nm. De meeste overige specificaties van de nieuwe reeks komen overeen met die van de 7000-serie.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/237616/amd-brengt-threadripper-9000-serie-met-zen-5-cores-uit-vanaf-1569-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237616</guid>
+            <pubDate>Wed, 30 Jul 2025 15:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - AMD Ryzen Threadripper 9970X en 9980X - Zelfs zonder rivaal blijft AMD strijden</title>
+            <link>https://tweakers.net/reviews/13552/amd-ryzen-threadripper-9970x-en-9980x-zelfs-zonder-rivaal-blijft-amd-strijden.html</link>
+            <description>De AMD Ryzen Threadripper 9970X en 9980X hebben met 32 en 64 cores evenveel cores als hun voorgangers, maar bevatten onder de motorkap wel andere verbeteringen die ze sneller maken.</description>
+            <author>Tomas Hochstenbach</author>
+            <category>Review / Computers / Processors</category>
+            <comments>https://tweakers.net/reviews/13552/amd-ryzen-threadripper-9970x-en-9980x-zelfs-zonder-rivaal-blijft-amd-strijden.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13552</guid>
+            <pubDate>Wed, 30 Jul 2025 15:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Firmware-update - Ubiquiti EdgeMAX EdgeRouter 3.0.0</title>
+            <link>https://tweakers.net/downloads/73476/ubiquiti-edgemax-edgerouter-300.html</link>
+            <description>Ubiquiti Networks heeft versie 3.0.0 van de firmware voor de EdgeMax EdgeRouters uitgebracht. De EdgeRouters kenmerken zich door uitgebreide instelmogelijkheden, maar vergen wel enige netwerkkennis om het goed draaiend te krijgen. Ook zijn lang niet alle instellingen via de gui aan te passen en moet je dus via de commandline aan de gang. Versie 3.0.0 heeft onder meer een nieuwe webinterface en is er ondersteuning voor WireGuard toegevoegd. De complete Change.org is hieronder te vinden.: Overview</description>
+            <author>Bart van Klaveren</author>
+            <category>Firmware</category>
+            <comments>https://tweakers.net/downloads/73476/ubiquiti-edgemax-edgerouter-300.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73476</guid>
+            <pubDate>Wed, 30 Jul 2025 15:00:00 +0200</pubDate>
+        </item>
         <item>
             <title>Achtergrond - Gaat de EU echt een Google-account verplichten in app voor 18+-verificatie?</title>
             <link>https://tweakers.net/reviews/13586/gaat-de-eu-echt-een-google-account-verplichten-in-app-voor-18+-verificatie.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/237566/eu-temu-klanten-lopen-groot-risico-om-illegale-producten-tegen-te-komen.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237566</guid>
             <pubDate>Mon, 28 Jul 2025 18:36:18 +0200</pubDate>
-        </item>
-        <item>
-            <title>Video - Geheime producten en 3000 regels code - Tweakers-vlog #4</title>
-            <link>https://tweakers.net/video/20024/geheime-producten-en-3000-regels-code-tweakers-vlog-4.html</link>
-            <description>In deze vlog laat Wout je zien hoe we de reactietijden van monitors testen met onze zelfgebouwde testopstelling, behandelt hij jullie vragen naar aanleiding van de vorige vlog, toont hij je onze museumstukken en laat hij iets zien wat hij niet mag laten zien.</description>
-            <author>Mark van der Kruit</author>
-            <category>Video / IT Pro / Economie en maatschappij</category>
-            <comments>https://tweakers.net/video/20024/geheime-producten-en-3000-regels-code-tweakers-vlog-4.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/video/20024</guid>
-            <pubDate>Mon, 28 Jul 2025 18:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Gerucht: Nvidia N1X-chip voor pc&#039;s krijgt 20 cpu-cores en RTX 5070-achtige igpu</title>
-            <link>https://tweakers.net/nieuws/237560/gerucht-nvidia-n1x-chip-voor-pcs-krijgt-20-cpu-cores-en-rtx-5070-achtige-igpu.html</link>
-            <description>De vermeende Nvidia N1X-soc voor laptops en desktops is opgedoken in de Geekbench-database. Daaruit blijkt dat de pc-chip beschikt over twintig cpu-cores en een RTX 5070-achtige igpu. Naar verluidt verschijnt de chip in 2026.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / Processors</category>
-            <comments>https://tweakers.net/nieuws/237560/gerucht-nvidia-n1x-chip-voor-pcs-krijgt-20-cpu-cores-en-rtx-5070-achtige-igpu.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237560</guid>
-            <pubDate>Mon, 28 Jul 2025 17:49:43 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - AdGuard Home 0.107.64</title>
-            <link>https://tweakers.net/downloads/73448/adguard-home-010764.html</link>
-            <description>AdGuard Home versie 0.107.64 is uitgekomen. Met deze software kan er thuis een DNS-server worden opgezet om zo onder meer advertenties en malware te blokkeren op het hele netwerk, waardoor dat niet langer op elk individueel apparaat nodig is. Het is daarmee dus vergelijkbaar met Pi-hole. AdGuard Home werkt op een machine met Windows, macOS, Linux of FreeBSD, is ook in staat om tegen phishing te beschermen en heeft parental control. Op ons eigen forum kan over het programma worden gediscussieerd. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Security</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73448/adguard-home-010764.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73448</guid>
-            <pubDate>Mon, 28 Jul 2025 17:34:42 +0200</pubDate>
         </item>
     </channel>
 </rss>
