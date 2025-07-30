@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 30 Jul 2025 15:41:02 +0200</pubDate>
-        <lastBuildDate>Wed, 30 Jul 2025 15:41:02 +0200</lastBuildDate>
+        <pubDate>Wed, 30 Jul 2025 16:36:01 +0200</pubDate>
+        <lastBuildDate>Wed, 30 Jul 2025 16:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - WinRAR 7.13</title>
+            <link>https://tweakers.net/downloads/73478/winrar-713.html</link>
+            <description>RAR Labs heeft versie 7.13 van zijn archiveringsprogramma&#039;s RAR en WinRAR uitgebracht. Deze populaire compressietools zijn beschikbaar voor diverse besturingssystemen, waaronder Windows, Linux en macOS. De programma&#039;s kunnen overweg met de gangbaarste formaten - waaronder rar, zip, cab, arj, lzh, tar, gz, uue, bz2, jar, iso, 7z en z -, hebben een skinnable interface en ondersteuning voor Zip64- en multivolume cabbestanden. In versie 7.13 zijn enkele problemen verholpen die alleen in de Windowsversie voorkwamen, de versies voor andere besturingssystemen zitten nog steeds op 7.12: Changes in version WinRAR version 7.13:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73478/winrar-713.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73478</guid>
+            <pubDate>Wed, 30 Jul 2025 16:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Italiaanse toezichthouder onderzoekt permanente Meta AI-knop in WhatsApp</title>
+            <link>https://tweakers.net/nieuws/237622/italiaanse-toezichthouder-onderzoekt-permanente-meta-ai-knop-in-whatsapp.html</link>
+            <description>De Italiaanse mededingingsautoriteit Autorità Garante della Concorrenza e del Mercato (AGCM) start een onderzoek naar Meta vanwege de integratie van Meta AI in WhatsApp. Volgens de AGCM belemmert dit de concurrentie met andere chatbots.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/237622/italiaanse-toezichthouder-onderzoekt-permanente-meta-ai-knop-in-whatsapp.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237622</guid>
+            <pubDate>Wed, 30 Jul 2025 16:17:22 +0200</pubDate>
+        </item>
+        <item>
+            <title>Australische regering verbiedt YouTube-accounts voor jongeren onder 16 jaar</title>
+            <link>https://tweakers.net/nieuws/237618/australische-regering-verbiedt-youtube-accounts-voor-jongeren-onder-16-jaar.html</link>
+            <description>De Australische regering breidt het verbod op socialemediagebruik onder de zestien jaar uit naar YouTube. Daardoor kunnen Australische gebruikers onder de zestien jaar vanaf december geen account meer aanmaken op de videostreamingwebsite.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/237618/australische-regering-verbiedt-youtube-accounts-voor-jongeren-onder-16-jaar.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237618</guid>
+            <pubDate>Wed, 30 Jul 2025 15:42:56 +0200</pubDate>
+        </item>
         <item>
             <title>AMD brengt Threadripper 9000-serie met Zen 5-cores uit vanaf 1569 euro</title>
             <link>https://tweakers.net/nieuws/237616/amd-brengt-threadripper-9000-serie-met-zen-5-cores-uit-vanaf-1569-euro.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/downloads/73450/obs-studio-3112.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73450</guid>
             <pubDate>Mon, 28 Jul 2025 21:05:45 +0200</pubDate>
-        </item>
-        <item>
-            <title>Ayaneo brengt dit jaar Next 2-handheld met AMD Ryzen AI Max+ 395-apu uit</title>
-            <link>https://tweakers.net/nieuws/237570/ayaneo-brengt-dit-jaar-next-2-handheld-met-amd-ryzen-ai-max+-395-apu-uit.html</link>
-            <description>Ayaneo werkt aan een Next 2-gaminghandheld. Deze beschikt over een Ryzen AI Max+ 395-apu met zestien cpu-cores en een Radeon 8060S-igpu. Het bedrijf deelt verder nog weinig concrete details, maar zegt wel dat het apparaat later dit jaar beschikbaar komt.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Gaming / Consoles</category>
-            <comments>https://tweakers.net/nieuws/237570/ayaneo-brengt-dit-jaar-next-2-handheld-met-amd-ryzen-ai-max+-395-apu-uit.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237570</guid>
-            <pubDate>Mon, 28 Jul 2025 20:20:47 +0200</pubDate>
-        </item>
-        <item>
-            <title>Insta360-dochterbedrijf Antigravity gaat drone met 360-gradencamera maken</title>
-            <link>https://tweakers.net/nieuws/237568/insta360-dochterbedrijf-antigravity-gaat-drone-met-360-gradencamera-maken.html</link>
-            <description>Insta360 heeft een nieuw merk opgericht dat zich richt op drones. Het bedrijf heet Antigravity en kondigt binnenkort zijn eerste product aan: een drone met een 360-gradencamera. Het is niet bekend wat deze drone gaat kosten.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Beeld en geluid / Drones</category>
-            <comments>https://tweakers.net/nieuws/237568/insta360-dochterbedrijf-antigravity-gaat-drone-met-360-gradencamera-maken.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237568</guid>
-            <pubDate>Mon, 28 Jul 2025 19:50:33 +0200</pubDate>
-        </item>
-        <item>
-            <title>EU: Temu-klanten lopen groot risico om illegale producten tegen te komen</title>
-            <link>https://tweakers.net/nieuws/237566/eu-temu-klanten-lopen-groot-risico-om-illegale-producten-tegen-te-komen.html</link>
-            <description>De Chinese webshop Temu overtreedt mogelijk de Digital Services Act. Dat stelt de Europese Commissie na een onderzoek naar het platform. Volgens de EU neemt Temu te weinig maatregelen om de verkoop van illegale producten te voorkomen.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / IT Pro / E-commerce</category>
-            <comments>https://tweakers.net/nieuws/237566/eu-temu-klanten-lopen-groot-risico-om-illegale-producten-tegen-te-komen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237566</guid>
-            <pubDate>Mon, 28 Jul 2025 18:36:18 +0200</pubDate>
         </item>
     </channel>
 </rss>
