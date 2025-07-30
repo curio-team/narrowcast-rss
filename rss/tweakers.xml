@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 30 Jul 2025 12:36:02 +0200</pubDate>
-        <lastBuildDate>Wed, 30 Jul 2025 12:36:02 +0200</lastBuildDate>
+        <pubDate>Wed, 30 Jul 2025 13:31:02 +0200</pubDate>
+        <lastBuildDate>Wed, 30 Jul 2025 13:31:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - AliasVault 0.21.0</title>
+            <link>https://tweakers.net/downloads/73474/aliasvault-0210.html</link>
+            <description>AliasVault is een privacy-first wachtwoord- en e-mailaliasmanager van Nederlandse bodem, waarmee voor iedere website een unieke identiteit en e-mailalias aan kan worden gemaakt. De software is opensource en volledig end-to-end versleuteld. Er kan van een publieke cloud gebruik worden gemaakt en het biedt ook de mogelijkheid om het volledig zelf te hosten via Docker. Clientsoftware is beschikbaar voor Android en iOS en er zijn extensies voor de gangbaarste webbrowsers. Het wordt door Leendert de Borst ontwikkeld, die ook hier op Tweakers actief is. Versies 0.21.0 is verschenen en de releasenotes daarvan zien er als volgt uit: What&#039;s Changed</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73474/aliasvault-0210.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73474</guid>
+            <pubDate>Wed, 30 Jul 2025 13:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Bluetoothchatdienst van oprichter Twitter verschijnt in App Store</title>
+            <link>https://tweakers.net/nieuws/237612/bluetoothchatdienst-van-oprichter-twitter-verschijnt-in-app-store.html</link>
+            <description>De chatapp bitchat is te downloaden in de App Store. De app van Jack Dorsey, een van de oprichters van Twitter, maakt het mogelijk om berichten te versturen met versleuteling en zonder internet. Bitchat maakt daarvoor gebruik van een meshnetwerk van bluetoothapparaten.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Software development</category>
+            <comments>https://tweakers.net/nieuws/237612/bluetoothchatdienst-van-oprichter-twitter-verschijnt-in-app-store.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237612</guid>
+            <pubDate>Wed, 30 Jul 2025 12:45:42 +0200</pubDate>
+        </item>
         <item>
             <title>Best Buy Guide - Beste tablets voor kinderen</title>
             <link>https://tweakers.net/best-buy-guide/tablets/beste-tablet-voor-kinderen</link>
@@ -80,7 +100,7 @@
         <item>
             <title>Software-update - MediaInfo 25.07</title>
             <link>https://tweakers.net/downloads/73464/mediainfo-2507.html</link>
-            <description>Versie 25.07 van MediaInfo is uitgekomen, als opvolger van 25.04. Dit programma is bedoeld om te informeren over de eigenschappen van audio- en videobestanden. Het programma geeft uitgebreide informatie over de tags, gebruikte codecs en containers. MediaInfo is beschikbaar voor Windows, Linux en macOS en kan met een grafische gebruikersinterface of via de commandline worden gebruikt. Het programma is geheel naar eigen smaak aan te passen en ook in het Nederlands te gebruiken. Verder zijn er uitgebreide mogelijkheden om de verzamelde informatie te exporteren. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changed:</description>
+            <description>Versie 25.07 van MediaInfo is uitgekomen, als opvolger van 25.04. Dit programma is bedoeld om te informeren over de eigenschappen van audio- en videobestanden. Het programma geeft uitgebreide informatie over de tags, gebruikte codecs en containers. MediaInfo is beschikbaar voor Windows, Linux, macOS, FreeBSD, Solaris en Android, en kan met een grafische gebruikersinterface of via de commandline worden gebruikt. Het programma is geheel naar eigen smaak aan te passen en ook in het Nederlands te gebruiken. Verder zijn er uitgebreide mogelijkheden om de verzamelde informatie te exporteren. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changed:</description>
             <author>Bart van Klaveren</author>
             <category>Software</category>
             <comments>https://tweakers.net/downloads/73464/mediainfo-2507.html#reacties</comments>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/237558/hackersgroep-claimt-vernietiging-7000-servers-van-russische-vliegmaatschappij.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237558</guid>
             <pubDate>Mon, 28 Jul 2025 16:05:02 +0200</pubDate>
-        </item>
-        <item>
-            <title>Europa maakt nieuwe afspraken met Microsoft over datagebruik na wetsovertreding</title>
-            <link>https://tweakers.net/nieuws/237554/europa-maakt-nieuwe-afspraken-met-microsoft-over-datagebruik-na-wetsovertreding.html</link>
-            <description>De Europese Commissie blijft Microsoft 365 gebruiken, nadat de commissie met Microsoft nieuwe afspraken heeft gemaakt over onder meer transport van data. Andere overheden kunnen deze afspraken nu ook overnemen.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/237554/europa-maakt-nieuwe-afspraken-met-microsoft-over-datagebruik-na-wetsovertreding.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237554</guid>
-            <pubDate>Mon, 28 Jul 2025 15:31:47 +0200</pubDate>
-        </item>
-        <item>
-            <title>RTX 5090 en 5080 van INNO3D passen in één slot dankzij Alphacool-waterkoeling</title>
-            <link>https://tweakers.net/nieuws/237552/rtx-5090-en-5080-van-inno3d-passen-in-een-slot-dankzij-alphacool-waterkoeling.html</link>
-            <description>INNO3D heeft varianten van de Nvidia RTX 5090 en RTX 5080 uitgebracht die in één slot passen. Daarmee zijn het de eerste verkrijgbare RTX 5090- en RTX 5080-kaarten die dat kunnen. Dat is mogelijk dankzij waterkoeling van Alphacool.</description>
-            <author>Arnoud Wokke</author>
-            <category>Nieuws / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/nieuws/237552/rtx-5090-en-5080-van-inno3d-passen-in-een-slot-dankzij-alphacool-waterkoeling.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237552</guid>
-            <pubDate>Mon, 28 Jul 2025 13:57:41 +0200</pubDate>
         </item>
     </channel>
 </rss>
