@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 31 Jul 2025 09:31:01 +0200</pubDate>
-        <lastBuildDate>Thu, 31 Jul 2025 09:31:01 +0200</lastBuildDate>
+        <pubDate>Thu, 31 Jul 2025 10:36:01 +0200</pubDate>
+        <lastBuildDate>Thu, 31 Jul 2025 10:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Cura 5.10.2</title>
+            <link>https://tweakers.net/downloads/73488/cura-5102.html</link>
+            <description>Cura wordt ontwikkeld door UltiMaker om 3d-printen zo gemakkelijk en gestroomlijnd mogelijk te maken. Cura bevat alles wat je nodig hebt om een 3d-bestand te kunnen printen. Het werkt met alle UltiMaker-printers, maar ook met die van RepRap en Printrbot. Cura laat zich gemakkelijk installeren en bevat zowel de laatste firmware als de kalibratiebestanden voor de 3d-printer. Versie 5.10.2 van Cura is uitgekomen en hierin zijn de volgende veranderingen en verbeteringen aangebracht: UltiMaker S6 and S8 improvements:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73488/cura-5102.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73488</guid>
+            <pubDate>Thu, 31 Jul 2025 10:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - UniGetUI 3.3.1</title>
+            <link>https://tweakers.net/downloads/73486/unigetui-331.html</link>
+            <description>Versie 3.3.1 van UniGetUI is uitgekomen. Dit programma, dat voorheen onder de naam WingetUI werd uitgebracht, dient als grafische gebruikersinterface voor de bekendste softwarebeheerprogramma&#039;s voor Windows, waaronder Winget, Chocolatey en Scoop. Met die packagemanagers kan software vanaf de commandline worden geïnstalleerd, bijgewerkt en verwijderd worden en UniGetUI maakt dat dus eenvoudiger. Het programma is opensource, in veel talen te gebruiken waaronder in het Nederlands, heeft een donker thema en geeft notificaties als er nieuwe versies van geïnstalleerde programma&#039;s beschikbaar zijn. De changelog voor deze uitgave ziet er als volgt uit: Changelog</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73486/unigetui-331.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73486</guid>
+            <pubDate>Thu, 31 Jul 2025 10:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Webshop van Game Mania gaat op 13 augustus weer open</title>
+            <link>https://tweakers.net/nieuws/237638/webshop-van-game-mania-gaat-op-13-augustus-weer-open.html</link>
+            <description>Game Mania gaat op 13 augustus verder als webshop. Dat is later dan de eerder aangekondigde datum van 31 juli. De gamewinkelketen werd in september 2024 failliet verklaard, maar de merkrechten zijn later door een ander bedrijf overgenomen.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237638/webshop-van-game-mania-gaat-op-13-augustus-weer-open.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237638</guid>
+            <pubDate>Thu, 31 Jul 2025 09:47:29 +0200</pubDate>
+        </item>
         <item>
             <title>Rechter: Opel-, Peugeot-, DS- en Citroën-diesels bevatten sjoemelsoftware</title>
             <link>https://tweakers.net/nieuws/237636/rechter-opel-peugeot-ds-en-citroen-diesels-bevatten-sjoemelsoftware.html</link>
@@ -188,12 +218,12 @@
             <pubDate>Wed, 30 Jul 2025 15:00:00 +0200</pubDate>
         </item>
         <item>
-            <title>Review - AMD Ryzen Threadripper 9970X en 9980X - Zelfs zonder rivaal blijft AMD strijden</title>
-            <link>https://tweakers.net/reviews/13552/amd-ryzen-threadripper-9970x-en-9980x-zelfs-zonder-rivaal-blijft-amd-strijden.html</link>
+            <title>Review - AMD Ryzen Threadripper 9970X en 9980X - Geen concurrentie, toch records breken</title>
+            <link>https://tweakers.net/reviews/13552/amd-ryzen-threadripper-9970x-en-9980x-geen-concurrentie-toch-records-breken.html</link>
             <description>De AMD Ryzen Threadripper 9970X en 9980X hebben met 32 en 64 cores evenveel cores als hun voorgangers, maar bevatten onder de motorkap wel andere verbeteringen die ze sneller maken.</description>
             <author>Tomas Hochstenbach</author>
             <category>Review / Computers / Processors</category>
-            <comments>https://tweakers.net/reviews/13552/amd-ryzen-threadripper-9970x-en-9980x-zelfs-zonder-rivaal-blijft-amd-strijden.html#reacties</comments>
+            <comments>https://tweakers.net/reviews/13552/amd-ryzen-threadripper-9970x-en-9980x-geen-concurrentie-toch-records-breken.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13552</guid>
             <pubDate>Wed, 30 Jul 2025 15:00:00 +0200</pubDate>
         </item>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/237592/microsoft-maakt-ai-agent-in-windows-instellingenmenu-breder-beschikbaar.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237592</guid>
             <pubDate>Tue, 29 Jul 2025 15:05:34 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Blender 4.5.1</title>
-            <link>https://tweakers.net/downloads/73462/blender-451.html</link>
-            <description>Versie 4.5 van het crossplatform- en opensourceprogramma Blender is uitgekomen, een versie met extra lange ondersteuning. Deze applicatie is bedoeld voor 3d-modelling, animatie, rendering, postproduction, interactive creation en playback. Meer informatie over de uitgebreide mogelijkheden van Blender kan op deze pagina worden gevonden. Met dit programma zijn onder meer de korte opensource animatiefilms Elephants Dream, Big Buck Bunny, Sintel, Tears of Steel, Cosmos Laundromat en Sprite Fright gemaakt. Ook Flow, dat dit jaar onder meer een Oscar en Golden Globe voor beste animatiefilm in de wacht sleepte, is met Blender gemaakt. Uitgebreide informatie over de veranderingen en versie 4.5 zijn op deze pagina te vinden; in versie 4.5.1 zijn verder de volgende veranderingen en verbeteringen aangebracht: Blender 4.5.1 features 89 bug fixes:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73462/blender-451.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73462</guid>
-            <pubDate>Tue, 29 Jul 2025 15:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Justitie onderzoekt mogelijk Netscaler-lek bij Dienst Justitiële Inrichtingen</title>
-            <link>https://tweakers.net/nieuws/237590/justitie-onderzoekt-mogelijk-netscaler-lek-bij-dienst-justitiele-inrichtingen.html</link>
-            <description>De Justitiële ICT Organisatie doet &#039;uitgebreid onderzoek&#039; bij de Nederlandse Dienst Justitiële Inrichtingen naar een mogelijk beveiligingslek. Het gaat waarschijnlijk om het CitrixBleed 2-lek in de NetScaler-software van Citrix, waar ook het Openbaar Ministerie gebruik van maakt.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/237590/justitie-onderzoekt-mogelijk-netscaler-lek-bij-dienst-justitiele-inrichtingen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237590</guid>
-            <pubDate>Tue, 29 Jul 2025 14:29:28 +0200</pubDate>
-        </item>
-        <item>
-            <title>Gerucht: GeForce RTX 50 Super-videokaarten met meer vram verschijnen dit jaar</title>
-            <link>https://tweakers.net/nieuws/237586/gerucht-geforce-rtx-50-super-videokaarten-met-meer-vram-verschijnen-dit-jaar.html</link>
-            <description>De GeForce RTX 5080 Super, 5070 Ti Super en 5070 Super kunnen mogelijk nog in 2025 verschijnen. Eerder werd aangenomen dat Nvidia de kaarten begin 2026 zou presenteren. Volgens informatie van TweakTown zijn de gpu&#039;s echter mogelijk al eind dit jaar beschikbaar.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/nieuws/237586/gerucht-geforce-rtx-50-super-videokaarten-met-meer-vram-verschijnen-dit-jaar.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237586</guid>
-            <pubDate>Tue, 29 Jul 2025 13:37:47 +0200</pubDate>
         </item>
     </channel>
 </rss>
