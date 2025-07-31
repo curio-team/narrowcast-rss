@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 31 Jul 2025 15:41:02 +0200</pubDate>
-        <lastBuildDate>Thu, 31 Jul 2025 15:41:02 +0200</lastBuildDate>
+        <pubDate>Thu, 31 Jul 2025 16:36:02 +0200</pubDate>
+        <lastBuildDate>Thu, 31 Jul 2025 16:36:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Belgische regering wil frauduleuze online ads binnen 24 uur laten verwijderen</title>
+            <link>https://tweakers.net/nieuws/237656/belgische-regering-wil-frauduleuze-online-ads-binnen-24-uur-laten-verwijderen.html</link>
+            <description>De Belgische federale overheid heeft een wetgevend kader goedgekeurd waardoor de FOD Economie de bevoegdheid krijgt om te eisen dat zoekmachines, socialemediaplatformen en vergelijkingssites frauduleuze advertenties binnen 24 uur verwijderen.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/237656/belgische-regering-wil-frauduleuze-online-ads-binnen-24-uur-laten-verwijderen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237656</guid>
+            <pubDate>Thu, 31 Jul 2025 16:10:08 +0200</pubDate>
+        </item>
+        <item>
+            <title>Steam krijgt nieuwe videospeler voor trailers met voorvertoning op tijdlijn</title>
+            <link>https://tweakers.net/nieuws/237658/steam-krijgt-nieuwe-videospeler-voor-trailers-met-voorvertoning-op-tijdlijn.html</link>
+            <description>Valve heeft de videospeler vernieuwd die trailers van games op Steam afspeelt. De videospeler heeft onder meer een vernieuwde interface die zich aanpast aan het apparaat van de gebruiker. Daarnaast laat de tijdlijn nu beelden van de video zien.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Software development</category>
+            <comments>https://tweakers.net/nieuws/237658/steam-krijgt-nieuwe-videospeler-voor-trailers-met-voorvertoning-op-tijdlijn.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237658</guid>
+            <pubDate>Thu, 31 Jul 2025 16:06:05 +0200</pubDate>
+        </item>
         <item>
             <title>Bluetoothvibrators uit verkoop gehaald omdat hackers trillingen konden afstellen</title>
             <link>https://tweakers.net/nieuws/237652/bluetoothvibrators-uit-verkoop-gehaald-omdat-hackers-trillingen-konden-afstellen.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/downloads/73468/proton-100-2-beta.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73468</guid>
             <pubDate>Wed, 30 Jul 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - MediaInfo 25.07</title>
-            <link>https://tweakers.net/downloads/73464/mediainfo-2507.html</link>
-            <description>Versie 25.07 van MediaInfo is uitgekomen, als opvolger van 25.04. Dit programma is bedoeld om te informeren over de eigenschappen van audio- en videobestanden. Het programma geeft uitgebreide informatie over de tags, gebruikte codecs en containers. MediaInfo is beschikbaar voor Windows, Linux, macOS, FreeBSD, Solaris en Android, en kan met een grafische gebruikersinterface of via de commandline worden gebruikt. Het programma is geheel naar eigen smaak aan te passen en ook in het Nederlands te gebruiken. Verder zijn er uitgebreide mogelijkheden om de verzamelde informatie te exporteren. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changed:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73464/mediainfo-2507.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73464</guid>
-            <pubDate>Wed, 30 Jul 2025 07:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - RouterOS 7.19.4</title>
-            <link>https://tweakers.net/downloads/73466/routeros-7194.html</link>
-            <description>MikroTik heeft versie 7.19.4 van RouterOS uitgebracht, een besturingssysteem dat zich richt op het uitvoeren van routertaken en meer. Denk daarbij natuurlijk aan het routeren van netwerkverkeer, maar ook aan bandbreedtemanagement, een firewall, het aansturen van draadlozeaccesspoints, een hotspotgateway en een vpn-server. Het kan zowel op de hardware van MikroTik als op x86- of virtuele machines zijn werk doen. Voor het gebruik is een licentie nodig, die bij de aankoop van MikroTik-hardware is inbegrepen. De changelog voor deze uitgave kan hieronder worden gevonden. What&#039;s new in 7.19.4:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73466/routeros-7194.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73466</guid>
-            <pubDate>Tue, 29 Jul 2025 21:49:13 +0200</pubDate>
         </item>
     </channel>
 </rss>
