@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 31 Jul 2025 10:26:54 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 31 Jul 2025 11:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Uber Eats now lets merchants message customers about their orders</title>
+		<link>https://techcrunch.com/2025/07/31/uber-eats-now-lets-merchants-message-customers-about-their-orders/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Thu, 31 Jul 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Uber]]></category>
+		<category><![CDATA[Uber Eats]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3032496</guid>
+
+					<description><![CDATA[With the new Live order chat feature, merchants can message with customers in real-time to do things like confirm replacements for sold out items, clarify special requests, and check in on dietary or allergy preferences.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Proton releases a new app for two-factor authentication</title>
 		<link>https://techcrunch.com/2025/07/31/proton-releases-a-new-app-for-two-factor-authentication/</link>
 		
@@ -381,27 +397,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3032129</guid>
 
 					<description><![CDATA[PlayerZero landed angel investors like Databricks' Matei Zaharia, Dropbox's Drew Houston, Figma's  Dylan Field, and Vercel's Guillermo Rauch, its founder says.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Minnesota activates National Guard as cyberattack on Saint Paul disrupts public services</title>
-		<link>https://techcrunch.com/2025/07/30/minnesota-activates-national-guard-as-cyberattack-on-saint-paul-disrupts-public-services/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Wed, 30 Jul 2025 15:50:47 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[national guard]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<category><![CDATA[tim walz]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3032304</guid>
-
-					<description><![CDATA[Gov. Tim Walz activated the state military's cyber forces to help ensure public services continue to run as the city of Saint Paul battles an ongoing cyberattack.]]></description>
 		
 		
 		

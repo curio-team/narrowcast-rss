@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 31 Jul 2025 12:36:02 +0200</pubDate>
-        <lastBuildDate>Thu, 31 Jul 2025 12:36:02 +0200</lastBuildDate>
+        <pubDate>Thu, 31 Jul 2025 13:31:03 +0200</pubDate>
+        <lastBuildDate>Thu, 31 Jul 2025 13:31:03 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -18,6 +18,16 @@
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
         <item>
+            <title>Proton introduceert Authenticator-2fa-app voor smartphones en desktops</title>
+            <link>https://tweakers.net/nieuws/237654/proton-introduceert-authenticator-2fa-app-voor-smartphones-en-desktops.html</link>
+            <description>Proton introduceert een eigen Authenticator-app voor het opslaan van 2fa-codes. De app is gratis te gebruiken, wordt opensource en komt beschikbaar voor Android, iOS, Windows, macOS en Linux.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/237654/proton-introduceert-authenticator-2fa-app-voor-smartphones-en-desktops.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237654</guid>
+            <pubDate>Thu, 31 Jul 2025 12:48:51 +0200</pubDate>
+        </item>
+        <item>
             <title>Microsoft draaide afgelopen jaar recordomzet met Xbox Game Pass-dienst</title>
             <link>https://tweakers.net/nieuws/237646/microsoft-draaide-afgelopen-jaar-recordomzet-met-xbox-game-pass-dienst.html</link>
             <description>Microsoft heeft het afgelopen jaar meer dan ooit verdiend met Xbox Game Pass. De omzet van de gameabonnementendienst kwam voor het eerst uit op &#039;bijna 5 miljard dollar&#039;. Dat zegt het bedrijf bij de presentatie van zijn financiële cijfers van het laatste kwartaal van boekjaar 2025.</description>
@@ -28,12 +38,12 @@
             <pubDate>Thu, 31 Jul 2025 12:34:15 +0200</pubDate>
         </item>
         <item>
-            <title>OpenAI maakt ChatGPT-agent stilletjes beschikbaar in Nederland</title>
-            <link>https://tweakers.net/nieuws/237640/openai-maakt-chatgpt-agent-stilletjes-beschikbaar-in-nederland.html</link>
-            <description>ChatGPT heeft zijn AI-agent, die zelfstandig computertaken kan uitvoeren, ook beschikbaar gemaakt in Nederland. Meerdere tweakers melden dat de functie te gebruiken is, wat deze site kan bevestigen. Het is nog niet bekend of de functie ook in België al beschikbaar is.</description>
+            <title>OpenAI maakt ChatGPT-agent stilletjes beschikbaar in Nederland en België</title>
+            <link>https://tweakers.net/nieuws/237640/openai-maakt-chatgpt-agent-stilletjes-beschikbaar-in-nederland-en-belgie.html</link>
+            <description>ChatGPT heeft zijn AI-agent, die zelfstandig computertaken kan uitvoeren, ook beschikbaar gemaakt in Nederland en België. Meerdere tweakers melden dat de functie te gebruiken is, wat deze site kan bevestigen.</description>
             <author>Imre Himmelbauer</author>
             <category>Nieuws / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/nieuws/237640/openai-maakt-chatgpt-agent-stilletjes-beschikbaar-in-nederland.html#reacties</comments>
+            <comments>https://tweakers.net/nieuws/237640/openai-maakt-chatgpt-agent-stilletjes-beschikbaar-in-nederland-en-belgie.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237640</guid>
             <pubDate>Thu, 31 Jul 2025 11:40:54 +0200</pubDate>
         </item>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/237602/razer-brengt-blackshark-v3-pro-headset-met-noisecancellation-uit-voor-270-euro.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237602</guid>
             <pubDate>Tue, 29 Jul 2025 19:24:32 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microns eerste PCIe 6.0-ssd&#039;s bieden 30,72TB-capaciteit en snelheden tot 28GB/s</title>
-            <link>https://tweakers.net/nieuws/237596/microns-eerste-pcie-60-ssds-bieden-30-komma-72tb-capaciteit-en-snelheden-tot-28gb-s.html</link>
-            <description>Micron heeft de eerste PCIe 6.0-ssd&#039;s aangekondigd. Het gaat om enterprise-ssd&#039;s met capaciteiten tot 30,72TB en met sequentiële leessnelheden van maximaal 28GB/s. De ssd&#039;s worden al geleverd aan datacenterklanten.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / Interne SSD&#039;s</category>
-            <comments>https://tweakers.net/nieuws/237596/microns-eerste-pcie-60-ssds-bieden-30-komma-72tb-capaciteit-en-snelheden-tot-28gb-s.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237596</guid>
-            <pubDate>Tue, 29 Jul 2025 18:19:35 +0200</pubDate>
         </item>
     </channel>
 </rss>
