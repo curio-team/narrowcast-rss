@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 31 Jul 2025 11:36:02 +0200</pubDate>
-        <lastBuildDate>Thu, 31 Jul 2025 11:36:02 +0200</lastBuildDate>
+        <pubDate>Thu, 31 Jul 2025 12:36:02 +0200</pubDate>
+        <lastBuildDate>Thu, 31 Jul 2025 12:36:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Microsoft draaide afgelopen jaar recordomzet met Xbox Game Pass-dienst</title>
+            <link>https://tweakers.net/nieuws/237646/microsoft-draaide-afgelopen-jaar-recordomzet-met-xbox-game-pass-dienst.html</link>
+            <description>Microsoft heeft het afgelopen jaar meer dan ooit verdiend met Xbox Game Pass. De omzet van de gameabonnementendienst kwam voor het eerst uit op &#039;bijna 5 miljard dollar&#039;. Dat zegt het bedrijf bij de presentatie van zijn financiële cijfers van het laatste kwartaal van boekjaar 2025.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237646/microsoft-draaide-afgelopen-jaar-recordomzet-met-xbox-game-pass-dienst.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237646</guid>
+            <pubDate>Thu, 31 Jul 2025 12:34:15 +0200</pubDate>
+        </item>
+        <item>
+            <title>OpenAI maakt ChatGPT-agent stilletjes beschikbaar in Nederland</title>
+            <link>https://tweakers.net/nieuws/237640/openai-maakt-chatgpt-agent-stilletjes-beschikbaar-in-nederland.html</link>
+            <description>ChatGPT heeft zijn AI-agent, die zelfstandig computertaken kan uitvoeren, ook beschikbaar gemaakt in Nederland. Meerdere tweakers melden dat de functie te gebruiken is, wat deze site kan bevestigen. Het is nog niet bekend of de functie ook in België al beschikbaar is.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/237640/openai-maakt-chatgpt-agent-stilletjes-beschikbaar-in-nederland.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237640</guid>
+            <pubDate>Thu, 31 Jul 2025 11:40:54 +0200</pubDate>
+        </item>
         <item>
             <title>Chinese JD.com brengt bod uit voor overname van MediaMarkt-moederbedrijf</title>
             <link>https://tweakers.net/nieuws/237642/chinese-jd-punt-com-brengt-bod-uit-voor-overname-van-mediamarkt-moederbedrijf.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/nieuws/237596/microns-eerste-pcie-60-ssds-bieden-30-komma-72tb-capaciteit-en-snelheden-tot-28gb-s.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237596</guid>
             <pubDate>Tue, 29 Jul 2025 18:19:35 +0200</pubDate>
-        </item>
-        <item>
-            <title>Elgato introduceert Facecam 4K-webcam met 4k60-ondersteuning voor 200 euro</title>
-            <link>https://tweakers.net/nieuws/237598/elgato-introduceert-facecam-4k-webcam-met-4k60-ondersteuning-voor-200-euro.html</link>
-            <description>Elgato kondigt zijn Facecam 4K aan. Het is een webcam die 4k-beelden op 60fps ondersteunt en ruimte biedt voor fysieke lensfilters. De webcam komt per direct beschikbaar en krijgt een adviesprijs van 200 euro.</description>
-            <author>Daan van Monsjou</author>
-            <category>Nieuws / Computers / Webcams</category>
-            <comments>https://tweakers.net/nieuws/237598/elgato-introduceert-facecam-4k-webcam-met-4k60-ondersteuning-voor-200-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237598</guid>
-            <pubDate>Tue, 29 Jul 2025 17:32:26 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Samsung Galaxy S26 Ultra wordt dunner dan voorganger en krijgt 60W-snelladen&#039;</title>
-            <link>https://tweakers.net/nieuws/237594/samsung-galaxy-s26-ultra-wordt-dunner-dan-voorganger-en-krijgt-60w-snelladen.html</link>
-            <description>De Samsung Galaxy S26 Ultra krijgt een dunnere behuizing dan zijn voorganger, beweert leaker Ice Universe. De behuizing wordt volgens hem tussen de 7 en 8mm dik. Daarnaast krijgt de smartphone naar verluidt een 5000mAh-accu die 60W-snelladen ondersteunt.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/237594/samsung-galaxy-s26-ultra-wordt-dunner-dan-voorganger-en-krijgt-60w-snelladen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237594</guid>
-            <pubDate>Tue, 29 Jul 2025 15:58:26 +0200</pubDate>
         </item>
     </channel>
 </rss>

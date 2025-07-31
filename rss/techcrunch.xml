@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 31 Jul 2025 01:24:53 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 31 Jul 2025 10:26:54 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Proton releases a new app for two-factor authentication</title>
+		<link>https://techcrunch.com/2025/07/31/proton-releases-a-new-app-for-two-factor-authentication/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 31 Jul 2025 10:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Authenticator]]></category>
+		<category><![CDATA[Proton]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[two factor authentication]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3032687</guid>
+
+					<description><![CDATA[Proton has a free new authenticator apps, which is available cross-platform with end-to-end encryption protection for data.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>GitHub Copilot crosses 20 million all-time users</title>
 		<link>https://techcrunch.com/2025/07/30/github-copilot-crosses-20-million-all-time-users/</link>
 		
@@ -384,24 +402,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3032304</guid>
 
 					<description><![CDATA[Gov. Tim Walz activated the state military's cyber forces to help ensure public services continue to run as the city of Saint Paul battles an ongoing cyberattack.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Skechers is making kids&#8217; shoes with a hidden AirTag compartment</title>
-		<link>https://techcrunch.com/2025/07/30/skechers-is-making-kids-shoes-with-a-hidden-airtag-compartment/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Wed, 30 Jul 2025 15:13:18 +0000</pubDate>
-				<category><![CDATA[Gadgets]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[airtag]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[skechers]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3032284</guid>
-
-					<description><![CDATA[Skechers launches kids' shoes with a built-in AirTag holder. ]]></description>
 		
 		
 		
