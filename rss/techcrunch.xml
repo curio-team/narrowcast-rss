@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 31 Jul 2025 11:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 31 Jul 2025 13:05:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Google is experimenting with machine-learning powered age estimation tech in the U.S.</title>
+		<link>https://techcrunch.com/2025/07/31/google-is-experimenting-with-machine-learning-powered-age-estimation-tech-in-the-u-s/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 31 Jul 2025 13:05:39 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[age verification]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Teens]]></category>
+		<category><![CDATA[YouTube]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3032692</guid>
+
+					<description><![CDATA[Google will use machine learning and user data to estimate age of users in the U.S.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Uber Eats now lets merchants message customers about their orders</title>
 		<link>https://techcrunch.com/2025/07/31/uber-eats-now-lets-merchants-message-customers-about-their-orders/</link>
 		
@@ -377,26 +398,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3032325</guid>
 
 					<description><![CDATA[Still Bright is now loaded up with $18.7 million in seed money to build out its demonstration unit.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>PlayerZero raises $15M to prevent AI agents from shipping buggy code </title>
-		<link>https://techcrunch.com/2025/07/30/playerzero-raises-15m-to-prevent-ai-agents-from-shipping-buggy-code/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Wed, 30 Jul 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[ai code]]></category>
-		<category><![CDATA[AI coding agents]]></category>
-		<category><![CDATA[ai dev tools]]></category>
-		<category><![CDATA[ai slop]]></category>
-		<category><![CDATA[foundation capital]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3032129</guid>
-
-					<description><![CDATA[PlayerZero landed angel investors like Databricks' Matei Zaharia, Dropbox's Drew Houston, Figma's  Dylan Field, and Vercel's Guillermo Rauch, its founder says.]]></description>
 		
 		
 		
