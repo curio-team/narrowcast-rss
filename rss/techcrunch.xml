@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 30 Jul 2025 14:14:52 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 31 Jul 2025 01:24:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,369 +28,380 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Gen AI apps doubled their revenue, grew to 1.7B downloads in first half of 2025</title>
-		<link>https://techcrunch.com/2025/07/30/gen-ai-apps-doubled-their-revenue-grew-to-1-7b-downloads-in-first-half-of-2025/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Wed, 30 Jul 2025 14:14:46 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[gen ai]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3032242</guid>
-
-					<description><![CDATA[People are downloading and spending money on Gen AI apps more than ever. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>YouTube loosens profanity rules for monetized videos</title>
-		<link>https://techcrunch.com/2025/07/30/youtube-loosens-profanity-rules-for-monetized-videos/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Wed, 30 Jul 2025 14:01:21 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Creators]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[monetization]]></category>
-		<category><![CDATA[YouTube]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3032243</guid>
-
-					<description><![CDATA[YouTube is tweaking its profanity-related rules to allow creators to monetize videos with swearing in them, provided the profanity is contained to the first seven seconds of the video.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AIR lands $23M to bring its eVTOLs to the US</title>
-		<link>https://techcrunch.com/2025/07/30/air-secures-23m-to-boost-u-s-expansion-and-evtol-innovation/</link>
-		
-		<dc:creator><![CDATA[Kate Park]]></dc:creator>
-		<pubDate>Wed, 30 Jul 2025 13:15:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[AIR]]></category>
-		<category><![CDATA[eVTOLS]]></category>
-		<category><![CDATA[Israel]]></category>
-		<category><![CDATA[transportation]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3032223</guid>
-
-					<description><![CDATA[Israel-based eVTOL startup AIR has raised $23 million to scale production of both its piloted and uncrewed cargo aircraft, and enter the U.S.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Observe continues to adapt to the changing world of software observability</title>
-		<link>https://techcrunch.com/2025/07/30/observe-continues-to-adapt-to-the-changing-world-of-software-observability/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Wed, 30 Jul 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[cloud]]></category>
-		<category><![CDATA[data management]]></category>
-		<category><![CDATA[observability]]></category>
-		<category><![CDATA[Observe]]></category>
-		<category><![CDATA[artificial intelligence]]></category>
-		<category><![CDATA[Apache Iceberg]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3032070</guid>
-
-					<description><![CDATA[Observe just raised a $156 million Series C round as the company looks to offer support for Apache Iceberg by the end of the year. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google says it will sign EU&#8217;s AI code of practice</title>
-		<link>https://techcrunch.com/2025/07/30/google-says-it-will-sign-eus-ai-code-of-practice/</link>
-		
-		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
-		<pubDate>Wed, 30 Jul 2025 12:57:03 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[EU AI Act]]></category>
-		<category><![CDATA[european union]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[Meta]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3032244</guid>
-
-					<description><![CDATA[Google confirmed it will sign the European Union's general purpose AI code of practice. Meta has already said it will not sign the voluntary framework. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Footnotes, TikTok&#8217;s crowdsourced fact-checks, launches in the US</title>
-		<link>https://techcrunch.com/2025/07/30/tiktoks-crowdsourced-fact-checks-called-footnotes-launch-in-the-u-s/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Wed, 30 Jul 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[TikTok]]></category>
-		<category><![CDATA[fact checking]]></category>
-		<category><![CDATA[community notes]]></category>
-		<category><![CDATA[footnotes]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3032107</guid>
-
-					<description><![CDATA[All U.S. TikTok users are able to view the notes that have been rated as helpful and submit their own ratings in return.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TikTok adds new parental controls, tools for creators</title>
-		<link>https://techcrunch.com/2025/07/30/tiktok-adds-new-parental-controls-tools-for-creators/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Wed, 30 Jul 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[TikTok]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3032116</guid>
-
-					<description><![CDATA[The social network is bringing new parental controls to Family Pairing, its feature that allows parents to link their accounts with their teen's account to customize safety settings.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Space Force bets on commercial entrants in $4B satcom contest</title>
-		<link>https://techcrunch.com/2025/07/29/space-force-bets-on-commercial-entrants-in-4b-satcom-contest/</link>
-		
-		<dc:creator><![CDATA[Aria Alamalhodaei]]></dc:creator>
-		<pubDate>Tue, 29 Jul 2025 23:55:38 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Space]]></category>
-		<category><![CDATA[Astranis]]></category>
-		<category><![CDATA[Boeing]]></category>
-		<category><![CDATA[northrop grumman]]></category>
-		<category><![CDATA[Space Force]]></category>
-		<category><![CDATA[viasat]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3032216</guid>
-
-					<description><![CDATA[The Space Force is leveraging commercial competition for the next phase of its PTS program. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nvidia AI chip challenger Groq said to be nearing new fundraising at $6B valuation </title>
-		<link>https://techcrunch.com/2025/07/29/nvidia-ai-chip-challenger-groq-said-to-be-nearing-new-fundraising-at-6b-valuation/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Tue, 29 Jul 2025 22:02:51 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI chips]]></category>
-		<category><![CDATA[groq]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3032189</guid>
-
-					<description><![CDATA[AI chip startup Groq is in talks to raise a fresh $600 million at a near $6 billion valuation, sources tell Bloomberg, although the deal isn’t yet final and terms could change. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Luma and Runway expect robotics to eventually be a big revenue driver for them</title>
-		<link>https://techcrunch.com/2025/07/29/luma-and-runway-expect-robotics-to-eventually-be-a-big-revenue-driver-for-them/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Tue, 29 Jul 2025 20:12:43 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[robots]]></category>
-		<category><![CDATA[Luma]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[video generating AI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3032141</guid>
-
-					<description><![CDATA[Both Luma and Runway have reportedly held conversations with self-driving car and robotics companies as they look toward the future. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google says UK government has not demanded an encryption backdoor for its users&#8217; data</title>
-		<link>https://techcrunch.com/2025/07/29/google-says-uk-government-not-demanded-encryption-backdoor-for-its-users-data/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Tue, 29 Jul 2025 19:50:00 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[cloud]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[encryption]]></category>
-		<category><![CDATA[end-to-end encryption]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[iPhones]]></category>
-		<category><![CDATA[Meta]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3032012</guid>
-
-					<description><![CDATA[Google refused to tell a U.S. senator whether the company had received a secret U.K. surveillance order demanding access to encrypted data, similar to an order served on Apple earlier this year.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic reportedly nears $170B valuation with potential $5B round</title>
-		<link>https://techcrunch.com/2025/07/29/anthropic-reportedly-nears-170b-valuation-with-potential-5b-round/</link>
-		
-		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Tue, 29 Jul 2025 18:59:36 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[iconiq capital]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3032106</guid>
-
-					<description><![CDATA[The new round is being led by Iconiq Capital, with the possibility of a co-lead investor joining.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SOSV bets plasma will change everything from semiconductors to spacecraft</title>
-		<link>https://techcrunch.com/2025/07/29/sosv-bets-plasma-will-change-everything-from-semiconductors-to-spacecraft/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Tue, 29 Jul 2025 18:26:17 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[sosv]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3032101</guid>
-
-					<description><![CDATA[SOSV is investing in more than 25 plasma-related startups over the next five years.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cash App users can now pool money for group payments &#8212; even with non-users</title>
-		<link>https://techcrunch.com/2025/07/29/cash-app-users-can-now-pool-money-for-group-payments-even-with-non-users/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Tue, 29 Jul 2025 17:16:17 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Cash App]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3032028</guid>
-
-					<description><![CDATA[Cash App's new feature lets users pool money with a group to pay for expenses like vacations and gifts.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google&#8217;s NotebookLM rolls out Video Overviews</title>
-		<link>https://techcrunch.com/2025/07/29/googles-notebooklm-rolls-out-video-overviews/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Tue, 29 Jul 2025 17:11:20 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[notebooklm]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3031998</guid>
-
-					<description><![CDATA[With this new capability, NotebookLM is taking a more visual approach to helping users understand different topics and ideas. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI launches Study Mode in ChatGPT</title>
-		<link>https://techcrunch.com/2025/07/29/openai-launches-study-mode-in-chatgpt/</link>
+		<title>GitHub Copilot crosses 20 million all-time users</title>
+		<link>https://techcrunch.com/2025/07/30/github-copilot-crosses-20-million-all-time-users/</link>
 		
 		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Tue, 29 Jul 2025 17:00:00 +0000</pubDate>
+		<pubDate>Thu, 31 Jul 2025 01:16:55 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Education]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3031988</guid>
+		<category><![CDATA[ai coding]]></category>
+		<category><![CDATA[GitHub Copilot]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3032593</guid>
 
-					<description><![CDATA[OpenAI's Study Mode aims to help students develop their own critical thinking skills, rather than just giving answers.]]></description>
+					<description><![CDATA[One of the most popular AI coding tools on the market added five million users in the last three months.]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Spotify hints at a more chatty voice AI interface in the future</title>
-		<link>https://techcrunch.com/2025/07/29/spotify-hints-at-a-more-chatty-voice-ai-interface-in-the-future/</link>
+		<title>Kleiner Perkins-backed Ambiq pops on IPO debut</title>
+		<link>https://techcrunch.com/2025/07/30/kleiner-perkins-backed-ambiq-pops-on-ipo-debut/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Thu, 31 Jul 2025 01:00:24 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[chips]]></category>
+		<category><![CDATA[IPO]]></category>
+		<category><![CDATA[Kleiner Perkins]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3032647</guid>
+
+					<description><![CDATA[The 15-year-old chipmaker saw its shares climb 61% above its IPO price by the close of its first trading day.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Aurora&#8217;s autonomous trucks are now driving at night. Its next big challenge is rain.</title>
+		<link>https://techcrunch.com/2025/07/30/auroras-autonomous-trucks-are-now-driving-at-night-its-next-big-challenge-is-rain/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Wed, 30 Jul 2025 23:48:10 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Aurora Innovation]]></category>
+		<category><![CDATA[self-driving trucks]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3032512</guid>
+
+					<description><![CDATA[The company has also opened another facility in Phoenix as it scales driverless operations.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Figma&#8217;s IPO price hit a $19.3B valuation out of the gate</title>
+		<link>https://techcrunch.com/2025/07/30/figmas-ipo-price-hit-a-19-3b-valuation-out-of-the-gate/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Wed, 30 Jul 2025 23:04:41 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Figma]]></category>
+		<category><![CDATA[IPOs]]></category>
+		<category><![CDATA[IPOs 2025]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3032591</guid>
+
+					<description><![CDATA[In what should be a surprise to no one, Figma priced its IPO shares above its already increased previously announced range.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Zuckerberg says people without AI glasses will be at a disadvantage in the future</title>
+		<link>https://techcrunch.com/2025/07/30/zuckerberg-says-people-without-ai-glasses-will-be-at-a-disadvantage-in-the-future/</link>
 		
 		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Tue, 29 Jul 2025 16:58:53 +0000</pubDate>
+		<pubDate>Wed, 30 Jul 2025 22:47:30 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[ai dj]]></category>
-		<category><![CDATA[earnings]]></category>
-		<category><![CDATA[Music]]></category>
-		<category><![CDATA[Spotify]]></category>
-		<category><![CDATA[streaming]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3031924</guid>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[glasses]]></category>
+		<category><![CDATA[Mark Zuckerberg]]></category>
+		<category><![CDATA[Meta]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3032586</guid>
 
-					<description><![CDATA[Spotify says AI will allow for "much more interactive" consumer experiences in its app. ]]></description>
+					<description><![CDATA[Mark Zuckerberg really believes AI glasses will be the ideal way to blend the physical and digital worlds together.]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Tea app disables DMs after second data breach exposed over a million private messages</title>
-		<link>https://techcrunch.com/2025/07/29/tea-apps-data-breach-gets-much-worse-exposing-over-a-million-private-messages/</link>
+		<title>SpaceX faces two new lawsuits alleging safety‐related retaliation</title>
+		<link>https://techcrunch.com/2025/07/30/spacex-faces-two-new-lawsuits-alleging-safety%e2%80%90related-retaliation/</link>
 		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Tue, 29 Jul 2025 16:28:47 +0000</pubDate>
+		<dc:creator><![CDATA[Aria Alamalhodaei]]></dc:creator>
+		<pubDate>Wed, 30 Jul 2025 21:47:20 +0000</pubDate>
+				<category><![CDATA[Space]]></category>
+		<category><![CDATA[lawsuits]]></category>
+		<category><![CDATA[SpaceX]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3032539</guid>
+
+					<description><![CDATA[The lawsuits offer a closer look at the safety environment at SpaceX.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Meta to spend up to $72B on AI infrastructure in 2025 as compute arms race escalates</title>
+		<link>https://techcrunch.com/2025/07/30/meta-to-spend-up-to-72b-on-ai-infrastructure-in-2025-as-compute-arms-race-escalates/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Wed, 30 Jul 2025 21:31:42 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[ai data centers]]></category>
+		<category><![CDATA[Mark Zuckerberg]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[meta q2 2025 earnings]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3032547</guid>
+
+					<description><![CDATA[Meta is pouring money into the physical and technical infrastructure needed to scale its AI ambitions. The company said Wednesday in its second-quarter earnings report that it plans to more than double its spend on building AI infrastructure – like data centers and servers. 
+
+“We currently expect 2025 capital expenditures, including principal payments on finance leases, to be in the range of $66-72 billion…up approximately $30 billion year-over-year at the midpoint,” Meta said.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Zuckerberg: AI increased the time spent on Facebook and Instagram in Q2</title>
+		<link>https://techcrunch.com/2025/07/30/zuckerberg-ai-increased-the-time-spent-on-facebook-and-instagram-in-q2/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 30 Jul 2025 21:21:46 +0000</pubDate>
 				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Instagram]]></category>
+		<category><![CDATA[Messenger]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[WhatsApp]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3032544</guid>
+
+					<description><![CDATA[Overall, Meta estimated that over 3.4 billion people used one of its "family of apps" on a daily basis.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google proposes to open Play Store to more real-money games in India</title>
+		<link>https://techcrunch.com/2025/07/30/google-proposes-to-open-play-store-to-more-real-money-games-in-india/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Wed, 30 Jul 2025 20:57:19 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[competition commission of india]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google Play]]></category>
+		<category><![CDATA[Google Play Store]]></category>
+		<category><![CDATA[Real money games]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3032497</guid>
+
+					<description><![CDATA[The developers are also required to submit proof that an authoritative third-party body has declared the app to be a "game of skill," the company proposed.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Big Tech to work with Trump administration to build digital health ecosystem</title>
+		<link>https://techcrunch.com/2025/07/30/big-tech-to-work-with-trump-administration-to-build-digital-health-ecosystem/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Wed, 30 Jul 2025 20:30:00 +0000</pubDate>
+				<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[RFK]]></category>
+		<category><![CDATA[Trump]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3032505</guid>
+
+					<description><![CDATA[The efforts will focus on two areas: creating a framework for patients and providers to easily share information, and creating more personal tools so patients can access resources needed to stay informed about their health. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Palo Alto Networks agrees to buy CyberArk for $25 billion</title>
+		<link>https://techcrunch.com/2025/07/30/palo-alto-networks-agrees-to-buy-cyberark-for-25-billion/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Wed, 30 Jul 2025 18:38:29 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[palo alto networks]]></category>
+		<category><![CDATA[Mergers and Acquisitions]]></category>
+		<category><![CDATA[CyberArk]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[cybsecurity]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3032456</guid>
+
+					<description><![CDATA[The cybersecurity giant is getting into identity security with its acquisition of CyberArk, which is one of the biggest cybersecurity deals of the year so far.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Germ brings end-to-end encrypted messages to Bluesky</title>
+		<link>https://techcrunch.com/2025/07/30/germ-brings-end-to-end-encrypted-messages-to-bluesky/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 30 Jul 2025 18:25:03 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Privacy]]></category>
 		<category><![CDATA[Security]]></category>
 		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Bluesky]]></category>
+		<category><![CDATA[encryption]]></category>
+		<category><![CDATA[germ]]></category>
+		<category><![CDATA[iOS apps]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3032357</guid>
+
+					<description><![CDATA[Germ's new app lets users send end-to-end encrypted messages on Bluesky. TechCrunch speaks with the Germ founders to hear why they came up with the idea.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hackers stole Social Security numbers during Allianz Life cyberattack</title>
+		<link>https://techcrunch.com/2025/07/30/hackers-stole-social-security-numbers-during-allianz-life-cyberattack/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Wed, 30 Jul 2025 18:00:08 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[allianz life]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cybersecurity]]></category>
 		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[dating apps]]></category>
+		<category><![CDATA[social security numbers]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3032439</guid>
+
+					<description><![CDATA[The U.S. insurance giant tells state regulators that Social Security numbers were among the personal information stolen in its mid-July cyberattack.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Zuckerberg signals Meta won&#8217;t open source all of its &#8216;superintelligence&#8217; AI models</title>
+		<link>https://techcrunch.com/2025/07/30/zuckerberg-says-meta-likely-wont-open-source-all-of-its-superintelligence-ai-models/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Wed, 30 Jul 2025 17:56:58 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Mark Zuckerberg]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[superintelligence]]></category>
+		<category><![CDATA[meta superintelligence labs]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3032401</guid>
+
+					<description><![CDATA[Meta is shifting how it plans to ensure widespread access to superintelligence, a suggestion that the company’s most advanced AI may remain closed so that Meta can stay in the driver’s seat.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ramp hits $22.5B valuation just 45 days after reaching $16B</title>
+		<link>https://techcrunch.com/2025/07/30/ramp-hits-22-5b-valuation-just-45-days-after-reaching-16b/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Wed, 30 Jul 2025 16:19:02 +0000</pubDate>
+				<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Eric Glyman]]></category>
 		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[online safety]]></category>
-		<category><![CDATA[tea]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3031946</guid>
+		<category><![CDATA[Ramp]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3032307</guid>
 
-					<description><![CDATA[Dating safety app Tea experienced a second data breach in as many weeks, exposing over a million sensitive messages between users.]]></description>
+					<description><![CDATA[In 2025, Ramp keeps raising money at increasing valuations as its CEO pursues an AI-powered future.]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>YouTube rolls out age-estimation tech to identify US teens and apply additional protections</title>
-		<link>https://techcrunch.com/2025/07/29/youtube-rolls-out-age-estimatation-tech-to-identify-u-s-teens-and-apply-additional-protections/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Tue, 29 Jul 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[Teens]]></category>
-		<category><![CDATA[YouTube]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3031888</guid>
-
-					<description><![CDATA[YouTube is introducing age-detection technology to identify teens on the platform in the U.S. and apply protections. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google&#8217;s AI Mode gets new &#8216;Canvas&#8217; feature, real-time help with Search Live, and more</title>
-		<link>https://techcrunch.com/2025/07/29/googles-ai-mode-gets-new-canvas-feature-real-time-help-with-search-live-and-more/</link>
+		<title>A guide to using Edits, Meta’s CapCut rival for short-form video editing</title>
+		<link>https://techcrunch.com/2025/07/30/a-guide-to-using-edits-metas-new-capcut-rival-for-short-form-video-editing/</link>
 		
 		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Tue, 29 Jul 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[ai mode]]></category>
-		<category><![CDATA[Google]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3031918</guid>
+		<pubDate>Wed, 30 Jul 2025 16:17:11 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[capcut]]></category>
+		<category><![CDATA[edits]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<category><![CDATA[Instagram]]></category>
+		<category><![CDATA[Meta]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3013600</guid>
 
-					<description><![CDATA[The tech giant is rolling out a new Canvas feature, the ability to get real-time help with Search Live, and the option to search what you see while browsing. ]]></description>
+					<description><![CDATA[Meta shared that it was working on Edits in January after ByteDance-owned CapCut was removed from U.S. app stores.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>How a New Jersey startup found an electrifying way to slash copper costs</title>
+		<link>https://techcrunch.com/2025/07/30/how-a-new-jersey-startup-found-an-electrifying-way-to-slash-copper-costs/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Wed, 30 Jul 2025 16:09:47 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[copper]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3032325</guid>
+
+					<description><![CDATA[Still Bright is now loaded up with $18.7 million in seed money to build out its demonstration unit.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>PlayerZero raises $15M to prevent AI agents from shipping buggy code </title>
+		<link>https://techcrunch.com/2025/07/30/playerzero-raises-15m-to-prevent-ai-agents-from-shipping-buggy-code/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Wed, 30 Jul 2025 16:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[ai code]]></category>
+		<category><![CDATA[AI coding agents]]></category>
+		<category><![CDATA[ai dev tools]]></category>
+		<category><![CDATA[ai slop]]></category>
+		<category><![CDATA[foundation capital]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3032129</guid>
+
+					<description><![CDATA[PlayerZero landed angel investors like Databricks' Matei Zaharia, Dropbox's Drew Houston, Figma's  Dylan Field, and Vercel's Guillermo Rauch, its founder says.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Minnesota activates National Guard as cyberattack on Saint Paul disrupts public services</title>
+		<link>https://techcrunch.com/2025/07/30/minnesota-activates-national-guard-as-cyberattack-on-saint-paul-disrupts-public-services/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Wed, 30 Jul 2025 15:50:47 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[national guard]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[tim walz]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3032304</guid>
+
+					<description><![CDATA[Gov. Tim Walz activated the state military's cyber forces to help ensure public services continue to run as the city of Saint Paul battles an ongoing cyberattack.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Skechers is making kids&#8217; shoes with a hidden AirTag compartment</title>
+		<link>https://techcrunch.com/2025/07/30/skechers-is-making-kids-shoes-with-a-hidden-airtag-compartment/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Wed, 30 Jul 2025 15:13:18 +0000</pubDate>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[airtag]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[skechers]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3032284</guid>
+
+					<description><![CDATA[Skechers launches kids' shoes with a built-in AirTag holder. ]]></description>
 		
 		
 		
