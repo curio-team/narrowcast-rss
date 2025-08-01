@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 01 Aug 2025 06:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 01 Aug 2025 11:28:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Google rolls out Gemini Deep Think AI, a reasoning model that tests multiple ideas in parallel</title>
+		<link>https://techcrunch.com/2025/08/01/google-rolls-out-gemini-deep-think-ai-a-reasoning-model-that-tests-multiple-ideas-in-parallel/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Fri, 01 Aug 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[agents]]></category>
+		<category><![CDATA[gemini]]></category>
+		<category><![CDATA[Google]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3033157</guid>
+
+					<description><![CDATA[Google released its first publicly available "multi-agent" AI system, which uses more computational resources, but produces better answers.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Handwave lends a hand to retailers with its European alternative to Amazon&#8217;s palm payments</title>
 		<link>https://techcrunch.com/2025/07/31/handwave-lends-a-hand-to-retailers-with-its-european-alternative-to-amazons-palm-payments/</link>
 		
@@ -373,24 +390,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3032730</guid>
 
 					<description><![CDATA[OpenAI said the new Norway-based data center comes as the European Union races to achieve AI sovereignty by investing in data center and compute power.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ChatGPT: Everything you need to know about the AI-powered chatbot</title>
-		<link>https://techcrunch.com/2025/07/31/chatgpt-everything-to-know-about-the-ai-chatbot/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers, Cody Corrall, Alyssa Stringer, Kate Park]]></dc:creator>
-		<pubDate>Thu, 31 Jul 2025 14:52:58 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2607630</guid>
-
-					<description><![CDATA[A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.]]></description>
 		
 		
 		
