@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 01 Aug 2025 11:28:15 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 01 Aug 2025 12:04:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,44 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Reddit plans to unify its search interface as it looks to become a search engine</title>
+		<link>https://techcrunch.com/2025/08/01/reddit-plans-to-unify-its-search-interface-as-it-looks-to-become-a-search-engine/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Fri, 01 Aug 2025 12:04:38 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[AI search]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Reddit]]></category>
+		<category><![CDATA[steve huffman]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3033215</guid>
+
+					<description><![CDATA[Reddit is working on a new unified interface that will merge its legacy search and AI-powered Q&#038;A features, as well as make its search box more prominently visible in the app.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Joby Aviation and defense contractor L3Harris to test autonomous hybrid aircraft</title>
+		<link>https://techcrunch.com/2025/08/01/joby-aviation-and-defense-contractor-l3harris-to-test-a-new-class-of-aircraft/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Fri, 01 Aug 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[defense tech]]></category>
+		<category><![CDATA[VTOLs]]></category>
+		<category><![CDATA[Joby Aviation]]></category>
+		<category><![CDATA[L3Harris]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3033057</guid>
+
+					<description><![CDATA[Joby's years of R&#038;D with the DoD may be paying off. The company has signed an agreement with defense contractor L3Harris to develop a gas-turbine hybrid VTOL that can fly autonomously — for defense applications.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Google rolls out Gemini Deep Think AI, a reasoning model that tests multiple ideas in parallel</title>
 		<link>https://techcrunch.com/2025/08/01/google-rolls-out-gemini-deep-think-ai-a-reasoning-model-that-tests-multiple-ideas-in-parallel/</link>
 		
@@ -353,43 +391,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3032701</guid>
 
 					<description><![CDATA[Quora's Poe platform is releasing an API to let developers access more than 100 models across text, image, video, and voice.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TikTok merges its Core Product and Trust &#038; Safety teams</title>
-		<link>https://techcrunch.com/2025/07/31/tiktok-merges-its-core-product-and-trust-safety-teams/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Thu, 31 Jul 2025 16:00:20 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[TikTok]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3032751</guid>
-
-					<description><![CDATA[As part of the changes, TikTok's head of Operations and Trust &#038; Safety Adam Presser will become the general manager of TikTok USDS, a separate entity of TikTok that's tasked with safeguarding U.S. national security interests, TechCrunch confirmed with TikTok.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI to launch AI data center in Norway, its first in Europe</title>
-		<link>https://techcrunch.com/2025/07/31/openai-to-launch-ai-data-center-in-norway-its-first-in-europe/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Thu, 31 Jul 2025 14:54:37 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[ai sovereignty]]></category>
-		<category><![CDATA[aker]]></category>
-		<category><![CDATA[data centers]]></category>
-		<category><![CDATA[nscale]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[stargate]]></category>
-		<category><![CDATA[stargate norway]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3032730</guid>
-
-					<description><![CDATA[OpenAI said the new Norway-based data center comes as the European Union races to achieve AI sovereignty by investing in data center and compute power.]]></description>
 		
 		
 		
