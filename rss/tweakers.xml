@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 31 Jul 2025 16:36:02 +0200</pubDate>
-        <lastBuildDate>Thu, 31 Jul 2025 16:36:02 +0200</lastBuildDate>
+        <pubDate>Fri, 01 Aug 2025 09:36:01 +0200</pubDate>
+        <lastBuildDate>Fri, 01 Aug 2025 09:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,156 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Paint.NET 5.1.9</title>
+            <link>https://tweakers.net/downloads/73502/paint-punt-net-519.html</link>
+            <description>Versie 5.1.9 van Paint.NET is uitgekomen. Dit teken- en beeldbewerkingsprogramma slaat een brug tussen het met Windows meegeleverde Paint en dure maar zeer uitgebreide programma&#039;s als Adobe Photoshop en Corel Photo Paint. Het programma is via de website van de maker op te halen, maar kan voor een kleine vergoeding ook via de Windows Store worden verkregen. Versie 5.1 heeft onder meer compleet kleurbeheer, ondersteuning voor hdr- en widecolorgamutschermen, en alle effecten worden nu door de grafische kaart aangestuurd en niet door de processor. In deze update zijn verder nog de volgende veranderingen en verbeteringen aangebracht: Changes since 5.1.8:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73502/paint-punt-net-519.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73502</guid>
+            <pubDate>Fri, 01 Aug 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Odido heeft last van grote, landelijke storing</title>
+            <link>https://tweakers.net/nieuws/237670/odido-heeft-last-van-grote-landelijke-storing.html</link>
+            <description>Odido heeft op vrijdagochtend last van een grote storing. Op Allestoringen komen veel meldingen binnen en veel tweakers laten weten daar last van te hebben. De oorzaak van de storing is niet bekend.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
+            <comments>https://tweakers.net/nieuws/237670/odido-heeft-last-van-grote-landelijke-storing.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237670</guid>
+            <pubDate>Fri, 01 Aug 2025 08:04:13 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Penpot 2.8.0</title>
+            <link>https://tweakers.net/downloads/73500/penpot-280.html</link>
+            <description>Penpot is een opensource ontwerpprogramma waar programmeurs en grafische ontwikkelaars in kunnen samenwerken. Het is vergelijkbaar met software zoals Figma en Lunacy. Een basisversie kan gratis worden gebruikt en er zijn ook betaalde mogelijkheden met extra functionaliteit en betere ondersteuning. In alle gevallen heb je de mogelijkheid om het zelf te hosten of om van de cloud van Penpot gebruik te maken. Versie 2.8.0 is uitgekomen en hier zijn de volgende veranderingen en verbeteringen in aangebracht: Penpot Library</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73500/penpot-280.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73500</guid>
+            <pubDate>Fri, 01 Aug 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - OPNsense 25.7.1</title>
+            <link>https://tweakers.net/downloads/73494/opnsense-2571.html</link>
+            <description>Het pakket OPNsense is een firewall met uitgebreide mogelijkheden. Het is gebaseerd op het besturingssysteem FreeBSD en is oorspronkelijk een fork van m0n0wall en pfSense. Het pakket kan volledig via een webinterface worden ingesteld en heeft onder andere ondersteuning voor mfa, OpenVPN, IPsec, CARP en captive portal. Daarnaast kan het packetfiltering toepassen en beschikt het over een traffic shaper. De ontwikkelaars achter OPNsense hebben de eerste update voor versie 25.7 uitgebracht en de releasenotes voor die uitgave kunnen hieronder worden gevonden. OPNsense 25.7.1 released</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73494/opnsense-2571.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73494</guid>
+            <pubDate>Thu, 31 Jul 2025 21:14:33 +0200</pubDate>
+        </item>
+        <item>
+            <title>Preview - Battlefield 6 - Klassieke Battlefield met veel sloopwerk</title>
+            <link>https://tweakers.net/reviews/13600/battlefield-6-klassieke-battlefield-met-veel-sloopwerk.html</link>
+            <description>Battlefield 6 is een game in lijn met delen 3 en 4, maar dan met veel meer destructie, diverse nieuwe features en uiteraard veel mooiere graphics.</description>
+            <author>Jurian Ubachs</author>
+            <category>Preview / Gaming / Games</category>
+            <comments>https://tweakers.net/reviews/13600/battlefield-6-klassieke-battlefield-met-veel-sloopwerk.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13600</guid>
+            <pubDate>Thu, 31 Jul 2025 21:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Battlefield 6 verschijnt op 10 oktober</title>
+            <link>https://tweakers.net/nieuws/237634/battlefield-6-verschijnt-op-10-oktober.html</link>
+            <description>Electronic Arts en Battlefield Studio’s brengen Battlefield 6 uit op 10 oktober 2025 op Steam, de Epic Store, de EA App, PlayStation 5 en Xbox Series X en S. In augustus organiseren de bedrijven in twee weekenden een openbètatest waarin de multiplayermodus speelbaar is.</description>
+            <author>Jurian Ubachs</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/237634/battlefield-6-verschijnt-op-10-oktober.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237634</guid>
+            <pubDate>Thu, 31 Jul 2025 21:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Driver-update - GeForce Game Ready Driver 580.88 WHQL</title>
+            <link>https://tweakers.net/downloads/73492/geforce-game-ready-driver-58088-whql.html</link>
+            <description>Nvidia heeft nieuwe stabiele GeForce-drivers uitgebracht. De drivers dragen versienummer 580.88 en zijn voorzien van een Windows Hardware Quality Labs-certificaat. Ze zijn geschikt voor Windows 10 en hoger, en kunnen worden gebruikt op kaarten gebaseerd op de Maxwell-architectuur of nieuwer. Deze uitgave voegt onder meer ondersteuning toe voor de GeForce RTX 5050 en bevat verbeteringen voor de spellen Mafia: The Old Country en Clair Obscur: Expedition 33. Ook zijn er weer de nodige problemen verholpen. De changelog voor deze uitgave kan hieronder worden gevonden: Game Ready</description>
+            <author>Bart van Klaveren</author>
+            <category>Driver</category>
+            <comments>https://tweakers.net/downloads/73492/geforce-game-ready-driver-58088-whql.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73492</guid>
+            <pubDate>Thu, 31 Jul 2025 21:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Ubiquiti onthult UniFi OS Server voor zelf hosten Network-stack</title>
+            <link>https://tweakers.net/nieuws/237668/ubiquiti-onthult-unifi-os-server-voor-zelf-hosten-network-stack.html</link>
+            <description>Ubiquiti onthult UniFi OS Server, een manier om de gehele Network-suite zelf te hosten in een containerized stack. De dienst is vooralsnog in early access. Het is nog niet bekend wanneer het product volledig uitgebracht zal worden.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Computers / Servers</category>
+            <comments>https://tweakers.net/nieuws/237668/ubiquiti-onthult-unifi-os-server-voor-zelf-hosten-network-stack.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237668</guid>
+            <pubDate>Thu, 31 Jul 2025 20:03:54 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - BurnAware 18.8</title>
+            <link>https://tweakers.net/downloads/73498/burnaware-188.html</link>
+            <description>Versie 18.8 van het cd-, dvd- en blu-raybrandprogramma BurnAware is uitgekomen. Dit programma is beschikbaar in een Free-versie en in betaalde Premium- en Professional-edities, met prijzen van respectievelijk dertig en veertig dollar. De betaalde uitvoeringen hebben extra functionaliteit, zoals voor het kopiëren van schijfjes en het rippen van audio-cd&#039;s. Op deze pagina worden de verschillende edities tegen elkaar afgezet. De gratis versie wordt gebundeld met optionele extra&#039;s; hier staat een versie waar die niet in zitten. In deze uitgave zijn de volgende verbeteringen doorgevoerd: Enhancements</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73498/burnaware-188.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73498</guid>
+            <pubDate>Thu, 31 Jul 2025 19:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>DJI brengt zijn eerste 360-gradencamera uit voor tenminste 480 euro</title>
+            <link>https://tweakers.net/nieuws/237666/dji-brengt-zijn-eerste-360-gradencamera-uit-voor-tenminste-480-euro.html</link>
+            <description>DJI brengt de Osmo 360 uit voor een adviesprijs van net geen 480 euro. De camera heeft aan weerszijden van de rechthoekige behuizing een lens en ondersteunt videobeelden in native 8k-resolutie met 50fps.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Beeld en geluid / Actioncams</category>
+            <comments>https://tweakers.net/nieuws/237666/dji-brengt-zijn-eerste-360-gradencamera-uit-voor-tenminste-480-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237666</guid>
+            <pubDate>Thu, 31 Jul 2025 18:47:05 +0200</pubDate>
+        </item>
+        <item>
+            <title>Palo Alto Networks neemt CyberArk over voor 25 miljard dollar</title>
+            <link>https://tweakers.net/nieuws/237664/palo-alto-networks-neemt-cyberark-over-voor-25-miljard-dollar.html</link>
+            <description>Het cyberbeveiligingsbedrijf Palo Alto Networks neemt CyberArk over voor een aandelen- en cashdeal ter waarde van 25 miljard dollar. Het vernieuwde bedrijf zegt zich verder te gaan richten op een breed &#039;beveiligingsplatform voor het AI-tijdperk&#039;.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/237664/palo-alto-networks-neemt-cyberark-over-voor-25-miljard-dollar.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237664</guid>
+            <pubDate>Thu, 31 Jul 2025 18:02:24 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - FileZilla 3.69.3</title>
+            <link>https://tweakers.net/downloads/73496/filezilla-3693.html</link>
+            <description>Versie 3.69.3 van de opensource FTP-client FileZilla is uitgekomen. Het programma is populair vanwege de geringe belasting van de systeembronnen. FileZilla is beschikbaar voor Windows, Linux en macOS. Naast de standaardversie is er ook een Pro-versie, die tegen een kleine vergoeding ondersteuning biedt voor diverse online opslagdiensten. Wees voorzichtig met het &#039;aanbevolen&#039; downloadbestand, want dat wordt gebundeld met software van derden. Op deze pagina zijn installatiebestanden te vinden die geen extra componenten bevatten. Een verkeerde installatie is overigens eenvoudig te herkennen aan het woord sponsored in de bestandsnaam. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: New features:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73496/filezilla-3693.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73496</guid>
+            <pubDate>Thu, 31 Jul 2025 18:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>OpenAI gaat datacenter in Noorwegen met 100.000 Nvidia-gpu&#039;s in gebruik nemen</title>
+            <link>https://tweakers.net/nieuws/237662/openai-gaat-datacenter-in-noorwegen-met-100000-nvidia-gpus-in-gebruik-nemen.html</link>
+            <description>OpenAI wil voor eind 2026 zijn eerste datacenter in Europa in gebruik nemen. Deze &#039;AI-gigafactory&#039; wordt gebouwd in Noorwegen en moet 100.000 Nvidia-gpu&#039;s huisvesten voor het trainen van AI-modellen.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Economie en maatschappij</category>
+            <comments>https://tweakers.net/nieuws/237662/openai-gaat-datacenter-in-noorwegen-met-100000-nvidia-gpus-in-gebruik-nemen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237662</guid>
+            <pubDate>Thu, 31 Jul 2025 17:09:58 +0200</pubDate>
+        </item>
+        <item>
+            <title>Achtergrond - Chinese retailer wil MediaMarkt overnemen, wat gaat dat betekenen?</title>
+            <link>https://tweakers.net/reviews/13602/chinese-retailer-wil-mediamarkt-overnemen-wat-gaat-dat-betekenen.html</link>
+            <description>Europa heeft zorgen om China, maar de Chinese retailer JD.com is in gesprek om MediaMarkt over te nemen. Huh?</description>
+            <author>Arnoud Wokke</author>
+            <category>Achtergrond / IT Pro / E-commerce</category>
+            <comments>https://tweakers.net/reviews/13602/chinese-retailer-wil-mediamarkt-overnemen-wat-gaat-dat-betekenen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13602</guid>
+            <pubDate>Thu, 31 Jul 2025 17:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>EU-initiatief Stop Killing Games sluit inzameling handtekeningen om middernacht</title>
+            <link>https://tweakers.net/nieuws/237660/eu-initiatief-stop-killing-games-sluit-inzameling-handtekeningen-om-middernacht.html</link>
+            <description>Om middernacht stopt het inzamelen van handtekeningen voor het EU-burgerinitiatief Stop Killing Games. Er zijn ruim 1,4 miljoen handtekeningen gezet. Het doel van het initiatief is om gamemakers ertoe te verplichten om games permanent beschikbaar te houden.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/237660/eu-initiatief-stop-killing-games-sluit-inzameling-handtekeningen-om-middernacht.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237660</guid>
+            <pubDate>Thu, 31 Jul 2025 16:39:57 +0200</pubDate>
+        </item>
         <item>
             <title>Belgische regering wil frauduleuze online ads binnen 24 uur laten verwijderen</title>
             <link>https://tweakers.net/nieuws/237656/belgische-regering-wil-frauduleuze-online-ads-binnen-24-uur-laten-verwijderen.html</link>
@@ -266,156 +416,6 @@
             <comments>https://tweakers.net/nieuws/237624/dropbox-stopt-eind-oktober-met-wachtwoordmanager-passwords.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237624</guid>
             <pubDate>Wed, 30 Jul 2025 17:44:01 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - WinRAR 7.13</title>
-            <link>https://tweakers.net/downloads/73478/winrar-713.html</link>
-            <description>RAR Labs heeft versie 7.13 van zijn archiveringsprogramma&#039;s RAR en WinRAR uitgebracht. Deze populaire compressietools zijn beschikbaar voor diverse besturingssystemen, waaronder Windows, Linux en macOS. De programma&#039;s kunnen overweg met de gangbaarste formaten – waaronder RAR, zip, CAB, ARJ, LZH, tar, gz, uue, bz2, JAR, ISO, 7z en z –, hebben een skinnable interface en ondersteuning voor Zip64- en multivolume CAB-bestanden. In versie 7.13 zijn enkele problemen verholpen die alleen in de Windows-versie voorkwamen; de versies voor andere besturingssystemen zitten nog steeds op 7.12: Changes in version WinRAR version 7.13:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73478/winrar-713.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73478</guid>
-            <pubDate>Wed, 30 Jul 2025 16:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Italiaanse toezichthouder onderzoekt permanente Meta AI-knop in WhatsApp</title>
-            <link>https://tweakers.net/nieuws/237622/italiaanse-toezichthouder-onderzoekt-permanente-meta-ai-knop-in-whatsapp.html</link>
-            <description>De Italiaanse mededingingsautoriteit Autorità Garante della Concorrenza e del Mercato (AGCM) start een onderzoek naar Meta vanwege de integratie van Meta AI in WhatsApp. Volgens de AGCM belemmert dit de concurrentie met andere chatbots.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/237622/italiaanse-toezichthouder-onderzoekt-permanente-meta-ai-knop-in-whatsapp.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237622</guid>
-            <pubDate>Wed, 30 Jul 2025 16:17:22 +0200</pubDate>
-        </item>
-        <item>
-            <title>Australische regering verbiedt YouTube-accounts voor jongeren onder 16 jaar</title>
-            <link>https://tweakers.net/nieuws/237618/australische-regering-verbiedt-youtube-accounts-voor-jongeren-onder-16-jaar.html</link>
-            <description>De Australische regering breidt het verbod op socialemediagebruik onder de zestien jaar uit naar YouTube. Daardoor kunnen Australische gebruikers onder de zestien jaar vanaf december geen account meer aanmaken op de videostreamingwebsite.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/237618/australische-regering-verbiedt-youtube-accounts-voor-jongeren-onder-16-jaar.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237618</guid>
-            <pubDate>Wed, 30 Jul 2025 15:42:56 +0200</pubDate>
-        </item>
-        <item>
-            <title>AMD brengt Threadripper 9000-serie met Zen 5-cores uit vanaf 1569 euro</title>
-            <link>https://tweakers.net/nieuws/237616/amd-brengt-threadripper-9000-serie-met-zen-5-cores-uit-vanaf-1569-euro.html</link>
-            <description>AMD brengt de Threadripper 9000-serie uit in de Benelux vanaf 1569 euro. De desktopprocessors beschikken nu over cores gebaseerd op Zen 5-architectuur, geproduceerd op 4nm. De meeste overige specificaties van de nieuwe reeks komen overeen met die van de 7000-serie.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Computers / Processors</category>
-            <comments>https://tweakers.net/nieuws/237616/amd-brengt-threadripper-9000-serie-met-zen-5-cores-uit-vanaf-1569-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237616</guid>
-            <pubDate>Wed, 30 Jul 2025 15:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Review - AMD Ryzen Threadripper 9970X en 9980X - Geen concurrentie, toch records breken</title>
-            <link>https://tweakers.net/reviews/13552/amd-ryzen-threadripper-9970x-en-9980x-geen-concurrentie-toch-records-breken.html</link>
-            <description>De AMD Ryzen Threadripper 9970X en 9980X hebben met 32 en 64 cores evenveel cores als hun voorgangers, maar bevatten onder de motorkap wel andere verbeteringen die ze sneller maken.</description>
-            <author>Tomas Hochstenbach</author>
-            <category>Review / Computers / Processors</category>
-            <comments>https://tweakers.net/reviews/13552/amd-ryzen-threadripper-9970x-en-9980x-geen-concurrentie-toch-records-breken.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13552</guid>
-            <pubDate>Wed, 30 Jul 2025 15:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Firmware-update - Ubiquiti EdgeMAX EdgeRouter 3.0.0</title>
-            <link>https://tweakers.net/downloads/73476/ubiquiti-edgemax-edgerouter-300.html</link>
-            <description>Ubiquiti Networks heeft versie 3.0.0 van de firmware voor de EdgeMax EdgeRouters uitgebracht. De EdgeRouters kenmerken zich door uitgebreide instelmogelijkheden, maar vergen wel enige netwerkkennis om het goed draaiend te krijgen. Ook zijn lang niet alle instellingen via de gui aan te passen en moet je dus via de commandline aan de gang. Versie 3.0.0 heeft onder meer een nieuwe webinterface en er is ondersteuning voor WireGuard toegevoegd. De complete changelog is hieronder te vinden: Overview</description>
-            <author>Bart van Klaveren</author>
-            <category>Firmware</category>
-            <comments>https://tweakers.net/downloads/73476/ubiquiti-edgemax-edgerouter-300.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73476</guid>
-            <pubDate>Wed, 30 Jul 2025 15:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Achtergrond - Gaat de EU echt een Google-account verplichten in app voor 18+-verificatie?</title>
-            <link>https://tweakers.net/reviews/13586/gaat-de-eu-echt-een-google-account-verplichten-in-app-voor-18+-verificatie.html</link>
-            <description>Veel mensen tipten ons dat de Europese Commissie een Google-account verplicht zou stellen in de Android-app om te verifiëren dat je 18+ bent. Klopt dat?</description>
-            <author>Arnoud Wokke</author>
-            <category>Achtergrond / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/reviews/13586/gaat-de-eu-echt-een-google-account-verplichten-in-app-voor-18+-verificatie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13586</guid>
-            <pubDate>Wed, 30 Jul 2025 14:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - AliasVault 0.21.0</title>
-            <link>https://tweakers.net/downloads/73474/aliasvault-0210.html</link>
-            <description>AliasVault is een privacy-first wachtwoord- en e-mailaliasmanager van Nederlandse bodem, waarmee voor iedere website een unieke identiteit en e-mailalias aan kan worden gemaakt. De software is opensource en volledig end-to-end versleuteld. Er kan van een publieke cloud gebruik worden gemaakt en het biedt ook de mogelijkheid om het volledig zelf te hosten via Docker. Clientsoftware is beschikbaar voor Android en iOS en er zijn extensies voor de gangbaarste webbrowsers. Het wordt door Leendert de Borst ontwikkeld, die ook hier op Tweakers actief is. Versies 0.21.0 is verschenen en de releasenotes daarvan zien er als volgt uit: What&#039;s Changed</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73474/aliasvault-0210.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73474</guid>
-            <pubDate>Wed, 30 Jul 2025 13:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Bluetoothchatdienst van oprichter Twitter verschijnt in App Store</title>
-            <link>https://tweakers.net/nieuws/237612/bluetoothchatdienst-van-oprichter-twitter-verschijnt-in-app-store.html</link>
-            <description>De chatapp bitchat is te downloaden in de App Store. De app van Jack Dorsey, een van de oprichters van Twitter, maakt het mogelijk om berichten te versturen met versleuteling en zonder internet. Bitchat maakt daarvoor gebruik van een meshnetwerk van bluetoothapparaten.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Software development</category>
-            <comments>https://tweakers.net/nieuws/237612/bluetoothchatdienst-van-oprichter-twitter-verschijnt-in-app-store.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237612</guid>
-            <pubDate>Wed, 30 Jul 2025 12:45:42 +0200</pubDate>
-        </item>
-        <item>
-            <title>Best Buy Guide - Beste tablets voor kinderen</title>
-            <link>https://tweakers.net/best-buy-guide/tablets/beste-tablet-voor-kinderen</link>
-            <description>De beste tablet voor kinderen moet goede (educatieve) software hebben, gebruiksvriendelijk voor je kind zijn, tegen een stootje kunnen en goede beveiliging hebben.</description>
-            <author>Dennis de Vries</author>
-            <category>Best Buy Guide / Tablets en telefoons / Tablets</category>
-            <comments>https://tweakers.net/best-buy-guide/tablets/beste-tablet-voor-kinderen#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/best-buy-guide/tablets/beste-tablet-voor-kinderen</guid>
-            <pubDate>Wed, 30 Jul 2025 11:45:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Atari neemt SteamWorld-ontwikkelaar Thunderful over voor 4,5 miljoen euro</title>
-            <link>https://tweakers.net/nieuws/237610/atari-neemt-steamworld-ontwikkelaar-thunderful-over-voor-4-komma-5-miljoen-euro.html</link>
-            <description>Atari neemt de Zweedse gameontwikkelaar Thunderful Group over, melden de bedrijven. Het bedrijf betaalt 4,5 miljoen euro om 82 procent van de uitstaande aandelen in handen te krijgen. Thunderful Group bezit onder meer de intellectueeleigendomsrechten van de SteamWorld-serie.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/237610/atari-neemt-steamworld-ontwikkelaar-thunderful-over-voor-4-komma-5-miljoen-euro.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237610</guid>
-            <pubDate>Wed, 30 Jul 2025 11:12:22 +0200</pubDate>
-        </item>
-        <item>
-            <title>Spotify lijdt verlies van 86 miljoen euro ondanks groei in aantal abonnees</title>
-            <link>https://tweakers.net/nieuws/237614/spotify-lijdt-verlies-van-86-miljoen-euro-ondanks-groei-in-aantal-abonnees.html</link>
-            <description>Spotify heeft een verlies van 86 miljoen euro geleden in het tweede kwartaal van 2025, maakt het bedrijf bekend. Het aantal gebruikers en betalende abonnees groeide, maar dat was niet genoeg om onder andere de hogere personeelskosten te compenseren.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237614/spotify-lijdt-verlies-van-86-miljoen-euro-ondanks-groei-in-aantal-abonnees.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237614</guid>
-            <pubDate>Wed, 30 Jul 2025 11:11:11 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - PowerDNS Recursor 5.1.7 / 5.2.5</title>
-            <link>https://tweakers.net/downloads/73472/powerdns-recursor-517-525.html</link>
-            <description>PowerDNS is een dns-server met een database als backend, waardoor het beheer van een groot aantal dns-entries op een gemakkelijke manier kan plaatsvinden. De ontwikkelaars hebben eerder besloten om de twee delen waaruit PowerDNS bestaat, een recursor en een authoritative nameserver, apart uit te geven, waardoor sneller en gerichter een nieuwe versie kan worden uitgebracht, aldus de ontwikkelaars. Als je een dns-look-up uitvoert, begint een recursor in eerste instantie met het stellen van de look-upvraag aan een dns-rootserver. Deze kan dan doorverwijzen naar andere servers, vanaf waar weer doorverwezen kan worden naar andere servers enzovoort, totdat uiteindelijk een server is bereikt die het antwoord weet of weet dat de look-up niet mogelijk is. Van dit laatste kan sprake zijn als de naam niet bestaat of de servers niet reageren. Het proces van het langslopen van verschillende authoritative servers heet recursie. De ontwikkelaars hebben begin dit jaar PowerDNS Recursor versie 5.0 uitgebracht en nu is er een eerste update verschenen die enkele beveiligingsproblemen moet verhelpen. PowerDNS Recursor 5.1.7 and 5.2.5 Released</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73472/powerdns-recursor-517-525.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73472</guid>
-            <pubDate>Wed, 30 Jul 2025 10:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>OpenAI introduceert studiemodus in ChatGPT met interactieve prompts</title>
-            <link>https://tweakers.net/nieuws/237608/openai-introduceert-studiemodus-in-chatgpt-met-interactieve-prompts.html</link>
-            <description>OpenAI introduceert een studiemodus in ChatGPT, die gebruikers helpt om problemen te begrijpen en stap voor stap op te lossen. Deze modus is beschikbaar voor gebruikers met een gratis, Plus-, Pro- en Team-abonnement. Edu-gebruikers krijgen de modus over &#039;enkele weken&#039;.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Software development</category>
-            <comments>https://tweakers.net/nieuws/237608/openai-introduceert-studiemodus-in-chatgpt-met-interactieve-prompts.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237608</guid>
-            <pubDate>Wed, 30 Jul 2025 09:38:36 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Proton 10.0-2 bèta</title>
-            <link>https://tweakers.net/downloads/73468/proton-100-2-beta.html</link>
-            <description>Versie 10.0-2 van Proton is uitgekomen, een bètarelease. Proton is een door Valve en met hulp van CodeWeavers ontwikkelde compatibiliteitslaag die bedoeld is om Windows-spellen zo goed mogelijk onder Linux en dan met name op de Steam Deck te laten draaien. Het geheel bestaat uit verschillende softwarebibliotheken en een aangepaste versie van Wine. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changes in Proton version 10.0-2 (beta)</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73468/proton-100-2-beta.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73468</guid>
-            <pubDate>Wed, 30 Jul 2025 09:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
