@@ -1,14 +1,421 @@
-<HTML><HEAD>
-<TITLE>Access Denied</TITLE>
-</HEAD><BODY>
-<H1>Access Denied</H1>
-<P>Your request was blocked by DPG Media's Web Application Firewall.</P>
-<P>For more information contact application support and specify: </P>
-<ul>
-  <li>Reference: 0.65a93817.1754307221.47b61aa3</li>
-  <li>ClientIP: 135.232.176.179</li>
-  <li><div id="url"></div></li>
-<script>document.getElementById('url').innerText = window.location.href; </script>
-</ul>
-</BODY>
-</HTML>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" >
+    <channel>
+        <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
+        <pubDate>Mon, 04 Aug 2025 14:41:02 +0200</pubDate>
+        <lastBuildDate>Mon, 04 Aug 2025 14:41:02 +0200</lastBuildDate>
+        <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
+        <image>
+            <link>https://tweakers.net/</link>
+            <title>Tweakers</title>
+            <url>https://tweakers.net/logo.png</url>
+            <width>196</width>
+            <height>196</height>
+            <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
+        </image>
+        <language>nl-NL</language>
+        <link>https://tweakers.net/</link>
+        <title>Tweakers Mixed RSS Feed</title>
+        <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Klanten van Simpel lijken al week geen e-sim te kunnen activeren</title>
+            <link>https://tweakers.net/nieuws/237746/klanten-van-simpel-lijken-al-week-geen-e-sim-te-kunnen-activeren.html</link>
+            <description>Klanten van Simpel lijken al lange tijd geen e-sim meer te kunnen activeren. Onder andere op het forum van Simpel en op het Tweakers-forum komen meldingen binnen van abonnees met problemen. Simpel zegt online dat het een storing heeft, maar niet wanneer die is opgelost.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
+            <comments>https://tweakers.net/nieuws/237746/klanten-van-simpel-lijken-al-week-geen-e-sim-te-kunnen-activeren.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237746</guid>
+            <pubDate>Mon, 04 Aug 2025 13:02:53 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gigabyte verwijdert PCIe 5.0-ondersteuning voor gpu&#039;s op B650-moederborden</title>
+            <link>https://tweakers.net/nieuws/237744/gigabyte-verwijdert-pcie-50-ondersteuning-voor-gpus-op-b650-moederborden.html</link>
+            <description>Gigabyte heeft de onofficiële ondersteuning voor PCIe 5.0 voor videokaarten verwijderd uit zijn B650-moederborden. Met de recente biosupdate is die onofficiële Gen 5-optie niet meer in de instellingen te zien, al heeft Gigabyte daar zelf publiek niets over gezegd.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Moederborden</category>
+            <comments>https://tweakers.net/nieuws/237744/gigabyte-verwijdert-pcie-50-ondersteuning-voor-gpus-op-b650-moederborden.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237744</guid>
+            <pubDate>Mon, 04 Aug 2025 12:17:57 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Flameshot 13.0.0</title>
+            <link>https://tweakers.net/downloads/73532/flameshot-1300.html</link>
+            <description>Versie 13.0.0 van Flameshot is uitgekomen. Met dit opensource en crossplatform programma kunnen screenshots worden gemaakt en meteen ook worden bewerkt. Zo kunnen er bijvoorbeeld tekst, lijnen, pijlen, cirkels en genummerde stappen worden toegevoegd en gevoelige informatie worden verborgen. Na afloop kan de afbeelding worden opgeslagen of naar het klembord worden gestuurd. De changelog voor versie 13.0.0 kan hieronder worden gevonden.</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73532/flameshot-1300.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73532</guid>
+            <pubDate>Mon, 04 Aug 2025 10:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Pwn2Own-hackerswedstrijd biedt miljoen dollar voor zeroclickbugs in WhatsApp</title>
+            <link>https://tweakers.net/nieuws/237742/pwn2own-hackerswedstrijd-biedt-miljoen-dollar-voor-zeroclickbugs-in-whatsapp.html</link>
+            <description>Hackerscompetitie Pwn2Own deelt een beloning van een miljoen dollar uit aan hackers die bepaalde WhatsApp-bugs kunnen vinden. Later dit jaar kunnen hackers meedingen naar die prijs, waarbij ze code moeten kunnen uitvoeren in WhatsApp zonder tussenkomst van het slachtoffer.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/237742/pwn2own-hackerswedstrijd-biedt-miljoen-dollar-voor-zeroclickbugs-in-whatsapp.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237742</guid>
+            <pubDate>Mon, 04 Aug 2025 10:20:20 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Fan Control 229</title>
+            <link>https://tweakers.net/downloads/73530/fan-control-229.html</link>
+            <description>Versie 229 van Fan Control is uitgekomen. Met dit programma kunnen de ventilators in de computer worden beheerd en in de gaten worden gehouden. Zo is het onder meer mogelijk om met verschillende profielen en configuraties de computer koel of juist stil te houden. Fan Control kan overweg met de meeste fans en controllers en via een plug-insysteem is dat verder uit te breiden. Hoewel het gebruikmaakt van het opensource Libre Hardware Monitor-project, wordt het programma zelf als freeware aangeboden. De changelog voor deze uitgave ziet er als volgt uit: Changelog for version 229:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73530/fan-control-229.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73530</guid>
+            <pubDate>Mon, 04 Aug 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Community - Schrijf je nu in voor de Tweakers FC Eredivisie Voetbalpool</title>
+            <link>https://tweakers.net/reviews/13534/schrijf-je-nu-in-voor-de-tweakers-fc-eredivisie-voetbalpool.html</link>
+            <description>Op 8 augustus start het nieuwe seizoen van de eredivisie. Een leuk communityinitiatief is de jaarlijkse voetbalpool. Wil je meedoen? Je kunt je nu inschrijven!</description>
+            <author>Saskia Schoonebeek</author>
+            <category>.Community / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/reviews/13534/schrijf-je-nu-in-voor-de-tweakers-fc-eredivisie-voetbalpool.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13534</guid>
+            <pubDate>Mon, 04 Aug 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Apple werkt aan eigen zoekmachine op basis van AI&#039;</title>
+            <link>https://tweakers.net/nieuws/237738/apple-werkt-aan-eigen-zoekmachine-op-basis-van-ai.html</link>
+            <description>Apple werkt volgens Mark Gurman aan een eigen zoekmachine op basis van AI. Deze zoekmachine moet een antwoord zijn op andere AI-diensten zoals ChatGPT, maar ook op een mogelijke verstoring van de deal die het bedrijf met Google heeft.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Internet</category>
+            <comments>https://tweakers.net/nieuws/237738/apple-werkt-aan-eigen-zoekmachine-op-basis-van-ai.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237738</guid>
+            <pubDate>Mon, 04 Aug 2025 08:46:58 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - DBeaver 25.1.4</title>
+            <link>https://tweakers.net/downloads/73528/dbeaver-2514.html</link>
+            <description>Versie 25.1.4 van DBeaver is uitgekomen. Met dit programma kunnen databases worden beheerd. Het kan onder andere query&#039;s uitvoeren en data tonen, filteren en bewerken. Er is ondersteuning aanwezig voor de bekende databases, zoals MySQL, Oracle, DB2, SQL Server, PostgreSQL, Firebird en SQLite. Het is verkrijgbaar in een opensource CE-uitvoering en drie verschillende commerciële uitvoeringen. Deze voegen onder meer ondersteuning voor verschillende nosql-databases toe, zoals MongoDB, Apache Cassandra en Apache Hive, en bevatten verder extra plug-ins en JDBC-drivers. De changelog voor deze uitgave ziet er als volgt uit: Changes in DBeaver version 25.1.4:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73528/dbeaver-2514.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73528</guid>
+            <pubDate>Mon, 04 Aug 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Quicktest - Acer Aspire 14 AI-laptop - Mooie deal voor goedkoopste Lunar Lake</title>
+            <link>https://tweakers.net/reviews/13556/acer-aspire-14-ai-laptop-mooie-deal-voor-goedkoopste-lunar-lake.html</link>
+            <description>Met een prijs van 800 euro is de Aspire 14 AI de goedkoopste laptop met Intel Lunar Lake-processor. Maakt dat hem een aanrader?</description>
+            <author>Jelle Stuip</author>
+            <category>Quicktest / Computers / Laptops</category>
+            <comments>https://tweakers.net/reviews/13556/acer-aspire-14-ai-laptop-mooie-deal-voor-goedkoopste-lunar-lake.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13556</guid>
+            <pubDate>Mon, 04 Aug 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Quicktest - Biwin Black Opal X570H Pro 2TB - De ssd-fabrikant die nog niemand kent</title>
+            <link>https://tweakers.net/reviews/13522/biwin-black-opal-x570h-pro-2tb-de-ssd-fabrikant-die-nog-niemand-kent.html</link>
+            <description>In deze korte review speelt de Biwin Black Opal X570H Pro 2TB de hoofdrol. Nu hoor ik je denken: &quot;Biwin? Wie is dat, nooit van gehoord&quot;, maar dat gaat veranderen.</description>
+            <author>Willem de Moor</author>
+            <category>Quicktest / Computers / Interne SSD&#039;s</category>
+            <comments>https://tweakers.net/reviews/13522/biwin-black-opal-x570h-pro-2tb-de-ssd-fabrikant-die-nog-niemand-kent.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13522</guid>
+            <pubDate>Mon, 04 Aug 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Shutter Encoder 19.3</title>
+            <link>https://tweakers.net/downloads/73526/shutter-encoder-193.html</link>
+            <description>Shutter Encoder is een gratis programma waarmee videobestanden kunnen worden bewerkt en geconverteerd. Het heeft een uitgebreide lijst met mogelijkheden, te lang om hier op te noemen. De video onder dit artikel laat in het kort de belangrijkste zien. Het programma is beschikbaar voor Windows, macOS en Linux, en wordt actief ontwikkeld. Het toont geen advertenties, voegt geen watermerk toe en is ook in het Nederlands te gebruiken. De auteur leeft geheel van donaties. Versie 19.3 is beschikbaar gekomen en hierin zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 19.3:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73526/shutter-encoder-193.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73526</guid>
+            <pubDate>Sun, 03 Aug 2025 20:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - 7-Zip 25.01</title>
+            <link>https://tweakers.net/downloads/73524/7-zip-2501.html</link>
+            <description>Versie 25.01 van het opensourcearchiveringsprogramma 7-Zip is uitgebracht, een stabiele uitgave. Dit programma kan overweg met een groot aantal compressieformaten, waaronder ZIP, CAB, RAR, ARJ, LZH, CHM, gzip, bzip2, z, tar, cpio, RPM, deb en uiteraard het zelfontwikkelde 7z. Verder is de software in staat om ISO-bestanden en NSIS-installatiepakketten te openen. In deze uitgave is de manier hoe symbolische links worden afgehandeld aangepast. What&#039;s new in 7-Zip 25.01:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73524/7-zip-2501.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73524</guid>
+            <pubDate>Sun, 03 Aug 2025 18:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - OpenRCT2 0.4.25</title>
+            <link>https://tweakers.net/downloads/73522/openrct2-0425.html</link>
+            <description>Versie 0.4.25 van OpenRCT2 is uitgekomen, de opensourceversie van RollerCoaster Tycoon 2. Het project probeert zo veel mogelijk op het origineel te lijken, maar is in een moderne taal geschreven, wat uitbreidingen en verbeteringen mogelijk maakt. Het is hiermee vergelijkbaar met bijvoorbeeld OpenTTD en OpenRA. Om het te kunnen spelen, is het overigens wel noodzakelijk om het originele spel te hebben, want het heeft onder meer geluidsbestanden en de afbeeldingen nodig. De changelog voor deze uitgave, die de naam &#039;Peeps Falling from Buildings&#039; heeft meegekregen, is hieronder te vinden: New:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73522/openrct2-0425.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73522</guid>
+            <pubDate>Sun, 03 Aug 2025 16:21:23 +0200</pubDate>
+        </item>
+        <item>
+            <title>Instagram laat gebruikers met minder dan 1000 volgers niet meer livestreamen</title>
+            <link>https://tweakers.net/nieuws/237734/instagram-laat-gebruikers-met-minder-dan-1000-volgers-niet-meer-livestreamen.html</link>
+            <description>Instagram beperkt de livestreamfunctionaliteit tot gebruikers met minstens duizend volgers. Daarmee volgt de socialemediadienst het voorbeeld van TikTok, dat dezelfde beperking hanteert.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/237734/instagram-laat-gebruikers-met-minder-dan-1000-volgers-niet-meer-livestreamen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237734</guid>
+            <pubDate>Sun, 03 Aug 2025 12:49:35 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Ontwikkeling nieuwe BioShock verloopt stroef, remake van eerste game geschrapt&#039;</title>
+            <link>https://tweakers.net/nieuws/237732/ontwikkeling-nieuwe-bioshock-verloopt-stroef-remake-van-eerste-game-geschrapt.html</link>
+            <description>De ontwikkeling van de vierde game in de BioShock-serie loopt tegen problemen aan. Dat zeggen ingewijden tegen Jason Schreier van Bloomberg. Volgens de journalist is de ontwikkeling van een remake van de eerste BioShock onlangs geschrapt.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Gaming / Gameontwikkeling</category>
+            <comments>https://tweakers.net/nieuws/237732/ontwikkeling-nieuwe-bioshock-verloopt-stroef-remake-van-eerste-game-geschrapt.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237732</guid>
+            <pubDate>Sun, 03 Aug 2025 12:25:49 +0200</pubDate>
+        </item>
+        <item>
+            <title>Anthropic trekt OpenAI&#039;s toegang tot Claude-api in door schenden van voorwaarden</title>
+            <link>https://tweakers.net/nieuws/237730/anthropic-trekt-openais-toegang-tot-claude-api-in-door-schenden-van-voorwaarden.html</link>
+            <description>Anthropic heeft de toegang van OpenAI tot zijn Claude-AI-modellen ingetrokken. Volgens Anthropic heeft de ChatGPT-maker de gebruiksvoorwaarden geschonden, omdat OpenAI Claude gebruikte om zijn eigen modellen te verbeteren.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237730/anthropic-trekt-openais-toegang-tot-claude-api-in-door-schenden-van-voorwaarden.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237730</guid>
+            <pubDate>Sun, 03 Aug 2025 11:23:21 +0200</pubDate>
+        </item>
+        <item>
+            <title>Youtuber Perifractic is officieel eigenaar van Commodore nu financiering rond is</title>
+            <link>https://tweakers.net/nieuws/237728/youtuber-perifractic-is-officieel-eigenaar-van-commodore-nu-financiering-rond-is.html</link>
+            <description>Youtuber Perifractic is officieel de eigenaar van Commodore. De koopovereenkomsten zijn ondertekend en de financiering is voltooid. De videomaker wil het merk een nieuw leven inblazen door producten te maken die &#039;retro en futuristisch zijn&#039;.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237728/youtuber-perifractic-is-officieel-eigenaar-van-commodore-nu-financiering-rond-is.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237728</guid>
+            <pubDate>Sun, 03 Aug 2025 10:22:02 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google gaat &#039;actief gebruikte&#039; links naar URL-verkorter goo.gl toch behouden</title>
+            <link>https://tweakers.net/nieuws/237726/google-gaat-actief-gebruikte-links-naar-url-verkorter-goo-punt-gl-toch-behouden.html</link>
+            <description>Google stopt toch niet volledig met zijn URL-verkorter goo.gl. &#039;Actief gebruikte&#039; links die met deze tool zijn gemaakt, blijven ook na 25 augustus bereikbaar. Eerder gaf Google aan dat alle goo.gl-links zouden worden gedeactiveerd.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/237726/google-gaat-actief-gebruikte-links-naar-url-verkorter-goo-punt-gl-toch-behouden.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237726</guid>
+            <pubDate>Sun, 03 Aug 2025 09:31:19 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - Tony Hawk&#039;s Pro Skater 3 + 4 - Prima eerbetoon maar zelf geen classic</title>
+            <link>https://tweakers.net/reviews/13590/tony-hawks-pro-skater-3-+-4-prima-eerbetoon-maar-zelf-geen-classic.html</link>
+            <description>Tony Hawk&#039;s Pro Skater 3 + 4 zet twee oude classics op een moderne manier neer. Dat werkt goed genoeg, maar levert geen nieuwe klassieker op.</description>
+            <author>Jurian Ubachs</author>
+            <category>Review / Gaming / Games</category>
+            <comments>https://tweakers.net/reviews/13590/tony-hawks-pro-skater-3-+-4-prima-eerbetoon-maar-zelf-geen-classic.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13590</guid>
+            <pubDate>Sun, 03 Aug 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Firmware-update - SmartEVSE 3.9.1</title>
+            <link>https://tweakers.net/downloads/73520/smartevse-391.html</link>
+            <description>Als je zelf een laadpaal voor de elektrische auto in elkaar wilt knutselen, kun je meestal een hoop geld besparen. In dat geval heb je onder meer een controller nodig, bijvoorbeeld de opensource EVSE van fabrikant Stegen. Een randapparaat voor de SmartEVSE-controller is de Sensorbox: dit is een kastje dat de P1-telegrammen van je elektriciteitsmeter vertaalt naar modbusberichten, op basis waarvan de SmartEVSE zijn laadvermogen regelt. Voor diegenen die geen P1-aansluiting op hun elektriciteitsmeter hebben, zijn er ook aansluitingen voor CT-klemmen aanwezig op de Sensorbox. Door een goede samenwerking tussen community en fabrikant worden de communityversies na verloop van tijd overgenomen door de fabrikant, als de stabiliteit in de community is bewezen. In versie 3.9.1 zijn de volgende veranderingen en verbeteringen aangebracht: Changes:</description>
+            <author>Bart van Klaveren</author>
+            <category>Firmware</category>
+            <comments>https://tweakers.net/downloads/73520/smartevse-391.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73520</guid>
+            <pubDate>Sat, 02 Aug 2025 16:09:06 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - AnyDesk 9.5.11</title>
+            <link>https://tweakers.net/downloads/73518/anydesk-9511.html</link>
+            <description>Versie 9.5.11 van AnyDesk voor Windows is uitgekomen. Met dit programma, dat door oud-medewerkers van TeamViewer wordt ontwikkeld, kan een andere computer worden overgenomen om deze op afstand te beheren. Het programma is beschikbaar voor Windows, Linux, FreeBSD, macOS, Android en iOS, al zit niet elk platform op hetzelfde versienummer. Het is gratis voor thuisgebruik; voor commercieel gebruik beginnen de prijzen bij 23 euro per maand. Het maakt dan verder niet uit hoeveel updates er tussentijds uitkomen. De changelog sinds versie 9.5.7 voor Windows ziet er als volgt uit:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73518/anydesk-9511.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73518</guid>
+            <pubDate>Sat, 02 Aug 2025 13:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Amazon sluit advertenties in betaalde Alexa+-abonnementen niet uit</title>
+            <link>https://tweakers.net/nieuws/237724/amazon-sluit-advertenties-in-betaalde-alexa+-abonnementen-niet-uit.html</link>
+            <description>Amazon onderzoekt de mogelijkheid om advertenties aan te bieden in Alexa+, het betaalde abonnement voor de slimme assistent. Amazon-ceo Andy Jassy ziet &#039;mogelijkheden&#039; om advertenties te gebruiken om gebruikers meer producten te laten kopen via Alexa+.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Beeld en geluid / Smarthome</category>
+            <comments>https://tweakers.net/nieuws/237724/amazon-sluit-advertenties-in-betaalde-alexa+-abonnementen-niet-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237724</guid>
+            <pubDate>Sat, 02 Aug 2025 12:26:34 +0200</pubDate>
+        </item>
+        <item>
+            <title>TikTok ontslaat 150 moderators Berlijn, mogelijk ook voor Nederlandse content</title>
+            <link>https://tweakers.net/nieuws/237722/tiktok-ontslaat-150-moderators-berlijn-mogelijk-ook-voor-nederlandse-content.html</link>
+            <description>TikTok is van plan om 150 moderators in Berlijn te ontslaan. Daaronder vallen vermoedelijk ook veel moderators die Nederlandse content beoordelen. De banen worden deels door AI vervangen en deels uitbesteed aan externe bedrijven.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/237722/tiktok-ontslaat-150-moderators-berlijn-mogelijk-ook-voor-nederlandse-content.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237722</guid>
+            <pubDate>Sat, 02 Aug 2025 12:13:56 +0200</pubDate>
+        </item>
+        <item>
+            <title>Darksiders 4 is in ontwikkeling, speelt zich af na vorig deel</title>
+            <link>https://tweakers.net/nieuws/237720/darksiders-4-is-in-ontwikkeling-speelt-zich-af-na-vorig-deel.html</link>
+            <description>THQ Nordic werkt aan een nieuwe Darksiders-game. Deel 4 wordt ontwikkeld door Gunfire Games. Spelers spelen in de game als een van de Horsemen. Het verhaal gaat verder waar de vorige game eindigde, hoewel verdere details nog niet bekend zijn.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/237720/darksiders-4-is-in-ontwikkeling-speelt-zich-af-na-vorig-deel.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237720</guid>
+            <pubDate>Sat, 02 Aug 2025 11:45:19 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Ocenaudio 3.15.3</title>
+            <link>https://tweakers.net/downloads/73516/ocenaudio-3153.html</link>
+            <description>Versie 3.15.3 van Ocenaudio is uitgekomen. Dit gratis geluidsbewerkingsprogramma is van Braziliaanse bodem en heeft versies voor Windows, Linux en macOS. Het heeft uitgebreide mogelijkheden, zoals ondersteuning voor vst-plug-ins en het uitvoeren van een bewerking op verschillende plekken in een bestand tegelijk. Het openen en opslaan van bestanden gebeurt op de achtergrond, zodat het programma beschikbaar blijft. Verder is er een spectrumanalyzer aanwezig en het programma gaat zeer efficiënt om met geheugen. Het vergelijkbare Audacity heeft nog meer mogelijkheden en daardoor is Ocenaudio, zeker voor de beginnende gebruiker, net wat makkelijker te gebruiken. Sinds versie 3.15.1 zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 3.15.3:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73516/ocenaudio-3153.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73516</guid>
+            <pubDate>Sat, 02 Aug 2025 11:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nintendo verhoogt in VS prijzen van originele Switch-modellen</title>
+            <link>https://tweakers.net/nieuws/237710/nintendo-verhoogt-in-vs-prijzen-van-originele-switch-modellen.html</link>
+            <description>Nintendo verhoogt in de Verenigde Staten de prijzen van de originele Switch-modellen en van enkele accessoires. Het bedrijf geeft geen reden voor de prijsverhoging maar vooralsnog lijken de prijzen in Europa niet te veranderen.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Gaming / Consoles</category>
+            <comments>https://tweakers.net/nieuws/237710/nintendo-verhoogt-in-vs-prijzen-van-originele-switch-modellen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237710</guid>
+            <pubDate>Sat, 02 Aug 2025 10:45:01 +0200</pubDate>
+        </item>
+        <item>
+            <title>ChatGPT stopt met optie om chats door zoekmachines te laten indexeren</title>
+            <link>https://tweakers.net/nieuws/237718/chatgpt-stopt-met-optie-om-chats-door-zoekmachines-te-laten-indexeren.html</link>
+            <description>OpenAI stopt met een functie om ChatGPT-zoekgeschiedenissen door zoekmachines te laten indexeren. Het bedrijf draait een eerdere functie terug toen bleek dat ook gevoelige informatie in Google en andere zoekmachines verscheen.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/237718/chatgpt-stopt-met-optie-om-chats-door-zoekmachines-te-laten-indexeren.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237718</guid>
+            <pubDate>Sat, 02 Aug 2025 10:23:37 +0200</pubDate>
+        </item>
+        <item>
+            <title>Belastingdienst Curaçao is maandag weer operationeel na ransomwareaanval</title>
+            <link>https://tweakers.net/nieuws/237714/belastingdienst-curacao-is-maandag-weer-operationeel-na-ransomwareaanval.html</link>
+            <description>De Belastingdienst op Curaçao verwacht maandag weer volledig operationeel te zijn na een ransomwareaanval. De Belastingdienst werd vorige week getroffen door ransomware, waardoor de dienstverlening deels niet meer beschikbaar was. Details over de aanval zijn niet bekend.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/237714/belastingdienst-curacao-is-maandag-weer-operationeel-na-ransomwareaanval.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237714</guid>
+            <pubDate>Sat, 02 Aug 2025 09:27:18 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Windows Terminal 1.22.12111.0</title>
+            <link>https://tweakers.net/downloads/73514/windows-terminal-122121110.html</link>
+            <description>Microsoft heeft een update voor versie 1.22 van Windows Terminal uitgebracht. Windows Terminal wordt met Windows 11 meegeleverd en maakt het mogelijk om in een scherm met tabbladen onder meer een commandprompt, PowerShell, Windows PowerShell, WSL en Azure Cloud Shell te openen. Het programma heeft onder meer ondersteuning voor tabbladen, thema&#039;s en profielen. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Windows Terminal v1.22.12111.0</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73514/windows-terminal-122121110.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73514</guid>
+            <pubDate>Sat, 02 Aug 2025 09:03:10 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - Killing Floor 3 Review - Cultklassieker geïnfecteerd met mainstreamvirus</title>
+            <link>https://tweakers.net/reviews/13580/killing-floor-3-review-cultklassieker-geinfecteerd-met-mainstreamvirus.html</link>
+            <description>Killing Floor 3 heeft een lange weg afgelegd, maar nog niet lang genoeg. De game doet vrijwel alles net iets minder goed dan de voorganger.</description>
+            <author>Yannick Spinner</author>
+            <category>Review / Gaming / Games</category>
+            <comments>https://tweakers.net/reviews/13580/killing-floor-3-review-cultklassieker-geinfecteerd-met-mainstreamvirus.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13580</guid>
+            <pubDate>Sat, 02 Aug 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Community - Zo bouwde tweaker Ivan een unieke Nikon-verzameling van vijfhonderd camera’s</title>
+            <link>https://tweakers.net/reviews/13540/zo-bouwde-tweaker-ivan-een-unieke-nikon-verzameling-van-vijfhonderd-cameras.html</link>
+            <description>Ivan Andhyiswara deelt zijn passie voor fotografie, vertelt over zijn enorme Nikon-collectie en bespreekt de plus- en minpunten van analoge fotografie.</description>
+            <author>Yannick Spinner</author>
+            <category>.Community / IT Pro / Fotografie en video</category>
+            <comments>https://tweakers.net/reviews/13540/zo-bouwde-tweaker-ivan-een-unieke-nikon-verzameling-van-vijfhonderd-cameras.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13540</guid>
+            <pubDate>Sat, 02 Aug 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>VodafoneZiggo gaat downloadsnelheid van 2Gbit/s via Docsis 3.1 leveren</title>
+            <link>https://tweakers.net/nieuws/237712/vodafoneziggo-gaat-downloadsnelheid-van-2gbit-s-via-docsis-31-leveren.html</link>
+            <description>VodafoneZiggo is van plan om een downloadsnelheid van 2Gbit/s via zijn bestaande Docsis 3.1-platform te introduceren. De voorbereidingen hiervoor zijn volgens de operator &#039;in volle gang&#039;. In 2026 hoopt het bedrijf downloadsnelheden van 8Gbit/s via Docsis 4.0 leveren.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237712/vodafoneziggo-gaat-downloadsnelheid-van-2gbit-s-via-docsis-31-leveren.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237712</guid>
+            <pubDate>Fri, 01 Aug 2025 21:09:37 +0200</pubDate>
+        </item>
+        <item>
+            <title>Spanje onderzoekt of Apple ontwikkelaars verplicht prijsschema te volgen</title>
+            <link>https://tweakers.net/nieuws/237700/spanje-onderzoekt-of-apple-ontwikkelaars-verplicht-prijsschema-te-volgen.html</link>
+            <description>De Spaanse mededingingsautoriteit Comisión Nacional de los Mercados y la Competencia breidt haar onderzoek naar Apples App Store uit. De toezichthouder onderzoekt of Apple een prijsschema oplegt aan ontwikkelaars om hun apps in de App Store aan te kunnen bieden.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/237700/spanje-onderzoekt-of-apple-ontwikkelaars-verplicht-prijsschema-te-volgen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237700</guid>
+            <pubDate>Fri, 01 Aug 2025 20:06:39 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Zigbee2MQTT 2.6.0</title>
+            <link>https://tweakers.net/downloads/73512/zigbee2mqtt-260.html</link>
+            <description>Versie 2.6.0 van Zigbee2MQTT is uitgekomen. Zigbee2MQTT maakt het mogelijk om Zigbee-apparaten aan te sturen zonder gebruik te hoeven maken van de gateway of bridge van de fabrikant. Dit doet het door van MQTT gebruik te maken, waardoor het eenvoudig te integreren is in smarthomesoftware, zoals bijvoorbeeld Home Assistant, Homey of Domoticz. De changelog voor deze uitgave kan hieronder worden gevonden. Features</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73512/zigbee2mqtt-260.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73512</guid>
+            <pubDate>Fri, 01 Aug 2025 20:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Reddit zet plannen voor betaalde subreddits in de ijskast</title>
+            <link>https://tweakers.net/nieuws/237708/reddit-zet-plannen-voor-betaalde-subreddits-in-de-ijskast.html</link>
+            <description>Reddit heeft zijn plannen om betaalde subreddits te introduceren gepauzeerd, zegt ceo Steve Huffman tijdens de presentatie van de kwartaalcijfers. Huffman kondigde vorig jaar aan dat het bedrijf werkte aan de mogelijkheid om gebruikers te laten betalen voor toegang tot subreddits.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237708/reddit-zet-plannen-voor-betaalde-subreddits-in-de-ijskast.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237708</guid>
+            <pubDate>Fri, 01 Aug 2025 19:23:59 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google maakt Deep Think-model beschikbaar voor AI Ultra-abonnees</title>
+            <link>https://tweakers.net/nieuws/237706/google-maakt-deep-think-model-beschikbaar-voor-ai-ultra-abonnees.html</link>
+            <description>Google maakt het Gemini 2.5 Pro Deep Think-redeneermodel beschikbaar voor Google AI Ultra-abonnees, meldt het bedrijf. Het model maakt volgens Google gebruik van parallelle denktechnieken om creatievere en meer doordachte antwoorden te geven.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237706/google-maakt-deep-think-model-beschikbaar-voor-ai-ultra-abonnees.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237706</guid>
+            <pubDate>Fri, 01 Aug 2025 18:46:19 +0200</pubDate>
+        </item>
+        <item>
+            <title>Apple heeft meer dan drie miljard iPhones verkocht</title>
+            <link>https://tweakers.net/nieuws/237702/apple-heeft-meer-dan-drie-miljard-iphones-verkocht.html</link>
+            <description>Apple heeft de drie miljardste iPhone verkocht, maakte ceo Tim Cook bekend tijdens de presentatie van de kwartaalcijfers. In 2016 verkocht het bedrijf zijn miljardste iPhone. Analisten schatten dat Apple in 2021 de grens van twee miljard verkochte iPhones bereikte.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/237702/apple-heeft-meer-dan-drie-miljard-iphones-verkocht.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237702</guid>
+            <pubDate>Fri, 01 Aug 2025 18:01:03 +0200</pubDate>
+        </item>
+        <item>
+            <title>Youfone verhoogt prijzen van sommige abonnementen, maar ook databundels</title>
+            <link>https://tweakers.net/nieuws/237680/youfone-verhoogt-prijzen-van-sommige-abonnementen-maar-ook-databundels.html</link>
+            <description>Youfone gaat de prijzen van in ieder geval sommige abonnementen verhogen. Daarbij stijgt ook de maximale databundel van gebruikers.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
+            <comments>https://tweakers.net/nieuws/237680/youfone-verhoogt-prijzen-van-sommige-abonnementen-maar-ook-databundels.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237680</guid>
+            <pubDate>Fri, 01 Aug 2025 16:33:14 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - FastStone Image Viewer 8.1</title>
+            <link>https://tweakers.net/downloads/73510/faststone-image-viewer-81.html</link>
+            <description>FastStone Soft heeft versie 8.1 van zijn programma Image Viewer uitgebracht. FastStone Image Viewer is gratis voor thuisgebruik, klein en snel, en zit boordevol doordachte functionaliteit voor het bekijken van afbeeldingen en het uitvoeren van eenvoudige bewerkingen, zoals roteren (lossless voor jpeg), uitsnijden, vergroten en verkleinen, verwijderen van het rodeogeneffect, draaien van de foto om een scheve horizon te corrigeren, en aanpassen van kleuren, contrast en helderheid. De gebruikersinterface is meertalig en onder andere in het Nederlands te gebruiken. Ook kan het video&#039;s afspelen. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 8.1</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73510/faststone-image-viewer-81.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73510</guid>
+            <pubDate>Fri, 01 Aug 2025 16:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Microsoft stopt ondersteuning van onderwijsbesturingssysteem Windows 11 SE</title>
+            <link>https://tweakers.net/nieuws/237698/microsoft-stopt-ondersteuning-van-onderwijsbesturingssysteem-windows-11-se.html</link>
+            <description>Microsoft stopt met Windows 11 SE, een Windows-versie die bedoeld is voor gebruik in het onderwijs. Dat OS verscheen in 2021, maar Microsoft beëindigt de ondersteuning in oktober 2026. De apparaten blijven dan wel bruikbaar, maar zijn minder veilig.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Besturingssystemen</category>
+            <comments>https://tweakers.net/nieuws/237698/microsoft-stopt-ondersteuning-van-onderwijsbesturingssysteem-windows-11-se.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237698</guid>
+            <pubDate>Fri, 01 Aug 2025 16:10:14 +0200</pubDate>
+        </item>
+    </channel>
+</rss>
