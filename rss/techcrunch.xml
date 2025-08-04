@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Fri, 01 Aug 2025 14:36:12 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 03 Aug 2025 21:49:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,15 +28,340 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Truecaller&#8217;s call recording feature won&#8217;t work on iPhones from Sept. 30</title>
-		<link>https://techcrunch.com/2025/08/01/truecallers-call-recording-feature-wont-work-on-iphones-from-sept-30/</link>
+		<title>Apple might be building its own AI ‘answer engine’</title>
+		<link>https://techcrunch.com/2025/08/03/apple-might-be-building-its-own-ai-answer-engine/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sun, 03 Aug 2025 21:49:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[siri]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3033644</guid>
+
+					<description><![CDATA[Apple is reportedly working to create a lightweight competitor to ChatGPT. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mastercard denies pressuring game platforms, Valve tells a different story</title>
+		<link>https://techcrunch.com/2025/08/03/mastercard-denies-pressuring-game-platforms-valve-tells-a-different-story/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sun, 03 Aug 2025 21:29:14 +0000</pubDate>
+				<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[itch.io]]></category>
+		<category><![CDATA[mastercard]]></category>
+		<category><![CDATA[Steam]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3033642</guid>
+
+					<description><![CDATA[Mastercard seemingly denied playing a role in a recent marketplace crackdown on games with adult content, while Valve says the pressure was indirect.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SAP is acquiring SmartRecruiters</title>
+		<link>https://techcrunch.com/2025/08/03/sap-is-acquiring-smartrecruiters/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sun, 03 Aug 2025 17:12:51 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[sap]]></category>
+		<category><![CDATA[smartrecruiters]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3033639</guid>
+
+					<description><![CDATA[SAP has reached an agreement to acquire SmartRecruiters, with SmartRecruiters' software complementing SAP's existing HR tools.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Inside OpenAI’s quest to make AI do anything for you</title>
+		<link>https://techcrunch.com/2025/08/03/inside-openais-quest-to-make-ai-do-anything-for-you/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Sun, 03 Aug 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[agents]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3033326</guid>
+
+					<description><![CDATA[OpenAI developed the first AI reasoning model less than a year ago, but the technology has shifted Silicon Valley's focus to agents.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The uproar over Vogue&#8217;s AI-generated ad isn&#8217;t just about fashion</title>
+		<link>https://techcrunch.com/2025/08/03/the-uproar-over-vogues-ai-generated-ad-isnt-just-about-fashion/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan, Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Sun, 03 Aug 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fashion]]></category>
+		<category><![CDATA[vogue]]></category>
+		<category><![CDATA[guess]]></category>
+		<category><![CDATA[digital fashion models]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3033447</guid>
+
+					<description><![CDATA[“Modeling as a profession is already challenging enough without having to compete with now new digital standards of perfection that can be achieved with AI,” Sarah Murray told TechCrunch.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tim Cook reportedly tells employees Apple &#8216;must&#8217; win in AI</title>
+		<link>https://techcrunch.com/2025/08/02/tim-cook-reportedly-tells-employees-apple-must-win-in-ai/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sat, 02 Aug 2025 21:21:22 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Tim Cook]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3033612</guid>
+
+					<description><![CDATA[Apple CEO Tim Cook held an hourlong all-hands meeting in which he told employees that the company needs to win in AI: "Apple must do this. Apple will do this."]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Lina Khan points to Figma IPO as vindication of M&#038;A scrutiny</title>
+		<link>https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sat, 02 Aug 2025 20:58:52 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Figma]]></category>
+		<category><![CDATA[Lina Khan]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3033605</guid>
+
+					<description><![CDATA[A surprising figure is celebrating Figma’s successful IPO: Lina Khan, former chair of the Federal Trade Commission, who said the offering demonstrates the value of "letting startups grow into independently successful businesses."]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anthropic cuts off OpenAI’s access to its Claude models</title>
+		<link>https://techcrunch.com/2025/08/02/anthropic-cuts-off-openais-access-to-its-claude-models/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sat, 02 Aug 2025 16:55:12 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3033593</guid>
+
+					<description><![CDATA[Anthropic has cut off one of its biggest competitors, revoking OpenAI’s access to its Claude family of AI models.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>What founders should think about if looking to raise a Series C</title>
+		<link>https://techcrunch.com/2025/08/02/what-founders-should-think-about-if-looking-to-raise-a-series-c/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Sat, 02 Aug 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Venture]]></category>
+		<category><![CDATA[fundraising]]></category>
+		<category><![CDATA[series C]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[venture]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3031837</guid>
+
+					<description><![CDATA[And it starts with a reality check, according to Sapphire Ventures partner Cathy Gao.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Venture firm CRV raises $750M, downsizing after returning capital to investors</title>
+		<link>https://techcrunch.com/2025/08/01/venture-firm-crv-raises-750m-downsizing-after-returning-capital-to-investors/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Fri, 01 Aug 2025 23:22:03 +0000</pubDate>
+				<category><![CDATA[Venture]]></category>
+		<category><![CDATA[CRV]]></category>
+		<category><![CDATA[early stage venture]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3033541</guid>
+
+					<description><![CDATA[The 55-year-old VC firm announced its twentieth fund. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Kleiner Perkins is having a very good week</title>
+		<link>https://techcrunch.com/2025/08/01/kleiner-perkins-is-having-a-very-good-week/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Fri, 01 Aug 2025 22:04:04 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Figma]]></category>
+		<category><![CDATA[IPOs]]></category>
+		<category><![CDATA[Kleiner Perkins]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3033386</guid>
+
+					<description><![CDATA[With two IPOs this week alone, Kleiner Perkins partner Mamoon Hamid has reason to celebrate.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>A backlog at the Commerce Department is reportedly stalling Nvidia&#8217;s H20 chip licenses</title>
+		<link>https://techcrunch.com/2025/08/01/a-backlog-at-the-commerce-department-is-reportedly-stalling-nvidias-h20-chip-licenses/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Fri, 01 Aug 2025 20:30:14 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[chips]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<category><![CDATA[semiconductors]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3033477</guid>
+
+					<description><![CDATA[News of a backlog at the U.S. federal department comes less than a week after national security experts urged the Trump administration to reverse its decision that allows Nvidia to export H20 chips to China. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tesla partly liable in Florida Autopilot trial, jury awards $200M in damages</title>
+		<link>https://techcrunch.com/2025/08/01/tesla-partly-liable-in-florida-autopilot-trial-jury-awards-200m-in-damages/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Fri, 01 Aug 2025 18:24:42 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<category><![CDATA[Autopilot]]></category>
+		<category><![CDATA[advanced driver assistance systems]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3033400</guid>
+
+					<description><![CDATA[The jury verdict is one of the first major legal decisions about driver assistance technology that has gone against Tesla. Both Elon Musk and Tesla have spent years making claims about Autopilot's capabilities.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google bets on STAN, an Indian social gaming platform</title>
+		<link>https://techcrunch.com/2025/08/01/google-bets-on-stan-an-indian-social-gaming-platform/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Fri, 01 Aug 2025 17:05:45 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Stan]]></category>
+		<category><![CDATA[Google AI Futures Fund]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3032901</guid>
+
+					<description><![CDATA[STAN, headquartered in Singapore, is trying to position itself as a gaming community platform to rival Discord, but its approach to the market is quite different.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nintendo raising original Switch console prices due to &#8216;market conditions&#8217;</title>
+		<link>https://techcrunch.com/2025/08/01/nintendo-raising-original-switch-console-prices-due-to-market-conditions/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Fri, 01 Aug 2025 16:42:35 +0000</pubDate>
+				<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Nintendo]]></category>
+		<category><![CDATA[Nintendo Switch]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3033317</guid>
+
+					<description><![CDATA[Nintendo wouldn't say what the "market conditions" were, but likely reference President Trump's tariffs, which are increasing costs for U.S. consumers.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>More details emerge on how Windsurf’s VCs and founders got paid from the Google deal</title>
+		<link>https://techcrunch.com/2025/08/01/more-details-emerge-on-how-windsurfs-vcs-and-founders-got-paid-from-the-google-deal/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Fri, 01 Aug 2025 16:00:00 +0000</pubDate>
+				<category><![CDATA[Venture]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[General Catalyst]]></category>
+		<category><![CDATA[Kleiner Perkins]]></category>
+		<category><![CDATA[M&A]]></category>
+		<category><![CDATA[Greenoaks Capital]]></category>
+		<category><![CDATA[Windsurf]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3033274</guid>
+
+					<description><![CDATA[VCs and founders took much of the $2.4 billion, but money was left for a payout to all employees, sources say.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fundamental Research Labs nabs $30M+ to build AI agents across verticals</title>
+		<link>https://techcrunch.com/2025/08/01/fundamental-research-labs-nabs-33-million-from-prosus-to-build-ai-agents-for-multiple-verticals/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Fri, 01 Aug 2025 15:15:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[a16z speedrun]]></category>
+		<category><![CDATA[AI agents]]></category>
+		<category><![CDATA[MIT]]></category>
+		<category><![CDATA[Prosus Ventures]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3032713</guid>
+
+					<description><![CDATA[Fundamental Research Labs is releasing multiple AI products related to gaming and productivity. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Sex toy maker Lovense threatens legal action after fixing security flaws that exposed users&#8217; data</title>
+		<link>https://techcrunch.com/2025/08/01/sex-toy-maker-lovense-threatens-legal-action-after-fixing-security-flaws-that-exposed-users-data/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Fri, 01 Aug 2025 14:55:53 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data protection]]></category>
+		<category><![CDATA[hardware]]></category>
+		<category><![CDATA[lovense]]></category>
+		<category><![CDATA[privacy]]></category>
+		<category><![CDATA[sex toys]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3033296</guid>
+
+					<description><![CDATA[The internet-connected sex toy maker said it fixed the vulnerabilities that exposed users' private email addresses and accounts to takeovers, but said it was also planning to take legal action following the disclosure.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Truecaller&#8217;s call-recording feature won&#8217;t work on iPhones from September 30</title>
+		<link>https://techcrunch.com/2025/08/01/truecallers-call-recording-feature-wont-work-on-iphones-from-september-30/</link>
 		
 		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
 		<pubDate>Fri, 01 Aug 2025 14:36:07 +0000</pubDate>
 				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[call recording]]></category>
 		<category><![CDATA[iPhone]]></category>
 		<category><![CDATA[Truecaller]]></category>
+		<category><![CDATA[call recording]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3033248</guid>
 
 					<description><![CDATA[The app's call recording feature will no longer be available on iPhones starting September 30. Users with saved call recordings can either download them to their devices, share them via email or messaging apps, or switch their storage preference to iCloud to keep the recordings accessible.]]></description>
@@ -52,346 +377,12 @@
 		<pubDate>Fri, 01 Aug 2025 14:30:11 +0000</pubDate>
 				<category><![CDATA[Apps]]></category>
 		<category><![CDATA[Social]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<category><![CDATA[TikTok]]></category>
 		<category><![CDATA[tiktok pro]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3033271</guid>
 
 					<description><![CDATA[The app features TikTok's new "Sunshine Programme," which allows users to support charitable organizations. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Term sheets, traction, and truth bombs: inside the Series A mindset at TechCrunch Disrupt 2025</title>
-		<link>https://techcrunch.com/2025/08/01/term-sheets-traction-and-truth-bombs-inside-the-series-a-mindset-at-techcrunch-disrupt-2025/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Fri, 01 Aug 2025 14:30:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[tc disrupt]]></category>
-		<category><![CDATA[TechCrunch Disrupt]]></category>
-		<category><![CDATA[TechCrunch Disrupt 2025]]></category>
-		<category><![CDATA[TC Disrupt 2025]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3032891</guid>
-
-					<description><![CDATA[At TechCrunch Disrupt 2025, taking place October 27–29 at Moscone West in San Francisco, we’re getting real about what it takes to land a Series A in today’s market — no smoke, no mirrors, just the unfiltered perspective from the people signing the checks. Series A has changed — here’s how to win in 2026 [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI reportedly raises $8.3B at $300B valuation</title>
-		<link>https://techcrunch.com/2025/08/01/openai-reportedly-raises-8-3b-at-300b-valuation/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Fri, 01 Aug 2025 14:09:14 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3033262</guid>
-
-					<description><![CDATA[The oversubscribed round came months ahead of schedule, and is part of OpenAI's strategy to raise $40 billion.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Instagram now requires users to have at least 1,000 followers to go live</title>
-		<link>https://techcrunch.com/2025/08/01/instagram-now-requires-users-to-have-at-least-1000-followers-to-go-live/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Fri, 01 Aug 2025 14:00:43 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Instagram]]></category>
-		<category><![CDATA[TikTok]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3033252</guid>
-
-					<description><![CDATA[Until now, Instagram allowed anyone to go live, regardless of their follower count or whether their account was public or private.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The new face of defense tech — Ethan Thornton of Mach Industries — takes the AI stage at TechCrunch Disrupt 2025</title>
-		<link>https://techcrunch.com/2025/08/01/the-new-face-of-defense-tech-takes-the-ai-stage-at-techcrunch-disrupt-2025/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Fri, 01 Aug 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[tc disrupt]]></category>
-		<category><![CDATA[TechCrunch Disrupt]]></category>
-		<category><![CDATA[TechCrunch Disrupt 2025]]></category>
-		<category><![CDATA[TC Disrupt 2025]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3032968</guid>
-
-					<description><![CDATA[Autonomous weapons, decentralized strategy, and startup speed — this isn’t the future of defense, it’s the now. At TechCrunch Disrupt 2025, Ethan Thornton, CEO and founder of Mach Industries, steps onto the AI Stage to talk about how next-gen defense is being built from the ground up with AI at its core. Inside the AI [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>This Detroit startup is turning to utilities to make home efficiency upgrades cheaper</title>
-		<link>https://techcrunch.com/2025/08/01/this-detroit-startup-is-turning-to-utilities-to-make-home-efficiency-upgrades-cheaper/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Fri, 01 Aug 2025 13:32:04 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[energy efficiency]]></category>
-		<category><![CDATA[heat pumps]]></category>
-		<category><![CDATA[housing]]></category>
-		<category><![CDATA[solar panels]]></category>
-		<category><![CDATA[utilities]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3033125</guid>
-
-					<description><![CDATA[Investors have bought into Pearl Edison's idea and recently poured $3 .3 million into the startup. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Vast Data in talks with Alphabet&#8217;s CapitalG, Nvidia to fund round at up to $30B valuation</title>
-		<link>https://techcrunch.com/2025/08/01/vast-data-in-talks-with-alphabets-capitalg-nvidia-to-fund-round-at-up-to-30b-valuation/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Fri, 01 Aug 2025 13:21:26 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[ai data centers]]></category>
-		<category><![CDATA[CapitalG]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<category><![CDATA[VAST Data]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3033240</guid>
-
-					<description><![CDATA[The round could make the AI data storage company one of the most valuable in the world. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Authorities seize BlackSuit ransomware gang&#8217;s servers</title>
-		<link>https://techcrunch.com/2025/08/01/authorities-seize-blacksuit-ransomware-gangs-servers/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Fri, 01 Aug 2025 13:21:15 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[extortion]]></category>
-		<category><![CDATA[Germany]]></category>
-		<category><![CDATA[ICE]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3033238</guid>
-
-					<description><![CDATA[German authorities said they have seized the servers used by the long-running ransomware gang, BlackSuit, which is blamed for cyberattacks across Europe and the U.S., including the City of Dallas. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Klarna might reschedule its IPO for September</title>
-		<link>https://techcrunch.com/2025/08/01/klarna-might-reschedule-its-ipo-for-september/</link>
-		
-		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
-		<pubDate>Fri, 01 Aug 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[IPO]]></category>
-		<category><![CDATA[Klarna]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3033126</guid>
-
-					<description><![CDATA[Details are slim, though, regarding when Klarna will schedule its debut; no final decisions have been made. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>VC industry has become a better career for women over the past 7 years</title>
-		<link>https://techcrunch.com/2025/08/01/vc-industry-has-become-a-better-career-for-women-over-the-past-7-years/</link>
-		
-		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
-		<pubDate>Fri, 01 Aug 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Venture]]></category>
-		<category><![CDATA[VC]]></category>
-		<category><![CDATA[DEI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3033128</guid>
-
-					<description><![CDATA[All Raise released a report that said 18.6% of the top roles at leading VC firms are held by women, which is double what it was in 2018. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Reddit plans to unify its search interface as it looks to become a search engine</title>
-		<link>https://techcrunch.com/2025/08/01/reddit-plans-to-unify-its-search-interface-as-it-looks-to-become-a-search-engine/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Fri, 01 Aug 2025 12:04:38 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[AI search]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[Reddit]]></category>
-		<category><![CDATA[steve huffman]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3033215</guid>
-
-					<description><![CDATA[Reddit is working on a new unified interface that will merge its legacy search and AI-powered Q&#038;A features, as well as make its search box more prominently visible in the app.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Joby Aviation and defense contractor L3Harris to test autonomous hybrid aircraft</title>
-		<link>https://techcrunch.com/2025/08/01/joby-aviation-and-defense-contractor-l3harris-to-test-a-new-class-of-aircraft/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
-		<pubDate>Fri, 01 Aug 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[defense tech]]></category>
-		<category><![CDATA[VTOLs]]></category>
-		<category><![CDATA[Joby Aviation]]></category>
-		<category><![CDATA[L3Harris]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3033057</guid>
-
-					<description><![CDATA[Joby's years of R&#038;D with the DoD may be paying off. The company has signed an agreement with defense contractor L3Harris to develop a gas-turbine hybrid VTOL that can fly autonomously — for defense applications.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google rolls out Gemini Deep Think AI, a reasoning model that tests multiple ideas in parallel</title>
-		<link>https://techcrunch.com/2025/08/01/google-rolls-out-gemini-deep-think-ai-a-reasoning-model-that-tests-multiple-ideas-in-parallel/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Fri, 01 Aug 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[agents]]></category>
-		<category><![CDATA[gemini]]></category>
-		<category><![CDATA[Google]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3033157</guid>
-
-					<description><![CDATA[Google released its first publicly available "multi-agent" AI system, which uses more computational resources, but produces better answers.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Handwave lends a hand to retailers with its European alternative to Amazon&#8217;s palm payments</title>
-		<link>https://techcrunch.com/2025/07/31/handwave-lends-a-hand-to-retailers-with-its-european-alternative-to-amazons-palm-payments/</link>
-		
-		<dc:creator><![CDATA[Anna Heim]]></dc:creator>
-		<pubDate>Fri, 01 Aug 2025 06:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[amazon one]]></category>
-		<category><![CDATA[Latvia]]></category>
-		<category><![CDATA[handwave]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3033005</guid>
-
-					<description><![CDATA[Latvian startup Handwave aims to compete with Amazon palm payments by offering an independent alternative.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Female-founded semiconductor AI startup SixSense raises $8.5M</title>
-		<link>https://techcrunch.com/2025/07/31/female-founded-semiconductor-ai-startup-sixsense-raises-funding/</link>
-		
-		<dc:creator><![CDATA[Kate Park]]></dc:creator>
-		<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Singapore]]></category>
-		<category><![CDATA[SixSense]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3032700</guid>
-
-					<description><![CDATA[SixSense offers an AI-powered platform that helps chip makers prevent defects. It landed backing led by Peak XV’s Surge (formerly Sequoia India &#038; SEA).]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Amazon CEO wants to put ads in your Alexa+ conversations</title>
-		<link>https://techcrunch.com/2025/07/31/amazon-ceo-wants-to-put-ads-in-your-alexa-conversations/</link>
-		
-		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
-		<pubDate>Thu, 31 Jul 2025 23:34:53 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[alexa+]]></category>
-		<category><![CDATA[Amazon]]></category>
-		<category><![CDATA[earnings]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3033095</guid>
-
-					<description><![CDATA[Andy Jassy's description of an AI-generated ad that Alexa+ delivers in a multistep conversation, which could help users find new products, is uncharted territory for Amazon and the broader tech industry. 
-
-
-
-
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple projects tariff costs will hit $1.1B next quarter</title>
-		<link>https://techcrunch.com/2025/07/31/apple-projects-tariff-costs-will-hit-1-1b-next-quarter/</link>
-		
-		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
-		<pubDate>Thu, 31 Jul 2025 23:25:27 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[earnings]]></category>
-		<category><![CDATA[Tariffs]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3033143</guid>
-
-					<description><![CDATA[While sales growth suggests fear of tariffs helped fuel sales, Cook downplayed the “pull forward” effect, noting that consumers were more motivated by the “strength of the product.”]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Reddit revenue soars as it bets on AI and advertising</title>
-		<link>https://techcrunch.com/2025/07/31/reddit-revenue-soars-as-it-bets-on-ai-and-advertising/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Thu, 31 Jul 2025 22:13:23 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Reddit]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3033110</guid>
-
-					<description><![CDATA[Reddit reported its Q2 earnings, and it’s clear that its focus on AI has ramped up significantly.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple has now sold 3 billion iPhones</title>
-		<link>https://techcrunch.com/2025/07/31/apple-has-now-sold-three-billion-iphones/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Thu, 31 Jul 2025 21:35:04 +0000</pubDate>
-				<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[iPhone]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3033061</guid>
-
-					<description><![CDATA[The rate of iPhone sales growth has accelerated too. This uptick in sales might be temporary, though. ]]></description>
 		
 		
 		
