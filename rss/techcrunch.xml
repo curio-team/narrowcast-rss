@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 04 Aug 2025 13:42:05 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 04 Aug 2025 13:57:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,21 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Spotify raises subscription prices</title>
+		<link>https://techcrunch.com/2025/08/04/spotify-raises-subscription-prices/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Mon, 04 Aug 2025 13:43:59 +0000</pubDate>
+				<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Spotify]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3033689</guid>
+
+					<description><![CDATA[Spotify is raising prices for users in some international markets after a rough quarterly earnings report.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Amazon shuts down Wondery podcast studio, cuts 110 jobs</title>
 		<link>https://techcrunch.com/2025/08/04/amazon-shuts-down-wondery-podcast-studio-cuts-110-jobs/</link>
 		
@@ -69,16 +84,16 @@
 		
 		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
 		<pubDate>Mon, 04 Aug 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Robotics]]></category>
+				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[fundraising]]></category>
-		<category><![CDATA[robotics]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[humanoids]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Startups]]></category>
 		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[fundraising]]></category>
+		<category><![CDATA[humanoids]]></category>
 		<category><![CDATA[OpenMind]]></category>
+		<category><![CDATA[robotics]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3033453</guid>
 
 					<description><![CDATA[OpenMind is building humanoid robot operating software designed for robots that interact with people and other robots. ]]></description>
@@ -358,25 +373,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3033400</guid>
 
 					<description><![CDATA[The jury verdict is one of the first major legal decisions about driver assistance technology that has gone against Tesla. Both Elon Musk and Tesla have spent years making claims about Autopilot's capabilities.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google bets on STAN, an Indian social gaming platform</title>
-		<link>https://techcrunch.com/2025/08/01/google-bets-on-stan-an-indian-social-gaming-platform/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Fri, 01 Aug 2025 17:05:45 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Gaming]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[Stan]]></category>
-		<category><![CDATA[Google AI Futures Fund]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3032901</guid>
-
-					<description><![CDATA[STAN, headquartered in Singapore, is trying to position itself as a gaming community platform to rival Discord, but its approach to the market is quite different.]]></description>
 		
 		
 		
