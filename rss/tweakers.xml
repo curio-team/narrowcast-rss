@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 04 Aug 2025 11:41:01 +0200</pubDate>
-        <lastBuildDate>Mon, 04 Aug 2025 11:41:01 +0200</lastBuildDate>
+        <pubDate>Mon, 04 Aug 2025 12:36:09 +0200</pubDate>
+        <lastBuildDate>Mon, 04 Aug 2025 12:36:09 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Gigabyte verwijdert PCIe 5.0-ondersteuning voor gpu&#039;s op B650-moederborden</title>
+            <link>https://tweakers.net/nieuws/237744/gigabyte-verwijdert-pcie-50-ondersteuning-voor-gpus-op-b650-moederborden.html</link>
+            <description>Gigabyte heeft de onofficiële ondersteuning voor PCIe 5.0 voor videokaarten verwijderd uit zijn B650-moederborden. Met de recente biosupdate is die onofficiële Gen 5-optie niet meer in de instellingen te zien, al heeft Gigabyte daar zelf publiek niets over gezegd.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Moederborden</category>
+            <comments>https://tweakers.net/nieuws/237744/gigabyte-verwijdert-pcie-50-ondersteuning-voor-gpus-op-b650-moederborden.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237744</guid>
+            <pubDate>Mon, 04 Aug 2025 12:17:57 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Flameshot 13.0.0</title>
             <link>https://tweakers.net/downloads/73532/flameshot-1300.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/237696/nvidia-stopt-in-oktober-2026-met-alle-driverupdates-voor-windows-10.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237696</guid>
             <pubDate>Fri, 01 Aug 2025 15:15:34 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - AIMP 5.40 build 2689</title>
-            <link>https://tweakers.net/downloads/73508/aimp-540-build-2689.html</link>
-            <description>Er is een nieuwe versie van AIMP uitgekomen. Deze gratis, lichtgewicht mediaspeler van Russische makelij heeft ondersteuning voor de populairste muziekformaten. Het uiterlijk heeft wat weg van het bekende Winamp en is door middel van skins aan te passen. AIMP heeft een 18-kanaalsequalizer aan boord en ondersteunt plug-ins. Verder kan het programma cd&#039;s rippen, muziekbestanden converteren en tags bewerken. Hieronder is de changelog voor deze uitgave te vinden.</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73508/aimp-540-build-2689.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73508</guid>
-            <pubDate>Fri, 01 Aug 2025 15:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
