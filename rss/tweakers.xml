@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 04 Aug 2025 16:36:02 +0200</pubDate>
-        <lastBuildDate>Mon, 04 Aug 2025 16:36:02 +0200</lastBuildDate>
+        <pubDate>Tue, 05 Aug 2025 09:36:02 +0200</pubDate>
+        <lastBuildDate>Tue, 05 Aug 2025 09:36:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,137 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Gerucht: AMD werkt aan Ryzen 9 9950X3D-variant met dubbel zoveel 3D V-Cache</title>
+            <link>https://tweakers.net/nieuws/237768/gerucht-amd-werkt-aan-ryzen-9-9950x3d-variant-met-dubbel-zoveel-3d-v-cache.html</link>
+            <description>AMD werkt mogelijk aan een nieuw Ryzen 9000X3D-topmodel. De cpu zou beschikken over zestien Zen 5-cores, net als de huidige Ryzen 9 9950X3D, maar krijgt een hogere tdp en dubbel zoveel 3D V-Cache. Het is niet bekend wanneer de cpu uitkomt.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/237768/gerucht-amd-werkt-aan-ryzen-9-9950x3d-variant-met-dubbel-zoveel-3d-v-cache.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237768</guid>
+            <pubDate>Tue, 05 Aug 2025 09:24:08 +0200</pubDate>
+        </item>
+        <item>
+            <title>Driver-update - AMD Radeon Software Adrenalin Edition 25.8.1</title>
+            <link>https://tweakers.net/downloads/73536/amd-radeon-software-adrenalin-edition-2581.html</link>
+            <description>AMD heeft een nieuwe versie van zijn Radeon Software Adrenalin Edition-drivers uitgebracht. De drivers zijn geschikt voor de RX 5000-, RX 6000, RX 7000 en RX9000-serie. In versie 25.8.1 heeft AMD onder meer ondersteuning voor de Radeon RX 9060 toegevoegd. Verder zijn er verbeteringen voor diverse spellen aangebracht en is de lijst met spellen die van FSR 4 gebruik kunnen maken met zeven titels uitgebreid. De complete changelog voor deze uitgave kan hieronder worden gevonden. New Product Support</description>
+            <author>Bart van Klaveren</author>
+            <category>Driver</category>
+            <comments>https://tweakers.net/downloads/73536/amd-radeon-software-adrenalin-edition-2581.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73536</guid>
+            <pubDate>Tue, 05 Aug 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Firmware-update - Asuswrt-Merlin 3006.102.5</title>
+            <link>https://tweakers.net/downloads/73534/asuswrt-merlin-30061025.html</link>
+            <description>Asus gebruikt voor zijn routers, zoals de RT-AC68 en RT-AX88, een van Tomato afgeleide firmware met de naam Asuswrt. Deze firmware is, op enkele drivers na, opensource, waarbij de gesloten binaries wel meegeleverd worden. Asuswrt-Merlin is op zijn beurt een aangepaste versie van de originele firmware van Asus. Het bevat onder meer bugfixes en kleine verbeteringen, maar probeert toch dicht bij het origineel te blijven, zodat het mogelijk blijft om nieuwe features die Asus introduceert, toe te voegen aan de code. Versie 3006.102.5 is uitgekomen en hierin zijn de volgende veranderingen en verbeteringen aangebracht: Note:</description>
+            <author>Bart van Klaveren</author>
+            <category>Firmware</category>
+            <comments>https://tweakers.net/downloads/73534/asuswrt-merlin-30061025.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73534</guid>
+            <pubDate>Tue, 05 Aug 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - Nvidia GeForce RTX 5050 Review - Om de 5060 aantrekkelijk te doen lijken</title>
+            <link>https://tweakers.net/reviews/13594/nvidia-geforce-rtx-5050-review-om-de-5060-aantrekkelijk-te-doen-lijken.html</link>
+            <description>De GeForce RTX 5050, Nvidia&#039;s goedkoopste videokaart van deze generatie, is gericht op 1080p-gaming en opgebouwd rondom de GB207-gpu, de allerkleinste Blackwell-chip.</description>
+            <author>Reinoud Dik</author>
+            <category>Review / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/reviews/13594/nvidia-geforce-rtx-5050-review-om-de-5060-aantrekkelijk-te-doen-lijken.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13594</guid>
+            <pubDate>Tue, 05 Aug 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Duizenden hotels sluiten zich aan bij massaclaim tegen Booking om prijsclausule</title>
+            <link>https://tweakers.net/nieuws/237764/duizenden-hotels-sluiten-zich-aan-bij-massaclaim-tegen-booking-om-prijsclausule.html</link>
+            <description>Meer dan 10.000 hotels hebben zich aangesloten bij een massaclaim tegen Booking.com. Zij stellen dat de prijsvergelijker de Europese concurrentieregels heeft overtreden met oneerlijke prijsclausules. Dit is de tweede massaclaim die momenteel tegen Booking.com loopt.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/237764/duizenden-hotels-sluiten-zich-aan-bij-massaclaim-tegen-booking-om-prijsclausule.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237764</guid>
+            <pubDate>Mon, 04 Aug 2025 21:10:48 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gerucht: Samsung Galaxy S26-telefoons krijgen twee NFC-antennes</title>
+            <link>https://tweakers.net/nieuws/237766/gerucht-samsung-galaxy-s26-telefoons-krijgen-twee-nfc-antennes.html</link>
+            <description>De Samsung Galaxy S26-modellen krijgen aan de bovenkant een tweede NFC-antenne, schrijft de Zuid-Koreaanse publicatie ETNews. Daarmee zou het makkelijker moeten worden om contactloos te betalen.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/237766/gerucht-samsung-galaxy-s26-telefoons-krijgen-twee-nfc-antennes.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237766</guid>
+            <pubDate>Mon, 04 Aug 2025 20:23:01 +0200</pubDate>
+        </item>
+        <item>
+            <title>Amazon stopt deels met podcastdienst Wondery en ontslaat 110 werknemers</title>
+            <link>https://tweakers.net/nieuws/237762/amazon-stopt-deels-met-podcastdienst-wondery-en-ontslaat-110-werknemers.html</link>
+            <description>Amazon stopt deels met Wondery. Dat dochterbedrijf is verantwoordelijk voor de productie van podcasts via een eigen app. Veel van de bestaande podcasts worden onderdeel van Audible en 110 werknemers verliezen hun baan.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237762/amazon-stopt-deels-met-podcastdienst-wondery-en-ontslaat-110-werknemers.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237762</guid>
+            <pubDate>Mon, 04 Aug 2025 19:47:41 +0200</pubDate>
+        </item>
+        <item>
+            <title>Baidu wil vanaf volgend jaar robotaxidiensten aanbieden in Duitsland en het VK</title>
+            <link>https://tweakers.net/nieuws/237758/baidu-wil-vanaf-volgend-jaar-robotaxidiensten-aanbieden-in-duitsland-en-het-vk.html</link>
+            <description>Baidu is van plan om volgend jaar voor het eerst robotaxidiensten aan te bieden in Europa. Het is de bedoeling dat er autonome taxi&#039;s gaan rondrijden in Duitsland en het Verenigd Koninkrijk, al moeten de nationale toezichthouders hier nog wel toestemming voor geven.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Beeld en geluid / Cartech</category>
+            <comments>https://tweakers.net/nieuws/237758/baidu-wil-vanaf-volgend-jaar-robotaxidiensten-aanbieden-in-duitsland-en-het-vk.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237758</guid>
+            <pubDate>Mon, 04 Aug 2025 18:02:25 +0200</pubDate>
+        </item>
+        <item>
+            <title>Achtergrond - Gameplatforms zwichten en censureren nsfw-games, maar wie zit erachter?</title>
+            <link>https://tweakers.net/reviews/13616/gameplatforms-zwichten-en-censureren-nsfw-games-maar-wie-zit-erachter.html</link>
+            <description>Gamebedrijven verwijderen allerlei nsfw-games, maar wijzen betalingsproviders als de schuldige aan. 
+Ook die zitten niet achter de recente opmars van gamecensuur.</description>
+            <author>Yannick Spinner</author>
+            <category>Achtergrond / Gaming / Games</category>
+            <comments>https://tweakers.net/reviews/13616/gameplatforms-zwichten-en-censureren-nsfw-games-maar-wie-zit-erachter.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13616</guid>
+            <pubDate>Mon, 04 Aug 2025 17:40:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Spotify verhoogt prijzen wereldwijd, maar niet in Nederland en België</title>
+            <link>https://tweakers.net/nieuws/237760/spotify-verhoogt-prijzen-wereldwijd-maar-niet-in-nederland-en-belgie.html</link>
+            <description>Spotify verhoogt wereldwijd zijn prijzen, maar niet in Nederland en België. Dat gebeurde in april al. Nu voert het bedrijf die prijswijziging in een groot deel van de rest van de wereld door, maar Spotify bevestigt aan Tweakers dat dit niet voor de Benelux geldt.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Marktontwikkelingen</category>
+            <comments>https://tweakers.net/nieuws/237760/spotify-verhoogt-prijzen-wereldwijd-maar-niet-in-nederland-en-belgie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237760</guid>
+            <pubDate>Mon, 04 Aug 2025 17:24:11 +0200</pubDate>
+        </item>
+        <item>
+            <title>Best Buy Guide - Beste tablets voor entertainment</title>
+            <link>https://tweakers.net/best-buy-guide/tablets/beste-tablet-voor-film-en-video</link>
+            <description>We zoeken in deze BBG de beste tablet voor het kijken naar films en tv of het spelen van games. Daarvoor moeten beeld en geluid uiteraard helemaal oké zijn.</description>
+            <author>Dennis de Vries</author>
+            <category>Best Buy Guide / Tablets en telefoons / Tablets</category>
+            <comments>https://tweakers.net/best-buy-guide/tablets/beste-tablet-voor-film-en-video#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/best-buy-guide/tablets/beste-tablet-voor-film-en-video</guid>
+            <pubDate>Mon, 04 Aug 2025 17:15:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nederlands Openbaar Ministerie brengt eerste systemen weer online na cyberaanval</title>
+            <link>https://tweakers.net/nieuws/237756/nederlands-openbaar-ministerie-brengt-eerste-systemen-weer-online-na-cyberaanval.html</link>
+            <description>Het Nederlands Openbaar Ministerie gaat geleidelijk aan weer online. Volgens de aanklager zijn hackers binnengedrongen op de systemen. Volgens het OM zijn er geen signalen dat er data is gestolen, maar dat wordt niet uitgesloten.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/237756/nederlands-openbaar-ministerie-brengt-eerste-systemen-weer-online-na-cyberaanval.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237756</guid>
+            <pubDate>Mon, 04 Aug 2025 17:00:16 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Community - In juli begonnen we met dm&#039;s naar submitters</title>
+            <link>https://tweakers.net/reviews/13620/in-juli-begonnen-we-met-dms-naar-submitters.html</link>
+            <description>In juli schreven we 42 procent van ons nieuws naar aanleiding van tips van gebruikers. Ook begonnen we met het sturen van dm&#039;s naar individuele gebruikers.</description>
+            <author>Tijs Hofmans</author>
+            <category>.Community / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/reviews/13620/in-juli-begonnen-we-met-dms-naar-submitters.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13620</guid>
+            <pubDate>Mon, 04 Aug 2025 16:37:00 +0200</pubDate>
+        </item>
         <item>
             <title>.Geek - NOS maakt Teletekst beschikbaar via ssh</title>
             <link>https://tweakers.net/geek/237754/nos-maakt-teletekst-beschikbaar-via-ssh.html</link>
@@ -286,136 +417,6 @@
             <comments>https://tweakers.net/downloads/73516/ocenaudio-3153.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73516</guid>
             <pubDate>Sat, 02 Aug 2025 11:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nintendo verhoogt in VS prijzen van originele Switch-modellen</title>
-            <link>https://tweakers.net/nieuws/237710/nintendo-verhoogt-in-vs-prijzen-van-originele-switch-modellen.html</link>
-            <description>Nintendo verhoogt in de Verenigde Staten de prijzen van de originele Switch-modellen en van enkele accessoires. Het bedrijf geeft geen reden voor de prijsverhoging maar vooralsnog lijken de prijzen in Europa niet te veranderen.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Gaming / Consoles</category>
-            <comments>https://tweakers.net/nieuws/237710/nintendo-verhoogt-in-vs-prijzen-van-originele-switch-modellen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237710</guid>
-            <pubDate>Sat, 02 Aug 2025 10:45:01 +0200</pubDate>
-        </item>
-        <item>
-            <title>ChatGPT stopt met optie om chats door zoekmachines te laten indexeren</title>
-            <link>https://tweakers.net/nieuws/237718/chatgpt-stopt-met-optie-om-chats-door-zoekmachines-te-laten-indexeren.html</link>
-            <description>OpenAI stopt met een functie om ChatGPT-zoekgeschiedenissen door zoekmachines te laten indexeren. Het bedrijf draait een eerdere functie terug toen bleek dat ook gevoelige informatie in Google en andere zoekmachines verscheen.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/nieuws/237718/chatgpt-stopt-met-optie-om-chats-door-zoekmachines-te-laten-indexeren.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237718</guid>
-            <pubDate>Sat, 02 Aug 2025 10:23:37 +0200</pubDate>
-        </item>
-        <item>
-            <title>Belastingdienst Curaçao is maandag weer operationeel na ransomwareaanval</title>
-            <link>https://tweakers.net/nieuws/237714/belastingdienst-curacao-is-maandag-weer-operationeel-na-ransomwareaanval.html</link>
-            <description>De Belastingdienst op Curaçao verwacht maandag weer volledig operationeel te zijn na een ransomwareaanval. De Belastingdienst werd vorige week getroffen door ransomware, waardoor de dienstverlening deels niet meer beschikbaar was. Details over de aanval zijn niet bekend.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/237714/belastingdienst-curacao-is-maandag-weer-operationeel-na-ransomwareaanval.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237714</guid>
-            <pubDate>Sat, 02 Aug 2025 09:27:18 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Windows Terminal 1.22.12111.0</title>
-            <link>https://tweakers.net/downloads/73514/windows-terminal-122121110.html</link>
-            <description>Microsoft heeft een update voor versie 1.22 van Windows Terminal uitgebracht. Windows Terminal wordt met Windows 11 meegeleverd en maakt het mogelijk om in een scherm met tabbladen onder meer een commandprompt, PowerShell, Windows PowerShell, WSL en Azure Cloud Shell te openen. Het programma heeft onder meer ondersteuning voor tabbladen, thema&#039;s en profielen. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Windows Terminal v1.22.12111.0</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73514/windows-terminal-122121110.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73514</guid>
-            <pubDate>Sat, 02 Aug 2025 09:03:10 +0200</pubDate>
-        </item>
-        <item>
-            <title>Review - Killing Floor 3 Review - Cultklassieker geïnfecteerd met mainstreamvirus</title>
-            <link>https://tweakers.net/reviews/13580/killing-floor-3-review-cultklassieker-geinfecteerd-met-mainstreamvirus.html</link>
-            <description>Killing Floor 3 heeft een lange weg afgelegd, maar nog niet lang genoeg. De game doet vrijwel alles net iets minder goed dan de voorganger.</description>
-            <author>Yannick Spinner</author>
-            <category>Review / Gaming / Games</category>
-            <comments>https://tweakers.net/reviews/13580/killing-floor-3-review-cultklassieker-geinfecteerd-met-mainstreamvirus.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13580</guid>
-            <pubDate>Sat, 02 Aug 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Community - Zo bouwde tweaker Ivan een unieke Nikon-verzameling van vijfhonderd camera’s</title>
-            <link>https://tweakers.net/reviews/13540/zo-bouwde-tweaker-ivan-een-unieke-nikon-verzameling-van-vijfhonderd-cameras.html</link>
-            <description>Ivan Andhyiswara deelt zijn passie voor fotografie, vertelt over zijn enorme Nikon-collectie en bespreekt de plus- en minpunten van analoge fotografie.</description>
-            <author>Yannick Spinner</author>
-            <category>.Community / IT Pro / Fotografie en video</category>
-            <comments>https://tweakers.net/reviews/13540/zo-bouwde-tweaker-ivan-een-unieke-nikon-verzameling-van-vijfhonderd-cameras.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13540</guid>
-            <pubDate>Sat, 02 Aug 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>VodafoneZiggo gaat downloadsnelheid van 2Gbit/s via Docsis 3.1 leveren</title>
-            <link>https://tweakers.net/nieuws/237712/vodafoneziggo-gaat-downloadsnelheid-van-2gbit-s-via-docsis-31-leveren.html</link>
-            <description>VodafoneZiggo is van plan om een downloadsnelheid van 2Gbit/s via zijn bestaande Docsis 3.1-platform te introduceren. De voorbereidingen hiervoor zijn volgens de operator &#039;in volle gang&#039;. In 2026 hoopt het bedrijf downloadsnelheden van 8Gbit/s via Docsis 4.0 leveren.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237712/vodafoneziggo-gaat-downloadsnelheid-van-2gbit-s-via-docsis-31-leveren.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237712</guid>
-            <pubDate>Fri, 01 Aug 2025 21:09:37 +0200</pubDate>
-        </item>
-        <item>
-            <title>Spanje onderzoekt of Apple ontwikkelaars verplicht prijsschema te volgen</title>
-            <link>https://tweakers.net/nieuws/237700/spanje-onderzoekt-of-apple-ontwikkelaars-verplicht-prijsschema-te-volgen.html</link>
-            <description>De Spaanse mededingingsautoriteit Comisión Nacional de los Mercados y la Competencia breidt haar onderzoek naar Apples App Store uit. De toezichthouder onderzoekt of Apple een prijsschema oplegt aan ontwikkelaars om hun apps in de App Store aan te kunnen bieden.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/237700/spanje-onderzoekt-of-apple-ontwikkelaars-verplicht-prijsschema-te-volgen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237700</guid>
-            <pubDate>Fri, 01 Aug 2025 20:06:39 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Zigbee2MQTT 2.6.0</title>
-            <link>https://tweakers.net/downloads/73512/zigbee2mqtt-260.html</link>
-            <description>Versie 2.6.0 van Zigbee2MQTT is uitgekomen. Zigbee2MQTT maakt het mogelijk om Zigbee-apparaten aan te sturen zonder gebruik te hoeven maken van de gateway of bridge van de fabrikant. Dit doet het door van MQTT gebruik te maken, waardoor het eenvoudig te integreren is in smarthomesoftware, zoals bijvoorbeeld Home Assistant, Homey of Domoticz. De changelog voor deze uitgave kan hieronder worden gevonden. Features</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73512/zigbee2mqtt-260.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73512</guid>
-            <pubDate>Fri, 01 Aug 2025 20:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Reddit zet plannen voor betaalde subreddits in de ijskast</title>
-            <link>https://tweakers.net/nieuws/237708/reddit-zet-plannen-voor-betaalde-subreddits-in-de-ijskast.html</link>
-            <description>Reddit heeft zijn plannen om betaalde subreddits te introduceren gepauzeerd, zegt ceo Steve Huffman tijdens de presentatie van de kwartaalcijfers. Huffman kondigde vorig jaar aan dat het bedrijf werkte aan de mogelijkheid om gebruikers te laten betalen voor toegang tot subreddits.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237708/reddit-zet-plannen-voor-betaalde-subreddits-in-de-ijskast.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237708</guid>
-            <pubDate>Fri, 01 Aug 2025 19:23:59 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google maakt Deep Think-model beschikbaar voor AI Ultra-abonnees</title>
-            <link>https://tweakers.net/nieuws/237706/google-maakt-deep-think-model-beschikbaar-voor-ai-ultra-abonnees.html</link>
-            <description>Google maakt het Gemini 2.5 Pro Deep Think-redeneermodel beschikbaar voor Google AI Ultra-abonnees, meldt het bedrijf. Het model maakt volgens Google gebruik van parallelle denktechnieken om creatievere en meer doordachte antwoorden te geven.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237706/google-maakt-deep-think-model-beschikbaar-voor-ai-ultra-abonnees.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237706</guid>
-            <pubDate>Fri, 01 Aug 2025 18:46:19 +0200</pubDate>
-        </item>
-        <item>
-            <title>Apple heeft meer dan drie miljard iPhones verkocht</title>
-            <link>https://tweakers.net/nieuws/237702/apple-heeft-meer-dan-drie-miljard-iphones-verkocht.html</link>
-            <description>Apple heeft de drie miljardste iPhone verkocht, maakte ceo Tim Cook bekend tijdens de presentatie van de kwartaalcijfers. In 2016 verkocht het bedrijf zijn miljardste iPhone. Analisten schatten dat Apple in 2021 de grens van twee miljard verkochte iPhones bereikte.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/237702/apple-heeft-meer-dan-drie-miljard-iphones-verkocht.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237702</guid>
-            <pubDate>Fri, 01 Aug 2025 18:01:03 +0200</pubDate>
-        </item>
-        <item>
-            <title>Youfone verhoogt prijzen van sommige abonnementen, maar ook databundels</title>
-            <link>https://tweakers.net/nieuws/237680/youfone-verhoogt-prijzen-van-sommige-abonnementen-maar-ook-databundels.html</link>
-            <description>Youfone gaat de prijzen van in ieder geval sommige abonnementen verhogen. Daarbij stijgt ook de maximale databundel van gebruikers.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
-            <comments>https://tweakers.net/nieuws/237680/youfone-verhoogt-prijzen-van-sommige-abonnementen-maar-ook-databundels.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237680</guid>
-            <pubDate>Fri, 01 Aug 2025 16:33:14 +0200</pubDate>
         </item>
     </channel>
 </rss>
