@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 05 Aug 2025 10:41:01 +0200</pubDate>
-        <lastBuildDate>Tue, 05 Aug 2025 10:41:01 +0200</lastBuildDate>
+        <pubDate>Tue, 05 Aug 2025 11:36:02 +0200</pubDate>
+        <lastBuildDate>Tue, 05 Aug 2025 11:36:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Visual Studio 2022 17.14.11</title>
+            <link>https://tweakers.net/downloads/73538/visual-studio-2022-171411.html</link>
+            <description>Microsoft heeft een update voor versie 17.14 van Visual Studio 2022 uitgebracht. Deze populaire programmeerontwikkelomgeving, verkrijgbaar in de smaken Community, Professional en Enterprise, beschikt over handige opties om het programmeren in onder meer Visual C++, Visual Basic, C#, F# en Python gemakkelijker te maken. De nieuwe versie is volledig 64bit en heeft een vereenvoudigde gebruikersinterface. Uitgebreide informatie over versie 17.14 is op deze pagina van Microsoft te vinden; sinds versie 17.14.9 zijn verder nog de volgende verfanderingen en verbeteringen aangebracht: Visual Studio 2022 17.14.11</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73538/visual-studio-2022-171411.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73538</guid>
+            <pubDate>Tue, 05 Aug 2025 11:00:58 +0200</pubDate>
+        </item>
+        <item>
+            <title>Achtergrond - Weer offline door een storing: wanneer heb je recht op geld terug?</title>
+            <link>https://tweakers.net/reviews/13622/weer-offline-door-een-storing-wanneer-heb-je-recht-op-geld-terug.html</link>
+            <description>Een aantal Odido-klanten was afgelopen weekend door een storing zestien uur offline. Waar hebben consumenten in zo’n geval recht op?</description>
+            <author>Imre Himmelbauer</author>
+            <category>Achtergrond / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/reviews/13622/weer-offline-door-een-storing-wanneer-heb-je-recht-op-geld-terug.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13622</guid>
+            <pubDate>Tue, 05 Aug 2025 11:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>NS blokkeert meerdere digitale betaalpassen die &#039;gratis&#039; reizen mogelijk maakten</title>
+            <link>https://tweakers.net/nieuws/237772/ns-blokkeert-meerdere-digitale-betaalpassen-die-gratis-reizen-mogelijk-maakten.html</link>
+            <description>De NS heeft de digitale betaalpassen van verschillende betalingsaanbieders geblokkeerd, omdat gebruikers er via omwegen gratis mee konden reizen. De blokkade geldt sinds 1 juli voor de digitale kaarten van Revolut en de betaalpassen van Paysafe en Vivid.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / IT Pro / Economie en maatschappij</category>
+            <comments>https://tweakers.net/nieuws/237772/ns-blokkeert-meerdere-digitale-betaalpassen-die-gratis-reizen-mogelijk-maakten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237772</guid>
+            <pubDate>Tue, 05 Aug 2025 10:58:31 +0200</pubDate>
+        </item>
         <item>
             <title>Cloudflare: Perplexity AI-bots bezoeken stiekem websites zonder toestemming</title>
             <link>https://tweakers.net/nieuws/237770/cloudflare-perplexity-ai-bots-bezoeken-stiekem-websites-zonder-toestemming.html</link>
@@ -387,36 +417,6 @@ Ook die zitten niet achter de recente opmars van gamecensuur.</description>
             <comments>https://tweakers.net/downloads/73518/anydesk-9511.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73518</guid>
             <pubDate>Sat, 02 Aug 2025 13:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Amazon sluit advertenties in betaalde Alexa+-abonnementen niet uit</title>
-            <link>https://tweakers.net/nieuws/237724/amazon-sluit-advertenties-in-betaalde-alexa+-abonnementen-niet-uit.html</link>
-            <description>Amazon onderzoekt de mogelijkheid om advertenties aan te bieden in Alexa+, het betaalde abonnement voor de slimme assistent. Amazon-ceo Andy Jassy ziet &#039;mogelijkheden&#039; om advertenties te gebruiken om gebruikers meer producten te laten kopen via Alexa+.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Beeld en geluid / Smarthome</category>
-            <comments>https://tweakers.net/nieuws/237724/amazon-sluit-advertenties-in-betaalde-alexa+-abonnementen-niet-uit.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237724</guid>
-            <pubDate>Sat, 02 Aug 2025 12:26:34 +0200</pubDate>
-        </item>
-        <item>
-            <title>TikTok ontslaat 150 moderators Berlijn, mogelijk ook voor Nederlandse content</title>
-            <link>https://tweakers.net/nieuws/237722/tiktok-ontslaat-150-moderators-berlijn-mogelijk-ook-voor-nederlandse-content.html</link>
-            <description>TikTok is van plan om 150 moderators in Berlijn te ontslaan. Daaronder vallen vermoedelijk ook veel moderators die Nederlandse content beoordelen. De banen worden deels door AI vervangen en deels uitbesteed aan externe bedrijven.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/237722/tiktok-ontslaat-150-moderators-berlijn-mogelijk-ook-voor-nederlandse-content.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237722</guid>
-            <pubDate>Sat, 02 Aug 2025 12:13:56 +0200</pubDate>
-        </item>
-        <item>
-            <title>Darksiders 4 is in ontwikkeling, speelt zich af na vorig deel</title>
-            <link>https://tweakers.net/nieuws/237720/darksiders-4-is-in-ontwikkeling-speelt-zich-af-na-vorig-deel.html</link>
-            <description>THQ Nordic werkt aan een nieuwe Darksiders-game. Deel 4 wordt ontwikkeld door Gunfire Games. Spelers spelen in de game als een van de Horsemen. Het verhaal gaat verder waar de vorige game eindigde, hoewel verdere details nog niet bekend zijn.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/237720/darksiders-4-is-in-ontwikkeling-speelt-zich-af-na-vorig-deel.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237720</guid>
-            <pubDate>Sat, 02 Aug 2025 11:45:19 +0200</pubDate>
         </item>
     </channel>
 </rss>
