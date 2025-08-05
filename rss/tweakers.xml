@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 05 Aug 2025 15:41:01 +0200</pubDate>
-        <lastBuildDate>Tue, 05 Aug 2025 15:41:01 +0200</lastBuildDate>
+        <pubDate>Tue, 05 Aug 2025 16:36:01 +0200</pubDate>
+        <lastBuildDate>Tue, 05 Aug 2025 16:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Gerucht: Google stelt Pixel 10 Pro Fold en Watch 4 uit tot oktober</title>
+            <link>https://tweakers.net/nieuws/237786/gerucht-google-stelt-pixel-10-pro-fold-en-watch-4-uit-tot-oktober.html</link>
+            <description>Google stelt mogelijk de release van zijn aanstaande Pixel 10 Pro Fold en Pixel Watch 4 uit tot oktober. Dat meldt het goed ingelichte WinFuture. De overige Pixel 10-toestellen verschijnen naar verwachting later deze maand al.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/237786/gerucht-google-stelt-pixel-10-pro-fold-en-watch-4-uit-tot-oktober.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237786</guid>
+            <pubDate>Tue, 05 Aug 2025 16:14:54 +0200</pubDate>
+        </item>
         <item>
             <title>TSMC-medewerkers gearresteerd voor vermeende poging tot uitlekken 2nm-geheimen</title>
             <link>https://tweakers.net/nieuws/237784/tsmc-medewerkers-gearresteerd-voor-vermeende-poging-tot-uitlekken-2nm-geheimen.html</link>
@@ -407,16 +417,6 @@ Ook die zitten niet achter de recente opmars van gamecensuur.</description>
             <comments>https://tweakers.net/downloads/73524/7-zip-2501.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73524</guid>
             <pubDate>Sun, 03 Aug 2025 18:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - OpenRCT2 0.4.25</title>
-            <link>https://tweakers.net/downloads/73522/openrct2-0425.html</link>
-            <description>Versie 0.4.25 van OpenRCT2 is uitgekomen, de opensourceversie van RollerCoaster Tycoon 2. Het project probeert zo veel mogelijk op het origineel te lijken, maar is in een moderne taal geschreven, wat uitbreidingen en verbeteringen mogelijk maakt. Het is hiermee vergelijkbaar met bijvoorbeeld OpenTTD en OpenRA. Om het te kunnen spelen, is het overigens wel noodzakelijk om het originele spel te hebben, want het heeft onder meer geluidsbestanden en de afbeeldingen nodig. De changelog voor deze uitgave, die de naam &#039;Peeps Falling from Buildings&#039; heeft meegekregen, is hieronder te vinden: New:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73522/openrct2-0425.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73522</guid>
-            <pubDate>Sun, 03 Aug 2025 16:21:23 +0200</pubDate>
         </item>
     </channel>
 </rss>
