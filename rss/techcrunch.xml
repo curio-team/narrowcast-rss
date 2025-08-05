@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 05 Aug 2025 12:06:15 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 05 Aug 2025 13:43:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>US adds OpenAI, Google and Anthropic to list of approved AI vendors for federal agencies</title>
+		<link>https://techcrunch.com/2025/08/05/us-adds-openai-google-and-anthropic-to-list-of-approved-ai-vendors-for-federal-agencies/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Tue, 05 Aug 2025 13:43:12 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3034101</guid>
+
+					<description><![CDATA[The companies will see their AI tools offered via a new federal contracting platform, the Multiple Awards Schedule (MSA), which would let government agencies access AI tool sellers with pre-negotiated contracts, rather than negotiating with vendors individually. ]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Jury rules Meta violated California privacy laws by quietly collecting Flo users&#8217; menstrual health data</title>
 		<link>https://techcrunch.com/2025/08/05/jury-rules-meta-violated-california-privacy-laws-by-collecting-menstrual-health-data-from-flo/</link>
 		
@@ -368,25 +386,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3033453</guid>
 
 					<description><![CDATA[OpenMind is building humanoid robot operating software designed for robots that interact with people and other robots. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Character.AI is adding a social feed to its app</title>
-		<link>https://techcrunch.com/2025/08/04/character-ai-is-debuting-a-social-feed-within-the-app/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Mon, 04 Aug 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[social feed]]></category>
-		<category><![CDATA[character.ai]]></category>
-		<category><![CDATA[ai video]]></category>
-		<category><![CDATA[AI content]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3033652</guid>
-
-					<description><![CDATA[The social feed lets users share images, videos, and their chatbots with other users. Users can also share snippets of their chats with characters, post AI-generated images based on their chats with a character, or even have their characters debate topics on a livestream.]]></description>
 		
 		
 		
