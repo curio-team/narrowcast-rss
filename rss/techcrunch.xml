@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 05 Aug 2025 09:01:11 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 05 Aug 2025 12:06:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,13 +28,30 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Jury rules Meta violated California privacy laws by quietly collecting Flo users&#8217; menstrual health data</title>
+		<link>https://techcrunch.com/2025/08/05/jury-rules-meta-violated-california-privacy-laws-by-collecting-menstrual-health-data-from-flo/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Tue, 05 Aug 2025 12:01:02 +0000</pubDate>
+				<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[Flo health]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[user privacy]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3034081</guid>
+
+					<description><![CDATA[The class-action suit was brought by users of period tracking app, Flo, who alleged that the tech giant collected private menstrual health data without users' consent and used it for ad-tracking purposes. ]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>AI-powered fintech Alaan raises $48M, one of the largest Series A rounds in MENA</title>
 		<link>https://techcrunch.com/2025/08/05/ai-powered-fintech-alaan-raises-48m-one-of-the-largest-series-a-rounds-in-mena/</link>
 		
 		<dc:creator><![CDATA[Tage Kene-Okafor]]></dc:creator>
 		<pubDate>Tue, 05 Aug 2025 07:45:00 +0000</pubDate>
-				<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[AI]]></category>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fintech]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3033780</guid>
 
 					<description><![CDATA[When Parthi Duraisamy was a consultant at McKinsey’s Dubai office, he discovered that the American Express cards his company relied on for corporate expenses were rarely accepted in the Middle East. This forced Duraisamy to cover significant travel expenses out of pocket and file endless expense reports. “It was a constant pain,” Duraisamy explained on [&#8230;]]]></description>
@@ -370,24 +387,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3033652</guid>
 
 					<description><![CDATA[The social feed lets users share images, videos, and their chatbots with other users. Users can also share snippets of their chats with characters, post AI-generated images based on their chats with a character, or even have their characters debate topics on a livestream.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Joby Aviation to buy Blade Air Mobility&#8217;s rideshare business</title>
-		<link>https://techcrunch.com/2025/08/04/joby-aviation-to-buy-blade-air-mobilitys-ride-share-business/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
-		<pubDate>Mon, 04 Aug 2025 11:18:34 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[air taxis]]></category>
-		<category><![CDATA[blade air mobility]]></category>
-		<category><![CDATA[Joby Aviation]]></category>
-		<category><![CDATA[Mergers and Acquisitions]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3033647</guid>
-
-					<description><![CDATA[Joby is buying the Blade brand and the company's passenger business, which includes operations in the United States and Europe, for as much as $125 million. ]]></description>
 		
 		
 		
