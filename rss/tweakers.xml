@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 05 Aug 2025 12:36:02 +0200</pubDate>
-        <lastBuildDate>Tue, 05 Aug 2025 12:36:02 +0200</lastBuildDate>
+        <pubDate>Tue, 05 Aug 2025 13:31:02 +0200</pubDate>
+        <lastBuildDate>Tue, 05 Aug 2025 13:31:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Audacity 3.7.5</title>
+            <link>https://tweakers.net/downloads/73540/audacity-375.html</link>
+            <description>Versie 3.7.5 van Audacity is uitgekomen. Deze opensource audio-editor, die beschikbaar is voor Windows, Linux en macOS, kan geluid opnemen en wav-, aiff-, ogg- en mp3-bestanden importeren en exporteren. Het programma heeft een ongelimiteerde undofunctie en heeft daarnaast een grote verzameling effecten aan boord, zoals fade-in en fade-out, echo, tempowijziging en ruisonderdrukking. Meer effecten kunnen eenvoudig worden toegevoegd, want het programma ondersteunt onder meer Nyquist-, vst- en ladspa-plug-ins. In deze uitgave zijn de volgende verbeteringen aangebracht: Windows ARM64 beta</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73540/audacity-375.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73540</guid>
+            <pubDate>Tue, 05 Aug 2025 13:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Proton patcht Authenticator-bug die 2fa-secrets opsloeg in lokale logbestanden</title>
+            <link>https://tweakers.net/nieuws/237776/proton-patcht-authenticator-bug-die-2fa-secrets-opsloeg-in-lokale-logbestanden.html</link>
+            <description>Proton heeft een bug opgelost in de iOS-versie van zijn Authenticator-app. Deze zorgde ervoor dat de totp-secrets van gebruikers in plaintext werden vermeld in lokale logbestanden. Als gebruikers die logs handmatig deelden met anderen, hadden ze daarmee onbedoeld hun 2fa-codes uitgelekt.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/237776/proton-patcht-authenticator-bug-die-2fa-secrets-opsloeg-in-lokale-logbestanden.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237776</guid>
+            <pubDate>Tue, 05 Aug 2025 12:51:42 +0200</pubDate>
+        </item>
         <item>
             <title>Video - Podcastupgrade en miniwindtunnel - Tweakers-vlog #5</title>
             <link>https://tweakers.net/video/20032/podcastupgrade-en-miniwindtunnel-tweakers-vlog-5.html</link>
@@ -397,26 +417,6 @@ Ook die zitten niet achter de recente opmars van gamecensuur.</description>
             <comments>https://tweakers.net/nieuws/237728/youtuber-perifractic-is-officieel-eigenaar-van-commodore-nu-financiering-rond-is.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237728</guid>
             <pubDate>Sun, 03 Aug 2025 10:22:02 +0200</pubDate>
-        </item>
-        <item>
-            <title>Google gaat &#039;actief gebruikte&#039; links naar URL-verkorter goo.gl toch behouden</title>
-            <link>https://tweakers.net/nieuws/237726/google-gaat-actief-gebruikte-links-naar-url-verkorter-goo-punt-gl-toch-behouden.html</link>
-            <description>Google stopt toch niet volledig met zijn URL-verkorter goo.gl. &#039;Actief gebruikte&#039; links die met deze tool zijn gemaakt, blijven ook na 25 augustus bereikbaar. Eerder gaf Google aan dat alle goo.gl-links zouden worden gedeactiveerd.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/nieuws/237726/google-gaat-actief-gebruikte-links-naar-url-verkorter-goo-punt-gl-toch-behouden.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237726</guid>
-            <pubDate>Sun, 03 Aug 2025 09:31:19 +0200</pubDate>
-        </item>
-        <item>
-            <title>Review - Tony Hawk&#039;s Pro Skater 3 + 4 - Prima eerbetoon maar zelf geen classic</title>
-            <link>https://tweakers.net/reviews/13590/tony-hawks-pro-skater-3-+-4-prima-eerbetoon-maar-zelf-geen-classic.html</link>
-            <description>Tony Hawk&#039;s Pro Skater 3 + 4 zet twee oude classics op een moderne manier neer. Dat werkt goed genoeg, maar levert geen nieuwe klassieker op.</description>
-            <author>Jurian Ubachs</author>
-            <category>Review / Gaming / Games</category>
-            <comments>https://tweakers.net/reviews/13590/tony-hawks-pro-skater-3-+-4-prima-eerbetoon-maar-zelf-geen-classic.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13590</guid>
-            <pubDate>Sun, 03 Aug 2025 06:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
