@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 06 Aug 2025 12:36:03 +0200</pubDate>
-        <lastBuildDate>Wed, 06 Aug 2025 12:36:03 +0200</lastBuildDate>
+        <pubDate>Wed, 06 Aug 2025 13:31:02 +0200</pubDate>
+        <lastBuildDate>Wed, 06 Aug 2025 13:31:02 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - IntelliJ IDEA 2025.2</title>
+            <link>https://tweakers.net/downloads/73562/intellij-idea-20252.html</link>
+            <description>JetBrains brengt verschillende ontwikkelomgevingen uit, zoals CLion gericht op C en C++, DataGrip gericht op SQL, PhpStorm gericht op PHP en IntelliJ IDEA gericht op Java. IntelliJ IDEA biedt slimme codecompletion, deep static analysis, intelligent refactorings, een debugger en een testrunner, en kan ook overweg met Kotlin, Groovy, Coffee- en ActionScript. Voor een overzicht van de mogelijkheden verwijzen we naar deze pagina. IntelliJ IDEA is beschikbaar in twee smaken: een gelicentieerde Ultimate-smaak met meer functionaliteit en een gratis opensource Community-smaak. Voor de Ultimate-smaak zal voor zakelijk en thuisgebruik betaald moeten worden, maar als de software wordt gebruikt voor onderwijs of niet-commerciële opensourceprojecten is de licentie gratis. De complete changelog voor versie 2025.2 is op deze pagina te vinden; dit zijn de belangrijkste verbeteringen: The highlights of this release include:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73562/intellij-idea-20252.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73562</guid>
+            <pubDate>Wed, 06 Aug 2025 13:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>UBlock Origin Lite is nu ook beschikbaar voor Safari</title>
+            <link>https://tweakers.net/nieuws/237810/ublock-origin-lite-is-nu-ook-beschikbaar-voor-safari.html</link>
+            <description>Ontwikkelaar Raymond Hill heeft de eerste officiële versie van uBlock Origin Lite voor Safari uitgebracht. Om de extensie te gebruiken, is minimaal Safari 18.6 nodig. De adblocker is per direct te downloaden voor Mac, iPhone en iPad.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Software development</category>
+            <comments>https://tweakers.net/nieuws/237810/ublock-origin-lite-is-nu-ook-beschikbaar-voor-safari.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237810</guid>
+            <pubDate>Wed, 06 Aug 2025 13:23:35 +0200</pubDate>
+        </item>
+        <item>
+            <title>Quicktest - WD SN7100 2TB-ssd - Een echte concurrent voor de NM790</title>
+            <link>https://tweakers.net/reviews/13548/wd-sn7100-2tb-ssd-een-echte-concurrent-voor-de-nm790.html</link>
+            <description>Een heuse WD_Black-ssd voor een prikkie: dat is wat Western Digital, of Sandisk, met de SN7100 belooft. We hebben de 2TB-versie van deze Gen4-drive getest.</description>
+            <author>Willem de Moor</author>
+            <category>Quicktest / Computers / Interne SSD&#039;s</category>
+            <comments>https://tweakers.net/reviews/13548/wd-sn7100-2tb-ssd-een-echte-concurrent-voor-de-nm790.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13548</guid>
+            <pubDate>Wed, 06 Aug 2025 13:00:00 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Darktable 5.2.1</title>
             <link>https://tweakers.net/downloads/73556/darktable-521.html</link>
@@ -60,7 +90,7 @@
         <item>
             <title>Software-update - 1Password 8.11.4</title>
             <link>https://tweakers.net/downloads/73554/1password-8114.html</link>
-            <description>Voor de veiligheid is het beter om voor ieder account een ander en sterk wachtwoord te gebruiken. Als een bepaalde dienst wachtwoorden laat uitlekken, zijn niet al je andere accounts met hetzelfde wachtwoord toegankelijk. Voor het bijhouden van al deze verschillende wachtwoorden zijn wachtwoordmanagers een uitkomst. 1Password is er hier een van en is beschikbaar als webapplicatie, als app op verschillende platforms en als extensie voor de meestgebruikte browsers. Het kan twee weken geprobeerd worden, waarna een licentie moet worden aangeschaft. Voor meer informatie over de mogelijkheden verwijzen we naar deze pagina. In versie 8.11.4 zijn de volgende verbeteringen en bugfixes doorgevoerd: 1Password for Windows 8.11.4</description>
+            <description>Voor de veiligheid is het beter om voor ieder account een ander en sterk wachtwoord te gebruiken. Als een bepaalde dienst wachtwoorden laat uitlekken, zijn niet al je andere accounts met hetzelfde wachtwoord toegankelijk. Voor het bijhouden van al deze verschillende wachtwoorden zijn wachtwoordmanagers een uitkomst. 1Password is er hier een van en is beschikbaar als webapplicatie, als app op verschillende platforms en als extensie voor de meestgebruikte browsers. Het kan twee weken geprobeerd worden, waarna een licentie moet worden aangeschaft. Voor meer informatie over de mogelijkheden verwijzen we naar deze pagina. In versie 8.11.4 zijn de volgende veranderingen en verbeteringen doorgevoerd: 1Password in the browser 8.11.4</description>
             <author>Bart van Klaveren</author>
             <category>Software</category>
             <comments>https://tweakers.net/downloads/73554/1password-8114.html#reacties</comments>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/237764/duizenden-hotels-sluiten-zich-aan-bij-massaclaim-tegen-booking-om-prijsclausule.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237764</guid>
             <pubDate>Mon, 04 Aug 2025 21:10:48 +0200</pubDate>
-        </item>
-        <item>
-            <title>Gerucht: Samsung Galaxy S26-telefoons krijgen twee NFC-antennes</title>
-            <link>https://tweakers.net/nieuws/237766/gerucht-samsung-galaxy-s26-telefoons-krijgen-twee-nfc-antennes.html</link>
-            <description>De Samsung Galaxy S26-modellen krijgen aan de bovenkant een tweede NFC-antenne, schrijft de Zuid-Koreaanse publicatie ETNews. Daarmee zou het makkelijker moeten worden om contactloos te betalen.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/237766/gerucht-samsung-galaxy-s26-telefoons-krijgen-twee-nfc-antennes.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237766</guid>
-            <pubDate>Mon, 04 Aug 2025 20:23:01 +0200</pubDate>
-        </item>
-        <item>
-            <title>Amazon stopt deels met podcastdienst Wondery en ontslaat 110 werknemers</title>
-            <link>https://tweakers.net/nieuws/237762/amazon-stopt-deels-met-podcastdienst-wondery-en-ontslaat-110-werknemers.html</link>
-            <description>Amazon stopt deels met Wondery. Dat dochterbedrijf is verantwoordelijk voor de productie van podcasts via een eigen app. Veel van de bestaande podcasts worden onderdeel van Audible en 110 werknemers verliezen hun baan.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237762/amazon-stopt-deels-met-podcastdienst-wondery-en-ontslaat-110-werknemers.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237762</guid>
-            <pubDate>Mon, 04 Aug 2025 19:47:41 +0200</pubDate>
-        </item>
-        <item>
-            <title>Baidu wil vanaf volgend jaar robotaxidiensten aanbieden in Duitsland en het VK</title>
-            <link>https://tweakers.net/nieuws/237758/baidu-wil-vanaf-volgend-jaar-robotaxidiensten-aanbieden-in-duitsland-en-het-vk.html</link>
-            <description>Baidu is van plan om volgend jaar voor het eerst robotaxidiensten aan te bieden in Europa. Het is de bedoeling dat er autonome taxi&#039;s gaan rondrijden in Duitsland en het Verenigd Koninkrijk, al moeten de nationale toezichthouders hier nog wel toestemming voor geven.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Beeld en geluid / Cartech</category>
-            <comments>https://tweakers.net/nieuws/237758/baidu-wil-vanaf-volgend-jaar-robotaxidiensten-aanbieden-in-duitsland-en-het-vk.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237758</guid>
-            <pubDate>Mon, 04 Aug 2025 18:02:25 +0200</pubDate>
         </item>
     </channel>
 </rss>
