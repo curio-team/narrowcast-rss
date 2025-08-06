@@ -12,13 +12,13 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 05 Aug 2025 14:30:00 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 Aug 2025 01:46:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<generator>https://wordpress.org/?v=6.7.3</generator>
 
 <image>
 	<url>https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32</url>
@@ -28,6 +28,254 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Clay confirms it closed $100M round at $3.1B valuation</title>
+		<link>https://techcrunch.com/2025/08/05/clay-confirms-it-closed-100m-round-at-3-1b-valuation/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Tue, 05 Aug 2025 21:12:06 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[CapitalG]]></category>
+		<category><![CDATA[clay]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[sales automation]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3034434</guid>
+
+					<description><![CDATA[The AI sales automation startup raised fresh funds, led by CapitalG, just months after its last round.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>For the first time, OpenAI models are available on AWS</title>
+		<link>https://techcrunch.com/2025/08/05/for-the-first-time-openai-models-are-available-on-aws/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Tue, 05 Aug 2025 20:06:26 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[Cloud Computing]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3034340</guid>
+
+					<description><![CDATA[This is a juicy competitive move for both companies after AWS faced an onslaught of criticism over its progress with AI.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Linda Yaccarino joins health tech platform eMed as CEO after leaving X</title>
+		<link>https://techcrunch.com/2025/08/05/linda-yaccarino-joins-health-tech-platform-emed-as-ceo-after-leaving-x/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Tue, 05 Aug 2025 18:20:11 +0000</pubDate>
+				<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[emed]]></category>
+		<category><![CDATA[linda yaccarino]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3034126</guid>
+
+					<description><![CDATA[Though Yaccarino does not have experience in health tech, eMed said in a press release that they sought her out for her "undeniable ability to negotiate new partnerships."]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Substack rival Ghost connects to the open social web with its latest public release</title>
+		<link>https://techcrunch.com/2025/08/05/substack-rival-ghost-connects-to-the-open-social-web-with-its-latest-public-release/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Tue, 05 Aug 2025 17:16:02 +0000</pubDate>
+				<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[activitypub]]></category>
+		<category><![CDATA[fediverse]]></category>
+		<category><![CDATA[ghost]]></category>
+		<category><![CDATA[newsletters]]></category>
+		<category><![CDATA[publishers]]></category>
+		<category><![CDATA[social]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3034240</guid>
+
+					<description><![CDATA[While the ActivityPub integration is a main selling point for Ghost 6, this major release includes a number of other changes and new additions.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI launches two &#8216;open&#8217; AI reasoning models</title>
+		<link>https://techcrunch.com/2025/08/05/openai-launches-two-open-ai-reasoning-models/</link>
+		
+		<dc:creator><![CDATA[Maxwell Zeff]]></dc:creator>
+		<pubDate>Tue, 05 Aug 2025 17:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[open model]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3034090</guid>
+
+					<description><![CDATA[For the first time in more than five years, OpenAI is launching a new open language model that appears to be state of the art.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Some people are defending Perplexity after Cloudflare ‘named and shamed’ it</title>
+		<link>https://techcrunch.com/2025/08/05/some-people-are-defending-perplexity-after-cloudflare-named-and-shamed-it/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Tue, 05 Aug 2025 16:33:03 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[cloudflare]]></category>
+		<category><![CDATA[web scraping]]></category>
+		<category><![CDATA[ai agent]]></category>
+		<category><![CDATA[Perplexity]]></category>
+		<category><![CDATA[ai bots]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3033946</guid>
+
+					<description><![CDATA[In a debate likely to get louder as AI agent usage grows, some people say Perplexity crawling blocked websites isn't a simple matter. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The EU AI Act aims to create a level playing field for AI innovation: Here&#8217;s what it is</title>
+		<link>https://techcrunch.com/2025/08/05/the-eu-ai-act-aims-to-create-a-level-playing-field-for-ai-innovation-heres-what-it-is/</link>
+		
+		<dc:creator><![CDATA[Anna Heim]]></dc:creator>
+		<pubDate>Tue, 05 Aug 2025 16:24:10 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[EU AI Act]]></category>
+		<category><![CDATA[eu ai act explained]]></category>
+		<category><![CDATA[eu ai act gpai code]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<category><![CDATA[general purpose ai]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3033738</guid>
+
+					<description><![CDATA[The European Union’s Artificial Intelligence Act, known as the EU AI Act, has been described as “the world's first comprehensive AI law” by the European Commission.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google’s NotebookLM is now available to younger users as competition in the AI education space intensifies</title>
+		<link>https://techcrunch.com/2025/08/05/googles-notebooklm-is-now-available-to-younger-users-as-competition-in-the-ai-education-space-intensifies/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Tue, 05 Aug 2025 16:03:39 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[EdTech]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google NotebookLM]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3034233</guid>
+
+					<description><![CDATA[The removal of age restrictions is intended to provide younger students with access to the AI research tool, allowing them to better understand their class materials.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>WhatsApp adds new features to protect against scams</title>
+		<link>https://techcrunch.com/2025/08/05/whatsapp-adds-new-features-to-protect-against-scams/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Tue, 05 Aug 2025 16:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[WhatsApp]]></category>
+		<category><![CDATA[Meta]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3034104</guid>
+
+					<description><![CDATA[The company announced that it took down over 6.8 million WhatsApp accounts linked to criminal scam centers targeting people around the world.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Three weeks after acquiring Windsurf, Cognition offers staff the exit door</title>
+		<link>https://techcrunch.com/2025/08/05/three-weeks-after-acquiring-windsurf-cognition-offers-staff-the-exit-door/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Tue, 05 Aug 2025 15:24:19 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[cognition]]></category>
+		<category><![CDATA[Devin]]></category>
+		<category><![CDATA[Layoffs]]></category>
+		<category><![CDATA[Mergers and Acquisitions]]></category>
+		<category><![CDATA[vibe coding]]></category>
+		<category><![CDATA[Windsurf]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3034175</guid>
+
+					<description><![CDATA[Cognition is also laying off 30 employees. Those who don't take the buyout are expected to work 80+ hour weeks.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ElevenLabs launches an AI music generator, which it claims is cleared for commercial use</title>
+		<link>https://techcrunch.com/2025/08/05/elevenlabs-launches-an-ai-music-generator-which-it-claims-is-cleared-for-commercial-use/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Tue, 05 Aug 2025 15:10:35 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ai music]]></category>
+		<category><![CDATA[ElevenLabs]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3034100</guid>
+
+					<description><![CDATA[The AI audio-generation unicorn ElevenLabs announced the launch of a new model that allows users to generate music that's cleared for commercial use.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trump says he&#8217;ll announce semiconductor and chip tariffs</title>
+		<link>https://techcrunch.com/2025/08/05/trump-says-hell-announce-semiconductor-and-chip-tariffs/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Tue, 05 Aug 2025 15:07:12 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[semiconductor]]></category>
+		<category><![CDATA[TSMC]]></category>
+		<category><![CDATA[AI chips]]></category>
+		<category><![CDATA[Tariffs]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[Trump Administration]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3034161</guid>
+
+					<description><![CDATA[This announcement comes as the Trump administration is also mulling over its approach to AI chip export restrictions. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hacker used a voice phishing attack to steal Cisco customers&#8217; personal information</title>
+		<link>https://techcrunch.com/2025/08/05/hacker-used-a-voice-phishing-attack-to-steal-cisco-customers-personal-information/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Tue, 05 Aug 2025 15:03:03 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[infosec]]></category>
+		<category><![CDATA[phishing]]></category>
+		<category><![CDATA[Salesforce]]></category>
+		<category><![CDATA[vishing]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3034153</guid>
+
+					<description><![CDATA[Cisco disclosed a data breach including customer names, organization names, addresses, email addresses, and phone numbers of Cisco.com users.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Crack the code to startup traction with insights from Chef Robotics, NEA, and ICONIQ at TechCrunch Disrupt 2025</title>
 		<link>https://techcrunch.com/2025/08/05/crack-the-code-to-startup-traction-with-insights-from-chef-robotics-nea-and-iconiq-at-techcrunch-disrupt-2025/</link>
 		
@@ -40,12 +288,13 @@
 		<category><![CDATA[Robotics]]></category>
 		<category><![CDATA[Fundraising]]></category>
 		<category><![CDATA[tc disrupt]]></category>
+		<category><![CDATA[TC Disrupt 2025]]></category>
+		<category><![CDATA[TC Event Promo]]></category>
 		<category><![CDATA[TechCrunch Disrupt]]></category>
 		<category><![CDATA[TechCrunch Disrupt 2025]]></category>
-		<category><![CDATA[TC Disrupt 2025]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3033353</guid>
 
-					<description><![CDATA[Finding product-market fit isn’t a milestone — it’s a messy, make-or-break journey. And at TechCrunch Disrupt 2025, a founder who’s been through the fire and two investors who’ve helped startups hit escape velocity will break down how to do it right. On the Builders Stage, Rajat Bhageria (Founder &#38; CEO, Chef Robotics), Ann Bordetsky (Partner, [&#8230;]]]></description>
+					<description><![CDATA[Ann Bordetsky (NEA), Rajat Bhageria (Chef Robotics), and Murali Joshi (ICONIQ) join the Builders Stage at TechCrunch Disrupt 2025. Register now to save.]]></description>
 		
 		
 		
@@ -58,6 +307,7 @@
 		<pubDate>Tue, 05 Aug 2025 14:20:21 +0000</pubDate>
 				<category><![CDATA[Media & Entertainment]]></category>
 		<category><![CDATA[roku]]></category>
+		<category><![CDATA[streaming service]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3034119</guid>
 
 					<description><![CDATA[The service features a library of nearly 10,000 hours of content from Lionsgate, Warner Bros. Discovery, and FilmRise, alongside select Roku Original titles.]]></description>
@@ -66,16 +316,17 @@
 		
 			</item>
 		<item>
-		<title>DeepMind reveals Genie 3, a world model that could be the key to reaching AGI</title>
-		<link>https://techcrunch.com/2025/08/05/deepmind-reveals-genie-3-a-world-model-that-could-be-the-key-to-reaching-agi/</link>
+		<title>DeepMind thinks its new Genie 3 world model presents a stepping stone toward AGI</title>
+		<link>https://techcrunch.com/2025/08/05/deepmind-thinks-genie-3-world-model-presents-stepping-stone-towards-agi/</link>
 		
 		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
 		<pubDate>Tue, 05 Aug 2025 14:10:14 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[genie 3]]></category>
 		<category><![CDATA[google deepmind]]></category>
+		<category><![CDATA[artificial general intelligence]]></category>
+		<category><![CDATA[Generative AI]]></category>
 		<category><![CDATA[world models]]></category>
+		<category><![CDATA[genie 3]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3034130</guid>
 
 					<description><![CDATA[Google DeepMind has revealed Genie 3, its latest foundation world model that the AI lab says presents a crucial stepping stone on the path to artificial general intelligence, or human-like intelligence. ]]></description>
@@ -89,20 +340,21 @@
 		
 		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
 		<pubDate>Tue, 05 Aug 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Space]]></category>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Biotech & Health]]></category>
 		<category><![CDATA[Climate]]></category>
 		<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Robotics]]></category>
 		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Space]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[TC Event Promo]]></category>
+		<category><![CDATA[TechCrunch Disrupt 2025]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3034049</guid>
 
-					<description><![CDATA[TechCrunch Disrupt 2025 marks 20 years of driving the startup world forward — and you’ve got just two days left to join the movement and save up to $675 on your ticket. From October 27–29, Moscone West becomes the home base for over 10,000 movers and makers in the tech world. Join us in San [&#8230;]]]></description>
+					<description><![CDATA[Just two days left save up to $675 on your TechCrunch Disrupt 2025 ticket. Join 10,000 tech and VC leaders October 27-29, San Francisco. Register here.]]></description>
 		
 		
 		
@@ -115,9 +367,9 @@
 		<pubDate>Tue, 05 Aug 2025 14:00:00 +0000</pubDate>
 				<category><![CDATA[Apps]]></category>
 		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[audibooks]]></category>
 		<category><![CDATA[Spotify]]></category>
 		<category><![CDATA[streaming service]]></category>
+		<category><![CDATA[audibooks]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3034099</guid>
 
 					<description><![CDATA[Though Spotify launched its audiobooks service in the U.S. back in 2022, household members on Duo and Family plans have long been left out. Spotify says that will now change.]]></description>
@@ -139,7 +391,7 @@
 		<category><![CDATA[sonicwall]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3034105</guid>
 
-					<description><![CDATA[Security researchers say they have evidence that ransomware gangs are hacking into large companies that rely on fully-patched SonicWall firewalls. The researchers say it's likely the flaw is a "zero-day" bug currently unknown to SonicWall.]]></description>
+					<description><![CDATA[Security researchers say they have evidence that ransomware gangs are hacking into large companies that rely on fully patched SonicWall firewalls. The researchers say it's likely the flaw is a "zero-day" bug currently unknown to SonicWall.]]></description>
 		
 		
 		
@@ -154,243 +406,11 @@
 		<category><![CDATA[Government & Policy]]></category>
 		<category><![CDATA[Anthropic]]></category>
 		<category><![CDATA[Google]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<category><![CDATA[OpenAI]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3034101</guid>
 
-					<description><![CDATA[The companies will see their AI tools offered via a new federal contracting platform, the Multiple Awards Schedule (MAS), which would let government agencies access AI tool sellers with pre-negotiated contracts, rather than negotiating with vendors individually. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Jury rules Meta violated California privacy laws by quietly collecting Flo users&#8217; menstrual health data</title>
-		<link>https://techcrunch.com/2025/08/05/jury-rules-meta-violated-california-privacy-laws-by-collecting-menstrual-health-data-from-flo/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Tue, 05 Aug 2025 12:01:02 +0000</pubDate>
-				<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[Flo health]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[user privacy]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3034081</guid>
-
-					<description><![CDATA[The class-action suit was brought by users of period tracking app, Flo, who alleged that the tech giant collected private menstrual health data without users' consent and used it for ad-tracking purposes. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI-powered fintech Alaan raises $48M, one of the largest Series A rounds in MENA</title>
-		<link>https://techcrunch.com/2025/08/05/ai-powered-fintech-alaan-raises-48m-one-of-the-largest-series-a-rounds-in-mena/</link>
-		
-		<dc:creator><![CDATA[Tage Kene-Okafor]]></dc:creator>
-		<pubDate>Tue, 05 Aug 2025 07:45:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fintech]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3033780</guid>
-
-					<description><![CDATA[When Parthi Duraisamy was a consultant at McKinsey’s Dubai office, he discovered that the American Express cards his company relied on for corporate expenses were rarely accepted in the Middle East. This forced Duraisamy to cover significant travel expenses out of pocket and file endless expense reports. “It was a constant pain,” Duraisamy explained on [&#8230;]]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Uzbekistan&#8217;s first unicorn, Uzum, leaps to a $1.5B valuation</title>
-		<link>https://techcrunch.com/2025/08/05/uzbekistans-first-unicorn-uzum-leaps-to-a-1-5b-valuation/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Tue, 05 Aug 2025 07:00:00 +0000</pubDate>
-				<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[e-commerce]]></category>
-		<category><![CDATA[Tencent]]></category>
-		<category><![CDATA[Uzbekistan]]></category>
-		<category><![CDATA[Uzum]]></category>
-		<category><![CDATA[VR Capital]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3033911</guid>
-
-					<description><![CDATA[Uzbekistan's Uzum has raised $65.5 million in a new funding round co-led by China's Tencent and the New York- and London-based VR Capital, with participation from U.S.-based FinSight Capital.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Jeh Aerospace nets $11M to scale the commercial aircraft supply chain in India</title>
-		<link>https://techcrunch.com/2025/08/04/jeh-aerospace-nets-11m-to-scale-the-commercial-aircraft-supply-chain-in-india/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Tue, 05 Aug 2025 00:30:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[aerospace]]></category>
-		<category><![CDATA[Jeh Aerospace]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3033673</guid>
-
-					<description><![CDATA[Indian startup Jeh Aerospace has secured $11 million in a new funding round to help ease global supply chain bottlenecks.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>A top designer was banned from Dribbble. Now he&#8217;s building his own competitor.</title>
-		<link>https://techcrunch.com/2025/08/04/a-top-designer-was-banned-from-dribbble-now-hes-building-his-own-competitor/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Mon, 04 Aug 2025 21:45:18 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[design]]></category>
-		<category><![CDATA[Dribbble]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3033773</guid>
-
-					<description><![CDATA[Dribbble is enforcing its terms of service that lets it take a cut of designers' work, and kicking out those who don't comply. One top designer has had enough, and is building his own startup instead. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google says its AI-based bug hunter found 20 security vulnerabilities</title>
-		<link>https://techcrunch.com/2025/08/04/google-says-its-ai-based-bug-hunter-found-20-security-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
-		<pubDate>Mon, 04 Aug 2025 19:22:04 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[Big Sleep]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[DeepMind]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[hackers]]></category>
-		<category><![CDATA[infosec]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3033903</guid>
-
-					<description><![CDATA[The discoveries by an AI-based bug hunter are significant, as it shows these tools are starting to get real results, even if they still need a human.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Foxconn sells former GM factory to mystery buyer after failing to make EVs</title>
-		<link>https://techcrunch.com/2025/08/04/foxconn-sells-former-gm-factory-to-mystery-buyer-after-failing-to-make-evs/</link>
-		
-		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
-		<pubDate>Mon, 04 Aug 2025 18:43:02 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[electric vehicles]]></category>
-		<category><![CDATA[EVs]]></category>
-		<category><![CDATA[Foxconn]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3033712</guid>
-
-					<description><![CDATA[The company has spent more than three years claiming the factory would become an "important" EV hub. But it has barely produced anything there.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rivian sues to sell its EVs directly in Ohio</title>
-		<link>https://techcrunch.com/2025/08/04/rivian-sues-to-sell-its-evs-directly-in-ohio/</link>
-		
-		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
-		<pubDate>Mon, 04 Aug 2025 17:25:37 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Rivian]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3033799</guid>
-
-					<description><![CDATA[Today, Rivian can sell EVs directly to consumers in 25 states and Washington D.C. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Amazon denies report it&#8217;s shutting down Wondery podcast studio</title>
-		<link>https://techcrunch.com/2025/08/04/amazon-denies-report-its-shutting-down-wondery-podcast-studio/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Mon, 04 Aug 2025 17:14:00 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Amazon]]></category>
-		<category><![CDATA[podcasts]]></category>
-		<category><![CDATA[Wondery]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3033687</guid>
-
-					<description><![CDATA[Despite securing big names in the business, the company is now shifting its strategy in an effort to better compete with rivals like Spotify and YouTube.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TechCrunch Mobility: Tesla&#8217;s ride-hailing gambit</title>
-		<link>https://techcrunch.com/2025/08/04/techcrunch-mobility-teslas-ride-hailing-gambit/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
-		<pubDate>Mon, 04 Aug 2025 16:05:00 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[Tesla]]></category>
-		<category><![CDATA[Waymo]]></category>
-		<category><![CDATA[Joby Aviation]]></category>
-		<category><![CDATA[techcrunch mobility]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3033383</guid>
-
-					<description><![CDATA[Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Perplexity accused of scraping websites that explicitly blocked AI scraping</title>
-		<link>https://techcrunch.com/2025/08/04/perplexity-accused-of-scraping-websites-that-explicitly-blocked-ai-scraping/</link>
-		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
-		<pubDate>Mon, 04 Aug 2025 15:41:39 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[Artificial Intelligence (AI)]]></category>
-		<category><![CDATA[bots]]></category>
-		<category><![CDATA[cloudflare]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[Perplexity]]></category>
-		<category><![CDATA[scraping]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3033735</guid>
-
-					<description><![CDATA[Internet giant Cloudflare says it detected Perplexity crawling and scraping websites, even after customers had added technical blocks telling Perplexity not to scrape their pages.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI says ChatGPT is on track to reach 700M weekly users</title>
-		<link>https://techcrunch.com/2025/08/04/openai-says-chatgpt-is-on-track-to-reach-700m-weekly-users/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Mon, 04 Aug 2025 15:25:13 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3033733</guid>
-
-					<description><![CDATA[The app's popularity increased after OpenAI launched an upgraded image-generation feature, powered by the GPT-4 model, in March. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Elon Musk says he&#8217;s bringing back Vine&#8217;s archive</title>
-		<link>https://techcrunch.com/2025/08/04/elon-musk-says-hes-bringing-back-vines-archive/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Mon, 04 Aug 2025 15:16:13 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[Twitter]]></category>
-		<category><![CDATA[vine]]></category>
-		<category><![CDATA[X]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3033709</guid>
-
-					<description><![CDATA[Elon Musk says the company will bring Vine's archive of videos back online.]]></description>
+					<description><![CDATA[The companies will see their AI tools offered via a new federal contracting platform, the Multiple Award Schedule (MAS), which would let government agencies access AI tool sellers with pre-negotiated contracts, rather than negotiating with vendors individually. ]]></description>
 		
 		
 		

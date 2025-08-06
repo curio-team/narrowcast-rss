@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 05 Aug 2025 16:36:01 +0200</pubDate>
-        <lastBuildDate>Tue, 05 Aug 2025 16:36:01 +0200</lastBuildDate>
+        <pubDate>Wed, 06 Aug 2025 09:36:03 +0200</pubDate>
+        <lastBuildDate>Wed, 06 Aug 2025 09:36:03 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,146 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Liberty Global overweegt afsplitsing of verkoop VodafoneZiggo</title>
+            <link>https://tweakers.net/nieuws/237804/liberty-global-overweegt-afsplitsing-of-verkoop-vodafoneziggo.html</link>
+            <description>Liberty Global overweegt om VodafoneZiggo op termijn af te splitsen of te verkopen. Ceo Mike Fries zei tijdens de presentatie van de kwartaalcijfers dat hij hoopt meer waarde voor aandeelhouders te creëren door bepaalde bedrijfsonderdelen los te maken van Liberty Global.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237804/liberty-global-overweegt-afsplitsing-of-verkoop-vodafoneziggo.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237804</guid>
+            <pubDate>Wed, 06 Aug 2025 09:16:03 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Proxmox VE 9.0</title>
+            <link>https://tweakers.net/downloads/73552/proxmox-ve-90.html</link>
+            <description>Proxmox VE is een opensourceplatform voor virtualisatie gebaseerd op KVM en LXC-containers. Het kan via een webinterface worden beheerd en daarnaast zijn een commandline en een rest-api beschikbaar. Voor meer informatie verwijzen we naar deze pagina en verschillende videotutorials kunnen op deze pagina worden bekeken. Het geheel wordt onder de APGL uitgegeven. Versie 9.0 is uitgebracht en de belangrijkste verbeteringen die daarin zijn aangebracht zijn hieronder voor je op een rijtje gezet: Proxmox VE 9.0 released!</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73552/proxmox-ve-90.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73552</guid>
+            <pubDate>Wed, 06 Aug 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - pfSense Plus 25.07</title>
+            <link>https://tweakers.net/downloads/73548/pfsense-plus-2507.html</link>
+            <description>Netgate heeft versie 25.07 van pfSense Plus uitgebracht. Dit pakket is gebaseerd op het besturingssysteem FreeBSD en richt zich op router- en firewalltaken. Het is verkrijgbaar in de gratis Community Edition en een Plus-uitvoering, die voorheen als Factory Edition werd aangeboden. De Plus-uitvoering draait op de hardware die Netgate aanbiedt, als virtuele machine in AWS of Azure. In tegenstelling tot de Community Edition is het echter geen open source. Het is in 2004 begonnen als een afsplitsing van m0n0wall vanwege verschillende visies bij de ontwikkelaars en in de loop van de jaren uitgegroeid tot een router- en firewallpakket dat in zowel kleine als zeer grote omgevingen kan worden ingezet. Voor meer informatie verwijzen we naar deze pagina. De belangrijkste verbeteringen die in deze uitgave zijn aangebracht, zijn hieronder voor je op een rijtje gezet: Netgate Nexus</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73548/pfsense-plus-2507.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73548</guid>
+            <pubDate>Wed, 06 Aug 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - Gigabyte AORUS FO27Q5P-oledmonitor - Met 500 beelden per seconde aan kop</title>
+            <link>https://tweakers.net/reviews/13566/gigabyte-aorus-fo27q5p-oledmonitor-met-500-beelden-per-seconde-aan-kop.html</link>
+            <description>De Gigabyte AORUS FO27Q5P heeft de hoogste refreshrate van alle oledmonitors tot nu toe: 500Hz. Hoe bevalt het razendrappe paneel in de praktijk?</description>
+            <author>Friso Weijers</author>
+            <category>Review / Computers / Monitors</category>
+            <comments>https://tweakers.net/reviews/13566/gigabyte-aorus-fo27q5p-oledmonitor-met-500-beelden-per-seconde-aan-kop.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13566</guid>
+            <pubDate>Wed, 06 Aug 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Achtergrond - We hebben pas net PCIe 5.0 in onze pc&#039;s, maar 8.0 staat alweer voor de deur</title>
+            <link>https://tweakers.net/reviews/13606/we-hebben-pas-net-pcie-50-in-onze-pcs-maar-80-staat-alweer-voor-de-deur.html</link>
+            <description>PCIe 5.0-hardware begint pas net mainstream te worden, maar versie 8.0 is alweer aangekondigd. Wat hebben we daaraan?</description>
+            <author>Daan van Monsjou</author>
+            <category>Achtergrond / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/reviews/13606/we-hebben-pas-net-pcie-50-in-onze-pcs-maar-80-staat-alweer-voor-de-deur.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13606</guid>
+            <pubDate>Wed, 06 Aug 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Mozilla Firefox 141.0.2</title>
+            <link>https://tweakers.net/downloads/73544/mozilla-firefox-14102.html</link>
+            <description>Mozilla heeft een update voor versie 141 van zijn webbrowser Firefox uitgebracht. In versie 141 is onder meer de mogelijkheid toegevoegd om tabbladen automatisch te organiseren met behulp van een lokaal AI, kunnen eenheden voor onder meer gewicht, lengte en temperatuur in de adresbalk worden geconverteerd, en gebruikt de Linux-versie minder geheugen en heeft deze ook geen herstart meer nodig na een update. In versie 141.0.2 zijn verder nog de volgende verbeteringen aangebracht: Fixed</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73544/mozilla-firefox-14102.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73544</guid>
+            <pubDate>Tue, 05 Aug 2025 23:06:13 +0200</pubDate>
+        </item>
+        <item>
+            <title>DeepMind Genie 3 kan voor het eerst in real time speelbare 3d-werelden genereren</title>
+            <link>https://tweakers.net/nieuws/237798/deepmind-genie-3-kan-voor-het-eerst-in-real-time-speelbare-3d-werelden-genereren.html</link>
+            <description>Google DeepMind onthult het AI-model Genie 3 voor het met prompts genereren van speelbare 3d-werelden. Het nieuwe model kan in een 720p-resolutie speelbare wereld genereren. Gebruikers kunnen in real time in die omgevingen bewegen.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/237798/deepmind-genie-3-kan-voor-het-eerst-in-real-time-speelbare-3d-werelden-genereren.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237798</guid>
+            <pubDate>Tue, 05 Aug 2025 20:29:03 +0200</pubDate>
+        </item>
+        <item>
+            <title>WhatsApp lijkt ondersteuning Nederlands voor AI-chatbotfunctie uit te rollen</title>
+            <link>https://tweakers.net/nieuws/237796/whatsapp-lijkt-ondersteuning-nederlands-voor-ai-chatbotfunctie-uit-te-rollen.html</link>
+            <description>WhatsApp lijkt te zijn begonnen met het uitrollen van ondersteuning voor de Nederlandse taal voor de Meta AI-functie. Het is niet duidelijk of dit alleen in Nederland geldt of ook voor gebruikers in België.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/237796/whatsapp-lijkt-ondersteuning-nederlands-voor-ai-chatbotfunctie-uit-te-rollen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237796</guid>
+            <pubDate>Tue, 05 Aug 2025 19:48:08 +0200</pubDate>
+        </item>
+        <item>
+            <title>FritzBox-maker AVM verandert zijn naam officieel naar &#039;Fritz!&#039;</title>
+            <link>https://tweakers.net/nieuws/237794/fritzbox-maker-avm-verandert-zijn-naam-officieel-naar-fritz.html</link>
+            <description>De Duitse routerfabrikant AVM verandert zijn naam officieel naar &#039;Fritz!&#039;. Het bedrijf wil op die manier gebruikmaken van de naamsbekendheid van de Fritz-naam, die al voor al zijn producten wordt gebruikt.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237794/fritzbox-maker-avm-verandert-zijn-naam-officieel-naar-fritz.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237794</guid>
+            <pubDate>Tue, 05 Aug 2025 18:47:37 +0200</pubDate>
+        </item>
+        <item>
+            <title>ING geeft Nederlandse versie Bankieren-app de nieuwe naam &#039;ING&#039;</title>
+            <link>https://tweakers.net/nieuws/237792/ing-geeft-nederlandse-versie-bankieren-app-de-nieuwe-naam-ing.html</link>
+            <description>De Nederlandse bank ING geeft zijn bestaande Bankieren-app voor Nederlandse klanten de nieuwe naam &#039;ING&#039;. Volgens het bedrijf moet dit het makkelijker maken om de app in appwinkels te vinden en sluit het beter aan bij wat gebruikers nu al met de app kunnen en doen.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / IT Pro / Economie en maatschappij</category>
+            <comments>https://tweakers.net/nieuws/237792/ing-geeft-nederlandse-versie-bankieren-app-de-nieuwe-naam-ing.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237792</guid>
+            <pubDate>Tue, 05 Aug 2025 18:00:37 +0200</pubDate>
+        </item>
+        <item>
+            <title>Preview - FC 26 - Twee werelden in één voetbalgame</title>
+            <link>https://tweakers.net/reviews/13572/fc-26-twee-werelden-in-een-voetbalgame.html</link>
+            <description>FC 26 bevat twee soorten gameplay en moet daardoor diverse doelgroepen gelijkwaardig kunnen bedienen. Uiteraard zijn de diverse spelmodi ook allemaal vernieuwd.</description>
+            <author>Jurian Ubachs</author>
+            <category>Preview / Gaming / Games</category>
+            <comments>https://tweakers.net/reviews/13572/fc-26-twee-werelden-in-een-voetbalgame.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13572</guid>
+            <pubDate>Tue, 05 Aug 2025 18:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Sieradenketen Pandora meldt datalek door cyberaanval op derde partij - update</title>
+            <link>https://tweakers.net/nieuws/237790/sieradenketen-pandora-meldt-datalek-door-cyberaanval-op-derde-partij.html</link>
+            <description>De sieradenketen Pandora meldt in een e-mail aan klanten dat zij te maken heeft met een datalek als gevolg van een cyberaanval op een derde partij. Volgens Pandora gaat het alleen om namen, telefoonnummers en e-mailadressen van klanten, niet om betaalgegevens.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/237790/sieradenketen-pandora-meldt-datalek-door-cyberaanval-op-derde-partij.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237790</guid>
+            <pubDate>Tue, 05 Aug 2025 17:39:38 +0200</pubDate>
+        </item>
+        <item>
+            <title>PCIe 8.0 maakt ssd&#039;s met snelheden van 128GB/s mogelijk en verschijnt in 2028</title>
+            <link>https://tweakers.net/nieuws/237644/pcie-80-maakt-ssds-met-snelheden-van-128gb-s-mogelijk-en-verschijnt-in-2028.html</link>
+            <description>PCI-SIG heeft de PCIe 8.0-standaard aangekondigd. Deze verdubbelt de snelheden ten opzichte van PCIe 7.0, waardoor de nieuwe standaard x4-ssd&#039;s met snelheden van 128GB/s mogelijk zal maken. De PCIe 8.0-specificatie wordt naar verwachting in 2028 definitief gemaakt.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/237644/pcie-80-maakt-ssds-met-snelheden-van-128gb-s-mogelijk-en-verschijnt-in-2028.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237644</guid>
+            <pubDate>Tue, 05 Aug 2025 17:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Sandisk toont UltraQLC-ssd met opslagcapaciteit van 256TB</title>
+            <link>https://tweakers.net/nieuws/237788/sandisk-toont-ultraqlc-ssd-met-opslagcapaciteit-van-256tb.html</link>
+            <description>Sandisk heeft een van de eerste 256TB-ssd&#039;s aangekondigd. De ssd maakt gebruik van een nieuw type qlc-nand dat wordt aangestuurd door een custom ssd-controller. De drive is bedoeld voor enterprisetoepassingen en wordt vanaf volgend jaar geleverd.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Interne SSD&#039;s</category>
+            <comments>https://tweakers.net/nieuws/237788/sandisk-toont-ultraqlc-ssd-met-opslagcapaciteit-van-256tb.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237788</guid>
+            <pubDate>Tue, 05 Aug 2025 16:58:17 +0200</pubDate>
+        </item>
         <item>
             <title>Gerucht: Google stelt Pixel 10 Pro Fold en Watch 4 uit tot oktober</title>
             <link>https://tweakers.net/nieuws/237786/gerucht-google-stelt-pixel-10-pro-fold-en-watch-4-uit-tot-oktober.html</link>
@@ -70,7 +210,7 @@
         <item>
             <title>Software-update - Audacity 3.7.5</title>
             <link>https://tweakers.net/downloads/73540/audacity-375.html</link>
-            <description>Versie 3.7.5 van Audacity is uitgekomen. Deze opensource audio-editor, die beschikbaar is voor Windows, Linux en macOS, kan geluid opnemen en wav-, aiff-, ogg- en mp3-bestanden importeren en exporteren. Het programma heeft een ongelimiteerde undofunctie en heeft daarnaast een grote verzameling effecten aan boord, zoals fade-in en fade-out, echo, tempowijziging en ruisonderdrukking. Meer effecten kunnen eenvoudig worden toegevoegd, want het programma ondersteunt onder meer Nyquist-, vst- en ladspa-plug-ins. In deze uitgave zijn de volgende verbeteringen aangebracht: Windows ARM64 beta</description>
+            <description>Versie 3.7.5 van Audacity is uitgekomen. Deze opensource audio-editor, die beschikbaar is voor Windows, Linux en macOS, kan geluid opnemen en wav-, AIFF-, Ogg- en mp3-bestanden importeren en exporteren. Het programma heeft een ongelimiteerde undofunctie en heeft daarnaast een grote verzameling effecten aan boord, zoals fade-in en fade-out, echo, tempowijziging en ruisonderdrukking. Meer effecten kunnen eenvoudig worden toegevoegd, want het programma ondersteunt onder meer Nyquist-, VST- en Ladspa-plug-ins. In deze uitgave zijn de volgende verbeteringen aangebracht: Windows ARM64 beta</description>
             <author>Bart van Klaveren</author>
             <category>Software</category>
             <comments>https://tweakers.net/downloads/73540/audacity-375.html#reacties</comments>
@@ -178,12 +318,12 @@
             <pubDate>Tue, 05 Aug 2025 07:30:00 +0200</pubDate>
         </item>
         <item>
-            <title>Review - Nvidia GeForce RTX 5050 Review - Om de 5060 aantrekkelijk te doen lijken</title>
-            <link>https://tweakers.net/reviews/13594/nvidia-geforce-rtx-5050-review-om-de-5060-aantrekkelijk-te-doen-lijken.html</link>
+            <title>Review - Nvidia GeForce RTX 5050 - Om de 5060 aantrekkelijk te doen lijken</title>
+            <link>https://tweakers.net/reviews/13594/nvidia-geforce-rtx-5050-om-de-5060-aantrekkelijk-te-doen-lijken.html</link>
             <description>De GeForce RTX 5050, Nvidia&#039;s goedkoopste videokaart van deze generatie, is gericht op 1080p-gaming en opgebouwd rondom de GB207-gpu, de allerkleinste Blackwell-chip.</description>
             <author>Reinoud Dik</author>
             <category>Review / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/reviews/13594/nvidia-geforce-rtx-5050-review-om-de-5060-aantrekkelijk-te-doen-lijken.html#reacties</comments>
+            <comments>https://tweakers.net/reviews/13594/nvidia-geforce-rtx-5050-om-de-5060-aantrekkelijk-te-doen-lijken.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13594</guid>
             <pubDate>Tue, 05 Aug 2025 06:00:00 +0200</pubDate>
         </item>
@@ -277,146 +417,6 @@ Ook die zitten niet achter de recente opmars van gamecensuur.</description>
             <comments>https://tweakers.net/reviews/13620/in-juli-begonnen-we-met-dms-naar-submitters.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13620</guid>
             <pubDate>Mon, 04 Aug 2025 16:37:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - NOS maakt Teletekst beschikbaar via ssh</title>
-            <link>https://tweakers.net/geek/237754/nos-maakt-teletekst-beschikbaar-via-ssh.html</link>
-            <description>Teletekst mag er dan misschien oubollig uitzien, het is nog altijd onverminderd populair. En waar kun je nou beter zo&#039;n ouderwetse interface bekijken dan in je terminal? Teletekst is nu namelijk via ssh bereikbaar.</description>
-            <author>Tijs Hofmans</author>
-            <category>.Geek / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/geek/237754/nos-maakt-teletekst-beschikbaar-via-ssh.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/237754</guid>
-            <pubDate>Mon, 04 Aug 2025 15:10:09 +0200</pubDate>
-        </item>
-        <item>
-            <title>Nintendo: prijzen van Nintendo Switch blijven in Nederland en België gelijk</title>
-            <link>https://tweakers.net/nieuws/237752/nintendo-prijzen-van-nintendo-switch-blijven-in-nederland-en-belgie-gelijk.html</link>
-            <description>De prijzen van de originele Nintendo Switch-consoles gaan in Europa niet omhoog. Dat bevestigt Nintendo aan Tweakers, nadat het bedrijf vorige week aankondigde de prijzen in de Verenigde Staten omhoog te gooien.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Gaming / Consoles</category>
-            <comments>https://tweakers.net/nieuws/237752/nintendo-prijzen-van-nintendo-switch-blijven-in-nederland-en-belgie-gelijk.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237752</guid>
-            <pubDate>Mon, 04 Aug 2025 14:48:35 +0200</pubDate>
-        </item>
-        <item>
-            <title>Klanten van Simpel lijken al week geen e-sim te kunnen activeren</title>
-            <link>https://tweakers.net/nieuws/237746/klanten-van-simpel-lijken-al-week-geen-e-sim-te-kunnen-activeren.html</link>
-            <description>Klanten van Simpel lijken al lange tijd geen e-sim meer te kunnen activeren. Onder andere op het forum van Simpel en op het Tweakers-forum komen meldingen binnen van abonnees met problemen. Simpel zegt online dat het een storing heeft, maar niet wanneer die is opgelost.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
-            <comments>https://tweakers.net/nieuws/237746/klanten-van-simpel-lijken-al-week-geen-e-sim-te-kunnen-activeren.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237746</guid>
-            <pubDate>Mon, 04 Aug 2025 13:02:53 +0200</pubDate>
-        </item>
-        <item>
-            <title>Gigabyte verwijdert PCIe 5.0-ondersteuning voor gpu&#039;s op B650-moederborden</title>
-            <link>https://tweakers.net/nieuws/237744/gigabyte-verwijdert-pcie-50-ondersteuning-voor-gpus-op-b650-moederborden.html</link>
-            <description>Gigabyte heeft de onofficiële ondersteuning voor PCIe 5.0 voor videokaarten verwijderd uit zijn B650-moederborden. Met de recente biosupdate is die onofficiële Gen 5-optie niet meer in de instellingen te zien, al heeft Gigabyte daar zelf publiek niets over gezegd.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Moederborden</category>
-            <comments>https://tweakers.net/nieuws/237744/gigabyte-verwijdert-pcie-50-ondersteuning-voor-gpus-op-b650-moederborden.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237744</guid>
-            <pubDate>Mon, 04 Aug 2025 12:17:57 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Flameshot 13.0.0</title>
-            <link>https://tweakers.net/downloads/73532/flameshot-1300.html</link>
-            <description>Versie 13.0.0 van Flameshot is uitgekomen. Met dit opensource en crossplatform programma kunnen screenshots worden gemaakt en meteen ook worden bewerkt. Zo kunnen er bijvoorbeeld tekst, lijnen, pijlen, cirkels en genummerde stappen worden toegevoegd en gevoelige informatie worden verborgen. Na afloop kan de afbeelding worden opgeslagen of naar het klembord worden gestuurd. De changelog voor versie 13.0.0 kan hieronder worden gevonden.</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73532/flameshot-1300.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73532</guid>
-            <pubDate>Mon, 04 Aug 2025 10:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Pwn2Own-hackerswedstrijd biedt miljoen dollar voor zeroclickbugs in WhatsApp</title>
-            <link>https://tweakers.net/nieuws/237742/pwn2own-hackerswedstrijd-biedt-miljoen-dollar-voor-zeroclickbugs-in-whatsapp.html</link>
-            <description>Hackerscompetitie Pwn2Own deelt een beloning van een miljoen dollar uit aan hackers die bepaalde WhatsApp-bugs kunnen vinden. Later dit jaar kunnen hackers meedingen naar die prijs, waarbij ze code moeten kunnen uitvoeren in WhatsApp zonder tussenkomst van het slachtoffer.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/237742/pwn2own-hackerswedstrijd-biedt-miljoen-dollar-voor-zeroclickbugs-in-whatsapp.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237742</guid>
-            <pubDate>Mon, 04 Aug 2025 10:20:20 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Fan Control 229</title>
-            <link>https://tweakers.net/downloads/73530/fan-control-229.html</link>
-            <description>Versie 229 van Fan Control is uitgekomen. Met dit programma kunnen de ventilators in de computer worden beheerd en in de gaten worden gehouden. Zo is het onder meer mogelijk om met verschillende profielen en configuraties de computer koel of juist stil te houden. Fan Control kan overweg met de meeste fans en controllers en via een plug-insysteem is dat verder uit te breiden. Hoewel het gebruikmaakt van het opensource Libre Hardware Monitor-project, wordt het programma zelf als freeware aangeboden. De changelog voor deze uitgave ziet er als volgt uit: Changelog for version 229:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73530/fan-control-229.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73530</guid>
-            <pubDate>Mon, 04 Aug 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Community - Schrijf je nu in voor de Tweakers FC Eredivisie Voetbalpool</title>
-            <link>https://tweakers.net/reviews/13534/schrijf-je-nu-in-voor-de-tweakers-fc-eredivisie-voetbalpool.html</link>
-            <description>Op 8 augustus start het nieuwe seizoen van de eredivisie. Een leuk communityinitiatief is de jaarlijkse voetbalpool. Wil je meedoen? Je kunt je nu inschrijven!</description>
-            <author>Saskia Schoonebeek</author>
-            <category>.Community / IT Pro / Websites en community&#039;s</category>
-            <comments>https://tweakers.net/reviews/13534/schrijf-je-nu-in-voor-de-tweakers-fc-eredivisie-voetbalpool.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13534</guid>
-            <pubDate>Mon, 04 Aug 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Apple werkt aan eigen zoekmachine op basis van AI&#039;</title>
-            <link>https://tweakers.net/nieuws/237738/apple-werkt-aan-eigen-zoekmachine-op-basis-van-ai.html</link>
-            <description>Apple werkt volgens Mark Gurman aan een eigen zoekmachine op basis van AI. Deze zoekmachine moet een antwoord zijn op andere AI-diensten zoals ChatGPT, maar ook op een mogelijke verstoring van de deal die het bedrijf met Google heeft.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Internet</category>
-            <comments>https://tweakers.net/nieuws/237738/apple-werkt-aan-eigen-zoekmachine-op-basis-van-ai.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237738</guid>
-            <pubDate>Mon, 04 Aug 2025 08:46:58 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - DBeaver 25.1.4</title>
-            <link>https://tweakers.net/downloads/73528/dbeaver-2514.html</link>
-            <description>Versie 25.1.4 van DBeaver is uitgekomen. Met dit programma kunnen databases worden beheerd. Het kan onder andere query&#039;s uitvoeren en data tonen, filteren en bewerken. Er is ondersteuning aanwezig voor de bekende databases, zoals MySQL, Oracle, DB2, SQL Server, PostgreSQL, Firebird en SQLite. Het is verkrijgbaar in een opensource CE-uitvoering en drie verschillende commerciële uitvoeringen. Deze voegen onder meer ondersteuning voor verschillende nosql-databases toe, zoals MongoDB, Apache Cassandra en Apache Hive, en bevatten verder extra plug-ins en JDBC-drivers. De changelog voor deze uitgave ziet er als volgt uit: Changes in DBeaver version 25.1.4:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73528/dbeaver-2514.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73528</guid>
-            <pubDate>Mon, 04 Aug 2025 07:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Quicktest - Acer Aspire 14 AI-laptop - Mooie deal voor goedkoopste Lunar Lake</title>
-            <link>https://tweakers.net/reviews/13556/acer-aspire-14-ai-laptop-mooie-deal-voor-goedkoopste-lunar-lake.html</link>
-            <description>Met een prijs van 800 euro is de Aspire 14 AI de goedkoopste laptop met Intel Lunar Lake-processor. Maakt dat hem een aanrader?</description>
-            <author>Jelle Stuip</author>
-            <category>Quicktest / Computers / Laptops</category>
-            <comments>https://tweakers.net/reviews/13556/acer-aspire-14-ai-laptop-mooie-deal-voor-goedkoopste-lunar-lake.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13556</guid>
-            <pubDate>Mon, 04 Aug 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Quicktest - Biwin Black Opal X570H Pro 2TB - De ssd-fabrikant die nog niemand kent</title>
-            <link>https://tweakers.net/reviews/13522/biwin-black-opal-x570h-pro-2tb-de-ssd-fabrikant-die-nog-niemand-kent.html</link>
-            <description>In deze korte review speelt de Biwin Black Opal X570H Pro 2TB de hoofdrol. Nu hoor ik je denken: &quot;Biwin? Wie is dat, nooit van gehoord&quot;, maar dat gaat veranderen.</description>
-            <author>Willem de Moor</author>
-            <category>Quicktest / Computers / Interne SSD&#039;s</category>
-            <comments>https://tweakers.net/reviews/13522/biwin-black-opal-x570h-pro-2tb-de-ssd-fabrikant-die-nog-niemand-kent.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13522</guid>
-            <pubDate>Mon, 04 Aug 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Shutter Encoder 19.3</title>
-            <link>https://tweakers.net/downloads/73526/shutter-encoder-193.html</link>
-            <description>Shutter Encoder is een gratis programma waarmee videobestanden kunnen worden bewerkt en geconverteerd. Het heeft een uitgebreide lijst met mogelijkheden, te lang om hier op te noemen. De video onder dit artikel laat in het kort de belangrijkste zien. Het programma is beschikbaar voor Windows, macOS en Linux, en wordt actief ontwikkeld. Het toont geen advertenties, voegt geen watermerk toe en is ook in het Nederlands te gebruiken. De auteur leeft geheel van donaties. Versie 19.3 is beschikbaar gekomen en hierin zijn de volgende veranderingen en verbeteringen aangebracht: Changes in version 19.3:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73526/shutter-encoder-193.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73526</guid>
-            <pubDate>Sun, 03 Aug 2025 20:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - 7-Zip 25.01</title>
-            <link>https://tweakers.net/downloads/73524/7-zip-2501.html</link>
-            <description>Versie 25.01 van het opensource archiveringsprogramma 7-Zip is uitgebracht, een stabiele uitgave. Dit programma kan overweg met een groot aantal compressieformaten, waaronder ZIP, CAB, RAR, ARJ, LZH, CHM, gzip, bzip2, z, tar, cpio, RPM, deb en uiteraard het zelfontwikkelde 7z. Verder is de software in staat om ISO-bestanden en NSIS-installatiepakketten te openen. In deze uitgave is de manier hoe symbolische links worden afgehandeld aangepast. What&#039;s new in 7-Zip 25.01:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73524/7-zip-2501.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73524</guid>
-            <pubDate>Sun, 03 Aug 2025 18:30:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
