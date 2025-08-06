@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 06 Aug 2025 14:41:01 +0200</pubDate>
-        <lastBuildDate>Wed, 06 Aug 2025 14:41:01 +0200</lastBuildDate>
+        <pubDate>Wed, 06 Aug 2025 15:41:03 +0200</pubDate>
+        <lastBuildDate>Wed, 06 Aug 2025 15:41:03 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - PhpStorm 2025.2</title>
+            <link>https://tweakers.net/downloads/73560/phpstorm-20252.html</link>
+            <description>JetBrains brengt verschillende ontwikkelomgevingen uit, zoals IntelliJ Idea gericht op Java, CLion gericht op C en C++ en DataGrip gericht op sql. PhpStorm is gericht op php en biedt on-the-fly-errorpreventie, autocompletion, coderefactoring en debugging, en kan ook overweg met HTML, CSS, Coffee- en JavaScript. Voor een overzicht van de mogelijkheden verwijzen we naar deze pagina. Voor het gebruik van PhpStorm is wel een licentie nodig. Voor zakelijk en thuisgebruik zul je daarvoor moeten betalen, maar als de software wordt gebruikt voor onderwijs of niet-commerciële opensourceprojecten, is de licentie gratis. JetBrains heeft versie 2025.2 van PhpStorm uitgebracht en de belangrijkste verbeteringen die daarin zijn aangebracht, zien er als volgt uit:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73560/phpstorm-20252.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73560</guid>
+            <pubDate>Wed, 06 Aug 2025 15:00:00 +0200</pubDate>
+        </item>
         <item>
             <title>KLM meldt datalek waarbij namen en contactgegevens van klanten zijn buitgemaakt</title>
             <link>https://tweakers.net/nieuws/237812/klm-meldt-datalek-waarbij-namen-en-contactgegevens-van-klanten-zijn-buitgemaakt.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/downloads/73536/amd-radeon-software-adrenalin-edition-2581.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73536</guid>
             <pubDate>Tue, 05 Aug 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Firmware-update - Asuswrt-Merlin 3006.102.5</title>
-            <link>https://tweakers.net/downloads/73534/asuswrt-merlin-30061025.html</link>
-            <description>Asus gebruikt voor zijn routers, zoals de RT-AC68 en RT-AX88, een van Tomato afgeleide firmware met de naam Asuswrt. Deze firmware is, op enkele drivers na, opensource, waarbij de gesloten binaries wel meegeleverd worden. Asuswrt-Merlin is op zijn beurt een aangepaste versie van de originele firmware van Asus. Het bevat onder meer bugfixes en kleine verbeteringen, maar probeert toch dicht bij het origineel te blijven, zodat het mogelijk blijft om nieuwe features die Asus introduceert, toe te voegen aan de code. Versie 3006.102.5 is uitgekomen en hierin zijn de volgende veranderingen en verbeteringen aangebracht: Note:</description>
-            <author>Bart van Klaveren</author>
-            <category>Firmware</category>
-            <comments>https://tweakers.net/downloads/73534/asuswrt-merlin-30061025.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73534</guid>
-            <pubDate>Tue, 05 Aug 2025 07:30:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
