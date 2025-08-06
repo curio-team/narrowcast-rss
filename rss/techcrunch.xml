@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 06 Aug 2025 01:46:43 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 Aug 2025 12:20:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,43 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Google says hackers stole its customers&#8217; data by breaching its Salesforce database</title>
+		<link>https://techcrunch.com/2025/08/06/google-says-hackers-stole-its-customers-data-in-a-breach-of-its-salesforce-database/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Wed, 06 Aug 2025 12:05:25 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[google cloud]]></category>
+		<category><![CDATA[Salesforce]]></category>
+		<category><![CDATA[shinyhunters]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3034532</guid>
+
+					<description><![CDATA[Google confirmed that one of its cloud-stored Salesforce databases was breached, exposing its customer data. Google attributed the breach to a hacking group, ShinyHunters, known for breaking into Salesforce databases.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Qwant and Ecosia debut Staan, a European search index that aims to take on Big Tech</title>
+		<link>https://techcrunch.com/2025/08/06/qwant-and-ecosia-debut-staan-a-european-search-index-that-aims-to-take-on-big-tech/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Wed, 06 Aug 2025 11:45:38 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Ecosia]]></category>
+		<category><![CDATA[Qwant]]></category>
+		<category><![CDATA[Search]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3033650</guid>
+
+					<description><![CDATA[European search engines Qwant and Ecosia said on Wednesday that they have both started serving search queries through an index they developed together, Staan, that aims to be a cheaper, more privacy-focused alternative to Google and Bing.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Clay confirms it closed $100M round at $3.1B valuation</title>
 		<link>https://techcrunch.com/2025/08/05/clay-confirms-it-closed-100m-round-at-3-1b-valuation/</link>
 		
@@ -340,16 +377,16 @@
 		
 		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
 		<pubDate>Tue, 05 Aug 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Biotech & Health]]></category>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Space]]></category>
 		<category><![CDATA[Climate]]></category>
 		<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[Space]]></category>
-		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Biotech & Health]]></category>
 		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Fundraising]]></category>
 		<category><![CDATA[TC Event Promo]]></category>
 		<category><![CDATA[TechCrunch Disrupt 2025]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3034049</guid>
@@ -373,44 +410,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3034099</guid>
 
 					<description><![CDATA[Though Spotify launched its audiobooks service in the U.S. back in 2022, household members on Duo and Family plans have long been left out. Spotify says that will now change.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SonicWall urges customers to disable SSLVPN amid reports of ransomware attacks</title>
-		<link>https://techcrunch.com/2025/08/05/sonicwall-urges-customers-to-disable-sslvpn-amid-reports-of-ransomware-attacks/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Tue, 05 Aug 2025 13:48:43 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cyberattacks]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<category><![CDATA[sonicwall]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3034105</guid>
-
-					<description><![CDATA[Security researchers say they have evidence that ransomware gangs are hacking into large companies that rely on fully patched SonicWall firewalls. The researchers say it's likely the flaw is a "zero-day" bug currently unknown to SonicWall.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US adds OpenAI, Google, and Anthropic to list of approved AI vendors for federal agencies</title>
-		<link>https://techcrunch.com/2025/08/05/us-adds-openai-google-and-anthropic-to-list-of-approved-ai-vendors-for-federal-agencies/</link>
-		
-		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
-		<pubDate>Tue, 05 Aug 2025 13:43:12 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3034101</guid>
-
-					<description><![CDATA[The companies will see their AI tools offered via a new federal contracting platform, the Multiple Award Schedule (MAS), which would let government agencies access AI tool sellers with pre-negotiated contracts, rather than negotiating with vendors individually. ]]></description>
 		
 		
 		
