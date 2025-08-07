@@ -1,14 +1,421 @@
-<HTML><HEAD>
-<TITLE>Access Denied</TITLE>
-</HEAD><BODY>
-<H1>Access Denied</H1>
-<P>Your request was blocked by DPG Media's Web Application Firewall.</P>
-<P>For more information contact application support and specify: </P>
-<ul>
-  <li>Reference: 0.ccbd517.1754563116.44284d29</li>
-  <li>ClientIP: 135.232.201.83</li>
-  <li><div id="url"></div></li>
-<script>document.getElementById('url').innerText = window.location.href; </script>
-</ul>
-</BODY>
-</HTML>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" >
+    <channel>
+        <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
+        <pubDate>Thu, 07 Aug 2025 13:31:04 +0200</pubDate>
+        <lastBuildDate>Thu, 07 Aug 2025 13:31:04 +0200</lastBuildDate>
+        <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
+        <image>
+            <link>https://tweakers.net/</link>
+            <title>Tweakers</title>
+            <url>https://tweakers.net/logo.png</url>
+            <width>196</width>
+            <height>196</height>
+            <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
+        </image>
+        <language>nl-NL</language>
+        <link>https://tweakers.net/</link>
+        <title>Tweakers Mixed RSS Feed</title>
+        <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Davinci Resolve 20.1</title>
+            <link>https://tweakers.net/downloads/73572/davinci-resolve-201.html</link>
+            <description>Blackmagic Design heeft versie 20.1 van DaVinci Resolve uitgebracht. DaVinci Resolve is een videobewerkingsprogramma voor Windows, macOS en Linux. Het is beschikbaar in de gratis DaVinci Resolve-uitvoering en het betaalde DaVinci Resolve Studio. Dat laatste beschikt over extra functionaliteit, zoals de mogelijkheid om in hogere resoluties en grotere aantallen frames per seconde te werken en de mogelijkheid om van extra grafische processors en OpenFX-plug-ins gebruik te maken. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Key Features</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73572/davinci-resolve-201.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73572</guid>
+            <pubDate>Thu, 07 Aug 2025 13:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>NPO Luister-iOS-gebruikers melden opvallend hoog verbruik van maximaal 50Mbit/s</title>
+            <link>https://tweakers.net/nieuws/237854/npo-luister-ios-gebruikers-melden-opvallend-hoog-verbruik-van-maximaal-50mbit-s.html</link>
+            <description>Gebruikers van de iOS-versie van de NPO Luister-app melden sinds kort een opvallend hoog dataverbruik, dat kan oplopen tot ongeveer 50Mbit/s. Dit is ruim 150 keer meer dan bijvoorbeeld Spotify vereist en meer dan wat videostreamingdiensten voor 4k vragen.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/237854/npo-luister-ios-gebruikers-melden-opvallend-hoog-verbruik-van-maximaal-50mbit-s.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237854</guid>
+            <pubDate>Thu, 07 Aug 2025 12:58:42 +0200</pubDate>
+        </item>
+        <item>
+            <title>Ziggo verlaagt stilletjes gemiddelde bitrate via DVB-C</title>
+            <link>https://tweakers.net/nieuws/237850/ziggo-verlaagt-stilletjes-gemiddelde-bitrate-via-dvb-c.html</link>
+            <description>Ziggo heeft stilletjes meerdere aanpassingen doorgevoerd in het tv-signaal dat het bedrijf via DVB-C verstuurt. De provider heeft onder meer het gebruik van een aantal transportstreams stopgezet. Ook zendt Ziggo zenders nu uit met een variabele bandbreedte.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / Beeld en geluid / Televisies</category>
+            <comments>https://tweakers.net/nieuws/237850/ziggo-verlaagt-stilletjes-gemiddelde-bitrate-via-dvb-c.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237850</guid>
+            <pubDate>Thu, 07 Aug 2025 12:37:16 +0200</pubDate>
+        </item>
+        <item>
+            <title>WeTransfer mag vanaf 8 augustus content gebruiken voor ‘ontwikkelen dienst’</title>
+            <link>https://tweakers.net/nieuws/237848/wetransfer-mag-vanaf-8-augustus-content-gebruiken-voor-ontwikkelen-dienst.html</link>
+            <description>WeTransfer voert op 8 augustus nieuwe voorwaarden in, die in juli tot onvrede en een stille wijziging hebben geleid. Juristen zijn sceptisch over de gewijzigde voorwaarden, die WeTransfer verregaande rechten geven op bestanden die gebruikers via het platform versturen.</description>
+            <author>Jasper Bakker</author>
+            <category>Nieuws / IT Pro / Fotografie en video</category>
+            <comments>https://tweakers.net/nieuws/237848/wetransfer-mag-vanaf-8-augustus-content-gebruiken-voor-ontwikkelen-dienst.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237848</guid>
+            <pubDate>Thu, 07 Aug 2025 12:20:47 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Snagit 2025.3.0</title>
+            <link>https://tweakers.net/downloads/73570/snagit-202530.html</link>
+            <description>TechSmith heeft versie 2025.3.0 van Snagit uitgebracht. Ook de 2024-versie heeft een update gekregen naar 2024.3.3. Met dit programma, dat voor zowel Windows als macOS beschikbaar is, kunnen plaatjes, tekst, bewegende beelden en webpagina&#039;s worden afgevangen en bewerkt. Zo kunnen er effecten als perspectief, spotlight en magnify op worden losgelaten. Verder kunnen ter verduidelijking teksten, pijlen en cirkels worden aangebracht. De screenshots kunnen als afbeeldingen worden opgeslagen of direct in diverse programma&#039;s zoals Word en PowerPoint worden geïmporteerd. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Step Capture</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73570/snagit-202530.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73570</guid>
+            <pubDate>Thu, 07 Aug 2025 12:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Dia Pro-abonnement biedt onbeperkte AI-chats in browser voor 20 dollar per maand</title>
+            <link>https://tweakers.net/nieuws/237852/dia-pro-abonnement-biedt-onbeperkte-ai-chats-in-browser-voor-20-dollar-per-maand.html</link>
+            <description>The Browser Company heeft het eerste abonnement voor de Dia-AI-browser uitgebracht. Het abonnement heet Dia Pro en kost 20 dollar per maand. Dit abonnement laat gebruikers met minder beperkingen met Dia chatten. Het is niet duidelijk wat de beperking is voor gratis gebruikers.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Computers / Browsers</category>
+            <comments>https://tweakers.net/nieuws/237852/dia-pro-abonnement-biedt-onbeperkte-ai-chats-in-browser-voor-20-dollar-per-maand.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237852</guid>
+            <pubDate>Thu, 07 Aug 2025 11:15:25 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Media Player Classic - Black Edition 1.8.6</title>
+            <link>https://tweakers.net/downloads/73568/media-player-classic-black-edition-186.html</link>
+            <description>Media Player Classic is een kleine no-nonsensemediaspeler met het uiterlijk van Windows Media Player 6.4. Nadat Gabest, de originele maker van MPC, de ontwikkeling staakte, zijn verschillende projecten ontstaan op basis van de opensourcecode. Home Cinema en Black Edition zijn daarvan de bekendste. MPC - BE kan overweg met de meestgebruikte mediaformaten, heeft ondersteuning voor hardwareacceleratie en is in meer dan 25 talen te gebruiken. Versie 1.8.6 is uitgekomen en hierin zijn de volgende veranderingen en verbeteringen aangebracht: MpaSplitter</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73568/media-player-classic-black-edition-186.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73568</guid>
+            <pubDate>Thu, 07 Aug 2025 10:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Apple investeert 100 miljard dollar extra in Amerikaanse activiteiten</title>
+            <link>https://tweakers.net/nieuws/237840/apple-investeert-100-miljard-dollar-extra-in-amerikaanse-activiteiten.html</link>
+            <description>Apple investeert de komende vier jaar 100 miljard dollar extra in de Amerikaanse activiteiten. Daarmee komt de totale investeringsbelofte neer op 600 miljard dollar. Het gaat onder meer om de productie van onderdelen, hoewel de productie van iPhones elders blijft plaatsvinden.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/237840/apple-investeert-100-miljard-dollar-extra-in-amerikaanse-activiteiten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237840</guid>
+            <pubDate>Thu, 07 Aug 2025 10:15:11 +0200</pubDate>
+        </item>
+        <item>
+            <title>AI in Windows maakt muis en toetsenbord in 2030 volgens Microsoft overbodig</title>
+            <link>https://tweakers.net/nieuws/237824/ai-in-windows-maakt-muis-en-toetsenbord-in-2030-volgens-microsoft-overbodig.html</link>
+            <description>Microsoft zet in een visie voor ‘Windows in 2030’ uiteen dat gebruikers in de toekomst kunnen praten tegen het OS. Ingebouwde AI-agents die alles zien en horen, voeren dan taken uit. Muis en toetsenbord zullen volgens het bedrijf net zo achterhaald zijn als de MS-DOS-interface.</description>
+            <author>Jasper Bakker</author>
+            <category>Nieuws / Computers / Besturingssystemen</category>
+            <comments>https://tweakers.net/nieuws/237824/ai-in-windows-maakt-muis-en-toetsenbord-in-2030-volgens-microsoft-overbodig.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237824</guid>
+            <pubDate>Thu, 07 Aug 2025 09:48:53 +0200</pubDate>
+        </item>
+        <item>
+            <title>Microsofts pc-bèta van Gaming Copilot geeft live AI-hulp, maar slaat Europa over</title>
+            <link>https://tweakers.net/nieuws/237842/microsofts-pc-beta-van-gaming-copilot-geeft-live-ai-hulp-maar-slaat-europa-over.html</link>
+            <description>Microsoft heeft een pc-bètaversie van de Gaming Copilot uitgebracht. Deze AI-functie kan spelers ondersteunen bij games, bijvoorbeeld als ze ergens vastlopen. De functie is nog niet beschikbaar in Europa.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/237842/microsofts-pc-beta-van-gaming-copilot-geeft-live-ai-hulp-maar-slaat-europa-over.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237842</guid>
+            <pubDate>Thu, 07 Aug 2025 09:34:09 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Bitwarden 2025.7.3</title>
+            <link>https://tweakers.net/downloads/73564/bitwarden-202573.html</link>
+            <description>Bitwarden is een crossplatform en opensource wachtwoordbeheerdienst die persoonlijke gegevens in een versleutelde digitale kluis opslaat. Het is in de basis gratis te gebruiken en voor een klein bedrag per jaar is er toegang tot diverse extra&#039;s zoals het kunnen opslaan van TOTP-codes, het veilig kunnen versturen van informatie en bestanden, inloggen met een YubiKey en opslagcapaciteit voor bijlagen. Bitwarden is beschikbaar online, als desktopclient, als mobiele app en als plug-in voor diverse webbrowsers. Sinds versie 2025.7.0 zijn de volgende veranderingen en verbeteringen aangebracht:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73564/bitwarden-202573.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73564</guid>
+            <pubDate>Thu, 07 Aug 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Trump wil 100 procent importheffing op chips van bedrijven zonder fabriek in VS</title>
+            <link>https://tweakers.net/nieuws/237836/trump-wil-100-procent-importheffing-op-chips-van-bedrijven-zonder-fabriek-in-vs.html</link>
+            <description>President Donald Trump van de Verenigde Staten wil een importheffing van 100 procent op chips, tenzij de fabrikant chips in de VS maakt of dit van plan is. Deze importheffing komt boven op eerder aangekondigde importheffingen. Een startdatum is niet bekend.</description>
+            <author>Hayte Hugo</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/237836/trump-wil-100-procent-importheffing-op-chips-van-bedrijven-zonder-fabriek-in-vs.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237836</guid>
+            <pubDate>Thu, 07 Aug 2025 08:45:23 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - FreeCAD 1.0.2</title>
+            <link>https://tweakers.net/downloads/73550/freecad-102.html</link>
+            <description>Versie 1.0.2 van FreeCAD is uitgekomen. FreeCAD is een gratis en opensource Computer Aided Design-programma en is primair bedoeld voor werktuigbouwkundige ontwerpen, maar kan ook prima voor elektronische ontwerpen of in de architectuur worden gebruikt. In deze tweede update voor versie 1.0 zijn de volgende veranderingen en verbeteringen aangebracht: FreeCAD 1.0.2 released</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73550/freecad-102.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73550</guid>
+            <pubDate>Thu, 07 Aug 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - De drie dikste AMD X870-moederborden van 1000 euro</title>
+            <link>https://tweakers.net/reviews/13588/de-drie-dikste-amd-x870-moederborden-van-1000-euro.html</link>
+            <description>ASUS, Gigabyte en MSI maken AMD X870-moederborden van maar liefst duizend euro. Wie van hen heeft het ultiemste socket AM5-moederbord ontworpen?</description>
+            <author>Tomas Hochstenbach</author>
+            <category>Review / Computers / Moederborden</category>
+            <comments>https://tweakers.net/reviews/13588/de-drie-dikste-amd-x870-moederborden-van-1000-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13588</guid>
+            <pubDate>Thu, 07 Aug 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Tweakers Podcast #385 - Videokaartprijzen, wachtwoordmanagers en de Matrix</title>
+            <link>https://tweakers.net/geek/237820/tweakers-podcast-385-videokaartprijzen-wachtwoordmanagers-en-de-matrix.html</link>
+            <description>Deze week praten Wout Funnekotter, Tijs Hofmans, Jelle Stuip en Reinoud Dik over de afnemende groei van zonnepanelen in Nederland, Tweakers&#039; aanwezigheid op WHY, betalen voor wachtwoordmanagers en Googles nieuwe Genie 3-wereldmodel.</description>
+            <author>Wout Funnekotter</author>
+            <category>.Geek / Beeld en geluid / Audio</category>
+            <comments>https://tweakers.net/geek/237820/tweakers-podcast-385-videokaartprijzen-wachtwoordmanagers-en-de-matrix.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/237820</guid>
+            <pubDate>Thu, 07 Aug 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Video - Videokaartprijzen, wachtwoordmanagers en de Matrix - Tweakers Podcast #385</title>
+            <link>https://tweakers.net/video/20034/videokaartprijzen-wachtwoordmanagers-en-de-matrix-tweakers-podcast-385.html</link>
+            <description>Deze week praten Wout Funnekotter, Tijs Hofmans, Jelle Stuip en Reinoud Dik over de afnemende groei van zonnepanelen in Nederland, Tweakers&#039; aanwezigheid op WHY, betalen voor wachtwoordmanagers en Googles nieuwe Genie 3-wereldmodel.</description>
+            <author>Mark van der Kruit</author>
+            <category>Video / Beeld en geluid / Audio</category>
+            <comments>https://tweakers.net/video/20034/videokaartprijzen-wachtwoordmanagers-en-de-matrix-tweakers-podcast-385.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/video/20034</guid>
+            <pubDate>Thu, 07 Aug 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>OpenAI teaset aankondiging van GPT-5 op 7 augustus</title>
+            <link>https://tweakers.net/nieuws/237834/openai-teaset-aankondiging-van-gpt-5-op-7-augustus.html</link>
+            <description>Het lijkt erop dat OpenAI het nieuwe model van ChatGPT, GPT-5, op 7 augustus onthult. Het bedrijf kondigt een aankomende livestream aan die daarop wijst.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237834/openai-teaset-aankondiging-van-gpt-5-op-7-augustus.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237834</guid>
+            <pubDate>Wed, 06 Aug 2025 21:18:01 +0200</pubDate>
+        </item>
+        <item>
+            <title>Call of Duty: Black Ops 7 gaat Secure Boot en TPM 2.0 vereisen</title>
+            <link>https://tweakers.net/nieuws/237832/call-of-duty-black-ops-7-gaat-secure-boot-en-tpm-20-vereisen.html</link>
+            <description>Het aankomende Call of Duty: Black Ops 7 vereist op pc&#039;s een TPM 2.0-module en de Secure Boot-functie van Windows. Volgens Activision wordt het daardoor moeilijker om op hardwareniveau te cheaten.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/237832/call-of-duty-black-ops-7-gaat-secure-boot-en-tpm-20-vereisen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237832</guid>
+            <pubDate>Wed, 06 Aug 2025 21:06:29 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Home Assistant Core 2025.8.0</title>
+            <link>https://tweakers.net/downloads/73566/home-assistant-core-202580.html</link>
+            <description>Versie 2025.8.0 van Home Assistant Core is uitgebracht. Home Assistant Core is een opensourceplatform voor domotica gemaakt in Python 3. Het ondersteunt het detecteren van apparaten zoals Philips Hue, Belkin, Mr. Coffee-koffiezetapparaten, WeMo-schakelaars, de slimme schakelaars van IKEA en het MQTT-protocol. Daarnaast kan het waar mogelijk deze apparaten aansturen en automatisering toepassen. Voor meer informatie over Home Assistant verwijzen we naar deze pagina en ons eigen forum. De volledige releasenotes voor deze uitgave zijn hier te vinden. Dit is de aankondiging daaruit: 2025.8: The summer of AI</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73566/home-assistant-core-202580.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73566</guid>
+            <pubDate>Wed, 06 Aug 2025 20:38:09 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Sonos-speakers kunnen binnenkort Philips Hue-lampen bedienen via Voice Control&#039;</title>
+            <link>https://tweakers.net/nieuws/237830/sonos-speakers-kunnen-binnenkort-philips-hue-lampen-bedienen-via-voice-control.html</link>
+            <description>Sonos&#039; spraakassistent Voice Control krijgt integratie met het Philips Hue-platform, meldt Hueblog. Daardoor wordt het naar verluidt mogelijk om Hue-lampen te bedienen via spraakcommando&#039;s aan Sonos-speakers.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Beeld en geluid / Speakers</category>
+            <comments>https://tweakers.net/nieuws/237830/sonos-speakers-kunnen-binnenkort-philips-hue-lampen-bedienen-via-voice-control.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237830</guid>
+            <pubDate>Wed, 06 Aug 2025 20:15:12 +0200</pubDate>
+        </item>
+        <item>
+            <title>WhatsApp werkt aan functies om gebruikers te beschermen tegen oplichting</title>
+            <link>https://tweakers.net/nieuws/237828/whatsapp-werkt-aan-functies-om-gebruikers-te-beschermen-tegen-oplichting.html</link>
+            <description>Meta werkt aan verschillende functies om oplichting op WhatsApp tegen te gaan. Gebruikers krijgen onder meer een waarschuwing te zien als ze door een onbekend persoon worden toegevoegd aan een groepsgesprek.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/237828/whatsapp-werkt-aan-functies-om-gebruikers-te-beschermen-tegen-oplichting.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237828</guid>
+            <pubDate>Wed, 06 Aug 2025 18:56:37 +0200</pubDate>
+        </item>
+        <item>
+            <title>Disney vervangt Star-merk in Disney+ deze herfst door Hulu</title>
+            <link>https://tweakers.net/nieuws/237826/disney-vervangt-star-merk-in-disney+-deze-herfst-door-hulu.html</link>
+            <description>Disney gaat de Star-merknaam op zijn streamingdienst Disney+ deze herfst internationaal vervangen door Hulu. Laatstgenoemde is een streamingdienst die momenteel losstaat van Disney+ en enkel beschikbaar is in de Verenigde Staten.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Economie en maatschappij</category>
+            <comments>https://tweakers.net/nieuws/237826/disney-vervangt-star-merk-in-disney+-deze-herfst-door-hulu.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237826</guid>
+            <pubDate>Wed, 06 Aug 2025 18:08:39 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;AI-start-up Cognition ontslaat drie weken na overname 30 Windsurf-werknemers&#039;</title>
+            <link>https://tweakers.net/nieuws/237818/ai-start-up-cognition-ontslaat-drie-weken-na-overname-30-windsurf-werknemers.html</link>
+            <description>Cognition heeft naar verluidt vorige week dertig medewerkers van Windsurf ontslagen. De overige tweehonderd medewerkers zouden volgens The Information een vertrekregeling aangeboden hebben gekregen, waarbij ze een vergoeding van negen maanden salaris zouden ontvangen.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237818/ai-start-up-cognition-ontslaat-drie-weken-na-overname-30-windsurf-werknemers.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237818</guid>
+            <pubDate>Wed, 06 Aug 2025 16:40:38 +0200</pubDate>
+        </item>
+        <item>
+            <title>Odido geeft twee euro aan mobiele klanten die last hadden van langdurige storing</title>
+            <link>https://tweakers.net/nieuws/237822/odido-geeft-twee-euro-aan-mobiele-klanten-die-last-hadden-van-langdurige-storing.html</link>
+            <description>Odido geeft klanten met een mobiel abonnement die meer dan twaalf uur last hadden van de storing van vorige week een vergoeding van twee euro. De operator informeert klanten in Noord-Holland en Rotterdam per e-mail over de mogelijkheid om de vergoeding aan te vragen.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237822/odido-geeft-twee-euro-aan-mobiele-klanten-die-last-hadden-van-langdurige-storing.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237822</guid>
+            <pubDate>Wed, 06 Aug 2025 16:15:45 +0200</pubDate>
+        </item>
+        <item>
+            <title>Dell patcht kwetsbaarheden in ControlVault die Windows-login kunnen omzeilen</title>
+            <link>https://tweakers.net/nieuws/237814/dell-patcht-kwetsbaarheden-in-controlvault-die-windows-login-kunnen-omzeilen.html</link>
+            <description>Dell heeft een patch uitgebracht voor een reeks kwetsbaarheden in de ControlVault-firmware. Dat systeem maakt gebruik van een hardwarechip om wachtwoorden, biometrische gegevens en encryptiesleutels op te slaan. Meer dan honderd laptopmodellen van Dell gebruiken die software.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Software development</category>
+            <comments>https://tweakers.net/nieuws/237814/dell-patcht-kwetsbaarheden-in-controlvault-die-windows-login-kunnen-omzeilen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237814</guid>
+            <pubDate>Wed, 06 Aug 2025 15:59:31 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - PhpStorm 2025.2</title>
+            <link>https://tweakers.net/downloads/73560/phpstorm-20252.html</link>
+            <description>JetBrains brengt verschillende ontwikkelomgevingen uit, zoals IntelliJ Idea gericht op Java, CLion gericht op C en C++ en DataGrip gericht op sql. PhpStorm is gericht op php en biedt on-the-fly-errorpreventie, autocompletion, coderefactoring en debugging, en kan ook overweg met HTML, CSS, Coffee- en JavaScript. Voor een overzicht van de mogelijkheden verwijzen we naar deze pagina. Voor het gebruik van PhpStorm is wel een licentie nodig. Voor zakelijk en thuisgebruik zul je daarvoor moeten betalen, maar als de software wordt gebruikt voor onderwijs of niet-commerciële opensourceprojecten, is de licentie gratis. JetBrains heeft versie 2025.2 van PhpStorm uitgebracht en de belangrijkste verbeteringen die daarin zijn aangebracht, zien er als volgt uit:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73560/phpstorm-20252.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73560</guid>
+            <pubDate>Wed, 06 Aug 2025 15:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>KLM meldt datalek waarbij namen en contactgegevens van klanten zijn buitgemaakt</title>
+            <link>https://tweakers.net/nieuws/237812/klm-meldt-datalek-waarbij-namen-en-contactgegevens-van-klanten-zijn-buitgemaakt.html</link>
+            <description>Bij een datalek zijn persoonlijke gegevens van klanten van KLM buitgemaakt, meldt het bedrijf in een e-mail. De aanvaller heeft door de hack onder meer de voor- en achternamen en contactgegevens van klanten in handen gekregen.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237812/klm-meldt-datalek-waarbij-namen-en-contactgegevens-van-klanten-zijn-buitgemaakt.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237812</guid>
+            <pubDate>Wed, 06 Aug 2025 14:28:41 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Community - Dit waren de beste +3-reacties van juli</title>
+            <link>https://tweakers.net/reviews/13630/dit-waren-de-beste-+3-reacties-van-juli.html</link>
+            <description>In dit artikel zetten de beste +3-reacties onder elkaar die in juli onder onze berichten werden geplaatst.</description>
+            <author>Tijs Hofmans</author>
+            <category>.Community / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/reviews/13630/dit-waren-de-beste-+3-reacties-van-juli.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13630</guid>
+            <pubDate>Wed, 06 Aug 2025 13:37:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - IntelliJ IDEA 2025.2</title>
+            <link>https://tweakers.net/downloads/73562/intellij-idea-20252.html</link>
+            <description>JetBrains brengt verschillende ontwikkelomgevingen uit, zoals CLion gericht op C en C++, DataGrip gericht op SQL, PhpStorm gericht op PHP en IntelliJ IDEA gericht op Java. IntelliJ IDEA biedt slimme codecompletion, deep static analysis, intelligent refactorings, een debugger en een testrunner, en kan ook overweg met Kotlin, Groovy, Coffee- en ActionScript. Voor een overzicht van de mogelijkheden verwijzen we naar deze pagina. IntelliJ IDEA is beschikbaar in twee smaken: een gelicentieerde Ultimate-smaak met meer functionaliteit en een gratis opensource Community-smaak. Voor de Ultimate-smaak zal voor zakelijk en thuisgebruik betaald moeten worden, maar als de software wordt gebruikt voor onderwijs of niet-commerciële opensourceprojecten is de licentie gratis. De complete changelog voor versie 2025.2 is op deze pagina te vinden; dit zijn de belangrijkste verbeteringen: The highlights of this release include:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73562/intellij-idea-20252.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73562</guid>
+            <pubDate>Wed, 06 Aug 2025 13:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>UBlock Origin Lite is nu ook beschikbaar voor Safari</title>
+            <link>https://tweakers.net/nieuws/237810/ublock-origin-lite-is-nu-ook-beschikbaar-voor-safari.html</link>
+            <description>Ontwikkelaar Raymond Hill heeft de eerste officiële versie van uBlock Origin Lite voor Safari uitgebracht. Om de extensie te gebruiken, is minimaal Safari 18.6 nodig. De adblocker is per direct te downloaden voor Mac, iPhone en iPad.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Software development</category>
+            <comments>https://tweakers.net/nieuws/237810/ublock-origin-lite-is-nu-ook-beschikbaar-voor-safari.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237810</guid>
+            <pubDate>Wed, 06 Aug 2025 13:23:35 +0200</pubDate>
+        </item>
+        <item>
+            <title>Quicktest - WD SN7100 2TB-ssd - Een echte concurrent voor de NM790</title>
+            <link>https://tweakers.net/reviews/13548/wd-sn7100-2tb-ssd-een-echte-concurrent-voor-de-nm790.html</link>
+            <description>Een heuse WD_Black-ssd voor een prikkie: dat is wat Western Digital, of Sandisk, met de SN7100 belooft. We hebben de 2TB-versie van deze Gen4-drive getest.</description>
+            <author>Willem de Moor</author>
+            <category>Quicktest / Computers / Interne SSD&#039;s</category>
+            <comments>https://tweakers.net/reviews/13548/wd-sn7100-2tb-ssd-een-echte-concurrent-voor-de-nm790.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13548</guid>
+            <pubDate>Wed, 06 Aug 2025 13:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Darktable 5.2.1</title>
+            <link>https://tweakers.net/downloads/73556/darktable-521.html</link>
+            <description>Versie 5.2.1 van darktable is uitgekomen. Darktable is een opensource raw fotobewerkingsprogramma, een virtuele lichtbak en donkere kamer voor fotobewerking. Het beheert digitale negatieven via een database. Het ontwikkelen van de ruwe fotobestanden gebeurt door middel van zogenaamde sidecarfiles, waarbij de foto&#039;s op niet-destructieve wijze worden bewerkt. De software is beschikbaar voor diverse Linux-distributies, macOS en Windows. De changelog voor deze uitgave kan hieronder worden gevonden: UI/UX Improvements</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73556/darktable-521.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73556</guid>
+            <pubDate>Wed, 06 Aug 2025 12:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Dashlane zet gratis abonnement stop voor nieuwe en bestaande gebruikers</title>
+            <link>https://tweakers.net/nieuws/237806/dashlane-zet-gratis-abonnement-stop-voor-nieuwe-en-bestaande-gebruikers.html</link>
+            <description>De wachtwoordmanager Dashlane stopt met zijn gratis abonnement, zo maakt het bedrijf bekend. Vanaf 16 september is die optie niet meer beschikbaar. Bestaande gebruikers met een gratis abonnement krijgen tot die tijd een proefperiode met bepaalde Dashlane Premium-functies.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237806/dashlane-zet-gratis-abonnement-stop-voor-nieuwe-en-bestaande-gebruikers.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237806</guid>
+            <pubDate>Wed, 06 Aug 2025 11:48:58 +0200</pubDate>
+        </item>
+        <item>
+            <title>OpenAI brengt openweightredeneermodel uit dat lokaal kan draaien met 16GB vram</title>
+            <link>https://tweakers.net/nieuws/237802/openai-brengt-openweightredeneermodel-uit-dat-lokaal-kan-draaien-met-16gb-vram.html</link>
+            <description>OpenAI heeft de openweightredeneermodellen gpt-oss-120b en gpt-oss-20b uitgebracht. De modellen zijn beschikbaar onder de Apache 2.0-licentie. Het 120b-model bevat in totaal 117 miljard parameters, terwijl het 20b-model 21 miljard parameters heeft.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Software development</category>
+            <comments>https://tweakers.net/nieuws/237802/openai-brengt-openweightredeneermodel-uit-dat-lokaal-kan-draaien-met-16gb-vram.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237802</guid>
+            <pubDate>Wed, 06 Aug 2025 11:34:05 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google stopt vanaf september met politieke advertenties</title>
+            <link>https://tweakers.net/nieuws/237800/google-stopt-vanaf-september-met-politieke-advertenties.html</link>
+            <description>Google staat vanaf september geen politieke advertenties meer toe op zijn AdSense- en AdMob-advertentieplatforms. In Europa geldt vanaf 10 oktober regelgeving waardoor politieke advertenties alleen met beperkingen zijn toegestaan.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237800/google-stopt-vanaf-september-met-politieke-advertenties.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237800</guid>
+            <pubDate>Wed, 06 Aug 2025 10:54:20 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - 1Password 8.11.4</title>
+            <link>https://tweakers.net/downloads/73554/1password-8114.html</link>
+            <description>Voor de veiligheid is het beter om voor ieder account een ander en sterk wachtwoord te gebruiken. Als een bepaalde dienst wachtwoorden laat uitlekken, zijn niet al je andere accounts met hetzelfde wachtwoord toegankelijk. Voor het bijhouden van al deze verschillende wachtwoorden zijn wachtwoordmanagers een uitkomst. 1Password is er hier een van en is beschikbaar als webapplicatie, als app op verschillende platforms en als extensie voor de meestgebruikte browsers. Het kan twee weken geprobeerd worden, waarna een licentie moet worden aangeschaft. Voor meer informatie over de mogelijkheden verwijzen we naar deze pagina. In versie 8.11.4 zijn de volgende veranderingen en verbeteringen doorgevoerd: 1Password in the browser 8.11.4</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73554/1password-8114.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73554</guid>
+            <pubDate>Wed, 06 Aug 2025 10:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Liberty Global overweegt afsplitsing of verkoop VodafoneZiggo</title>
+            <link>https://tweakers.net/nieuws/237804/liberty-global-overweegt-afsplitsing-of-verkoop-vodafoneziggo.html</link>
+            <description>Liberty Global overweegt om VodafoneZiggo op termijn af te splitsen of te verkopen. Ceo Mike Fries zei tijdens de presentatie van de kwartaalcijfers dat hij hoopt meer waarde voor aandeelhouders te creëren door bepaalde bedrijfsonderdelen los te maken van Liberty Global.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237804/liberty-global-overweegt-afsplitsing-of-verkoop-vodafoneziggo.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237804</guid>
+            <pubDate>Wed, 06 Aug 2025 09:16:03 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Proxmox VE 9.0</title>
+            <link>https://tweakers.net/downloads/73552/proxmox-ve-90.html</link>
+            <description>Proxmox VE is een opensourceplatform voor virtualisatie gebaseerd op KVM en LXC-containers. Het kan via een webinterface worden beheerd en daarnaast zijn een commandline en een rest-api beschikbaar. Voor meer informatie verwijzen we naar deze pagina en verschillende videotutorials kunnen op deze pagina worden bekeken. Het geheel wordt onder de APGL uitgegeven. Versie 9.0 is uitgebracht en de belangrijkste verbeteringen die daarin zijn aangebracht zijn hieronder voor je op een rijtje gezet: Proxmox VE 9.0 released!</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73552/proxmox-ve-90.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73552</guid>
+            <pubDate>Wed, 06 Aug 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - pfSense Plus 25.07</title>
+            <link>https://tweakers.net/downloads/73548/pfsense-plus-2507.html</link>
+            <description>Netgate heeft versie 25.07 van pfSense Plus uitgebracht. Dit pakket is gebaseerd op het besturingssysteem FreeBSD en richt zich op router- en firewalltaken. Het is verkrijgbaar in de gratis Community Edition en een Plus-uitvoering, die voorheen als Factory Edition werd aangeboden. De Plus-uitvoering draait op de hardware die Netgate aanbiedt, als virtuele machine in AWS of Azure. In tegenstelling tot de Community Edition is het echter geen open source. Het is in 2004 begonnen als een afsplitsing van m0n0wall vanwege verschillende visies bij de ontwikkelaars en in de loop van de jaren uitgegroeid tot een router- en firewallpakket dat in zowel kleine als zeer grote omgevingen kan worden ingezet. Voor meer informatie verwijzen we naar deze pagina. De belangrijkste verbeteringen die in deze uitgave zijn aangebracht, zijn hieronder voor je op een rijtje gezet: Netgate Nexus</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73548/pfsense-plus-2507.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73548</guid>
+            <pubDate>Wed, 06 Aug 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - Gigabyte AORUS FO27Q5P-oledmonitor - Met 500 beelden per seconde aan kop</title>
+            <link>https://tweakers.net/reviews/13566/gigabyte-aorus-fo27q5p-oledmonitor-met-500-beelden-per-seconde-aan-kop.html</link>
+            <description>De Gigabyte AORUS FO27Q5P heeft de hoogste refreshrate van alle oledmonitors tot nu toe: 500Hz. Hoe bevalt het razendrappe paneel in de praktijk?</description>
+            <author>Friso Weijers</author>
+            <category>Review / Computers / Monitors</category>
+            <comments>https://tweakers.net/reviews/13566/gigabyte-aorus-fo27q5p-oledmonitor-met-500-beelden-per-seconde-aan-kop.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13566</guid>
+            <pubDate>Wed, 06 Aug 2025 06:00:00 +0200</pubDate>
+        </item>
+    </channel>
+</rss>

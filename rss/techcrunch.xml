@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 07 Aug 2025 06:45:48 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 07 Aug 2025 11:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,21 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Hubble Network plans massive satellite upgrade to create global Bluetooth layer</title>
+		<link>https://techcrunch.com/2025/08/07/hubble-taps-muons-new-xl-satellites-to-build-a-bluetooth-layer-around-earth/</link>
+		
+		<dc:creator><![CDATA[Aria Alamalhodaei]]></dc:creator>
+		<pubDate>Thu, 07 Aug 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Space]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3034857</guid>
+
+					<description><![CDATA[Hubble Network's satellite-enabled Bluetooth network is getting a boost from Muon's new XL satellite bus.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>The Browser Company launches a $20 monthly subscription for its AI-powered browser</title>
 		<link>https://techcrunch.com/2025/08/06/the-browser-company-launches-a-20-monthly-subscription-for-its-ai-powered-browser/</link>
 		
@@ -373,25 +388,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3034574</guid>
 
 					<description><![CDATA[Canadian AI firm Cohere aims to alleviate data privacy concerns with its new AI agent platform, North, which can be deployed privately so that enterprises and governments can keep their, and their customers', data safe behind their own firewalls. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Two arrested for smuggling AI chips to China — Nvidia says no to kill switches</title>
-		<link>https://techcrunch.com/2025/08/06/two-arrested-for-smuggling-ai-chips-to-china-nvidia-says-no-to-kill-switches/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Wed, 06 Aug 2025 13:02:40 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[AI chips]]></category>
-		<category><![CDATA[chips]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<category><![CDATA[semiconductor]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3034544</guid>
-
-					<description><![CDATA[The U.S. Department of Justice (DOJ) said on Tuesday that two Chinese nationals have been arrested for their alleged involvement in illegally shipping "tens of millions of dollars" worth of high-performance AI chips to China.]]></description>
 		
 		
 		
