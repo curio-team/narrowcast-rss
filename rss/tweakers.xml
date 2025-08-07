@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 07 Aug 2025 14:41:02 +0200</pubDate>
-        <lastBuildDate>Thu, 07 Aug 2025 14:41:02 +0200</lastBuildDate>
+        <pubDate>Thu, 07 Aug 2025 15:41:01 +0200</pubDate>
+        <lastBuildDate>Thu, 07 Aug 2025 15:41:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Python 3.13.6</title>
+            <link>https://tweakers.net/downloads/73574/python-3136.html</link>
+            <description>Python is een objectgeoriënteerde programmeertaal die kan worden gebruikt om eenvoudige tot complexe platformonafhankelijke applicaties te ontwikkelen. Het is in de jaren negentig ontworpen door Guido van Rossum, die destijds in Amsterdam voor het CWI werkte. Guido was als BDFL betrokken bij de ontwikkeling van Python. Hij heeft daarnaast voor Dropbox gewerkt, ging daarna met pensioen en toen dat niet echt beviel, ging hij aan de slag bij Microsoft. De zesde zogenaamde maintenancerelease voor versie 3.13 is uitgekomen waar zo&#039;n 200 verbeteringen in zijn aangebracht. This is the sixth maintenance release of Python 3.13</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73574/python-3136.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73574</guid>
+            <pubDate>Thu, 07 Aug 2025 15:00:00 +0200</pubDate>
+        </item>
         <item>
             <title>Nederlandse OM ontvangt weer e-mails na Citrix-hack</title>
             <link>https://tweakers.net/nieuws/237856/nederlandse-om-ontvangt-weer-e-mails-na-citrix-hack.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/237804/liberty-global-overweegt-afsplitsing-of-verkoop-vodafoneziggo.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237804</guid>
             <pubDate>Wed, 06 Aug 2025 09:16:03 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Proxmox VE 9.0</title>
-            <link>https://tweakers.net/downloads/73552/proxmox-ve-90.html</link>
-            <description>Proxmox VE is een opensourceplatform voor virtualisatie gebaseerd op KVM en LXC-containers. Het kan via een webinterface worden beheerd en daarnaast zijn een commandline en een rest-api beschikbaar. Voor meer informatie verwijzen we naar deze pagina en verschillende videotutorials kunnen op deze pagina worden bekeken. Het geheel wordt onder de APGL uitgegeven. Versie 9.0 is uitgebracht en de belangrijkste verbeteringen die daarin zijn aangebracht zijn hieronder voor je op een rijtje gezet: Proxmox VE 9.0 released!</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73552/proxmox-ve-90.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73552</guid>
-            <pubDate>Wed, 06 Aug 2025 09:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
