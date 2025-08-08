@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 08 Aug 2025 14:41:01 +0200</pubDate>
-        <lastBuildDate>Fri, 08 Aug 2025 14:41:01 +0200</lastBuildDate>
+        <pubDate>Fri, 08 Aug 2025 15:41:01 +0200</pubDate>
+        <lastBuildDate>Fri, 08 Aug 2025 15:41:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Adobe stopt met augmentedrealityontwikkelsoftware Aero</title>
+            <link>https://tweakers.net/nieuws/237906/adobe-stopt-met-augmentedrealityontwikkelsoftware-aero.html</link>
+            <description>Adobe stopt met augmentedrealityontwikkelsoftware Aero. Vanaf 6 november is de tool niet meer te gebruiken. Gebruikers kunnen hun content een maand langer exporteren. Volgens Adobe is &#039;de markt voor AR erg veranderd&#039; en wil het bedrijf meer inzetten op mixed reality.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Software development</category>
+            <comments>https://tweakers.net/nieuws/237906/adobe-stopt-met-augmentedrealityontwikkelsoftware-aero.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237906</guid>
+            <pubDate>Fri, 08 Aug 2025 15:40:42 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Thermalright toont M.2-ssd-koeler met argb-display die status weergeeft</title>
+            <link>https://tweakers.net/geek/237904/thermalright-toont-m2-ssd-koeler-met-argb-display-die-status-weergeeft.html</link>
+            <description>Natuurlijk wil je ieder moment van de dag weten hoe snel je ssd werkt. Toch? Als je die informatie wilt zien, hoef je niet langer constant allemaal vensters met informatie open te houden; Thermalrights HR-10-ssd-koeler bevat een argb-display die al die informatie weergeeft.</description>
+            <author>Tijs Hofmans</author>
+            <category>.Geek / Computers / Processorkoeling</category>
+            <comments>https://tweakers.net/geek/237904/thermalright-toont-m2-ssd-koeler-met-argb-display-die-status-weergeeft.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/237904</guid>
+            <pubDate>Fri, 08 Aug 2025 15:22:52 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gerucht: Xbox Ally-handheld van ASUS en Microsoft komt op 16 oktober uit</title>
+            <link>https://tweakers.net/nieuws/237900/gerucht-xbox-ally-handheld-van-asus-en-microsoft-komt-op-16-oktober-uit.html</link>
+            <description>De ROG Xbox Ally- en Ally X-handhelds gaan 599 en 899 euro kosten. De handhelds komen op 16 oktober dit jaar uit in Nederland en België, schrijft leaker Billbil-kun. Dat is eerder dan Microsoft zelf aangaf tijdens de presentatie.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Gaming / Consoles</category>
+            <comments>https://tweakers.net/nieuws/237900/gerucht-xbox-ally-handheld-van-asus-en-microsoft-komt-op-16-oktober-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237900</guid>
+            <pubDate>Fri, 08 Aug 2025 14:45:07 +0200</pubDate>
+        </item>
         <item>
             <title>Nieuwsblog: hoor en wederhoor, maar wanneer publiceer je dan?</title>
             <link>https://tweakers.net/nieuws/237898/nieuwsblog-hoor-en-wederhoor-maar-wanneer-publiceer-je-dan.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/237824/ai-in-windows-maakt-muis-en-toetsenbord-in-2030-volgens-microsoft-overbodig.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237824</guid>
             <pubDate>Thu, 07 Aug 2025 09:48:53 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsofts pc-bèta van Gaming Copilot geeft live AI-hulp, maar slaat Europa over</title>
-            <link>https://tweakers.net/nieuws/237842/microsofts-pc-beta-van-gaming-copilot-geeft-live-ai-hulp-maar-slaat-europa-over.html</link>
-            <description>Microsoft heeft een pc-bètaversie van de Gaming Copilot uitgebracht. Deze AI-functie kan spelers ondersteunen bij games, bijvoorbeeld als ze ergens vastlopen. De functie is nog niet beschikbaar in Europa.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / Gaming / Games</category>
-            <comments>https://tweakers.net/nieuws/237842/microsofts-pc-beta-van-gaming-copilot-geeft-live-ai-hulp-maar-slaat-europa-over.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237842</guid>
-            <pubDate>Thu, 07 Aug 2025 09:34:09 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Bitwarden 2025.7.3</title>
-            <link>https://tweakers.net/downloads/73564/bitwarden-202573.html</link>
-            <description>Bitwarden is een crossplatform en opensource wachtwoordbeheerdienst die persoonlijke gegevens in een versleutelde digitale kluis opslaat. Het is in de basis gratis te gebruiken en voor een klein bedrag per jaar is er toegang tot diverse extra&#039;s zoals het kunnen opslaan van TOTP-codes, het veilig kunnen versturen van informatie en bestanden, inloggen met een YubiKey en opslagcapaciteit voor bijlagen. Bitwarden is beschikbaar online, als desktopclient, als mobiele app en als plug-in voor diverse webbrowsers. Sinds versie 2025.7.0 zijn de volgende veranderingen en verbeteringen aangebracht:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73564/bitwarden-202573.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73564</guid>
-            <pubDate>Thu, 07 Aug 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Trump wil 100 procent importheffing op chips van bedrijven zonder fabriek in VS</title>
-            <link>https://tweakers.net/nieuws/237836/trump-wil-100-procent-importheffing-op-chips-van-bedrijven-zonder-fabriek-in-vs.html</link>
-            <description>President Donald Trump van de Verenigde Staten wil een importheffing van 100 procent op chips, tenzij de fabrikant chips in de VS maakt of dit van plan is. Deze importheffing komt boven op eerder aangekondigde importheffingen. Een startdatum is niet bekend.</description>
-            <author>Hayte Hugo</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/237836/trump-wil-100-procent-importheffing-op-chips-van-bedrijven-zonder-fabriek-in-vs.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237836</guid>
-            <pubDate>Thu, 07 Aug 2025 08:45:23 +0200</pubDate>
         </item>
     </channel>
 </rss>
