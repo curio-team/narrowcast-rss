@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Fri, 08 Aug 2025 13:31:01 +0200</pubDate>
-        <lastBuildDate>Fri, 08 Aug 2025 13:31:01 +0200</lastBuildDate>
+        <pubDate>Fri, 08 Aug 2025 14:41:01 +0200</pubDate>
+        <lastBuildDate>Fri, 08 Aug 2025 14:41:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Nieuwsblog: hoor en wederhoor, maar wanneer publiceer je dan?</title>
+            <link>https://tweakers.net/nieuws/237898/nieuwsblog-hoor-en-wederhoor-maar-wanneer-publiceer-je-dan.html</link>
+            <description>In de afgelopen weken kon je op Tweakers meerdere artikelen tegenkomen die niets meer bevatten dan de antwoorden van een bedrijf. Dat is geen bewust beleid, maar een toevallige samenloop van omstandigheden. Wel zet het ons ertoe aan om eens na te denken over hoe we omgaan met hoor en wederhoor.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/237898/nieuwsblog-hoor-en-wederhoor-maar-wanneer-publiceer-je-dan.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237898</guid>
+            <pubDate>Fri, 08 Aug 2025 13:37:00 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Fan Control 230</title>
             <link>https://tweakers.net/downloads/73584/fan-control-230.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/237836/trump-wil-100-procent-importheffing-op-chips-van-bedrijven-zonder-fabriek-in-vs.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237836</guid>
             <pubDate>Thu, 07 Aug 2025 08:45:23 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - FreeCAD 1.0.2</title>
-            <link>https://tweakers.net/downloads/73550/freecad-102.html</link>
-            <description>Versie 1.0.2 van FreeCAD is uitgekomen. FreeCAD is een gratis en opensource Computer Aided Design-programma en is primair bedoeld voor werktuigbouwkundige ontwerpen, maar kan ook prima voor elektronische ontwerpen of in de architectuur worden gebruikt. In deze tweede update voor versie 1.0 zijn de volgende veranderingen en verbeteringen aangebracht: FreeCAD 1.0.2 released</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73550/freecad-102.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73550</guid>
-            <pubDate>Thu, 07 Aug 2025 07:30:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
