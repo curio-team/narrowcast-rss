@@ -1,14 +1,421 @@
-<HTML><HEAD>
-<TITLE>Access Denied</TITLE>
-</HEAD><BODY>
-<H1>Access Denied</H1>
-<P>Your request was blocked by DPG Media's Web Application Firewall.</P>
-<P>For more information contact application support and specify: </P>
-<ul>
-  <li>Reference: 0.4b18d017.1754919734.1d3ba2e2</li>
-  <li>ClientIP: 52.176.139.85</li>
-  <li><div id="url"></div></li>
-<script>document.getElementById('url').innerText = window.location.href; </script>
-</ul>
-</BODY>
-</HTML>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" >
+    <channel>
+        <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
+        <pubDate>Mon, 11 Aug 2025 16:36:02 +0200</pubDate>
+        <lastBuildDate>Mon, 11 Aug 2025 16:36:02 +0200</lastBuildDate>
+        <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
+        <image>
+            <link>https://tweakers.net/</link>
+            <title>Tweakers</title>
+            <url>https://tweakers.net/logo.png</url>
+            <width>196</width>
+            <height>196</height>
+            <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
+        </image>
+        <language>nl-NL</language>
+        <link>https://tweakers.net/</link>
+        <title>Tweakers Mixed RSS Feed</title>
+        <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Streamingdienst Streamz legt delen van accounts aan banden</title>
+            <link>https://tweakers.net/nieuws/237962/streamingdienst-streamz-legt-delen-van-accounts-aan-banden.html</link>
+            <description>De Belgische streamingdienst Streamz beperkt het delen van accounts beperken. Het bedrijf vraagt gebruikers om de thuislocatie in te stellen. De streamingdienst wil het delen van accounts op die manier alleen nog toestaan voor mensen binnen hetzelfde huishouden.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Marktontwikkelingen</category>
+            <comments>https://tweakers.net/nieuws/237962/streamingdienst-streamz-legt-delen-van-accounts-aan-banden.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237962</guid>
+            <pubDate>Mon, 11 Aug 2025 16:09:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Bloomberg: iOS 26.4 krijgt spraakbediening voor YouTube, Facebook en WhatsApp</title>
+            <link>https://tweakers.net/nieuws/237956/bloomberg-ios-264-krijgt-spraakbediening-voor-youtube-facebook-en-whatsapp.html</link>
+            <description>Vanaf iOS-update 26.4 wordt het mogelijk om onder meer Uber, Temu, Amazon, YouTube, Facebook en WhatsApp volledig met spraak te bedienen. Dat zeggen anonieme bronnen tegen Bloomberg-journalist Mark Gurman.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/237956/bloomberg-ios-264-krijgt-spraakbediening-voor-youtube-facebook-en-whatsapp.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237956</guid>
+            <pubDate>Mon, 11 Aug 2025 15:11:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Ex-Intel-ceo wil 40 miljard van Apple, Nvidia en Google om chipmaker te redden</title>
+            <link>https://tweakers.net/nieuws/237952/ex-intel-ceo-wil-40-miljard-van-apple-nvidia-en-google-om-chipmaker-te-redden.html</link>
+            <description>Intel heeft een kapitaalinjectie van 40 miljard dollar nodig om bij te blijven met marktleidende concurrenten als TSMC, meent ex-Intel-ceo Craig Barrett. Hij vindt dat het geld moet komen van grote klanten als Nvidia, Apple en Google.</description>
+            <author>Jasper Bakker</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/237952/ex-intel-ceo-wil-40-miljard-van-apple-nvidia-en-google-om-chipmaker-te-redden.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237952</guid>
+            <pubDate>Mon, 11 Aug 2025 14:31:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Medische data en bsn&#039;s van deelnemers baarmoederhalskankeronderzoek zijn gelekt</title>
+            <link>https://tweakers.net/nieuws/237960/medische-data-en-bsns-van-deelnemers-baarmoederhalskankeronderzoek-zijn-gelekt.html</link>
+            <description>De gegevens van zeker 485.000 Nederlandse vrouwen die in het verleden een bevolkingsonderzoek naar baarmoederhalskanker hebben ondergaan, zijn gestolen via een toeleverancier. Het gaat om medische gegevens, die worden gekoppeld aan persoonsgegevens waaronder burgerservicenummers.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/237960/medische-data-en-bsns-van-deelnemers-baarmoederhalskankeronderzoek-zijn-gelekt.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237960</guid>
+            <pubDate>Mon, 11 Aug 2025 13:38:51 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Ook aanvullende encryptie van Tetra-communicatiestandaard bevat kwetsbaarheden&#039;</title>
+            <link>https://tweakers.net/nieuws/237942/ook-aanvullende-encryptie-van-tetra-communicatiestandaard-bevat-kwetsbaarheden.html</link>
+            <description>Nederlandse onderzoekers hebben drie kwetsbaarheden gevonden in de end-to-endencryptie van het communicatieprotocol Tetra, dat veel gebruikt wordt door hulpdiensten. Deze aanvullende beveiligingslaag werd ingevoerd nadat er in 2023 ook al kwetsbaarheden waren gevonden in Tetra.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/237942/ook-aanvullende-encryptie-van-tetra-communicatiestandaard-bevat-kwetsbaarheden.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237942</guid>
+            <pubDate>Mon, 11 Aug 2025 13:38:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - XnView MP 1.9.3</title>
+            <link>https://tweakers.net/downloads/73602/xnview-mp-193.html</link>
+            <description>Versie 1.9.3 van XnView MP is uitgekomen. Met dit programma kunnen afbeeldingen worden bekeken en bewerkt. Het is gratis voor persoonlijk gebruik; voor gebruik in een commerciële omgeving wordt wel een vergoeding gevraagd. MP staat voor Multi Platform, wat betekent dat er versies zijn voor Windows, Linux en macOS, met elk aparte downloads voor 32bit- en 64bit-omgevingen. XnView MP gebruikt dezelfde broncode voor Windows, Linux en macOS; functionaliteit en uiterlijk van de afzonderlijke versies zijn dan ook nagenoeg gelijk. Zo is er onder andere ondersteuning voor unicode, afbeeldingen met full bit depth, een eenvoudigere manier voor vertalingen en een betere database. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: New:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73602/xnview-mp-193.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73602</guid>
+            <pubDate>Mon, 11 Aug 2025 13:26:32 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Meta zegt &#039;miljarden dollars&#039; te besparen door gebruik van bestandssysteem Btrfs</title>
+            <link>https://tweakers.net/geek/237948/meta-zegt-miljarden-dollars-te-besparen-door-gebruik-van-bestandssysteem-btrfs.html</link>
+            <description>Je zou kunnen denken dat de discussie over bestandssystemen er eentje is die in de marge wordt gevoerd. Maar niet bij Meta. Het bedrijf zegt namelijk &#039;miljarden dollars&#039; te besparen door een bepaald bestandssysteem te gebruiken, Btrfs.</description>
+            <author>Tijs Hofmans</author>
+            <category>.Geek / Computers / Besturingssystemen</category>
+            <comments>https://tweakers.net/geek/237948/meta-zegt-miljarden-dollars-te-besparen-door-gebruik-van-bestandssysteem-btrfs.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/237948</guid>
+            <pubDate>Mon, 11 Aug 2025 12:50:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>ASUS RTX 5090 met afneembare connector kost grofweg 50 euro meer dan basisversie</title>
+            <link>https://tweakers.net/nieuws/237954/asus-rtx-5090-met-afneembare-connector-kost-grofweg-50-euro-meer-dan-basisversie.html</link>
+            <description>De ASUS ROG Astral GeForce RTX 5090 BTF-uitvoering met afneembare connector voor &#039;kabelloze&#039; stroomtoevoer kost ongeveer vijftig euro meer dan de standaardversie. De videokaart is beschikbaar vanaf 2950 euro, terwijl de standaardversie voor 2900 euro wordt verkocht.</description>
+            <author>Yannick Spinner</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/237954/asus-rtx-5090-met-afneembare-connector-kost-grofweg-50-euro-meer-dan-basisversie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237954</guid>
+            <pubDate>Mon, 11 Aug 2025 12:49:50 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;AMD Ryzen 7 5700X3D is end-of-life&#039;</title>
+            <link>https://tweakers.net/nieuws/237946/amd-ryzen-7-5700x3d-is-end-of-life.html</link>
+            <description>De AMD Ryzen 7 5700X3D is end-of-life en zal binnenkort van de markt verdwijnen. Dat bevestigen meerdere webshops aan Tweakers. De 5700X3D is de laatste cpu met 3D V-Cache voor socket AM4 die nog te koop was; de iets snellere 5800X3D is al bijna een jaar niet meer verkrijgbaar.</description>
+            <author>Tomas Hochstenbach</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/237946/amd-ryzen-7-5700x3d-is-end-of-life.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237946</guid>
+            <pubDate>Mon, 11 Aug 2025 11:43:43 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Intel-ceo heeft maandag ontmoeting met president Trump na oproep tot ontslag&#039;</title>
+            <link>https://tweakers.net/nieuws/237944/intel-ceo-heeft-maandag-ontmoeting-met-president-trump-na-oproep-tot-ontslag.html</link>
+            <description>Intel-ceo Lip-Bu Tan is maandag naar verluidt in het Witte Huis voor een ontmoeting met president Donald Trump. Volgens bronnen van The Wall Street Journal wil hij onder meer uitleg geven over zijn persoonlijke en professionele achtergrond. Trump riep vorige week op tot het ontslag van Tan.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237944/intel-ceo-heeft-maandag-ontmoeting-met-president-trump-na-oproep-tot-ontslag.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237944</guid>
+            <pubDate>Mon, 11 Aug 2025 11:00:06 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Nvidia en AMD gaan vijftien procent van China-omzet aan VS afdragen&#039;</title>
+            <link>https://tweakers.net/nieuws/237936/nvidia-en-amd-gaan-vijftien-procent-van-china-omzet-aan-vs-afdragen.html</link>
+            <description>Nvidia en AMD zouden een deal hebben gesloten om vijftien procent van hun omzet uit China direct aan de Amerikaanse overheid te betalen. Dat zeggen Amerikaanse overheidsfunctionarissen tegen de Financial Times, al geven de bedrijven zelf geen commentaar.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/237936/nvidia-en-amd-gaan-vijftien-procent-van-china-omzet-aan-vs-afdragen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237936</guid>
+            <pubDate>Mon, 11 Aug 2025 10:32:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Ubisoft lijkt aan tv-serie over Far Cry te werken</title>
+            <link>https://tweakers.net/geek/237940/ubisoft-lijkt-aan-tv-serie-over-far-cry-te-werken.html</link>
+            <description>Ubisoft werkt naar verluidt in samenwerking met FX aan een tv-serie die zich afspeelt in het Far Cry-universum. Rob McElhenney en Noah Hawley werken mogelijk aan het project. Het is niet duidelijk wanneer de serie uit moet komen.</description>
+            <author>Yannick Spinner</author>
+            <category>.Geek / Gaming / Games</category>
+            <comments>https://tweakers.net/geek/237940/ubisoft-lijkt-aan-tv-serie-over-far-cry-te-werken.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/237940</guid>
+            <pubDate>Mon, 11 Aug 2025 09:23:26 +0200</pubDate>
+        </item>
+        <item>
+            <title>Microsoft stopt met pdf-scanner-app Lens</title>
+            <link>https://tweakers.net/nieuws/237934/microsoft-stopt-met-pdf-scanner-app-lens.html</link>
+            <description>Microsoft stopt met de pdf-scanner Microsoft Lens. Met die app was het mogelijk foto&#039;s om te zetten naar pdf&#039;s of andere bestandsformaten. Scans blijven wel beschikbaar, maar de app wordt niet meer ondersteund.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/237934/microsoft-stopt-met-pdf-scanner-app-lens.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237934</guid>
+            <pubDate>Mon, 11 Aug 2025 08:09:52 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - Samsung Z Fold7 - Dunner, sneller en terug aan de top</title>
+            <link>https://tweakers.net/reviews/13612/samsung-z-fold7-dunner-sneller-en-terug-aan-de-top.html</link>
+            <description>Samsung kijkt al jaren een beetje de kat uit de boom met veel van zijn topmodellen. De Z Fold7 belooft te breken met die traditie.</description>
+            <author>Dennis de Vries</author>
+            <category>Review / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/reviews/13612/samsung-z-fold7-dunner-sneller-en-terug-aan-de-top.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13612</guid>
+            <pubDate>Mon, 11 Aug 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Ubuntu 24.04.3 LTS</title>
+            <link>https://tweakers.net/downloads/73600/ubuntu-24043-lts.html</link>
+            <description>Versie 24.04.3 van Linux-distributie Ubuntu is uitgekomen. Tweemaal per jaar verschijnt er een nieuwe versie en vormen het jaar en de maand van uitgave het versienummer. Deze versies worden negen maanden ondersteund. Eens in de twee jaar komt er een versie uit die niet negen maanden maar vijf jaar voorzien zal worden van updates. Versie 24.04, een versie die vijf jaar ondersteuning krijgt, heeft codenaam Noble Numbat meegekregen, draait op systemd 255.4 en Linux Kernel 6.8, en gebruikt standaard Gnome 46 als de desktopomgeving. Versie 24.04.3 is de derde update met een verzameling bugfixes en verbeteringen. Ubuntu 24.04.3 LTS is now available</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73600/ubuntu-24043-lts.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73600</guid>
+            <pubDate>Sun, 10 Aug 2025 19:46:54 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Double Commander 1.1.28</title>
+            <link>https://tweakers.net/downloads/73598/double-commander-1128.html</link>
+            <description>Double Commander is een opensource en crossplatform bestandsbeheerprogramma. Voor zowel het uiterlijk als de functionaliteit is het welbekende Total Commander als inspiratiebron gebruikt. Dat gaat zelfs zover dat de plug-ins van Total Commander ook voor Double Commander werken. Er zijn ook enkele verschillen, waaronder een ingebakken teksteditor met ondersteuning voor syntaxhighlighting. Downloads zijn beschikbaar voor Windows, Linux, macOS en FreeBSD. Versie 1.1.28 is uitgekomen en daarin zijn de volgende veranderingen en verbeteringen aangebracht: Added:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73598/double-commander-1128.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73598</guid>
+            <pubDate>Sun, 10 Aug 2025 14:10:11 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Ooit zo grote internetreus AOL stopt in VS met inbelverbindingen</title>
+            <link>https://tweakers.net/geek/237928/ooit-zo-grote-internetreus-aol-stopt-in-vs-met-inbelverbindingen.html</link>
+            <description>Het hysterische gepiep en gekraak van een inbelmodem is voor veel tweakers een vertrouwd, maar vooral ook nostalgisch geluid. In Amerika is dat binnenkort misschien verleden tijd. Daar stopt AOL eind volgende maand met het aanbieden van inbelverbindingen, 34 jaar nadat het dat voor het eerst aanbood.</description>
+            <author>Tijs Hofmans</author>
+            <category>.Geek / Computers / Netwerk</category>
+            <comments>https://tweakers.net/geek/237928/ooit-zo-grote-internetreus-aol-stopt-in-vs-met-inbelverbindingen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/237928</guid>
+            <pubDate>Sun, 10 Aug 2025 12:24:34 +0200</pubDate>
+        </item>
+        <item>
+            <title>Overheid Nederland moet opnieuw besluiten over openbaren Belastingdienstbroncode</title>
+            <link>https://tweakers.net/nieuws/237930/overheid-nederland-moet-opnieuw-besluiten-over-openbaren-belastingdienstbroncode.html</link>
+            <description>De Nederlandse overheid mag de broncode van bepaalde systemen van de Belastingdienst niet zomaar geheimhouden. De demissionaire staatssecretaris moet nog een keer uitleggen waarom hij de broncode niet wil openbaren, maar dan met een betere onderbouwing. Dat oordeelt de rechter na een klacht van een burger.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Software development</category>
+            <comments>https://tweakers.net/nieuws/237930/overheid-nederland-moet-opnieuw-besluiten-over-openbaren-belastingdienstbroncode.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237930</guid>
+            <pubDate>Sun, 10 Aug 2025 11:28:38 +0200</pubDate>
+        </item>
+        <item>
+            <title>Debian 13 Trixie is uit</title>
+            <link>https://tweakers.net/nieuws/237926/debian-13-trixie-is-uit.html</link>
+            <description>Debian heeft Debian 13 uitgebracht. De distro heeft de naam Trixie en heeft onder andere ondersteuning voor RISC-V-processors. Ook is de packagemanager geüpgraded naar APT 3.0 en zijn er beveiligingsupdates doorgevoerd.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Besturingssystemen</category>
+            <comments>https://tweakers.net/nieuws/237926/debian-13-trixie-is-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237926</guid>
+            <pubDate>Sun, 10 Aug 2025 10:20:56 +0200</pubDate>
+        </item>
+        <item>
+            <title>Quicktest - Samsung S90F-oled-tv - Midranger met mooie hdr-prestaties</title>
+            <link>https://tweakers.net/reviews/13576/samsung-s90f-oled-tv-midranger-met-mooie-hdr-prestaties.html</link>
+            <description>De S90F is Samsungs midrangeoled-tv voor 2025 en moet het dus opnemen tegen de populaire LG C5. Wie heeft dit jaar de beste oledmiddenklasser?</description>
+            <author>Sjef Weller</author>
+            <category>Quicktest / Beeld en geluid / Televisies</category>
+            <comments>https://tweakers.net/reviews/13576/samsung-s90f-oled-tv-midranger-met-mooie-hdr-prestaties.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13576</guid>
+            <pubDate>Sun, 10 Aug 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Achtergrond - Hersenchips geven patiënten hun spraak terug en bedrijven toegang tot hun brein</title>
+            <link>https://tweakers.net/reviews/13598/hersenchips-geven-patienten-hun-spraak-terug-en-bedrijven-toegang-tot-hun-brein.html</link>
+            <description>Hersenimplantaten ontwikkelen zich snel: steeds meer patiënten kunnen weer communiceren of computers bedienen. Maar wil je een bedrijf toegang geven tot je brein?</description>
+            <author>Kevin Krikhaar</author>
+            <category>Achtergrond / IT Pro / Wetenschap</category>
+            <comments>https://tweakers.net/reviews/13598/hersenchips-geven-patienten-hun-spraak-terug-en-bedrijven-toegang-tot-hun-brein.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13598</guid>
+            <pubDate>Sun, 10 Aug 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Debian GNU/Linux 13.0</title>
+            <link>https://tweakers.net/downloads/73596/debian-gnu-linux-130.html</link>
+            <description>Debian is een opensource-besturingssysteem, dat zowel voor desktops als servers gebruikt kan worden en waarbij de nadruk op stabiliteit en veiligheid ligt. Het wordt dan ook als basis voor diverse Linux-distributies gebruikt, waaronder Ubuntu en Linux Mint. Versie 13, die als codenaam &#039;Trixie&#039; meegekregen heeft, zal de komende vijf jaar van updates worden voorzien. De belangrijkste veranderingen die we in versie 13 aan kunnen treffen zijn hieronder voor je op een rijtje gezet: Official support for riscv64</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73596/debian-gnu-linux-130.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73596</guid>
+            <pubDate>Sat, 09 Aug 2025 22:48:02 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - ExifToolGui 6.3.10</title>
+            <link>https://tweakers.net/downloads/73594/exiftoolgui-6310.html</link>
+            <description>Versie 6.3.10 van ExifToolGUI is uitgekomen. Dit programma is een voortzetting van de originele ExifToolGUI door Bogdan Hrastnik, waarvan de ontwikkeling stil was komen te liggen. Het is bedoeld om als grafische interface voor ExifTool te dienen, een programma waarmee de metadata van een groot aantal bestandsformaten kan worden beheerd en bewerkt. De changelog voor deze uitgave kan hieronder worden gevonden. Release info.</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73594/exiftoolgui-6310.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73594</guid>
+            <pubDate>Sat, 09 Aug 2025 17:26:49 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - HandBrake 1.10.0</title>
+            <link>https://tweakers.net/downloads/73592/handbrake-1100.html</link>
+            <description>Versie 1.10.0 van HandBrake is verschenen. Dit opensourceprogramma, dat beschikbaar is voor Windows, Linux en macOS, kan filmmateriaal omzetten naar bestanden met onder meer een h.264-, h265- of mpeg4-beeldindeling en een aac-, ac3-, mp3- of Ogg Vorbis-geluidsindeling. Er zijn presets aanwezig voor veelgebruikte apparatuur, zoals een iPad, AppleTV of Android-tablet en er kan ook met zaken als hoofdstukindeling en ondertiteling rekening gehouden worden. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: General</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73592/handbrake-1100.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73592</guid>
+            <pubDate>Sat, 09 Aug 2025 15:02:02 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Rust 1.89.0</title>
+            <link>https://tweakers.net/downloads/73590/rust-1890.html</link>
+            <description>Rust is een programmeertaal bedacht door Graydon Hoare en oorspronkelijk ontwikkeld door Mozilla. Het is deels geïnspireerd op de programmeertaal C, maar kent syntactische en semantische verschillen. Het focust op veiligheid en moet moderne computersystemen efficiënter benutten. Het wordt onder meer ingezet door Cloudflare, OVH, Mozilla, Deliveroo, Coursera, AppSignal en Threema. Versie 1.89 is uitgebracht en de releasenotes voor die uitgave kunnen hieronder worden gevonden. Explicitly inferred arguments to const generics</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73590/rust-1890.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73590</guid>
+            <pubDate>Sat, 09 Aug 2025 13:38:48 +0200</pubDate>
+        </item>
+        <item>
+            <title>Videoreport - Hoe begin je aan een smarthome?</title>
+            <link>https://tweakers.net/video/19988/hoe-begin-je-aan-een-smarthome.html</link>
+            <description>Om een smarthome goed te laten werken, heeft het een goed stel hersens nodig. Er zijn echter heel veel breinen om uit te kiezen. In deze video vertellen we je waaruit je kunt kiezen en wat de slimste keuze is.</description>
+            <author>Luke van Drie</author>
+            <category>Videoreport / Beeld en geluid / Smarthome</category>
+            <comments>https://tweakers.net/video/19988/hoe-begin-je-aan-een-smarthome.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/video/19988</guid>
+            <pubDate>Sat, 09 Aug 2025 13:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Silicon Motion: eerste PCIe 6.0-ssd&#039;s halen snelheden van meer dan 25GB/s</title>
+            <link>https://tweakers.net/nieuws/237924/silicon-motion-eerste-pcie-60-ssds-halen-snelheden-van-meer-dan-25gb-s.html</link>
+            <description>Silicon Motion deelt details over zijn eerste PCIe 6.0-controller voor consumenten-ssd&#039;s. Deze moet leessnelheden van zeker 25GB/s ondersteunen, afhankelijk van het gebruikte nandgeheugen. Het bedrijf verwacht dat massaproductie van de controller ergens in 2028 begint.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Interne SSD&#039;s</category>
+            <comments>https://tweakers.net/nieuws/237924/silicon-motion-eerste-pcie-60-ssds-halen-snelheden-van-meer-dan-25gb-s.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237924</guid>
+            <pubDate>Sat, 09 Aug 2025 12:29:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Intel-bestuursvoorzitter wilde chipfabrieken verkopen, nieuwe ceo is daartegen&#039;</title>
+            <link>https://tweakers.net/nieuws/237920/intel-bestuursvoorzitter-wilde-chipfabrieken-verkopen-nieuwe-ceo-is-daartegen.html</link>
+            <description>Frank Yeary, de bestuursvoorzitter van Intel, had plannen om Intels chipfabrieken te verkopen. Dat zeggen ingewijden tegen The Wall Street Journal. De nieuwe ceo van de chipmaker, Lip-Bu Tan, verzet zich daartegen.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237920/intel-bestuursvoorzitter-wilde-chipfabrieken-verkopen-nieuwe-ceo-is-daartegen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237920</guid>
+            <pubDate>Sat, 09 Aug 2025 11:32:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Bungie wordt minder onafhankelijk en meer onderdeel van PlayStation Studios</title>
+            <link>https://tweakers.net/nieuws/237918/bungie-wordt-minder-onafhankelijk-en-meer-onderdeel-van-playstation-studios.html</link>
+            <description>Bungie wordt minder onafhankelijk. Dat bevestigt Sony tijdens de presentatie van zijn kwartaalcijfers. Toen Bungie werd overgenomen, zou de ontwikkelaar een &#039;onafhankelijke dochteronderneming&#039; worden, maar nu wordt de studio meer geïntegreerd in PlayStation Studios.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/237918/bungie-wordt-minder-onafhankelijk-en-meer-onderdeel-van-playstation-studios.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237918</guid>
+            <pubDate>Sat, 09 Aug 2025 10:26:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - PeaZip 10.6.0</title>
+            <link>https://tweakers.net/downloads/73588/peazip-1060.html</link>
+            <description>Versie 10.6.0 van PeaZip is verschenen. Dit archiveringsprogramma wordt onder een opensourcelicentie beschikbaar gesteld en downloads zijn beschikbaar voor Windows, Linux en macOS. Het programma wil zich van de concurrentie onderscheiden door zich te specialiseren in veiligheid. Het versleutelen van data is dan ook een van de voornaamste functies van het eigen peaformaat. PeaZip kan 7z-, bz2-, gz-, paq/lpaq-, pea-, quad-, tar-, upx- en zipbestanden creëren en diverse bestandsformaten uitpakken, waaronder ace, arj, cab, deb, iso, lha, rar en rpm. De releasenotes voor deze uitgave kunnen hieronder worden gevonden. PeaZip 10.6.0</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73588/peazip-1060.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73588</guid>
+            <pubDate>Sat, 09 Aug 2025 10:25:15 +0200</pubDate>
+        </item>
+        <item>
+            <title>OpenAI gaat GPT-4o weer beschikbaar stellen als optie na oproep van gebruikers</title>
+            <link>https://tweakers.net/nieuws/237916/openai-gaat-gpt-4o-weer-beschikbaar-stellen-als-optie-na-oproep-van-gebruikers.html</link>
+            <description>OpenAI gaat zijn GPT-4o-model terugbrengen naar ChatGPT. Het bedrijf verving dat model eerder deze week door GPT-5, maar gebruikers vroegen om het voorgaande model terug. Sam Altman, de ceo van OpenAI, bevestigt nu dat 4o terugkeert als optie binnen de chatbot.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Software</category>
+            <comments>https://tweakers.net/nieuws/237916/openai-gaat-gpt-4o-weer-beschikbaar-stellen-als-optie-na-oproep-van-gebruikers.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237916</guid>
+            <pubDate>Sat, 09 Aug 2025 09:34:16 +0200</pubDate>
+        </item>
+        <item>
+            <title>Round-up - Acht GeForce RTX 5060-videokaarten - Stil en zuinig op budget, al knelt 8GB</title>
+            <link>https://tweakers.net/reviews/13624/acht-geforce-rtx-5060-videokaarten-stil-en-zuinig-op-budget-al-knelt-8gb.html</link>
+            <description>In deze GeForce RTX 5060 testen we acht modellen om te zien welke fabrikanten hun kaarten het best hebben afgesteld.</description>
+            <author>Reinoud Dik</author>
+            <category>Round-up / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/reviews/13624/acht-geforce-rtx-5060-videokaarten-stil-en-zuinig-op-budget-al-knelt-8gb.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13624</guid>
+            <pubDate>Sat, 09 Aug 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Google stopt op 1 januari 2026 met Steam-versie voor Chromebooks</title>
+            <link>https://tweakers.net/nieuws/237914/google-stopt-op-1-januari-2026-met-steam-versie-voor-chromebooks.html</link>
+            <description>Google en Valve stoppen op 1 januari 2026 met de bèta van Steam voor ChromeOS. Vanaf die datum kunnen gebruikers hun geïnstalleerde games niet langer spelen op Chromebooks. De bèta werd in 2022 uitgebracht, maar een volledige release van de ChromeOS-versie van Steam bleef uit.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Computers / Laptops</category>
+            <comments>https://tweakers.net/nieuws/237914/google-stopt-op-1-januari-2026-met-steam-versie-voor-chromebooks.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237914</guid>
+            <pubDate>Fri, 08 Aug 2025 21:10:58 +0200</pubDate>
+        </item>
+        <item>
+            <title>Productpagina&#039;s voor Samsung Galaxy A17 5G verschijnen online</title>
+            <link>https://tweakers.net/nieuws/237912/productpaginas-voor-samsung-galaxy-a17-5g-verschijnen-online.html</link>
+            <description>Verschillende webwinkels hebben productpagina&#039;s voor de Samsung Galaxy A17 5G online gezet. De Zuid-Koreaanse fabrikant heeft het budgettoestel nog niet officieel aangekondigd. De telefoon lijkt veel op zijn voorganger, de A16, maar is iets dunner en is uitgerust met Gorilla Glass.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/237912/productpaginas-voor-samsung-galaxy-a17-5g-verschijnen-online.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237912</guid>
+            <pubDate>Fri, 08 Aug 2025 20:28:15 +0200</pubDate>
+        </item>
+        <item>
+            <title>Tesla stopt met ontwikkeling van eigen supercomputer voor trainen van Autopilot</title>
+            <link>https://tweakers.net/nieuws/237910/tesla-stopt-met-ontwikkeling-van-eigen-supercomputer-voor-trainen-van-autopilot.html</link>
+            <description>Tesla werkt niet langer aan een eigen supercomputer, meldt Bloomberg op basis van ingewijden. De fabrikant wilde zijn Dojo-computer gebruiken voor de ontwikkeling van technologie voor autonome voertuigen, maar heeft het team naar verluidt ontbonden.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/237910/tesla-stopt-met-ontwikkeling-van-eigen-supercomputer-voor-trainen-van-autopilot.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237910</guid>
+            <pubDate>Fri, 08 Aug 2025 19:04:44 +0200</pubDate>
+        </item>
+        <item>
+            <title>ASUS brengt Vivobook S14- en S16-laptops uit met Snapdragon X-instapprocessors</title>
+            <link>https://tweakers.net/nieuws/237908/asus-brengt-vivobook-s14-en-s16-laptops-uit-met-snapdragon-x-instapprocessors.html</link>
+            <description>ASUS heeft de 2025-modellen van zijn Vivobook S-laptops uitgebracht in Nederland en België. Ze zijn verkrijgbaar in schermformaten van 14&quot; en 16&quot; en hebben maximaal een Qualcomm Snapdragon X-, AMD Ryzen AI 9 270- of Intel Core Ultra 7-processor.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Computers / Laptops</category>
+            <comments>https://tweakers.net/nieuws/237908/asus-brengt-vivobook-s14-en-s16-laptops-uit-met-snapdragon-x-instapprocessors.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237908</guid>
+            <pubDate>Fri, 08 Aug 2025 18:10:56 +0200</pubDate>
+        </item>
+        <item>
+            <title>Achtergrond - Trump eist dat de nieuwe Intel-ceo onmiddellijk opstapt: wat zit daarachter?</title>
+            <link>https://tweakers.net/reviews/13640/trump-eist-dat-de-nieuwe-intel-ceo-onmiddellijk-opstapt-wat-zit-daarachter.html</link>
+            <description>Amper een half jaar geleden trad Lip-Bu Tan aan als de nieuwe ceo van worstelende chipmaker Intel. Nu eist Trump zijn vertrek. Waar komt dat vandaan?</description>
+            <author>Daan van Monsjou</author>
+            <category>Achtergrond / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/reviews/13640/trump-eist-dat-de-nieuwe-intel-ceo-onmiddellijk-opstapt-wat-zit-daarachter.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13640</guid>
+            <pubDate>Fri, 08 Aug 2025 16:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Adobe stopt met augmentedrealityontwikkelsoftware Aero</title>
+            <link>https://tweakers.net/nieuws/237906/adobe-stopt-met-augmentedrealityontwikkelsoftware-aero.html</link>
+            <description>Adobe stopt met augmentedrealityontwikkelsoftware Aero. Vanaf 6 november is de tool niet meer te gebruiken. Gebruikers kunnen hun content een maand langer exporteren. Volgens Adobe is &#039;de markt voor AR erg veranderd&#039; en wil het bedrijf meer inzetten op mixed reality.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Software development</category>
+            <comments>https://tweakers.net/nieuws/237906/adobe-stopt-met-augmentedrealityontwikkelsoftware-aero.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237906</guid>
+            <pubDate>Fri, 08 Aug 2025 15:40:42 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Thermalright toont M.2-ssd-koeler met argb-display die status weergeeft</title>
+            <link>https://tweakers.net/geek/237904/thermalright-toont-m2-ssd-koeler-met-argb-display-die-status-weergeeft.html</link>
+            <description>Natuurlijk wil je ieder moment van de dag weten hoe snel je ssd werkt. Toch? Als je die informatie wilt zien, hoef je niet langer constant allemaal vensters met informatie open te houden; Thermalrights HR-10-ssd-koeler bevat een argb-display die al die informatie weergeeft.</description>
+            <author>Tijs Hofmans</author>
+            <category>.Geek / Computers / Overclocking</category>
+            <comments>https://tweakers.net/geek/237904/thermalright-toont-m2-ssd-koeler-met-argb-display-die-status-weergeeft.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/237904</guid>
+            <pubDate>Fri, 08 Aug 2025 15:22:52 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gerucht: Xbox Ally-handheld van ASUS en Microsoft komt op 16 oktober uit</title>
+            <link>https://tweakers.net/nieuws/237900/gerucht-xbox-ally-handheld-van-asus-en-microsoft-komt-op-16-oktober-uit.html</link>
+            <description>De ROG Xbox Ally- en Ally X-handhelds gaan 599 en 899 euro kosten. De handhelds komen op 16 oktober dit jaar uit in Nederland en België, schrijft leaker Billbil-kun. Dat is eerder dan Microsoft zelf aangaf tijdens de presentatie.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Gaming / Consoles</category>
+            <comments>https://tweakers.net/nieuws/237900/gerucht-xbox-ally-handheld-van-asus-en-microsoft-komt-op-16-oktober-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237900</guid>
+            <pubDate>Fri, 08 Aug 2025 14:45:07 +0200</pubDate>
+        </item>
+    </channel>
+</rss>
