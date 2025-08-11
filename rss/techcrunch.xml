@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 11 Aug 2025 11:23:42 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 Aug 2025 13:34:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nvidia, AMD may sell high-end AI chips to China if they pay US a cut</title>
+		<link>https://techcrunch.com/2025/08/11/nvidia-amd-may-sell-high-end-ai-chips-to-china-if-they-pay-us-a-cut/</link>
+		
+		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
+		<pubDate>Mon, 11 Aug 2025 13:09:13 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[amd]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<category><![CDATA[nvidia h20]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3035733</guid>
+
+					<description><![CDATA[The global AI chip race narrative used to be about U.S. national security, but apparently now it's about tariffs: Nvidia and AMD have agreed to pay the U.S. government 15% of the revenue they make from sales of high-end AI chips to China in exchange for licenses to sell to those chips in the country, the Financial Times reported, citing anonymous sources. ]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Apple&#8217;s new Siri may allow users to operate apps just using voice</title>
 		<link>https://techcrunch.com/2025/08/11/apples-new-siri-may-allow-users-to-operate-apps-just-using-voice/</link>
 		
@@ -377,27 +396,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3034264</guid>
 
 					<description><![CDATA[Hear from Jai Das, Sapphire Ventures, and Roseanne Wincek, Renegade Partners, on how founders can prep for an exit at TechCrunch Disrupt 2025. Register here.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meta acquires AI audio startup WaveForms</title>
-		<link>https://techcrunch.com/2025/08/08/meta-acquires-ai-audio-startup-waveforms/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Fri, 08 Aug 2025 14:24:04 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI voice]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Mark Zuckerberg]]></category>
-		<category><![CDATA[Mergers and Acquisitions]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[waveforms]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3035362</guid>
-
-					<description><![CDATA[WaveForms, founded just eight months ago, last raised $40 million in a round led by Andreessen Horowitz that valued the company at $160 million pre-money, per PitchBook data. ]]></description>
 		
 		
 		
