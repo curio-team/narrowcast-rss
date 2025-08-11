@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 11 Aug 2025 10:27:01 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 Aug 2025 11:23:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Apple&#8217;s new Siri may allow users to operate apps just using voice</title>
+		<link>https://techcrunch.com/2025/08/11/apples-new-siri-may-allow-users-to-operate-apps-just-using-voice/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Mon, 11 Aug 2025 11:23:38 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Apple Intelligence]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[siri]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3035720</guid>
+
+					<description><![CDATA[Apple is testing a version of Siri that will be able to take actions on your behalf across various apps by following voice commands. The company plans to release a new version of App Intents, its framework gives developers the ability to allow users access to parts of their app via different systems, like search and Shortcuts.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nigerian profitable food delivery Chowdeck lands $9M from Novastar, Y Combinator</title>
 		<link>https://techcrunch.com/2025/08/11/nigeria-profitable-food-delivery-chowdeck-lands-9m-from-novastar-y-combinator/</link>
 		
@@ -85,7 +104,7 @@
 		
 			</item>
 		<item>
-		<title>The hidden cost of living amid Mark Zuckerberg&#8217;s $110M compound</title>
+		<title>The hidden cost of living in Mark Zuckerberg&#8217;s $110M compound</title>
 		<link>https://techcrunch.com/2025/08/10/the-hidden-cost-of-living-amid-mark-zuckerbergs-110m-compound/</link>
 		
 		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
@@ -95,7 +114,7 @@
 		<category><![CDATA[Mark Zuckerberg]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3035678</guid>
 
-					<description><![CDATA[Mark Zuckerberg has spent 14 years gobbling up his leafy Palo Alto neighborhood, according to a New York Times report detailing how the Meta CEO has purchased 11 properties for over $110 million to create his own personal fiefdom in Crescent Park. The piecemeal compound features a main residence, guest homes, manicured gardens, and a [&#8230;]]]></description>
+					<description><![CDATA[Mark Zuckerberg has spent 14 years gobbling up his leafy Palo Alto neighborhood, according to a New York Times report that details how the Meta CEO has purchased 11 properties for over $110 million to create his own personal fiefdom in Crescent Park. The piecemeal compound features a main residence, guest homes, manicured gardens, and [&#8230;]]]></description>
 		
 		
 		
@@ -110,7 +129,7 @@
 		<category><![CDATA[TC]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3035676</guid>
 
-					<description><![CDATA[Well, the coding-equals-prosperity promise has officially collapsed. Fresh computer science graduates are facing unemployment rates of 6.1% to 7.5% &#8212; more than double what biology and art history majors are experiencing, according to a recent Federal Reserve Bank of New York study. A crushing New York Times piece highlights what&#8217;s happening on the ground. The [&#8230;]]]></description>
+					<description><![CDATA[The coding-equals-prosperity promise has officially collapsed. Fresh computer science graduates are facing unemployment rates of 6.1% to 7.5% — more than double what biology and art history majors are experiencing, according to a recent Federal Reserve Bank of New York study. A crushing New York Times piece highlights what&#8217;s happening on the ground. The individual [&#8230;]]]></description>
 		
 		
 		
@@ -379,22 +398,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3035362</guid>
 
 					<description><![CDATA[WaveForms, founded just eight months ago, last raised $40 million in a round led by Andreessen Horowitz that valued the company at $160 million pre-money, per PitchBook data. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google tests revamped Google Finance with AI upgrades, live news feed</title>
-		<link>https://techcrunch.com/2025/08/08/google-tests-revamped-google-finance-with-ai-upgrades-live-news-feed/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Fri, 08 Aug 2025 13:50:43 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[google finance]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3035312</guid>
-
-					<description><![CDATA[Users will now be able to research their financial questions with AI, access advanced charting tools, and get real-time data and news. ]]></description>
 		
 		
 		
