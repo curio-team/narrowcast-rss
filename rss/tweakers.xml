@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Mon, 11 Aug 2025 09:31:10 +0200</pubDate>
-        <lastBuildDate>Mon, 11 Aug 2025 09:31:10 +0200</lastBuildDate>
+        <pubDate>Mon, 11 Aug 2025 10:36:01 +0200</pubDate>
+        <lastBuildDate>Mon, 11 Aug 2025 10:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,16 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>&#039;Nvidia en AMD gaan vijftien procent van China-omzet aan VS afdragen&#039;</title>
+            <link>https://tweakers.net/nieuws/237936/nvidia-en-amd-gaan-vijftien-procent-van-china-omzet-aan-vs-afdragen.html</link>
+            <description>Nvidia en AMD zouden een deal hebben gesloten om vijftien procent van hun omzet uit China direct aan de Amerikaanse overheid te betalen. Dat zeggen Amerikaanse overheidsfunctionarissen tegen de Financial Times, al geven de bedrijven zelf geen commentaar.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/237936/nvidia-en-amd-gaan-vijftien-procent-van-china-omzet-aan-vs-afdragen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237936</guid>
+            <pubDate>Mon, 11 Aug 2025 10:32:00 +0200</pubDate>
+        </item>
         <item>
             <title>.Geek - Ubisoft lijkt aan tv-serie over Far Cry te werken</title>
             <link>https://tweakers.net/geek/237940/ubisoft-lijkt-aan-tv-serie-over-far-cry-te-werken.html</link>
@@ -406,16 +416,6 @@
             <comments>https://tweakers.net/nieuws/237884/hbo-gaat-vanaf-september-dwingender-optreden-tegen-delen-van-accounts.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237884</guid>
             <pubDate>Fri, 08 Aug 2025 08:54:31 +0200</pubDate>
-        </item>
-        <item>
-            <title>Qwant en Ecosia tonen eerste resultaten uit eigen Europese zoekindex</title>
-            <link>https://tweakers.net/nieuws/237882/qwant-en-ecosia-tonen-eerste-resultaten-uit-eigen-europese-zoekindex.html</link>
-            <description>De zoekmachines Ecosia en Qwant zijn begonnen met het tonen van de eerste zoekresultaten op basis van hun eigen, Europese zoekindex. De bedrijven werken al langer samen aan zo&#039;n index en zetten die nu actief in.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Internet</category>
-            <comments>https://tweakers.net/nieuws/237882/qwant-en-ecosia-tonen-eerste-resultaten-uit-eigen-europese-zoekindex.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237882</guid>
-            <pubDate>Fri, 08 Aug 2025 08:18:50 +0200</pubDate>
         </item>
     </channel>
 </rss>
