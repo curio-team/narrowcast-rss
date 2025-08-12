@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 12 Aug 2025 05:27:54 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 12 Aug 2025 12:30:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,28 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>How a once-tiny research lab helped Nvidia become a $4 trillion-dollar company</title>
+		<link>https://techcrunch.com/2025/08/12/how-a-once-tiny-research-lab-helped-nvidia-become-a-4-trillion-dollar-company/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Tue, 12 Aug 2025 12:30:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<category><![CDATA[robotics]]></category>
+		<category><![CDATA[humanoids]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[physical ai]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3036040</guid>
+
+					<description><![CDATA[Nvidia's research lab developed the technology that took the company from a video game GPU startup to a $4 trillion-dollar company. ]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>TDK backs Ultraviolette with $21M to take India-made electric motorcycles global</title>
 		<link>https://techcrunch.com/2025/08/11/tdk-backs-ultraviolette-with-21m-to-take-india-made-electric-motorcycles-global/</link>
 		
@@ -384,25 +406,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3035696</guid>
 
 					<description><![CDATA[The automaker is investing $2 billion into the Louisville Assembly Plant with a $30,000 EV pickup slated for 2027.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nvidia, AMD may sell high-end AI chips to China if they pay US a cut</title>
-		<link>https://techcrunch.com/2025/08/11/nvidia-amd-may-sell-high-end-ai-chips-to-china-if-they-pay-us-a-cut/</link>
-		
-		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
-		<pubDate>Mon, 11 Aug 2025 13:09:13 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[amd]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<category><![CDATA[nvidia h20]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3035733</guid>
-
-					<description><![CDATA[The global AI chip race narrative used to be about U.S. national security, but apparently now it's about tariffs: Nvidia and AMD have agreed to pay the U.S. government 15% of the revenue they make from sales of high-end AI chips to China in exchange for licenses to sell those chips in the country, the Financial Times reported, citing anonymous sources. ]]></description>
 		
 		
 		
