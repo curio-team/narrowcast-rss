@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 12 Aug 2025 14:41:01 +0200</pubDate>
-        <lastBuildDate>Tue, 12 Aug 2025 14:41:01 +0200</lastBuildDate>
+        <pubDate>Tue, 12 Aug 2025 15:36:01 +0200</pubDate>
+        <lastBuildDate>Tue, 12 Aug 2025 15:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Microsoft brengt in augustus 365-&#039;companionapps&#039; uit voor zakelijke gebruikers</title>
+            <link>https://tweakers.net/nieuws/237998/microsoft-brengt-in-augustus-365-companionapps-uit-voor-zakelijke-gebruikers.html</link>
+            <description>Microsoft komt in augustus met &#039;companionapps&#039; voor zijn zakelijke 365-kantoorprogramma&#039;s. Deze lichte apps worden bij het opstarten standaard geopend en tonen onder andere recent geopende Office-bestanden en afspraken in de Outlook-agenda.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Computers / Besturingssystemen</category>
+            <comments>https://tweakers.net/nieuws/237998/microsoft-brengt-in-augustus-365-companionapps-uit-voor-zakelijke-gebruikers.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237998</guid>
+            <pubDate>Tue, 12 Aug 2025 15:34:26 +0200</pubDate>
+        </item>
+        <item>
+            <title>Arm-gpu&#039;s krijgen in 2026 neural rendering voor &#039;pc-graphics op smartphones&#039;</title>
+            <link>https://tweakers.net/nieuws/237990/arm-gpus-krijgen-in-2026-neural-rendering-voor-pc-graphics-op-smartphones.html</link>
+            <description>Arm voorziet de gpu&#039;s in zijn chipontwerpen vanaf volgend jaar van Neural Super Sampling, een upscalingtechniek die &#039;de graphics van een desktop&#039; mogelijk moet maken op mobiele toestellen. De techniek vereist speciale hardware en komt dus niet beschikbaar voor huidige Arm-chips.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/237990/arm-gpus-krijgen-in-2026-neural-rendering-voor-pc-graphics-op-smartphones.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237990</guid>
+            <pubDate>Tue, 12 Aug 2025 15:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>PUBG-makers brengen open bèta uit voor survivalgame Prologue: Go Wayback</title>
+            <link>https://tweakers.net/nieuws/237996/pubg-makers-brengen-open-beta-uit-voor-survivalgame-prologue-go-wayback.html</link>
+            <description>PlayerUnknown Productions heeft een open bèta uitgebracht voor Prologue: Go Wayback. Spelers krijgen daarmee toegang tot de volledige versie van de nieuwe singleplayersurvivalgame van de makers van PUBG.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/237996/pubg-makers-brengen-open-beta-uit-voor-survivalgame-prologue-go-wayback.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237996</guid>
+            <pubDate>Tue, 12 Aug 2025 15:00:00 +0200</pubDate>
+        </item>
         <item>
             <title>China raadt bedrijven af om Nvidia&#039;s H20-datacenterchip te gebruiken</title>
             <link>https://tweakers.net/nieuws/237994/china-raadt-bedrijven-af-om-nvidias-h20-datacenterchip-te-gebruiken.html</link>
@@ -138,12 +168,12 @@
             <pubDate>Tue, 12 Aug 2025 07:30:00 +0200</pubDate>
         </item>
         <item>
-            <title>Review - Lian Li A3 vs. Phanteks XT M3 - Populairste mATX-kast krijgt concurrentie</title>
-            <link>https://tweakers.net/reviews/13560/lian-li-a3-vs-phanteks-xt-m3-populairste-matx-kast-krijgt-concurrentie.html</link>
+            <title>Review - Lian Li A3 vs. Phanteks XT M3 - Luxe compactheid tegenover luid koopje</title>
+            <link>https://tweakers.net/reviews/13560/lian-li-a3-vs-phanteks-xt-m3-luxe-compactheid-tegenover-luid-koopje.html</link>
             <description>De Lian Li A3 is een mooie designerkast waarmee je vrij goedkoop kunt instappen. De Phanteks M3 is wat makkelijker in te bouwen en heeft een lagere instapprijs.</description>
             <author>Willem de Moor</author>
             <category>Review / Computers / Behuizingen</category>
-            <comments>https://tweakers.net/reviews/13560/lian-li-a3-vs-phanteks-xt-m3-populairste-matx-kast-krijgt-concurrentie.html#reacties</comments>
+            <comments>https://tweakers.net/reviews/13560/lian-li-a3-vs-phanteks-xt-m3-luxe-compactheid-tegenover-luid-koopje.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/reviews/13560</guid>
             <pubDate>Tue, 12 Aug 2025 06:00:00 +0200</pubDate>
         </item>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/nieuws/237930/overheid-nederland-moet-opnieuw-besluiten-over-openbaren-belastingdienstbroncode.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237930</guid>
             <pubDate>Sun, 10 Aug 2025 11:28:38 +0200</pubDate>
-        </item>
-        <item>
-            <title>Debian 13 Trixie is uit</title>
-            <link>https://tweakers.net/nieuws/237926/debian-13-trixie-is-uit.html</link>
-            <description>Debian heeft Debian 13 uitgebracht. De distro heeft de naam Trixie en heeft onder andere ondersteuning voor RISC-V-processors. Ook is de packagemanager geüpgraded naar APT 3.0 en zijn er beveiligingsupdates doorgevoerd.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Besturingssystemen</category>
-            <comments>https://tweakers.net/nieuws/237926/debian-13-trixie-is-uit.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237926</guid>
-            <pubDate>Sun, 10 Aug 2025 10:20:56 +0200</pubDate>
-        </item>
-        <item>
-            <title>Quicktest - Samsung S90F-oled-tv - Midranger met mooie hdr-prestaties</title>
-            <link>https://tweakers.net/reviews/13576/samsung-s90f-oled-tv-midranger-met-mooie-hdr-prestaties.html</link>
-            <description>De S90F is Samsungs midrangeoled-tv voor 2025 en moet het dus opnemen tegen de populaire LG C5. Wie heeft dit jaar de beste oledmiddenklasser?</description>
-            <author>Sjef Weller</author>
-            <category>Quicktest / Beeld en geluid / Televisies</category>
-            <comments>https://tweakers.net/reviews/13576/samsung-s90f-oled-tv-midranger-met-mooie-hdr-prestaties.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13576</guid>
-            <pubDate>Sun, 10 Aug 2025 09:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Achtergrond - Hersenchips geven patiënten hun spraak terug en bedrijven toegang tot hun brein</title>
-            <link>https://tweakers.net/reviews/13598/hersenchips-geven-patienten-hun-spraak-terug-en-bedrijven-toegang-tot-hun-brein.html</link>
-            <description>Hersenimplantaten ontwikkelen zich snel: steeds meer patiënten kunnen weer communiceren of computers bedienen. Maar wil je een bedrijf toegang geven tot je brein?</description>
-            <author>Kevin Krikhaar</author>
-            <category>Achtergrond / IT Pro / Wetenschap</category>
-            <comments>https://tweakers.net/reviews/13598/hersenchips-geven-patienten-hun-spraak-terug-en-bedrijven-toegang-tot-hun-brein.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13598</guid>
-            <pubDate>Sun, 10 Aug 2025 06:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
