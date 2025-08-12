@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 12 Aug 2025 15:36:01 +0200</pubDate>
-        <lastBuildDate>Tue, 12 Aug 2025 15:36:01 +0200</lastBuildDate>
+        <pubDate>Tue, 12 Aug 2025 16:36:01 +0200</pubDate>
+        <lastBuildDate>Tue, 12 Aug 2025 16:36:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Media Player Classic - Home Cinema 2.5.2</title>
+            <link>https://tweakers.net/downloads/73612/media-player-classic-home-cinema-252.html</link>
+            <description>In juli 2017 is versie 1.7.13 van Media Player Classic - Home Cinema uitgekomen en gaven de ontwikkelaars aan dat zij verder geen nieuwe versies meer uit zouden brengen. De broncode is echter opensource en een ontwikkelaar die onder de naam clsid bij de website Doom9 bekendstaat en zelf lange tijd bij MPC-HC betrokken was, brengt nu af en toe nieuwe, &#039;onofficiële&#039; versies uit. Deze bevatten voornamelijk kleine verbeteringen en ook worden altijd de laatste versies van de LAV Filters en MediaInfo meegeleverd. Versie 2.5.2 is uitgekomen en hierin zijn de volgende veranderingen en verbeteringen aangebracht: Updates:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73612/media-player-classic-home-cinema-252.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73612</guid>
+            <pubDate>Tue, 12 Aug 2025 16:13:24 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nvidia voegt ondersteuning voor DLSS 4 toe aan Grand Theft Auto V</title>
+            <link>https://tweakers.net/nieuws/238000/nvidia-voegt-ondersteuning-voor-dlss-4-toe-aan-grand-theft-auto-v.html</link>
+            <description>De pc-versie van Grand Theft Auto V krijgt officieel ondersteuning voor de upscalingtechnologie DLSS 4. Daardoor kunnen RTX 50-eigenaren gebruikmaken van Multi Frame Generation, waarbij tussen gerenderde frames meerdere gegenereerde frames getoond worden.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/238000/nvidia-voegt-ondersteuning-voor-dlss-4-toe-aan-grand-theft-auto-v.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238000</guid>
+            <pubDate>Tue, 12 Aug 2025 16:08:12 +0200</pubDate>
+        </item>
         <item>
             <title>Microsoft brengt in augustus 365-&#039;companionapps&#039; uit voor zakelijke gebruikers</title>
             <link>https://tweakers.net/nieuws/237998/microsoft-brengt-in-augustus-365-companionapps-uit-voor-zakelijke-gebruikers.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/downloads/73598/double-commander-1128.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73598</guid>
             <pubDate>Sun, 10 Aug 2025 14:10:11 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Ooit zo grote internetreus AOL stopt in VS met inbelverbindingen</title>
-            <link>https://tweakers.net/geek/237928/ooit-zo-grote-internetreus-aol-stopt-in-vs-met-inbelverbindingen.html</link>
-            <description>Het hysterische gepiep en gekraak van een inbelmodem is voor veel tweakers een vertrouwd, maar vooral ook nostalgisch geluid. In Amerika is dat binnenkort misschien verleden tijd. Daar stopt AOL eind volgende maand met het aanbieden van inbelverbindingen, 34 jaar nadat het dat voor het eerst aanbood.</description>
-            <author>Tijs Hofmans</author>
-            <category>.Geek / Computers / Netwerk</category>
-            <comments>https://tweakers.net/geek/237928/ooit-zo-grote-internetreus-aol-stopt-in-vs-met-inbelverbindingen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/237928</guid>
-            <pubDate>Sun, 10 Aug 2025 12:24:34 +0200</pubDate>
-        </item>
-        <item>
-            <title>Overheid Nederland moet opnieuw besluiten over openbaren Belastingdienstbroncode</title>
-            <link>https://tweakers.net/nieuws/237930/overheid-nederland-moet-opnieuw-besluiten-over-openbaren-belastingdienstbroncode.html</link>
-            <description>De Nederlandse overheid mag de broncode van bepaalde systemen van de Belastingdienst niet zomaar geheimhouden. De demissionaire staatssecretaris moet nog een keer uitleggen waarom hij de broncode niet wil openbaren, maar dan met een betere onderbouwing. Dat oordeelt de rechter na een klacht van een burger.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Software development</category>
-            <comments>https://tweakers.net/nieuws/237930/overheid-nederland-moet-opnieuw-besluiten-over-openbaren-belastingdienstbroncode.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237930</guid>
-            <pubDate>Sun, 10 Aug 2025 11:28:38 +0200</pubDate>
         </item>
     </channel>
 </rss>
