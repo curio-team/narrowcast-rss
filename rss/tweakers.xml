@@ -1,14 +1,421 @@
-<HTML><HEAD>
-<TITLE>Access Denied</TITLE>
-</HEAD><BODY>
-<H1>Access Denied</H1>
-<P>Your request was blocked by DPG Media's Web Application Firewall.</P>
-<P>For more information contact application support and specify: </P>
-<ul>
-  <li>Reference: 0.72c83017.1755081429.7347197c</li>
-  <li>ClientIP: 68.154.37.65</li>
-  <li><div id="url"></div></li>
-<script>document.getElementById('url').innerText = window.location.href; </script>
-</ul>
-</BODY>
-</HTML>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" >
+    <channel>
+        <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
+        <pubDate>Wed, 13 Aug 2025 13:31:01 +0200</pubDate>
+        <lastBuildDate>Wed, 13 Aug 2025 13:31:01 +0200</lastBuildDate>
+        <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
+        <image>
+            <link>https://tweakers.net/</link>
+            <title>Tweakers</title>
+            <url>https://tweakers.net/logo.png</url>
+            <width>196</width>
+            <height>196</height>
+            <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
+        </image>
+        <language>nl-NL</language>
+        <link>https://tweakers.net/</link>
+        <title>Tweakers Mixed RSS Feed</title>
+        <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Amarok 3.3.1</title>
+            <link>https://tweakers.net/downloads/73620/amarok-331.html</link>
+            <description>Amarok is een opensource audiospeler die primair voor Linux en BSD wordt ontwikkeld. Er zijn ook downloads voor Windows en macOS, maar die zijn alweer een tijdje niet bijgewerkt. De ontwikkeling heeft lange tijd stil gestaan, wat tot enkele forks heeft geleid, waar Clementine en Strawberry de bekendste van waren. Ongeveer anderhalf jaar geleden is er weer beweging in gekomen met de verschijning van versie 3.0. Inmiddels zijn we bij versie 3.3.1 aanbeland en de changelog voor die uitgave kan hieronder worden gevonden. New features:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73620/amarok-331.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73620</guid>
+            <pubDate>Wed, 13 Aug 2025 13:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Plex Media Server 1.42.1.10060</title>
+            <link>https://tweakers.net/downloads/73622/plex-media-server-142110060.html</link>
+            <description>Versie 1.42.1.10060 van Plex Media Server is verschenen. Deze versie was eerder al voor houders van de betaalde PlexPass beschikbaar, maar kan inmiddels door iedereen worden gedownload. Plex Media Server is een mediaserver voor Windows, Linux, FreeBSD, macOS en diverse nasapparaten. De software kan content serveren aan clients op dezelfde machine, binnen het lokale netwerk of via internet. Clientsoftware is beschikbaar voor de eerdergenoemde besturingssystemen, maar content kan ook worden bekeken op bijvoorbeeld iOS, Android, Google TV en Chromecast. Het programma is gratis te gebruiken en heeft daarnaast PlexPass, een betaalde dienst die toegang tot &#039;premium features&#039; en eerder tot nieuwe versies geeft. Sinds versie 1.41.2.9200 zijn de volgende veranderingen en verbeteringen aangebracht:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73622/plex-media-server-142110060.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73622</guid>
+            <pubDate>Wed, 13 Aug 2025 12:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>RTL Nieuws: door ransomware getroffen medisch lab heeft losgeld betaald</title>
+            <link>https://tweakers.net/nieuws/238028/rtl-nieuws-door-ransomware-getroffen-medisch-lab-heeft-losgeld-betaald.html</link>
+            <description>Clinical Diagnostics, het laboratorium dat onlangs werd gehackt en waarbij medische gegevens werden gestolen, heeft losgeld betaald. De ransomwaregroep, Nova, bevestigt dat aan RTL Nieuws. Clinical Diagnostics doet daar geen uitspraken over.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/238028/rtl-nieuws-door-ransomware-getroffen-medisch-lab-heeft-losgeld-betaald.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238028</guid>
+            <pubDate>Wed, 13 Aug 2025 11:54:25 +0200</pubDate>
+        </item>
+        <item>
+            <title>Microsoft repareert tijdens Patch Tuesday 107 bugs waaronder een zeroday</title>
+            <link>https://tweakers.net/nieuws/238026/microsoft-repareert-tijdens-patch-tuesday-107-bugs-waaronder-een-zeroday.html</link>
+            <description>Microsoft heeft tijdens de maandelijkse Patch Tuesday-updateronde 107 kwetsbaarheden gerepareerd. Daaronder viel een zerodaykwetsbaarheid in Kerberos. Van die privilege escalation is in mei al beschreven hoe die werkte.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Computers / Beveiliging en antivirus</category>
+            <comments>https://tweakers.net/nieuws/238026/microsoft-repareert-tijdens-patch-tuesday-107-bugs-waaronder-een-zeroday.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238026</guid>
+            <pubDate>Wed, 13 Aug 2025 11:31:29 +0200</pubDate>
+        </item>
+        <item>
+            <title>Juristen bekritiseren ruime Vinted-rechten op gebruikersfoto’s voor AI-training</title>
+            <link>https://tweakers.net/nieuws/237988/juristen-bekritiseren-ruime-vinted-rechten-op-gebruikersfotos-voor-ai-training.html</link>
+            <description>Nederlandse juristen uiten tegenover Tweakers kritiek op de nieuwe voorwaarden van Vinted. De daarmee verkregen rechten voor het gebruik van foto’s en teksten van gebruikers gaan ver. Toch is er minder mis dan bij de nieuwe voorwaarden van WeTransfer.</description>
+            <author>Jasper Bakker</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237988/juristen-bekritiseren-ruime-vinted-rechten-op-gebruikersfotos-voor-ai-training.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237988</guid>
+            <pubDate>Wed, 13 Aug 2025 11:29:57 +0200</pubDate>
+        </item>
+        <item>
+            <title>NCSC: hackers misbruikten Citrix‑kwetsbaarheden al maand vóór ontdekking</title>
+            <link>https://tweakers.net/nieuws/237982/ncsc-hackers-misbruikten-citrix-kwetsbaarheden-al-maand-voor-ontdekking.html</link>
+            <description>Aanvallers hebben kwetsbaarheden in Citrix NetScaler veel eerder misbruikt dan aanvankelijk leek en hebben hun sporen gewist. Het Nederlandse NCSC doet nog onderzoek, maar trekt al een conclusie: niet alle vragen over de aanvallen kunnen worden beantwoord.</description>
+            <author>Jasper Bakker</author>
+            <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
+            <comments>https://tweakers.net/nieuws/237982/ncsc-hackers-misbruikten-citrix-kwetsbaarheden-al-maand-voor-ontdekking.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237982</guid>
+            <pubDate>Wed, 13 Aug 2025 10:31:35 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - CrossOver 25.1.0</title>
+            <link>https://tweakers.net/downloads/73626/crossover-2510.html</link>
+            <description>Wine is een opensource implementatie van de Windows-api. Dit maakt het mogelijk om DOS- en Windows-programma&#039;s op onder andere Linux en macOS te draaien. Van Wine is ook een commerciële versie met ondersteuning beschikbaar, met de naam CrossOver. CodeWeavers brengt CrossOver uit voor Linux, macOS en ChromeOS en zegt ook veel bij te dragen aan de ontwikkeling van Wine zelf. Versie 25.1.0 van CrossOver is uitgebracht en hierin zijn onder meer problemen met de game launchers van EA en Ubisoft verholpen, is compabiliteit met verschillende controllers verbeterd en zijn er verbeteringen aangebracht met betrekking tot het gebruik van Office 365 Outlook en Office 2016. De complete releasenotes kunnen hieronder worden gevonden. Announcing CrossOver 25.1.0</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73626/crossover-2510.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73626</guid>
+            <pubDate>Wed, 13 Aug 2025 10:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Britse overheid raadt aan e-mails te verwijderen om water te besparen</title>
+            <link>https://tweakers.net/geek/238024/britse-overheid-raadt-aan-e-mails-te-verwijderen-om-water-te-besparen.html</link>
+            <description>Er zijn voor de hand liggende en laagdrempelige manieren om water te besparen in tijden van droogte: de tuin bewateren met regenwater, korter douchen, de kraan dicht doen tijdens het tandenpoetsen... Maar in tijden van klimaatverandering raadt de Britse overheid burgers ook aan foto&#039;s en oude e-mails uit de cloud te halen. Want al die datacenters slurpen water.</description>
+            <author>Tijs Hofmans</author>
+            <category>.Geek / Computers / Opslag</category>
+            <comments>https://tweakers.net/geek/238024/britse-overheid-raadt-aan-e-mails-te-verwijderen-om-water-te-besparen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/238024</guid>
+            <pubDate>Wed, 13 Aug 2025 09:16:56 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Visual Studio 2022 17.14.12</title>
+            <link>https://tweakers.net/downloads/73624/visual-studio-2022-171412.html</link>
+            <description>Microsoft heeft een update voor versie 17.14 van Visual Studio 2022 uitgebracht. Deze populaire programmeerontwikkelomgeving, verkrijgbaar in de smaken Community, Professional en Enterprise, beschikt over handige opties om het programmeren in onder meer Visual C++, Visual Basic, C#, F# en Python gemakkelijker te maken. De nieuwe versie is volledig 64bit en heeft een vereenvoudigde gebruikersinterface. Uitgebreide informatie over versie 17.14 is op deze pagina van Microsoft te vinden; in deze uitgave is een beveiligingsprobleem met CoPilot verholpen. Security advisories addressed</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73624/visual-studio-2022-171412.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73624</guid>
+            <pubDate>Wed, 13 Aug 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>ChatGPT 4o is weer beschikbaar en GPT-5 krijgt selectieoptie voor beste model</title>
+            <link>https://tweakers.net/nieuws/238022/chatgpt-4o-is-weer-beschikbaar-en-gpt-5-krijgt-selectieoptie-voor-beste-model.html</link>
+            <description>ChatGPT 4o is vanaf woensdag weer beschikbaar voor alle betalende ChatGPT-gebruikers. OpenAI kondigde eerder al aan het model terug te brengen. Ook komen er verschillende nieuwe opties om GPT-5 te gebruiken, zoals een snelle zoekopdracht, zegt OpenAI-ceo Sam Altman.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Internet</category>
+            <comments>https://tweakers.net/nieuws/238022/chatgpt-4o-is-weer-beschikbaar-en-gpt-5-krijgt-selectieoptie-voor-beste-model.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238022</guid>
+            <pubDate>Wed, 13 Aug 2025 08:33:04 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Adv - Back2School? Hoge kortingen op producten van Coolblue</title>
+            <link>https://tweakers.net/plan/4480/back2school-hoge-kortingen-op-producten-van-coolblue.html</link>
+            <description>Coolblue biedt dit jaar een trits sterke Back2School-deals. En dat steekt het bedrijf niet onder stoelen en banken. Het heeft de krachten gebundeld met Tweakers Partners om de beste laptop- en smartwatchdeals in de schijnwerpers te zetten. Studenten krijgen bovendien 50 euro extra korting, bovenop de bestaande laptop-aanbiedingen.</description>
+            <author>Tweakers Partners</author>
+            <category>.adv</category>
+            <comments>https://tweakers.net/plan/4480/back2school-hoge-kortingen-op-producten-van-coolblue.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/plan/4480</guid>
+            <pubDate>Wed, 13 Aug 2025 08:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Amazons satellietnetwerk Project Kuiper bestaat uit meer dan honderd satellieten</title>
+            <link>https://tweakers.net/nieuws/238018/amazons-satellietnetwerk-project-kuiper-bestaat-uit-meer-dan-honderd-satellieten.html</link>
+            <description>Amazons satellietconstellatie Project Kuiper telt meer dan honderd satellieten. Na een recente lancering bestaat het netwerk uit 102 kleine satellieten. Amazon begon in april met het opbouwen van zijn Starlink-concurrent.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
+            <comments>https://tweakers.net/nieuws/238018/amazons-satellietnetwerk-project-kuiper-bestaat-uit-meer-dan-honderd-satellieten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238018</guid>
+            <pubDate>Wed, 13 Aug 2025 07:59:56 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Q-Dir 12.31</title>
+            <link>https://tweakers.net/downloads/73618/q-dir-1231.html</link>
+            <description>Software OK heeft versie 12.31 van de gratis filemanager Q-Dir uitgebracht. Het ziet er een beetje uit als Windows Verkenner, maar dan met vier schermen, waardoor het eenvoudig is om bestanden te verplaatsen, beheren of bekijken. Dit verklaart ook meteen de naam: de Q staat voor quad. De download is ongeveer een megabyte groot en het programma is in verschillende talen te gebruiken, waaronder in het Nederlands. De changelog sinds versie 12.25 ziet er als volgt uit: New in version 12.31</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73618/q-dir-1231.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73618</guid>
+            <pubDate>Wed, 13 Aug 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Round-up - Vijf 7&quot;-kleuren-e-readers getest - De beste e-reader? Ligt eraan wat je wilt</title>
+            <link>https://tweakers.net/reviews/13418/vijf-7-inch-kleuren-e-readers-getest-de-beste-e-reader-ligt-eraan-wat-je-wilt.html</link>
+            <description>We vergelijken 7&quot;-e-readers met kleurenscherm: Amazon Kindle Colorsoft, Kobo Libra Colour, Tolino Vision Color, PocketBook Era Color en Onyx Boox Go Color 7.</description>
+            <author>Jelle Stuip</author>
+            <category>Round-up / Tablets en telefoons / E-readers</category>
+            <comments>https://tweakers.net/reviews/13418/vijf-7-inch-kleuren-e-readers-getest-de-beste-e-reader-ligt-eraan-wat-je-wilt.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13418</guid>
+            <pubDate>Wed, 13 Aug 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Microsoft blijft Windows 10-versie van Edge ondersteunen tot oktober 2028</title>
+            <link>https://tweakers.net/nieuws/238014/microsoft-blijft-windows-10-versie-van-edge-ondersteunen-tot-oktober-2028.html</link>
+            <description>Microsoft blijft de Windows 10-versie van zijn Edge-browser ondersteunen tot oktober 2028. Dat bevestigt het bedrijf op zijn website. Daarmee blijft de browserversie drie jaar langer ondersteund dan Windows 10 zelf, waarvan de standaardondersteuning in oktober eindigt.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Besturingssystemen</category>
+            <comments>https://tweakers.net/nieuws/238014/microsoft-blijft-windows-10-versie-van-edge-ondersteunen-tot-oktober-2028.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238014</guid>
+            <pubDate>Tue, 12 Aug 2025 21:04:55 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Ente Photos 1.2</title>
+            <link>https://tweakers.net/downloads/73616/ente-photos-12.html</link>
+            <description>Ente Photos is een oplossing voor het beheren van foto&#039;s. Het is opensource, maakt gebruik van end-to-end versleuteling, heeft gezichtsherkenning, is crossplatform en heeft naast gratis en betaalde abonnementen ook de mogelijkheid om het in eigen beheer te hosten. Het kan zich prima meten met Google Photos en Apple Photos. Enkele dagen geleden is versie 1.2 van Ente Photos uitgekomen en de belangrijkste veranderingen die daarin zijn aangebracht kunnen hieronder worden gevonden. Custom layouts</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73616/ente-photos-12.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73616</guid>
+            <pubDate>Tue, 12 Aug 2025 20:18:09 +0200</pubDate>
+        </item>
+        <item>
+            <title>Perplexity doet ongevraagd bod op Google Chrome van 34,5 miljard dollar</title>
+            <link>https://tweakers.net/nieuws/238010/perplexity-doet-ongevraagd-bod-op-google-chrome-van-34-komma-5-miljard-dollar.html</link>
+            <description>Perplexity AI heeft ongevraagd een bod gedaan op Google Chrome. De AI-start-up wil de browser overnemen voor 34,5 miljard dollar. Het Amerikaanse ministerie van Justitie wil dat Google de Chrome-browser verkoopt, hoewel dat nog uitgevochten moet worden voor de rechtbank.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Browsers</category>
+            <comments>https://tweakers.net/nieuws/238010/perplexity-doet-ongevraagd-bod-op-google-chrome-van-34-komma-5-miljard-dollar.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238010</guid>
+            <pubDate>Tue, 12 Aug 2025 19:56:51 +0200</pubDate>
+        </item>
+        <item>
+            <title>Medeoprichter TerraUSD bekent schuld aan fraude na ineenstorting van stablecoin</title>
+            <link>https://tweakers.net/nieuws/238008/medeoprichter-terrausd-bekent-schuld-aan-fraude-na-ineenstorting-van-stablecoin.html</link>
+            <description>Terraform Labs-medeoprichter Do Kwon heeft schuld bekend aan twee beschuldigingen van fraude. Kwons bedrijf bood de TerraUSD-stablecoin aan, naast een andere cryptovaluta. Die stortten in 2022 in, waarbij 40 miljard verloren ging.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / IT Pro / Economie en maatschappij</category>
+            <comments>https://tweakers.net/nieuws/238008/medeoprichter-terrausd-bekent-schuld-aan-fraude-na-ineenstorting-van-stablecoin.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238008</guid>
+            <pubDate>Tue, 12 Aug 2025 19:20:03 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gerucht: Apple werkt aan MacBook met iPhone-chip voor 599 à 699 dollar</title>
+            <link>https://tweakers.net/nieuws/238006/gerucht-apple-werkt-aan-macbook-met-iphone-chip-voor-599-a-699-dollar.html</link>
+            <description>Apple komt dit jaar mogelijk met een goedkopere instap-MacBook, die draait op een iPhone-soc. Dat meldt DigiTimes. De laptop zou mogelijk eind dit jaar of begin volgend jaar verschijnen, met een adviesprijs tussen de 599 en 699 dollar.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Laptops</category>
+            <comments>https://tweakers.net/nieuws/238006/gerucht-apple-werkt-aan-macbook-met-iphone-chip-voor-599-a-699-dollar.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238006</guid>
+            <pubDate>Tue, 12 Aug 2025 18:31:35 +0200</pubDate>
+        </item>
+        <item>
+            <title>TSMC gaat stoppen met productie op 150mm-wafers voor oudere nodes</title>
+            <link>https://tweakers.net/nieuws/238004/tsmc-gaat-stoppen-met-productie-op-150mm-wafers-voor-oudere-nodes.html</link>
+            <description>TSMC gaat over een paar jaar stoppen met chipproductie op 150mm-wafers. De Taiwanese chipmaker heeft momenteel nog een enkele chipfabriek die dergelijke wafers gebruikt voor het maken van chips op oudere procedés.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/238004/tsmc-gaat-stoppen-met-productie-op-150mm-wafers-voor-oudere-nodes.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238004</guid>
+            <pubDate>Tue, 12 Aug 2025 17:47:08 +0200</pubDate>
+        </item>
+        <item>
+            <title>Driver-update - GeForce Game Ready Driver 580.97 WHQL</title>
+            <link>https://tweakers.net/downloads/73614/geforce-game-ready-driver-58097-whql.html</link>
+            <description>Nvidia heeft nieuwe stabiele GeForce-drivers uitgebracht. De drivers dragen versienummer 580.97 en zijn voorzien van een Windows Hardware Quality Labs-certificaat. Ze zijn geschikt voor Windows 10 en hoger, en kunnen worden gebruikt op kaarten gebaseerd op de Maxwell-architectuur of nieuwer. Deze uitgave voegt onder meer ondersteuning toe voor de GeForce RTX 5050 en bevat verbeteringen voor de spellen Senua’s Saga: Hellblade II Enhanced en Grand Theft Auto V Enhanced. Ook zijn er weer enkele problemen verholpen. De changelog voor deze uitgave kan hieronder worden gevonden: Game Ready</description>
+            <author>Bart van Klaveren</author>
+            <category>Driver</category>
+            <comments>https://tweakers.net/downloads/73614/geforce-game-ready-driver-58097-whql.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73614</guid>
+            <pubDate>Tue, 12 Aug 2025 17:22:50 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Media Player Classic - Home Cinema 2.5.2</title>
+            <link>https://tweakers.net/downloads/73612/media-player-classic-home-cinema-252.html</link>
+            <description>In juli 2017 is versie 1.7.13 van Media Player Classic - Home Cinema uitgekomen en gaven de ontwikkelaars aan dat zij verder geen nieuwe versies meer uit zouden brengen. De broncode is echter opensource en een ontwikkelaar die onder de naam clsid bij de website Doom9 bekendstaat en zelf lange tijd bij MPC-HC betrokken was, brengt nu af en toe nieuwe, &#039;onofficiële&#039; versies uit. Deze bevatten voornamelijk kleine verbeteringen en ook worden altijd de laatste versies van de LAV Filters en MediaInfo meegeleverd. Versie 2.5.2 is uitgekomen en hierin zijn de volgende veranderingen en verbeteringen aangebracht: Updates:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73612/media-player-classic-home-cinema-252.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73612</guid>
+            <pubDate>Tue, 12 Aug 2025 16:13:24 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nvidia voegt ondersteuning voor DLSS 4 toe aan Grand Theft Auto V</title>
+            <link>https://tweakers.net/nieuws/238000/nvidia-voegt-ondersteuning-voor-dlss-4-toe-aan-grand-theft-auto-v.html</link>
+            <description>De pc-versie van Grand Theft Auto V krijgt officieel ondersteuning voor de upscalingtechnologie DLSS 4. Daardoor kunnen RTX 50-eigenaren gebruikmaken van Multi Frame Generation, waarbij tussen gerenderde frames meerdere gegenereerde frames getoond worden.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/238000/nvidia-voegt-ondersteuning-voor-dlss-4-toe-aan-grand-theft-auto-v.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238000</guid>
+            <pubDate>Tue, 12 Aug 2025 16:08:12 +0200</pubDate>
+        </item>
+        <item>
+            <title>Microsoft brengt in augustus 365-&#039;companionapps&#039; uit voor zakelijke gebruikers</title>
+            <link>https://tweakers.net/nieuws/237998/microsoft-brengt-in-augustus-365-companionapps-uit-voor-zakelijke-gebruikers.html</link>
+            <description>Microsoft komt in augustus met &#039;companionapps&#039; voor zijn zakelijke 365-kantoorprogramma&#039;s. Deze lichte apps worden bij het opstarten standaard geopend en tonen onder andere recent geopende Office-bestanden en afspraken in de Outlook-agenda.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Computers / Besturingssystemen</category>
+            <comments>https://tweakers.net/nieuws/237998/microsoft-brengt-in-augustus-365-companionapps-uit-voor-zakelijke-gebruikers.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237998</guid>
+            <pubDate>Tue, 12 Aug 2025 15:34:26 +0200</pubDate>
+        </item>
+        <item>
+            <title>Arm-gpu&#039;s krijgen in 2026 neural rendering voor &#039;pc-graphics op smartphones&#039;</title>
+            <link>https://tweakers.net/nieuws/237990/arm-gpus-krijgen-in-2026-neural-rendering-voor-pc-graphics-op-smartphones.html</link>
+            <description>Arm voorziet de gpu&#039;s in zijn chipontwerpen vanaf volgend jaar van Neural Super Sampling, een upscalingtechniek die &#039;de graphics van een desktop&#039; mogelijk moet maken op mobiele toestellen. De techniek vereist speciale hardware en komt dus niet beschikbaar voor huidige Arm-chips.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/237990/arm-gpus-krijgen-in-2026-neural-rendering-voor-pc-graphics-op-smartphones.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237990</guid>
+            <pubDate>Tue, 12 Aug 2025 15:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>PUBG-makers brengen open bèta uit voor survivalgame Prologue: Go Wayback</title>
+            <link>https://tweakers.net/nieuws/237996/pubg-makers-brengen-open-beta-uit-voor-survivalgame-prologue-go-wayback.html</link>
+            <description>PlayerUnknown Productions heeft een open bèta uitgebracht voor Prologue: Go Wayback. Spelers krijgen daarmee toegang tot de volledige versie van de nieuwe singleplayersurvivalgame van de makers van PUBG.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/237996/pubg-makers-brengen-open-beta-uit-voor-survivalgame-prologue-go-wayback.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237996</guid>
+            <pubDate>Tue, 12 Aug 2025 15:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>China raadt bedrijven af om Nvidia&#039;s H20-datacenterchip te gebruiken</title>
+            <link>https://tweakers.net/nieuws/237994/china-raadt-bedrijven-af-om-nvidias-h20-datacenterchip-te-gebruiken.html</link>
+            <description>De Chinese overheid roept plaatselijke bedrijven op om geen H20-datacenter-gpu&#039;s te gebruiken, met name voor zaken die te maken hebben met de nationale veiligheid. Dat zeggen ingewijden tegen persbureau Bloomberg.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Computers / Videokaarten</category>
+            <comments>https://tweakers.net/nieuws/237994/china-raadt-bedrijven-af-om-nvidias-h20-datacenterchip-te-gebruiken.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237994</guid>
+            <pubDate>Tue, 12 Aug 2025 14:13:42 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Notepad++ 8.8.4</title>
+            <link>https://tweakers.net/downloads/73610/notepad++-884.html</link>
+            <description>Versie 8.8.4 van Notepad++ is uitgekomen. Deze uitgebreide teksteditor heeft diverse mogelijkheden die vooral voor programmeurs handig zijn, zoals syntaxhighlighting voor onder andere C, C++, Java, HTML, XML en PHP. Ook biedt het programma de mogelijkheid om meer dan één document tegelijk te bewerken of één document op twee verschillende plaatsen te onderhouden. Wie de nieuwste versie wil gebruiken, moet deze zelf downloaden. De ingebouwde updater van Notepad++ biedt updates namelijk pas een week na hun verschijnen aan om eventuele ernstige bugs nog te kunnen oplossen. In deze uitgave zijn de volgende veranderingen aangebracht: Notepad++ v8.8.4 security-fixes &amp; new enhancement:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73610/notepad++-884.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73610</guid>
+            <pubDate>Tue, 12 Aug 2025 13:45:39 +0200</pubDate>
+        </item>
+        <item>
+            <title>Mobile Vikings biedt voor het eerst mobiele abonnementen met onbeperkte data aan</title>
+            <link>https://tweakers.net/nieuws/237986/mobile-vikings-biedt-voor-het-eerst-mobiele-abonnementen-met-onbeperkte-data-aan.html</link>
+            <description>De Belgische provider Mobile Vikings biedt voortaan twee mobiele abonnementen met onbeperkte data en onbeperkt bellen en sms&#039;en aan. Bij het Unlimited Basic-pakket is de downloadsnelheid maximaal 50Mbit/s, terwijl Unlimited Fast tot 500Mbit/s biedt.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
+            <comments>https://tweakers.net/nieuws/237986/mobile-vikings-biedt-voor-het-eerst-mobiele-abonnementen-met-onbeperkte-data-aan.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237986</guid>
+            <pubDate>Tue, 12 Aug 2025 12:40:26 +0200</pubDate>
+        </item>
+        <item>
+            <title>Intel-ceo Lip-Bu Tan krijgt ineens lof van Trump na ontmoeting in Witte Huis</title>
+            <link>https://tweakers.net/nieuws/237984/intel-ceo-lip-bu-tan-krijgt-ineens-lof-van-trump-na-ontmoeting-in-witte-huis.html</link>
+            <description>De Amerikaanse president Donald Trump is plots van mening veranderd over de ceo van processormaker en chipproducent Intel. Topman Lip-Bu Tan krijgt na zijn ontmoeting met Trump lovende woorden: hij is een ‘succesverhaal’.</description>
+            <author>Jasper Bakker</author>
+            <category>Nieuws / Computers / Processors</category>
+            <comments>https://tweakers.net/nieuws/237984/intel-ceo-lip-bu-tan-krijgt-ineens-lof-van-trump-na-ontmoeting-in-witte-huis.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237984</guid>
+            <pubDate>Tue, 12 Aug 2025 12:02:54 +0200</pubDate>
+        </item>
+        <item>
+            <title>Samsung brengt zijn eerste televisie met rgb-miniledbacklight op 13 oktober uit</title>
+            <link>https://tweakers.net/nieuws/237980/samsung-brengt-zijn-eerste-televisie-met-rgb-miniledbacklight-op-13-oktober-uit.html</link>
+            <description>Samsung brengt op 13 oktober zijn &#039;Micro RGB&#039;-televisie uit. Dit is de eerste televisie van de fabrikant met rgb-miniledbacklighttechnologie. Het 115&quot;-scherm krijgt een adviesprijs van 29.999 euro.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / </category>
+            <comments>https://tweakers.net/nieuws/237980/samsung-brengt-zijn-eerste-televisie-met-rgb-miniledbacklight-op-13-oktober-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237980</guid>
+            <pubDate>Tue, 12 Aug 2025 11:07:15 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Syncthing 2.0.0</title>
+            <link>https://tweakers.net/downloads/73608/syncthing-200.html</link>
+            <description>Na een lang ontwikkeltraject is versie 2.0.0 van Syncthing uitgekomen. Syncthing is een opensourceprogramma waarmee bestanden tussen twee of meerdere computers kunnen worden gesynchroniseerd. Dit gebeurt zonder dat er een centrale server tussen zit, zoals dat wel het geval is bij opslagdiensten als Dropbox, Google Drive, OneDrive en iCloud. De software is onder meer beschikbaar voor Windows, Linux, macOS, BSD en Solaris. Een onofficiële client voor Android kan hier worden gevonden. Ook zijn er packages voor bijvoorbeeld Synology en QNAP. De belangrijkste veranderingen die in versie 2.0.0 zijn aangebracht zijn hieronder voor je op een rijtje gezet: Major changes in 2.0</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73608/syncthing-200.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73608</guid>
+            <pubDate>Tue, 12 Aug 2025 10:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Reddit laat Wayback Machine voortaan alleen homepagina archiveren</title>
+            <link>https://tweakers.net/nieuws/237978/reddit-laat-wayback-machine-voortaan-alleen-homepagina-archiveren.html</link>
+            <description>Reddit gaat de toegang van de Wayback Machine tot zijn platform beperken. De dienst van The Internet Archive kan daardoor alleen nog de homepagina van het internetforum archiveren en dus niet langer individuele posts.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/237978/reddit-laat-wayback-machine-voortaan-alleen-homepagina-archiveren.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237978</guid>
+            <pubDate>Tue, 12 Aug 2025 10:09:02 +0200</pubDate>
+        </item>
+        <item>
+            <title>Investeringsbedrijf Prosus mag Thuisbezorgd.nl overnemen voor 4,1 miljard euro</title>
+            <link>https://tweakers.net/nieuws/237976/investeringsbedrijf-prosus-mag-thuisbezorgd-punt-nl-overnemen-voor-4-komma-1-miljard-euro.html</link>
+            <description>De Europese Commissie heeft de overname van Thuisbezorgd.nl-moederbedrijf Just Eat Takeaway.com door techinvesteerder Prosus goedgekeurd. Dat was de laatste stap die nog moest worden genomen voor de overeenkomst kon worden afgerond.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/237976/investeringsbedrijf-prosus-mag-thuisbezorgd-punt-nl-overnemen-voor-4-komma-1-miljard-euro.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237976</guid>
+            <pubDate>Tue, 12 Aug 2025 09:26:41 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Tixati 3.36</title>
+            <link>https://tweakers.net/downloads/73606/tixati-336.html</link>
+            <description>Versie 3.36 van Tixati is uitgekomen. Tixati is een uitgebreide en efficiënte bittorrentclient voor Windows en Linux met ondersteuning voor dht, magnetlinks en RSS-feeds. Het programma geeft uitgebreide informatie over alle aspecten van de download en het in- en uitgaande netwerkverkeer. Downloads zijn beschikbaar voor Android, Windows en Linux en het programma toont geen advertenties. De changelog voor deze uitgave ziet er als volgt uit: Tixati version 3.36</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73606/tixati-336.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73606</guid>
+            <pubDate>Tue, 12 Aug 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>GitHub-ceo Thomas Dohmke stapt op, &#039;Microsoft-leidinggevenden nemen taken over&#039;</title>
+            <link>https://tweakers.net/nieuws/237972/github-ceo-thomas-dohmke-stapt-op-microsoft-leidinggevenden-nemen-taken-over.html</link>
+            <description>GitHub-topman Thomas Dohmke stapt op na zeven jaar in dienst te zijn geweest bij het platform, waarvan vier als ceo. Hij krijgt naar verluidt geen directe opvolger. Leidinggevenden van moederbedrijf Microsoft zouden zijn taken overnemen.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Computers / Software</category>
+            <comments>https://tweakers.net/nieuws/237972/github-ceo-thomas-dohmke-stapt-op-microsoft-leidinggevenden-nemen-taken-over.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237972</guid>
+            <pubDate>Tue, 12 Aug 2025 08:35:06 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Actie - Maak kennis met smartphoneprijsvechter Joeps &amp; maak kans op Samsung Galaxy A56</title>
+            <link>https://tweakers.net/plan/4472/maak-kennis-met-smartphoneprijsvechter-joeps-en-maak-kans-op-samsung-galaxy-a56.html</link>
+            <description>Joeps is een relatief nieuwe speler in de wereld van Nederlandse webshops gespecialiseerd in goedkopere smartphones, accessoires en tablets.  Tweakers Partners interviewt eigenaar Sabine Couvee die naar eigen zeggen de zaken net even wat anders aanpakt dan de concurrentie.</description>
+            <author>Tweakers Partners</author>
+            <category>.actie</category>
+            <comments>https://tweakers.net/plan/4472/maak-kennis-met-smartphoneprijsvechter-joeps-en-maak-kans-op-samsung-galaxy-a56.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/plan/4472</guid>
+            <pubDate>Tue, 12 Aug 2025 08:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - ShareX 18.0.0</title>
+            <link>https://tweakers.net/downloads/73604/sharex-1800.html</link>
+            <description>Versie 18.0.0 van ShareX is uitgekomen, een bètaversie. Met dit opensourceprogramma kunnen zowel statische als bewegende beelden worden afgevangen, waarna er vervolgens verschillende bewerkingen op los kunnen worden gelaten. Wanneer je tevreden bent met het resultaat kan het worden opgeslagen naar zo&#039;n tachtig bestemmingen, zoals Flickr, Pastebin, Dropbox, Google Drive, OneDrive, Amazon S3 en Streamable. Ook kan de functionaliteit verder uitgebreid worden met zelfgeschreven uploadmodules om ook dit onderdeel naar eigen hand te zetten. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changes in ShareX version 18.0.0:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73604/sharex-1800.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73604</guid>
+            <pubDate>Tue, 12 Aug 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Review - Lian Li A3 vs. Phanteks XT M3 - Luxe compactheid tegenover luid koopje</title>
+            <link>https://tweakers.net/reviews/13560/lian-li-a3-vs-phanteks-xt-m3-luxe-compactheid-tegenover-luid-koopje.html</link>
+            <description>De Lian Li A3 is een mooie designerkast waarmee je vrij goedkoop kunt instappen. De Phanteks M3 is wat makkelijker in te bouwen en heeft een lagere instapprijs.</description>
+            <author>Willem de Moor</author>
+            <category>Review / Computers / Behuizingen</category>
+            <comments>https://tweakers.net/reviews/13560/lian-li-a3-vs-phanteks-xt-m3-luxe-compactheid-tegenover-luid-koopje.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13560</guid>
+            <pubDate>Tue, 12 Aug 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Matter 1.4.2 kan verbinding maken met wifiapparaten zonder bluetooth</title>
+            <link>https://tweakers.net/nieuws/237968/matter-142-kan-verbinding-maken-met-wifiapparaten-zonder-bluetooth.html</link>
+            <description>Versie 1.4.2 van Matter maakt het mogelijk om verbinding te maken met smarthomeapparaten die enkel wifi ondersteunen. Daardoor hebben ze geen bluetooth-low-energyradio meer nodig, waardoor dergelijke apparaten goedkoper geproduceerd zouden kunnen worden.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Beeld en geluid / Smarthome</category>
+            <comments>https://tweakers.net/nieuws/237968/matter-142-kan-verbinding-maken-met-wifiapparaten-zonder-bluetooth.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/237968</guid>
+            <pubDate>Mon, 11 Aug 2025 20:49:00 +0200</pubDate>
+        </item>
+    </channel>
+</rss>
