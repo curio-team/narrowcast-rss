@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 13 Aug 2025 12:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 13 Aug 2025 13:13:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Apple dismisses Elon Musk’s claims that App Store favors OpenAI over other AI apps</title>
+		<link>https://techcrunch.com/2025/08/13/apple-dismisses-elon-musks-claims-that-app-store-favors-openai-over-other-ai-apps/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Wed, 13 Aug 2025 13:13:46 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[app store]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3036545</guid>
+
+					<description><![CDATA[The response comes after Musk threatened to sue Apple via xAI, claiming the iPhone maker was “behaving in a manner that makes it impossible for any AI company besides OpenAI to reach #1 in the App Store.”]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Why I finally left Spotify</title>
 		<link>https://techcrunch.com/2025/08/13/why-i-finally-left-spotify/</link>
 		
@@ -383,23 +401,6 @@
 					<description><![CDATA[Cassette's new iOS app plays back videos in a format similar to VHS, making your iPhone videos feel more like old home recordings.
 
 ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anduril opens solid rocket motor factory amidst ongoing chemical chokepoint</title>
-		<link>https://techcrunch.com/2025/08/12/anduril-opens-solid-rocket-motor-factory-amidst-ongoing-chemical-chokepoint/</link>
-		
-		<dc:creator><![CDATA[Aria Alamalhodaei]]></dc:creator>
-		<pubDate>Tue, 12 Aug 2025 15:15:42 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Space]]></category>
-		<category><![CDATA[anduril]]></category>
-		<category><![CDATA[solid rocket motors]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3036080</guid>
-
-					<description><![CDATA[As more solid rocket motor suppliers are coming online, a supply chain chokepoint looms.]]></description>
 		
 		
 		
