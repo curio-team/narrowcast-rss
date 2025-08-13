@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 13 Aug 2025 13:13:51 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 13 Aug 2025 14:24:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>How we found TeaOnHer spilling users&#8217; driver&#8217;s licenses in less than 10 minutes</title>
+		<link>https://techcrunch.com/2025/08/13/how-we-found-teaonher-spilling-users-drivers-licenses-in-less-than-10-minutes/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Wed, 13 Aug 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[age verification]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[vibe coding]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3036571</guid>
+
+					<description><![CDATA[Exclusive: A dating gossip app for men exposed thousands of users' personal data, including scans of driver's licenses. The app's developer, Xavier Lampkin, won't say if he plans to notify affected users about the app's security lapse.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Apple dismisses Elon Musk’s claims that App Store favors OpenAI over other AI apps</title>
 		<link>https://techcrunch.com/2025/08/13/apple-dismisses-elon-musks-claims-that-app-store-favors-openai-over-other-ai-apps/</link>
 		
@@ -109,9 +128,9 @@
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Startups]]></category>
 		<category><![CDATA[brain-computer interface]]></category>
+		<category><![CDATA[sam altman]]></category>
 		<category><![CDATA[Neuralink]]></category>
 		<category><![CDATA[OpenAI fund]]></category>
-		<category><![CDATA[sam altman]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3036445</guid>
 
 					<description><![CDATA[Neuralink has been making serious progress. Soon Sam Altman and OpenAI could be backing a challenger.]]></description>
@@ -202,9 +221,9 @@
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Apps]]></category>
 		<category><![CDATA[TC]]></category>
-		<category><![CDATA[ai companion]]></category>
 		<category><![CDATA[ChatGPT]]></category>
 		<category><![CDATA[Grok]]></category>
+		<category><![CDATA[ai companion]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3036177</guid>
 
 					<description><![CDATA[The number of AI companion apps has grown more than 60% since 2024. ]]></description>
@@ -382,25 +401,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3036159</guid>
 
 					<description><![CDATA[Anthropic’s escalation — a response to OpenAI’s attempt to undercut the competition — is a strategic play meant to broaden the company’s foothold in federal AI usage. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cassette&#8217;s new app turns your videos into retro, VHS-like home movies</title>
-		<link>https://techcrunch.com/2025/08/12/cassettes-new-app-turns-your-videos-into-retro-vhs-like-home-movies/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Tue, 12 Aug 2025 15:26:54 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Cassette]]></category>
-		<category><![CDATA[iOS apps]]></category>
-		<category><![CDATA[indie apps]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3036101</guid>
-
-					<description><![CDATA[Cassette's new iOS app plays back videos in a format similar to VHS, making your iPhone videos feel more like old home recordings.
-
-]]></description>
 		
 		
 		
