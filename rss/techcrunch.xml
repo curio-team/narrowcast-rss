@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 13 Aug 2025 03:44:36 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 13 Aug 2025 12:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,45 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Why I finally left Spotify</title>
+		<link>https://techcrunch.com/2025/08/13/why-i-finally-left-spotify/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Wed, 13 Aug 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Spotify]]></category>
+		<category><![CDATA[apple music]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3034604</guid>
+
+					<description><![CDATA[Spotify's dependence on algorithmic recommendations has gotten too suffocating.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>NeoLogic wants to build more energy-efficient CPUs for AI data centers</title>
+		<link>https://techcrunch.com/2025/08/13/neologic-wants-to-build-more-energy-efficient-cpus-for-ai-data-centers/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Wed, 13 Aug 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[fundraising]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[servers]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[Semicondcutor]]></category>
+		<category><![CDATA[NeoLogic]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3036036</guid>
+
+					<description><![CDATA[To fund its vision of building more energy efficient server CPUs. NeoLogic recently raised a $10 million Series A round led by KOMPAS VC with participation from M Ventures, Maniv Mobility and lool Ventures.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>ChatGPT&#8217;s model picker is back, and it&#8217;s complicated</title>
 		<link>https://techcrunch.com/2025/08/12/chatgpts-model-picker-is-back-and-its-complicated/</link>
 		
@@ -361,43 +400,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3036080</guid>
 
 					<description><![CDATA[As more solid rocket motor suppliers are coming online, a supply chain chokepoint looms.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google will now let you pick your top sources for search results</title>
-		<link>https://techcrunch.com/2025/08/12/google-will-now-allow-you-define-your-top-sources-for-search-results/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Tue, 12 Aug 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Google]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3036071</guid>
-
-					<description><![CDATA[Google will let you define the top sources to get more stories from those sites.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Uber Freight CEO Lior Ron leaves to join self-driving startup Waabi as COO</title>
-		<link>https://techcrunch.com/2025/08/12/uber-freight-ceo-lior-ron-joins-self-driving-startup-waabi-as-chief-operating-officer/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Tue, 12 Aug 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[autonomous vehicles]]></category>
-		<category><![CDATA[self-driving trucks]]></category>
-		<category><![CDATA[lior ron]]></category>
-		<category><![CDATA[uber freight]]></category>
-		<category><![CDATA[Raquel Urtasun]]></category>
-		<category><![CDATA[Waabi]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3036097</guid>
-
-					<description><![CDATA[Self-driving truck maker Waabi has hired autonomous vehicle industry veteran and Uber Freight CEO Lior Ron to step in as chief operating officer, as the startup looks to scale its commercial operations ahead of its planned launch of driverless trucks on public highways later this year. ]]></description>
 		
 		
 		

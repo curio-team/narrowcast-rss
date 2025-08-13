@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Wed, 13 Aug 2025 13:31:01 +0200</pubDate>
-        <lastBuildDate>Wed, 13 Aug 2025 13:31:01 +0200</lastBuildDate>
+        <pubDate>Wed, 13 Aug 2025 14:41:01 +0200</pubDate>
+        <lastBuildDate>Wed, 13 Aug 2025 14:41:01 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,36 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>PayPal weigert betalingen van Steam in meeste munteenheden</title>
+            <link>https://tweakers.net/nieuws/238032/paypal-weigert-betalingen-van-steam-in-meeste-munteenheden.html</link>
+            <description>PayPal weigert betalingen van Steam in een groot aantal munteenheden. PayPal laat alleen nog Steam-betalingen in euro&#039;s, Canadese, Amerikaanse en Australische dollars, Britse ponden en Japanse yen toe.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/238032/paypal-weigert-betalingen-van-steam-in-meeste-munteenheden.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238032</guid>
+            <pubDate>Wed, 13 Aug 2025 14:11:09 +0200</pubDate>
+        </item>
+        <item>
+            <title>CISA wil CVE ook na april betalen ondanks eigen bezuinigingen</title>
+            <link>https://tweakers.net/nieuws/238020/cisa-wil-cve-ook-na-april-betalen-ondanks-eigen-bezuinigingen.html</link>
+            <description>De Amerikaanse overheidsinstantie CISA belooft het internationaal gebruikte kwetsbaarhedensysteem CVE blijvend te steunen. In april verloopt het contract dat op de valreep is gesloten nadat financiering wegviel. CISA lijdt zelf ook onder bezuinigingen.</description>
+            <author>Jasper Bakker</author>
+            <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
+            <comments>https://tweakers.net/nieuws/238020/cisa-wil-cve-ook-na-april-betalen-ondanks-eigen-bezuinigingen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238020</guid>
+            <pubDate>Wed, 13 Aug 2025 14:05:40 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;VS trackt stiekem AI-serverladingen om verboden levering aan China te stoppen&#039;</title>
+            <link>https://tweakers.net/nieuws/238030/vs-trackt-stiekem-ai-serverladingen-om-verboden-levering-aan-china-te-stoppen.html</link>
+            <description>De Amerikaanse regering stopt stiekem trackers in ladingen AI-hardware om illegale levering aan China tegen te gaan. Dit meldt persbureau Reuters. AI-chipmakers Nvidia en AMD zouden recent een deal met het Witte Huis hebben gesloten voor Chinese leveringen.</description>
+            <author>Jasper Bakker</author>
+            <category>Nieuws / Computers / Servers</category>
+            <comments>https://tweakers.net/nieuws/238030/vs-trackt-stiekem-ai-serverladingen-om-verboden-levering-aan-china-te-stoppen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238030</guid>
+            <pubDate>Wed, 13 Aug 2025 13:44:33 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Amarok 3.3.1</title>
             <link>https://tweakers.net/downloads/73620/amarok-331.html</link>
@@ -386,36 +416,6 @@
             <comments>https://tweakers.net/plan/4472/maak-kennis-met-smartphoneprijsvechter-joeps-en-maak-kans-op-samsung-galaxy-a56.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/plan/4472</guid>
             <pubDate>Tue, 12 Aug 2025 08:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - ShareX 18.0.0</title>
-            <link>https://tweakers.net/downloads/73604/sharex-1800.html</link>
-            <description>Versie 18.0.0 van ShareX is uitgekomen, een bètaversie. Met dit opensourceprogramma kunnen zowel statische als bewegende beelden worden afgevangen, waarna er vervolgens verschillende bewerkingen op los kunnen worden gelaten. Wanneer je tevreden bent met het resultaat kan het worden opgeslagen naar zo&#039;n tachtig bestemmingen, zoals Flickr, Pastebin, Dropbox, Google Drive, OneDrive, Amazon S3 en Streamable. Ook kan de functionaliteit verder uitgebreid worden met zelfgeschreven uploadmodules om ook dit onderdeel naar eigen hand te zetten. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Changes in ShareX version 18.0.0:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73604/sharex-1800.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73604</guid>
-            <pubDate>Tue, 12 Aug 2025 07:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Review - Lian Li A3 vs. Phanteks XT M3 - Luxe compactheid tegenover luid koopje</title>
-            <link>https://tweakers.net/reviews/13560/lian-li-a3-vs-phanteks-xt-m3-luxe-compactheid-tegenover-luid-koopje.html</link>
-            <description>De Lian Li A3 is een mooie designerkast waarmee je vrij goedkoop kunt instappen. De Phanteks M3 is wat makkelijker in te bouwen en heeft een lagere instapprijs.</description>
-            <author>Willem de Moor</author>
-            <category>Review / Computers / Behuizingen</category>
-            <comments>https://tweakers.net/reviews/13560/lian-li-a3-vs-phanteks-xt-m3-luxe-compactheid-tegenover-luid-koopje.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13560</guid>
-            <pubDate>Tue, 12 Aug 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Matter 1.4.2 kan verbinding maken met wifiapparaten zonder bluetooth</title>
-            <link>https://tweakers.net/nieuws/237968/matter-142-kan-verbinding-maken-met-wifiapparaten-zonder-bluetooth.html</link>
-            <description>Versie 1.4.2 van Matter maakt het mogelijk om verbinding te maken met smarthomeapparaten die enkel wifi ondersteunen. Daardoor hebben ze geen bluetooth-low-energyradio meer nodig, waardoor dergelijke apparaten goedkoper geproduceerd zouden kunnen worden.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Beeld en geluid / Smarthome</category>
-            <comments>https://tweakers.net/nieuws/237968/matter-142-kan-verbinding-maken-met-wifiapparaten-zonder-bluetooth.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237968</guid>
-            <pubDate>Mon, 11 Aug 2025 20:49:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
