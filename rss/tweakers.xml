@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Tue, 12 Aug 2025 16:36:01 +0200</pubDate>
-        <lastBuildDate>Tue, 12 Aug 2025 16:36:01 +0200</lastBuildDate>
+        <pubDate>Wed, 13 Aug 2025 09:31:00 +0200</pubDate>
+        <lastBuildDate>Wed, 13 Aug 2025 09:31:00 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,146 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>.Geek - Britse overheid raadt aan e-mails te verwijderen om water te besparen</title>
+            <link>https://tweakers.net/geek/238024/britse-overheid-raadt-aan-e-mails-te-verwijderen-om-water-te-besparen.html</link>
+            <description>Er zijn voor de hand liggende en laagdrempelige manieren om water te besparen in tijden van droogte: de tuin bewateren met regenwater, korter douchen, de kraan dicht doen tijdens het tandenpoetsen... Maar in tijden van klimaatverandering raadt de Britse overheid burgers ook aan foto&#039;s en oude e-mails uit de cloud te halen. Want al die datacenters slurpen water.</description>
+            <author>Tijs Hofmans</author>
+            <category>.Geek / Computers / Opslag</category>
+            <comments>https://tweakers.net/geek/238024/britse-overheid-raadt-aan-e-mails-te-verwijderen-om-water-te-besparen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/238024</guid>
+            <pubDate>Wed, 13 Aug 2025 09:16:56 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Visual Studio 2022 17.14.12</title>
+            <link>https://tweakers.net/downloads/73624/visual-studio-2022-171412.html</link>
+            <description>Microsoft heeft een update voor versie 17.14 van Visual Studio 2022 uitgebracht. Deze populaire programmeerontwikkelomgeving, verkrijgbaar in de smaken Community, Professional en Enterprise, beschikt over handige opties om het programmeren in onder meer Visual C++, Visual Basic, C#, F# en Python gemakkelijker te maken. De nieuwe versie is volledig 64bit en heeft een vereenvoudigde gebruikersinterface. Uitgebreide informatie over versie 17.14 is op deze pagina van Microsoft te vinden; in deze uitgave is een beveiligingsprobleem met CoPilot verholpen. Security advisories addressed</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73624/visual-studio-2022-171412.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73624</guid>
+            <pubDate>Wed, 13 Aug 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>ChatGPT 4o is weer beschikbaar en GPT-5 krijgt selectieoptie voor beste model</title>
+            <link>https://tweakers.net/nieuws/238022/chatgpt-4o-is-weer-beschikbaar-en-gpt-5-krijgt-selectieoptie-voor-beste-model.html</link>
+            <description>ChatGPT 4o is vanaf woensdag weer beschikbaar voor alle betalende ChatGPT-gebruikers. OpenAI kondigde eerder al aan het model terug te brengen. Ook komen er verschillende nieuwe opties om GPT-5 te gebruiken, zoals een snelle zoekopdracht, zegt OpenAI-ceo Sam Altman.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Internet</category>
+            <comments>https://tweakers.net/nieuws/238022/chatgpt-4o-is-weer-beschikbaar-en-gpt-5-krijgt-selectieoptie-voor-beste-model.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238022</guid>
+            <pubDate>Wed, 13 Aug 2025 08:33:04 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Adv - Back2School? Hoge kortingen op producten van Coolblue</title>
+            <link>https://tweakers.net/plan/4480/back2school-hoge-kortingen-op-producten-van-coolblue.html</link>
+            <description>Coolblue biedt dit jaar een trits sterke Back2School-deals. En dat steekt het bedrijf niet onder stoelen en banken. Het heeft de krachten gebundeld met Tweakers Partners om de beste laptop- en smartwatchdeals in de schijnwerpers te zetten. Studenten krijgen bovendien 50 euro extra korting, bovenop de bestaande laptop-aanbiedingen.</description>
+            <author>Tweakers Partners</author>
+            <category>.adv</category>
+            <comments>https://tweakers.net/plan/4480/back2school-hoge-kortingen-op-producten-van-coolblue.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/plan/4480</guid>
+            <pubDate>Wed, 13 Aug 2025 08:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Amazons satellietnetwerk Project Kuiper bestaat uit meer dan honderd satellieten</title>
+            <link>https://tweakers.net/nieuws/238018/amazons-satellietnetwerk-project-kuiper-bestaat-uit-meer-dan-honderd-satellieten.html</link>
+            <description>Amazons satellietconstellatie Project Kuiper telt meer dan honderd satellieten. Na een recente lancering bestaat het netwerk uit 102 kleine satellieten. Amazon begon in april met het opbouwen van zijn Starlink-concurrent.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
+            <comments>https://tweakers.net/nieuws/238018/amazons-satellietnetwerk-project-kuiper-bestaat-uit-meer-dan-honderd-satellieten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238018</guid>
+            <pubDate>Wed, 13 Aug 2025 07:59:56 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Q-Dir 12.31</title>
+            <link>https://tweakers.net/downloads/73618/q-dir-1231.html</link>
+            <description>Software OK heeft versie 12.31 van de gratis filemanager Q-Dir uitgebracht. Het ziet er een beetje uit als Windows Verkenner, maar dan met vier schermen, waardoor het eenvoudig is om bestanden te verplaatsen, beheren of bekijken. Dit verklaart ook meteen de naam: de Q staat voor quad. De download is ongeveer een megabyte groot en het programma is in verschillende talen te gebruiken, waaronder in het Nederlands. De changelog sinds versie 12.25 ziet er als volgt uit: New in version 12.31</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73618/q-dir-1231.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73618</guid>
+            <pubDate>Wed, 13 Aug 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Round-up - Vijf 7&quot;-kleuren-e-readers getest - De beste e-reader? Ligt eraan wat je wilt</title>
+            <link>https://tweakers.net/reviews/13418/vijf-7-inch-kleuren-e-readers-getest-de-beste-e-reader-ligt-eraan-wat-je-wilt.html</link>
+            <description>We vergelijken 7&quot;-e-readers met kleurenscherm: Amazon Kindle Colorsoft, Kobo Libra Colour, Tolino Vision Color, PocketBook Era Color en Onyx Boox Go Color 7.</description>
+            <author>Jelle Stuip</author>
+            <category>Round-up / Tablets en telefoons / E-readers</category>
+            <comments>https://tweakers.net/reviews/13418/vijf-7-inch-kleuren-e-readers-getest-de-beste-e-reader-ligt-eraan-wat-je-wilt.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13418</guid>
+            <pubDate>Wed, 13 Aug 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Microsoft blijft Windows 10-versie van Edge ondersteunen tot oktober 2028</title>
+            <link>https://tweakers.net/nieuws/238014/microsoft-blijft-windows-10-versie-van-edge-ondersteunen-tot-oktober-2028.html</link>
+            <description>Microsoft blijft de Windows 10-versie van zijn Edge-browser ondersteunen tot oktober 2028. Dat bevestigt het bedrijf op zijn website. Daarmee blijft de browserversie drie jaar langer ondersteund dan Windows 10 zelf, waarvan de standaardondersteuning in oktober eindigt.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Besturingssystemen</category>
+            <comments>https://tweakers.net/nieuws/238014/microsoft-blijft-windows-10-versie-van-edge-ondersteunen-tot-oktober-2028.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238014</guid>
+            <pubDate>Tue, 12 Aug 2025 21:04:55 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Ente Photos 1.2</title>
+            <link>https://tweakers.net/downloads/73616/ente-photos-12.html</link>
+            <description>Ente Photos is een oplossing voor het beheren van foto&#039;s. Het is opensource, maakt gebruik van end-to-end versleuteling, heeft gezichtsherkenning, is crossplatform en heeft naast gratis en betaalde abonnementen ook de mogelijkheid om het in eigen beheer te hosten. Het kan zich prima meten met Google Photos en Apple Photos. Enkele dagen geleden is versie 1.2 van Ente Photos uitgekomen en de belangrijkste veranderingen die daarin zijn aangebracht kunnen hieronder worden gevonden. Custom layouts</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73616/ente-photos-12.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73616</guid>
+            <pubDate>Tue, 12 Aug 2025 20:18:09 +0200</pubDate>
+        </item>
+        <item>
+            <title>Perplexity doet ongevraagd bod op Google Chrome van 34,5 miljard dollar</title>
+            <link>https://tweakers.net/nieuws/238010/perplexity-doet-ongevraagd-bod-op-google-chrome-van-34-komma-5-miljard-dollar.html</link>
+            <description>Perplexity AI heeft ongevraagd een bod gedaan op Google Chrome. De AI-start-up wil de browser overnemen voor 34,5 miljard dollar. Het Amerikaanse ministerie van Justitie wil dat Google de Chrome-browser verkoopt, hoewel dat nog uitgevochten moet worden voor de rechtbank.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Browsers</category>
+            <comments>https://tweakers.net/nieuws/238010/perplexity-doet-ongevraagd-bod-op-google-chrome-van-34-komma-5-miljard-dollar.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238010</guid>
+            <pubDate>Tue, 12 Aug 2025 19:56:51 +0200</pubDate>
+        </item>
+        <item>
+            <title>Medeoprichter TerraUSD bekent schuld aan fraude na ineenstorting van stablecoin</title>
+            <link>https://tweakers.net/nieuws/238008/medeoprichter-terrausd-bekent-schuld-aan-fraude-na-ineenstorting-van-stablecoin.html</link>
+            <description>Terraform Labs-medeoprichter Do Kwon heeft schuld bekend aan twee beschuldigingen van fraude. Kwons bedrijf bood de TerraUSD-stablecoin aan, naast een andere cryptovaluta. Die stortten in 2022 in, waarbij 40 miljard verloren ging.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / IT Pro / Economie en maatschappij</category>
+            <comments>https://tweakers.net/nieuws/238008/medeoprichter-terrausd-bekent-schuld-aan-fraude-na-ineenstorting-van-stablecoin.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238008</guid>
+            <pubDate>Tue, 12 Aug 2025 19:20:03 +0200</pubDate>
+        </item>
+        <item>
+            <title>Gerucht: Apple werkt aan MacBook met iPhone-chip voor 599 à 699 dollar</title>
+            <link>https://tweakers.net/nieuws/238006/gerucht-apple-werkt-aan-macbook-met-iphone-chip-voor-599-a-699-dollar.html</link>
+            <description>Apple komt dit jaar mogelijk met een goedkopere instap-MacBook, die draait op een iPhone-soc. Dat meldt DigiTimes. De laptop zou mogelijk eind dit jaar of begin volgend jaar verschijnen, met een adviesprijs tussen de 599 en 699 dollar.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Laptops</category>
+            <comments>https://tweakers.net/nieuws/238006/gerucht-apple-werkt-aan-macbook-met-iphone-chip-voor-599-a-699-dollar.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238006</guid>
+            <pubDate>Tue, 12 Aug 2025 18:31:35 +0200</pubDate>
+        </item>
+        <item>
+            <title>TSMC gaat stoppen met productie op 150mm-wafers voor oudere nodes</title>
+            <link>https://tweakers.net/nieuws/238004/tsmc-gaat-stoppen-met-productie-op-150mm-wafers-voor-oudere-nodes.html</link>
+            <description>TSMC gaat over een paar jaar stoppen met chipproductie op 150mm-wafers. De Taiwanese chipmaker heeft momenteel nog een enkele chipfabriek die dergelijke wafers gebruikt voor het maken van chips op oudere procedés.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/238004/tsmc-gaat-stoppen-met-productie-op-150mm-wafers-voor-oudere-nodes.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238004</guid>
+            <pubDate>Tue, 12 Aug 2025 17:47:08 +0200</pubDate>
+        </item>
+        <item>
+            <title>Driver-update - GeForce Game Ready Driver 580.97 WHQL</title>
+            <link>https://tweakers.net/downloads/73614/geforce-game-ready-driver-58097-whql.html</link>
+            <description>Nvidia heeft nieuwe stabiele GeForce-drivers uitgebracht. De drivers dragen versienummer 580.97 en zijn voorzien van een Windows Hardware Quality Labs-certificaat. Ze zijn geschikt voor Windows 10 en hoger, en kunnen worden gebruikt op kaarten gebaseerd op de Maxwell-architectuur of nieuwer. Deze uitgave voegt onder meer ondersteuning toe voor de GeForce RTX 5050 en bevat verbeteringen voor de spellen Senua’s Saga: Hellblade II Enhanced en Grand Theft Auto V Enhanced. Ook zijn er weer enkele problemen verholpen. De changelog voor deze uitgave kan hieronder worden gevonden: Game Ready</description>
+            <author>Bart van Klaveren</author>
+            <category>Driver</category>
+            <comments>https://tweakers.net/downloads/73614/geforce-game-ready-driver-58097-whql.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73614</guid>
+            <pubDate>Tue, 12 Aug 2025 17:22:50 +0200</pubDate>
+        </item>
         <item>
             <title>Software-update - Media Player Classic - Home Cinema 2.5.2</title>
             <link>https://tweakers.net/downloads/73612/media-player-classic-home-cinema-252.html</link>
@@ -112,7 +252,7 @@
             <link>https://tweakers.net/nieuws/237980/samsung-brengt-zijn-eerste-televisie-met-rgb-miniledbacklight-op-13-oktober-uit.html</link>
             <description>Samsung brengt op 13 oktober zijn &#039;Micro RGB&#039;-televisie uit. Dit is de eerste televisie van de fabrikant met rgb-miniledbacklighttechnologie. Het 115&quot;-scherm krijgt een adviesprijs van 29.999 euro.</description>
             <author>Kevin Krikhaar</author>
-            <category>Nieuws / Beeld en geluid / Televisies</category>
+            <category>Nieuws / </category>
             <comments>https://tweakers.net/nieuws/237980/samsung-brengt-zijn-eerste-televisie-met-rgb-miniledbacklight-op-13-oktober-uit.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237980</guid>
             <pubDate>Tue, 12 Aug 2025 11:07:15 +0200</pubDate>
@@ -140,7 +280,7 @@
         <item>
             <title>Investeringsbedrijf Prosus mag Thuisbezorgd.nl overnemen voor 4,1 miljard euro</title>
             <link>https://tweakers.net/nieuws/237976/investeringsbedrijf-prosus-mag-thuisbezorgd-punt-nl-overnemen-voor-4-komma-1-miljard-euro.html</link>
-            <description>De Europese Commissie heeft de overname van Thuisbezorgd-nl-moederbedrijf Just Eat Takeaway.com door techinvesteerder Prosus goedgekeurd. Dat was de laatste stap die nog moest worden genomen voor de overeenkomst kon worden afgerond.</description>
+            <description>De Europese Commissie heeft de overname van Thuisbezorgd.nl-moederbedrijf Just Eat Takeaway.com door techinvesteerder Prosus goedgekeurd. Dat was de laatste stap die nog moest worden genomen voor de overeenkomst kon worden afgerond.</description>
             <author>Kevin Krikhaar</author>
             <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
             <comments>https://tweakers.net/nieuws/237976/investeringsbedrijf-prosus-mag-thuisbezorgd-punt-nl-overnemen-voor-4-komma-1-miljard-euro.html#reacties</comments>
@@ -276,146 +416,6 @@
             <comments>https://tweakers.net/nieuws/237956/bloomberg-ios-264-krijgt-spraakbediening-voor-youtube-facebook-en-whatsapp.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/nieuws/237956</guid>
             <pubDate>Mon, 11 Aug 2025 15:11:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Ex-Intel-ceo wil 40 miljard van Apple, Nvidia en Google om chipmaker te redden</title>
-            <link>https://tweakers.net/nieuws/237952/ex-intel-ceo-wil-40-miljard-van-apple-nvidia-en-google-om-chipmaker-te-redden.html</link>
-            <description>Intel heeft een kapitaalinjectie van 40 miljard dollar nodig om bij te blijven met marktleidende concurrenten als TSMC, meent ex-Intel-ceo Craig Barrett. Hij vindt dat het geld moet komen van grote klanten als Nvidia, Apple en Google.</description>
-            <author>Jasper Bakker</author>
-            <category>Nieuws / Computers / Processors</category>
-            <comments>https://tweakers.net/nieuws/237952/ex-intel-ceo-wil-40-miljard-van-apple-nvidia-en-google-om-chipmaker-te-redden.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237952</guid>
-            <pubDate>Mon, 11 Aug 2025 14:31:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Medische data en bsn&#039;s van deelnemers baarmoederhalskankeronderzoek zijn gelekt</title>
-            <link>https://tweakers.net/nieuws/237960/medische-data-en-bsns-van-deelnemers-baarmoederhalskankeronderzoek-zijn-gelekt.html</link>
-            <description>De gegevens van zeker 485.000 Nederlandse vrouwen die in het verleden een bevolkingsonderzoek naar baarmoederhalskanker hebben ondergaan, zijn gestolen via een toeleverancier. Het gaat om medische gegevens, die worden gekoppeld aan persoonsgegevens waaronder burgerservicenummers.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/237960/medische-data-en-bsns-van-deelnemers-baarmoederhalskankeronderzoek-zijn-gelekt.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237960</guid>
-            <pubDate>Mon, 11 Aug 2025 13:38:51 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Ook aanvullende encryptie van Tetra-communicatiestandaard bevat kwetsbaarheden&#039;</title>
-            <link>https://tweakers.net/nieuws/237942/ook-aanvullende-encryptie-van-tetra-communicatiestandaard-bevat-kwetsbaarheden.html</link>
-            <description>Nederlandse onderzoekers hebben drie kwetsbaarheden gevonden in de end-to-endencryptie van het communicatieprotocol Tetra, dat veel gebruikt wordt door hulpdiensten. Deze aanvullende beveiligingslaag werd ingevoerd nadat er in 2023 ook al kwetsbaarheden waren gevonden in Tetra.</description>
-            <author>Kevin Krikhaar</author>
-            <category>Nieuws / Computers / Beveiliging en antivirus</category>
-            <comments>https://tweakers.net/nieuws/237942/ook-aanvullende-encryptie-van-tetra-communicatiestandaard-bevat-kwetsbaarheden.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237942</guid>
-            <pubDate>Mon, 11 Aug 2025 13:38:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - XnView MP 1.9.3</title>
-            <link>https://tweakers.net/downloads/73602/xnview-mp-193.html</link>
-            <description>Versie 1.9.3 van XnView MP is uitgekomen. Met dit programma kunnen afbeeldingen worden bekeken en bewerkt. Het is gratis voor persoonlijk gebruik; voor gebruik in een commerciële omgeving wordt wel een vergoeding gevraagd. MP staat voor Multi Platform, wat betekent dat er versies zijn voor Windows, Linux en macOS, met elk aparte downloads voor 32bit- en 64bit-omgevingen. XnView MP gebruikt dezelfde broncode voor Windows, Linux en macOS; functionaliteit en uiterlijk van de afzonderlijke versies zijn dan ook nagenoeg gelijk. Zo is er onder andere ondersteuning voor unicode, afbeeldingen met full bit depth, een eenvoudigere manier voor vertalingen en een betere database. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: New:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73602/xnview-mp-193.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73602</guid>
-            <pubDate>Mon, 11 Aug 2025 13:26:32 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Meta zegt &#039;miljarden dollars&#039; te besparen door gebruik van bestandssysteem Btrfs</title>
-            <link>https://tweakers.net/geek/237948/meta-zegt-miljarden-dollars-te-besparen-door-gebruik-van-bestandssysteem-btrfs.html</link>
-            <description>Je zou kunnen denken dat de discussie over bestandssystemen er eentje is die in de marge wordt gevoerd. Maar niet bij Meta. Het bedrijf zegt namelijk &#039;miljarden dollars&#039; te besparen door een bepaald bestandssysteem te gebruiken, Btrfs.</description>
-            <author>Tijs Hofmans</author>
-            <category>.Geek / Computers / Besturingssystemen</category>
-            <comments>https://tweakers.net/geek/237948/meta-zegt-miljarden-dollars-te-besparen-door-gebruik-van-bestandssysteem-btrfs.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/237948</guid>
-            <pubDate>Mon, 11 Aug 2025 12:50:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>ASUS RTX 5090 met afneembare connector kost grofweg 50 euro meer dan basisversie</title>
-            <link>https://tweakers.net/nieuws/237954/asus-rtx-5090-met-afneembare-connector-kost-grofweg-50-euro-meer-dan-basisversie.html</link>
-            <description>De ASUS ROG Astral GeForce RTX 5090 BTF-uitvoering met afneembare connector voor &#039;kabelloze&#039; stroomtoevoer kost ongeveer vijftig euro meer dan de standaardversie. De videokaart is beschikbaar vanaf 2950 euro, terwijl de standaardversie voor 2900 euro wordt verkocht.</description>
-            <author>Yannick Spinner</author>
-            <category>Nieuws / Computers / Videokaarten</category>
-            <comments>https://tweakers.net/nieuws/237954/asus-rtx-5090-met-afneembare-connector-kost-grofweg-50-euro-meer-dan-basisversie.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237954</guid>
-            <pubDate>Mon, 11 Aug 2025 12:49:50 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;AMD Ryzen 7 5700X3D is end-of-life&#039;</title>
-            <link>https://tweakers.net/nieuws/237946/amd-ryzen-7-5700x3d-is-end-of-life.html</link>
-            <description>De AMD Ryzen 7 5700X3D is end-of-life en zal binnenkort van de markt verdwijnen. Dat bevestigen meerdere webshops aan Tweakers. De 5700X3D is de laatste cpu met 3D V-Cache voor socket AM4 die nog te koop was; de iets snellere 5800X3D is al bijna een jaar niet meer verkrijgbaar.</description>
-            <author>Tomas Hochstenbach</author>
-            <category>Nieuws / Computers / Processors</category>
-            <comments>https://tweakers.net/nieuws/237946/amd-ryzen-7-5700x3d-is-end-of-life.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237946</guid>
-            <pubDate>Mon, 11 Aug 2025 11:43:43 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Intel-ceo heeft maandag ontmoeting met president Trump na oproep tot ontslag&#039;</title>
-            <link>https://tweakers.net/nieuws/237944/intel-ceo-heeft-maandag-ontmoeting-met-president-trump-na-oproep-tot-ontslag.html</link>
-            <description>Intel-ceo Lip-Bu Tan is maandag naar verluidt in het Witte Huis voor een ontmoeting met president Donald Trump. Volgens bronnen van The Wall Street Journal wil hij onder meer uitleg geven over zijn persoonlijke en professionele achtergrond. Trump riep vorige week op tot het ontslag van Tan.</description>
-            <author>Imre Himmelbauer</author>
-            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-            <comments>https://tweakers.net/nieuws/237944/intel-ceo-heeft-maandag-ontmoeting-met-president-trump-na-oproep-tot-ontslag.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237944</guid>
-            <pubDate>Mon, 11 Aug 2025 11:00:06 +0200</pubDate>
-        </item>
-        <item>
-            <title>&#039;Nvidia en AMD gaan vijftien procent van China-omzet aan VS afdragen&#039;</title>
-            <link>https://tweakers.net/nieuws/237936/nvidia-en-amd-gaan-vijftien-procent-van-china-omzet-aan-vs-afdragen.html</link>
-            <description>Nvidia en AMD zouden een deal hebben gesloten om vijftien procent van hun omzet uit China direct aan de Amerikaanse overheid te betalen. Dat zeggen Amerikaanse overheidsfunctionarissen tegen de Financial Times, al geven de bedrijven zelf geen commentaar.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / IT Pro / Politiek en recht</category>
-            <comments>https://tweakers.net/nieuws/237936/nvidia-en-amd-gaan-vijftien-procent-van-china-omzet-aan-vs-afdragen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237936</guid>
-            <pubDate>Mon, 11 Aug 2025 10:32:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Ubisoft lijkt aan tv-serie over Far Cry te werken</title>
-            <link>https://tweakers.net/geek/237940/ubisoft-lijkt-aan-tv-serie-over-far-cry-te-werken.html</link>
-            <description>Ubisoft werkt naar verluidt in samenwerking met FX aan een tv-serie die zich afspeelt in het Far Cry-universum. Rob McElhenney en Noah Hawley werken mogelijk aan het project. Het is niet duidelijk wanneer de serie uit moet komen.</description>
-            <author>Yannick Spinner</author>
-            <category>.Geek / Gaming / Games</category>
-            <comments>https://tweakers.net/geek/237940/ubisoft-lijkt-aan-tv-serie-over-far-cry-te-werken.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/237940</guid>
-            <pubDate>Mon, 11 Aug 2025 09:23:26 +0200</pubDate>
-        </item>
-        <item>
-            <title>Microsoft stopt met pdf-scannerapp Lens</title>
-            <link>https://tweakers.net/nieuws/237934/microsoft-stopt-met-pdf-scannerapp-lens.html</link>
-            <description>Microsoft stopt met de pdf-scanner Microsoft Lens. Met die app was het mogelijk foto&#039;s om te zetten naar pdf&#039;s of andere bestandsformaten. Scans blijven wel beschikbaar, maar de app wordt niet meer ondersteund.</description>
-            <author>Tijs Hofmans</author>
-            <category>Nieuws / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/nieuws/237934/microsoft-stopt-met-pdf-scannerapp-lens.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/nieuws/237934</guid>
-            <pubDate>Mon, 11 Aug 2025 08:09:52 +0200</pubDate>
-        </item>
-        <item>
-            <title>Review - Samsung Z Fold7 - Dunner, sneller en terug aan de top</title>
-            <link>https://tweakers.net/reviews/13612/samsung-z-fold7-dunner-sneller-en-terug-aan-de-top.html</link>
-            <description>Samsung kijkt al jaren een beetje de kat uit de boom met veel van zijn topmodellen. De Z Fold7 belooft te breken met die traditie.</description>
-            <author>Dennis de Vries</author>
-            <category>Review / Tablets en telefoons / Smartphones</category>
-            <comments>https://tweakers.net/reviews/13612/samsung-z-fold7-dunner-sneller-en-terug-aan-de-top.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/reviews/13612</guid>
-            <pubDate>Mon, 11 Aug 2025 06:00:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Ubuntu 24.04.3 LTS</title>
-            <link>https://tweakers.net/downloads/73600/ubuntu-24043-lts.html</link>
-            <description>Versie 24.04.3 van Linux-distributie Ubuntu is uitgekomen. Tweemaal per jaar verschijnt er een nieuwe versie en vormen het jaar en de maand van uitgave het versienummer. Deze versies worden negen maanden ondersteund. Eens in de twee jaar komt er een versie uit die niet negen maanden maar vijf jaar voorzien zal worden van updates. Versie 24.04, een versie die vijf jaar ondersteuning krijgt, heeft codenaam Noble Numbat meegekregen, draait op systemd 255.4 en Linux Kernel 6.8, en gebruikt standaard Gnome 46 als de desktopomgeving. Versie 24.04.3 is de derde update met een verzameling bugfixes en verbeteringen. Ubuntu 24.04.3 LTS is now available</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73600/ubuntu-24043-lts.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73600</guid>
-            <pubDate>Sun, 10 Aug 2025 19:46:54 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Double Commander 1.1.28</title>
-            <link>https://tweakers.net/downloads/73598/double-commander-1128.html</link>
-            <description>Double Commander is een opensource en crossplatform bestandsbeheerprogramma. Voor zowel het uiterlijk als de functionaliteit is het welbekende Total Commander als inspiratiebron gebruikt. Dat gaat zelfs zover dat de plug-ins van Total Commander ook voor Double Commander werken. Er zijn ook enkele verschillen, waaronder een ingebakken teksteditor met ondersteuning voor syntaxhighlighting. Downloads zijn beschikbaar voor Windows, Linux, macOS en FreeBSD. Versie 1.1.28 is uitgekomen en daarin zijn de volgende veranderingen en verbeteringen aangebracht: Added:</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73598/double-commander-1128.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73598</guid>
-            <pubDate>Sun, 10 Aug 2025 14:10:11 +0200</pubDate>
         </item>
     </channel>
 </rss>
