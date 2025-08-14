@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 14 Aug 2025 04:48:04 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Aug 2025 13:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Airbnb will allow US users book stays without paying upfront</title>
+		<link>https://techcrunch.com/2025/08/14/airbnb-will-allow-us-users-book-stays-without-paying-upfront/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 14 Aug 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Airbnb]]></category>
+		<category><![CDATA[travel]]></category>
+		<category><![CDATA[booking]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3036911</guid>
+
+					<description><![CDATA[Airbnb has launched a new feature called "Reserve Now, Pay Later" that lets users in the U.S. reserve a property without paying upfront, potentially allowing people to cancel their bookings with less hassle if their plans change.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Co-founder of Elon Musk&#8217;s xAI departs the company</title>
 		<link>https://techcrunch.com/2025/08/13/co-founder-of-elon-musks-xai-departs-the-company/</link>
 		
@@ -365,26 +382,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3036423</guid>
 
 					<description><![CDATA[On Monday, StubHub filed an updated S-1. This indicates its delayed IPO is back on.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Russian government hackers said to be behind US federal court filing system hack: Report</title>
-		<link>https://techcrunch.com/2025/08/12/russian-government-hackers-said-to-be-behind-us-federal-court-filing-system-hack-report/</link>
-		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai, Zack Whittaker]]></dc:creator>
-		<pubDate>Tue, 12 Aug 2025 20:26:09 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[pacer]]></category>
-		<category><![CDATA[us courts]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3036406</guid>
-
-					<description><![CDATA[Officials are reportedly blaming a recent breach of the U.S. federal court's filing system on Russia, whose hackers used the access to snoop on midlevel criminal cases in the New York City area and other jurisdictions.]]></description>
 		
 		
 		
