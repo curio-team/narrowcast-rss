@@ -2,8 +2,8 @@
 <rss version="2.0" >
     <channel>
         <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
-        <pubDate>Thu, 14 Aug 2025 11:36:05 +0200</pubDate>
-        <lastBuildDate>Thu, 14 Aug 2025 11:36:05 +0200</lastBuildDate>
+        <pubDate>Thu, 14 Aug 2025 12:36:00 +0200</pubDate>
+        <lastBuildDate>Thu, 14 Aug 2025 12:36:00 +0200</lastBuildDate>
         <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
         <image>
             <link>https://tweakers.net/</link>
@@ -17,6 +17,26 @@
         <link>https://tweakers.net/</link>
         <title>Tweakers Mixed RSS Feed</title>
         <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Software-update - Notepad++ 8.8.5</title>
+            <link>https://tweakers.net/downloads/73644/notepad++-885.html</link>
+            <description>Versie 8.8.5 van Notepad++ is uitgekomen ter vervanging van 8.8.4 die wegens een probleem was teruggetrokken. Deze uitgebreide teksteditor heeft diverse mogelijkheden die vooral voor programmeurs handig zijn, zoals syntaxhighlighting voor onder andere C, C++, Java, HTML, XML en PHP. Ook biedt het programma de mogelijkheid om meer dan één document tegelijk te bewerken of één document op twee verschillende plaatsen te onderhouden. Wie de nieuwste versie wil gebruiken, moet deze zelf downloaden. De ingebouwde updater van Notepad++ biedt updates namelijk pas een week na hun verschijnen aan om eventuele ernstige bugs nog te kunnen oplossen. In deze uitgave zijn de volgende veranderingen aangebracht: Notepad++ v8.8.5 regression-fix:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73644/notepad++-885.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73644</guid>
+            <pubDate>Thu, 14 Aug 2025 12:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>FortiSIEM bevat kritieke kwetsbaarheid die actief misbruikt wordt</title>
+            <link>https://tweakers.net/nieuws/238064/fortisiem-bevat-kritieke-kwetsbaarheid-die-actief-misbruikt-wordt.html</link>
+            <description>Fortinet waarschuwt gebruikers voor een Kritiek beveiligingslek in de FortiSIEM-software. Het gaat om een OS-commandinjectionkwetsbaarheid, waardoor gebruikers ongewenste commando&#039;s op het besturingssysteem kunnen uitvoeren.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
+            <comments>https://tweakers.net/nieuws/238064/fortisiem-bevat-kritieke-kwetsbaarheid-die-actief-misbruikt-wordt.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238064</guid>
+            <pubDate>Thu, 14 Aug 2025 11:59:56 +0200</pubDate>
+        </item>
         <item>
             <title>Bloomberg: Apple wil in 2027 tafelrobot &#039;als Clippy&#039; introduceren</title>
             <link>https://tweakers.net/nieuws/238062/bloomberg-apple-wil-in-2027-tafelrobot-als-clippy-introduceren.html</link>
@@ -396,26 +416,6 @@
             <comments>https://tweakers.net/downloads/73626/crossover-2510.html#reacties</comments>
             <guid isPermaLink="false">https://tweakers.net/downloads/73626</guid>
             <pubDate>Wed, 13 Aug 2025 10:30:00 +0200</pubDate>
-        </item>
-        <item>
-            <title>.Geek - Britse overheid raadt aan e-mails te verwijderen om water te besparen</title>
-            <link>https://tweakers.net/geek/238024/britse-overheid-raadt-aan-e-mails-te-verwijderen-om-water-te-besparen.html</link>
-            <description>Er zijn voor de hand liggende en laagdrempelige manieren om water te besparen in tijden van droogte: de tuin bewateren met regenwater, korter douchen, de kraan dichtdoen tijdens het tandenpoetsen … Maar in tijden van klimaatverandering raadt de Britse overheid burgers ook aan foto&#039;s en oude e-mails uit de cloud te halen, want al die datacenters slurpen water.</description>
-            <author>Tijs Hofmans</author>
-            <category>.Geek / Computers / Opslag</category>
-            <comments>https://tweakers.net/geek/238024/britse-overheid-raadt-aan-e-mails-te-verwijderen-om-water-te-besparen.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/geek/238024</guid>
-            <pubDate>Wed, 13 Aug 2025 09:16:56 +0200</pubDate>
-        </item>
-        <item>
-            <title>Software-update - Visual Studio 2022 17.14.12</title>
-            <link>https://tweakers.net/downloads/73624/visual-studio-2022-171412.html</link>
-            <description>Microsoft heeft een update voor versie 17.14 van Visual Studio 2022 uitgebracht. Deze populaire programmeerontwikkelomgeving, verkrijgbaar in de smaken Community, Professional en Enterprise, beschikt over handige opties om het programmeren in onder meer Visual C++, Visual Basic, C#, F# en Python gemakkelijker te maken. De nieuwe versie is volledig 64bit en heeft een vereenvoudigde gebruikersinterface. Uitgebreide informatie over versie 17.14 is op deze pagina van Microsoft te vinden; in deze uitgave is een beveiligingsprobleem met CoPilot verholpen. Security advisories addressed</description>
-            <author>Bart van Klaveren</author>
-            <category>Software</category>
-            <comments>https://tweakers.net/downloads/73624/visual-studio-2022-171412.html#reacties</comments>
-            <guid isPermaLink="false">https://tweakers.net/downloads/73624</guid>
-            <pubDate>Wed, 13 Aug 2025 09:00:00 +0200</pubDate>
         </item>
     </channel>
 </rss>
