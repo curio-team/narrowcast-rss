@@ -1,14 +1,421 @@
-<HTML><HEAD>
-<TITLE>Access Denied</TITLE>
-</HEAD><BODY>
-<H1>Access Denied</H1>
-<P>Your request was blocked by DPG Media's Web Application Firewall.</P>
-<P>For more information contact application support and specify: </P>
-<ul>
-  <li>Reference: 0.8cee2e17.1755247082.51033889</li>
-  <li>ClientIP: 4.236.159.82</li>
-  <li><div id="url"></div></li>
-<script>document.getElementById('url').innerText = window.location.href; </script>
-</ul>
-</BODY>
-</HTML>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" >
+    <channel>
+        <copyright>Copyright 1998 - 2025 DPG Media B.V.</copyright>
+        <pubDate>Fri, 15 Aug 2025 11:31:01 +0200</pubDate>
+        <lastBuildDate>Fri, 15 Aug 2025 11:31:01 +0200</lastBuildDate>
+        <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
+        <image>
+            <link>https://tweakers.net/</link>
+            <title>Tweakers</title>
+            <url>https://tweakers.net/logo.png</url>
+            <width>196</width>
+            <height>196</height>
+            <description>Tweakers: tech-community, nieuws, reviews en de Pricewatch</description>
+        </image>
+        <language>nl-NL</language>
+        <link>https://tweakers.net/</link>
+        <title>Tweakers Mixed RSS Feed</title>
+        <webMaster>gathering@tweakers.net</webMaster>
+        <item>
+            <title>Google introduceert open Gemma 3-AI-model met 270 miljoen parameters</title>
+            <link>https://tweakers.net/nieuws/238092/google-introduceert-open-gemma-3-ai-model-met-270-miljoen-parameters.html</link>
+            <description>Google heeft een nieuw Gemma 3-AI-model geïntroduceerd. Gemma 3 270M heeft 270 miljoen parameters, is zeer energiezuinig en kan op minder krachtige, goedkope hardware draaien, meldt het bedrijf. Het model is zowel in de cloud als lokaal te draaien.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Software development</category>
+            <comments>https://tweakers.net/nieuws/238092/google-introduceert-open-gemma-3-ai-model-met-270-miljoen-parameters.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238092</guid>
+            <pubDate>Fri, 15 Aug 2025 11:02:17 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Python 3.13.7</title>
+            <link>https://tweakers.net/downloads/73658/python-3137.html</link>
+            <description>Python is een objectgeoriënteerde programmeertaal die kan worden gebruikt om eenvoudige tot complexe platformonafhankelijke applicaties te ontwikkelen. Het is in de jaren negentig ontworpen door Guido van Rossum, die destijds in Amsterdam voor het CWI werkte. Guido was als BDFL betrokken bij de ontwikkeling van Python. Hij heeft daarnaast voor Dropbox gewerkt, ging daarna met pensioen en toen dat niet echt beviel, ging hij aan de slag bij Microsoft. De zevende zogenaamde maintenancerelease voor versie 3.13 is uitgekomen waarin onder meer een belangrijk probleem in de 1.13.6-uitgave is verholpen. his is the seventh maintenance release of Python 3.13</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73658/python-3137.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73658</guid>
+            <pubDate>Fri, 15 Aug 2025 10:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Plex spoort gebruikers aan om Media Server te updaten door beveiligingsprobleem</title>
+            <link>https://tweakers.net/nieuws/238088/plex-spoort-gebruikers-aan-om-media-server-te-updaten-door-beveiligingsprobleem.html</link>
+            <description>Plex raadt gebruikers van de Plex Media Server-software in een e-mail aan een update uit te voeren vanwege een beveiligingsprobleem. De kwetsbaarheid is ontdekt via het bugbountyprogramma. Plex geeft verder weinig details over de aard van de kwetsbaarheid.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
+            <comments>https://tweakers.net/nieuws/238088/plex-spoort-gebruikers-aan-om-media-server-te-updaten-door-beveiligingsprobleem.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238088</guid>
+            <pubDate>Fri, 15 Aug 2025 09:40:48 +0200</pubDate>
+        </item>
+        <item>
+            <title>IPhone 17 Pro-case van dbrand bevestigt brede &#039;camerabalk&#039;</title>
+            <link>https://tweakers.net/nieuws/238084/iphone-17-pro-case-van-dbrand-bevestigt-brede-camerabalk.html</link>
+            <description>Telefoonhoesjesmaker dbrand heeft een case voor de iPhone 17 Pro online gezet. Die lijkt te bevestigen dat de Apple-smartphone een breder camera-eiland krijgt dan zijn voorganger. De case is nog niet te bestellen.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / Tablets en telefoons / Smartphones</category>
+            <comments>https://tweakers.net/nieuws/238084/iphone-17-pro-case-van-dbrand-bevestigt-brede-camerabalk.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238084</guid>
+            <pubDate>Fri, 15 Aug 2025 09:16:08 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Immich 1.138.0</title>
+            <link>https://tweakers.net/downloads/73656/immich-11380.html</link>
+            <description>Immich is een opensource oplossing voor het opslaan en beheren van foto&#039;s en video&#039;s. Het draait in Docker, waardoor je alles in eigen hand hebt en niet afhankelijk bent van een derde partij. Het wordt door velen als een serieuze concurrent van bijvoorbeeld Google Photos beschouwd. De media kan via een webbrowser worden benaderd en er zijn ook apps voor Android en iOS. Een demo van Immich is hier te vinden. Versie 1.138.0 is uitgekomen en de releasenotes voor die uitgave kan hieronder worden gevonden. Immich version 1.138.0</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73656/immich-11380.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73656</guid>
+            <pubDate>Fri, 15 Aug 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Trump-regering wil aandeel in Intel nemen&#039;</title>
+            <link>https://tweakers.net/nieuws/238086/trump-regering-wil-aandeel-in-intel-nemen.html</link>
+            <description>De regering van de Amerikaanse president Donald Trump is naar verluidt in gesprek met Intel om een aandeel in het bedrijf te nemen. Volgens bronnen van Bloomberg zou een deal goed zijn voor de geplande fabriek van Intel in de Amerikaanse staat Ohio.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/238086/trump-regering-wil-aandeel-in-intel-nemen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238086</guid>
+            <pubDate>Fri, 15 Aug 2025 08:44:55 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Cyberduck 9.2.0</title>
+            <link>https://tweakers.net/downloads/73654/cyberduck-920.html</link>
+            <description>Versies 9.2.0, 9.2.1 en 9.2.2 van Cyberduck zijn kort achter elkaar uitgekomen. Dit programma, dat onder een GPL-licentie wordt uitgebracht, is een FTP-, SFTP- en WebDAV-client, en heeft daarnaast ondersteuning voor diverse cloudopslagdiensten die van S3 of de OpenStack-api gebruikmaken. Het programma beschikt over een overzichtelijke interface en ondersteunt technieken als Spotlight, Bonjour, Keychain, AppleScript en Growl. Daarnaast kun je gebruikmaken van verschillende, al geïnstalleerde teksteditors, waaronder BBEdit, TextMate, Mi, Smultron en CSSEdit. Cyberduck is in een groot aantal talen te gebruiken, waaronder het Nederlands. Sinds versie 9.1.7 zijn de volgende problemen verholpen: Fixed in 9.2.2:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73654/cyberduck-920.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73654</guid>
+            <pubDate>Fri, 15 Aug 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Achtergrond - Games worden toegankelijker: Europese wet is startschot voor inclusieve markt</title>
+            <link>https://tweakers.net/reviews/13544/games-worden-toegankelijker-europese-wet-is-startschot-voor-inclusieve-markt.html</link>
+            <description>Games worden mede door Europese wetten toegankelijker. Tweakers geeft een overzicht van de stappen die zijn gezet om gaming voor meer mensen mogelijk te maken.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Achtergrond / IT Pro / Software development</category>
+            <comments>https://tweakers.net/reviews/13544/games-worden-toegankelijker-europese-wet-is-startschot-voor-inclusieve-markt.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13544</guid>
+            <pubDate>Fri, 15 Aug 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Rusland beperkt belfunctie in WhatsApp en Telegram: &#039;criminaliteit tegengaan&#039;</title>
+            <link>https://tweakers.net/nieuws/238082/rusland-beperkt-belfunctie-in-whatsapp-en-telegram-criminaliteit-tegengaan.html</link>
+            <description>Rusland zegt dat het telefoongesprekken via WhatsApp en Telegram &#039;gedeeltelijk geblokkeerd&#039; heeft. Het land doet dit naar eigen zeggen om &#039;criminaliteit&#039; tegen te gaan. Volgens Reuters is het praktisch onmogelijk geworden om vanuit Rusland te bellen via deze diensten.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/238082/rusland-beperkt-belfunctie-in-whatsapp-en-telegram-criminaliteit-tegengaan.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238082</guid>
+            <pubDate>Thu, 14 Aug 2025 21:01:59 +0200</pubDate>
+        </item>
+        <item>
+            <title>Apple voegt bloedzuurstofmeetfunctie weer toe aan Watches in VS na eerder verbod</title>
+            <link>https://tweakers.net/nieuws/238080/apple-voegt-bloedzuurstofmeetfunctie-weer-toe-aan-watches-in-vs-na-eerder-verbod.html</link>
+            <description>Apple heeft opnieuw een functie aan zijn Watch-horloges toegevoegd waarmee Amerikaanse gebruikers hun bloedzuurstof kunnen meten. Deze functie werd eerder verboden in de VS wegens patentinbreuk. Apple heeft de werking ervan nu aangepast om de patenten te omzeilen.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Tablets en telefoons / Smartwatches</category>
+            <comments>https://tweakers.net/nieuws/238080/apple-voegt-bloedzuurstofmeetfunctie-weer-toe-aan-watches-in-vs-na-eerder-verbod.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238080</guid>
+            <pubDate>Thu, 14 Aug 2025 20:09:36 +0200</pubDate>
+        </item>
+        <item>
+            <title>Reuters: Meta&#039;s AI-beleid staat expliciet toe dat chatbot flirt met kinderen</title>
+            <link>https://tweakers.net/nieuws/238078/reuters-metas-ai-beleid-staat-expliciet-toe-dat-chatbot-flirt-met-kinderen.html</link>
+            <description>Meta staat toe dat zijn chatbot sensuele gesprekken met minderjarigen mag houden, medische onjuiste info mag verspreiden en mag claimen dat witte mensen slimmer zijn dan mensen met een gekleurde huid. Dat zou blijken uit een intern beleidsdocument van het bedrijf.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Websites en community&#039;s</category>
+            <comments>https://tweakers.net/nieuws/238078/reuters-metas-ai-beleid-staat-expliciet-toe-dat-chatbot-flirt-met-kinderen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238078</guid>
+            <pubDate>Thu, 14 Aug 2025 19:11:55 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Zotero 7.0.23</title>
+            <link>https://tweakers.net/downloads/73652/zotero-7023.html</link>
+            <description>Versie 7.0.23 van Zotero is uitgekomen. Dit programma is bedoeld voor het beheren van bibliografische gegevens en gerelateerde onderzoeksmaterialen. De functies omvatten webbrowserintegratie, online synchronisatie, het genereren van citaten in de tekst, voetnoten en bibliografieën, geïntegreerde PDF-, ePUB- en HTML-lezers met annotatiemogelijkheden, een notitie-editor en integratie met de tekstverwerkers Microsoft Word, LibreOffice Writer en Google Docs. Zotero is beschikbaar voor Windows, Linux, macOS, Android en iOS. De gratis versie heeft 300MB opslag en voor meer opslag of toegang voor teams wordt een kleine vergoeding gevraagd. De changelog sinds versie 7.0.23 kan hieronder worden gevonden. Changes in 7.0.23:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73652/zotero-7023.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73652</guid>
+            <pubDate>Thu, 14 Aug 2025 19:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Streamingdienst Canal+ biedt geen ESPN-zenders meer aan voor nieuwe klanten</title>
+            <link>https://tweakers.net/nieuws/238076/streamingdienst-canal+-biedt-geen-espn-zenders-meer-aan-voor-nieuwe-klanten.html</link>
+            <description>Streamingdienst Canal+ biedt geen abonnement meer aan met het zenderpakket ESPN Compleet. Dat komt door een &#039;wijziging&#039; in het contract tussen beide partijen. Voor klanten die momenteel van dat abonnement gebruikmaken, verandert er &#039;voorlopig&#039; niets.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / IT Pro / Internet</category>
+            <comments>https://tweakers.net/nieuws/238076/streamingdienst-canal+-biedt-geen-espn-zenders-meer-aan-voor-nieuwe-klanten.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238076</guid>
+            <pubDate>Thu, 14 Aug 2025 18:00:22 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - VirtualBox 7.2.0</title>
+            <link>https://tweakers.net/downloads/73650/virtualbox-720.html</link>
+            <description>Oracle heeft versie 7.2.0 van VirtualBox uitgebracht. VirtualBox kan worden gebruikt om andere besturingssystemen als een virtuele machine op een computer te installeren. Daardoor is het mogelijk om verschillende besturingssystemen op dezelfde hardware naast elkaar en tegelijkertijd te gebruiken. VirtualBox is beschikbaar voor Windows, macOS, Linux en Solaris, en is in staat om diverse gastbesturingssystemen te draaien. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: This is a major update. The following new features were added:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73650/virtualbox-720.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73650</guid>
+            <pubDate>Thu, 14 Aug 2025 17:30:05 +0200</pubDate>
+        </item>
+        <item>
+            <title>WeTransfer-klanten klagen over bijna verdubbeling prijzen zonder waarschuwing</title>
+            <link>https://tweakers.net/nieuws/238066/wetransfer-klanten-klagen-over-bijna-verdubbeling-prijzen-zonder-waarschuwing.html</link>
+            <description>WeTransfer ziet weliswaar af van AI-training op gebruikerscontent, maar heeft wel de prijzen voor dit jaar verhoogd. Klanten klagen over een bijna verdubbeling van de kosten en zeggen daarover geen melding te hebben gekregen.</description>
+            <author>Jasper Bakker</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/238066/wetransfer-klanten-klagen-over-bijna-verdubbeling-prijzen-zonder-waarschuwing.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238066</guid>
+            <pubDate>Thu, 14 Aug 2025 17:10:39 +0200</pubDate>
+        </item>
+        <item>
+            <title>AP deelt eerste boete aan individu uit, maar rechter verlaagt boetebedrag</title>
+            <link>https://tweakers.net/nieuws/238074/ap-deelt-eerste-boete-aan-individu-uit-maar-rechter-verlaagt-boetebedrag.html</link>
+            <description>De Autoriteit Persoonsgegevens heeft in 2020 een boete opgelegd aan een faillissementscurator die een harde schijf met medische gegevens had verkocht. Die boete wordt nu pas openbaar, omdat de curator tegen de boete in beroep was gegaan. De rechter oordeelt dat de Nederlandse toezichthouder te hard strafte. Het is de zoveelste tik op de vingers voor de AP.</description>
+            <author>Tijs Hofmans</author>
+            <category>Nieuws / IT Pro / Privacy</category>
+            <comments>https://tweakers.net/nieuws/238074/ap-deelt-eerste-boete-aan-individu-uit-maar-rechter-verlaagt-boetebedrag.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238074</guid>
+            <pubDate>Thu, 14 Aug 2025 16:44:32 +0200</pubDate>
+        </item>
+        <item>
+            <title>Australische rechter: Apple en Google misbruiken marktmacht met appstores</title>
+            <link>https://tweakers.net/nieuws/238072/australische-rechter-apple-en-google-misbruiken-marktmacht-met-appstores.html</link>
+            <description>Apple en Google overtreden de Australische mededingingswet met hun appstorebeleid, zo heeft een Australische rechter geoordeeld. Epic Games schrijft dat door de uitspraak de Epic Games Store en Fortnite op iOS beschikbaar zullen zijn in Australië.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Politiek en recht</category>
+            <comments>https://tweakers.net/nieuws/238072/australische-rechter-apple-en-google-misbruiken-marktmacht-met-appstores.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238072</guid>
+            <pubDate>Thu, 14 Aug 2025 16:44:20 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - The Bat! 11.4.3.0</title>
+            <link>https://tweakers.net/downloads/73646/the-bat-11430.html</link>
+            <description>Versie 11.4.3.0 van de e-mailclient The Bat! is uitgekomen. Het programma heeft alles wat je van een moderne e-mailclient mag verwachten, zoals het automatisch kunnen sorteren, beantwoorden of doorsturen van e-mail en het met vertraging kunnen versturen van e-mails. Er zijn diverse e-mailthema&#039;s, waarbij ook van macro&#039;s gebruikgemaakt kan worden. In deze uitgave zijn de volgende veranderingen en verbeteringen doorgevoerd: New macro set in The Bat! v11.4.3</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73646/the-bat-11430.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73646</guid>
+            <pubDate>Thu, 14 Aug 2025 15:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>&#039;Signify toont nieuwe Hue-deurbel en geeft details over Sonos-integratie&#039;</title>
+            <link>https://tweakers.net/nieuws/238070/signify-toont-nieuwe-hue-deurbel-en-geeft-details-over-sonos-integratie.html</link>
+            <description>Signify lijkt te werken aan verschillende nieuwe Philips Hue-lampen. Het toonde op zijn website een nieuwe Hue Bridge, een slimme deurbel en verschillende nieuwe lampen en ledstrips. Daarnaast geeft het bedrijf details over de stembesturing van Hue-producten via Sonos-apparaten.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / Beeld en geluid / Basisstations</category>
+            <comments>https://tweakers.net/nieuws/238070/signify-toont-nieuwe-hue-deurbel-en-geeft-details-over-sonos-integratie.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238070</guid>
+            <pubDate>Thu, 14 Aug 2025 13:42:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Camtasia 25.2.2</title>
+            <link>https://tweakers.net/downloads/73648/camtasia-2522.html</link>
+            <description>TechSmith heeft versie 2025.2.2 van Camtasia uitgebracht. Met dit programma, wat voor Windows en macOS beschikbaar is, kunnen op een eenvoudige manier video&#039;s voor onder meer trainingen en presentaties worden gemaakt. Het kan op aparte sporen de microfoon, de webcam, wat er op het beeldscherm gebeurt, het geluid dat op de computer wordt afgespeeld en de invoer van muis en toetsenbord opnemen. Dit alles kan vervolgens afzonderlijk worden bewerkt en verder kunnen er effecten aan worden toegevoegd om zo professionele video&#039;s te maken. Voor meer informatie verwijzen we naar deze pagina, waar alle mogelijkheden op een rijtje worden gezet. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Feature Updates</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73648/camtasia-2522.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73648</guid>
+            <pubDate>Thu, 14 Aug 2025 13:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Notepad++ 8.8.5</title>
+            <link>https://tweakers.net/downloads/73644/notepad++-885.html</link>
+            <description>Versie 8.8.5 van Notepad++ is uitgekomen ter vervanging van 8.8.4 die wegens een probleem was teruggetrokken. Deze uitgebreide teksteditor heeft diverse mogelijkheden die vooral voor programmeurs handig zijn, zoals syntaxhighlighting voor onder andere C, C++, Java, HTML, XML en PHP. Ook biedt het programma de mogelijkheid om meer dan één document tegelijk te bewerken of één document op twee verschillende plaatsen te onderhouden. Wie de nieuwste versie wil gebruiken, moet deze zelf downloaden. De ingebouwde updater van Notepad++ biedt updates namelijk pas een week na hun verschijnen aan om eventuele ernstige bugs nog te kunnen oplossen. In deze uitgave zijn de volgende veranderingen aangebracht: Notepad++ v8.8.5 regression-fix:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73644/notepad++-885.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73644</guid>
+            <pubDate>Thu, 14 Aug 2025 12:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>FortiSIEM bevat kritieke kwetsbaarheid die actief misbruikt wordt</title>
+            <link>https://tweakers.net/nieuws/238064/fortisiem-bevat-kritieke-kwetsbaarheid-die-actief-misbruikt-wordt.html</link>
+            <description>Fortinet waarschuwt gebruikers voor een Kritiek beveiligingslek in de FortiSIEM-software. Het gaat om een OS-commandinjectionkwetsbaarheid, waardoor gebruikers ongewenste commando&#039;s op het besturingssysteem kunnen uitvoeren.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
+            <comments>https://tweakers.net/nieuws/238064/fortisiem-bevat-kritieke-kwetsbaarheid-die-actief-misbruikt-wordt.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238064</guid>
+            <pubDate>Thu, 14 Aug 2025 11:59:56 +0200</pubDate>
+        </item>
+        <item>
+            <title>Bloomberg: Apple wil in 2027 tafelrobot &#039;als Clippy&#039; introduceren</title>
+            <link>https://tweakers.net/nieuws/238062/bloomberg-apple-wil-in-2027-tafelrobot-als-clippy-introduceren.html</link>
+            <description>Apple wil in 2027 een tafelrobot op de markt brengen, meldt Bloomberg. Het bedrijf ziet de robot volgens bronnen van journalist Mark Gurman als &#039;middelpunt van de AI-strategie&#039;. Volgend jaar wil Apple naar verluidt een nieuwe slimme luidspreker uitbrengen.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/nieuws/238062/bloomberg-apple-wil-in-2027-tafelrobot-als-clippy-introduceren.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238062</guid>
+            <pubDate>Thu, 14 Aug 2025 10:48:46 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Fan Control 231</title>
+            <link>https://tweakers.net/downloads/73642/fan-control-231.html</link>
+            <description>Versie 231 van Fan Control is uitgekomen. Met dit programma kunnen de ventilators in de computer worden beheerd en in de gaten worden gehouden. Zo is het onder meer mogelijk om met verschillende profielen en configuraties de computer koel of juist stil te houden. Fan Control kan overweg met de meeste fans en controllers en via een plug-insysteem is dat verder uit te breiden. Hoewel het gebruikmaakt van het opensource Libre Hardware Monitor-project, wordt het programma zelf als freeware aangeboden. In deze uitgave is onder meer het probleem verholpen dat de configuratie kon worden gewist als de computer in slaap viel. Changelog for version 231:</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73642/fan-control-231.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73642</guid>
+            <pubDate>Thu, 14 Aug 2025 10:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Trump-regering heft exportverbod op H20-chips deels op tegen omzetafdracht</title>
+            <link>https://tweakers.net/nieuws/238058/trump-regering-heft-exportverbod-op-h20-chips-deels-op-tegen-omzetafdracht.html</link>
+            <description>De Amerikaanse minister van Financiën bevestigt dat Nvidia en AMD een deal met de Amerikaanse regering hebben gesloten om toch bepaalde chips te mogen leveren aan China. De twee betalen daarvoor vijftien procent van hun omzet in China. De minister ziet een model in deze deal.</description>
+            <author>Jasper Bakker</author>
+            <category>Nieuws / IT Pro / Marktontwikkelingen</category>
+            <comments>https://tweakers.net/nieuws/238058/trump-regering-heft-exportverbod-op-h20-chips-deels-op-tegen-omzetafdracht.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238058</guid>
+            <pubDate>Thu, 14 Aug 2025 09:58:08 +0200</pubDate>
+        </item>
+        <item>
+            <title>Game Mania mist beloofde heropening webshop op 13 augustus</title>
+            <link>https://tweakers.net/nieuws/238060/game-mania-mist-beloofde-heropening-webshop-op-13-augustus.html</link>
+            <description>De webshop van Game Mania is nog niet heropend, hoewel eerder een openingsdatum van 13 augustus werd gecommuniceerd. De reden is niet bekend. Het is niet de eerste keer dat de openingsdatum is uitgesteld.</description>
+            <author>Kevin Krikhaar</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/238060/game-mania-mist-beloofde-heropening-webshop-op-13-augustus.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238060</guid>
+            <pubDate>Thu, 14 Aug 2025 09:39:20 +0200</pubDate>
+        </item>
+        <item>
+            <title>Starlink vervangt gratis pauzeerfunctie door stand-bymodus van 5 euro per maand</title>
+            <link>https://tweakers.net/nieuws/238056/starlink-vervangt-gratis-pauzeerfunctie-door-stand-bymodus-van-5-euro-per-maand.html</link>
+            <description>Starlink heeft zijn pauzeerfunctie vervangen door de stand-bymodus. Die geeft gebruikers toegang tot onbeperkte data met een lage snelheid, die zij zouden kunnen inzetten voor noodberichten, software-updates van Starlink en reactivering. De stand-bymodus kost vijf euro per maand.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / IT Pro / Internettoegang</category>
+            <comments>https://tweakers.net/nieuws/238056/starlink-vervangt-gratis-pauzeerfunctie-door-stand-bymodus-van-5-euro-per-maand.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238056</guid>
+            <pubDate>Thu, 14 Aug 2025 09:27:32 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - PowerToys 0.93.0</title>
+            <link>https://tweakers.net/downloads/73636/powertoys-0930.html</link>
+            <description>Microsoft heeft versie 0.93.0 van PowerToys uitgebracht. De PowerToys zijn een verzameling kleine programma&#039;s voor powerusers. Er waren PowerToys voor Windows 95 en Windows XP, en sinds halverwege 2019 is Microsoft ook bezig met de ontwikkeling van een versie voor Windows 10 en hoger. De PowerToys bestaan onder meer uit Awake, Color Picker, FancyZones, File Explorer Add-ons, Image Resizer, Keyboard Manager, PowerRename, PowerToys Run, Shortcut Guide en de Video Conference Mute. In deze uitgave zijn de volgende veranderingen en verbeteringen aangebracht: Highlights</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73636/powertoys-0930.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73636</guid>
+            <pubDate>Thu, 14 Aug 2025 09:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Achtergrond - Wie bezit Commodore écht? Youtuber en Italiaanse bedrijven claimen het icoon</title>
+            <link>https://tweakers.net/reviews/13634/wie-bezit-commodore-echt-youtuber-en-italiaanse-bedrijven-claimen-het-icoon.html</link>
+            <description>Youtuber Perifractic heeft naar eigen zeggen het oude computermerk Commodore gekocht, maar wat bezit hij nu precies?</description>
+            <author>Kevin Krikhaar</author>
+            <category>Achtergrond / IT Pro / Bedrijfsnieuws</category>
+            <comments>https://tweakers.net/reviews/13634/wie-bezit-commodore-echt-youtuber-en-italiaanse-bedrijven-claimen-het-icoon.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13634</guid>
+            <pubDate>Thu, 14 Aug 2025 08:45:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Netflix brengt nieuwe interface voor Apple TV uit</title>
+            <link>https://tweakers.net/nieuws/238054/netflix-brengt-nieuwe-interface-voor-apple-tv-uit.html</link>
+            <description>Netflix heeft het nieuwe ontwerp van zijn Apple TV-app uitgebracht. In mei kondigde het bedrijf aan dat het zijn interface zou vernieuwen. Die nieuwe interface wordt nu beschikbaar gemaakt voor tvOS-gebruikers.</description>
+            <author>Imre Himmelbauer</author>
+            <category>Nieuws / Beeld en geluid / Mediaspelers</category>
+            <comments>https://tweakers.net/nieuws/238054/netflix-brengt-nieuwe-interface-voor-apple-tv-uit.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238054</guid>
+            <pubDate>Thu, 14 Aug 2025 08:34:49 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Plan - Tweakers Developers Summit 2025: earlybirdtickets en eerste aankondigingen</title>
+            <link>https://tweakers.net/plan/4476/tweakers-developers-summit-2025-earlybirdtickets-en-eerste-aankondigingen.html</link>
+            <description>De aankondiging waarvan je wist dat ‘ie zou komen: de earlybirdkaartverkoop voor de Tweakers Developers Summit 2025 is gestart. Weet je nu al dat je bij hét techevent van het jaar - op dinsdag 28 oktober 2025 in DeFabrique in Utrecht - aanwezig wilt zijn? Scoor dan onderaan dit artikel je kaartjes en bespaar flink op de kosten.</description>
+            <author>Tweakers Partners</author>
+            <category>.plan</category>
+            <comments>https://tweakers.net/plan/4476/tweakers-developers-summit-2025-earlybirdtickets-en-eerste-aankondigingen.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/plan/4476</guid>
+            <pubDate>Thu, 14 Aug 2025 08:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - WinUAE 6.0.1</title>
+            <link>https://tweakers.net/downloads/73634/winuae-601.html</link>
+            <description>Versie 6.0.1 van WinUAE is uitgekomen. Deze Windows-port van de UAE Amiga-emulator is in staat om een Commodore Amiga perfect te emuleren. Alle modellen, vanaf de allereerste Amiga 1000 tot en met de Amiga 4000, worden ondersteund. Hou er wel rekening mee dat WinUAE wordt geleverd zonder kickstart, bij wijze van spreken het bios/de firmware van een Amiga, of andere software. Meer informatie kan op het supportforum worden gevonden. WinUAE draait op Windows XP en hoger, en de download is slechts 10MB groot. Voor een kickstart en programma&#039;s is Amiga Forever een mogelijke oplossing, met prijzen vanaf 10 euro. De changelog voor deze uitgave kan hieronder worden gevonden. Bugs fixed</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73634/winuae-601.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73634</guid>
+            <pubDate>Thu, 14 Aug 2025 07:30:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Best Buy Guide - Beste kleuren-e-reader - E-reader Best Buy Guide</title>
+            <link>https://tweakers.net/best-buy-guide/e-readers/beste-kleuren-e-reader</link>
+            <description>In deze Best Buy Guide kijken we welke e-reader je het beste kunt kopen als je er een wilt met een kleurenscherm.</description>
+            <author>Jelle Stuip</author>
+            <category>Best Buy Guide / Tablets en telefoons / E-readers</category>
+            <comments>https://tweakers.net/best-buy-guide/e-readers/beste-kleuren-e-reader#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/best-buy-guide/e-readers/beste-kleuren-e-reader</guid>
+            <pubDate>Thu, 14 Aug 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Video - Hackerscampings, slimme planten en kleuren-e-readers - Tweakers Podcast #386</title>
+            <link>https://tweakers.net/video/20044/hackerscampings-slimme-planten-en-kleuren-e-readers-tweakers-podcast-386.html</link>
+            <description>Deze week praten Wout Funnekotter, Jelle Stuip en Tijs Hofmans over de Nintendo DS, wat zich afspeelt op hackerscamping WHY, hoe je de gezondheid van je planten uitleest met slimme sensors en wie een e-reader met kleur zou moeten overwegen.</description>
+            <author>Mark van der Kruit</author>
+            <category>Video / Beeld en geluid / Audio</category>
+            <comments>https://tweakers.net/video/20044/hackerscampings-slimme-planten-en-kleuren-e-readers-tweakers-podcast-386.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/video/20044</guid>
+            <pubDate>Thu, 14 Aug 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>.Geek - Hackerscampings, slimme planten en kleuren-e-readers - Tweakers Podcast #386</title>
+            <link>https://tweakers.net/geek/238038/hackerscampings-slimme-planten-en-kleuren-e-readers-tweakers-podcast-386.html</link>
+            <description>Deze week praten Wout Funnekotter, Jelle Stuip en Tijs Hofmans over de Nintendo DS, wat zich afspeelt op hackerscamping WHY, hoe je de gezondheid van je planten uitleest met slimme sensors en wie een e-reader met kleur zou moeten overwegen.</description>
+            <author>Wout Funnekotter</author>
+            <category>.Geek / Beeld en geluid / Audio</category>
+            <comments>https://tweakers.net/geek/238038/hackerscampings-slimme-planten-en-kleuren-e-readers-tweakers-podcast-386.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/geek/238038</guid>
+            <pubDate>Thu, 14 Aug 2025 06:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Quicktest - Home Assistant Connect ZWA-2 - Ongegeneerd groot, onovertroffen bereik</title>
+            <link>https://tweakers.net/reviews/13646/home-assistant-connect-zwa-2-ongegeneerd-groot-onovertroffen-bereik.html</link>
+            <description>In deze quicktest bekijken we de nieuwe Home Assistant Connect ZWA-2 Z-Wave-controller. Het apparaat is veel groter dan gebruikelijk en heeft een enorme antenne. Is dat beter?</description>
+            <author>Olaf Weijers</author>
+            <category>Quicktest / Beeld en geluid / Interfaces</category>
+            <comments>https://tweakers.net/reviews/13646/home-assistant-connect-zwa-2-ongegeneerd-groot-onovertroffen-bereik.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/reviews/13646</guid>
+            <pubDate>Wed, 13 Aug 2025 22:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Nabu Casa introduceert zijn eerste eigen Z-Wave-controller voor Home Assistant</title>
+            <link>https://tweakers.net/nieuws/238040/nabu-casa-introduceert-zijn-eerste-eigen-z-wave-controller-voor-home-assistant.html</link>
+            <description>Home Assistant-moederbedrijf Nabu Casa heeft woensdagavond zijn nieuwe Z-Wave-adapter geïntroduceerd: de Home Assistant Connect ZWA-2. Hiermee kunnen gebruikers hun smarthomeplatform uitbreiden met Z-Wave-ondersteuning.</description>
+            <author>Olaf Weijers</author>
+            <category>Nieuws / Beeld en geluid / Interfaces</category>
+            <comments>https://tweakers.net/nieuws/238040/nabu-casa-introduceert-zijn-eerste-eigen-z-wave-controller-voor-home-assistant.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238040</guid>
+            <pubDate>Wed, 13 Aug 2025 22:00:00 +0200</pubDate>
+        </item>
+        <item>
+            <title>Xbox-app voor Windows kan binnenkort ook lokaal games spelen op Arm-pc&#039;s</title>
+            <link>https://tweakers.net/nieuws/238052/xbox-app-voor-windows-kan-binnenkort-ook-lokaal-games-spelen-op-arm-pcs.html</link>
+            <description>De Xbox-app voor Windows kan binnenkort lokaal games draaien op pc&#039;s met een Arm-chip. Gebruikers kunnen daarmee bijvoorbeeld bepaalde Game Pass-titels op hun apparaat zelf spelen. Momenteel kan de Xbox-app voor Arm-pc&#039;s alleen gebruikt worden voor cloudgaming.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Gaming / Games</category>
+            <comments>https://tweakers.net/nieuws/238052/xbox-app-voor-windows-kan-binnenkort-ook-lokaal-games-spelen-op-arm-pcs.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238052</guid>
+            <pubDate>Wed, 13 Aug 2025 20:59:51 +0200</pubDate>
+        </item>
+        <item>
+            <title>Software-update - Go 1.25</title>
+            <link>https://tweakers.net/downloads/73640/go-125.html</link>
+            <description>Go, ook aangeduid als golang, is een programmeertaal die oorspronkelijk door Google is ontworpen en veel wordt gebruikt voor het bouwen van webservices en grote projecten, zoals bijvoorbeeld Kubernetes. Go heeft dan ook een vaste plaats in de top 10 van de Tiobe index van meest gebruikte programmeertalen. Go-code kan worden gecompileerd voor Android, Linux, macOS, FreeBSD en Windows, op i386-, amd64- en Arm-processorarchitecturen. De syntax van Go is vergelijkbaar met die van C en soortgelijke programmeertalen, hoewel er ook enkele opvallende verschillen zijn. Ook biedt Go de mogelijkheid voor gedistribueerd programmeren, waarbij verschillende processen tegelijk worden uitgevoerd. De complete releasenotes voor versie 1.25 zijn op deze pagina te vinden; dit is de aankondiging voor deze uitgave: Introduction to Go 1.25</description>
+            <author>Bart van Klaveren</author>
+            <category>Software</category>
+            <comments>https://tweakers.net/downloads/73640/go-125.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/downloads/73640</guid>
+            <pubDate>Wed, 13 Aug 2025 20:33:29 +0200</pubDate>
+        </item>
+        <item>
+            <title>OneXPlayer voorziet Super X-&#039;tablet&#039; van AMD Ryzen AI Max+-chip met 16 cpu-cores</title>
+            <link>https://tweakers.net/nieuws/238050/onexplayer-voorziet-super-x-tablet-van-amd-ryzen-ai-max+-chip-met-16-cpu-cores.html</link>
+            <description>Chinese fabrikant OneXPlayer komt met een nieuwe &#039;gamingtablet&#039;, de Super X. Dit 14&quot;-apparaat beschikt over een Ryzen AI Max+ 395-apu van AMD, met zestien Zen 5-cores en een igpu met veertig compute-units. Het bedrijf deelt geen adviesprijs of releasedatum.</description>
+            <author>Daan van Monsjou</author>
+            <category>Nieuws / Computers / Laptops en systemen</category>
+            <comments>https://tweakers.net/nieuws/238050/onexplayer-voorziet-super-x-tablet-van-amd-ryzen-ai-max+-chip-met-16-cpu-cores.html#reacties</comments>
+            <guid isPermaLink="false">https://tweakers.net/nieuws/238050</guid>
+            <pubDate>Wed, 13 Aug 2025 20:19:13 +0200</pubDate>
+        </item>
+    </channel>
+</rss>
