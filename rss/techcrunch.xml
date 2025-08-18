@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Sun, 17 Aug 2025 21:08:37 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Aug 2025 13:04:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,60 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>HR giant Workday says hackers stole personal data in recent breach</title>
+		<link>https://techcrunch.com/2025/08/18/hr-giant-workday-says-hackers-stole-personal-data-in-recent-breach/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Mon, 18 Aug 2025 13:04:10 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[human resources]]></category>
+		<category><![CDATA[Salesforce]]></category>
+		<category><![CDATA[Workday]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3037466</guid>
+
+					<description><![CDATA[The HR tech giant said it had no indication of any unauthorized access to customer systems, but has not ruled out a breach affecting customers' personal information.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Perplexity now supports live earnings call transcripts for Indian stocks</title>
+		<link>https://techcrunch.com/2025/08/18/perplexity-now-supports-live-earnings-call-transcripts-for-indian-stocks/</link>
+		
+		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
+		<pubDate>Mon, 18 Aug 2025 13:02:56 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[earnings call transcripts]]></category>
+		<category><![CDATA[Perplexity]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3037451</guid>
+
+					<description><![CDATA[AI startup Perplexity is augmenting its Finance dashboard with the ability to transcribe Indian public companies' quarterly earnings calls live, as well as show schedules for post-results conference calls. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Grammarly gets a design overhaul, multiple AI features</title>
+		<link>https://techcrunch.com/2025/08/18/grammarly-gets-a-design-overhaul-multiple-ai-features/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Mon, 18 Aug 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[coda]]></category>
+		<category><![CDATA[grammarly]]></category>
+		<category><![CDATA[ai writing]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3037445</guid>
+
+					<description><![CDATA[Grammarly now has a new document-based interface, built on the back of Coda, the productivity startup it acquired last year. The interface also sports an AI assistant, as well as a few AI tools meant for students and professionals, including an AI grader, proofreader and citation finder.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>GPT-5 is supposed to be nicer now</title>
 		<link>https://techcrunch.com/2025/08/17/gpt-5-is-supposed-to-be-nicer-now/</link>
 		
@@ -330,68 +384,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3037234</guid>
 
 					<description><![CDATA[On average, the app is generating close to $193 million per month, up from $25 million last year.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Louisiana attorney general sues Roblox</title>
-		<link>https://techcrunch.com/2025/08/15/louisiana-attorney-general-sues-roblox/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Fri, 15 Aug 2025 14:43:20 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[lawsuits]]></category>
-		<category><![CDATA[Roblox]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3037219</guid>
-
-					<description><![CDATA[The lawsuit points to several sexually explicit experiences that were on the platform, including “Escape to Epstein Island,” “Diddy Party,” and “Public Bathroom Simulator Vibe."]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meet the first batch of VCs set to judge Startup Battlefield 200 at TechCrunch Disrupt 2025</title>
-		<link>https://techcrunch.com/2025/08/15/meet-the-first-batch-of-vcs-set-to-judge-startup-battlefield-200-at-techcrunch-disrupt-2025/</link>
-		
-		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
-		<pubDate>Fri, 15 Aug 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[TechCrunch Disrupt]]></category>
-		<category><![CDATA[Startup Battlefield 200]]></category>
-		<category><![CDATA[TechCrunch Disrupt 2025]]></category>
-		<category><![CDATA[Disrupt 2025]]></category>
-		<category><![CDATA[TC Event Promo]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3037196</guid>
-
-					<description><![CDATA[Startup Battlefield 200 is the crown jewel of TechCrunch Disrupt. From thousands of applicants, only the top 20 will take the Stage at Disrupt 2025 (October 27-29, San Francisco) to pitch their vision to panels of top-tier VCs in front of a live audience. Every contender is chasing game-changing impact — and we’re here for the drama, the breakthroughs, and the big reveals.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US government is reportedly in discussions to take stake in Intel</title>
-		<link>https://techcrunch.com/2025/08/14/u-s-government-is-reportedly-in-discussions-to-take-stake-in-intel/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Thu, 14 Aug 2025 20:38:20 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Intel]]></category>
-		<category><![CDATA[semiconductors]]></category>
-		<category><![CDATA[AI chips]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Trump Administration]]></category>
-		<category><![CDATA[Lip-bu Tan]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3037155</guid>
-
-					<description><![CDATA[This deal would be meant to help Intel bulk up its U.S. chip manufacturing, including its much-delayed Ohio factory.]]></description>
 		
 		
 		
