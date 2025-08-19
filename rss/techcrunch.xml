@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 19 Aug 2025 11:23:48 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 19 Aug 2025 13:33:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,39 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>TikTok’s latest feature lets college students find and connect with classmates</title>
+		<link>https://techcrunch.com/2025/08/19/tiktoks-latest-feature-lets-college-students-find-and-connect-with-classmates/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Tue, 19 Aug 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[TikTok]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3037495</guid>
+
+					<description><![CDATA[In a move reminiscent of Facebook's early days, TikTok is launching a new feature that allows college students to find and connect with others on their campus. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nvidia said to be developing new, more powerful AI chip for sale in China</title>
+		<link>https://techcrunch.com/2025/08/19/nvidia-said-to-be-developing-new-more-powerful-ai-chip-for-sale-in-china/</link>
+		
+		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
+		<pubDate>Tue, 19 Aug 2025 12:58:28 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[AI chip race]]></category>
+		<category><![CDATA[H20]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3037811</guid>
+
+					<description><![CDATA[Nvidia is apparently putting together a new AI chip meant for sale in China that's half as powerful as its flagship B300 Blackwell GPU. The new chip would be more powerful than the H20 GPUs the company is currently allowed to sell in the country.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Figure&#8217;s IPO filing marks Mike Cagney&#8217;s return to public markets</title>
 		<link>https://techcrunch.com/2025/08/19/figures-ipo-filing-marks-mike-cagneys-return-to-public-markets/</link>
 		
@@ -357,43 +390,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3037478</guid>
 
 					<description><![CDATA[Linktree is "investigating" an issue that has made its link-in-bio platform inaccessible in India for several days.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>HR giant Workday says hackers stole personal data in recent breach</title>
-		<link>https://techcrunch.com/2025/08/18/hr-giant-workday-says-hackers-stole-personal-data-in-recent-breach/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Mon, 18 Aug 2025 13:04:10 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[human resources]]></category>
-		<category><![CDATA[Salesforce]]></category>
-		<category><![CDATA[Workday]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3037466</guid>
-
-					<description><![CDATA[The HR tech giant said it had no indication of any unauthorized access to customer systems, but has not ruled out a breach affecting customers' personal information.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Perplexity now supports live earnings call transcripts for Indian stocks</title>
-		<link>https://techcrunch.com/2025/08/18/perplexity-now-supports-live-earnings-call-transcripts-for-indian-stocks/</link>
-		
-		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
-		<pubDate>Mon, 18 Aug 2025 13:02:56 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[earnings call transcripts]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Perplexity]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3037451</guid>
-
-					<description><![CDATA[AI startup Perplexity is augmenting its Finance dashboard with the ability to transcribe Indian public companies' quarterly earnings calls live, as well as show schedules for post-results conference calls. ]]></description>
 		
 		
 		
