@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 19 Aug 2025 13:33:47 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 19 Aug 2025 14:25:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,46 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>US spy chief says UK has dropped its Apple backdoor demand</title>
+		<link>https://techcrunch.com/2025/08/19/us-spy-chief-says-uk-has-dropped-its-apple-backdoor-demand/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Tue, 19 Aug 2025 14:25:33 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Advanced Data Protection]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[apple icloud backdoor]]></category>
+		<category><![CDATA[backdoor]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[iCloud]]></category>
+		<category><![CDATA[privacy]]></category>
+		<category><![CDATA[United Kingdom]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3037824</guid>
+
+					<description><![CDATA[Tulsi Gabbard said that President Donald Trump and Vice President JD Vance also participated in the negotiations with the U.K. government over its once-secret demand to Apple.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CPG startup Keychain snags $30M to build in India, grow in the U.S.</title>
+		<link>https://techcrunch.com/2025/08/19/cpg-startup-keychain-snags-30m-to-build-in-india-grow-in-the-u-s/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Tue, 19 Aug 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Keychain]]></category>
+		<category><![CDATA[KeychainOS]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3037595</guid>
+
+					<description><![CDATA[Keychain doesn't have a single customer in India — but the team helping it scale across North America and beyond is entirely based in Gurugram, a suburb of New Delhi.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>TikTok’s latest feature lets college students find and connect with classmates</title>
 		<link>https://techcrunch.com/2025/08/19/tiktoks-latest-feature-lets-college-students-find-and-connect-with-classmates/</link>
 		
@@ -103,8 +143,8 @@
 		
 		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
 		<pubDate>Tue, 19 Aug 2025 10:00:00 +0000</pubDate>
-				<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Apps]]></category>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
 		<category><![CDATA[Music]]></category>
 		<category><![CDATA[Spotify]]></category>
 		<category><![CDATA[streaming]]></category>
@@ -138,9 +178,9 @@
 		
 		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
 		<pubDate>Tue, 19 Aug 2025 03:57:15 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[AI]]></category>
 		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[TC]]></category>
 		<category><![CDATA[ChatGPT]]></category>
 		<category><![CDATA[India]]></category>
 		<category><![CDATA[OpenAI]]></category>
@@ -348,48 +388,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3037496</guid>
 
 					<description><![CDATA[The website for xAI's Grok chatbot is exposing the system prompts for several of its AI personas, including a “crazy conspiracist” that seems designed to handhold a user into believing that "a secret global cabal" controls the world.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Why Paradigm built a spreadsheet with an AI agent in every cell</title>
-		<link>https://techcrunch.com/2025/08/18/why-paradigm-built-a-spreadsheet-with-an-ai-agent-in-every-cell/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Mon, 18 Aug 2025 15:00:55 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[artificial intelligence]]></category>
-		<category><![CDATA[enterprise startup]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[fundraising]]></category>
-		<category><![CDATA[General Catalyst]]></category>
-		<category><![CDATA[startup]]></category>
-		<category><![CDATA[startup fundraising]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3037350</guid>
-
-					<description><![CDATA[Paradigm raised a $5 million seed round and is releasing it's AI-powered spreadsheet to the general public. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Linktree goes dark in India — and the company isn&#8217;t sure why</title>
-		<link>https://techcrunch.com/2025/08/18/linktree-goes-dark-in-india-and-the-company-isnt-sure-why/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Mon, 18 Aug 2025 14:46:17 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Linktree]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3037478</guid>
-
-					<description><![CDATA[Linktree is "investigating" an issue that has made its link-in-bio platform inaccessible in India for several days.]]></description>
 		
 		
 		
