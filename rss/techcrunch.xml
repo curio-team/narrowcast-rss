@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 20 Aug 2025 11:17:03 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 20 Aug 2025 13:23:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,59 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Y Combinator alum SRE.ai raises $7.2M for DevOps AI agents</title>
+		<link>https://techcrunch.com/2025/08/20/sre-ai-launches-to-automate-complex-enterprise-workflows/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Wed, 20 Aug 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[devops]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3037892</guid>
+
+					<description><![CDATA[The company helps automate complex enterprise workflows (like continuous integration and testing) — or, in other words, it makes DevOps capabilities more efficient as AI technology takes hold. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>YC-backed Garage raises $13.5M to help firefighters buy equipment</title>
+		<link>https://techcrunch.com/2025/08/20/embargo-tomorrow-yc-backed-garage-raises-13-5m-to-help-firefighters-buy-equipment/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Wed, 20 Aug 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[venture]]></category>
+		<category><![CDATA[yc]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3037917</guid>
+
+					<description><![CDATA[Garage is a marketplace that sells specialized equipment commonly used in local governments and public safety.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Zoox taps ex-UberPool exec’s startup for routing software help</title>
+		<link>https://techcrunch.com/2025/08/20/zoox-taps-ex-uberpool-execs-startup-for-routing-software-help/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Wed, 20 Aug 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[autonomous vehicles]]></category>
+		<category><![CDATA[zoox]]></category>
+		<category><![CDATA[The Routing Company]]></category>
+		<category><![CDATA[robotaxis]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3038209</guid>
+
+					<description><![CDATA[It's the latest in a series of deals that have seen robotaxi companies look outward for help in scaling their fledgling networks.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Finally, Notion now works without an internet connection</title>
 		<link>https://techcrunch.com/2025/08/20/finally-notion-now-works-without-an-internet-connection/</link>
 		
@@ -355,62 +408,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3037811</guid>
 
 					<description><![CDATA[Nvidia is apparently putting together a new AI chip meant for sale in China that's half as powerful as its flagship B300 Blackwell GPU. The new chip would be more powerful than the H20 GPUs the company is currently allowed to sell in the country.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Figure&#8217;s IPO filing marks Mike Cagney&#8217;s return to public markets</title>
-		<link>https://techcrunch.com/2025/08/19/figures-ipo-filing-marks-mike-cagneys-return-to-public-markets/</link>
-		
-		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
-		<pubDate>Tue, 19 Aug 2025 11:23:41 +0000</pubDate>
-				<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[Figure Technology]]></category>
-		<category><![CDATA[IPO]]></category>
-		<category><![CDATA[Mike Cagney]]></category>
-		<category><![CDATA[SoFi]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3037774</guid>
-
-					<description><![CDATA[Figure Technology, a 7-year-old blockchain-based lending company, has filed a registration statement with the SEC for an IPO of its Class A common stock. The filing offers a chance at vindication for Figure co-founder Mike Cagney.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI crawler Firecrawl raises $14.5M, is still looking to hire agents as employees</title>
-		<link>https://techcrunch.com/2025/08/19/ai-crawler-firecrawl-raises-14-5m-is-still-looking-to-hire-agents-as-employees/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Tue, 19 Aug 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[AI agents]]></category>
-		<category><![CDATA[Nexus Venture Partners]]></category>
-		<category><![CDATA[Webcrawler]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3037706</guid>
-
-					<description><![CDATA[Firecrawl nabbed Shopify’s CEO Tobias Lütke as an investor from a gutsy email after they discovered he was using the product. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Spotify&#8217;s latest feature lets you add your own transitions to playlists</title>
-		<link>https://techcrunch.com/2025/08/19/spotifys-latest-feature-lets-you-add-your-own-transitions-to-playlists/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Tue, 19 Aug 2025 10:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[Music]]></category>
-		<category><![CDATA[Spotify]]></category>
-		<category><![CDATA[streaming]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3037491</guid>
-
-					<description><![CDATA[The new options are designed to appeal to playlist experts and other music fans, who have collectively created nearly 9 billion playlists on Spotify's platform to date.]]></description>
 		
 		
 		
