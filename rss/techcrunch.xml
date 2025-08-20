@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 20 Aug 2025 13:23:34 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 20 Aug 2025 14:24:16 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,94 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Dex is an AI-powered camera device that helps children learn new languages</title>
+		<link>https://techcrunch.com/2025/08/20/dex-is-an-ai-powered-camera-device-that-helps-children-learn-new-languages/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Wed, 20 Aug 2025 14:19:54 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[EdTech]]></category>
+		<category><![CDATA[kids]]></category>
+		<category><![CDATA[language learning]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3038077</guid>
+
+					<description><![CDATA[A new gadget called Dex allows kids to take pictures of objects and the AI translates the word into different languages.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Thousands of Grok chats are now searchable on Google</title>
+		<link>https://techcrunch.com/2025/08/20/thousands-of-grok-chats-are-now-searchable-on-google/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Wed, 20 Aug 2025 14:04:43 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[Grok]]></category>
+		<category><![CDATA[xAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3038227</guid>
+
+					<description><![CDATA[Whenever a Grok user clicks the “share” button on a conversation with the chatbot, it creates a unique URL that the user can use to share the conversation via email, text or on social media. According to Forbes, that also makes the URL indexable by search engines like Google, Bing, and DuckDuckGo, which in turn lets anyone look up those conversations on the web.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New zero-day startup offers $20 million for tools that can hack any smartphone</title>
+		<link>https://techcrunch.com/2025/08/20/new-zero-day-startup-offers-20-million-for-tools-that-can-hack-any-smartphone/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Wed, 20 Aug 2025 14:03:00 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[bugs]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[exploits]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[infosec]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[signal]]></category>
+		<category><![CDATA[Telegram]]></category>
+		<category><![CDATA[UAE]]></category>
+		<category><![CDATA[united arab emirates]]></category>
+		<category><![CDATA[WhatsApp]]></category>
+		<category><![CDATA[Zero-days]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3038101</guid>
+
+					<description><![CDATA[Prices for hacking tools that allow governments to break into mobile phones keep going up, thanks to efforts by tech firms shoring up their cybersecurity. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>FieldAI raises $405M to build universal robot brains</title>
+		<link>https://techcrunch.com/2025/08/20/fieldai-raises-405m-to-build-universal-robot-brains/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Wed, 20 Aug 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[robotics]]></category>
+		<category><![CDATA[startup fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3038120</guid>
+
+					<description><![CDATA[FieldAI builds foundational AI models that help all kinds of robots learn and adapt to new environments using physics. ]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Y Combinator alum SRE.ai raises $7.2M for DevOps AI agents</title>
 		<link>https://techcrunch.com/2025/08/20/sre-ai-launches-to-automate-complex-enterprise-workflows/</link>
 		
@@ -335,79 +423,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3037835</guid>
 
 					<description><![CDATA[Nuclear startup Aalo Atomics plans to turn on its first power plant, the 50-megawatt Aalo-X, in the summer of 2026. It's an aggressive timeline that bucks nuclear industry trends.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US spy chief says UK has dropped its Apple backdoor demand</title>
-		<link>https://techcrunch.com/2025/08/19/us-spy-chief-says-uk-has-dropped-its-apple-backdoor-demand/</link>
-		
-		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
-		<pubDate>Tue, 19 Aug 2025 14:25:33 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[Advanced Data Protection]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[apple icloud backdoor]]></category>
-		<category><![CDATA[backdoor]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[iCloud]]></category>
-		<category><![CDATA[privacy]]></category>
-		<category><![CDATA[United Kingdom]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3037824</guid>
-
-					<description><![CDATA[Tulsi Gabbard said that President Donald Trump and Vice President JD Vance also participated in the negotiations with the U.K. government over its once-secret demand to Apple.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CPG startup Keychain snags $30M to build in India, grow in the US</title>
-		<link>https://techcrunch.com/2025/08/19/cpg-startup-keychain-snags-30m-to-build-in-india-grow-in-the-u-s/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Tue, 19 Aug 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Keychain]]></category>
-		<category><![CDATA[KeychainOS]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3037595</guid>
-
-					<description><![CDATA[Keychain doesn't have a single customer in India — but the team helping it scale across North America and beyond is entirely based in Gurugram, a suburb of New Delhi.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TikTok’s latest feature lets college students find and connect with classmates</title>
-		<link>https://techcrunch.com/2025/08/19/tiktoks-latest-feature-lets-college-students-find-and-connect-with-classmates/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Tue, 19 Aug 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[TikTok]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3037495</guid>
-
-					<description><![CDATA[In a move reminiscent of Facebook's early days, TikTok is launching a new feature that allows college students to find and connect with others on their campus. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nvidia said to be developing new, more powerful AI chip for sale in China</title>
-		<link>https://techcrunch.com/2025/08/19/nvidia-said-to-be-developing-new-more-powerful-ai-chip-for-sale-in-china/</link>
-		
-		<dc:creator><![CDATA[Ram Iyer]]></dc:creator>
-		<pubDate>Tue, 19 Aug 2025 12:58:28 +0000</pubDate>
-				<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<category><![CDATA[H20]]></category>
-		<category><![CDATA[AI chip race]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3037811</guid>
-
-					<description><![CDATA[Nvidia is apparently putting together a new AI chip meant for sale in China that's half as powerful as its flagship B300 Blackwell GPU. The new chip would be more powerful than the H20 GPUs the company is currently allowed to sell in the country.]]></description>
 		
 		
 		
