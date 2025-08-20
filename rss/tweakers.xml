@@ -5,8 +5,8 @@
 <P>Your request was blocked by DPG Media's Web Application Firewall.</P>
 <P>For more information contact application support and specify: </P>
 <ul>
-  <li>Reference: 0.a5f7d517.1755689502.198c2add</li>
-  <li>ClientIP: 172.182.203.58</li>
+  <li>Reference: 0.a9813217.1755693792.6a30e69f</li>
+  <li>ClientIP: 74.235.151.2</li>
   <li><div id="url"></div></li>
 <script>document.getElementById('url').innerText = window.location.href; </script>
 </ul>
