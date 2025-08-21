@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 21 Aug 2025 12:36:37 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 21 Aug 2025 13:25:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Report: Meta is hitting pause on AI hiring after its poaching spree</title>
+		<link>https://techcrunch.com/2025/08/21/report-meta-is-hitting-pause-on-ai-hiring-after-its-poaching-spree/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Thu, 21 Aug 2025 13:25:15 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Mark Zuckerberg]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[meta superintelligence labs]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3038741</guid>
+
+					<description><![CDATA[The freeze went into effect last week, and it’s not clear how long it will last, The Journal’s sources say. Meta is still likely working through its reorg, which split its AI unit, Meta Superintelligence Labs, into four new groups: TBD Labs, run by former Scale AI founder Alexandr Wang, and three groups focused on research, product integration, and infrastructure, respectively. ]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Hackers who exposed North Korean government hacker explain why they did it</title>
 		<link>https://techcrunch.com/2025/08/21/hackers-who-exposed-north-korean-government-hacker-explain-why-they-did-it/</link>
 		
@@ -382,26 +400,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3038007</guid>
 
 					<description><![CDATA[The 41mm Pixel Watch 4 starts at $349 for Wi-Fi and $449 for LTE, while the 45mm version starts at $399 for Wi-Fi and $499 for LTE.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google launches a new Pixel Journal app</title>
-		<link>https://techcrunch.com/2025/08/20/google-launches-a-new-pixel-journal-app/</link>
-		
-		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
-		<pubDate>Wed, 20 Aug 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[gemini]]></category>
-		<category><![CDATA[PIXEL]]></category>
-		<category><![CDATA[journaling]]></category>
-		<category><![CDATA[Made by Google]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3038235</guid>
-
-					<description><![CDATA[Pixel Journal is a new journaling app from Google that uses on-device AI to suggest writing prompts.]]></description>
 		
 		
 		
