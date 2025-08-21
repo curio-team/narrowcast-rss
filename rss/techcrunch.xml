@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Thu, 21 Aug 2025 04:27:21 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 21 Aug 2025 12:36:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,45 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Hackers who exposed North Korean government hacker explain why they did it</title>
+		<link>https://techcrunch.com/2025/08/21/hackers-who-exposed-north-korean-government-hacker-explain-why-they-did-it/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Thu, 21 Aug 2025 12:30:00 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[infosec]]></category>
+		<category><![CDATA[hacktivist]]></category>
+		<category><![CDATA[Phrack]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3038651</guid>
+
+					<description><![CDATA[The two self-described hacktivists said they had access to the North Korean spy’s computer for around four months before deciding what they had found should be made public. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nvidia is latest investor to back AV startup Nuro in $203M funding round</title>
+		<link>https://techcrunch.com/2025/08/21/nvidia-is-latest-investor-to-back-av-startup-nuro-in-203m-funding-round/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Thu, 21 Aug 2025 12:30:00 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<category><![CDATA[Uber]]></category>
+		<category><![CDATA[nuro]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3038722</guid>
+
+					<description><![CDATA[Nuro has attracted more investors, and capital, to push its Series E round to $203 million. ]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Space is open for business with Even Rogers and Max Haot at TechCrunch Disrupt 2025</title>
 		<link>https://techcrunch.com/2025/08/20/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/</link>
 		
@@ -363,43 +402,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3038235</guid>
 
 					<description><![CDATA[Pixel Journal is a new journaling app from Google that uses on-device AI to suggest writing prompts.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>You can now talk to Google Photos to make your edits</title>
-		<link>https://techcrunch.com/2025/08/20/you-can-now-talk-to-google-photos-to-make-your-edits/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Wed, 20 Aug 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[Google Photos]]></category>
-		<category><![CDATA[photos]]></category>
-		<category><![CDATA[gemini]]></category>
-		<category><![CDATA[Made by Google]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3038267</guid>
-
-					<description><![CDATA[Google Photos introduces an "ask to edit" feature that lets you speak or text your edit requests.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google announces new AI-powered personal health and fitness coach for Fitbit</title>
-		<link>https://techcrunch.com/2025/08/20/google-announces-new-ai-powered-personal-health-and-fitness-coach-for-fitbit/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Wed, 20 Aug 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[fitbit]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[Made by Google]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3038308</guid>
-
-					<description><![CDATA[The tech giant says the new personal health coach is a fitness trainer, sleep coach, and wellness advisor all in one.]]></description>
 		
 		
 		
