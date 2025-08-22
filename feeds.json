@@ -1,24 +1,8 @@
 [
     {
-        "url": "https://techcrunch.com/feed/",
-        "title": "TechCrunch",
-        "logo": "images/techcrunch.png",
-        "showTitle": true,
-        "noImages": true,
-        "replace": {
-            "[&#8230;]": "..."
-        },
-        "replaceToFooter": "© 2024 TechCrunch. All rights reserved. For personal use only."
-    },
-    {
         "url": "https://tweakers.net/feeds/mixed.xml/direct",
         "title": "Tweakers",
         "logo": "images/tweakers.svg",
         "noImages": true
-    },
-    {
-        "url": "https://www.wired.com/feed/rss",
-        "title": "Wired",
-        "logo": "images/wired.png"
     }
 ]
