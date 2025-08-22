@@ -1,7 +1,6 @@
 [
     {
         "url": "https://techcrunch.com/feed",
-        "localUrl": "rss/techcrunch.xml",
         "title": "TechCrunch",
         "logo": "images/techcrunch.png",
         "showTitle": true,
@@ -13,14 +12,12 @@
     },
     {
         "url": "https://tweakers.net/feeds/mixed.xml/direct",
-        "localUrl": "rss/tweakers.xml",
         "title": "Tweakers",
         "logo": "images/tweakers.svg",
         "noImages": true
     },
     {
         "url": "https://www.wired.com/feed/rss",
-        "localUrl": "rss/wired.xml",
         "title": "Wired",
         "logo": "images/wired.png"
     }
