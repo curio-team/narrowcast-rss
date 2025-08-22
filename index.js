@@ -68,7 +68,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     async function displayRSSItems(feed) {
-        const items = await fetchLastThreeRSSItems(feed.localUrl);
+        const items = await fetchLastThreeRSSItems(feed.url);
 
         if (items.length === 0) {
             feedContainer.textContent = 'No items to display.';
